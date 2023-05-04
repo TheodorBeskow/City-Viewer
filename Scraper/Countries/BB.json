@@ -1,0 +1,4674 @@
+[
+    {
+        "name": "Bridgetown",
+        "country": "Barbados",
+        "province": "Saint Michael",
+        "population": 98511,
+        "latitude": 13.10732,
+        "longitude": -59.62021
+    },
+    {
+        "name": "Speightstown",
+        "country": "Barbados",
+        "province": "Saint Peter",
+        "population": 3634,
+        "latitude": 13.25072,
+        "longitude": -59.64396
+    },
+    {
+        "name": "Oistins",
+        "country": "Barbados",
+        "province": "Christ Church",
+        "population": 2285,
+        "latitude": 13.07067,
+        "longitude": -59.54637
+    },
+    {
+        "name": "Crane",
+        "country": "Barbados",
+        "province": "Saint Philip",
+        "population": 935,
+        "latitude": 13.10487,
+        "longitude": -59.44861
+    },
+    {
+        "name": "Holetown",
+        "country": "Barbados",
+        "province": "Saint James",
+        "population": 1350,
+        "latitude": 13.186718810391051,
+        "longitude": -59.63808059692383
+    },
+    {
+        "name": "Bathsheba",
+        "country": "Barbados",
+        "province": "Saint Joseph",
+        "population": 1765,
+        "latitude": 13.21133,
+        "longitude": -59.52596
+    },
+    {
+        "name": "Crab Hill",
+        "country": "Barbados",
+        "province": "Saint Lucy",
+        "population": 727,
+        "latitude": 13.3196,
+        "longitude": -59.63831
+    },
+    {
+        "name": "Greenland",
+        "country": "Barbados",
+        "province": "Saint Andrew",
+        "population": 623,
+        "latitude": 13.25808,
+        "longitude": -59.57763
+    },
+    {
+        "name": "Hillaby",
+        "country": "Barbados",
+        "province": "Saint Andrew",
+        "population": 519,
+        "latitude": 13.21288,
+        "longitude": -59.58838
+    },
+    {
+        "name": "Blackmans",
+        "country": "Barbados",
+        "province": "Saint Joseph",
+        "population": 623,
+        "latitude": 13.18501,
+        "longitude": -59.54519
+    },
+    {
+        "name": "Checker Hall",
+        "country": "Barbados",
+        "province": "Saint Lucy",
+        "population": -1,
+        "latitude": 13.28445,
+        "longitude": -59.64223
+    },
+    {
+        "name": "Workhall",
+        "country": "Barbados",
+        "province": "Saint Philip",
+        "population": -1,
+        "latitude": 13.12571,
+        "longitude": -59.45603
+    },
+    {
+        "name": "Woodbourne",
+        "country": "Barbados",
+        "province": "Saint Philip",
+        "population": -1,
+        "latitude": 13.10356,
+        "longitude": -59.48989
+    },
+    {
+        "name": "Wildey",
+        "country": "Barbados",
+        "province": "Saint Michael",
+        "population": -1,
+        "latitude": 13.09385,
+        "longitude": -59.5834
+    },
+    {
+        "name": "White Hill",
+        "country": "Barbados",
+        "province": "Saint Andrew",
+        "population": -1,
+        "latitude": 13.21373,
+        "longitude": -59.58111
+    },
+    {
+        "name": "Welchman Hall",
+        "country": "Barbados",
+        "province": "Saint Thomas",
+        "population": -1,
+        "latitude": 13.18676,
+        "longitude": -59.57663
+    },
+    {
+        "name": "Welches",
+        "country": "Barbados",
+        "province": "Christ Church",
+        "population": -1,
+        "latitude": 13.068,
+        "longitude": -59.55223
+    },
+    {
+        "name": "Warrens",
+        "country": "Barbados",
+        "province": "Saint Michael",
+        "population": -1,
+        "latitude": 13.14537,
+        "longitude": -59.60592
+    },
+    {
+        "name": "Venture",
+        "country": "Barbados",
+        "province": "Saint John",
+        "population": -1,
+        "latitude": 13.18774,
+        "longitude": -59.52575
+    },
+    {
+        "name": "Two Mile Hill",
+        "country": "Barbados",
+        "province": "Saint Michael",
+        "population": -1,
+        "latitude": 13.1045,
+        "longitude": -59.58534
+    },
+    {
+        "name": "Sunbury",
+        "country": "Barbados",
+        "province": "Saint Philip",
+        "population": -1,
+        "latitude": 13.1259,
+        "longitude": -59.48298
+    },
+    {
+        "name": "Six Mens",
+        "country": "Barbados",
+        "province": "Saint Peter",
+        "population": -1,
+        "latitude": 13.26788,
+        "longitude": -59.64313
+    },
+    {
+        "name": "Sherbourne",
+        "country": "Barbados",
+        "province": "Saint John",
+        "population": -1,
+        "latitude": 13.1815,
+        "longitude": -59.52101
+    },
+    {
+        "name": "Scarborough",
+        "country": "Barbados",
+        "province": "Christ Church",
+        "population": -1,
+        "latitude": 13.06234,
+        "longitude": -59.53948
+    },
+    {
+        "name": "Saint Martins",
+        "country": "Barbados",
+        "province": "Saint Philip",
+        "population": -1,
+        "latitude": 13.09494,
+        "longitude": -59.47054
+    },
+    {
+        "name": "Saint Lawrence",
+        "country": "Barbados",
+        "province": "Christ Church",
+        "population": -1,
+        "latitude": 13.07066,
+        "longitude": -59.57922
+    },
+    {
+        "name": "Rock Hall",
+        "country": "Barbados",
+        "province": "Saint Peter",
+        "population": -1,
+        "latitude": 13.23786,
+        "longitude": -59.59965
+    },
+    {
+        "name": "Pie Corner",
+        "country": "Barbados",
+        "province": "Saint Lucy",
+        "population": -1,
+        "latitude": 13.30539,
+        "longitude": -59.58665
+    },
+    {
+        "name": "Mile and a Quarter",
+        "country": "Barbados",
+        "province": "Saint Peter",
+        "population": -1,
+        "latitude": 13.26597,
+        "longitude": -59.62207
+    },
+    {
+        "name": "Marchfield",
+        "country": "Barbados",
+        "province": "Saint Philip",
+        "population": -1,
+        "latitude": 13.11839,
+        "longitude": -59.48187
+    },
+    {
+        "name": "Lamberts",
+        "country": "Barbados",
+        "province": "Saint Lucy",
+        "population": -1,
+        "latitude": 13.29608,
+        "longitude": -59.59283
+    },
+    {
+        "name": "Kendal",
+        "country": "Barbados",
+        "province": "Saint John",
+        "population": -1,
+        "latitude": 13.14673,
+        "longitude": -59.49994
+    },
+    {
+        "name": "Hopewell",
+        "country": "Barbados",
+        "province": "Saint Thomas",
+        "population": -1,
+        "latitude": 13.17481,
+        "longitude": -59.5824
+    },
+    {
+        "name": "Hopewell",
+        "country": "Barbados",
+        "province": "Christ Church",
+        "population": -1,
+        "latitude": 13.05774,
+        "longitude": -59.5183
+    },
+    {
+        "name": "Hastings",
+        "country": "Barbados",
+        "province": "Christ Church",
+        "population": -1,
+        "latitude": 13.075130831420573,
+        "longitude": -59.59688186645508
+    },
+    {
+        "name": "Graveyard",
+        "country": "Barbados",
+        "province": "Saint Lucy",
+        "population": -1,
+        "latitude": 13.29631,
+        "longitude": -59.58196
+    },
+    {
+        "name": "Four Roads",
+        "country": "Barbados",
+        "province": "Saint Philip",
+        "population": -1,
+        "latitude": 13.11068,
+        "longitude": -59.47226
+    },
+    {
+        "name": "Four Cross Roads",
+        "country": "Barbados",
+        "province": "Saint John",
+        "population": -1,
+        "latitude": 13.17018,
+        "longitude": -59.52186
+    },
+    {
+        "name": "Diamond Corner",
+        "country": "Barbados",
+        "province": "Saint Peter",
+        "population": -1,
+        "latitude": 13.27718,
+        "longitude": -59.59932
+    },
+    {
+        "name": "Constant",
+        "country": "Barbados",
+        "province": "Saint George",
+        "population": -1,
+        "latitude": 13.12165,
+        "longitude": -59.55856
+    },
+    {
+        "name": "Church Village",
+        "country": "Barbados",
+        "province": "Saint Philip",
+        "population": -1,
+        "latitude": 13.13768,
+        "longitude": -59.48904
+    },
+    {
+        "name": "Chimborazo",
+        "country": "Barbados",
+        "province": "Saint Joseph",
+        "population": -1,
+        "latitude": 13.19938,
+        "longitude": -59.55658
+    },
+    {
+        "name": "Cherry Grove",
+        "country": "Barbados",
+        "province": "Saint John",
+        "population": -1,
+        "latitude": 13.16539,
+        "longitude": -59.51648
+    },
+    {
+        "name": "Cave Hill",
+        "country": "Barbados",
+        "province": "Saint Lucy",
+        "population": -1,
+        "latitude": 13.29968,
+        "longitude": -59.58443
+    },
+    {
+        "name": "Cave Hill",
+        "country": "Barbados",
+        "province": "Saint Michael",
+        "population": -1,
+        "latitude": 13.13434,
+        "longitude": -59.62191
+    },
+    {
+        "name": "Castle Grant",
+        "country": "Barbados",
+        "province": "Saint Joseph",
+        "population": -1,
+        "latitude": 13.19386,
+        "longitude": -59.55186
+    },
+    {
+        "name": "Carrington",
+        "country": "Barbados",
+        "province": "Saint Philip",
+        "population": -1,
+        "latitude": 13.11781,
+        "longitude": -59.49766
+    },
+    {
+        "name": "Cane Vale",
+        "country": "Barbados",
+        "province": "Christ Church",
+        "population": -1,
+        "latitude": 13.06932,
+        "longitude": -59.55036
+    },
+    {
+        "name": "Bushy Park",
+        "country": "Barbados",
+        "province": "Saint Philip",
+        "population": -1,
+        "latitude": 13.13766,
+        "longitude": -59.47113
+    },
+    {
+        "name": "Bruce Vale",
+        "country": "Barbados",
+        "province": "Saint Andrew",
+        "population": -1,
+        "latitude": 13.22578,
+        "longitude": -59.56542
+    },
+    {
+        "name": "Brereton",
+        "country": "Barbados",
+        "province": "Saint Philip",
+        "population": -1,
+        "latitude": 13.12233,
+        "longitude": -59.50112
+    },
+    {
+        "name": "Breedy’s",
+        "country": "Barbados",
+        "province": "Saint Andrew",
+        "population": -1,
+        "latitude": 13.25538,
+        "longitude": -59.58422
+    },
+    {
+        "name": "Branchbury",
+        "country": "Barbados",
+        "province": "Saint Joseph",
+        "population": -1,
+        "latitude": 13.187843,
+        "longitude": -59.549333
+    },
+    {
+        "name": "Bowmanston",
+        "country": "Barbados",
+        "province": "Saint John",
+        "population": -1,
+        "latitude": 13.16652,
+        "longitude": -59.51189
+    },
+    {
+        "name": "Boscobelle",
+        "country": "Barbados",
+        "province": "Saint Peter",
+        "population": -1,
+        "latitude": 13.28775,
+        "longitude": -59.57918
+    },
+    {
+        "name": "Blue Waters",
+        "country": "Barbados",
+        "province": "Christ Church",
+        "population": -1,
+        "latitude": 13.08,
+        "longitude": -59.59071
+    },
+    {
+        "name": "Blades Hill",
+        "country": "Barbados",
+        "province": "Saint Philip",
+        "population": -1,
+        "latitude": 13.16238,
+        "longitude": -59.4602
+    },
+    {
+        "name": "Blades",
+        "country": "Barbados",
+        "province": "Saint Philip",
+        "population": -1,
+        "latitude": 13.10985,
+        "longitude": -59.46831
+    },
+    {
+        "name": "Bissex",
+        "country": "Barbados",
+        "province": "Saint Joseph",
+        "population": -1,
+        "latitude": 13.22066,
+        "longitude": -59.54762
+    },
+    {
+        "name": "Bentleys",
+        "country": "Barbados",
+        "province": "Saint Philip",
+        "population": -1,
+        "latitude": 13.12013,
+        "longitude": -59.50678
+    },
+    {
+        "name": "Belleplaine",
+        "country": "Barbados",
+        "province": "Saint Andrew",
+        "population": -1,
+        "latitude": 13.24721,
+        "longitude": -59.5653
+    },
+    {
+        "name": "Bel Air",
+        "country": "Barbados",
+        "province": "Saint Philip",
+        "population": -1,
+        "latitude": 13.11697,
+        "longitude": -59.4402
+    },
+    {
+        "name": "Bayleys",
+        "country": "Barbados",
+        "province": "Saint Philip",
+        "population": -1,
+        "latitude": 13.15213,
+        "longitude": -59.44563
+    },
+    {
+        "name": "Bayfield",
+        "country": "Barbados",
+        "province": "Saint Philip",
+        "population": -1,
+        "latitude": 13.16478,
+        "longitude": -59.45243
+    },
+    {
+        "name": "Baxters",
+        "country": "Barbados",
+        "province": "Saint Andrew",
+        "population": -1,
+        "latitude": 13.22144,
+        "longitude": -59.56916
+    },
+    {
+        "name": "Bannatyne",
+        "country": "Barbados",
+        "province": "Christ Church",
+        "population": -1,
+        "latitude": 13.08631,
+        "longitude": -59.54779
+    },
+    {
+        "name": "Atlantic Shores",
+        "country": "Barbados",
+        "province": "Christ Church",
+        "population": -1,
+        "latitude": 13.04917,
+        "longitude": -59.53281
+    },
+    {
+        "name": "Animal Flower Cave",
+        "country": "Barbados",
+        "province": "Saint Lucy",
+        "population": -1,
+        "latitude": 13.33426,
+        "longitude": -59.61315
+    },
+    {
+        "name": "Chalky Mount",
+        "country": "Barbados",
+        "province": "Saint Andrew",
+        "population": -1,
+        "latitude": 13.23159,
+        "longitude": -59.55448
+    },
+    {
+        "name": "Sam Lords Castle",
+        "country": "Barbados",
+        "province": "Saint Philip",
+        "population": -1,
+        "latitude": 13.12542,
+        "longitude": -59.4319
+    },
+    {
+        "name": "Walkes Spring",
+        "country": "Barbados",
+        "province": "Saint Thomas",
+        "population": -1,
+        "latitude": 13.17832,
+        "longitude": -59.56873
+    },
+    {
+        "name": "Wakefield",
+        "country": "Barbados",
+        "province": "Saint John",
+        "population": -1,
+        "latitude": 13.17669,
+        "longitude": -59.52371
+    },
+    {
+        "name": "Verdun",
+        "country": "Barbados",
+        "province": "Saint John",
+        "population": -1,
+        "latitude": 13.18056,
+        "longitude": -59.50491
+    },
+    {
+        "name": "Sweet Bottom",
+        "country": "Barbados",
+        "province": "Saint George",
+        "population": -1,
+        "latitude": 13.16687,
+        "longitude": -59.54755
+    },
+    {
+        "name": "Searles",
+        "country": "Barbados",
+        "province": "Christ Church",
+        "population": -1,
+        "latitude": 13.08995,
+        "longitude": -59.50137
+    },
+    {
+        "name": "Saint Nicholas",
+        "country": "Barbados",
+        "province": "Saint Peter",
+        "population": -1,
+        "latitude": 13.27801,
+        "longitude": -59.58939
+    },
+    {
+        "name": "Pine Housing Estate",
+        "country": "Barbados",
+        "province": "Saint Michael",
+        "population": -1,
+        "latitude": 13.09762,
+        "longitude": -59.59688
+    },
+    {
+        "name": "Maxwell Hill",
+        "country": "Barbados",
+        "province": "Christ Church",
+        "population": -1,
+        "latitude": 13.07287,
+        "longitude": -59.55976
+    },
+    {
+        "name": "Massiah Street",
+        "country": "Barbados",
+        "province": "Saint John",
+        "population": -1,
+        "latitude": 13.16217,
+        "longitude": -59.48399
+    },
+    {
+        "name": "Lowland",
+        "country": "Barbados",
+        "province": "Christ Church",
+        "population": -1,
+        "latitude": 13.087701,
+        "longitude": -59.521773
+    },
+    {
+        "name": "Jordans",
+        "country": "Barbados",
+        "province": "Saint George",
+        "population": -1,
+        "latitude": 13.13996,
+        "longitude": -59.54944
+    },
+    {
+        "name": "Highgate",
+        "country": "Barbados",
+        "province": "Saint Michael",
+        "population": -1,
+        "latitude": 13.09005,
+        "longitude": -59.59541
+    },
+    {
+        "name": "Heywoods",
+        "country": "Barbados",
+        "province": "Saint Peter",
+        "population": -1,
+        "latitude": 13.25725,
+        "longitude": -59.64176
+    },
+    {
+        "name": "Graeme Hall",
+        "country": "Barbados",
+        "province": "Christ Church",
+        "population": -1,
+        "latitude": 13.07388,
+        "longitude": -59.56761
+    },
+    {
+        "name": "Golden Grove",
+        "country": "Barbados",
+        "province": "Saint Philip",
+        "population": -1,
+        "latitude": 13.15513,
+        "longitude": -59.4487
+    },
+    {
+        "name": "Gibbs",
+        "country": "Barbados",
+        "province": "Saint Peter",
+        "population": -1,
+        "latitude": 13.2281,
+        "longitude": -59.64199
+    },
+    {
+        "name": "Frizers",
+        "country": "Barbados",
+        "province": "Saint Joseph",
+        "population": -1,
+        "latitude": 13.20868,
+        "longitude": -59.54337
+    },
+    {
+        "name": "Durants",
+        "country": "Barbados",
+        "province": "Christ Church",
+        "population": -1,
+        "latitude": 13.07018,
+        "longitude": -59.53706
+    },
+    {
+        "name": "Codrington College",
+        "country": "Barbados",
+        "province": "Saint John",
+        "population": -1,
+        "latitude": 13.17161,
+        "longitude": -59.47734
+    },
+    {
+        "name": "Archers",
+        "country": "Barbados",
+        "province": "Saint Lucy",
+        "population": -1,
+        "latitude": 13.31832,
+        "longitude": -59.6396
+    },
+    {
+        "name": "The Gap",
+        "country": "Barbados",
+        "province": "Barbados",
+        "population": -1,
+        "latitude": 13.0679,
+        "longitude": -59.57517
+    },
+    {
+        "name": "Yorkshire",
+        "country": "Barbados",
+        "province": "Christ Church",
+        "population": -1,
+        "latitude": 13.10274,
+        "longitude": -59.51206
+    },
+    {
+        "name": "Wotton",
+        "country": "Barbados",
+        "province": "Christ Church",
+        "population": -1,
+        "latitude": 13.07584,
+        "longitude": -59.54571
+    },
+    {
+        "name": "Worthing",
+        "country": "Barbados",
+        "province": "Christ Church",
+        "population": -1,
+        "latitude": 13.07496362043633,
+        "longitude": -59.58357810974121
+    },
+    {
+        "name": "Windy Hill",
+        "country": "Barbados",
+        "province": "Saint Andrew",
+        "population": -1,
+        "latitude": 13.24618,
+        "longitude": -59.55621
+    },
+    {
+        "name": "Windsor",
+        "country": "Barbados",
+        "province": "",
+        "population": -1,
+        "latitude": 13.11743,
+        "longitude": -59.52264
+    },
+    {
+        "name": "Wilson Hill",
+        "country": "Barbados",
+        "province": "Saint John",
+        "population": -1,
+        "latitude": 13.18113,
+        "longitude": -59.52933
+    },
+    {
+        "name": "Wilcox",
+        "country": "Barbados",
+        "province": "Christ Church",
+        "population": -1,
+        "latitude": 13.06731,
+        "longitude": -59.51182
+    },
+    {
+        "name": "Whitehaven",
+        "country": "Barbados",
+        "province": "Saint Philip",
+        "population": -1,
+        "latitude": 13.16741,
+        "longitude": -59.45234
+    },
+    {
+        "name": "Weston",
+        "country": "Barbados",
+        "province": "Saint James",
+        "population": -1,
+        "latitude": 13.215,
+        "longitude": -59.63864
+    },
+    {
+        "name": "Westmoreland",
+        "country": "Barbados",
+        "province": "Saint James",
+        "population": -1,
+        "latitude": 13.21672,
+        "longitude": -59.62021
+    },
+    {
+        "name": "Well Road",
+        "country": "Barbados",
+        "province": "Saint Lucy",
+        "population": -1,
+        "latitude": 13.30754,
+        "longitude": -59.5847
+    },
+    {
+        "name": "Wellhouse",
+        "country": "Barbados",
+        "province": "Saint Philip",
+        "population": -1,
+        "latitude": 13.13808,
+        "longitude": -59.43534
+    },
+    {
+        "name": "Welchtown",
+        "country": "Barbados",
+        "province": "Saint Peter",
+        "population": -1,
+        "latitude": 13.26829,
+        "longitude": -59.59682
+    },
+    {
+        "name": "Welch Town",
+        "country": "Barbados",
+        "province": "Saint John",
+        "population": -1,
+        "latitude": 13.18279,
+        "longitude": -59.48612
+    },
+    {
+        "name": "Waverley Cot",
+        "country": "Barbados",
+        "province": "Saint George",
+        "population": -1,
+        "latitude": 13.13043,
+        "longitude": -59.53723
+    },
+    {
+        "name": "Watts Village",
+        "country": "Barbados",
+        "province": "Saint George",
+        "population": -1,
+        "latitude": 13.10943,
+        "longitude": -59.53401
+    },
+    {
+        "name": "Waterford",
+        "country": "Barbados",
+        "province": "Saint Michael",
+        "population": -1,
+        "latitude": 13.11497,
+        "longitude": -59.59302
+    },
+    {
+        "name": "Warners",
+        "country": "Barbados",
+        "province": "Christ Church",
+        "population": -1,
+        "latitude": 13.08208,
+        "longitude": -59.57247
+    },
+    {
+        "name": "Warleigh",
+        "country": "Barbados",
+        "province": "Saint Peter",
+        "population": -1,
+        "latitude": 13.24759,
+        "longitude": -59.62804
+    },
+    {
+        "name": "Wanstead",
+        "country": "Barbados",
+        "province": "Saint Michael",
+        "population": -1,
+        "latitude": 13.13979,
+        "longitude": -59.62782
+    },
+    {
+        "name": "Walronds",
+        "country": "Barbados",
+        "province": "Christ Church",
+        "population": -1,
+        "latitude": 13.09478,
+        "longitude": -59.49202
+    },
+    {
+        "name": "Walkers Terrace",
+        "country": "Barbados",
+        "province": "Saint George",
+        "population": -1,
+        "latitude": 13.13754,
+        "longitude": -59.56009
+    },
+    {
+        "name": "Wakefield Tenantry",
+        "country": "Barbados",
+        "province": "Saint John",
+        "population": -1,
+        "latitude": 13.16921,
+        "longitude": -59.52702
+    },
+    {
+        "name": "Vineyard",
+        "country": "Barbados",
+        "province": "Saint Philip",
+        "population": -1,
+        "latitude": 13.14737,
+        "longitude": -59.46454
+    },
+    {
+        "name": "Vauxhall",
+        "country": "Barbados",
+        "province": "Christ Church",
+        "population": -1,
+        "latitude": 13.08146,
+        "longitude": -59.56418
+    },
+    {
+        "name": "Vaucluse Factory",
+        "country": "Barbados",
+        "province": "Saint Thomas",
+        "population": -1,
+        "latitude": 13.17254,
+        "longitude": -59.59489
+    },
+    {
+        "name": "Valley",
+        "country": "Barbados",
+        "province": "Saint George",
+        "population": -1,
+        "latitude": 13.1305,
+        "longitude": -59.56726
+    },
+    {
+        "name": "Upper Salmonds",
+        "country": "Barbados",
+        "province": "Saint Lucy",
+        "population": -1,
+        "latitude": 13.31559,
+        "longitude": -59.59414
+    },
+    {
+        "name": "Upper Parks",
+        "country": "Barbados",
+        "province": "Saint Joseph",
+        "population": -1,
+        "latitude": 13.20648,
+        "longitude": -59.55785
+    },
+    {
+        "name": "Upper Carlton",
+        "country": "Barbados",
+        "province": "Saint James",
+        "population": -1,
+        "latitude": 13.2229,
+        "longitude": -59.62347
+    },
+    {
+        "name": "Union Hall",
+        "country": "Barbados",
+        "province": "Saint Philip",
+        "population": -1,
+        "latitude": 13.11932,
+        "longitude": -59.44424
+    },
+    {
+        "name": "Union",
+        "country": "Barbados",
+        "province": "Saint George",
+        "population": -1,
+        "latitude": 13.13687,
+        "longitude": -59.5406
+    },
+    {
+        "name": "Turnpike",
+        "country": "Barbados",
+        "province": "Saint George",
+        "population": -1,
+        "latitude": 13.12309,
+        "longitude": -59.54319
+    },
+    {
+        "name": "Turners Hall",
+        "country": "Barbados",
+        "province": "Saint Andrew",
+        "population": -1,
+        "latitude": 13.2249,
+        "longitude": -59.58809
+    },
+    {
+        "name": "Trents",
+        "country": "Barbados",
+        "province": "Saint Lucy",
+        "population": -1,
+        "latitude": 13.29862,
+        "longitude": -59.62715
+    },
+    {
+        "name": "Trents",
+        "country": "Barbados",
+        "province": "Saint James",
+        "population": -1,
+        "latitude": 13.1928,
+        "longitude": -59.63202
+    },
+    {
+        "name": "Top Rock",
+        "country": "Barbados",
+        "province": "Christ Church",
+        "population": -1,
+        "latitude": 13.07212,
+        "longitude": -59.56805
+    },
+    {
+        "name": "Todds",
+        "country": "Barbados",
+        "province": "Saint John",
+        "population": -1,
+        "latitude": 13.16098,
+        "longitude": -59.52041
+    },
+    {
+        "name": "Thornbury Hill",
+        "country": "Barbados",
+        "province": "Christ Church",
+        "population": -1,
+        "latitude": 13.06919,
+        "longitude": -59.5295
+    },
+    {
+        "name": "Thicket",
+        "country": "Barbados",
+        "province": "Saint Philip",
+        "population": -1,
+        "latitude": 13.15588,
+        "longitude": -59.46425
+    },
+    {
+        "name": "The Whim",
+        "country": "Barbados",
+        "province": "Saint Peter",
+        "population": -1,
+        "latitude": 13.25226,
+        "longitude": -59.62954
+    },
+    {
+        "name": "The Risk",
+        "country": "Barbados",
+        "province": "Saint Peter",
+        "population": -1,
+        "latitude": 13.29203,
+        "longitude": -59.57729
+    },
+    {
+        "name": "The Glebe",
+        "country": "Barbados",
+        "province": "Saint George",
+        "population": -1,
+        "latitude": 13.13235,
+        "longitude": -59.56444
+    },
+    {
+        "name": "The Garden",
+        "country": "Barbados",
+        "province": "Saint James",
+        "population": -1,
+        "latitude": 13.20627,
+        "longitude": -59.63786
+    },
+    {
+        "name": "The Baltic",
+        "country": "Barbados",
+        "province": "Saint Peter",
+        "population": -1,
+        "latitude": 13.28805,
+        "longitude": -59.58346
+    },
+    {
+        "name": "Tent Bay",
+        "country": "Barbados",
+        "province": "Saint Joseph",
+        "population": -1,
+        "latitude": 13.20166,
+        "longitude": -59.51152
+    },
+    {
+        "name": "Swanns",
+        "country": "Barbados",
+        "province": "Saint Andrew",
+        "population": -1,
+        "latitude": 13.23679,
+        "longitude": -59.5924
+    },
+    {
+        "name": "Sutherland Road",
+        "country": "Barbados",
+        "province": "Saint Lucy",
+        "population": -1,
+        "latitude": 13.28057,
+        "longitude": -59.64688
+    },
+    {
+        "name": "Surinam",
+        "country": "Barbados",
+        "province": "Saint Joseph",
+        "population": -1,
+        "latitude": 13.19675,
+        "longitude": -59.54689
+    },
+    {
+        "name": "Supers",
+        "country": "Barbados",
+        "province": "Saint Philip",
+        "population": -1,
+        "latitude": 13.16637,
+        "longitude": -59.46318
+    },
+    {
+        "name": "Sunset Crest",
+        "country": "Barbados",
+        "province": "Saint James",
+        "population": -1,
+        "latitude": 13.17852,
+        "longitude": -59.63814
+    },
+    {
+        "name": "Summervale",
+        "country": "Barbados",
+        "province": "Saint Philip",
+        "population": -1,
+        "latitude": 13.14435,
+        "longitude": -59.47944
+    },
+    {
+        "name": "Sugar Hill",
+        "country": "Barbados",
+        "province": "Saint Joseph",
+        "population": -1,
+        "latitude": 13.19351,
+        "longitude": -59.557374
+    },
+    {
+        "name": "Sturges",
+        "country": "Barbados",
+        "province": "Saint Joseph",
+        "population": -1,
+        "latitude": 13.19142,
+        "longitude": -59.57334
+    },
+    {
+        "name": "Stroude Land",
+        "country": "Barbados",
+        "province": "Saint Philip",
+        "population": -1,
+        "latitude": 13.11822,
+        "longitude": -59.45266
+    },
+    {
+        "name": "St. Patricks",
+        "country": "Barbados",
+        "province": "Christ Church",
+        "population": -1,
+        "latitude": 13.09896,
+        "longitude": -59.49749
+    },
+    {
+        "name": "Stewart Hill",
+        "country": "Barbados",
+        "province": "Saint John",
+        "population": -1,
+        "latitude": 13.16176,
+        "longitude": -59.47959
+    },
+    {
+        "name": "Stepney",
+        "country": "Barbados",
+        "province": "Saint George",
+        "population": -1,
+        "latitude": 13.11258,
+        "longitude": -59.55403
+    },
+    {
+        "name": "Spring Head",
+        "country": "Barbados",
+        "province": "Saint Lucy",
+        "population": -1,
+        "latitude": 13.22764,
+        "longitude": -59.60139
+    },
+    {
+        "name": "Spring Hall",
+        "country": "Barbados",
+        "province": "Saint Lucy",
+        "population": -1,
+        "latitude": 13.31012,
+        "longitude": -59.61137
+    },
+    {
+        "name": "Springfield",
+        "country": "Barbados",
+        "province": "Saint Joseph",
+        "population": -1,
+        "latitude": 13.21699,
+        "longitude": -59.54135
+    },
+    {
+        "name": "Spencers",
+        "country": "Barbados",
+        "province": "Christ Church",
+        "population": -1,
+        "latitude": 13.08617,
+        "longitude": -59.4782
+    },
+    {
+        "name": "South District",
+        "country": "Barbados",
+        "province": "Saint George",
+        "population": -1,
+        "latitude": 13.10911,
+        "longitude": -59.54811
+    },
+    {
+        "name": "Small Town",
+        "country": "Barbados",
+        "province": "Saint John",
+        "population": -1,
+        "latitude": 13.17251,
+        "longitude": -59.50137
+    },
+    {
+        "name": "Small Hope",
+        "country": "Barbados",
+        "province": "Saint John",
+        "population": -1,
+        "latitude": 13.18219,
+        "longitude": -59.5056
+    },
+    {
+        "name": "Skeenes Hill",
+        "country": "Barbados",
+        "province": "Christ Church",
+        "population": -1,
+        "latitude": 13.10406,
+        "longitude": -59.52796
+    },
+    {
+        "name": "Six Cross Roads",
+        "country": "Barbados",
+        "province": "Christ Church",
+        "population": -1,
+        "latitude": 13.11772,
+        "longitude": -59.477
+    },
+    {
+        "name": "Sion Hill",
+        "country": "Barbados",
+        "province": "Saint Peter",
+        "population": -1,
+        "latitude": 13.22685,
+        "longitude": -59.6192
+    },
+    {
+        "name": "Sion Hill",
+        "country": "Barbados",
+        "province": "Christ Church",
+        "population": -1,
+        "latitude": 13.10188,
+        "longitude": -59.50569
+    },
+    {
+        "name": "Silver Sands",
+        "country": "Barbados",
+        "province": "Christ Church",
+        "population": -1,
+        "latitude": 13.04827,
+        "longitude": -59.51869
+    },
+    {
+        "name": "Shorey",
+        "country": "Barbados",
+        "province": "Saint Andrew",
+        "population": -1,
+        "latitude": 13.26221,
+        "longitude": -59.57191
+    },
+    {
+        "name": "Shop Hill",
+        "country": "Barbados",
+        "province": "Saint Thomas",
+        "population": -1,
+        "latitude": 13.16392,
+        "longitude": -59.60096
+    },
+    {
+        "name": "Sedge Pond",
+        "country": "Barbados",
+        "province": "Saint Peter",
+        "population": -1,
+        "latitude": 13.24264,
+        "longitude": -59.5951
+    },
+    {
+        "name": "Seaview",
+        "country": "Barbados",
+        "province": "Saint Lucy",
+        "population": -1,
+        "latitude": 13.32211,
+        "longitude": -59.6008
+    },
+    {
+        "name": "Seaview",
+        "country": "Barbados",
+        "province": "Saint James",
+        "population": -1,
+        "latitude": 13.18553,
+        "longitude": -59.62027
+    },
+    {
+        "name": "Seaview",
+        "country": "Barbados",
+        "province": "Christ Church",
+        "population": -1,
+        "latitude": 13.06504,
+        "longitude": -59.49854
+    },
+    {
+        "name": "Searles",
+        "country": "Barbados",
+        "province": "Christ Church",
+        "population": -1,
+        "latitude": 13.09486,
+        "longitude": -59.50783
+    },
+    {
+        "name": "Sealy Hill",
+        "country": "Barbados",
+        "province": "Saint Philip",
+        "population": -1,
+        "latitude": 13.15747,
+        "longitude": -59.44121
+    },
+    {
+        "name": "Sealy Hall",
+        "country": "Barbados",
+        "province": "Saint John",
+        "population": -1,
+        "latitude": 13.1718,
+        "longitude": -59.47558
+    },
+    {
+        "name": "Sayes Court",
+        "country": "Barbados",
+        "province": "Christ Church",
+        "population": -1,
+        "latitude": 13.05611,
+        "longitude": -59.52659
+    },
+    {
+        "name": "Sargeant",
+        "country": "Barbados",
+        "province": "Christ Church",
+        "population": -1,
+        "latitude": 13.0847,
+        "longitude": -59.57059
+    },
+    {
+        "name": "Sandy Lane",
+        "country": "Barbados",
+        "province": "Saint James",
+        "population": -1,
+        "latitude": 13.17577,
+        "longitude": -59.6345
+    },
+    {
+        "name": "Sandford",
+        "country": "Barbados",
+        "province": "Saint Philip",
+        "population": -1,
+        "latitude": 13.13704,
+        "longitude": -59.45454
+    },
+    {
+        "name": "Salters",
+        "country": "Barbados",
+        "province": "Saint George",
+        "population": -1,
+        "latitude": 13.12355,
+        "longitude": -59.57281
+    },
+    {
+        "name": "Salmond",
+        "country": "Barbados",
+        "province": "Saint Lucy",
+        "population": -1,
+        "latitude": 13.32594,
+        "longitude": -59.6328
+    },
+    {
+        "name": "Saint Mathias",
+        "country": "Barbados",
+        "province": "Christ Church",
+        "population": -1,
+        "latitude": 13.07702,
+        "longitude": -59.60286
+    },
+    {
+        "name": "Saint Marks",
+        "country": "Barbados",
+        "province": "Saint John",
+        "population": -1,
+        "latitude": 13.17957,
+        "longitude": -59.46035
+    },
+    {
+        "name": "Saint Margarets",
+        "country": "Barbados",
+        "province": "Saint John",
+        "population": -1,
+        "latitude": 13.20076,
+        "longitude": -59.50354
+    },
+    {
+        "name": "Saint Judes",
+        "country": "Barbados",
+        "province": "Saint George",
+        "population": -1,
+        "latitude": 13.15683,
+        "longitude": -59.53645
+    },
+    {
+        "name": "Saint Elizabeths",
+        "country": "Barbados",
+        "province": "Saint Joseph",
+        "population": -1,
+        "latitude": 13.20648,
+        "longitude": -59.52581
+    },
+    {
+        "name": "Saint Davids",
+        "country": "Barbados",
+        "province": "Christ Church",
+        "population": -1,
+        "latitude": 13.09499,
+        "longitude": -59.56122
+    },
+    {
+        "name": "Saint Andrews",
+        "country": "Barbados",
+        "province": "Saint Andrew",
+        "population": -1,
+        "latitude": 13.246,
+        "longitude": -59.56332
+    },
+    {
+        "name": "Ruby",
+        "country": "Barbados",
+        "province": "Saint Philip",
+        "population": -1,
+        "latitude": 13.12558,
+        "longitude": -59.44289
+    },
+    {
+        "name": "Rowans",
+        "country": "Barbados",
+        "province": "Saint George",
+        "population": -1,
+        "latitude": 13.1367,
+        "longitude": -59.56836
+    },
+    {
+        "name": "Round Rock",
+        "country": "Barbados",
+        "province": "Christ Church",
+        "population": -1,
+        "latitude": 13.05042,
+        "longitude": -59.51378
+    },
+    {
+        "name": "Rouen",
+        "country": "Barbados",
+        "province": "Saint Michael",
+        "population": -1,
+        "latitude": 13.10964,
+        "longitude": -59.5866
+    },
+    {
+        "name": "Rose Hill",
+        "country": "Barbados",
+        "province": "Saint Peter",
+        "population": -1,
+        "latitude": 13.27137,
+        "longitude": -59.62062
+    },
+    {
+        "name": "Rockley",
+        "country": "Barbados",
+        "province": "Christ Church",
+        "population": -1,
+        "latitude": 13.074712803747472,
+        "longitude": -59.588685035705566
+    },
+    {
+        "name": "Rock Hall",
+        "country": "Barbados",
+        "province": "Saint Lucy",
+        "population": -1,
+        "latitude": 13.29915,
+        "longitude": -59.60508
+    },
+    {
+        "name": "Rock Hall",
+        "country": "Barbados",
+        "province": "Saint Thomas",
+        "population": -1,
+        "latitude": 13.18741,
+        "longitude": -59.60397
+    },
+    {
+        "name": "Rockfield",
+        "country": "Barbados",
+        "province": "Saint Lucy",
+        "population": -1,
+        "latitude": 13.31095,
+        "longitude": -59.58903
+    },
+    {
+        "name": "Rock Dundo",
+        "country": "Barbados",
+        "province": "Saint James",
+        "population": -1,
+        "latitude": 13.23009,
+        "longitude": -59.62473
+    },
+    {
+        "name": "Rock Dundo",
+        "country": "Barbados",
+        "province": "Saint Michael",
+        "population": -1,
+        "latitude": 13.13078,
+        "longitude": -59.60866
+    },
+    {
+        "name": "Robinsons",
+        "country": "Barbados",
+        "province": "Saint Philip",
+        "population": -1,
+        "latitude": 13.12805,
+        "longitude": -59.44427
+    },
+    {
+        "name": "Roach",
+        "country": "Barbados",
+        "province": "Saint George",
+        "population": -1,
+        "latitude": 13.15795,
+        "longitude": -59.56558
+    },
+    {
+        "name": "River",
+        "country": "Barbados",
+        "province": "Saint Philip",
+        "population": -1,
+        "latitude": 13.14224,
+        "longitude": -59.43953
+    },
+    {
+        "name": "Rices",
+        "country": "Barbados",
+        "province": "Saint Philip",
+        "population": -1,
+        "latitude": 13.10391,
+        "longitude": -59.45482
+    },
+    {
+        "name": "Retreat",
+        "country": "Barbados",
+        "province": "Saint Lucy",
+        "population": -1,
+        "latitude": 13.32922,
+        "longitude": -59.61677
+    },
+    {
+        "name": "Retreat",
+        "country": "Barbados",
+        "province": "Saint Peter",
+        "population": -1,
+        "latitude": 13.2652,
+        "longitude": -59.63334
+    },
+    {
+        "name": "Retreat",
+        "country": "Barbados",
+        "province": "Saint George",
+        "population": -1,
+        "latitude": 13.15553,
+        "longitude": -59.54764
+    },
+    {
+        "name": "Rendezvous",
+        "country": "Barbados",
+        "province": "Christ Church",
+        "population": -1,
+        "latitude": 13.07773,
+        "longitude": -59.57889
+    },
+    {
+        "name": "Regency Park",
+        "country": "Barbados",
+        "province": "Christ Church",
+        "population": -1,
+        "latitude": 13.08857,
+        "longitude": -59.57469
+    },
+    {
+        "name": "Reeds Hill",
+        "country": "Barbados",
+        "province": "Saint James",
+        "population": -1,
+        "latitude": 13.15724,
+        "longitude": -59.6172
+    },
+    {
+        "name": "Redmans",
+        "country": "Barbados",
+        "province": "Saint Thomas",
+        "population": -1,
+        "latitude": 13.15914,
+        "longitude": -59.61205
+    },
+    {
+        "name": "Redland",
+        "country": "Barbados",
+        "province": "Saint Joseph",
+        "population": -1,
+        "latitude": 13.17506,
+        "longitude": -59.54002
+    },
+    {
+        "name": "Providence",
+        "country": "Barbados",
+        "province": "Christ Church",
+        "population": -1,
+        "latitude": 13.07785,
+        "longitude": -59.51993
+    },
+    {
+        "name": "Proutes",
+        "country": "Barbados",
+        "province": "Saint Thomas",
+        "population": -1,
+        "latitude": 13.16332,
+        "longitude": -59.5771
+    },
+    {
+        "name": "Prospect",
+        "country": "Barbados",
+        "province": "Saint Peter",
+        "population": -1,
+        "latitude": 13.25987,
+        "longitude": -59.59789
+    },
+    {
+        "name": "Prospect",
+        "country": "Barbados",
+        "province": "Saint Michael",
+        "population": -1,
+        "latitude": 13.14303,
+        "longitude": -59.63539
+    },
+    {
+        "name": "Prior Park",
+        "country": "Barbados",
+        "province": "Saint James",
+        "population": -1,
+        "latitude": 13.1544,
+        "longitude": -59.61862
+    },
+    {
+        "name": "Prerogative",
+        "country": "Barbados",
+        "province": "Saint George",
+        "population": -1,
+        "latitude": 13.15335,
+        "longitude": -59.53393
+    },
+    {
+        "name": "Portland",
+        "country": "Barbados",
+        "province": "Saint Peter",
+        "population": -1,
+        "latitude": 13.27272,
+        "longitude": -59.60368
+    },
+    {
+        "name": "Porters",
+        "country": "Barbados",
+        "province": "Saint James",
+        "population": -1,
+        "latitude": 13.20235,
+        "longitude": -59.63946
+    },
+    {
+        "name": "Poreys Spring",
+        "country": "Barbados",
+        "province": "Saint Thomas",
+        "population": -1,
+        "latitude": 13.19282,
+        "longitude": -59.59682
+    },
+    {
+        "name": "Pool",
+        "country": "Barbados",
+        "province": "Saint John",
+        "population": -1,
+        "latitude": 13.17189,
+        "longitude": -59.51745
+    },
+    {
+        "name": "Plumtree",
+        "country": "Barbados",
+        "province": "Saint Philip",
+        "population": -1,
+        "latitude": 13.20372,
+        "longitude": -59.60534
+    },
+    {
+        "name": "Pinelands",
+        "country": "Barbados",
+        "province": "Saint Michael",
+        "population": -1,
+        "latitude": 13.09338,
+        "longitude": -59.59291
+    },
+    {
+        "name": "Pilgrim Road",
+        "country": "Barbados",
+        "province": "Christ Church",
+        "population": -1,
+        "latitude": 13.07923,
+        "longitude": -59.51217
+    },
+    {
+        "name": "Pilgrim Place",
+        "country": "Barbados",
+        "province": "Christ Church",
+        "population": -1,
+        "latitude": 13.07475,
+        "longitude": -59.51873
+    },
+    {
+        "name": "Pickerings",
+        "country": "Barbados",
+        "province": "Saint Lucy",
+        "population": -1,
+        "latitude": 13.29686,
+        "longitude": -59.61541
+    },
+    {
+        "name": "Pegwell",
+        "country": "Barbados",
+        "province": "Christ Church",
+        "population": -1,
+        "latitude": 13.06313,
+        "longitude": -59.53337
+    },
+    {
+        "name": "Parish Land",
+        "country": "Barbados",
+        "province": "Christ Church",
+        "population": -1,
+        "latitude": 13.07325,
+        "longitude": -59.51702
+    },
+    {
+        "name": "Palmers",
+        "country": "Barbados",
+        "province": "Saint John",
+        "population": -1,
+        "latitude": 13.1694,
+        "longitude": -59.47833
+    },
+    {
+        "name": "Padmore",
+        "country": "Barbados",
+        "province": "Saint Philip",
+        "population": -1,
+        "latitude": 13.13398,
+        "longitude": -59.47779
+    },
+    {
+        "name": "Packers",
+        "country": "Barbados",
+        "province": "Christ Church",
+        "population": -1,
+        "latitude": 13.09848,
+        "longitude": -59.50408
+    },
+    {
+        "name": "Oxnards",
+        "country": "Barbados",
+        "province": "Saint Michael",
+        "population": -1,
+        "latitude": 13.14788,
+        "longitude": -59.63067
+    },
+    {
+        "name": "Oxford",
+        "country": "Barbados",
+        "province": "Saint Peter",
+        "population": -1,
+        "latitude": 13.28377,
+        "longitude": -59.61203
+    },
+    {
+        "name": "Oughtersons",
+        "country": "Barbados",
+        "province": "Saint Philip",
+        "population": -1,
+        "latitude": 13.14485,
+        "longitude": -59.46856
+    },
+    {
+        "name": "Orange Hill",
+        "country": "Barbados",
+        "province": "Saint James",
+        "population": -1,
+        "latitude": 13.207,
+        "longitude": -59.60562
+    },
+    {
+        "name": "Old Post Office",
+        "country": "Barbados",
+        "province": "Saint George",
+        "population": -1,
+        "latitude": 13.15457,
+        "longitude": -59.55782
+    },
+    {
+        "name": "Oldbury",
+        "country": "Barbados",
+        "province": "Saint Philip",
+        "population": -1,
+        "latitude": 13.09558,
+        "longitude": -59.47377
+    },
+    {
+        "name": "Ocean City",
+        "country": "Barbados",
+        "province": "Saint Philip",
+        "population": -1,
+        "latitude": 13.09245,
+        "longitude": -59.45704
+    },
+    {
+        "name": "Newton Terrace",
+        "country": "Barbados",
+        "province": "Christ Church",
+        "population": -1,
+        "latitude": 13.07758,
+        "longitude": -59.53144
+    },
+    {
+        "name": "Newcastle",
+        "country": "Barbados",
+        "province": "Saint John",
+        "population": -1,
+        "latitude": 13.19152,
+        "longitude": -59.49532
+    },
+    {
+        "name": "Newbury",
+        "country": "Barbados",
+        "province": "Saint George",
+        "population": -1,
+        "latitude": 13.14785,
+        "longitude": -59.55651
+    },
+    {
+        "name": "Nesfield",
+        "country": "Barbados",
+        "province": "Saint Lucy",
+        "population": -1,
+        "latitude": 13.2932,
+        "longitude": -59.62579
+    },
+    {
+        "name": "Neils",
+        "country": "Barbados",
+        "province": "Saint Michael",
+        "population": -1,
+        "latitude": 13.12159,
+        "longitude": -59.57858
+    },
+    {
+        "name": "Navy Gardens",
+        "country": "Barbados",
+        "province": "Christ Church",
+        "population": -1,
+        "latitude": 13.07844,
+        "longitude": -59.59525
+    },
+    {
+        "name": "Mullins",
+        "country": "Barbados",
+        "province": "Saint Peter",
+        "population": -1,
+        "latitude": 13.23579,
+        "longitude": -59.64289
+    },
+    {
+        "name": "Mount Wilton",
+        "country": "Barbados",
+        "province": "Saint Thomas",
+        "population": -1,
+        "latitude": 13.18906,
+        "longitude": -59.56597
+    },
+    {
+        "name": "Mount View",
+        "country": "Barbados",
+        "province": "Saint Lucy",
+        "population": -1,
+        "latitude": 13.30334,
+        "longitude": -59.60167
+    },
+    {
+        "name": "Mount Stepney",
+        "country": "Barbados",
+        "province": "Saint Peter",
+        "population": -1,
+        "latitude": 13.27773,
+        "longitude": -59.58319
+    },
+    {
+        "name": "Mount Standfast",
+        "country": "Barbados",
+        "province": "Saint James",
+        "population": -1,
+        "latitude": 13.20284,
+        "longitude": -59.63397
+    },
+    {
+        "name": "Mount Pleasant",
+        "country": "Barbados",
+        "province": "Saint Lucy",
+        "population": -1,
+        "latitude": 13.29959,
+        "longitude": -59.61343
+    },
+    {
+        "name": "Mount Pleasant",
+        "country": "Barbados",
+        "province": "Saint Philip",
+        "population": -1,
+        "latitude": 13.15929,
+        "longitude": -59.47513
+    },
+    {
+        "name": "Mount Gay",
+        "country": "Barbados",
+        "province": "Saint Lucy",
+        "population": -1,
+        "latitude": 13.29147,
+        "longitude": -59.60695
+    },
+    {
+        "name": "Mount Friendship",
+        "country": "Barbados",
+        "province": "Saint Michael",
+        "population": -1,
+        "latitude": 13.10243,
+        "longitude": -59.57777
+    },
+    {
+        "name": "Mount Brevitor",
+        "country": "Barbados",
+        "province": "Saint Peter",
+        "population": -1,
+        "latitude": 13.26572,
+        "longitude": -59.6169
+    },
+    {
+        "name": "Mount",
+        "country": "Barbados",
+        "province": "Saint George",
+        "population": -1,
+        "latitude": 13.13793,
+        "longitude": -59.53091
+    },
+    {
+        "name": "Morgan Lewis",
+        "country": "Barbados",
+        "province": "Saint Peter",
+        "population": -1,
+        "latitude": 13.2691,
+        "longitude": -59.57489
+    },
+    {
+        "name": "Moores",
+        "country": "Barbados",
+        "province": "Saint John",
+        "population": -1,
+        "latitude": 13.16725,
+        "longitude": -59.50642
+    },
+    {
+        "name": "Moore Hill",
+        "country": "Barbados",
+        "province": "Saint Peter",
+        "population": -1,
+        "latitude": 13.2767,
+        "longitude": -59.59455
+    },
+    {
+        "name": "Moonshine Hall",
+        "country": "Barbados",
+        "province": "Saint George",
+        "population": -1,
+        "latitude": 13.14743,
+        "longitude": -59.56505
+    },
+    {
+        "name": "Montrose",
+        "country": "Barbados",
+        "province": "Christ Church",
+        "population": -1,
+        "latitude": 13.0739,
+        "longitude": -59.54817
+    },
+    {
+        "name": "Molyneux",
+        "country": "Barbados",
+        "province": "Saint James",
+        "population": -1,
+        "latitude": 13.17815,
+        "longitude": -59.62812
+    },
+    {
+        "name": "Merricks",
+        "country": "Barbados",
+        "province": "Saint Philip",
+        "population": -1,
+        "latitude": 13.1441,
+        "longitude": -59.43264
+    },
+    {
+        "name": "Melvin Hill",
+        "country": "Barbados",
+        "province": "Saint Joseph",
+        "population": -1,
+        "latitude": 13.20429,
+        "longitude": -59.55897
+    },
+    {
+        "name": "Melverton",
+        "country": "Barbados",
+        "province": "Saint George",
+        "population": -1,
+        "latitude": 13.13162,
+        "longitude": -59.5239
+    },
+    {
+        "name": "Maynards",
+        "country": "Barbados",
+        "province": "Saint Peter",
+        "population": -1,
+        "latitude": 13.26509,
+        "longitude": -59.63686
+    },
+    {
+        "name": "Maycock",
+        "country": "Barbados",
+        "province": "Saint Lucy",
+        "population": -1,
+        "latitude": 13.28942,
+        "longitude": -59.64226
+    },
+    {
+        "name": "Maxwell",
+        "country": "Barbados",
+        "province": "Christ Church",
+        "population": -1,
+        "latitude": 13.071856,
+        "longitude": -59.554411
+    },
+    {
+        "name": "Martins Bay",
+        "country": "Barbados",
+        "province": "Saint John",
+        "population": -1,
+        "latitude": 13.19629,
+        "longitude": -59.49487
+    },
+    {
+        "name": "Marley Vale",
+        "country": "Barbados",
+        "province": "Saint Philip",
+        "population": -1,
+        "latitude": 13.16246,
+        "longitude": -59.44171
+    },
+    {
+        "name": "Market Hill",
+        "country": "Barbados",
+        "province": "Saint George",
+        "population": -1,
+        "latitude": 13.15932,
+        "longitude": -59.55903
+    },
+    {
+        "name": "Marine Gardens",
+        "country": "Barbados",
+        "province": "Christ Church",
+        "population": -1,
+        "latitude": 13.07581,
+        "longitude": -59.59307
+    },
+    {
+        "name": "Mapp Hill",
+        "country": "Barbados",
+        "province": "Saint Michael",
+        "population": -1,
+        "latitude": 13.10606,
+        "longitude": -59.57581
+    },
+    {
+        "name": "Mangrove",
+        "country": "Barbados",
+        "province": "Saint Andrew",
+        "population": -1,
+        "latitude": 13.23646,
+        "longitude": -59.61617
+    },
+    {
+        "name": "Mangrove",
+        "country": "Barbados",
+        "province": "Saint Philip",
+        "population": -1,
+        "latitude": 13.09969,
+        "longitude": -59.47211
+    },
+    {
+        "name": "Malvern",
+        "country": "Barbados",
+        "province": "Saint Joseph",
+        "population": -1,
+        "latitude": 13.19411,
+        "longitude": -59.52599
+    },
+    {
+        "name": "Lucas Street",
+        "country": "Barbados",
+        "province": "Saint Philip",
+        "population": -1,
+        "latitude": 13.13106,
+        "longitude": -59.45659
+    },
+    {
+        "name": "Lowthers",
+        "country": "Barbados",
+        "province": "Christ Church",
+        "population": -1,
+        "latitude": 13.09398,
+        "longitude": -59.49799
+    },
+    {
+        "name": "Lowland",
+        "country": "Barbados",
+        "province": "Saint Lucy",
+        "population": -1,
+        "latitude": 13.30996,
+        "longitude": -59.59665
+    },
+    {
+        "name": "Lower Greys",
+        "country": "Barbados",
+        "province": "Christ Church",
+        "population": -1,
+        "latitude": 13.11051,
+        "longitude": -59.52633
+    },
+    {
+        "name": "Lower Estate",
+        "country": "Barbados",
+        "province": "Saint George",
+        "population": -1,
+        "latitude": 13.1334,
+        "longitude": -59.57982
+    },
+    {
+        "name": "Lower Carlton",
+        "country": "Barbados",
+        "province": "Saint James",
+        "population": -1,
+        "latitude": 13.22211,
+        "longitude": -59.64089
+    },
+    {
+        "name": "Lower Burneys",
+        "country": "Barbados",
+        "province": "Saint Michael",
+        "population": -1,
+        "latitude": 13.10272,
+        "longitude": -59.57306
+    },
+    {
+        "name": "Lodge Road",
+        "country": "Barbados",
+        "province": "Christ Church",
+        "population": -1,
+        "latitude": 13.07795,
+        "longitude": -59.53612
+    },
+    {
+        "name": "Locust Hall",
+        "country": "Barbados",
+        "province": "Saint George",
+        "population": -1,
+        "latitude": 13.15019,
+        "longitude": -59.57409
+    },
+    {
+        "name": "Little Battaleys",
+        "country": "Barbados",
+        "province": "Saint Peter",
+        "population": -1,
+        "latitude": 13.23976,
+        "longitude": -59.64181
+    },
+    {
+        "name": "Litchfield",
+        "country": "Barbados",
+        "province": "Saint Peter",
+        "population": -1,
+        "latitude": 13.25315,
+        "longitude": -59.6383
+    },
+    {
+        "name": "Lion Castle Tenantry",
+        "country": "Barbados",
+        "province": "Saint Thomas",
+        "population": -1,
+        "latitude": 13.18364,
+        "longitude": -59.58455
+    },
+    {
+        "name": "Lion",
+        "country": "Barbados",
+        "province": "Saint George",
+        "population": -1,
+        "latitude": 13.13996,
+        "longitude": -59.55772
+    },
+    {
+        "name": "Lemon Arbour",
+        "country": "Barbados",
+        "province": "Saint John",
+        "population": -1,
+        "latitude": 13.16907,
+        "longitude": -59.52915
+    },
+    {
+        "name": "Lears",
+        "country": "Barbados",
+        "province": "Saint Thomas",
+        "population": -1,
+        "latitude": 13.14288,
+        "longitude": -59.59366
+    },
+    {
+        "name": "Lead Vale",
+        "country": "Barbados",
+        "province": "Christ Church",
+        "population": -1,
+        "latitude": 13.08548,
+        "longitude": -59.5109
+    },
+    {
+        "name": "Lazaretto",
+        "country": "Barbados",
+        "province": "Saint James",
+        "population": -1,
+        "latitude": 13.13711,
+        "longitude": -59.63549
+    },
+    {
+        "name": "Lascelles",
+        "country": "Barbados",
+        "province": "Saint James",
+        "population": -1,
+        "latitude": 13.18562,
+        "longitude": -59.63451
+    },
+    {
+        "name": "Lancaster",
+        "country": "Barbados",
+        "province": "Saint James",
+        "population": -1,
+        "latitude": 13.20317,
+        "longitude": -59.61905
+    },
+    {
+        "name": "Lakes",
+        "country": "Barbados",
+        "province": "Saint Andrew",
+        "population": -1,
+        "latitude": 13.24105,
+        "longitude": -59.55787
+    },
+    {
+        "name": "Kirtons",
+        "country": "Barbados",
+        "province": "Saint Philip",
+        "population": -1,
+        "latitude": 13.10487,
+        "longitude": -59.46548
+    },
+    {
+        "name": "Kingsland",
+        "country": "Barbados",
+        "province": "Christ Church",
+        "population": -1,
+        "latitude": 13.0791,
+        "longitude": -59.5492
+    },
+    {
+        "name": "Kent",
+        "country": "Barbados",
+        "province": "Christ Church",
+        "population": -1,
+        "latitude": 13.09313,
+        "longitude": -59.56723
+    },
+    {
+        "name": "Kendal Factory",
+        "country": "Barbados",
+        "province": "Saint John",
+        "population": -1,
+        "latitude": 13.15515,
+        "longitude": -59.50899
+    },
+    {
+        "name": "Kelzer Hill",
+        "country": "Barbados",
+        "province": "Christ Church",
+        "population": -1,
+        "latitude": 13.05847,
+        "longitude": -59.53766
+    },
+    {
+        "name": "Josey Hill",
+        "country": "Barbados",
+        "province": "Saint Lucy",
+        "population": -1,
+        "latitude": 13.30329,
+        "longitude": -59.59833
+    },
+    {
+        "name": "Joes River",
+        "country": "Barbados",
+        "province": "Saint Joseph",
+        "population": -1,
+        "latitude": 13.20828,
+        "longitude": -59.53418
+    },
+    {
+        "name": "Jezreel",
+        "country": "Barbados",
+        "province": "Saint Philip",
+        "population": -1,
+        "latitude": 13.13037,
+        "longitude": -59.45116
+    },
+    {
+        "name": "Jericho",
+        "country": "Barbados",
+        "province": "Saint George",
+        "population": -1,
+        "latitude": 13.16244,
+        "longitude": -59.5592
+    },
+    {
+        "name": "Jemmotts",
+        "country": "Barbados",
+        "province": "Saint Lucy",
+        "population": -1,
+        "latitude": 13.30416,
+        "longitude": -59.60515
+    },
+    {
+        "name": "Jamestown Park",
+        "country": "Barbados",
+        "province": "Saint James",
+        "population": -1,
+        "latitude": 13.1882,
+        "longitude": -59.63513
+    },
+    {
+        "name": "Jackson",
+        "country": "Barbados",
+        "province": "Saint Michael",
+        "population": -1,
+        "latitude": 13.1446,
+        "longitude": -59.59856
+    },
+    {
+        "name": "Jackmans",
+        "country": "Barbados",
+        "province": "Saint Michael",
+        "population": -1,
+        "latitude": 13.13521,
+        "longitude": -59.59257
+    },
+    {
+        "name": "Industry Hall",
+        "country": "Barbados",
+        "province": "Saint Philip",
+        "population": -1,
+        "latitude": 13.15784,
+        "longitude": -59.43303
+    },
+    {
+        "name": "Indian Ground",
+        "country": "Barbados",
+        "province": "Saint Andrew",
+        "population": -1,
+        "latitude": 13.25184,
+        "longitude": -59.5983
+    },
+    {
+        "name": "Inch Marlowe",
+        "country": "Barbados",
+        "province": "Christ Church",
+        "population": -1,
+        "latitude": 13.05619,
+        "longitude": -59.50607
+    },
+    {
+        "name": "Husbands",
+        "country": "Barbados",
+        "province": "Saint Lucy",
+        "population": -1,
+        "latitude": 13.29491,
+        "longitude": -59.64669
+    },
+    {
+        "name": "Husbands",
+        "country": "Barbados",
+        "province": "Saint James",
+        "population": -1,
+        "latitude": 13.14864,
+        "longitude": -59.62302
+    },
+    {
+        "name": "Hoytes",
+        "country": "Barbados",
+        "province": "Saint Andrew",
+        "population": -1,
+        "latitude": 13.23673,
+        "longitude": -59.57489
+    },
+    {
+        "name": "Hoytes",
+        "country": "Barbados",
+        "province": "Saint James",
+        "population": -1,
+        "latitude": 13.16373,
+        "longitude": -59.62127
+    },
+    {
+        "name": "Howells",
+        "country": "Barbados",
+        "province": "Saint Michael",
+        "population": -1,
+        "latitude": 13.10732,
+        "longitude": -59.58939
+    },
+    {
+        "name": "Hothersal Turning",
+        "country": "Barbados",
+        "province": "Christ Church",
+        "population": -1,
+        "latitude": 13.13106,
+        "longitude": -59.59268
+    },
+    {
+        "name": "Hothersal",
+        "country": "Barbados",
+        "province": "Saint John",
+        "population": -1,
+        "latitude": 13.19616,
+        "longitude": -59.51397
+    },
+    {
+        "name": "Hopeland",
+        "country": "Barbados",
+        "province": "Saint Philip",
+        "population": -1,
+        "latitude": 13.10553,
+        "longitude": -59.4517
+    },
+    {
+        "name": "Hope",
+        "country": "Barbados",
+        "province": "Saint Lucy",
+        "population": -1,
+        "latitude": 13.32043,
+        "longitude": -59.6038
+    },
+    {
+        "name": "Holders",
+        "country": "Barbados",
+        "province": "Saint James",
+        "population": -1,
+        "latitude": 13.16474,
+        "longitude": -59.62924
+    },
+    {
+        "name": "Hillcrest",
+        "country": "Barbados",
+        "province": "Saint Joseph",
+        "population": -1,
+        "latitude": 13.2106,
+        "longitude": -59.51486
+    },
+    {
+        "name": "Highland",
+        "country": "Barbados",
+        "province": "Saint Philip",
+        "population": -1,
+        "latitude": 13.1074,
+        "longitude": -59.4867
+    },
+    {
+        "name": "Henley",
+        "country": "Barbados",
+        "province": "Saint John",
+        "population": -1,
+        "latitude": 13.15532,
+        "longitude": -59.51371
+    },
+    {
+        "name": "Heddings",
+        "country": "Barbados",
+        "province": "Saint Philip",
+        "population": -1,
+        "latitude": 13.10238,
+        "longitude": -59.46262
+    },
+    {
+        "name": "Haynesville",
+        "country": "Barbados",
+        "province": "Saint James",
+        "population": -1,
+        "latitude": 13.15726,
+        "longitude": -59.62462
+    },
+    {
+        "name": "Haymans Factory",
+        "country": "Barbados",
+        "province": "Saint Peter",
+        "population": -1,
+        "latitude": 13.24243,
+        "longitude": -59.6285
+    },
+    {
+        "name": "Harrow",
+        "country": "Barbados",
+        "province": "Saint Philip",
+        "population": -1,
+        "latitude": 13.13112,
+        "longitude": -59.47335
+    },
+    {
+        "name": "Harrisons",
+        "country": "Barbados",
+        "province": "Saint Lucy",
+        "population": -1,
+        "latitude": 13.30459,
+        "longitude": -59.64892
+    },
+    {
+        "name": "Harrismith",
+        "country": "Barbados",
+        "province": "Saint Philip",
+        "population": -1,
+        "latitude": 13.13413,
+        "longitude": -59.43101
+    },
+    {
+        "name": "Harris",
+        "country": "Barbados",
+        "province": "Saint Lucy",
+        "population": -1,
+        "latitude": 13.3106,
+        "longitude": -59.61763
+    },
+    {
+        "name": "Hannays Tenantry",
+        "country": "Barbados",
+        "province": "Christ Church",
+        "population": -1,
+        "latitude": 13.11221,
+        "longitude": -59.51082
+    },
+    {
+        "name": "Hannays",
+        "country": "Barbados",
+        "province": "Saint Lucy",
+        "population": -1,
+        "latitude": 13.30114,
+        "longitude": -59.63074
+    },
+    {
+        "name": "Hannays",
+        "country": "Barbados",
+        "province": "Christ Church",
+        "population": -1,
+        "latitude": 13.10834,
+        "longitude": -59.5077
+    },
+    {
+        "name": "Halton",
+        "country": "Barbados",
+        "province": "Saint Philip",
+        "population": -1,
+        "latitude": 13.13442,
+        "longitude": -59.50677
+    },
+    {
+        "name": "Haggatt Hall",
+        "country": "Barbados",
+        "province": "Saint Michael",
+        "population": -1,
+        "latitude": 13.11012,
+        "longitude": -59.57405
+    },
+    {
+        "name": "Guinea",
+        "country": "Barbados",
+        "province": "Saint Philip",
+        "population": -1,
+        "latitude": 13.1596,
+        "longitude": -59.49225
+    },
+    {
+        "name": "Gregg Farm",
+        "country": "Barbados",
+        "province": "Saint Andrew",
+        "population": -1,
+        "latitude": 13.2172,
+        "longitude": -59.5874
+    },
+    {
+        "name": "Greenwich",
+        "country": "Barbados",
+        "province": "Saint James",
+        "population": -1,
+        "latitude": 13.19771,
+        "longitude": -59.62207
+    },
+    {
+        "name": "Greens",
+        "country": "Barbados",
+        "province": "Saint John",
+        "population": -1,
+        "latitude": 13.14762,
+        "longitude": -59.52412
+    },
+    {
+        "name": "Greenidge",
+        "country": "Barbados",
+        "province": "Saint Lucy",
+        "population": -1,
+        "latitude": 13.31872,
+        "longitude": -59.62426
+    },
+    {
+        "name": "Green Hill",
+        "country": "Barbados",
+        "province": "Saint Michael",
+        "population": -1,
+        "latitude": 13.13892,
+        "longitude": -59.60659
+    },
+    {
+        "name": "Green Garden",
+        "country": "Barbados",
+        "province": "Christ Church",
+        "population": -1,
+        "latitude": 13.04792,
+        "longitude": -59.525
+    },
+    {
+        "name": "Grazettes",
+        "country": "Barbados",
+        "province": "Saint Michael",
+        "population": -1,
+        "latitude": 13.12827,
+        "longitude": -59.61239
+    },
+    {
+        "name": "Grape Hall",
+        "country": "Barbados",
+        "province": "Saint Lucy",
+        "population": -1,
+        "latitude": 13.32155,
+        "longitude": -59.63328
+    },
+    {
+        "name": "Goodland",
+        "country": "Barbados",
+        "province": "Christ Church",
+        "population": -1,
+        "latitude": 13.05381,
+        "longitude": -59.52281
+    },
+    {
+        "name": "Good Intent",
+        "country": "Barbados",
+        "province": "Saint George",
+        "population": -1,
+        "latitude": 13.13285,
+        "longitude": -59.54506
+    },
+    {
+        "name": "Golden Ridge",
+        "country": "Barbados",
+        "province": "Saint George",
+        "population": -1,
+        "latitude": 13.16226,
+        "longitude": -59.54554
+    },
+    {
+        "name": "Glebe Land",
+        "country": "Barbados",
+        "province": "Saint John",
+        "population": -1,
+        "latitude": 13.1821,
+        "longitude": -59.49625
+    },
+    {
+        "name": "Gibbons Boggs",
+        "country": "Barbados",
+        "province": "Christ Church",
+        "population": -1,
+        "latitude": 13.06476,
+        "longitude": -59.52714
+    },
+    {
+        "name": "Gemswick",
+        "country": "Barbados",
+        "province": "Saint Philip",
+        "population": -1,
+        "latitude": 13.08759,
+        "longitude": -59.47065
+    },
+    {
+        "name": "Gays",
+        "country": "Barbados",
+        "province": "Saint Peter",
+        "population": -1,
+        "latitude": 13.28353,
+        "longitude": -59.58517
+    },
+    {
+        "name": "Garrison",
+        "country": "Barbados",
+        "province": "Saint Michael",
+        "population": -1,
+        "latitude": 13.08156,
+        "longitude": -59.60661
+    },
+    {
+        "name": "Gall Hill",
+        "country": "Barbados",
+        "province": "Christ Church",
+        "population": -1,
+        "latitude": 13.06921,
+        "longitude": -59.545
+    },
+    {
+        "name": "Fustic",
+        "country": "Barbados",
+        "province": "Saint Lucy",
+        "population": -1,
+        "latitude": 13.27921,
+        "longitude": -59.64415
+    },
+    {
+        "name": "Fruitful Hill",
+        "country": "Barbados",
+        "province": "Saint Joseph",
+        "population": -1,
+        "latitude": 13.21317,
+        "longitude": -59.56135
+    },
+    {
+        "name": "Friendship Terrace",
+        "country": "Barbados",
+        "province": "Saint Michael",
+        "population": -1,
+        "latitude": 13.13888,
+        "longitude": -59.6035
+    },
+    {
+        "name": "Friendship",
+        "country": "Barbados",
+        "province": "Saint Lucy",
+        "population": -1,
+        "latitude": 13.31077,
+        "longitude": -59.62987
+    },
+    {
+        "name": "Frere Pilgrim",
+        "country": "Barbados",
+        "province": "Christ Church",
+        "population": -1,
+        "latitude": 13.10282,
+        "longitude": -59.54358
+    },
+    {
+        "name": "French",
+        "country": "Barbados",
+        "province": "Saint Peter",
+        "population": -1,
+        "latitude": 13.26254,
+        "longitude": -59.60639
+    },
+    {
+        "name": "Free Hill",
+        "country": "Barbados",
+        "province": "Saint Lucy",
+        "population": -1,
+        "latitude": 13.30576,
+        "longitude": -59.59922
+    },
+    {
+        "name": "Free Hill",
+        "country": "Barbados",
+        "province": "Saint George",
+        "population": -1,
+        "latitude": 13.14593,
+        "longitude": -59.55034
+    },
+    {
+        "name": "Four Winds",
+        "country": "Barbados",
+        "province": "Saint Peter",
+        "population": -1,
+        "latitude": 13.23106,
+        "longitude": -59.64214
+    },
+    {
+        "name": "Foul Bay",
+        "country": "Barbados",
+        "province": "Saint Philip",
+        "population": -1,
+        "latitude": 13.09618,
+        "longitude": -59.45538
+    },
+    {
+        "name": "Fosters",
+        "country": "Barbados",
+        "province": "Saint Lucy",
+        "population": -1,
+        "latitude": 13.29456,
+        "longitude": -59.63312
+    },
+    {
+        "name": "Foster Hall",
+        "country": "Barbados",
+        "province": "Saint Joseph",
+        "population": -1,
+        "latitude": 13.20725,
+        "longitude": -59.51425
+    },
+    {
+        "name": "Foster Hall",
+        "country": "Barbados",
+        "province": "Saint George",
+        "population": -1,
+        "latitude": 13.13372,
+        "longitude": -59.57344
+    },
+    {
+        "name": "Folkestone Park",
+        "country": "Barbados",
+        "province": "Saint James",
+        "population": -1,
+        "latitude": 13.18177,
+        "longitude": -59.62942
+    },
+    {
+        "name": "Flat Rock",
+        "country": "Barbados",
+        "province": "Saint George",
+        "population": -1,
+        "latitude": 13.14568,
+        "longitude": -59.57255
+    },
+    {
+        "name": "Flatfield",
+        "country": "Barbados",
+        "province": "Saint Lucy",
+        "population": -1,
+        "latitude": 13.32795,
+        "longitude": -59.61162
+    },
+    {
+        "name": "Fitts",
+        "country": "Barbados",
+        "province": "Saint James",
+        "population": -1,
+        "latitude": 13.1467,
+        "longitude": -59.63803
+    },
+    {
+        "name": "Fisher Pond",
+        "country": "Barbados",
+        "province": "Saint Thomas",
+        "population": -1,
+        "latitude": 13.17034,
+        "longitude": -59.55937
+    },
+    {
+        "name": "Farm Road",
+        "country": "Barbados",
+        "province": "Saint Peter",
+        "population": -1,
+        "latitude": 13.24947,
+        "longitude": -59.63952
+    },
+    {
+        "name": "Farmers",
+        "country": "Barbados",
+        "province": "Saint Thomas",
+        "population": -1,
+        "latitude": 13.20677,
+        "longitude": -59.59177
+    },
+    {
+        "name": "Fairy Valley Rock",
+        "country": "Barbados",
+        "province": "Christ Church",
+        "population": -1,
+        "latitude": 13.06602,
+        "longitude": -59.50543
+    },
+    {
+        "name": "Fairy Valley",
+        "country": "Barbados",
+        "province": "Christ Church",
+        "population": -1,
+        "latitude": 13.07676,
+        "longitude": -59.51036
+    },
+    {
+        "name": "Fair View",
+        "country": "Barbados",
+        "province": "Saint George",
+        "population": -1,
+        "latitude": 13.15164,
+        "longitude": -59.54223
+    },
+    {
+        "name": "Fairview",
+        "country": "Barbados",
+        "province": "Christ Church",
+        "population": -1,
+        "latitude": 13.09537,
+        "longitude": -59.50282
+    },
+    {
+        "name": "Fairfield",
+        "country": "Barbados",
+        "province": "Saint Lucy",
+        "population": -1,
+        "latitude": 13.29431,
+        "longitude": -59.62188
+    },
+    {
+        "name": "Exchange",
+        "country": "Barbados",
+        "province": "Saint James",
+        "population": -1,
+        "latitude": 13.15488,
+        "longitude": -59.58745
+    },
+    {
+        "name": "Enterprise",
+        "country": "Barbados",
+        "province": "Christ Church",
+        "population": -1,
+        "latitude": 13.05584,
+        "longitude": -59.53137
+    },
+    {
+        "name": "Endeavour",
+        "country": "Barbados",
+        "province": "Saint James",
+        "population": -1,
+        "latitude": 13.20654,
+        "longitude": -59.60227
+    },
+    {
+        "name": "Endeavour",
+        "country": "Barbados",
+        "province": "Saint Thomas",
+        "population": -1,
+        "latitude": 13.17794,
+        "longitude": -59.5907
+    },
+    {
+        "name": "Ellis Castle",
+        "country": "Barbados",
+        "province": "Saint Peter",
+        "population": -1,
+        "latitude": 13.28454,
+        "longitude": -59.59216
+    },
+    {
+        "name": "Ellesmere",
+        "country": "Barbados",
+        "province": "Saint George",
+        "population": -1,
+        "latitude": 13.15615,
+        "longitude": -59.52386
+    },
+    {
+        "name": "Ellerton",
+        "country": "Barbados",
+        "province": "Saint George",
+        "population": -1,
+        "latitude": 13.13085,
+        "longitude": -59.54105
+    },
+    {
+        "name": "Elizabeth Park",
+        "country": "Barbados",
+        "province": "Christ Church",
+        "population": -1,
+        "latitude": 13.09056,
+        "longitude": -59.56993
+    },
+    {
+        "name": "Edge Hill",
+        "country": "Barbados",
+        "province": "Saint James",
+        "population": -1,
+        "latitude": 13.15979,
+        "longitude": -59.60475
+    },
+    {
+        "name": "Edgecumbe",
+        "country": "Barbados",
+        "province": "",
+        "population": -1,
+        "latitude": 13.12386,
+        "longitude": -59.51104
+    },
+    {
+        "name": "Edey",
+        "country": "Barbados",
+        "province": "Christ Church",
+        "population": -1,
+        "latitude": 13.099,
+        "longitude": -59.54023
+    },
+    {
+        "name": "Eden Lodge",
+        "country": "Barbados",
+        "province": "Saint Michael",
+        "population": -1,
+        "latitude": 13.13797,
+        "longitude": -59.61089
+    },
+    {
+        "name": "Ebenezer",
+        "country": "Barbados",
+        "province": "Saint Philip",
+        "population": -1,
+        "latitude": 13.12961,
+        "longitude": -59.50249
+    },
+    {
+        "name": "Easy Hall",
+        "country": "Barbados",
+        "province": "Saint Joseph",
+        "population": -1,
+        "latitude": 13.19185,
+        "longitude": -59.53329
+    },
+    {
+        "name": "East Lynne",
+        "country": "Barbados",
+        "province": "Christ Church",
+        "population": -1,
+        "latitude": 13.12938,
+        "longitude": -59.54483
+    },
+    {
+        "name": "Eastbourne",
+        "country": "Barbados",
+        "province": "Saint Philip",
+        "population": -1,
+        "latitude": 13.12276,
+        "longitude": -59.43413
+    },
+    {
+        "name": "Ealing Park",
+        "country": "Barbados",
+        "province": "Christ Church",
+        "population": -1,
+        "latitude": 13.05644,
+        "longitude": -59.51272
+    },
+    {
+        "name": "Ealing Grove",
+        "country": "Barbados",
+        "province": "Christ Church",
+        "population": -1,
+        "latitude": 13.0605,
+        "longitude": -59.51517
+    },
+    {
+        "name": "Durham",
+        "country": "Barbados",
+        "province": "Saint Lucy",
+        "population": -1,
+        "latitude": 13.30452,
+        "longitude": -59.61021
+    },
+    {
+        "name": "Durants",
+        "country": "Barbados",
+        "province": "Saint James",
+        "population": -1,
+        "latitude": 13.15787,
+        "longitude": -59.63104
+    },
+    {
+        "name": "Dunscombe",
+        "country": "Barbados",
+        "province": "Saint Thomas",
+        "population": -1,
+        "latitude": 13.19888,
+        "longitude": -59.59422
+    },
+    {
+        "name": "Dukes",
+        "country": "Barbados",
+        "province": "Saint Thomas",
+        "population": -1,
+        "latitude": 13.18221,
+        "longitude": -59.59628
+    },
+    {
+        "name": "Drax Hill Green",
+        "country": "Barbados",
+        "province": "Saint George",
+        "population": -1,
+        "latitude": 13.15052,
+        "longitude": -59.52909
+    },
+    {
+        "name": "Draxhall Woods",
+        "country": "Barbados",
+        "province": "Saint George",
+        "population": -1,
+        "latitude": 13.13241,
+        "longitude": -59.51513
+    },
+    {
+        "name": "Drax Hall Jump",
+        "country": "Barbados",
+        "province": "Saint George",
+        "population": -1,
+        "latitude": 13.13674,
+        "longitude": -59.51378
+    },
+    {
+        "name": "Drax Hall Hope",
+        "country": "Barbados",
+        "province": "Saint George",
+        "population": -1,
+        "latitude": 13.14565,
+        "longitude": -59.5361
+    },
+    {
+        "name": "Drax Hall",
+        "country": "Barbados",
+        "province": "Saint George",
+        "population": -1,
+        "latitude": 13.14433,
+        "longitude": -59.52111
+    },
+    {
+        "name": "Dover",
+        "country": "Barbados",
+        "province": "Christ Church",
+        "population": -1,
+        "latitude": 13.06731,
+        "longitude": -59.5688
+    },
+    {
+        "name": "Diamond Valley",
+        "country": "Barbados",
+        "province": "Saint Philip",
+        "population": -1,
+        "latitude": 13.11276,
+        "longitude": -59.44856
+    },
+    {
+        "name": "Date Tree Hill",
+        "country": "Barbados",
+        "province": "Saint Lucy",
+        "population": -1,
+        "latitude": 13.29228,
+        "longitude": -59.58214
+    },
+    {
+        "name": "Dash Valley",
+        "country": "Barbados",
+        "province": "Saint George",
+        "population": -1,
+        "latitude": 13.11077,
+        "longitude": -59.56519
+    },
+    {
+        "name": "Coverly",
+        "country": "Barbados",
+        "province": "Christ Church",
+        "population": -1,
+        "latitude": 13.08142,
+        "longitude": -59.50453
+    },
+    {
+        "name": "Cottage Vale",
+        "country": "Barbados",
+        "province": "Saint Philip",
+        "population": -1,
+        "latitude": 13.1373,
+        "longitude": -59.49483
+    },
+    {
+        "name": "Cottage",
+        "country": "Barbados",
+        "province": "Saint George",
+        "population": -1,
+        "latitude": 13.15205,
+        "longitude": -59.55308
+    },
+    {
+        "name": "Content",
+        "country": "Barbados",
+        "province": "Saint Lucy",
+        "population": -1,
+        "latitude": 13.31296,
+        "longitude": -59.63635
+    },
+    {
+        "name": "Connell Town",
+        "country": "Barbados",
+        "province": "Saint Lucy",
+        "population": -1,
+        "latitude": 13.32676,
+        "longitude": -59.61544
+    },
+    {
+        "name": "Congo Road",
+        "country": "Barbados",
+        "province": "Saint Philip",
+        "population": -1,
+        "latitude": 13.12504,
+        "longitude": -59.46794
+    },
+    {
+        "name": "Collins",
+        "country": "Barbados",
+        "province": "Saint Peter",
+        "population": -1,
+        "latitude": 13.29049,
+        "longitude": -59.58345
+    },
+    {
+        "name": "Colleton",
+        "country": "Barbados",
+        "province": "Saint Peter",
+        "population": -1,
+        "latitude": 13.27595,
+        "longitude": -59.63885
+    },
+    {
+        "name": "Colleton",
+        "country": "Barbados",
+        "province": "Saint John",
+        "population": -1,
+        "latitude": 13.1769,
+        "longitude": -59.47981
+    },
+    {
+        "name": "College Savannah",
+        "country": "Barbados",
+        "province": "Saint John",
+        "population": -1,
+        "latitude": 13.17661,
+        "longitude": -59.45588
+    },
+    {
+        "name": "Coles Cave",
+        "country": "Barbados",
+        "province": "Saint John",
+        "population": -1,
+        "latitude": 13.18223,
+        "longitude": -59.57491
+    },
+    {
+        "name": "Coffee Gully",
+        "country": "Barbados",
+        "province": "Saint Joseph",
+        "population": -1,
+        "latitude": 13.185554,
+        "longitude": -59.547281
+    },
+    {
+        "name": "Codrington",
+        "country": "Barbados",
+        "province": "Saint Michael",
+        "population": -1,
+        "latitude": 13.12544,
+        "longitude": -59.60686
+    },
+    {
+        "name": "Coconut Hall",
+        "country": "Barbados",
+        "province": "Saint Lucy",
+        "population": -1,
+        "latitude": 13.32031,
+        "longitude": -59.60029
+    },
+    {
+        "name": "Coach Hill",
+        "country": "Barbados",
+        "province": "Saint John",
+        "population": -1,
+        "latitude": 13.18037,
+        "longitude": -59.48206
+    },
+    {
+        "name": "Cluffs",
+        "country": "Barbados",
+        "province": "Saint Lucy",
+        "population": -1,
+        "latitude": 13.32618,
+        "longitude": -59.62596
+    },
+    {
+        "name": "Clifton Hill",
+        "country": "Barbados",
+        "province": "Saint Thomas",
+        "population": -1,
+        "latitude": 13.18304,
+        "longitude": -59.56487
+    },
+    {
+        "name": "Clifton Hall",
+        "country": "Barbados",
+        "province": "Saint John",
+        "population": -1,
+        "latitude": 13.18889,
+        "longitude": -59.50255
+    },
+    {
+        "name": "Cliff Cottage",
+        "country": "Barbados",
+        "province": "Saint John",
+        "population": -1,
+        "latitude": 13.18133,
+        "longitude": -59.48934
+    },
+    {
+        "name": "Cliff",
+        "country": "Barbados",
+        "province": "Saint John",
+        "population": -1,
+        "latitude": 13.15624,
+        "longitude": -59.49762
+    },
+    {
+        "name": "Clermont",
+        "country": "Barbados",
+        "province": "",
+        "population": -1,
+        "latitude": 13.14491,
+        "longitude": -59.61829
+    },
+    {
+        "name": "Cleland",
+        "country": "Barbados",
+        "province": "Saint Andrew",
+        "population": -1,
+        "latitude": 13.26061,
+        "longitude": -59.59315
+    },
+    {
+        "name": "Clapham",
+        "country": "Barbados",
+        "province": "Christ Church",
+        "population": -1,
+        "latitude": 13.08809,
+        "longitude": -59.58394
+    },
+    {
+        "name": "Church View",
+        "country": "Barbados",
+        "province": "Saint John",
+        "population": -1,
+        "latitude": 13.18753,
+        "longitude": -59.49878
+    },
+    {
+        "name": "Church Hill",
+        "country": "Barbados",
+        "province": "Saint Lucy",
+        "population": -1,
+        "latitude": 13.28994,
+        "longitude": -59.61911
+    },
+    {
+        "name": "Christie",
+        "country": "Barbados",
+        "province": "Saint Thomas",
+        "population": -1,
+        "latitude": 13.16882,
+        "longitude": -59.60524
+    },
+    {
+        "name": "Charnocks",
+        "country": "Barbados",
+        "province": "Christ Church",
+        "population": -1,
+        "latitude": 13.08493,
+        "longitude": -59.49469
+    },
+    {
+        "name": "Chapman",
+        "country": "Barbados",
+        "province": "Saint Thomas",
+        "population": -1,
+        "latitude": 13.19884,
+        "longitude": -59.57388
+    },
+    {
+        "name": "Chancery Lane",
+        "country": "Barbados",
+        "province": "Christ Church",
+        "population": -1,
+        "latitude": 13.05966,
+        "longitude": -59.50796
+    },
+    {
+        "name": "Chance Hall",
+        "country": "Barbados",
+        "province": "Saint Lucy",
+        "population": -1,
+        "latitude": 13.30988,
+        "longitude": -59.60352
+    },
+    {
+        "name": "Cattlewash",
+        "country": "Barbados",
+        "province": "Saint Joseph",
+        "population": -1,
+        "latitude": 13.2205,
+        "longitude": -59.53203
+    },
+    {
+        "name": "Castle",
+        "country": "Barbados",
+        "province": "Saint Peter",
+        "population": -1,
+        "latitude": 13.28441,
+        "longitude": -59.59712
+    },
+    {
+        "name": "Carter",
+        "country": "Barbados",
+        "province": "Saint John",
+        "population": -1,
+        "latitude": 13.18344,
+        "longitude": -59.50281
+    },
+    {
+        "name": "Carrington",
+        "country": "Barbados",
+        "province": "Saint Thomas",
+        "population": -1,
+        "latitude": 13.19541,
+        "longitude": -59.57633
+    },
+    {
+        "name": "Carlton",
+        "country": "Barbados",
+        "province": "Saint James",
+        "population": -1,
+        "latitude": 13.22015,
+        "longitude": -59.63536
+    },
+    {
+        "name": "Cane Wood",
+        "country": "Barbados",
+        "province": "Saint Michael",
+        "population": -1,
+        "latitude": 13.14755,
+        "longitude": -59.59345
+    },
+    {
+        "name": "Canefield",
+        "country": "Barbados",
+        "province": "Saint Joseph",
+        "population": -1,
+        "latitude": 13.19589,
+        "longitude": -59.58469
+    },
+    {
+        "name": "Campaign Castle",
+        "country": "Barbados",
+        "province": "Saint George",
+        "population": -1,
+        "latitude": 13.12198,
+        "longitude": -59.51635
+    },
+    {
+        "name": "Callendar",
+        "country": "Barbados",
+        "province": "Christ Church",
+        "population": -1,
+        "latitude": 13.07145,
+        "longitude": -59.52753
+    },
+    {
+        "name": "Bulkely Factory",
+        "country": "Barbados",
+        "province": "Saint George",
+        "population": -1,
+        "latitude": 13.12115,
+        "longitude": -59.54942
+    },
+    {
+        "name": "Buckden House",
+        "country": "Barbados",
+        "province": "Saint Joseph",
+        "population": -1,
+        "latitude": 13.19654,
+        "longitude": -59.53729
+    },
+    {
+        "name": "Brome Field",
+        "country": "Barbados",
+        "province": "Saint Lucy",
+        "population": -1,
+        "latitude": 13.29775,
+        "longitude": -59.64435
+    },
+    {
+        "name": "Brittons Hill",
+        "country": "Barbados",
+        "province": "Saint Michael",
+        "population": -1,
+        "latitude": 13.08759,
+        "longitude": -59.59778
+    },
+    {
+        "name": "Brighton",
+        "country": "Barbados",
+        "province": "Saint George",
+        "population": -1,
+        "latitude": 13.12278,
+        "longitude": -59.52736
+    },
+    {
+        "name": "Briggs",
+        "country": "Barbados",
+        "province": "Christ Church",
+        "population": -1,
+        "latitude": 13.10579,
+        "longitude": -59.53914
+    },
+    {
+        "name": "Bridgefield",
+        "country": "Barbados",
+        "province": "Saint Thomas",
+        "population": -1,
+        "latitude": 13.15842,
+        "longitude": -59.59007
+    },
+    {
+        "name": "Bourbon",
+        "country": "Barbados",
+        "province": "Saint Lucy",
+        "population": -1,
+        "latitude": 13.28921,
+        "longitude": -59.6343
+    },
+    {
+        "name": "Bonwell",
+        "country": "Barbados",
+        "province": "Saint Joseph",
+        "population": -1,
+        "latitude": 13.18446,
+        "longitude": -59.53809
+    },
+    {
+        "name": "Boarded Hall",
+        "country": "Barbados",
+        "province": "Christ Church",
+        "population": -1,
+        "latitude": 13.10594,
+        "longitude": -59.53307
+    },
+    {
+        "name": "Blowers",
+        "country": "Barbados",
+        "province": "Saint Thomas",
+        "population": -1,
+        "latitude": 13.19117,
+        "longitude": -59.61557
+    },
+    {
+        "name": "Bloomsbury",
+        "country": "Barbados",
+        "province": "Saint Thomas",
+        "population": -1,
+        "latitude": 13.19564,
+        "longitude": -59.56884
+    },
+    {
+        "name": "Blacksage Alley",
+        "country": "Barbados",
+        "province": "Saint Lucy",
+        "population": -1,
+        "latitude": 13.30324,
+        "longitude": -59.58776
+    },
+    {
+        "name": "Black Rock",
+        "country": "Barbados",
+        "province": "Saint Michael",
+        "population": -1,
+        "latitude": 13.12562,
+        "longitude": -59.62559
+    },
+    {
+        "name": "Bishops",
+        "country": "Barbados",
+        "province": "Saint Lucy",
+        "population": -1,
+        "latitude": 13.31688,
+        "longitude": -59.59729
+    },
+    {
+        "name": "Bibbys Lane",
+        "country": "Barbados",
+        "province": "Saint Michael",
+        "population": -1,
+        "latitude": 13.15141,
+        "longitude": -59.58873
+    },
+    {
+        "name": "Benthams",
+        "country": "Barbados",
+        "province": "Saint Lucy",
+        "population": -1,
+        "latitude": 13.28736,
+        "longitude": -59.62574
+    },
+    {
+        "name": "Bennetts",
+        "country": "Barbados",
+        "province": "Saint Thomas",
+        "population": -1,
+        "latitude": 13.17397,
+        "longitude": -59.61403
+    },
+    {
+        "name": "Below Rock",
+        "country": "Barbados",
+        "province": "Christ Church",
+        "population": -1,
+        "latitude": 13.05862,
+        "longitude": -59.53081
+    },
+    {
+        "name": "Belle",
+        "country": "Barbados",
+        "province": "Saint Michael",
+        "population": -1,
+        "latitude": 13.11687,
+        "longitude": -59.58849
+    },
+    {
+        "name": "Belair",
+        "country": "Barbados",
+        "province": "Saint George",
+        "population": -1,
+        "latitude": 13.155,
+        "longitude": -59.56424
+    },
+    {
+        "name": "Bakers",
+        "country": "Barbados",
+        "province": "Saint Peter",
+        "population": -1,
+        "latitude": 13.23754,
+        "longitude": -59.62325
+    },
+    {
+        "name": "Bairds",
+        "country": "Barbados",
+        "province": "Saint George",
+        "population": -1,
+        "latitude": 13.14882,
+        "longitude": -59.53865
+    },
+    {
+        "name": "Bagatelle",
+        "country": "Barbados",
+        "province": "Saint Thomas",
+        "population": -1,
+        "latitude": 13.165,
+        "longitude": -59.61469
+    },
+    {
+        "name": "Babbs",
+        "country": "Barbados",
+        "province": "Saint Lucy",
+        "population": -1,
+        "latitude": 13.28714,
+        "longitude": -59.63899
+    },
+    {
+        "name": "Ashton Hall",
+        "country": "Barbados",
+        "province": "Saint Peter",
+        "population": -1,
+        "latitude": 13.25956,
+        "longitude": -59.63304
+    },
+    {
+        "name": "Ashbury",
+        "country": "Barbados",
+        "province": "Saint John",
+        "population": -1,
+        "latitude": 13.16608,
+        "longitude": -59.5403
+    },
+    {
+        "name": "Arthurs Seat",
+        "country": "Barbados",
+        "province": "Saint Thomas",
+        "population": -1,
+        "latitude": 13.1527,
+        "longitude": -59.60391
+    },
+    {
+        "name": "Arch Hall",
+        "country": "Barbados",
+        "province": "Saint Thomas",
+        "population": -1,
+        "latitude": 13.17962,
+        "longitude": -59.61611
+    },
+    {
+        "name": "Applewhaites",
+        "country": "Barbados",
+        "province": "Saint Thomas",
+        "population": -1,
+        "latitude": 13.15546,
+        "longitude": -59.5771
+    },
+    {
+        "name": "Appleby",
+        "country": "Barbados",
+        "province": "Saint James",
+        "population": -1,
+        "latitude": 13.15454,
+        "longitude": -59.63616
+    },
+    {
+        "name": "Apes Hill",
+        "country": "Barbados",
+        "province": "Saint James",
+        "population": -1,
+        "latitude": 13.21588,
+        "longitude": -59.59746
+    },
+    {
+        "name": "Alleynedale",
+        "country": "Barbados",
+        "province": "",
+        "population": -1,
+        "latitude": 13.28385,
+        "longitude": -59.62109
+    },
+    {
+        "name": "Allen View",
+        "country": "Barbados",
+        "province": "Saint Thomas",
+        "population": -1,
+        "latitude": 13.18664,
+        "longitude": -59.57418
+    },
+    {
+        "name": "Alexandra",
+        "country": "Barbados",
+        "province": "Saint Lucy",
+        "population": -1,
+        "latitude": 13.29299,
+        "longitude": -59.60158
+    },
+    {
+        "name": "Airy Hill",
+        "country": "Barbados",
+        "province": "Saint Joseph",
+        "population": -1,
+        "latitude": 13.186517,
+        "longitude": -59.555695
+    },
+    {
+        "name": "Hackletons",
+        "country": "Barbados",
+        "province": "Saint Joseph",
+        "population": -1,
+        "latitude": 13.19965,
+        "longitude": -59.52517
+    },
+    {
+        "name": "Apple Hall",
+        "country": "Barbados",
+        "province": "Saint Philip",
+        "population": -1,
+        "latitude": 13.14234,
+        "longitude": -59.42908
+    },
+    {
+        "name": "Gun Hill",
+        "country": "Barbados",
+        "province": "Saint George",
+        "population": -1,
+        "latitude": 13.14301,
+        "longitude": -59.5571
+    },
+    {
+        "name": "Deanes",
+        "country": "Barbados",
+        "province": "Barbados",
+        "population": -1,
+        "latitude": 13.21546,
+        "longitude": -59.61295
+    },
+    {
+        "name": "Balls",
+        "country": "Barbados",
+        "province": "Christ Church",
+        "population": -1,
+        "latitude": 13.080363,
+        "longitude": -59.526177
+    },
+    {
+        "name": "Staple Grove",
+        "country": "Barbados",
+        "province": "Christ Church",
+        "population": -1,
+        "latitude": 13.09814,
+        "longitude": -59.547689
+    },
+    {
+        "name": "Charles Rowe Bridge",
+        "country": "Barbados",
+        "province": "Saint George",
+        "population": -1,
+        "latitude": 13.129562,
+        "longitude": -59.569312
+    },
+    {
+        "name": "Thorpes Cottage",
+        "country": "Barbados",
+        "province": "Saint George",
+        "population": -1,
+        "latitude": 13.139586,
+        "longitude": -59.566187
+    },
+    {
+        "name": "Mayfield",
+        "country": "Barbados",
+        "province": "Saint George",
+        "population": -1,
+        "latitude": 13.142077,
+        "longitude": -59.568784
+    },
+    {
+        "name": "Bournes",
+        "country": "Barbados",
+        "province": "Saint Michael",
+        "population": -1,
+        "latitude": 13.145671,
+        "longitude": -59.579306
+    },
+    {
+        "name": "Dayrells",
+        "country": "Barbados",
+        "province": "Saint Michael",
+        "population": -1,
+        "latitude": 13.141054,
+        "longitude": -59.582125
+    },
+    {
+        "name": "Parris Hill",
+        "country": "Barbados",
+        "province": "Saint Joseph",
+        "population": -1,
+        "latitude": 13.178105,
+        "longitude": -59.548569
+    },
+    {
+        "name": "Ayshford",
+        "country": "Barbados",
+        "province": "Saint Thomas",
+        "population": -1,
+        "latitude": 13.179661,
+        "longitude": -59.579668
+    },
+    {
+        "name": "Spring Garden",
+        "country": "Barbados",
+        "province": "Saint Lucy",
+        "population": -1,
+        "latitude": 13.31525,
+        "longitude": -59.602337
+    },
+    {
+        "name": "Clinketts",
+        "country": "Barbados",
+        "province": "Saint Lucy",
+        "population": -1,
+        "latitude": 13.275614,
+        "longitude": -59.645556
+    },
+    {
+        "name": "The Rock",
+        "country": "Barbados",
+        "province": "Saint Peter",
+        "population": -1,
+        "latitude": 13.251975,
+        "longitude": -59.619495
+    },
+    {
+        "name": "Roebuck",
+        "country": "Barbados",
+        "province": "Saint Peter",
+        "population": -1,
+        "latitude": 13.247899,
+        "longitude": -59.59912
+    },
+    {
+        "name": "Bawdens",
+        "country": "Barbados",
+        "province": "Saint Andrew",
+        "population": -1,
+        "latitude": 13.243993,
+        "longitude": -59.586054
+    },
+    {
+        "name": "Walkers",
+        "country": "Barbados",
+        "province": "Saint Andrew",
+        "population": -1,
+        "latitude": 13.244907,
+        "longitude": -59.575915
+    },
+    {
+        "name": "Bawden and River",
+        "country": "Barbados",
+        "province": "Saint Andrew",
+        "population": -1,
+        "latitude": 13.244786,
+        "longitude": -59.581019
+    },
+    {
+        "name": "Saint Sylvans",
+        "country": "Barbados",
+        "province": "Saint Andrew",
+        "population": -1,
+        "latitude": 13.222924,
+        "longitude": -59.566112
+    },
+    {
+        "name": "Saint Simons",
+        "country": "Barbados",
+        "province": "Saint Andrew",
+        "population": -1,
+        "latitude": 13.233163,
+        "longitude": -59.575395
+    },
+    {
+        "name": "Cheltenham",
+        "country": "Barbados",
+        "province": "Saint Andrew",
+        "population": -1,
+        "latitude": 13.229893,
+        "longitude": -59.577989
+    },
+    {
+        "name": "Haggatts",
+        "country": "Barbados",
+        "province": "Saint Andrew",
+        "population": -1,
+        "latitude": 13.228597,
+        "longitude": -59.564515
+    },
+    {
+        "name": "Mount All",
+        "country": "Barbados",
+        "province": "Saint Andrew",
+        "population": -1,
+        "latitude": 13.22124,
+        "longitude": -59.575311
+    },
+    {
+        "name": "Content",
+        "country": "Barbados",
+        "province": "Saint Thomas",
+        "population": -1,
+        "latitude": 13.183448,
+        "longitude": -59.605025
+    },
+    {
+        "name": "Thorpes",
+        "country": "Barbados",
+        "province": "Saint James",
+        "population": -1,
+        "latitude": 13.157085,
+        "longitude": -59.626635
+    },
+    {
+        "name": "Halls",
+        "country": "Barbados",
+        "province": "Saint James",
+        "population": -1,
+        "latitude": 13.153302,
+        "longitude": -59.623023
+    },
+    {
+        "name": "Glendale",
+        "country": "Barbados",
+        "province": "Saint Thomas",
+        "population": -1,
+        "latitude": 13.164969,
+        "longitude": -59.591346
+    },
+    {
+        "name": "Rugby",
+        "country": "Barbados",
+        "province": "Saint Thomas",
+        "population": -1,
+        "latitude": 13.161699,
+        "longitude": -59.589914
+    },
+    {
+        "name": "Spooners",
+        "country": "Barbados",
+        "province": "Saint John",
+        "population": -1,
+        "latitude": 13.172611,
+        "longitude": -59.518421
+    },
+    {
+        "name": "Roebuck Street",
+        "country": "Barbados",
+        "province": "Saint John",
+        "population": -1,
+        "latitude": 13.172649,
+        "longitude": -59.505553
+    },
+    {
+        "name": "Gall Hill",
+        "country": "Barbados",
+        "province": "Saint John",
+        "population": -1,
+        "latitude": 13.181485,
+        "longitude": -59.501274
+    },
+    {
+        "name": "Pothouse",
+        "country": "Barbados",
+        "province": "Saint John",
+        "population": -1,
+        "latitude": 13.183121,
+        "longitude": -59.49571
+    },
+    {
+        "name": "Quintyne",
+        "country": "Barbados",
+        "province": "Saint John",
+        "population": -1,
+        "latitude": 13.186098,
+        "longitude": -59.491487
+    },
+    {
+        "name": "Horse Hill",
+        "country": "Barbados",
+        "province": "Saint Joseph",
+        "population": -1,
+        "latitude": 13.198965,
+        "longitude": -59.54076
+    },
+    {
+        "name": "Workmans",
+        "country": "Barbados",
+        "province": "Saint George",
+        "population": -1,
+        "latitude": 13.14123,
+        "longitude": -59.549193
+    },
+    {
+        "name": "Hilbury",
+        "country": "Barbados",
+        "province": "Saint George",
+        "population": -1,
+        "latitude": 13.139527,
+        "longitude": -59.553347
+    },
+    {
+        "name": "Chapel",
+        "country": "Barbados",
+        "province": "Saint Philip",
+        "population": -1,
+        "latitude": 13.134036,
+        "longitude": -59.490923
+    },
+    {
+        "name": "Gaskin",
+        "country": "Barbados",
+        "province": "Saint Philip",
+        "population": -1,
+        "latitude": 13.141739,
+        "longitude": -59.467637
+    },
+    {
+        "name": "Mapps",
+        "country": "Barbados",
+        "province": "Saint Philip",
+        "population": -1,
+        "latitude": 13.142317,
+        "longitude": -59.451223
+    },
+    {
+        "name": "Long Bay",
+        "country": "Barbados",
+        "province": "Saint Philip",
+        "population": -1,
+        "latitude": 13.123152,
+        "longitude": -59.438414
+    },
+    {
+        "name": "Welches",
+        "country": "Barbados",
+        "province": "Saint James",
+        "population": -1,
+        "latitude": 13.153588,
+        "longitude": -59.613564
+    },
+    {
+        "name": "Sargeant Street",
+        "country": "Barbados",
+        "province": "Saint John",
+        "population": -1,
+        "latitude": 13.176104,
+        "longitude": -59.478793
+    },
+    {
+        "name": "Bath",
+        "country": "Barbados",
+        "province": "Saint John",
+        "population": -1,
+        "latitude": 13.185783,
+        "longitude": -59.47429
+    },
+    {
+        "name": "Cane Garden",
+        "country": "Barbados",
+        "province": "Saint Joseph",
+        "population": -1,
+        "latitude": 13.21694,
+        "longitude": -59.559496
+    },
+    {
+        "name": "Boarded Hall",
+        "country": "Barbados",
+        "province": "Saint Joseph",
+        "population": -1,
+        "latitude": 13.214454,
+        "longitude": -59.567481
+    },
+    {
+        "name": "Mose Bottom",
+        "country": "Barbados",
+        "province": "Saint Andrew",
+        "population": -1,
+        "latitude": 13.214392,
+        "longitude": -59.586972
+    },
+    {
+        "name": "Spring Vale",
+        "country": "Barbados",
+        "province": "Saint Andrew",
+        "population": -1,
+        "latitude": 13.204789,
+        "longitude": -59.57538
+    },
+    {
+        "name": "Blunts",
+        "country": "Barbados",
+        "province": "Saint Thomas",
+        "population": -1,
+        "latitude": 13.203938,
+        "longitude": -59.583936
+    },
+    {
+        "name": "Highclere",
+        "country": "Barbados",
+        "province": "Saint Thomas",
+        "population": -1,
+        "latitude": 13.205838,
+        "longitude": -59.58334
+    },
+    {
+        "name": "Mellowes",
+        "country": "Barbados",
+        "province": "Saint Joseph",
+        "population": -1,
+        "latitude": 13.206558,
+        "longitude": -59.548961
+    },
+    {
+        "name": "Braggs Hill",
+        "country": "Barbados",
+        "province": "Saint Joseph",
+        "population": -1,
+        "latitude": 13.192363,
+        "longitude": -59.555562
+    },
+    {
+        "name": "Phinneys",
+        "country": "Barbados",
+        "province": "Saint Philip",
+        "population": -1,
+        "latitude": 13.142755,
+        "longitude": -59.434317
+    },
+    {
+        "name": "Saint Helens",
+        "country": "Barbados",
+        "province": "Saint George",
+        "population": -1,
+        "latitude": 13.152875,
+        "longitude": -59.566073
+    },
+    {
+        "name": "Windy Ridge",
+        "country": "Barbados",
+        "province": "Saint John",
+        "population": -1,
+        "latitude": 13.17934,
+        "longitude": -59.46644
+    },
+    {
+        "name": "White Hall",
+        "country": "Barbados",
+        "province": "Saint Peter",
+        "population": -1,
+        "latitude": 13.25173,
+        "longitude": -59.62263
+    },
+    {
+        "name": "Weymouth",
+        "country": "Barbados",
+        "province": "Saint Michael",
+        "population": -1,
+        "latitude": 13.10031,
+        "longitude": -59.60906
+    },
+    {
+        "name": "Station Hill",
+        "country": "Barbados",
+        "province": "Saint Michael",
+        "population": -1,
+        "latitude": 13.11018,
+        "longitude": -59.60366
+    },
+    {
+        "name": "Silver Hill",
+        "country": "Barbados",
+        "province": "Christ Church",
+        "population": -1,
+        "latitude": 13.075701,
+        "longitude": -59.549864
+    },
+    {
+        "name": "Sheraton Park",
+        "country": "Barbados",
+        "province": "Christ Church",
+        "population": -1,
+        "latitude": 13.083334,
+        "longitude": -59.56215
+    },
+    {
+        "name": "Paragon",
+        "country": "Barbados",
+        "province": "Christ Church",
+        "population": -1,
+        "latitude": 13.0724,
+        "longitude": -59.48982
+    },
+    {
+        "name": "Orange Hill",
+        "country": "Barbados",
+        "province": "Saint Peter",
+        "population": -1,
+        "latitude": 13.25131,
+        "longitude": -59.60482
+    },
+    {
+        "name": "New Orleans",
+        "country": "Barbados",
+        "province": "Saint Michael",
+        "population": -1,
+        "latitude": 13.10583,
+        "longitude": -59.62095
+    },
+    {
+        "name": "Mount Royer",
+        "country": "Barbados",
+        "province": "Saint Lucy",
+        "population": -1,
+        "latitude": 13.30749,
+        "longitude": -59.62147
+    },
+    {
+        "name": "Maxwell Coast",
+        "country": "Barbados",
+        "province": "Christ Church",
+        "population": -1,
+        "latitude": 13.067114,
+        "longitude": -59.557094
+    },
+    {
+        "name": "Luke Hill",
+        "country": "Barbados",
+        "province": "Saint Lucy",
+        "population": -1,
+        "latitude": 13.28157,
+        "longitude": -59.61729
+    },
+    {
+        "name": "Less Beholden",
+        "country": "Barbados",
+        "province": "Saint Andrew",
+        "population": -1,
+        "latitude": 13.23061,
+        "longitude": -59.5471
+    },
+    {
+        "name": "Kendal Hill",
+        "country": "Barbados",
+        "province": "Christ Church",
+        "population": -1,
+        "latitude": 13.075973,
+        "longitude": -59.558604
+    },
+    {
+        "name": "Henrys",
+        "country": "Barbados",
+        "province": "Saint Michael",
+        "population": -1,
+        "latitude": 13.09469,
+        "longitude": -59.61116
+    },
+    {
+        "name": "Half Acre",
+        "country": "Barbados",
+        "province": "Saint Lucy",
+        "population": -1,
+        "latitude": 13.29725,
+        "longitude": -59.61793
+    },
+    {
+        "name": "Gibbons",
+        "country": "Barbados",
+        "province": "Christ Church",
+        "population": -1,
+        "latitude": 13.06723,
+        "longitude": -59.51921
+    },
+    {
+        "name": "Fortescue",
+        "country": "Barbados",
+        "province": "Saint Philip",
+        "population": -1,
+        "latitude": 13.17308,
+        "longitude": -59.45904
+    },
+    {
+        "name": "Fairfield",
+        "country": "Barbados",
+        "province": "Saint Michael",
+        "population": -1,
+        "latitude": 13.12657,
+        "longitude": -59.6159
+    },
+    {
+        "name": "Ebworth",
+        "country": "Barbados",
+        "province": "Saint Peter",
+        "population": -1,
+        "latitude": 13.27057,
+        "longitude": -59.61847
+    },
+    {
+        "name": "Deacons",
+        "country": "Barbados",
+        "province": "Saint Michael",
+        "population": -1,
+        "latitude": 13.11507,
+        "longitude": -59.6236
+    },
+    {
+        "name": "Cove",
+        "country": "Barbados",
+        "province": "Saint Lucy",
+        "population": -1,
+        "latitude": 13.30275,
+        "longitude": -59.57739
+    },
+    {
+        "name": "Cottage",
+        "country": "Barbados",
+        "province": "Saint Lucy",
+        "population": -1,
+        "latitude": 13.29523,
+        "longitude": -59.60514
+    },
+    {
+        "name": "Coles Pasture",
+        "country": "Barbados",
+        "province": "Saint Philip",
+        "population": -1,
+        "latitude": 13.15277,
+        "longitude": -59.42818
+    },
+    {
+        "name": "Cheapside",
+        "country": "Barbados",
+        "province": "Saint Michael",
+        "population": -1,
+        "latitude": 13.0986,
+        "longitude": -59.62114
+    },
+    {
+        "name": "Brighton",
+        "country": "Barbados",
+        "province": "Saint Michael",
+        "population": -1,
+        "latitude": 13.12213,
+        "longitude": -59.62557
+    },
+    {
+        "name": "Benny Hall",
+        "country": "Barbados",
+        "province": "Saint Peter",
+        "population": -1,
+        "latitude": 13.26829,
+        "longitude": -59.60123
+    },
+    {
+        "name": "Benab",
+        "country": "Barbados",
+        "province": "Saint Andrew",
+        "population": -1,
+        "latitude": 13.23515,
+        "longitude": -59.54331
+    },
+    {
+        "name": "Belmont",
+        "country": "Barbados",
+        "province": "Saint Michael",
+        "population": -1,
+        "latitude": 13.09999,
+        "longitude": -59.60384
+    },
+    {
+        "name": "Bayville",
+        "country": "Barbados",
+        "province": "Saint Michael",
+        "population": -1,
+        "latitude": 13.08449446561669,
+        "longitude": -59.60602283477783
+    },
+    {
+        "name": "Bank Hall",
+        "country": "Barbados",
+        "province": "Saint Michael",
+        "population": -1,
+        "latitude": 13.11031,
+        "longitude": -59.61107
+    },
+    {
+        "name": "Allmans",
+        "country": "Barbados",
+        "province": "Saint Lucy",
+        "population": -1,
+        "latitude": 13.28242,
+        "longitude": -59.63802
+    },
+    {
+        "name": "Cat’s Castle",
+        "country": "Barbados",
+        "province": "Saint Michael",
+        "population": -1,
+        "latitude": 13.0999,
+        "longitude": -59.617705
+    },
+    {
+        "name": "Garden Land",
+        "country": "Barbados",
+        "province": "Saint Michael",
+        "population": -1,
+        "latitude": 13.104767,
+        "longitude": -59.610127
+    },
+    {
+        "name": "Whitepark",
+        "country": "Barbados",
+        "province": "Saint Michael",
+        "population": -1,
+        "latitude": 13.105299,
+        "longitude": -59.614497
+    },
+    {
+        "name": "Fontabelle",
+        "country": "Barbados",
+        "province": "Saint Michael",
+        "population": -1,
+        "latitude": 13.102259,
+        "longitude": -59.623495
+    },
+    {
+        "name": "Newton",
+        "country": "Barbados",
+        "province": "Christ Church",
+        "population": -1,
+        "latitude": 13.081291,
+        "longitude": -59.536616
+    },
+    {
+        "name": "Upton",
+        "country": "Barbados",
+        "province": "Saint Michael",
+        "population": -1,
+        "latitude": 13.094637,
+        "longitude": -59.579675
+    },
+    {
+        "name": "Belfield",
+        "country": "Barbados",
+        "province": "Saint Michael",
+        "population": -1,
+        "latitude": 13.123893,
+        "longitude": -59.618762
+    },
+    {
+        "name": "Whitehall",
+        "country": "Barbados",
+        "province": "Saint Michael",
+        "population": -1,
+        "latitude": 13.12996,
+        "longitude": -59.61592
+    },
+    {
+        "name": "Bush Hall",
+        "country": "Barbados",
+        "province": "Saint Michael",
+        "population": -1,
+        "latitude": 13.122179,
+        "longitude": -59.609334
+    },
+    {
+        "name": "Spring Garden",
+        "country": "Barbados",
+        "province": "Saint Michael",
+        "population": -1,
+        "latitude": 13.127565,
+        "longitude": -59.628944
+    },
+    {
+        "name": "Lodge Hill",
+        "country": "Barbados",
+        "province": "Saint Michael",
+        "population": -1,
+        "latitude": 13.135638,
+        "longitude": -59.613109
+    },
+    {
+        "name": "Kew",
+        "country": "Barbados",
+        "province": "Saint Michael",
+        "population": -1,
+        "latitude": 13.116516,
+        "longitude": -59.611429
+    },
+    {
+        "name": "Carrington",
+        "country": "Barbados",
+        "province": "Saint Michael",
+        "population": -1,
+        "latitude": 13.103855,
+        "longitude": -59.603811
+    },
+    {
+        "name": "Ivy",
+        "country": "Barbados",
+        "province": "Saint Michael",
+        "population": -1,
+        "latitude": 13.104799,
+        "longitude": -59.593702
+    },
+    {
+        "name": "Bartletts",
+        "country": "Barbados",
+        "province": "Christ Church",
+        "population": -1,
+        "latitude": 13.086419,
+        "longitude": -59.57751
+    },
+    {
+        "name": "Belleville",
+        "country": "Barbados",
+        "province": "Saint Michael",
+        "population": -1,
+        "latitude": 13.098854,
+        "longitude": -59.602256
+    },
+    {
+        "name": "Harmony Hall",
+        "country": "Barbados",
+        "province": "Saint Michael",
+        "population": -1,
+        "latitude": 13.104831,
+        "longitude": -59.606627
+    }
+]

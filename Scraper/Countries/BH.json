@@ -1,0 +1,994 @@
+[
+    {
+        "name": "Manama",
+        "country": "Bahrain",
+        "province": "Manama",
+        "population": 147074,
+        "latitude": 26.22787,
+        "longitude": 50.58565
+    },
+    {
+        "name": "Al Muharraq",
+        "country": "Bahrain",
+        "province": "Muharraq",
+        "population": 97458,
+        "latitude": 26.2572222,
+        "longitude": 50.6119444
+    },
+    {
+        "name": "Madīnat Ḩamad",
+        "country": "Bahrain",
+        "province": "Northern Governorate",
+        "population": 52718,
+        "latitude": 26.115278,
+        "longitude": 50.506944
+    },
+    {
+        "name": "Dār Kulayb",
+        "country": "Bahrain",
+        "province": "Southern Governorate",
+        "population": 65466,
+        "latitude": 26.068611,
+        "longitude": 50.503889
+    },
+    {
+        "name": "Sitrah",
+        "country": "Bahrain",
+        "province": "Manama",
+        "population": 37657,
+        "latitude": 26.154722,
+        "longitude": 50.620556
+    },
+    {
+        "name": "Madīnat ‘Īsá",
+        "country": "Bahrain",
+        "province": "Southern Governorate",
+        "population": 38090,
+        "latitude": 26.173611,
+        "longitude": 50.547778
+    },
+    {
+        "name": "Jidd Ḩafş",
+        "country": "Bahrain",
+        "province": "Manama",
+        "population": 31735,
+        "latitude": 26.218611,
+        "longitude": 50.547778
+    },
+    {
+        "name": "Al Ḩadd",
+        "country": "Bahrain",
+        "province": "Muharraq",
+        "population": 12797,
+        "latitude": 26.245556,
+        "longitude": 50.654167
+    },
+    {
+        "name": "Ar Rifā‘",
+        "country": "Bahrain",
+        "province": "Southern Governorate",
+        "population": 195606,
+        "latitude": 26.13,
+        "longitude": 50.555
+    },
+    {
+        "name": "Sanābis",
+        "country": "Bahrain",
+        "province": "Manama",
+        "population": 6564,
+        "latitude": 26.227222,
+        "longitude": 50.550833
+    },
+    {
+        "name": "Qalālī",
+        "country": "Bahrain",
+        "province": "Muharraq",
+        "population": -1,
+        "latitude": 26.273333,
+        "longitude": 50.650278
+    },
+    {
+        "name": "Az Zallāq",
+        "country": "Bahrain",
+        "province": "Southern Governorate",
+        "population": -1,
+        "latitude": 26.0475,
+        "longitude": 50.486389
+    },
+    {
+        "name": "‘Awālī",
+        "country": "Bahrain",
+        "province": "Southern Governorate",
+        "population": -1,
+        "latitude": 26.084444,
+        "longitude": 50.550556
+    },
+    {
+        "name": "Ash Shākhūrah",
+        "country": "Bahrain",
+        "province": "Northern Governorate",
+        "population": -1,
+        "latitude": 26.214722,
+        "longitude": 50.506944
+    },
+    {
+        "name": "Ar Rumaythah",
+        "country": "Bahrain",
+        "province": "Southern Governorate",
+        "population": -1,
+        "latitude": 25.92043,
+        "longitude": 50.555828
+    },
+    {
+        "name": "Al Qaryah",
+        "country": "Bahrain",
+        "province": "Manama",
+        "population": -1,
+        "latitude": 26.182778,
+        "longitude": 50.583611
+    },
+    {
+        "name": "Al Mamţalah",
+        "country": "Bahrain",
+        "province": "Southern Governorate",
+        "population": -1,
+        "latitude": 25.924167,
+        "longitude": 50.519444
+    },
+    {
+        "name": "Al Jasrah",
+        "country": "Bahrain",
+        "province": "Northern Governorate",
+        "population": -1,
+        "latitude": 26.162222,
+        "longitude": 50.449167
+    },
+    {
+        "name": "Al Budayyi‘",
+        "country": "Bahrain",
+        "province": "Northern Governorate",
+        "population": -1,
+        "latitude": 26.213056,
+        "longitude": 50.45
+    },
+    {
+        "name": "Umm ash Shajar",
+        "country": "Bahrain",
+        "province": "Muharraq",
+        "population": -1,
+        "latitude": 26.228333,
+        "longitude": 50.655833
+    },
+    {
+        "name": "Tūblī",
+        "country": "Bahrain",
+        "province": "Manama",
+        "population": -1,
+        "latitude": 26.186944,
+        "longitude": 50.549444
+    },
+    {
+        "name": "Sufālah",
+        "country": "Bahrain",
+        "province": "Manama",
+        "population": -1,
+        "latitude": 26.162778,
+        "longitude": 50.625556
+    },
+    {
+        "name": "Sanad",
+        "country": "Bahrain",
+        "province": "Manama",
+        "population": -1,
+        "latitude": 26.150278,
+        "longitude": 50.581944
+    },
+    {
+        "name": "Salmābād",
+        "country": "Bahrain",
+        "province": "Northern Governorate",
+        "population": -1,
+        "latitude": 26.183056,
+        "longitude": 50.524722
+    },
+    {
+        "name": "Marqūbān",
+        "country": "Bahrain",
+        "province": "Manama",
+        "population": -1,
+        "latitude": 26.164167,
+        "longitude": 50.618333
+    },
+    {
+        "name": "Karrānah",
+        "country": "Bahrain",
+        "province": "Northern Governorate",
+        "population": -1,
+        "latitude": 26.229167,
+        "longitude": 50.509444
+    },
+    {
+        "name": "Karbābād",
+        "country": "Bahrain",
+        "province": "Manama",
+        "population": -1,
+        "latitude": 26.230278,
+        "longitude": 50.529444
+    },
+    {
+        "name": "Jurdāb",
+        "country": "Bahrain",
+        "province": "Manama",
+        "population": -1,
+        "latitude": 26.169444,
+        "longitude": 50.575278
+    },
+    {
+        "name": "Jaww",
+        "country": "Bahrain",
+        "province": "Southern Governorate",
+        "population": -1,
+        "latitude": 25.998611,
+        "longitude": 50.616667
+    },
+    {
+        "name": "Jannūsān",
+        "country": "Bahrain",
+        "province": "Northern Governorate",
+        "population": -1,
+        "latitude": 26.230556,
+        "longitude": 50.494722
+    },
+    {
+        "name": "Ḩālat Umm al Bayḑ",
+        "country": "Bahrain",
+        "province": "Southern Governorate",
+        "population": -1,
+        "latitude": 26.116667,
+        "longitude": 50.633333
+    },
+    {
+        "name": "Ḩālat an Na‘īm",
+        "country": "Bahrain",
+        "province": "Muharraq",
+        "population": -1,
+        "latitude": 26.238889,
+        "longitude": 50.635278
+    },
+    {
+        "name": "Ḩālat al Khulayfāt",
+        "country": "Bahrain",
+        "province": "Muharraq",
+        "population": -1,
+        "latitude": 26.25,
+        "longitude": 50.633333
+    },
+    {
+        "name": "Dumistān",
+        "country": "Bahrain",
+        "province": "Northern Governorate",
+        "population": -1,
+        "latitude": 26.126389,
+        "longitude": 50.481111
+    },
+    {
+        "name": "Bū Qūwah",
+        "country": "Bahrain",
+        "province": "Northern Governorate",
+        "population": -1,
+        "latitude": 26.204722,
+        "longitude": 50.52
+    },
+    {
+        "name": "Bārbār",
+        "country": "Bahrain",
+        "province": "Northern Governorate",
+        "population": -1,
+        "latitude": 26.229444,
+        "longitude": 50.480833
+    },
+    {
+        "name": "Banī Jamrah",
+        "country": "Bahrain",
+        "province": "Northern Governorate",
+        "population": -1,
+        "latitude": 26.209722,
+        "longitude": 50.459722
+    },
+    {
+        "name": "‘Ayn ad Dār",
+        "country": "Bahrain",
+        "province": "Jidd Ḩafş",
+        "population": -1,
+        "latitude": 26.216667,
+        "longitude": 50.533333
+    },
+    {
+        "name": "Ar Ruq‘ah",
+        "country": "Bahrain",
+        "province": "Al Minţaqah ash Shamālīyah",
+        "population": -1,
+        "latitude": 26.233333,
+        "longitude": 50.5
+    },
+    {
+        "name": "An Nuwaydirāt",
+        "country": "Bahrain",
+        "province": "Southern Governorate",
+        "population": -1,
+        "latitude": 26.134722,
+        "longitude": 50.5975
+    },
+    {
+        "name": "Al Qurayyah",
+        "country": "Bahrain",
+        "province": "Northern Governorate",
+        "population": -1,
+        "latitude": 26.197222,
+        "longitude": 50.462778
+    },
+    {
+        "name": "Al Qadam",
+        "country": "Bahrain",
+        "province": "Northern Governorate",
+        "population": -1,
+        "latitude": 26.215556,
+        "longitude": 50.519167
+    },
+    {
+        "name": "Al Markh",
+        "country": "Bahrain",
+        "province": "Northern Governorate",
+        "population": -1,
+        "latitude": 26.210278,
+        "longitude": 50.473333
+    },
+    {
+        "name": "Al Mālikīyah",
+        "country": "Bahrain",
+        "province": "Northern Governorate",
+        "population": -1,
+        "latitude": 26.098056,
+        "longitude": 50.486667
+    },
+    {
+        "name": "Al Khārijīyah",
+        "country": "Bahrain",
+        "province": "Manama",
+        "population": -1,
+        "latitude": 26.163611,
+        "longitude": 50.604722
+    },
+    {
+        "name": "Al Janabīyah",
+        "country": "Bahrain",
+        "province": "Northern Governorate",
+        "population": -1,
+        "latitude": 26.19,
+        "longitude": 50.467778
+    },
+    {
+        "name": "Al Hamalah",
+        "country": "Bahrain",
+        "province": "Northern Governorate",
+        "population": -1,
+        "latitude": 26.143333,
+        "longitude": 50.459444
+    },
+    {
+        "name": "Ghuraifa",
+        "country": "Bahrain",
+        "province": "Manama",
+        "population": -1,
+        "latitude": 26.20549,
+        "longitude": 50.602
+    },
+    {
+        "name": "Al ‘Amar",
+        "country": "Bahrain",
+        "province": "Southern Governorate",
+        "population": -1,
+        "latitude": 25.988134,
+        "longitude": 50.527908
+    },
+    {
+        "name": "Al ‘Akr",
+        "country": "Bahrain",
+        "province": "Manama",
+        "population": -1,
+        "latitude": 26.143056,
+        "longitude": 50.610278
+    },
+    {
+        "name": "Ad Dirāz",
+        "country": "Bahrain",
+        "province": "Northern Governorate",
+        "population": -1,
+        "latitude": 26.218056,
+        "longitude": 50.470556
+    },
+    {
+        "name": "Ad Dayr",
+        "country": "Bahrain",
+        "province": "Muharraq",
+        "population": -1,
+        "latitude": 26.284167,
+        "longitude": 50.623611
+    },
+    {
+        "name": "Abū Bahām",
+        "country": "Bahrain",
+        "province": "Manama",
+        "population": -1,
+        "latitude": 26.2075,
+        "longitude": 50.544167
+    },
+    {
+        "name": "Seef",
+        "country": "Bahrain",
+        "province": "Manama",
+        "population": -1,
+        "latitude": 26.239674,
+        "longitude": 50.53685
+    },
+    {
+        "name": "As Sahlat al Ḩadrīyah",
+        "country": "Bahrain",
+        "province": "Central Governorate",
+        "population": -1,
+        "latitude": 26.201667,
+        "longitude": 50.535833
+    },
+    {
+        "name": "Wādiyān",
+        "country": "Bahrain",
+        "province": "Manama",
+        "population": -1,
+        "latitude": 26.159167,
+        "longitude": 50.611111
+    },
+    {
+        "name": "Umm al Ḩaşşam",
+        "country": "Bahrain",
+        "province": "Manama",
+        "population": -1,
+        "latitude": 26.2025,
+        "longitude": 50.591944
+    },
+    {
+        "name": "Shahrakkān",
+        "country": "Bahrain",
+        "province": "Northern Governorate",
+        "population": -1,
+        "latitude": 26.075278,
+        "longitude": 50.501389
+    },
+    {
+        "name": "Samāhīj",
+        "country": "Bahrain",
+        "province": "Muharraq",
+        "population": -1,
+        "latitude": 26.28,
+        "longitude": 50.635
+    },
+    {
+        "name": "Şāfirah",
+        "country": "Bahrain",
+        "province": "Southern Governorate",
+        "population": -1,
+        "latitude": 26.105,
+        "longitude": 50.538611
+    },
+    {
+        "name": "Rayyā",
+        "country": "Bahrain",
+        "province": "Muharraq",
+        "population": -1,
+        "latitude": 26.283333,
+        "longitude": 50.633333
+    },
+    {
+        "name": "Qubayţ",
+        "country": "Bahrain",
+        "province": "Northern Governorate",
+        "population": -1,
+        "latitude": 26.2,
+        "longitude": 50.516667
+    },
+    {
+        "name": "Maqābā",
+        "country": "Bahrain",
+        "province": "Northern Governorate",
+        "population": -1,
+        "latitude": 26.210833,
+        "longitude": 50.4875
+    },
+    {
+        "name": "Mahazzah",
+        "country": "Bahrain",
+        "province": "Manama",
+        "population": -1,
+        "latitude": 26.169444,
+        "longitude": 50.626111
+    },
+    {
+        "name": "Khuwayş",
+        "country": "Bahrain",
+        "province": "Northern Governorate",
+        "population": -1,
+        "latitude": 26.166667,
+        "longitude": 50.5
+    },
+    {
+        "name": "Kawrah",
+        "country": "Bahrain",
+        "province": "Manama",
+        "population": -1,
+        "latitude": 26.183333,
+        "longitude": 50.566667
+    },
+    {
+        "name": "Karzakkān",
+        "country": "Bahrain",
+        "province": "Northern Governorate",
+        "population": -1,
+        "latitude": 26.115556,
+        "longitude": 50.481944
+    },
+    {
+        "name": "Kaflān",
+        "country": "Bahrain",
+        "province": "Al Manāmah",
+        "population": -1,
+        "latitude": 26.183333,
+        "longitude": 50.583333
+    },
+    {
+        "name": "Jusayrah",
+        "country": "Bahrain",
+        "province": "Southern Governorate",
+        "population": -1,
+        "latitude": 25.883333,
+        "longitude": 50.6
+    },
+    {
+        "name": "Jidd ‘Alī",
+        "country": "Bahrain",
+        "province": "Manama",
+        "population": -1,
+        "latitude": 26.179167,
+        "longitude": 50.560278
+    },
+    {
+        "name": "Jamālah",
+        "country": "Bahrain",
+        "province": "Manama",
+        "population": -1,
+        "latitude": 26.2,
+        "longitude": 50.55
+    },
+    {
+        "name": "Jabalat Ḩabashī",
+        "country": "Bahrain",
+        "province": "Northern Governorate",
+        "population": -1,
+        "latitude": 26.217222,
+        "longitude": 50.5275
+    },
+    {
+        "name": "Almaqsha",
+        "country": "Bahrain",
+        "province": "Central Governorate",
+        "population": -1,
+        "latitude": 26.221389,
+        "longitude": 50.516667
+    },
+    {
+        "name": "Ḩālat as Sulţah",
+        "country": "Bahrain",
+        "province": "Muharraq",
+        "population": -1,
+        "latitude": 26.242778,
+        "longitude": 50.638611
+    },
+    {
+        "name": "Ḩālah",
+        "country": "Bahrain",
+        "province": "Manama",
+        "population": -1,
+        "latitude": 26.173333,
+        "longitude": 50.621389
+    },
+    {
+        "name": "Bū ‘Ashīrah",
+        "country": "Bahrain",
+        "province": "Manama",
+        "population": -1,
+        "latitude": 26.207778,
+        "longitude": 50.577222
+    },
+    {
+        "name": "Az Zinj",
+        "country": "Bahrain",
+        "province": "Manama",
+        "population": -1,
+        "latitude": 26.215278,
+        "longitude": 50.564167
+    },
+    {
+        "name": "Az Zimmah",
+        "country": "Bahrain",
+        "province": "Muharraq",
+        "population": -1,
+        "latitude": 26.255278,
+        "longitude": 50.646944
+    },
+    {
+        "name": "Aş Şakhīr",
+        "country": "Bahrain",
+        "province": "Southern Governorate",
+        "population": -1,
+        "latitude": 26.0625,
+        "longitude": 50.527222
+    },
+    {
+        "name": "‘Askar",
+        "country": "Bahrain",
+        "province": "Southern Governorate",
+        "population": -1,
+        "latitude": 26.057222,
+        "longitude": 50.616389
+    },
+    {
+        "name": "Ar Rifā‘ ash Sharqī",
+        "country": "Bahrain",
+        "province": "Southern Governorate",
+        "population": -1,
+        "latitude": 26.123889,
+        "longitude": 50.573611
+    },
+    {
+        "name": "Ar Rifā‘ ash Shamālī",
+        "country": "Bahrain",
+        "province": "Southern Governorate",
+        "population": -1,
+        "latitude": 26.1375,
+        "longitude": 50.551111
+    },
+    {
+        "name": "Ar Rifā‘ al Gharbī",
+        "country": "Bahrain",
+        "province": "Southern Governorate",
+        "population": -1,
+        "latitude": 26.132778,
+        "longitude": 50.520278
+    },
+    {
+        "name": "‘Arād",
+        "country": "Bahrain",
+        "province": "Muharraq",
+        "population": -1,
+        "latitude": 26.256111,
+        "longitude": 50.632222
+    },
+    {
+        "name": "Al Wasmīyah",
+        "country": "Bahrain",
+        "province": "Southern Governorate",
+        "population": -1,
+        "latitude": 26.021111,
+        "longitude": 50.475
+    },
+    {
+        "name": "Al Qaryah",
+        "country": "Bahrain",
+        "province": "Manama",
+        "population": -1,
+        "latitude": 26.172222,
+        "longitude": 50.610556
+    },
+    {
+        "name": "Al Muwaylighah",
+        "country": "Bahrain",
+        "province": "Manama",
+        "population": -1,
+        "latitude": 26.206667,
+        "longitude": 50.558889
+    },
+    {
+        "name": "Al Muşallá",
+        "country": "Bahrain",
+        "province": "Manama",
+        "population": -1,
+        "latitude": 26.212222,
+        "longitude": 50.537222
+    },
+    {
+        "name": "Magsha",
+        "country": "Bahrain",
+        "province": "Manama",
+        "population": -1,
+        "latitude": 26,
+        "longitude": 40
+    },
+    {
+        "name": "Al Ma‘āmīr",
+        "country": "Bahrain",
+        "province": "Southern Governorate",
+        "population": -1,
+        "latitude": 26.133333,
+        "longitude": 50.608611
+    },
+    {
+        "name": "Al Jufayr",
+        "country": "Bahrain",
+        "province": "Manama",
+        "population": -1,
+        "latitude": 26.210556,
+        "longitude": 50.611667
+    },
+    {
+        "name": "Al Jubaylāt",
+        "country": "Bahrain",
+        "province": "Manama",
+        "population": -1,
+        "latitude": 26.181944,
+        "longitude": 50.553333
+    },
+    {
+        "name": "Jabalat al Burhāmah",
+        "country": "Bahrain",
+        "province": "Manama",
+        "population": -1,
+        "latitude": 26.223056,
+        "longitude": 50.549722
+    },
+    {
+        "name": "Al Hujayr",
+        "country": "Bahrain",
+        "province": "Manama",
+        "population": -1,
+        "latitude": 26.183333,
+        "longitude": 50.55
+    },
+    {
+        "name": "Al Ḩajar",
+        "country": "Bahrain",
+        "province": "Northern Governorate",
+        "population": -1,
+        "latitude": 26.211111,
+        "longitude": 50.513889
+    },
+    {
+        "name": "Al Busaytīn",
+        "country": "Bahrain",
+        "province": "Muharraq",
+        "population": -1,
+        "latitude": 26.269444,
+        "longitude": 50.607778
+    },
+    {
+        "name": "Ad Dūr",
+        "country": "Bahrain",
+        "province": "Southern Governorate",
+        "population": -1,
+        "latitude": 25.978893,
+        "longitude": 50.614986
+    },
+    {
+        "name": "Abū Şaybi‘",
+        "country": "Bahrain",
+        "province": "Northern Governorate",
+        "population": -1,
+        "latitude": 26.2175,
+        "longitude": 50.506944
+    },
+    {
+        "name": "A'ali",
+        "country": "Bahrain",
+        "province": "Al Minţaqah al Wusţá",
+        "population": -1,
+        "latitude": 26.162985,
+        "longitude": 50.515941
+    },
+    {
+        "name": "Abu Saiba",
+        "country": "Bahrain",
+        "province": "Jidd Ḩafş",
+        "population": -1,
+        "latitude": 26.217817,
+        "longitude": 50.501994
+    },
+    {
+        "name": "Adliya",
+        "country": "Bahrain",
+        "province": "Al Manāmah",
+        "population": -1,
+        "latitude": 26.216039,
+        "longitude": 50.584582
+    },
+    {
+        "name": "Beit Al Quran",
+        "country": "Bahrain",
+        "province": "Manama",
+        "population": -1,
+        "latitude": 26.2397,
+        "longitude": 50.5917
+    },
+    {
+        "name": "As Sahlah al Fawqīyah",
+        "country": "Bahrain",
+        "province": "Northern Governorate",
+        "population": -1,
+        "latitude": 26.205556,
+        "longitude": 50.530556
+    },
+    {
+        "name": "Al Qal‘ah",
+        "country": "Bahrain",
+        "province": "Southern Governorate",
+        "population": -1,
+        "latitude": 25.980833,
+        "longitude": 50.530556
+    },
+    {
+        "name": "Umm Jidr",
+        "country": "Bahrain",
+        "province": "Southern Governorate",
+        "population": -1,
+        "latitude": 26.011111,
+        "longitude": 50.526111
+    },
+    {
+        "name": "Umm ash Sha‘ūm",
+        "country": "Bahrain",
+        "province": "Al Manāmah",
+        "population": -1,
+        "latitude": 26.216667,
+        "longitude": 50.583333
+    },
+    {
+        "name": "Sār",
+        "country": "Bahrain",
+        "province": "Northern Governorate",
+        "population": -1,
+        "latitude": 26.194167,
+        "longitude": 50.481944
+    },
+    {
+        "name": "Şadad",
+        "country": "Bahrain",
+        "province": "Northern Governorate",
+        "population": -1,
+        "latitude": 26.082778,
+        "longitude": 50.489722
+    },
+    {
+        "name": "Nūr Juruft",
+        "country": "Bahrain",
+        "province": "Al Minţaqah ash Shamālīyah",
+        "population": -1,
+        "latitude": 26.2333333,
+        "longitude": 50.5
+    },
+    {
+        "name": "Manī",
+        "country": "Bahrain",
+        "province": "Manama",
+        "population": -1,
+        "latitude": 26.216667,
+        "longitude": 50.55
+    },
+    {
+        "name": "Jidd al Ḩājj",
+        "country": "Bahrain",
+        "province": "Al Minţaqah ash Shamālīyah",
+        "population": -1,
+        "latitude": 26.2333333,
+        "longitude": 50.5
+    },
+    {
+        "name": "Ḩillat as Sūq",
+        "country": "Bahrain",
+        "province": "Jidd Ḩafş",
+        "population": -1,
+        "latitude": 26.2,
+        "longitude": 50.55
+    },
+    {
+        "name": "Harbadīyah",
+        "country": "Bahrain",
+        "province": "Northern Governorate",
+        "population": -1,
+        "latitude": 26.233333,
+        "longitude": 50.5
+    },
+    {
+        "name": "Ḩālat Abū Māhir",
+        "country": "Bahrain",
+        "province": "Muharraq",
+        "population": -1,
+        "latitude": 26.244444,
+        "longitude": 50.619167
+    },
+    {
+        "name": "Būrī",
+        "country": "Bahrain",
+        "province": "Northern Governorate",
+        "population": -1,
+        "latitude": 26.151389,
+        "longitude": 50.4975
+    },
+    {
+        "name": "Bilād al Qadīm",
+        "country": "Bahrain",
+        "province": "Manama",
+        "population": -1,
+        "latitude": 26.211667,
+        "longitude": 50.561944
+    },
+    {
+        "name": "Al Māḩūz",
+        "country": "Bahrain",
+        "province": "Manama",
+        "population": -1,
+        "latitude": 26.212222,
+        "longitude": 50.588889
+    },
+    {
+        "name": "‘Ālī",
+        "country": "Bahrain",
+        "province": "Northern Governorate",
+        "population": -1,
+        "latitude": 26.161944,
+        "longitude": 50.516389
+    },
+    {
+        "name": "Al Bid‘ah",
+        "country": "Bahrain",
+        "province": "Manama",
+        "population": -1,
+        "latitude": 26.225278,
+        "longitude": 50.537222
+    },
+    {
+        "name": "Ţashshān",
+        "country": "Bahrain",
+        "province": "Manama",
+        "population": -1,
+        "latitude": 26.211389,
+        "longitude": 50.546111
+    },
+    {
+        "name": "Marwazān",
+        "country": "Bahrain",
+        "province": "Manama",
+        "population": -1,
+        "latitude": 26.221389,
+        "longitude": 50.543889
+    },
+    {
+        "name": "Aş Şāliḩīyah",
+        "country": "Bahrain",
+        "province": "Manama",
+        "population": -1,
+        "latitude": 26.215556,
+        "longitude": 50.55
+    },
+    {
+        "name": "Al ‘Adlīyah",
+        "country": "Bahrain",
+        "province": "Manama",
+        "population": -1,
+        "latitude": 26.217222,
+        "longitude": 50.540556
+    },
+    {
+        "name": "Al Juffair",
+        "country": "Bahrain",
+        "province": "Manama",
+        "population": -1,
+        "latitude": 26.211111,
+        "longitude": 50.601111
+    }
+]

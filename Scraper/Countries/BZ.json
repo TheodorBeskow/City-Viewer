@@ -1,0 +1,3738 @@
+[
+    {
+        "name": "Belize City",
+        "country": "Belize",
+        "province": "Belize",
+        "population": 61461,
+        "latitude": 17.49951773151977,
+        "longitude": -88.19755554199219
+    },
+    {
+        "name": "San Ignacio",
+        "country": "Belize",
+        "province": "Cayo",
+        "population": 26151,
+        "latitude": 17.1588,
+        "longitude": -89.0696
+    },
+    {
+        "name": "Belmopan",
+        "country": "Belize",
+        "province": "Cayo",
+        "population": 13381,
+        "latitude": 17.25,
+        "longitude": -88.7666667
+    },
+    {
+        "name": "San Pedro Town",
+        "country": "Belize",
+        "province": "Belize",
+        "population": 17429,
+        "latitude": 17.915981869561808,
+        "longitude": -87.96589851379395
+    },
+    {
+        "name": "Orange Walk",
+        "country": "Belize",
+        "province": "Orange Walk District",
+        "population": 15298,
+        "latitude": 18.081242702780802,
+        "longitude": -88.56328010559082
+    },
+    {
+        "name": "Benque Viejo el Carmen",
+        "country": "Belize",
+        "province": "Cayo",
+        "population": 6684,
+        "latitude": 17.075,
+        "longitude": -89.139167
+    },
+    {
+        "name": "Ladyville",
+        "country": "Belize",
+        "province": "Belize",
+        "population": 5458,
+        "latitude": 17.554272741885168,
+        "longitude": -88.28999519348145
+    },
+    {
+        "name": "Dangriga",
+        "country": "Belize",
+        "province": "Southern District",
+        "population": 10217,
+        "latitude": 16.9697,
+        "longitude": -88.23313
+    },
+    {
+        "name": "Corozal",
+        "country": "Belize",
+        "province": "Corozal",
+        "population": 13502,
+        "latitude": 18.39374606397573,
+        "longitude": -88.3884859085083
+    },
+    {
+        "name": "Punta Gorda",
+        "country": "Belize",
+        "province": "Toledo",
+        "population": 6027,
+        "latitude": 16.098350615391727,
+        "longitude": -88.80970001220703
+    },
+    {
+        "name": "Placencia",
+        "country": "Belize",
+        "province": "Southern District",
+        "population": 4300,
+        "latitude": 16.51419,
+        "longitude": -88.36647
+    },
+    {
+        "name": "Valley of Peace",
+        "country": "Belize",
+        "province": "Cayo",
+        "population": 1809,
+        "latitude": 17.3347222,
+        "longitude": -88.8347222
+    },
+    {
+        "name": "Xaibe",
+        "country": "Belize",
+        "province": "Corozal",
+        "population": 1575,
+        "latitude": 18.386538,
+        "longitude": -88.433929
+    },
+    {
+        "name": "Shipyard",
+        "country": "Belize",
+        "province": "Orange Walk District",
+        "population": 3805,
+        "latitude": 17.893818,
+        "longitude": -88.654517
+    },
+    {
+        "name": "Sarteneja",
+        "country": "Belize",
+        "province": "Corozal",
+        "population": 3500,
+        "latitude": 18.35334429479071,
+        "longitude": -88.14541339874268
+    },
+    {
+        "name": "Santa Familia",
+        "country": "Belize",
+        "province": "Cayo",
+        "population": 1598,
+        "latitude": 17.185938,
+        "longitude": -89.074355
+    },
+    {
+        "name": "San Narciso",
+        "country": "Belize",
+        "province": "Corozal",
+        "population": 2422,
+        "latitude": 18.303958,
+        "longitude": -88.520849
+    },
+    {
+        "name": "San Jose Soccoths",
+        "country": "Belize",
+        "province": "Cayo",
+        "population": -1,
+        "latitude": 17.084545,
+        "longitude": -89.13007
+    },
+    {
+        "name": "San Jose",
+        "country": "Belize",
+        "province": "Orange Walk District",
+        "population": 2862,
+        "latitude": 18.195797,
+        "longitude": -88.571213
+    },
+    {
+        "name": "San Felipe",
+        "country": "Belize",
+        "province": "Orange Walk District",
+        "population": 1499,
+        "latitude": 17.872996,
+        "longitude": -88.773342
+    },
+    {
+        "name": "San Antonio",
+        "country": "Belize",
+        "province": "Toledo",
+        "population": 1204,
+        "latitude": 16.2436111,
+        "longitude": -89.0241667
+    },
+    {
+        "name": "Progresso",
+        "country": "Belize",
+        "province": "Corozal",
+        "population": 1357,
+        "latitude": 18.230855,
+        "longitude": -88.410734
+    },
+    {
+        "name": "Little Belize",
+        "country": "Belize",
+        "province": "Corozal",
+        "population": 2830,
+        "latitude": 18.198003,
+        "longitude": -88.407921
+    },
+    {
+        "name": "Independence",
+        "country": "Belize",
+        "province": "Southern District",
+        "population": 4014,
+        "latitude": 16.5344,
+        "longitude": -88.41878
+    },
+    {
+        "name": "Esperanza",
+        "country": "Belize",
+        "province": "Cayo",
+        "population": 1262,
+        "latitude": 17.174533,
+        "longitude": -89.044151
+    },
+    {
+        "name": "Caye Caulker",
+        "country": "Belize",
+        "province": "Belize",
+        "population": 2000,
+        "latitude": 17.736587925700015,
+        "longitude": -88.0276107788086
+    },
+    {
+        "name": "Carmelita",
+        "country": "Belize",
+        "province": "Orange Walk District",
+        "population": 1474,
+        "latitude": 18.01306,
+        "longitude": -88.5429
+    },
+    {
+        "name": "Yo Creek",
+        "country": "Belize",
+        "province": "Orange Walk District",
+        "population": -1,
+        "latitude": 18.090978,
+        "longitude": -88.646075
+    },
+    {
+        "name": "Yo Chen",
+        "country": "Belize",
+        "province": "Corozal",
+        "population": -1,
+        "latitude": 18.354792,
+        "longitude": -88.497742
+    },
+    {
+        "name": "Xaxe Venic",
+        "country": "Belize",
+        "province": "Orange Walk District",
+        "population": -1,
+        "latitude": 17.5333333,
+        "longitude": -89.1333333
+    },
+    {
+        "name": "Willows Bank",
+        "country": "Belize",
+        "province": "Belize",
+        "population": -1,
+        "latitude": 17.528935,
+        "longitude": -88.57274
+    },
+    {
+        "name": "Trial Farm",
+        "country": "Belize",
+        "province": "Orange Walk District",
+        "population": -1,
+        "latitude": 18.101241,
+        "longitude": -88.565841
+    },
+    {
+        "name": "Toledo Settlement",
+        "country": "Belize",
+        "province": "Toledo",
+        "population": -1,
+        "latitude": 16.133832,
+        "longitude": -88.826239
+    },
+    {
+        "name": "Spanish Lookout",
+        "country": "Belize",
+        "province": "Cayo",
+        "population": -1,
+        "latitude": 17.2627778,
+        "longitude": -89.0091667
+    },
+    {
+        "name": "Silver Creek Camp",
+        "country": "Belize",
+        "province": "Southern District",
+        "population": -1,
+        "latitude": 16.7,
+        "longitude": -88.4666667
+    },
+    {
+        "name": "Seine Bight Village",
+        "country": "Belize",
+        "province": "Southern District",
+        "population": -1,
+        "latitude": 16.569435,
+        "longitude": -88.364933
+    },
+    {
+        "name": "Santa Rita",
+        "country": "Belize",
+        "province": "Corozal",
+        "population": -1,
+        "latitude": 18.38975,
+        "longitude": -88.389141
+    },
+    {
+        "name": "Santana",
+        "country": "Belize",
+        "province": "Belize",
+        "population": -1,
+        "latitude": 17.803243,
+        "longitude": -88.296566
+    },
+    {
+        "name": "San Roman",
+        "country": "Belize",
+        "province": "Orange Walk District",
+        "population": -1,
+        "latitude": 18.192423,
+        "longitude": -88.642499
+    },
+    {
+        "name": "San Pedro",
+        "country": "Belize",
+        "province": "Toledo",
+        "population": -1,
+        "latitude": 16.271527,
+        "longitude": -88.95437
+    },
+    {
+        "name": "San Pablo",
+        "country": "Belize",
+        "province": "Orange Walk District",
+        "population": -1,
+        "latitude": 18.210606,
+        "longitude": -88.566048
+    },
+    {
+        "name": "San Jose Palmar",
+        "country": "Belize",
+        "province": "Orange Walk District",
+        "population": -1,
+        "latitude": 18.062042,
+        "longitude": -88.563499
+    },
+    {
+        "name": "San Joaquin",
+        "country": "Belize",
+        "province": "Corozal",
+        "population": -1,
+        "latitude": 18.352705,
+        "longitude": -88.441988
+    },
+    {
+        "name": "San Fernando",
+        "country": "Belize",
+        "province": "Corozal",
+        "population": -1,
+        "latitude": 18.321325,
+        "longitude": -88.354407
+    },
+    {
+        "name": "San Estevan",
+        "country": "Belize",
+        "province": "Orange Walk District",
+        "population": -1,
+        "latitude": 18.154128,
+        "longitude": -88.511292
+    },
+    {
+        "name": "Sand Hill",
+        "country": "Belize",
+        "province": "Belize",
+        "population": -1,
+        "latitude": 17.640384,
+        "longitude": -88.368281
+    },
+    {
+        "name": "Rockstone Pond",
+        "country": "Belize",
+        "province": "Belize",
+        "population": -1,
+        "latitude": 17.753856,
+        "longitude": -88.343675
+    },
+    {
+        "name": "Roaring Creek",
+        "country": "Belize",
+        "province": "Cayo",
+        "population": -1,
+        "latitude": 17.25,
+        "longitude": -88.7833333
+    },
+    {
+        "name": "Retiro",
+        "country": "Belize",
+        "province": "Cayo",
+        "population": -1,
+        "latitude": 16.7186111,
+        "longitude": -89.1402778
+    },
+    {
+        "name": "Rancho Dolores",
+        "country": "Belize",
+        "province": "Belize",
+        "population": -1,
+        "latitude": 17.535686,
+        "longitude": -88.628496
+    },
+    {
+        "name": "Mullins River",
+        "country": "Belize",
+        "province": "Southern District",
+        "population": -1,
+        "latitude": 17.105081,
+        "longitude": -88.300721
+    },
+    {
+        "name": "More Tomorrow",
+        "country": "Belize",
+        "province": "Cayo",
+        "population": -1,
+        "latitude": 17.347344,
+        "longitude": -88.692045
+    },
+    {
+        "name": "Monkey River Town",
+        "country": "Belize",
+        "province": "Toledo",
+        "population": -1,
+        "latitude": 16.361663,
+        "longitude": -88.48517
+    },
+    {
+        "name": "May Pen",
+        "country": "Belize",
+        "province": "Belize",
+        "population": -1,
+        "latitude": 17.655438,
+        "longitude": -88.471292
+    },
+    {
+        "name": "Maskall",
+        "country": "Belize",
+        "province": "Belize",
+        "population": -1,
+        "latitude": 17.877885,
+        "longitude": -88.311744
+    },
+    {
+        "name": "Lucky Strike",
+        "country": "Belize",
+        "province": "Belize",
+        "population": -1,
+        "latitude": 17.779215,
+        "longitude": -88.316847
+    },
+    {
+        "name": "Louisville",
+        "country": "Belize",
+        "province": "Corozal",
+        "population": -1,
+        "latitude": 18.319461,
+        "longitude": -88.509817
+    },
+    {
+        "name": "La Democracia",
+        "country": "Belize",
+        "province": "Belize",
+        "population": -1,
+        "latitude": 17.340755,
+        "longitude": -88.544717
+    },
+    {
+        "name": "Indian Church",
+        "country": "Belize",
+        "province": "Orange Walk District",
+        "population": -1,
+        "latitude": 17.753918280036007,
+        "longitude": -88.65743637084961
+    },
+    {
+        "name": "Hopkins",
+        "country": "Belize",
+        "province": "Southern District",
+        "population": -1,
+        "latitude": 16.863078,
+        "longitude": -88.28437
+    },
+    {
+        "name": "Hattieville",
+        "country": "Belize",
+        "province": "Belize",
+        "population": -1,
+        "latitude": 17.447795,
+        "longitude": -88.393554
+    },
+    {
+        "name": "Guinea Grass",
+        "country": "Belize",
+        "province": "Orange Walk District",
+        "population": -1,
+        "latitude": 17.967039,
+        "longitude": -88.598371
+    },
+    {
+        "name": "Grace Bank",
+        "country": "Belize",
+        "province": "Belize",
+        "population": -1,
+        "latitude": 17.649823,
+        "longitude": -88.40491
+    },
+    {
+        "name": "Freetown Sibun",
+        "country": "Belize",
+        "province": "Belize",
+        "population": -1,
+        "latitude": 17.424951,
+        "longitude": -88.353967
+    },
+    {
+        "name": "Flowers Bank",
+        "country": "Belize",
+        "province": "Belize",
+        "population": -1,
+        "latitude": 17.614069,
+        "longitude": -88.492919
+    },
+    {
+        "name": "Douglas",
+        "country": "Belize",
+        "province": "Orange Walk District",
+        "population": 521,
+        "latitude": 18.235194,
+        "longitude": -88.60145
+    },
+    {
+        "name": "Double Head Cabbage",
+        "country": "Belize",
+        "province": "Belize",
+        "population": -1,
+        "latitude": 17.543584,
+        "longitude": -88.557501
+    },
+    {
+        "name": "Crooked Tree",
+        "country": "Belize",
+        "province": "Belize",
+        "population": -1,
+        "latitude": 17.775993,
+        "longitude": -88.54203
+    },
+    {
+        "name": "Cristo Rey",
+        "country": "Belize",
+        "province": "Corozal",
+        "population": -1,
+        "latitude": 18.348562,
+        "longitude": -88.49545
+    },
+    {
+        "name": "Corozalito",
+        "country": "Belize",
+        "province": "Belize",
+        "population": -1,
+        "latitude": 17.839029,
+        "longitude": -88.273948
+    },
+    {
+        "name": "Consejo",
+        "country": "Belize",
+        "province": "Corozal",
+        "population": -1,
+        "latitude": 18.457356,
+        "longitude": -88.301336
+    },
+    {
+        "name": "Chunox",
+        "country": "Belize",
+        "province": "Corozal",
+        "population": -1,
+        "latitude": 18.297846,
+        "longitude": -88.357463
+    },
+    {
+        "name": "Chan Pine Ridge",
+        "country": "Belize",
+        "province": "Orange Walk District",
+        "population": -1,
+        "latitude": 18.03693,
+        "longitude": -88.58251
+    },
+    {
+        "name": "Chan Chen",
+        "country": "Belize",
+        "province": "Corozal",
+        "population": -1,
+        "latitude": 18.4333333,
+        "longitude": -88.4166667
+    },
+    {
+        "name": "Camelote",
+        "country": "Belize",
+        "province": "Cayo",
+        "population": -1,
+        "latitude": 17.238817,
+        "longitude": -88.827377
+    },
+    {
+        "name": "Caledonia",
+        "country": "Belize",
+        "province": "Corozal",
+        "population": -1,
+        "latitude": 18.22735,
+        "longitude": -88.47745
+    },
+    {
+        "name": "Calcutta",
+        "country": "Belize",
+        "province": "Corozal",
+        "population": -1,
+        "latitude": 18.361799,
+        "longitude": -88.438783
+    },
+    {
+        "name": "Burrell Boom",
+        "country": "Belize",
+        "province": "Belize",
+        "population": -1,
+        "latitude": 17.56932951622164,
+        "longitude": -88.40526580810547
+    },
+    {
+        "name": "Bullet Tree Falls",
+        "country": "Belize",
+        "province": "Cayo",
+        "population": -1,
+        "latitude": 17.168,
+        "longitude": -89.111
+    },
+    {
+        "name": "Bomba",
+        "country": "Belize",
+        "province": "Belize",
+        "population": -1,
+        "latitude": 17.891656,
+        "longitude": -88.276183
+    },
+    {
+        "name": "Blue Creek Village",
+        "country": "Belize",
+        "province": "Orange Walk District",
+        "population": -1,
+        "latitude": 17.893201,
+        "longitude": -88.889822
+    },
+    {
+        "name": "Biscayne",
+        "country": "Belize",
+        "province": "Belize",
+        "population": -1,
+        "latitude": 17.717017,
+        "longitude": -88.457228
+    },
+    {
+        "name": "Big Falls",
+        "country": "Belize",
+        "province": "Belize",
+        "population": -1,
+        "latitude": 17.494673,
+        "longitude": -88.584573
+    },
+    {
+        "name": "Bermudian Landing",
+        "country": "Belize",
+        "province": "Belize",
+        "population": -1,
+        "latitude": 17.557300563392428,
+        "longitude": -88.53572845458984
+    },
+    {
+        "name": "Barranco",
+        "country": "Belize",
+        "province": "Toledo",
+        "population": -1,
+        "latitude": 16,
+        "longitude": -88.9166667
+    },
+    {
+        "name": "San Margos",
+        "country": "Belize",
+        "province": "Toledo",
+        "population": -1,
+        "latitude": 16.216747,
+        "longitude": -88.900955
+    },
+    {
+        "name": "Blackman Eddy",
+        "country": "Belize",
+        "province": "Cayo",
+        "population": 504,
+        "latitude": 17.2167,
+        "longitude": -88.9167
+    },
+    {
+        "name": "St. Margaret",
+        "country": "Belize",
+        "province": "Cayo",
+        "population": -1,
+        "latitude": 17.09047,
+        "longitude": -88.61096
+    },
+    {
+        "name": "Yalbac Camp",
+        "country": "Belize",
+        "province": "Orange Walk District",
+        "population": -1,
+        "latitude": 17.380978,
+        "longitude": -88.944458
+    },
+    {
+        "name": "Teakettle Village",
+        "country": "Belize",
+        "province": "Cayo",
+        "population": -1,
+        "latitude": 17.229497,
+        "longitude": -88.854989
+    },
+    {
+        "name": "Tacistal",
+        "country": "Belize",
+        "province": "Orange Walk District",
+        "population": -1,
+        "latitude": 17.897589,
+        "longitude": -88.757639
+    },
+    {
+        "name": "Patchchacan",
+        "country": "Belize",
+        "province": "Corozal",
+        "population": -1,
+        "latitude": 18.400558,
+        "longitude": -88.471505
+    },
+    {
+        "name": "Middlesex",
+        "country": "Belize",
+        "province": "Southern District",
+        "population": -1,
+        "latitude": 17.03996,
+        "longitude": -88.52174
+    },
+    {
+        "name": "Mango Creek",
+        "country": "Belize",
+        "province": "Southern District",
+        "population": -1,
+        "latitude": 16.536,
+        "longitude": -88.41479
+    },
+    {
+        "name": "Lord’s Bank",
+        "country": "Belize",
+        "province": "Belize",
+        "population": -1,
+        "latitude": 17.544624,
+        "longitude": -88.333277
+    },
+    {
+        "name": "Esperanza Camp",
+        "country": "Belize",
+        "province": "Toledo",
+        "population": -1,
+        "latitude": 16.4172222,
+        "longitude": -89.0230556
+    },
+    {
+        "name": "Edenthal",
+        "country": "Belize",
+        "province": "Orange Walk District",
+        "population": -1,
+        "latitude": 17.927095,
+        "longitude": -88.981953
+    },
+    {
+        "name": "Dolores",
+        "country": "Belize",
+        "province": "Toledo",
+        "population": -1,
+        "latitude": 15.989027,
+        "longitude": -89.210853
+    },
+    {
+        "name": "Crique Sarco",
+        "country": "Belize",
+        "province": "Toledo",
+        "population": -1,
+        "latitude": 15.9833333,
+        "longitude": -89.1
+    },
+    {
+        "name": "Corozalito",
+        "country": "Belize",
+        "province": "Orange Walk District",
+        "population": -1,
+        "latitude": 17.961433,
+        "longitude": -88.803407
+    },
+    {
+        "name": "Cattle Landing",
+        "country": "Belize",
+        "province": "Toledo",
+        "population": -1,
+        "latitude": 16.119473,
+        "longitude": -88.795229
+    },
+    {
+        "name": "Blue Creek Village",
+        "country": "Belize",
+        "province": "Toledo",
+        "population": -1,
+        "latitude": 16.1977778,
+        "longitude": -89.0422222
+    },
+    {
+        "name": "Blancaneau",
+        "country": "Belize",
+        "province": "Cayo",
+        "population": -1,
+        "latitude": 17.046366,
+        "longitude": -88.964231
+    },
+    {
+        "name": "Big Creek",
+        "country": "Belize",
+        "province": "Southern District",
+        "population": -1,
+        "latitude": 16.51765,
+        "longitude": -88.40582
+    },
+    {
+        "name": "Benque Ceiba",
+        "country": "Belize",
+        "province": "Cayo",
+        "population": -1,
+        "latitude": 17.185358,
+        "longitude": -89.033549
+    },
+    {
+        "name": "Aguacate",
+        "country": "Belize",
+        "province": "Toledo",
+        "population": -1,
+        "latitude": 16.1622222,
+        "longitude": -89.0938889
+    },
+    {
+        "name": "Xpicilha Village",
+        "country": "Belize",
+        "province": "Toledo",
+        "population": -1,
+        "latitude": 16.0286111,
+        "longitude": -89.2133333
+    },
+    {
+        "name": "Xcanha",
+        "country": "Belize",
+        "province": "Orange Walk District",
+        "population": -1,
+        "latitude": 18.004049,
+        "longitude": -88.358183
+    },
+    {
+        "name": "Washing Tree",
+        "country": "Belize",
+        "province": "Belize",
+        "population": -1,
+        "latitude": 17.685327,
+        "longitude": -88.460353
+    },
+    {
+        "name": "Warrie Camp",
+        "country": "Belize",
+        "province": "Orange Walk District",
+        "population": -1,
+        "latitude": 18.000765,
+        "longitude": -88.319739
+    },
+    {
+        "name": "Vaqueros",
+        "country": "Belize",
+        "province": "Orange Walk District",
+        "population": -1,
+        "latitude": 17.979709,
+        "longitude": -88.783231
+    },
+    {
+        "name": "Campamento Unión",
+        "country": "Belize",
+        "province": "Toledo",
+        "population": -1,
+        "latitude": 16.396389,
+        "longitude": -89.141944
+    },
+    {
+        "name": "Tu-Tu Camp",
+        "country": "Belize",
+        "province": "Cayo",
+        "population": -1,
+        "latitude": 17.322987,
+        "longitude": -89.137757
+    },
+    {
+        "name": "Toro",
+        "country": "Belize",
+        "province": "Cayo",
+        "population": -1,
+        "latitude": 17.303608,
+        "longitude": -89.141998
+    },
+    {
+        "name": "Spanish Lookout",
+        "country": "Belize",
+        "province": "Cayo",
+        "population": -1,
+        "latitude": 17.2166667,
+        "longitude": -88.9833333
+    },
+    {
+        "name": "Santa Theresa",
+        "country": "Belize",
+        "province": "Toledo",
+        "population": -1,
+        "latitude": 16.1333333,
+        "longitude": -89.05
+    },
+    {
+        "name": "San Pedro Landing",
+        "country": "Belize",
+        "province": "Toledo",
+        "population": -1,
+        "latitude": 15.937677,
+        "longitude": -89.204435
+    },
+    {
+        "name": "San Pastor Camp",
+        "country": "Belize",
+        "province": "Cayo",
+        "population": -1,
+        "latitude": 16.716212,
+        "longitude": -88.990112
+    },
+    {
+        "name": "San Jose",
+        "country": "Belize",
+        "province": "Toledo",
+        "population": -1,
+        "latitude": 16.26713,
+        "longitude": -89.09363
+    },
+    {
+        "name": "San Antonio",
+        "country": "Belize",
+        "province": "Orange Walk District",
+        "population": -1,
+        "latitude": 18.131124,
+        "longitude": -88.674182
+    },
+    {
+        "name": "San Antonia",
+        "country": "Belize",
+        "province": "Toledo",
+        "population": -1,
+        "latitude": 16.1,
+        "longitude": -88.933333
+    },
+    {
+        "name": "Saint Paul’s",
+        "country": "Belize",
+        "province": "Belize",
+        "population": -1,
+        "latitude": 17.511558,
+        "longitude": -88.590742
+    },
+    {
+        "name": "Rock Dondo",
+        "country": "Belize",
+        "province": "Cayo",
+        "population": -1,
+        "latitude": 17.35,
+        "longitude": -88.7333333
+    },
+    {
+        "name": "Rio Blanco",
+        "country": "Belize",
+        "province": "Toledo",
+        "population": -1,
+        "latitude": 16.2297222,
+        "longitude": -89.1086111
+    },
+    {
+        "name": "Resumadero Camp",
+        "country": "Belize",
+        "province": "Cayo",
+        "population": -1,
+        "latitude": 16.631391,
+        "longitude": -89.068152
+    },
+    {
+        "name": "Pueblo Viejo",
+        "country": "Belize",
+        "province": "Toledo",
+        "population": -1,
+        "latitude": 16.2052778,
+        "longitude": -89.1416667
+    },
+    {
+        "name": "Puchituk Camp",
+        "country": "Belize",
+        "province": "Cayo",
+        "population": -1,
+        "latitude": 16.768718,
+        "longitude": -89.061853
+    },
+    {
+        "name": "Pescado Camp",
+        "country": "Belize",
+        "province": "Orange Walk District",
+        "population": -1,
+        "latitude": 17.357605,
+        "longitude": -89.106812
+    },
+    {
+        "name": "Pascua Camp",
+        "country": "Belize",
+        "province": "Orange Walk District",
+        "population": -1,
+        "latitude": 17.40378,
+        "longitude": -89.044111
+    },
+    {
+        "name": "Palmar Camp",
+        "country": "Belize",
+        "province": "Toledo",
+        "population": -1,
+        "latitude": 16.449051,
+        "longitude": -88.881767
+    },
+    {
+        "name": "Otoxha Village",
+        "country": "Belize",
+        "province": "Toledo",
+        "population": -1,
+        "latitude": 16.021291,
+        "longitude": -89.175918
+    },
+    {
+        "name": "Nuendorf",
+        "country": "Belize",
+        "province": "Orange Walk District",
+        "population": -1,
+        "latitude": 17.897759,
+        "longitude": -88.901445
+    },
+    {
+        "name": "Machaca",
+        "country": "Belize",
+        "province": "Toledo",
+        "population": -1,
+        "latitude": 16.1402778,
+        "longitude": -89.115
+    },
+    {
+        "name": "Locust Bank",
+        "country": "Belize",
+        "province": "Southern District",
+        "population": -1,
+        "latitude": 16.778029,
+        "longitude": -88.489331
+    },
+    {
+        "name": "Libertad",
+        "country": "Belize",
+        "province": "Corozal",
+        "population": -1,
+        "latitude": 18.307908,
+        "longitude": -88.454436
+    },
+    {
+        "name": "Lagoona",
+        "country": "Belize",
+        "province": "Toledo",
+        "population": -1,
+        "latitude": 16.169067,
+        "longitude": -88.937948
+    },
+    {
+        "name": "Lagarto",
+        "country": "Belize",
+        "province": "Orange Walk District",
+        "population": -1,
+        "latitude": 17.397267,
+        "longitude": -89.140408
+    },
+    {
+        "name": "La Flor Camp",
+        "country": "Belize",
+        "province": "Cayo",
+        "population": -1,
+        "latitude": 16.622728,
+        "longitude": -89.0092
+    },
+    {
+        "name": "Kendal",
+        "country": "Belize",
+        "province": "Southern District",
+        "population": -1,
+        "latitude": 16.811289,
+        "longitude": -88.382056
+    },
+    {
+        "name": "Jacinto Landing",
+        "country": "Belize",
+        "province": "Toledo",
+        "population": -1,
+        "latitude": 16.1666667,
+        "longitude": -88.85
+    },
+    {
+        "name": "High Sand",
+        "country": "Belize",
+        "province": "Southern District",
+        "population": -1,
+        "latitude": 16.826335,
+        "longitude": -88.309492
+    },
+    {
+        "name": "Flour Camp",
+        "country": "Belize",
+        "province": "Cayo",
+        "population": -1,
+        "latitude": 17.044673,
+        "longitude": -89.063307
+    },
+    {
+        "name": "Esperanza",
+        "country": "Belize",
+        "province": "Toledo",
+        "population": -1,
+        "latitude": 16.498119,
+        "longitude": -88.871412
+    },
+    {
+        "name": "Egypt",
+        "country": "Belize",
+        "province": "Belize",
+        "population": -1,
+        "latitude": 17.425329,
+        "longitude": -88.391393
+    },
+    {
+        "name": "Cubetas",
+        "country": "Belize",
+        "province": "Cayo",
+        "population": -1,
+        "latitude": 16.7847222,
+        "longitude": -89.01
+    },
+    {
+        "name": "Coquericot",
+        "country": "Belize",
+        "province": "Cayo",
+        "population": -1,
+        "latitude": 17.422736,
+        "longitude": -88.622377
+    },
+    {
+        "name": "Cohune Ridge",
+        "country": "Belize",
+        "province": "Cayo",
+        "population": -1,
+        "latitude": 16.8194444,
+        "longitude": -89.0841667
+    },
+    {
+        "name": "Chan Bank",
+        "country": "Belize",
+        "province": "Toledo",
+        "population": -1,
+        "latitude": 16.538522,
+        "longitude": -88.702189
+    },
+    {
+        "name": "Chicago",
+        "country": "Belize",
+        "province": "Belize",
+        "population": -1,
+        "latitude": 17.815235,
+        "longitude": -88.311589
+    },
+    {
+        "name": "Chan Limón",
+        "country": "Belize",
+        "province": "Orange Walk District",
+        "population": -1,
+        "latitude": 17.361719,
+        "longitude": -89.138464
+    },
+    {
+        "name": "Chacan Chac Mol",
+        "country": "Belize",
+        "province": "Corozal",
+        "population": -1,
+        "latitude": 18.27377,
+        "longitude": -88.257434
+    },
+    {
+        "name": "Campa Pita",
+        "country": "Belize",
+        "province": "Corozal",
+        "population": -1,
+        "latitude": 18.078307,
+        "longitude": -88.299519
+    },
+    {
+        "name": "Callar Creek",
+        "country": "Belize",
+        "province": "Cayo",
+        "population": -1,
+        "latitude": 17.12749,
+        "longitude": -89.137303
+    },
+    {
+        "name": "Cadena Creek Camp",
+        "country": "Belize",
+        "province": "Cayo",
+        "population": -1,
+        "latitude": 17.2833333,
+        "longitude": -89.1
+    },
+    {
+        "name": "Cabro",
+        "country": "Belize",
+        "province": "Toledo",
+        "population": -1,
+        "latitude": 16.40056,
+        "longitude": -89.06749
+    },
+    {
+        "name": "Butcher Burns",
+        "country": "Belize",
+        "province": "Belize",
+        "population": -1,
+        "latitude": 17.41091,
+        "longitude": -88.445268
+    },
+    {
+        "name": "Baldy Beacon",
+        "country": "Belize",
+        "province": "Cayo",
+        "population": -1,
+        "latitude": 17.003466,
+        "longitude": -88.791738
+    },
+    {
+        "name": "August Pine Ridge",
+        "country": "Belize",
+        "province": "Orange Walk District",
+        "population": -1,
+        "latitude": 17.972499,
+        "longitude": -88.724892
+    },
+    {
+        "name": "El Arenal",
+        "country": "Belize",
+        "province": "Cayo",
+        "population": -1,
+        "latitude": 17.023507,
+        "longitude": -89.152516
+    },
+    {
+        "name": "Buena Vista",
+        "country": "Belize",
+        "province": "Cayo",
+        "population": -1,
+        "latitude": 17.131365,
+        "longitude": -89.12817
+    },
+    {
+        "name": "Macaw Bank",
+        "country": "Belize",
+        "province": "Cayo",
+        "population": -1,
+        "latitude": 17.083564,
+        "longitude": -89.063574
+    },
+    {
+        "name": "Xcanluum",
+        "country": "Belize",
+        "province": "Corozal",
+        "population": -1,
+        "latitude": 18.398098,
+        "longitude": -88.460474
+    },
+    {
+        "name": "White Hill",
+        "country": "Belize",
+        "province": "Belize",
+        "population": -1,
+        "latitude": 17.25,
+        "longitude": -88.4833333
+    },
+    {
+        "name": "Watters Bank",
+        "country": "Belize",
+        "province": "Belize",
+        "population": -1,
+        "latitude": 17.31197,
+        "longitude": -88.356074
+    },
+    {
+        "name": "Water Bank",
+        "country": "Belize",
+        "province": "Orange Walk District",
+        "population": -1,
+        "latitude": 17.78914,
+        "longitude": -88.640673
+    },
+    {
+        "name": "Wamil",
+        "country": "Belize",
+        "province": "Orange Walk District",
+        "population": -1,
+        "latitude": 17.544471,
+        "longitude": -88.934883
+    },
+    {
+        "name": "Waha Leaf Camp",
+        "country": "Belize",
+        "province": "Toledo",
+        "population": -1,
+        "latitude": 16.593987,
+        "longitude": -88.647126
+    },
+    {
+        "name": "Villa Alfonso",
+        "country": "Belize",
+        "province": "Corozal",
+        "population": -1,
+        "latitude": 18.2833333,
+        "longitude": -88.45
+    },
+    {
+        "name": "Valentin Camp",
+        "country": "Belize",
+        "province": "Cayo",
+        "population": -1,
+        "latitude": 16.7663889,
+        "longitude": -89.1625
+    },
+    {
+        "name": "Vaca",
+        "country": "Belize",
+        "province": "Cayo",
+        "population": -1,
+        "latitude": 17.0325,
+        "longitude": -89.0633333
+    },
+    {
+        "name": "Unitedville",
+        "country": "Belize",
+        "province": "Cayo",
+        "population": -1,
+        "latitude": 17.210306,
+        "longitude": -88.933848
+    },
+    {
+        "name": "Union Camp",
+        "country": "Belize",
+        "province": "Cayo",
+        "population": -1,
+        "latitude": 16.6275,
+        "longitude": -89.0188889
+    },
+    {
+        "name": "Tropical Park",
+        "country": "Belize",
+        "province": "Belize",
+        "population": -1,
+        "latitude": 17.4666667,
+        "longitude": -88.3833333
+    },
+    {
+        "name": "Trio Camp",
+        "country": "Belize",
+        "province": "Toledo",
+        "population": -1,
+        "latitude": 16.585189,
+        "longitude": -88.670356
+    },
+    {
+        "name": "Trinidad",
+        "country": "Belize",
+        "province": "Orange Walk District",
+        "population": -1,
+        "latitude": 18.023555,
+        "longitude": -88.686983
+    },
+    {
+        "name": "Tres Leguas Mennonite Settlement",
+        "country": "Belize",
+        "province": "Orange Walk District",
+        "population": -1,
+        "latitude": 17.88432,
+        "longitude": -88.916987
+    },
+    {
+        "name": "Tres Leguas",
+        "country": "Belize",
+        "province": "Orange Walk District",
+        "population": -1,
+        "latitude": 17.887627,
+        "longitude": -88.957099
+    },
+    {
+        "name": "Tres Brazos",
+        "country": "Belize",
+        "province": "Orange Walk District",
+        "population": -1,
+        "latitude": 18.053157,
+        "longitude": -88.540495
+    },
+    {
+        "name": "Trapiche",
+        "country": "Belize",
+        "province": "Cayo",
+        "population": -1,
+        "latitude": 17.169499,
+        "longitude": -89.065
+    },
+    {
+        "name": "Teakettle Camp",
+        "country": "Belize",
+        "province": "Toledo",
+        "population": -1,
+        "latitude": 16.514405,
+        "longitude": -88.831303
+    },
+    {
+        "name": "Tacistal",
+        "country": "Belize",
+        "province": "Corozal",
+        "population": -1,
+        "latitude": 18.384011,
+        "longitude": -88.442734
+    },
+    {
+        "name": "Swasey Branch Barquedier",
+        "country": "Belize",
+        "province": "Corozal",
+        "population": -1,
+        "latitude": 18.187603,
+        "longitude": -88.471695
+    },
+    {
+        "name": "Spring Camp",
+        "country": "Belize",
+        "province": "Orange Walk District",
+        "population": -1,
+        "latitude": 17.408263,
+        "longitude": -89.073634
+    },
+    {
+        "name": "South View Point",
+        "country": "Belize",
+        "province": "Cayo",
+        "population": -1,
+        "latitude": 16.9,
+        "longitude": -88.9833333
+    },
+    {
+        "name": "Solomon Camp",
+        "country": "Belize",
+        "province": "Toledo",
+        "population": -1,
+        "latitude": 16.557786,
+        "longitude": -88.756547
+    },
+    {
+        "name": "Sittee",
+        "country": "Belize",
+        "province": "Southern District",
+        "population": -1,
+        "latitude": 16.8333333,
+        "longitude": -88.2833333
+    },
+    {
+        "name": "Silvester’s Camp",
+        "country": "Belize",
+        "province": "Orange Walk District",
+        "population": -1,
+        "latitude": 17.587107,
+        "longitude": -89.092181
+    },
+    {
+        "name": "Silk Grass",
+        "country": "Belize",
+        "province": "Southern District",
+        "population": -1,
+        "latitude": 16.8833333,
+        "longitude": -88.3333333
+    },
+    {
+        "name": "Sierra de Agua",
+        "country": "Belize",
+        "province": "Orange Walk District",
+        "population": -1,
+        "latitude": 17.543644,
+        "longitude": -88.878374
+    },
+    {
+        "name": "Sibun Camp",
+        "country": "Belize",
+        "province": "Cayo",
+        "population": -1,
+        "latitude": 17.094916,
+        "longitude": -88.656593
+    },
+    {
+        "name": "Shipstern Landing",
+        "country": "Belize",
+        "province": "Corozal",
+        "population": -1,
+        "latitude": 18.233265,
+        "longitude": -88.184411
+    },
+    {
+        "name": "Shipstern",
+        "country": "Belize",
+        "province": "Corozal",
+        "population": -1,
+        "latitude": 18.186224,
+        "longitude": -88.168501
+    },
+    {
+        "name": "Scotland",
+        "country": "Belize",
+        "province": "Belize",
+        "population": -1,
+        "latitude": 17.5666667,
+        "longitude": -88.5166667
+    },
+    {
+        "name": "Sayab Camp",
+        "country": "Belize",
+        "province": "Cayo",
+        "population": -1,
+        "latitude": 17.110695,
+        "longitude": -88.969666
+    },
+    {
+        "name": "Savannah Bank",
+        "country": "Belize",
+        "province": "Cayo",
+        "population": -1,
+        "latitude": 17.190704,
+        "longitude": -88.805281
+    },
+    {
+        "name": "Saturday Creek",
+        "country": "Belize",
+        "province": "Cayo",
+        "population": -1,
+        "latitude": 17.3166667,
+        "longitude": -88.7666667
+    },
+    {
+        "name": "Sarawina",
+        "country": "Belize",
+        "province": "Southern District",
+        "population": -1,
+        "latitude": 16.971453,
+        "longitude": -88.273805
+    },
+    {
+        "name": "San Victor",
+        "country": "Belize",
+        "province": "Corozal",
+        "population": -1,
+        "latitude": 18.258639,
+        "longitude": -88.576007
+    },
+    {
+        "name": "Santa Rosa",
+        "country": "Belize",
+        "province": "Corozal",
+        "population": -1,
+        "latitude": 18.483695,
+        "longitude": -88.459291
+    },
+    {
+        "name": "Santa Rosa",
+        "country": "Belize",
+        "province": "Cayo",
+        "population": -1,
+        "latitude": 17.136087,
+        "longitude": -89.137169
+    },
+    {
+        "name": "Santa Elena",
+        "country": "Belize",
+        "province": "Cayo",
+        "population": -1,
+        "latitude": 17.16142,
+        "longitude": -89.05462
+    },
+    {
+        "name": "Santa Cruz",
+        "country": "Belize",
+        "province": "Orange Walk District",
+        "population": -1,
+        "latitude": 18.11526,
+        "longitude": -88.70602
+    },
+    {
+        "name": "Santa Cruz",
+        "country": "Belize",
+        "province": "Toledo",
+        "population": -1,
+        "latitude": 16.234333,
+        "longitude": -89.076606
+    },
+    {
+        "name": "Santa Clara",
+        "country": "Belize",
+        "province": "Corozal",
+        "population": -1,
+        "latitude": 18.294119,
+        "longitude": -88.512202
+    },
+    {
+        "name": "Santa Anna",
+        "country": "Belize",
+        "province": "Toledo",
+        "population": -1,
+        "latitude": 16.104153,
+        "longitude": -88.95443
+    },
+    {
+        "name": "San Roman",
+        "country": "Belize",
+        "province": "Corozal",
+        "population": -1,
+        "latitude": 18.297197,
+        "longitude": -88.507752
+    },
+    {
+        "name": "San Pedro",
+        "country": "Belize",
+        "province": "Corozal",
+        "population": -1,
+        "latitude": 18.337649,
+        "longitude": -88.49491
+    },
+    {
+        "name": "San Pedro",
+        "country": "Belize",
+        "province": "Cayo",
+        "population": -1,
+        "latitude": 17.35,
+        "longitude": -88.9833333
+    },
+    {
+        "name": "San Miguel",
+        "country": "Belize",
+        "province": "Cayo",
+        "population": -1,
+        "latitude": 17.182507,
+        "longitude": -89.023481
+    },
+    {
+        "name": "San Miguel",
+        "country": "Belize",
+        "province": "Toledo",
+        "population": -1,
+        "latitude": 16.293043,
+        "longitude": -88.93197
+    },
+    {
+        "name": "San Luis",
+        "country": "Belize",
+        "province": "Orange Walk District",
+        "population": -1,
+        "latitude": 18.191803,
+        "longitude": -88.602965
+    },
+    {
+        "name": "San Lucas",
+        "country": "Belize",
+        "province": "Toledo",
+        "population": -1,
+        "latitude": 16.076794,
+        "longitude": -89.098524
+    },
+    {
+        "name": "San Lorenzo",
+        "country": "Belize",
+        "province": "Orange Walk District",
+        "population": -1,
+        "latitude": 18.140697,
+        "longitude": -88.622388
+    },
+    {
+        "name": "San Lazaro",
+        "country": "Belize",
+        "province": "Orange Walk District",
+        "population": -1,
+        "latitude": 18.038487,
+        "longitude": -88.663162
+    },
+    {
+        "name": "San Juan Bank",
+        "country": "Belize",
+        "province": "Orange Walk District",
+        "population": -1,
+        "latitude": 17.985954,
+        "longitude": -88.300108
+    },
+    {
+        "name": "San Juan",
+        "country": "Belize",
+        "province": "Orange Walk District",
+        "population": -1,
+        "latitude": 18.1833333,
+        "longitude": -88.6166667
+    },
+    {
+        "name": "San Jose",
+        "country": "Belize",
+        "province": "Orange Walk District",
+        "population": -1,
+        "latitude": 17.4833333,
+        "longitude": -88.9333333
+    },
+    {
+        "name": "San Jose",
+        "country": "Belize",
+        "province": "Cayo",
+        "population": -1,
+        "latitude": 17.171014,
+        "longitude": -89.098011
+    },
+    {
+        "name": "San Francisco",
+        "country": "Belize",
+        "province": "Corozal",
+        "population": -1,
+        "latitude": 18.323859,
+        "longitude": -88.458237
+    },
+    {
+        "name": "San Felipe",
+        "country": "Belize",
+        "province": "Cayo",
+        "population": -1,
+        "latitude": 17.146792,
+        "longitude": -89.066801
+    },
+    {
+        "name": "San Felipe",
+        "country": "Belize",
+        "province": "Toledo",
+        "population": -1,
+        "latitude": 16.132595,
+        "longitude": -88.904984
+    },
+    {
+        "name": "San Benito Poite",
+        "country": "Belize",
+        "province": "Toledo",
+        "population": -1,
+        "latitude": 16.11254,
+        "longitude": -89.186044
+    },
+    {
+        "name": "San Antonio",
+        "country": "Belize",
+        "province": "Corozal",
+        "population": -1,
+        "latitude": 18.401751,
+        "longitude": -88.3998
+    },
+    {
+        "name": "San Antonio",
+        "country": "Belize",
+        "province": "Cayo",
+        "population": -1,
+        "latitude": 17.0786111,
+        "longitude": -89.0236111
+    },
+    {
+        "name": "San Andres",
+        "country": "Belize",
+        "province": "Corozal",
+        "population": -1,
+        "latitude": 18.389221,
+        "longitude": -88.409392
+    },
+    {
+        "name": "Saltillo",
+        "country": "Belize",
+        "province": "Corozal",
+        "population": -1,
+        "latitude": 18.314573,
+        "longitude": -88.392596
+    },
+    {
+        "name": "Sale si Puede",
+        "country": "Belize",
+        "province": "Southern District",
+        "population": -1,
+        "latitude": 16.713339,
+        "longitude": -88.636059
+    },
+    {
+        "name": "Saint Vincent Block",
+        "country": "Belize",
+        "province": "Toledo",
+        "population": -1,
+        "latitude": 16.114398,
+        "longitude": -88.826543
+    },
+    {
+        "name": "Saint Thomas",
+        "country": "Belize",
+        "province": "Cayo",
+        "population": -1,
+        "latitude": 17.15,
+        "longitude": -88.6333333
+    },
+    {
+        "name": "Round Hole Bank",
+        "country": "Belize",
+        "province": "Cayo",
+        "population": -1,
+        "latitude": 16.7002778,
+        "longitude": -89.1130556
+    },
+    {
+        "name": "Round Hole",
+        "country": "Belize",
+        "province": "Cayo",
+        "population": -1,
+        "latitude": 17.323102,
+        "longitude": -89.082694
+    },
+    {
+        "name": "Rosita",
+        "country": "Belize",
+        "province": "Orange Walk District",
+        "population": -1,
+        "latitude": 17.886755,
+        "longitude": -88.916871
+    },
+    {
+        "name": "Rockville",
+        "country": "Belize",
+        "province": "Belize",
+        "population": -1,
+        "latitude": 17.4,
+        "longitude": -88.4666667
+    },
+    {
+        "name": "Rito Bonillo",
+        "country": "Belize",
+        "province": "Toledo",
+        "population": -1,
+        "latitude": 16.4275,
+        "longitude": -89.1144444
+    },
+    {
+        "name": "Rice Station",
+        "country": "Belize",
+        "province": "Toledo",
+        "population": -1,
+        "latitude": 16.135902,
+        "longitude": -88.843869
+    },
+    {
+        "name": "Revenge",
+        "country": "Belize",
+        "province": "Belize",
+        "population": -1,
+        "latitude": 17.862537,
+        "longitude": -88.551638
+    },
+    {
+        "name": "Remate",
+        "country": "Belize",
+        "province": "Corozal",
+        "population": -1,
+        "latitude": 18.453115,
+        "longitude": -88.413388
+    },
+    {
+        "name": "Rejolla",
+        "country": "Belize",
+        "province": "Orange Walk District",
+        "population": -1,
+        "latitude": 17.419475,
+        "longitude": -89.121312
+    },
+    {
+        "name": "Reinland",
+        "country": "Belize",
+        "province": "Orange Walk District",
+        "population": -1,
+        "latitude": 17.88215,
+        "longitude": -88.882474
+    },
+    {
+        "name": "Regalia",
+        "country": "Belize",
+        "province": "Southern District",
+        "population": -1,
+        "latitude": 16.812841,
+        "longitude": -88.331981
+    },
+    {
+        "name": "Red Bank",
+        "country": "Belize",
+        "province": "Southern District",
+        "population": -1,
+        "latitude": 16.763041,
+        "longitude": -88.492705
+    },
+    {
+        "name": "Red Bank Village",
+        "country": "Belize",
+        "province": "Southern District",
+        "population": -1,
+        "latitude": 16.616446,
+        "longitude": -88.559112
+    },
+    {
+        "name": "Ranger Camp",
+        "country": "Belize",
+        "province": "Toledo",
+        "population": -1,
+        "latitude": 16.478797,
+        "longitude": -88.804958
+    },
+    {
+        "name": "Rancho Grande",
+        "country": "Belize",
+        "province": "Southern District",
+        "population": -1,
+        "latitude": 16.719501,
+        "longitude": -88.599653
+    },
+    {
+        "name": "Rancho Corozal",
+        "country": "Belize",
+        "province": "Corozal",
+        "population": -1,
+        "latitude": 18.255956,
+        "longitude": -88.407328
+    },
+    {
+        "name": "Rancho",
+        "country": "Belize",
+        "province": "Orange Walk District",
+        "population": -1,
+        "latitude": 17.9594,
+        "longitude": -88.372497
+    },
+    {
+        "name": "Ranchito",
+        "country": "Belize",
+        "province": "Corozal",
+        "population": -1,
+        "latitude": 18.377526,
+        "longitude": -88.41031
+    },
+    {
+        "name": "Ramonal",
+        "country": "Belize",
+        "province": "Orange Walk District",
+        "population": -1,
+        "latitude": 17.411827,
+        "longitude": -89.132411
+    },
+    {
+        "name": "Ramonal",
+        "country": "Belize",
+        "province": "Cayo",
+        "population": -1,
+        "latitude": 17.156593,
+        "longitude": -89.130878
+    },
+    {
+        "name": "Quatro Leguas",
+        "country": "Belize",
+        "province": "Orange Walk District",
+        "population": -1,
+        "latitude": 17.916772,
+        "longitude": -88.982494
+    },
+    {
+        "name": "Quarry Hill",
+        "country": "Belize",
+        "province": "Southern District",
+        "population": -1,
+        "latitude": 16.996808,
+        "longitude": -88.359285
+    },
+    {
+        "name": "Pueblo Nuevo",
+        "country": "Belize",
+        "province": "Corozal",
+        "population": -1,
+        "latitude": 18.309839,
+        "longitude": -88.412895
+    },
+    {
+        "name": "Puebla Nueva",
+        "country": "Belize",
+        "province": "Corozal",
+        "population": -1,
+        "latitude": 18.310591,
+        "longitude": -88.412322
+    },
+    {
+        "name": "Pucte",
+        "country": "Belize",
+        "province": "Corozal",
+        "population": -1,
+        "latitude": 18.136358,
+        "longitude": -88.438216
+    },
+    {
+        "name": "Providencien",
+        "country": "Belize",
+        "province": "Cayo",
+        "population": -1,
+        "latitude": 17.143126,
+        "longitude": -89.136189
+    },
+    {
+        "name": "Privassion Camp",
+        "country": "Belize",
+        "province": "Cayo",
+        "population": -1,
+        "latitude": 17.035764,
+        "longitude": -88.9465
+    },
+    {
+        "name": "Pomona",
+        "country": "Belize",
+        "province": "Southern District",
+        "population": -1,
+        "latitude": 16.995137,
+        "longitude": -88.374244
+    },
+    {
+        "name": "Plant Sucker",
+        "country": "Belize",
+        "province": "Cayo",
+        "population": -1,
+        "latitude": 17.15805,
+        "longitude": -89.135521
+    },
+    {
+        "name": "Piedregal",
+        "country": "Belize",
+        "province": "Orange Walk District",
+        "population": -1,
+        "latitude": 17.379046,
+        "longitude": -89.143428
+    },
+    {
+        "name": "Piebra",
+        "country": "Belize",
+        "province": "Toledo",
+        "population": -1,
+        "latitude": 16.104338,
+        "longitude": -88.939147
+    },
+    {
+        "name": "Pettville",
+        "country": "Belize",
+        "province": "Orange Walk District",
+        "population": -1,
+        "latitude": 18.078228,
+        "longitude": -88.539393
+    },
+    {
+        "name": "Perry Bank",
+        "country": "Belize",
+        "province": "Toledo",
+        "population": -1,
+        "latitude": 16.609798,
+        "longitude": -88.576666
+    },
+    {
+        "name": "Paraiso",
+        "country": "Belize",
+        "province": "Corozal",
+        "population": -1,
+        "latitude": 18.407826,
+        "longitude": -88.394215
+    },
+    {
+        "name": "Panama",
+        "country": "Belize",
+        "province": "Cayo",
+        "population": -1,
+        "latitude": 17.354581,
+        "longitude": -88.691829
+    },
+    {
+        "name": "Orange Walk",
+        "country": "Belize",
+        "province": "Cayo",
+        "population": -1,
+        "latitude": 17.270007,
+        "longitude": -88.789094
+    },
+    {
+        "name": "Ontario Village",
+        "country": "Belize",
+        "province": "Cayo",
+        "population": -1,
+        "latitude": 17.221211,
+        "longitude": -88.891886
+    },
+    {
+        "name": "Norland",
+        "country": "Belize",
+        "province": "Cayo",
+        "population": -1,
+        "latitude": 17.181572,
+        "longitude": -89.008958
+    },
+    {
+        "name": "Nimu Punit",
+        "country": "Belize",
+        "province": "Toledo",
+        "population": -1,
+        "latitude": 16.321287,
+        "longitude": -88.815627
+    },
+    {
+        "name": "New Town",
+        "country": "Belize",
+        "province": "Southern District",
+        "population": -1,
+        "latitude": 16.9,
+        "longitude": -88.2666667
+    },
+    {
+        "name": "New Home",
+        "country": "Belize",
+        "province": "Corozal",
+        "population": -1,
+        "latitude": 18.115421,
+        "longitude": -88.444483
+    },
+    {
+        "name": "New Home",
+        "country": "Belize",
+        "province": "Southern District",
+        "population": -1,
+        "latitude": 16.741237,
+        "longitude": -88.634346
+    },
+    {
+        "name": "New Haven",
+        "country": "Belize",
+        "province": "Toledo",
+        "population": -1,
+        "latitude": 16.25418,
+        "longitude": -88.590535
+    },
+    {
+        "name": "Never Delay",
+        "country": "Belize",
+        "province": "Cayo",
+        "population": -1,
+        "latitude": 17.320503,
+        "longitude": -88.760579
+    },
+    {
+        "name": "Neustadt",
+        "country": "Belize",
+        "province": "Orange Walk District",
+        "population": -1,
+        "latitude": 17.907481,
+        "longitude": -89.042015
+    },
+    {
+        "name": "Negroman",
+        "country": "Belize",
+        "province": "Cayo",
+        "population": -1,
+        "latitude": 17.078441,
+        "longitude": -89.08331
+    },
+    {
+        "name": "Nasario Perez",
+        "country": "Belize",
+        "province": "Toledo",
+        "population": -1,
+        "latitude": 16.431356,
+        "longitude": -89.137338
+    },
+    {
+        "name": "Narrows Landing",
+        "country": "Belize",
+        "province": "Orange Walk District",
+        "population": -1,
+        "latitude": 18.169215,
+        "longitude": -88.506061
+    },
+    {
+        "name": "Nago Bank",
+        "country": "Belize",
+        "province": "Belize",
+        "population": -1,
+        "latitude": 17.880263,
+        "longitude": -88.291344
+    },
+    {
+        "name": "Nafreda",
+        "country": "Belize",
+        "province": "Toledo",
+        "population": -1,
+        "latitude": 16.238906,
+        "longitude": -88.991452
+    },
+    {
+        "name": "Mount Hope",
+        "country": "Belize",
+        "province": "Cayo",
+        "population": -1,
+        "latitude": 17.220228,
+        "longitude": -88.929729
+    },
+    {
+        "name": "Mountain Cow",
+        "country": "Belize",
+        "province": "Cayo",
+        "population": -1,
+        "latitude": 16.7875,
+        "longitude": -89.0488889
+    },
+    {
+        "name": "More Force",
+        "country": "Belize",
+        "province": "Belize",
+        "population": -1,
+        "latitude": 17.842623,
+        "longitude": -88.369033
+    },
+    {
+        "name": "Monkey Fall",
+        "country": "Belize",
+        "province": "Cayo",
+        "population": -1,
+        "latitude": 17.1375,
+        "longitude": -89.0502778
+    },
+    {
+        "name": "Millionario",
+        "country": "Belize",
+        "province": "Cayo",
+        "population": -1,
+        "latitude": 16.7547222,
+        "longitude": -89.0083333
+    },
+    {
+        "name": "Middle Bank",
+        "country": "Belize",
+        "province": "Southern District",
+        "population": -1,
+        "latitude": 16.828357,
+        "longitude": -88.308678
+    },
+    {
+        "name": "Melvin’s Bank",
+        "country": "Belize",
+        "province": "Toledo",
+        "population": -1,
+        "latitude": 16.44302,
+        "longitude": -88.636694
+    },
+    {
+        "name": "Meditation",
+        "country": "Belize",
+        "province": "Cayo",
+        "population": -1,
+        "latitude": 17.386552,
+        "longitude": -88.726825
+    },
+    {
+        "name": "Medina Bank",
+        "country": "Belize",
+        "province": "Toledo",
+        "population": -1,
+        "latitude": 16.444457,
+        "longitude": -88.742263
+    },
+    {
+        "name": "Maya Mopan",
+        "country": "Belize",
+        "province": "Southern District",
+        "population": -1,
+        "latitude": 16.660176,
+        "longitude": -88.525424
+    },
+    {
+        "name": "Maya Beach",
+        "country": "Belize",
+        "province": "Southern District",
+        "population": -1,
+        "latitude": 16.615417,
+        "longitude": -88.353732
+    },
+    {
+        "name": "Mammee Camp",
+        "country": "Belize",
+        "province": "Orange Walk District",
+        "population": -1,
+        "latitude": 17.397084,
+        "longitude": -88.996693
+    },
+    {
+        "name": "Mai Gate",
+        "country": "Belize",
+        "province": "Cayo",
+        "population": -1,
+        "latitude": 17.065414,
+        "longitude": -88.97326
+    },
+    {
+        "name": "Machaca Camp",
+        "country": "Belize",
+        "province": "Toledo",
+        "population": -1,
+        "latitude": 16.199033,
+        "longitude": -88.888541
+    },
+    {
+        "name": "Macaw Bank",
+        "country": "Belize",
+        "province": "Cayo",
+        "population": -1,
+        "latitude": 16.9833333,
+        "longitude": -89.0666667
+    },
+    {
+        "name": "Los Lirios Camp",
+        "country": "Belize",
+        "province": "Cayo",
+        "population": -1,
+        "latitude": 16.70421,
+        "longitude": -89.009306
+    },
+    {
+        "name": "Los Altos",
+        "country": "Belize",
+        "province": "Cayo",
+        "population": -1,
+        "latitude": 16.977285,
+        "longitude": -88.99556
+    },
+    {
+        "name": "Long Bridge",
+        "country": "Belize",
+        "province": "Cayo",
+        "population": -1,
+        "latitude": 17.313966,
+        "longitude": -89.085354
+    },
+    {
+        "name": "London",
+        "country": "Belize",
+        "province": "Orange Walk District",
+        "population": -1,
+        "latitude": 17.9833333,
+        "longitude": -88.4333333
+    },
+    {
+        "name": "Logan’s Bank",
+        "country": "Belize",
+        "province": "Toledo",
+        "population": -1,
+        "latitude": 16.489432,
+        "longitude": -88.542793
+    },
+    {
+        "name": "Little Bermudian Landing",
+        "country": "Belize",
+        "province": "Belize",
+        "population": -1,
+        "latitude": 17.575315,
+        "longitude": -88.541862
+    },
+    {
+        "name": "Listowel",
+        "country": "Belize",
+        "province": "Cayo",
+        "population": -1,
+        "latitude": 17.202165,
+        "longitude": -89.021127
+    },
+    {
+        "name": "Lime Walk",
+        "country": "Belize",
+        "province": "Belize",
+        "population": -1,
+        "latitude": 17.630895,
+        "longitude": -88.491834
+    },
+    {
+        "name": "Lemonal",
+        "country": "Belize",
+        "province": "Belize",
+        "population": -1,
+        "latitude": 17.608068,
+        "longitude": -88.602993
+    },
+    {
+        "name": "Laguna",
+        "country": "Belize",
+        "province": "Corozal",
+        "population": -1,
+        "latitude": 18.382469,
+        "longitude": -88.518009
+    },
+    {
+        "name": "Lagarto Bank",
+        "country": "Belize",
+        "province": "Southern District",
+        "population": -1,
+        "latitude": 16.662865,
+        "longitude": -88.589599
+    },
+    {
+        "name": "Kaway Camp",
+        "country": "Belize",
+        "province": "Orange Walk District",
+        "population": -1,
+        "latitude": 17.382178,
+        "longitude": -89.065767
+    },
+    {
+        "name": "Joventud",
+        "country": "Belize",
+        "province": "Toledo",
+        "population": -1,
+        "latitude": 16.115085,
+        "longitude": -89.167266
+    },
+    {
+        "name": "Joe Wagner Boom",
+        "country": "Belize",
+        "province": "Belize",
+        "population": -1,
+        "latitude": 17.423364,
+        "longitude": -88.364345
+    },
+    {
+        "name": "Jimmy Cut",
+        "country": "Belize",
+        "province": "Toledo",
+        "population": -1,
+        "latitude": 16.293587,
+        "longitude": -89.040516
+    },
+    {
+        "name": "Jalacte",
+        "country": "Belize",
+        "province": "Toledo",
+        "population": -1,
+        "latitude": 16.1580556,
+        "longitude": -89.1466667
+    },
+    {
+        "name": "Isabella",
+        "country": "Belize",
+        "province": "Belize",
+        "population": -1,
+        "latitude": 17.5833333,
+        "longitude": -88.5333333
+    },
+    {
+        "name": "Iguana Creek Bank",
+        "country": "Belize",
+        "province": "Cayo",
+        "population": -1,
+        "latitude": 17.234718,
+        "longitude": -88.927968
+    },
+    {
+        "name": "Hopital",
+        "country": "Belize",
+        "province": "Toledo",
+        "population": -1,
+        "latitude": 16.4666667,
+        "longitude": -88.9666667
+    },
+    {
+        "name": "Honey Camp",
+        "country": "Belize",
+        "province": "Orange Walk District",
+        "population": -1,
+        "latitude": 18.032701,
+        "longitude": -88.450131
+    },
+    {
+        "name": "Hill Bank",
+        "country": "Belize",
+        "province": "Corozal",
+        "population": -1,
+        "latitude": 18.245594,
+        "longitude": -88.39448
+    },
+    {
+        "name": "Hill Bank",
+        "country": "Belize",
+        "province": "Orange Walk District",
+        "population": -1,
+        "latitude": 17.603318,
+        "longitude": -88.692502
+    },
+    {
+        "name": "Hellgate",
+        "country": "Belize",
+        "province": "Toledo",
+        "population": -1,
+        "latitude": 16.360912,
+        "longitude": -88.797078
+    },
+    {
+        "name": "Hamidli Creek Settlement",
+        "country": "Belize",
+        "province": "Toledo",
+        "population": -1,
+        "latitude": 16.219953,
+        "longitude": -88.901724
+    },
+    {
+        "name": "Guana Church Bank",
+        "country": "Belize",
+        "province": "Southern District",
+        "population": -1,
+        "latitude": 16.851797,
+        "longitude": -88.47556
+    },
+    {
+        "name": "Guacamallo",
+        "country": "Belize",
+        "province": "Cayo",
+        "population": -1,
+        "latitude": 16.8677778,
+        "longitude": -89.0322222
+    },
+    {
+        "name": "Gracy Rock Bank",
+        "country": "Belize",
+        "province": "Belize",
+        "population": -1,
+        "latitude": 17.36577,
+        "longitude": -88.44973
+    },
+    {
+        "name": "Good Living Camp",
+        "country": "Belize",
+        "province": "Cayo",
+        "population": -1,
+        "latitude": 17.117555,
+        "longitude": -88.65729
+    },
+    {
+        "name": "Gongora",
+        "country": "Belize",
+        "province": "Orange Walk District",
+        "population": -1,
+        "latitude": 17.7,
+        "longitude": -88.95
+    },
+    {
+        "name": "Gnadenthal",
+        "country": "Belize",
+        "province": "Orange Walk District",
+        "population": -1,
+        "latitude": 17.880535,
+        "longitude": -88.917122
+    },
+    {
+        "name": "Gnadenfeld",
+        "country": "Belize",
+        "province": "Orange Walk District",
+        "population": -1,
+        "latitude": 17.872163,
+        "longitude": -88.917286
+    },
+    {
+        "name": "Georgeville",
+        "country": "Belize",
+        "province": "Cayo",
+        "population": -1,
+        "latitude": 17.190615,
+        "longitude": -88.974566
+    },
+    {
+        "name": "Georgetown",
+        "country": "Belize",
+        "province": "Southern District",
+        "population": -1,
+        "latitude": 16.653217,
+        "longitude": -88.507828
+    },
+    {
+        "name": "Garbutt’s Falls",
+        "country": "Belize",
+        "province": "Cayo",
+        "population": -1,
+        "latitude": 17.055053,
+        "longitude": -89.145188
+    },
+    {
+        "name": "Gallon Jug",
+        "country": "Belize",
+        "province": "Orange Walk District",
+        "population": -1,
+        "latitude": 17.562013,
+        "longitude": -89.046709
+    },
+    {
+        "name": "Gales Point",
+        "country": "Belize",
+        "province": "Belize",
+        "population": -1,
+        "latitude": 17.171014,
+        "longitude": -88.335202
+    },
+    {
+        "name": "Freetown Area",
+        "country": "Belize",
+        "province": "Southern District",
+        "population": -1,
+        "latitude": 16.825645,
+        "longitude": -88.290971
+    },
+    {
+        "name": "Fork Camp",
+        "country": "Belize",
+        "province": "Cayo",
+        "population": -1,
+        "latitude": 16.518516,
+        "longitude": -89.066364
+    },
+    {
+        "name": "Forest Home",
+        "country": "Belize",
+        "province": "Toledo",
+        "population": -1,
+        "latitude": 16.138733,
+        "longitude": -88.83302
+    },
+    {
+        "name": "Fermin Reyes",
+        "country": "Belize",
+        "province": "Cayo",
+        "population": -1,
+        "latitude": 17.2588889,
+        "longitude": -89.0536111
+    },
+    {
+        "name": "Ferguson Bank",
+        "country": "Belize",
+        "province": "Belize",
+        "population": -1,
+        "latitude": 17.441855,
+        "longitude": -88.295262
+    },
+    {
+        "name": "Estrella",
+        "country": "Belize",
+        "province": "Corozal",
+        "population": -1,
+        "latitude": 18.291063,
+        "longitude": -88.452349
+    },
+    {
+        "name": "Estero",
+        "country": "Belize",
+        "province": "Corozal",
+        "population": -1,
+        "latitude": 18.412522,
+        "longitude": -88.502385
+    },
+    {
+        "name": "Esperanza",
+        "country": "Belize",
+        "province": "Orange Walk District",
+        "population": -1,
+        "latitude": 17.377965,
+        "longitude": -89.130845
+    },
+    {
+        "name": "El Remate",
+        "country": "Belize",
+        "province": "Corozal",
+        "population": -1,
+        "latitude": 18.2,
+        "longitude": -88.4333333
+    },
+    {
+        "name": "El Brazo",
+        "country": "Belize",
+        "province": "Orange Walk District",
+        "population": -1,
+        "latitude": 18.2,
+        "longitude": -88.6166667
+    },
+    {
+        "name": "Duffy Bank",
+        "country": "Belize",
+        "province": "Cayo",
+        "population": -1,
+        "latitude": 17.1197222,
+        "longitude": -89.0630556
+    },
+    {
+        "name": "Duck Run",
+        "country": "Belize",
+        "province": "Cayo",
+        "population": -1,
+        "latitude": 17.184824,
+        "longitude": -89.048206
+    },
+    {
+        "name": "Dry Creek Bank",
+        "country": "Belize",
+        "province": "Cayo",
+        "population": -1,
+        "latitude": 17.170587,
+        "longitude": -88.596163
+    },
+    {
+        "name": "Driving Camp",
+        "country": "Belize",
+        "province": "Orange Walk District",
+        "population": -1,
+        "latitude": 17.8166667,
+        "longitude": -88.8166667
+    },
+    {
+        "name": "Drill Camp",
+        "country": "Belize",
+        "province": "Cayo",
+        "population": -1,
+        "latitude": 17.358209,
+        "longitude": -88.913859
+    },
+    {
+        "name": "Dos Bocas",
+        "country": "Belize",
+        "province": "Orange Walk District",
+        "population": -1,
+        "latitude": 17.905879,
+        "longitude": -88.853238
+    },
+    {
+        "name": "Davis Bank",
+        "country": "Belize",
+        "province": "Belize",
+        "population": -1,
+        "latitude": 17.644635,
+        "longitude": -88.395909
+    },
+    {
+        "name": "Dancing Pool",
+        "country": "Belize",
+        "province": "Southern District",
+        "population": -1,
+        "latitude": 16.831188,
+        "longitude": -88.437369
+    },
+    {
+        "name": "Crossing Landing Bank",
+        "country": "Belize",
+        "province": "Belize",
+        "population": -1,
+        "latitude": 17.229052,
+        "longitude": -88.569607
+    },
+    {
+        "name": "Cristo Rey",
+        "country": "Belize",
+        "province": "Cayo",
+        "population": -1,
+        "latitude": 17.1313889,
+        "longitude": -89.055
+    },
+    {
+        "name": "Crique Jute",
+        "country": "Belize",
+        "province": "Toledo",
+        "population": -1,
+        "latitude": 16.2666667,
+        "longitude": -89.0166667
+    },
+    {
+        "name": "Cowpen",
+        "country": "Belize",
+        "province": "Corozal",
+        "population": -1,
+        "latitude": 18.222245,
+        "longitude": -88.226562
+    },
+    {
+        "name": "Cowpen",
+        "country": "Belize",
+        "province": "Corozal",
+        "population": -1,
+        "latitude": 18.107982,
+        "longitude": -88.446756
+    },
+    {
+        "name": "Cowpen",
+        "country": "Belize",
+        "province": "Southern District",
+        "population": -1,
+        "latitude": 16.5666667,
+        "longitude": -88.5333333
+    },
+    {
+        "name": "Cowhead Creek",
+        "country": "Belize",
+        "province": "Belize",
+        "population": -1,
+        "latitude": 17.761656,
+        "longitude": -88.31262
+    },
+    {
+        "name": "Cowboy Camp",
+        "country": "Belize",
+        "province": "Cayo",
+        "population": -1,
+        "latitude": 16.7380556,
+        "longitude": -89.125
+    },
+    {
+        "name": "Cotton Tree Bank",
+        "country": "Belize",
+        "province": "Cayo",
+        "population": -1,
+        "latitude": 17.3333333,
+        "longitude": -88.7333333
+    },
+    {
+        "name": "Cotton Tree",
+        "country": "Belize",
+        "province": "Cayo",
+        "population": -1,
+        "latitude": 17.273572,
+        "longitude": -88.713972
+    },
+    {
+        "name": "Corozon",
+        "country": "Belize",
+        "province": "Toledo",
+        "population": -1,
+        "latitude": 16.0552778,
+        "longitude": -89.1241667
+    },
+    {
+        "name": "Corozalito",
+        "country": "Belize",
+        "province": "Corozal",
+        "population": -1,
+        "latitude": 18.102411,
+        "longitude": -88.376447
+    },
+    {
+        "name": "Corozal",
+        "country": "Belize",
+        "province": "Orange Walk District",
+        "population": -1,
+        "latitude": 17.405346,
+        "longitude": -89.081051
+    },
+    {
+        "name": "Cool Shade",
+        "country": "Belize",
+        "province": "Cayo",
+        "population": -1,
+        "latitude": 17.17137,
+        "longitude": -88.967884
+    },
+    {
+        "name": "Conejo",
+        "country": "Belize",
+        "province": "Toledo",
+        "population": -1,
+        "latitude": 16.040972,
+        "longitude": -89.001843
+    },
+    {
+        "name": "Concepcion",
+        "country": "Belize",
+        "province": "Corozal",
+        "population": -1,
+        "latitude": 18.323077,
+        "longitude": -88.474195
+    },
+    {
+        "name": "Commerce Bight Village",
+        "country": "Belize",
+        "province": "Southern District",
+        "population": -1,
+        "latitude": 16.868103,
+        "longitude": -88.30989
+    },
+    {
+        "name": "Cocos",
+        "country": "Belize",
+        "province": "Corozal",
+        "population": -1,
+        "latitude": 18.251409,
+        "longitude": -88.373414
+    },
+    {
+        "name": "Cocos",
+        "country": "Belize",
+        "province": "Orange Walk District",
+        "population": -1,
+        "latitude": 18.223864,
+        "longitude": -88.613985
+    },
+    {
+        "name": "Churchyard",
+        "country": "Belize",
+        "province": "Belize",
+        "population": -1,
+        "latitude": 17.305328,
+        "longitude": -88.555302
+    },
+    {
+        "name": "Chunch",
+        "country": "Belize",
+        "province": "Corozal",
+        "population": -1,
+        "latitude": 18.3,
+        "longitude": -88.3833333
+    },
+    {
+        "name": "Chorro",
+        "country": "Belize",
+        "province": "Cayo",
+        "population": -1,
+        "latitude": 17.255,
+        "longitude": -89.1238889
+    },
+    {
+        "name": "Chial",
+        "country": "Belize",
+        "province": "Cayo",
+        "population": -1,
+        "latitude": 17.104948,
+        "longitude": -89.11338
+    },
+    {
+        "name": "Chapayal",
+        "country": "Belize",
+        "province": "Cayo",
+        "population": -1,
+        "latitude": 16.7816667,
+        "longitude": -89.1391667
+    },
+    {
+        "name": "Chan Sapote",
+        "country": "Belize",
+        "province": "Corozal",
+        "population": -1,
+        "latitude": 18.326766,
+        "longitude": -88.56259
+    },
+    {
+        "name": "Chan Quebrada",
+        "country": "Belize",
+        "province": "Toledo",
+        "population": -1,
+        "latitude": 16.516594,
+        "longitude": -88.685032
+    },
+    {
+        "name": "Chan Pond",
+        "country": "Belize",
+        "province": "Orange Walk District",
+        "population": -1,
+        "latitude": 17.4,
+        "longitude": -89.1
+    },
+    {
+        "name": "Chan Bank",
+        "country": "Belize",
+        "province": "Corozal",
+        "population": -1,
+        "latitude": 18.2166667,
+        "longitude": -88.5
+    },
+    {
+        "name": "Cedar Crossing",
+        "country": "Belize",
+        "province": "Orange Walk District",
+        "population": -1,
+        "latitude": 17.691065,
+        "longitude": -89.02801
+    },
+    {
+        "name": "Cedar Bank",
+        "country": "Belize",
+        "province": "Belize",
+        "population": -1,
+        "latitude": 17.385763,
+        "longitude": -88.438734
+    },
+    {
+        "name": "Cebada Camp",
+        "country": "Belize",
+        "province": "Cayo",
+        "population": -1,
+        "latitude": 16.657121,
+        "longitude": -89.164245
+    },
+    {
+        "name": "Caves Branch",
+        "country": "Belize",
+        "province": "Cayo",
+        "population": -1,
+        "latitude": 17.149994,
+        "longitude": -88.711761
+    },
+    {
+        "name": "Castile",
+        "country": "Belize",
+        "province": "Cayo",
+        "population": -1,
+        "latitude": 17.364626,
+        "longitude": -88.66677
+    },
+    {
+        "name": "Cashew Tree",
+        "country": "Belize",
+        "province": "Orange Walk District",
+        "population": -1,
+        "latitude": 17.9833333,
+        "longitude": -88.45
+    },
+    {
+        "name": "Carolina",
+        "country": "Belize",
+        "province": "Corozal",
+        "population": -1,
+        "latitude": 18.365526,
+        "longitude": -88.428273
+    },
+    {
+        "name": "Carmelita Gardens",
+        "country": "Belize",
+        "province": "Cayo",
+        "population": -1,
+        "latitude": 17.18237,
+        "longitude": -89.0626
+    },
+    {
+        "name": "Canal Bank",
+        "country": "Belize",
+        "province": "Orange Walk District",
+        "population": -1,
+        "latitude": 17.681826,
+        "longitude": -88.864771
+    },
+    {
+        "name": "Calera Camp",
+        "country": "Belize",
+        "province": "Toledo",
+        "population": -1,
+        "latitude": 16.531834,
+        "longitude": -88.78105
+    },
+    {
+        "name": "Burnt Ground",
+        "country": "Belize",
+        "province": "Orange Walk District",
+        "population": -1,
+        "latitude": 17.384932,
+        "longitude": -89.121069
+    },
+    {
+        "name": "Burnham Hall",
+        "country": "Belize",
+        "province": "Orange Walk District",
+        "population": -1,
+        "latitude": 17.7,
+        "longitude": -88.6666667
+    },
+    {
+        "name": "Burgos",
+        "country": "Belize",
+        "province": "Toledo",
+        "population": -1,
+        "latitude": 16.44498,
+        "longitude": -89.11029
+    },
+    {
+        "name": "Buena Vista",
+        "country": "Belize",
+        "province": "Corozal",
+        "population": -1,
+        "latitude": 18.236881,
+        "longitude": -88.526617
+    },
+    {
+        "name": "Buena Vista",
+        "country": "Belize",
+        "province": "Cayo",
+        "population": -1,
+        "latitude": 17.1166667,
+        "longitude": -89.1166667
+    },
+    {
+        "name": "Branch Mouth",
+        "country": "Belize",
+        "province": "Cayo",
+        "population": -1,
+        "latitude": 17.179395,
+        "longitude": -89.079726
+    },
+    {
+        "name": "Bocotora",
+        "country": "Belize",
+        "province": "Belize",
+        "population": -1,
+        "latitude": 17.257532,
+        "longitude": -88.434544
+    },
+    {
+        "name": "Bob Eiley",
+        "country": "Belize",
+        "province": "Belize",
+        "population": -1,
+        "latitude": 17.704079,
+        "longitude": -88.485606
+    },
+    {
+        "name": "Blumenfeld",
+        "country": "Belize",
+        "province": "Orange Walk District",
+        "population": -1,
+        "latitude": 17.863872,
+        "longitude": -88.917691
+    },
+    {
+        "name": "Blue Hole Camp",
+        "country": "Belize",
+        "province": "Cayo",
+        "population": -1,
+        "latitude": 16.79187,
+        "longitude": -88.938594
+    },
+    {
+        "name": "Blossom Bank",
+        "country": "Belize",
+        "province": "Orange Walk District",
+        "population": -1,
+        "latitude": 18.162462,
+        "longitude": -88.492696
+    },
+    {
+        "name": "Black Rock",
+        "country": "Belize",
+        "province": "Cayo",
+        "population": -1,
+        "latitude": 17.048889,
+        "longitude": -89.059171
+    },
+    {
+        "name": "Black Man Eddy",
+        "country": "Belize",
+        "province": "Cayo",
+        "population": -1,
+        "latitude": 17.227425,
+        "longitude": -88.915918
+    },
+    {
+        "name": "Big Fall",
+        "country": "Belize",
+        "province": "Toledo",
+        "population": -1,
+        "latitude": 16.256918,
+        "longitude": -88.890975
+    },
+    {
+        "name": "Big Eddy",
+        "country": "Belize",
+        "province": "Cayo",
+        "population": -1,
+        "latitude": 17.091658,
+        "longitude": -89.068426
+    },
+    {
+        "name": "Benque Viejo",
+        "country": "Belize",
+        "province": "Corozal",
+        "population": -1,
+        "latitude": 18.276602,
+        "longitude": -88.455852
+    },
+    {
+        "name": "Beattie Pen",
+        "country": "Belize",
+        "province": "Toledo",
+        "population": -1,
+        "latitude": 16.408547,
+        "longitude": -88.713445
+    },
+    {
+        "name": "Barton Ramie",
+        "country": "Belize",
+        "province": "Cayo",
+        "population": -1,
+        "latitude": 17.209771,
+        "longitude": -88.973853
+    },
+    {
+        "name": "Barquedier Sierra",
+        "country": "Belize",
+        "province": "Orange Walk District",
+        "population": -1,
+        "latitude": 18.176719,
+        "longitude": -88.479747
+    },
+    {
+        "name": "Banana Bank",
+        "country": "Belize",
+        "province": "Cayo",
+        "population": -1,
+        "latitude": 17.318719,
+        "longitude": -88.781411
+    },
+    {
+        "name": "Baldy Sibun",
+        "country": "Belize",
+        "province": "Cayo",
+        "population": -1,
+        "latitude": 16.993616,
+        "longitude": -88.740804
+    },
+    {
+        "name": "Baking Pot",
+        "country": "Belize",
+        "province": "Cayo",
+        "population": -1,
+        "latitude": 17.200772,
+        "longitude": -89.012967
+    },
+    {
+        "name": "Bakers",
+        "country": "Belize",
+        "province": "Belize",
+        "population": -1,
+        "latitude": 17.55,
+        "longitude": -88.3833333
+    },
+    {
+        "name": "Backlanding",
+        "country": "Belize",
+        "province": "Orange Walk District",
+        "population": -1,
+        "latitude": 17.838441,
+        "longitude": -88.607985
+    },
+    {
+        "name": "Bacalar Chico",
+        "country": "Belize",
+        "province": "Belize",
+        "population": -1,
+        "latitude": 18.186565,
+        "longitude": -87.860367
+    },
+    {
+        "name": "Aventura",
+        "country": "Belize",
+        "province": "Corozal",
+        "population": -1,
+        "latitude": 18.33012,
+        "longitude": -88.448846
+    },
+    {
+        "name": "Augustine",
+        "country": "Belize",
+        "province": "Cayo",
+        "population": -1,
+        "latitude": 16.96712,
+        "longitude": -88.997182
+    },
+    {
+        "name": "Arabato Camp",
+        "country": "Belize",
+        "province": "Cayo",
+        "population": -1,
+        "latitude": 16.617088,
+        "longitude": -89.056906
+    },
+    {
+        "name": "Andersons Camp",
+        "country": "Belize",
+        "province": "Orange Walk District",
+        "population": -1,
+        "latitude": 17.7166667,
+        "longitude": -89.0166667
+    },
+    {
+        "name": "America",
+        "country": "Belize",
+        "province": "Corozal",
+        "population": -1,
+        "latitude": 18.343462,
+        "longitude": -88.442286
+    },
+    {
+        "name": "Alta Vista",
+        "country": "Belize",
+        "province": "Southern District",
+        "population": -1,
+        "latitude": 16.993697,
+        "longitude": -88.405226
+    },
+    {
+        "name": "Alabama Wharf",
+        "country": "Belize",
+        "province": "Southern District",
+        "population": -1,
+        "latitude": 16.5333333,
+        "longitude": -88.4
+    },
+    {
+        "name": "Alabama",
+        "country": "Belize",
+        "province": "Southern District",
+        "population": -1,
+        "latitude": 16.670244,
+        "longitude": -88.520396
+    },
+    {
+        "name": "Aguacate Camp",
+        "country": "Belize",
+        "province": "Cayo",
+        "population": -1,
+        "latitude": 16.707138,
+        "longitude": -89.050157
+    },
+    {
+        "name": "Santa Elena",
+        "country": "Belize",
+        "province": "Corozal",
+        "population": -1,
+        "latitude": 18.4851445037058,
+        "longitude": -88.3938932418823
+    },
+    {
+        "name": "Stann Creek District",
+        "country": "Belize",
+        "province": "Southern District",
+        "population": -1,
+        "latitude": 16.833333,
+        "longitude": -88.5
+    },
+    {
+        "name": "Corozal District",
+        "country": "Belize",
+        "province": "Corozal",
+        "population": -1,
+        "latitude": 18.2499,
+        "longitude": -88.333
+    },
+    {
+        "name": "Glover's Reef Atoll",
+        "country": "Belize",
+        "province": "Belize",
+        "population": -1,
+        "latitude": 16.7968173692281,
+        "longitude": -87.8053951263428
+    },
+    {
+        "name": "Ambergris Caye",
+        "country": "Belize",
+        "province": "Corozal",
+        "population": -1,
+        "latitude": 17.93954170571153,
+        "longitude": -87.9470157623291
+    },
+    {
+        "name": "Nuevo San Juan",
+        "country": "Belize",
+        "province": "Corozal",
+        "population": -1,
+        "latitude": 18.227549,
+        "longitude": -88.580856
+    },
+    {
+        "name": "Campechito",
+        "country": "Belize",
+        "province": "Orange Walk District",
+        "population": -1,
+        "latitude": 18.157434,
+        "longitude": -88.680518
+    },
+    {
+        "name": "Inda Vista",
+        "country": "Belize",
+        "province": "Orange Walk District",
+        "population": -1,
+        "latitude": 17.898533,
+        "longitude": -88.890893
+    },
+    {
+        "name": "Fowlers Work",
+        "country": "Belize",
+        "province": "Cayo",
+        "population": -1,
+        "latitude": 17.264187,
+        "longitude": -89.138234
+    },
+    {
+        "name": "Beaver Dam",
+        "country": "Belize",
+        "province": "Cayo",
+        "population": -1,
+        "latitude": 17.278508,
+        "longitude": -88.672019
+    },
+    {
+        "name": "San Lorenzo",
+        "country": "Belize",
+        "province": "Cayo",
+        "population": -1,
+        "latitude": 17.099825,
+        "longitude": -89.127502
+    },
+    {
+        "name": "Humming Bird Community",
+        "country": "Belize",
+        "province": "Southern District",
+        "population": -1,
+        "latitude": 17.040441,
+        "longitude": -88.530816
+    },
+    {
+        "name": "Bull Run Ranch",
+        "country": "Belize",
+        "province": "Cayo",
+        "population": -1,
+        "latitude": 17.046361,
+        "longitude": -88.909163
+    },
+    {
+        "name": "Salt Creek",
+        "country": "Belize",
+        "province": "Belize",
+        "population": -1,
+        "latitude": 17.663146,
+        "longitude": -88.328799
+    },
+    {
+        "name": "Happy Farms Village",
+        "country": "Belize",
+        "province": "Toledo",
+        "population": -1,
+        "latitude": 15.90964,
+        "longitude": -89.188651
+    },
+    {
+        "name": "Metchekin",
+        "country": "Belize",
+        "province": "Toledo",
+        "population": -1,
+        "latitude": 15.971866,
+        "longitude": -89.145086
+    },
+    {
+        "name": "Old Marbel Ha",
+        "country": "Belize",
+        "province": "Toledo",
+        "population": -1,
+        "latitude": 16.099629,
+        "longitude": -89.098993
+    },
+    {
+        "name": "Old Mabilha",
+        "country": "Belize",
+        "province": "Toledo",
+        "population": -1,
+        "latitude": 16.107438,
+        "longitude": -89.095555
+    },
+    {
+        "name": "New Mahbilla",
+        "country": "Belize",
+        "province": "Toledo",
+        "population": -1,
+        "latitude": 16.105432,
+        "longitude": -89.080117
+    },
+    {
+        "name": "Jordan",
+        "country": "Belize",
+        "province": "Toledo",
+        "population": -1,
+        "latitude": 16.153858,
+        "longitude": -89.014857
+    },
+    {
+        "name": "San Vincente",
+        "country": "Belize",
+        "province": "Toledo",
+        "population": -1,
+        "latitude": 16.238889,
+        "longitude": -89.199749
+    },
+    {
+        "name": "Santiago Jalacte",
+        "country": "Belize",
+        "province": "Toledo",
+        "population": -1,
+        "latitude": 16.24505,
+        "longitude": -89.20197
+    },
+    {
+        "name": "Santa Cruz",
+        "country": "Belize",
+        "province": "Toledo",
+        "population": -1,
+        "latitude": 16.184088,
+        "longitude": -89.205337
+    },
+    {
+        "name": "Sunday Wood Creek Village",
+        "country": "Belize",
+        "province": "Toledo",
+        "population": -1,
+        "latitude": 16.039097,
+        "longitude": -89.028683
+    },
+    {
+        "name": "Santa Rosa Village",
+        "country": "Belize",
+        "province": "Southern District",
+        "population": -1,
+        "latitude": 16.6662,
+        "longitude": -88.454372
+    },
+    {
+        "name": "San Roman Village",
+        "country": "Belize",
+        "province": "Southern District",
+        "population": -1,
+        "latitude": 16.65281,
+        "longitude": -88.474163
+    },
+    {
+        "name": "Lime Tree Village",
+        "country": "Belize",
+        "province": "Southern District",
+        "population": -1,
+        "latitude": 16.558824,
+        "longitude": -88.434549
+    },
+    {
+        "name": "Esperino",
+        "country": "Belize",
+        "province": "Toledo",
+        "population": -1,
+        "latitude": 16.291024,
+        "longitude": -89.198506
+    },
+    {
+        "name": "Santa Rosea",
+        "country": "Belize",
+        "province": "Toledo",
+        "population": -1,
+        "latitude": 16.278195,
+        "longitude": -89.199406
+    },
+    {
+        "name": "Indian Creek Village",
+        "country": "Belize",
+        "province": "Toledo",
+        "population": -1,
+        "latitude": 16.315089,
+        "longitude": -88.831698
+    },
+    {
+        "name": "Mitchell’s Run",
+        "country": "Belize",
+        "province": "Southern District",
+        "population": -1,
+        "latitude": 16.849693,
+        "longitude": -88.467198
+    },
+    {
+        "name": "Canada Hill",
+        "country": "Belize",
+        "province": "Southern District",
+        "population": -1,
+        "latitude": 16.98516,
+        "longitude": -88.326648
+    },
+    {
+        "name": "Trio Village",
+        "country": "Belize",
+        "province": "Toledo",
+        "population": -1,
+        "latitude": 16.520779,
+        "longitude": -88.653668
+    },
+    {
+        "name": "Trion Village",
+        "country": "Belize",
+        "province": "Southern District",
+        "population": -1,
+        "latitude": 16.514441,
+        "longitude": -88.60616
+    },
+    {
+        "name": "San Juan",
+        "country": "Belize",
+        "province": "Toledo",
+        "population": -1,
+        "latitude": 16.567854,
+        "longitude": -88.54018
+    },
+    {
+        "name": "Esporanza",
+        "country": "Belize",
+        "province": "Toledo",
+        "population": -1,
+        "latitude": 16.24915,
+        "longitude": -88.899247
+    },
+    {
+        "name": "Medway City Main Village",
+        "country": "Belize",
+        "province": "Toledo",
+        "population": -1,
+        "latitude": 16.05985,
+        "longitude": -88.950934
+    },
+    {
+        "name": "Boom Creek",
+        "country": "Belize",
+        "province": "Toledo",
+        "population": -1,
+        "latitude": 16.07314,
+        "longitude": -88.906816
+    },
+    {
+        "name": "Esparasca",
+        "country": "Belize",
+        "province": "Toledo",
+        "population": -1,
+        "latitude": 16.43912,
+        "longitude": -88.523716
+    },
+    {
+        "name": "Golden Stream Village",
+        "country": "Belize",
+        "province": "Toledo",
+        "population": -1,
+        "latitude": 16.363501,
+        "longitude": -88.805382
+    },
+    {
+        "name": "Na Luum Ca",
+        "country": "Belize",
+        "province": "Toledo",
+        "population": -1,
+        "latitude": 16.28538,
+        "longitude": -89.08178
+    },
+    {
+        "name": "Seven Miles El Progresso",
+        "country": "Belize",
+        "province": "Cayo",
+        "population": -1,
+        "latitude": 17.102177,
+        "longitude": -88.949326
+    },
+    {
+        "name": "San Luis",
+        "country": "Belize",
+        "province": "Cayo",
+        "population": -1,
+        "latitude": 16.9097222,
+        "longitude": -89.0061111
+    },
+    {
+        "name": "Graham Creek",
+        "country": "Belize",
+        "province": "Toledo",
+        "population": -1,
+        "latitude": 15.928508,
+        "longitude": -89.112198
+    },
+    {
+        "name": "Fort George",
+        "country": "Belize",
+        "province": "Belize",
+        "population": -1,
+        "latitude": 17.49434,
+        "longitude": -88.1829
+    },
+    {
+        "name": "Encalada Potrero",
+        "country": "Belize",
+        "province": "Orange Walk District",
+        "population": -1,
+        "latitude": 17.907979,
+        "longitude": -89.104275
+    },
+    {
+        "name": "El Cayo",
+        "country": "Belize",
+        "province": "Cayo",
+        "population": -1,
+        "latitude": 17.15609,
+        "longitude": -89.0608
+    }
+]

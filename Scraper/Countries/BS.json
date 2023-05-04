@@ -1,0 +1,2834 @@
+[
+    {
+        "name": "Nassau",
+        "country": "Bahamas",
+        "province": "New Providence",
+        "population": 227940,
+        "latitude": 25.05823320992254,
+        "longitude": -77.34306335449219
+    },
+    {
+        "name": "West End",
+        "country": "Bahamas",
+        "province": "West Grand Bahama",
+        "population": 12724,
+        "latitude": 26.68711,
+        "longitude": -78.97702
+    },
+    {
+        "name": "Lucaya",
+        "country": "Bahamas",
+        "province": "Freeport",
+        "population": 46525,
+        "latitude": 26.5333333,
+        "longitude": -78.6666667
+    },
+    {
+        "name": "Freeport",
+        "country": "Bahamas",
+        "province": "Freeport",
+        "population": 26910,
+        "latitude": 26.5333333,
+        "longitude": -78.7
+    },
+    {
+        "name": "San Andros",
+        "country": "Bahamas",
+        "province": "North Andros",
+        "population": 7800,
+        "latitude": 25.066667,
+        "longitude": -78.05
+    },
+    {
+        "name": "George Town",
+        "country": "Bahamas",
+        "province": "Exuma",
+        "population": 7314,
+        "latitude": 23.51616453512508,
+        "longitude": -75.78665256500244
+    },
+    {
+        "name": "Marsh Harbour",
+        "country": "Bahamas",
+        "province": "Central Abaco",
+        "population": 5314,
+        "latitude": 26.5412371897925,
+        "longitude": -77.0635986328125
+    },
+    {
+        "name": "Cooper’s Town",
+        "country": "Bahamas",
+        "province": "North Abaco",
+        "population": 8413,
+        "latitude": 26.871372,
+        "longitude": -77.511315
+    },
+    {
+        "name": "High Rock",
+        "country": "Bahamas",
+        "province": "East Grand Bahama",
+        "population": 3744,
+        "latitude": 26.62651,
+        "longitude": -78.28209
+    },
+    {
+        "name": "Andros Town",
+        "country": "Bahamas",
+        "province": "North Andros",
+        "population": 2455,
+        "latitude": 24.70502,
+        "longitude": -77.769119
+    },
+    {
+        "name": "Spanish Wells",
+        "country": "Bahamas",
+        "province": "Spanish Wells",
+        "population": 1500,
+        "latitude": 25.54716534661125,
+        "longitude": -76.7640495300293
+    },
+    {
+        "name": "Clarence Town",
+        "country": "Bahamas",
+        "province": "Long Island",
+        "population": 1752,
+        "latitude": 23.1,
+        "longitude": -74.9833333
+    },
+    {
+        "name": "Arthur’s Town",
+        "country": "Bahamas",
+        "province": "Cat Island",
+        "population": 1175,
+        "latitude": 24.62240226244342,
+        "longitude": -75.67151069641113
+    },
+    {
+        "name": "Matthew Town",
+        "country": "Bahamas",
+        "province": "Inagua",
+        "population": 452,
+        "latitude": 20.94982,
+        "longitude": -73.67346
+    },
+    {
+        "name": "Governor’s Harbour",
+        "country": "Bahamas",
+        "province": "Central Eleuthera",
+        "population": -1,
+        "latitude": 25.166667,
+        "longitude": -76.233333
+    },
+    {
+        "name": "Dunmore Town",
+        "country": "Bahamas",
+        "province": "Harbour Island",
+        "population": 1523,
+        "latitude": 25.5021648053927,
+        "longitude": -76.63633346557617
+    },
+    {
+        "name": "Colonel Hill",
+        "country": "Bahamas",
+        "province": "Crooked Island and Long Cay",
+        "population": 240,
+        "latitude": 22.754495979204428,
+        "longitude": -74.20414924621582
+    },
+    {
+        "name": "Cockburn Town",
+        "country": "Bahamas",
+        "province": "San Salvador",
+        "population": 831,
+        "latitude": 24.05179,
+        "longitude": -74.53138
+    },
+    {
+        "name": "Black Point",
+        "country": "Bahamas",
+        "province": "Black Point",
+        "population": -1,
+        "latitude": 24.1,
+        "longitude": -76.383333
+    },
+    {
+        "name": "Alice Town",
+        "country": "Bahamas",
+        "province": "Bimini",
+        "population": 949,
+        "latitude": 25.728,
+        "longitude": -79.29721
+    },
+    {
+        "name": "Abraham’s Bay",
+        "country": "Bahamas",
+        "province": "Mayaguana",
+        "population": 235,
+        "latitude": 22.366667,
+        "longitude": -72.966667
+    },
+    {
+        "name": "Wemyss Bight",
+        "country": "Bahamas",
+        "province": "South Eleuthera",
+        "population": -1,
+        "latitude": 24.75,
+        "longitude": -76.25
+    },
+    {
+        "name": "The Bluff",
+        "country": "Bahamas",
+        "province": "North Eleuthera",
+        "population": -1,
+        "latitude": 25.499073,
+        "longitude": -76.723371
+    },
+    {
+        "name": "Sweeting Cay",
+        "country": "Bahamas",
+        "province": "East Grand Bahama",
+        "population": 483,
+        "latitude": 26.613342,
+        "longitude": -77.869307
+    },
+    {
+        "name": "Snug Corner",
+        "country": "Bahamas",
+        "province": "Acklins",
+        "population": 407,
+        "latitude": 22.55501,
+        "longitude": -73.87829
+    },
+    {
+        "name": "Port Nelson",
+        "country": "Bahamas",
+        "province": "Rum Cay",
+        "population": 91,
+        "latitude": 23.64967,
+        "longitude": -74.84157
+    },
+    {
+        "name": "Pirates Well",
+        "country": "Bahamas",
+        "province": "Mayaguana",
+        "population": 217,
+        "latitude": 22.430706,
+        "longitude": -73.094569
+    },
+    {
+        "name": "Pinders Point",
+        "country": "Bahamas",
+        "province": "Freeport",
+        "population": -1,
+        "latitude": 26.4833333,
+        "longitude": -78.6833333
+    },
+    {
+        "name": "Nicholl’s Town",
+        "country": "Bahamas",
+        "province": "North Andros",
+        "population": 270,
+        "latitude": 25.145344,
+        "longitude": -78.001597
+    },
+    {
+        "name": "Masons Bay",
+        "country": "Bahamas",
+        "province": "Acklins",
+        "population": -1,
+        "latitude": 22.54352,
+        "longitude": -73.8778
+    },
+    {
+        "name": "Mangrove Cay",
+        "country": "Bahamas",
+        "province": "Mangrove Cay",
+        "population": -1,
+        "latitude": 24.26034614467987,
+        "longitude": -77.66286849975586
+    },
+    {
+        "name": "Landrail Point",
+        "country": "Bahamas",
+        "province": "Crooked Island and Long Cay",
+        "population": -1,
+        "latitude": 22.803526,
+        "longitude": -74.337305
+    },
+    {
+        "name": "Kemps Bay",
+        "country": "Bahamas",
+        "province": "South Andros",
+        "population": -1,
+        "latitude": 24.026999,
+        "longitude": -77.533433
+    },
+    {
+        "name": "Hope Town",
+        "country": "Bahamas",
+        "province": "Marsh Harbour",
+        "population": -1,
+        "latitude": 26.53855,
+        "longitude": -76.95745
+    },
+    {
+        "name": "Hard Bargain",
+        "country": "Bahamas",
+        "province": "Moore’s Island",
+        "population": -1,
+        "latitude": 26.316667,
+        "longitude": -77.566667
+    },
+    {
+        "name": "Green Turtle Cay",
+        "country": "Bahamas",
+        "province": "Hope Town",
+        "population": -1,
+        "latitude": 26.75818,
+        "longitude": -77.32482
+    },
+    {
+        "name": "Duncan Town",
+        "country": "Bahamas",
+        "province": "Ragged Island",
+        "population": 70,
+        "latitude": 22.1908333,
+        "longitude": -75.7258333
+    },
+    {
+        "name": "Deadman's Cay",
+        "country": "Bahamas",
+        "province": "Long Island",
+        "population": -1,
+        "latitude": 23.17919,
+        "longitude": -75.1131
+    },
+    {
+        "name": "Crown Haven",
+        "country": "Bahamas",
+        "province": "North Abaco",
+        "population": -1,
+        "latitude": 26.9,
+        "longitude": -77.816667
+    },
+    {
+        "name": "Congo Town",
+        "country": "Bahamas",
+        "province": "South Andros",
+        "population": -1,
+        "latitude": 24.16614298859424,
+        "longitude": -77.58424758911133
+    },
+    {
+        "name": "Chub Cay",
+        "country": "Bahamas",
+        "province": "Berry Islands",
+        "population": -1,
+        "latitude": 25.41254,
+        "longitude": -77.90264
+    },
+    {
+        "name": "Cherokee Sound",
+        "country": "Bahamas",
+        "province": "Central Abaco",
+        "population": -1,
+        "latitude": 26.283333,
+        "longitude": -77.033333
+    },
+    {
+        "name": "Bennetts Harbor",
+        "country": "Bahamas",
+        "province": "Cat Island",
+        "population": -1,
+        "latitude": 24.563469,
+        "longitude": -75.639886
+    },
+    {
+        "name": "Bailey Town",
+        "country": "Bahamas",
+        "province": "Bimini",
+        "population": -1,
+        "latitude": 25.7437,
+        "longitude": -79.2861
+    },
+    {
+        "name": "Eleuthera",
+        "country": "Bahamas",
+        "province": "Bahamas",
+        "population": -1,
+        "latitude": 25.1359994908825,
+        "longitude": -76.1502313613892
+    },
+    {
+        "name": "Treasure Cay",
+        "country": "Bahamas",
+        "province": "Bahamas",
+        "population": -1,
+        "latitude": 26.676913083105454,
+        "longitude": -77.28581428527832
+    },
+    {
+        "name": "Freetown",
+        "country": "Bahamas",
+        "province": "Bahamas",
+        "population": -1,
+        "latitude": 24.77894,
+        "longitude": -76.27705
+    },
+    {
+        "name": "The Bight",
+        "country": "Bahamas",
+        "province": "Cat Island",
+        "population": -1,
+        "latitude": 24.289608573210778,
+        "longitude": -75.41522026062012
+    },
+    {
+        "name": "Tarpum Bay",
+        "country": "Bahamas",
+        "province": "South Eleuthera",
+        "population": -1,
+        "latitude": 24.970003,
+        "longitude": -76.181567
+    },
+    {
+        "name": "Steventon",
+        "country": "Bahamas",
+        "province": "Exuma",
+        "population": -1,
+        "latitude": 23.642654,
+        "longitude": -75.944796
+    },
+    {
+        "name": "Stella Maris",
+        "country": "Bahamas",
+        "province": "Long Island",
+        "population": -1,
+        "latitude": 23.59199,
+        "longitude": -75.2651
+    },
+    {
+        "name": "Staniard Creek",
+        "country": "Bahamas",
+        "province": "North Andros",
+        "population": -1,
+        "latitude": 24.831415,
+        "longitude": -77.887625
+    },
+    {
+        "name": "Savannah Sound",
+        "country": "Bahamas",
+        "province": "Central Eleuthera",
+        "population": -1,
+        "latitude": 25.08416,
+        "longitude": -76.13714
+    },
+    {
+        "name": "Rolleville",
+        "country": "Bahamas",
+        "province": "Exuma",
+        "population": -1,
+        "latitude": 23.673316,
+        "longitude": -75.984837
+    },
+    {
+        "name": "Red Bay Settlement",
+        "country": "Bahamas",
+        "province": "North Andros",
+        "population": -1,
+        "latitude": 25.137816,
+        "longitude": -78.195443
+    },
+    {
+        "name": "New Bight Settlement",
+        "country": "Bahamas",
+        "province": "Cat Island",
+        "population": -1,
+        "latitude": 24.320780505183613,
+        "longitude": -75.4700231552124
+    },
+    {
+        "name": "Millars",
+        "country": "Bahamas",
+        "province": "New Providence",
+        "population": -1,
+        "latitude": 24.984851,
+        "longitude": -77.43039
+    },
+    {
+        "name": "Mastic Point Settlement",
+        "country": "Bahamas",
+        "province": "North Andros",
+        "population": -1,
+        "latitude": 25.06729,
+        "longitude": -77.96937
+    },
+    {
+        "name": "Majors",
+        "country": "Bahamas",
+        "province": "Crooked Island and Long Cay",
+        "population": -1,
+        "latitude": 22.726774,
+        "longitude": -74.156159
+    },
+    {
+        "name": "Forest",
+        "country": "Bahamas",
+        "province": "Exuma",
+        "population": -1,
+        "latitude": 23.586974,
+        "longitude": -75.914426
+    },
+    {
+        "name": "Devil’s Point",
+        "country": "Bahamas",
+        "province": "Cat Island",
+        "population": -1,
+        "latitude": 24.116667,
+        "longitude": -75.466667
+    },
+    {
+        "name": "Delectable Point",
+        "country": "Bahamas",
+        "province": "Acklins",
+        "population": -1,
+        "latitude": 22.42006,
+        "longitude": -73.992146
+    },
+    {
+        "name": "Current",
+        "country": "Bahamas",
+        "province": "North Eleuthera",
+        "population": -1,
+        "latitude": 25.408001,
+        "longitude": -76.783971
+    },
+    {
+        "name": "Coakley Town",
+        "country": "Bahamas",
+        "province": "North Andros",
+        "population": -1,
+        "latitude": 24.726251180537773,
+        "longitude": -77.79487609863281
+    },
+    {
+        "name": "Bullocks Harbour",
+        "country": "Bahamas",
+        "province": "Berry Islands",
+        "population": -1,
+        "latitude": 25.75205,
+        "longitude": -77.86895
+    },
+    {
+        "name": "Behring Point",
+        "country": "Bahamas",
+        "province": "Central Andros",
+        "population": -1,
+        "latitude": 24.480040299229177,
+        "longitude": -77.72355079650879
+    },
+    {
+        "name": "Alice Town",
+        "country": "Bahamas",
+        "province": "North Eleuthera",
+        "population": -1,
+        "latitude": 25.346042,
+        "longitude": -76.485312
+    },
+    {
+        "name": "Albert Town",
+        "country": "Bahamas",
+        "province": "Acklins",
+        "population": 25,
+        "latitude": 22.600909,
+        "longitude": -74.346875
+    },
+    {
+        "name": "Zonicles",
+        "country": "Bahamas",
+        "province": "Cat Island",
+        "population": -1,
+        "latitude": 24.15357,
+        "longitude": -75.36243
+    },
+    {
+        "name": "Wood Cay",
+        "country": "Bahamas",
+        "province": "North Abaco",
+        "population": -1,
+        "latitude": 26.9,
+        "longitude": -77.733333
+    },
+    {
+        "name": "William’s Town",
+        "country": "Bahamas",
+        "province": "Exuma",
+        "population": -1,
+        "latitude": 23.425953,
+        "longitude": -75.558918
+    },
+    {
+        "name": "Waterloo",
+        "country": "Bahamas",
+        "province": "New Providence",
+        "population": -1,
+        "latitude": 25.0333333,
+        "longitude": -77.5333333
+    },
+    {
+        "name": "Waterford",
+        "country": "Bahamas",
+        "province": "South Eleuthera",
+        "population": -1,
+        "latitude": 24.75,
+        "longitude": -76.233333
+    },
+    {
+        "name": "Water Cay",
+        "country": "Bahamas",
+        "province": "West Grand Bahama",
+        "population": -1,
+        "latitude": 26.75,
+        "longitude": -78.5
+    },
+    {
+        "name": "Upper Bogue",
+        "country": "Bahamas",
+        "province": "North Eleuthera",
+        "population": -1,
+        "latitude": 25.45,
+        "longitude": -76.666667
+    },
+    {
+        "name": "Tusculum",
+        "country": "Bahamas",
+        "province": "New Providence",
+        "population": -1,
+        "latitude": 25.0666667,
+        "longitude": -77.4833333
+    },
+    {
+        "name": "The Lot",
+        "country": "Bahamas",
+        "province": "Cat Island",
+        "population": -1,
+        "latitude": 24.6333333,
+        "longitude": -75.6833333
+    },
+    {
+        "name": "Tea Bay",
+        "country": "Bahamas",
+        "province": "Cat Island",
+        "population": -1,
+        "latitude": 24.4,
+        "longitude": -75.5166667
+    },
+    {
+        "name": "Stephenson",
+        "country": "Bahamas",
+        "province": "Cat Island",
+        "population": -1,
+        "latitude": 24.444202,
+        "longitude": -75.542025
+    },
+    {
+        "name": "Stafford Creek",
+        "country": "Bahamas",
+        "province": "North Andros",
+        "population": -1,
+        "latitude": 24.90594,
+        "longitude": -77.936682
+    },
+    {
+        "name": "Spring Point",
+        "country": "Bahamas",
+        "province": "Acklins",
+        "population": -1,
+        "latitude": 22.458825,
+        "longitude": -73.960567
+    },
+    {
+        "name": "Spring City",
+        "country": "Bahamas",
+        "province": "Central Abaco",
+        "population": -1,
+        "latitude": 26.474652,
+        "longitude": -77.08913
+    },
+    {
+        "name": "Southwest Point",
+        "country": "Bahamas",
+        "province": "West Grand Bahama",
+        "population": -1,
+        "latitude": 26.491393,
+        "longitude": -78.74999
+    },
+    {
+        "name": "South Palmetto Point",
+        "country": "Bahamas",
+        "province": "Central Eleuthera",
+        "population": -1,
+        "latitude": 25.15,
+        "longitude": -76.183333
+    },
+    {
+        "name": "Smith Point",
+        "country": "Bahamas",
+        "province": "Freeport",
+        "population": -1,
+        "latitude": 26.5,
+        "longitude": -78.6166667
+    },
+    {
+        "name": "Smith Bay",
+        "country": "Bahamas",
+        "province": "Cat Island",
+        "population": -1,
+        "latitude": 24.343784,
+        "longitude": -75.477315
+    },
+    {
+        "name": "Simms",
+        "country": "Bahamas",
+        "province": "Long Island",
+        "population": -1,
+        "latitude": 23.47922,
+        "longitude": -75.235968
+    },
+    {
+        "name": "Seymour’s",
+        "country": "Bahamas",
+        "province": "Long Island",
+        "population": -1,
+        "latitude": 23.656191,
+        "longitude": -75.311356
+    },
+    {
+        "name": "Sea Grape",
+        "country": "Bahamas",
+        "province": "West Grand Bahama",
+        "population": -1,
+        "latitude": 26.533333,
+        "longitude": -78.816667
+    },
+    {
+        "name": "Sandy Point",
+        "country": "Bahamas",
+        "province": "South Abaco",
+        "population": -1,
+        "latitude": 26.020525,
+        "longitude": -77.389996
+    },
+    {
+        "name": "Salt Pond",
+        "country": "Bahamas",
+        "province": "Long Island",
+        "population": -1,
+        "latitude": 23.345943,
+        "longitude": -75.123114
+    },
+    {
+        "name": "Salina Point",
+        "country": "Bahamas",
+        "province": "Acklins",
+        "population": -1,
+        "latitude": 22.204784,
+        "longitude": -74.243504
+    },
+    {
+        "name": "Roses",
+        "country": "Bahamas",
+        "province": "Long Island",
+        "population": -1,
+        "latitude": 22.983333,
+        "longitude": -74.884289
+    },
+    {
+        "name": "Rolletown",
+        "country": "Bahamas",
+        "province": "Exuma",
+        "population": -1,
+        "latitude": 23.463122,
+        "longitude": -75.704208
+    },
+    {
+        "name": "Roakers",
+        "country": "Bahamas",
+        "province": "Cat Island",
+        "population": -1,
+        "latitude": 24.519222,
+        "longitude": -75.583333
+    },
+    {
+        "name": "Richmond Hill",
+        "country": "Bahamas",
+        "province": "Exuma",
+        "population": -1,
+        "latitude": 23.606765,
+        "longitude": -75.994322
+    },
+    {
+        "name": "Ramsey",
+        "country": "Bahamas",
+        "province": "Exuma",
+        "population": -1,
+        "latitude": 23.5666667,
+        "longitude": -75.8666667
+    },
+    {
+        "name": "Port Boyd",
+        "country": "Bahamas",
+        "province": "Rum Cay",
+        "population": -1,
+        "latitude": 23.703544,
+        "longitude": -74.820684
+    },
+    {
+        "name": "Pelican Point",
+        "country": "Bahamas",
+        "province": "East Grand Bahama",
+        "population": -1,
+        "latitude": 26.65,
+        "longitude": -78.083333
+    },
+    {
+        "name": "Old Bight",
+        "country": "Bahamas",
+        "province": "Cat Island",
+        "population": -1,
+        "latitude": 24.230372557915945,
+        "longitude": -75.37960052490234
+    },
+    {
+        "name": "North Palmetto Point",
+        "country": "Bahamas",
+        "province": "Central Eleuthera",
+        "population": -1,
+        "latitude": 25.166667,
+        "longitude": -76.183333
+    },
+    {
+        "name": "Normans Castle",
+        "country": "Bahamas",
+        "province": "North Abaco",
+        "population": -1,
+        "latitude": 26.719067,
+        "longitude": -77.443803
+    },
+    {
+        "name": "Mount Thompson",
+        "country": "Bahamas",
+        "province": "Exuma",
+        "population": -1,
+        "latitude": 23.5833333,
+        "longitude": -75.8833333
+    },
+    {
+        "name": "Mortimers",
+        "country": "Bahamas",
+        "province": "Long Island",
+        "population": -1,
+        "latitude": 22.906215,
+        "longitude": -74.874317
+    },
+    {
+        "name": "Millerton",
+        "country": "Bahamas",
+        "province": "Long Island",
+        "population": -1,
+        "latitude": 23.55,
+        "longitude": -75.25
+    },
+    {
+        "name": "Millars",
+        "country": "Bahamas",
+        "province": "New Providence",
+        "population": -1,
+        "latitude": 24.67405,
+        "longitude": -76.19164
+    },
+    {
+        "name": "Michelson",
+        "country": "Bahamas",
+        "province": "Exuma",
+        "population": -1,
+        "latitude": 23.49052478564665,
+        "longitude": -75.76579570770264
+    },
+    {
+        "name": "McQueens",
+        "country": "Bahamas",
+        "province": "Cat Island",
+        "population": -1,
+        "latitude": 24.177907,
+        "longitude": -75.470808
+    },
+    {
+        "name": "McLeans Town",
+        "country": "Bahamas",
+        "province": "East Grand Bahama",
+        "population": -1,
+        "latitude": 26.657984,
+        "longitude": -77.991906
+    },
+    {
+        "name": "McKanns",
+        "country": "Bahamas",
+        "province": "Long Island",
+        "population": -1,
+        "latitude": 23.3666667,
+        "longitude": -75.1666667
+    },
+    {
+        "name": "Mars Bay",
+        "country": "Bahamas",
+        "province": "South Andros",
+        "population": -1,
+        "latitude": 23.867104,
+        "longitude": -77.515809
+    },
+    {
+        "name": "Man of War Cay",
+        "country": "Bahamas",
+        "province": "Hope Town",
+        "population": -1,
+        "latitude": 26.595363,
+        "longitude": -77.000765
+    },
+    {
+        "name": "Macbride",
+        "country": "Bahamas",
+        "province": "New Providence",
+        "population": -1,
+        "latitude": 25.0666667,
+        "longitude": -77.4666667
+    },
+    {
+        "name": "Lowe Sound Settlement",
+        "country": "Bahamas",
+        "province": "North Andros",
+        "population": -1,
+        "latitude": 25.148912,
+        "longitude": -78.091699
+    },
+    {
+        "name": "Lisbon Creek",
+        "country": "Bahamas",
+        "province": "Mangrove Cay",
+        "population": -1,
+        "latitude": 24.21397,
+        "longitude": -77.63751
+    },
+    {
+        "name": "Knowles Village",
+        "country": "Bahamas",
+        "province": "Cat Island",
+        "population": -1,
+        "latitude": 24.367273,
+        "longitude": -75.499897
+    },
+    {
+        "name": "James Cistern",
+        "country": "Bahamas",
+        "province": "North Eleuthera",
+        "population": -1,
+        "latitude": 25.325663,
+        "longitude": -76.361812
+    },
+    {
+        "name": "Industrious Hill",
+        "country": "Bahamas",
+        "province": "Cat Island",
+        "population": -1,
+        "latitude": 24.45,
+        "longitude": -75.55
+    },
+    {
+        "name": "Hunters",
+        "country": "Bahamas",
+        "province": "West Grand Bahama",
+        "population": -1,
+        "latitude": 26.483333,
+        "longitude": -78.716667
+    },
+    {
+        "name": "Holmes Rock",
+        "country": "Bahamas",
+        "province": "West Grand Bahama",
+        "population": -1,
+        "latitude": 26.55,
+        "longitude": -78.833333
+    },
+    {
+        "name": "High Rock",
+        "country": "Bahamas",
+        "province": "South Andros",
+        "population": -1,
+        "latitude": 24.166667,
+        "longitude": -77.583333
+    },
+    {
+        "name": "Hard Bargain",
+        "country": "Bahamas",
+        "province": "Long Island",
+        "population": -1,
+        "latitude": 23.01848,
+        "longitude": -74.892452
+    },
+    {
+        "name": "Guano Cay",
+        "country": "Bahamas",
+        "province": "Hope Town",
+        "population": -1,
+        "latitude": 26.666602,
+        "longitude": -77.107819
+    },
+    {
+        "name": "Gordon’s",
+        "country": "Bahamas",
+        "province": "Long Island",
+        "population": -1,
+        "latitude": 22.866667,
+        "longitude": -74.85
+    },
+    {
+        "name": "Gaitor’s",
+        "country": "Bahamas",
+        "province": "Cat Island",
+        "population": -1,
+        "latitude": 24.466667,
+        "longitude": -75.55
+    },
+    {
+        "name": "French Wells",
+        "country": "Bahamas",
+        "province": "Crooked Island and Long Cay",
+        "population": -1,
+        "latitude": 22.683333,
+        "longitude": -74.3
+    },
+    {
+        "name": "Freetown",
+        "country": "Bahamas",
+        "province": "Cat Island",
+        "population": -1,
+        "latitude": 24.303298570604056,
+        "longitude": -75.43058395385742
+    },
+    {
+        "name": "Forbes Hill",
+        "country": "Bahamas",
+        "province": "Exuma",
+        "population": -1,
+        "latitude": 23.460012,
+        "longitude": -75.647324
+    },
+    {
+        "name": "Farmer’s Hill",
+        "country": "Bahamas",
+        "province": "Exuma",
+        "population": -1,
+        "latitude": 23.6,
+        "longitude": -75.9
+    },
+    {
+        "name": "Dunmore",
+        "country": "Bahamas",
+        "province": "Long Island",
+        "population": -1,
+        "latitude": 23.047686,
+        "longitude": -74.905497
+    },
+    {
+        "name": "Dumfries",
+        "country": "Bahamas",
+        "province": "Cat Island",
+        "population": -1,
+        "latitude": 24.600812,
+        "longitude": -75.64669
+    },
+    {
+        "name": "Driggs Hill",
+        "country": "Bahamas",
+        "province": "South Andros",
+        "population": -1,
+        "latitude": 24.208636,
+        "longitude": -77.59949
+    },
+    {
+        "name": "Douds",
+        "country": "Bahamas",
+        "province": "Cat Island",
+        "population": -1,
+        "latitude": 24.28006381589208,
+        "longitude": -75.40740966796875
+    },
+    {
+        "name": "Deep Creek",
+        "country": "Bahamas",
+        "province": "South Eleuthera",
+        "population": -1,
+        "latitude": 24.773326,
+        "longitude": -76.269588
+    },
+    {
+        "name": "Deep Creek",
+        "country": "Bahamas",
+        "province": "South Andros",
+        "population": -1,
+        "latitude": 24,
+        "longitude": -77.55
+    },
+    {
+        "name": "Current Island Settlement",
+        "country": "Bahamas",
+        "province": "North Eleuthera",
+        "population": -1,
+        "latitude": 25.344938,
+        "longitude": -76.816219
+    },
+    {
+        "name": "Crossing Rocks",
+        "country": "Bahamas",
+        "province": "South Abaco",
+        "population": -1,
+        "latitude": 26.133333,
+        "longitude": -77.183333
+    },
+    {
+        "name": "Cove",
+        "country": "Bahamas",
+        "province": "Cat Island",
+        "population": -1,
+        "latitude": 24.4166667,
+        "longitude": -75.5333333
+    },
+    {
+        "name": "Coral Harbour",
+        "country": "Bahamas",
+        "province": "New Providence",
+        "population": -1,
+        "latitude": 24.981757,
+        "longitude": -77.465345
+    },
+    {
+        "name": "Conch Sound Settlement",
+        "country": "Bahamas",
+        "province": "North Andros",
+        "population": -1,
+        "latitude": 25.121877,
+        "longitude": -77.995706
+    },
+    {
+        "name": "Colebrooke Dale",
+        "country": "Bahamas",
+        "province": "Governor's Harbour District",
+        "population": -1,
+        "latitude": 25.2,
+        "longitude": -76.25
+    },
+    {
+        "name": "Cedar Harbour",
+        "country": "Bahamas",
+        "province": "North Abaco",
+        "population": -1,
+        "latitude": 26.895319,
+        "longitude": -77.651976
+    },
+    {
+        "name": "Cabbage Point",
+        "country": "Bahamas",
+        "province": "Long Island",
+        "population": -1,
+        "latitude": 22.932792,
+        "longitude": -74.885684
+    },
+    {
+        "name": "Burnt Ground",
+        "country": "Bahamas",
+        "province": "Long Island",
+        "population": -1,
+        "latitude": 23.61126,
+        "longitude": -75.28682
+    },
+    {
+        "name": "Braudies Point",
+        "country": "Bahamas",
+        "province": "West Grand Bahama",
+        "population": -1,
+        "latitude": 26.533333,
+        "longitude": -78.733333
+    },
+    {
+        "name": "Bluff Settlement",
+        "country": "Bahamas",
+        "province": "Cat Island",
+        "population": -1,
+        "latitude": 24.522707,
+        "longitude": -75.591928
+    },
+    {
+        "name": "Black Point",
+        "country": "Bahamas",
+        "province": "Black Point",
+        "population": -1,
+        "latitude": 23.983333,
+        "longitude": -77.55
+    },
+    {
+        "name": "Binnacle Hill",
+        "country": "Bahamas",
+        "province": "Acklins",
+        "population": -1,
+        "latitude": 22.321164,
+        "longitude": -74.138474
+    },
+    {
+        "name": "Berrys",
+        "country": "Bahamas",
+        "province": "Long Island",
+        "population": -1,
+        "latitude": 22.954303,
+        "longitude": -74.882855
+    },
+    {
+        "name": "Baraterre",
+        "country": "Bahamas",
+        "province": "Exuma",
+        "population": -1,
+        "latitude": 23.695735,
+        "longitude": -76.041253
+    },
+    {
+        "name": "Baraterre",
+        "country": "Bahamas",
+        "province": "Exuma",
+        "population": -1,
+        "latitude": 23.6833333,
+        "longitude": -76.0333333
+    },
+    {
+        "name": "Bain Town",
+        "country": "Bahamas",
+        "province": "Cat Island",
+        "population": -1,
+        "latitude": 24.150197,
+        "longitude": -75.38353
+    },
+    {
+        "name": "Adelaide",
+        "country": "Bahamas",
+        "province": "New Providence",
+        "population": -1,
+        "latitude": 25.002203,
+        "longitude": -77.490524
+    },
+    {
+        "name": "Adderly",
+        "country": "Bahamas",
+        "province": "Long Island",
+        "population": -1,
+        "latitude": 23.58059,
+        "longitude": -75.2542
+    },
+    {
+        "name": "Russell Town",
+        "country": "Bahamas",
+        "province": "West Grand Bahama",
+        "population": -1,
+        "latitude": 26.516667,
+        "longitude": -78.7
+    },
+    {
+        "name": "South Palmetto Point",
+        "country": "Bahamas",
+        "province": "Central Eleuthera",
+        "population": -1,
+        "latitude": 25.15,
+        "longitude": -76.172222
+    },
+    {
+        "name": "Sugar Loaf",
+        "country": "Bahamas",
+        "province": "San Salvador",
+        "population": -1,
+        "latitude": 24.0017,
+        "longitude": -74.53516
+    },
+    {
+        "name": "New Town",
+        "country": "Bahamas",
+        "province": "North Andros",
+        "population": -1,
+        "latitude": 25.0526,
+        "longitude": -77.98499
+    },
+    {
+        "name": "Markey",
+        "country": "Bahamas",
+        "province": "Central Andros",
+        "population": -1,
+        "latitude": 24.488056,
+        "longitude": -77.721111
+    },
+    {
+        "name": "Kemps Point",
+        "country": "Bahamas",
+        "province": "South Eleuthera",
+        "population": -1,
+        "latitude": 24.906978,
+        "longitude": -76.182156
+    },
+    {
+        "name": "Davis Harbor",
+        "country": "Bahamas",
+        "province": "South Eleuthera",
+        "population": -1,
+        "latitude": 24.73095,
+        "longitude": -76.220155
+    },
+    {
+        "name": "Zion Hill",
+        "country": "Bahamas",
+        "province": "Cat Island",
+        "population": -1,
+        "latitude": 24.6166667,
+        "longitude": -75.65
+    },
+    {
+        "name": "Yamacraw Beach Estate",
+        "country": "Bahamas",
+        "province": "New Providence",
+        "population": -1,
+        "latitude": 25.0333333,
+        "longitude": -77.2833333
+    },
+    {
+        "name": "Winton",
+        "country": "Bahamas",
+        "province": "New Providence",
+        "population": -1,
+        "latitude": 25.05,
+        "longitude": -77.2833333
+    },
+    {
+        "name": "Wilson City",
+        "country": "Bahamas",
+        "province": "Central Abaco",
+        "population": -1,
+        "latitude": 26.366667,
+        "longitude": -77.033333
+    },
+    {
+        "name": "Williams Town",
+        "country": "Bahamas",
+        "province": "Freeport",
+        "population": -1,
+        "latitude": 26.4833333,
+        "longitude": -78.6666667
+    },
+    {
+        "name": "Whitehouse",
+        "country": "Bahamas",
+        "province": "Long Island",
+        "population": -1,
+        "latitude": 23.4,
+        "longitude": -75.1666667
+    },
+    {
+        "name": "Wemyss Bight",
+        "country": "Bahamas",
+        "province": "New Providence",
+        "population": -1,
+        "latitude": 24.70855,
+        "longitude": -76.21323
+    },
+    {
+        "name": "Wemyss",
+        "country": "Bahamas",
+        "province": "Long Island",
+        "population": -1,
+        "latitude": 23.4166667,
+        "longitude": -75.1833333
+    },
+    {
+        "name": "Vincent Town",
+        "country": "Bahamas",
+        "province": "West Grand Bahama",
+        "population": -1,
+        "latitude": 26.666667,
+        "longitude": -78.95
+    },
+    {
+        "name": "Victoria Village",
+        "country": "Bahamas",
+        "province": "Long Island",
+        "population": -1,
+        "latitude": 23.0833333,
+        "longitude": -74.95
+    },
+    {
+        "name": "Victoria Hill",
+        "country": "Bahamas",
+        "province": "San Salvador",
+        "population": -1,
+        "latitude": 24.0935,
+        "longitude": -74.52338
+    },
+    {
+        "name": "Victoria Hill",
+        "country": "Bahamas",
+        "province": "San Salvador",
+        "population": -1,
+        "latitude": 24.0333333,
+        "longitude": -74.4666667
+    },
+    {
+        "name": "United Estates",
+        "country": "Bahamas",
+        "province": "San Salvador",
+        "population": -1,
+        "latitude": 24.1,
+        "longitude": -74.45
+    },
+    {
+        "name": "Twin Lakes",
+        "country": "Bahamas",
+        "province": "North Andros",
+        "population": -1,
+        "latitude": 24.725803,
+        "longitude": -77.997984
+    },
+    {
+        "name": "Turnbull",
+        "country": "Bahamas",
+        "province": "Long Island",
+        "population": -1,
+        "latitude": 23.0833333,
+        "longitude": -75.0166667
+    },
+    {
+        "name": "True Blue",
+        "country": "Bahamas",
+        "province": "Acklins",
+        "population": -1,
+        "latitude": 22.0666667,
+        "longitude": -74.0666667
+    },
+    {
+        "name": "Trial Farm",
+        "country": "Bahamas",
+        "province": "San Salvador",
+        "population": -1,
+        "latitude": 23.9666667,
+        "longitude": -74.4833333
+    },
+    {
+        "name": "Thurston Hill",
+        "country": "Bahamas",
+        "province": "Cat Island",
+        "population": -1,
+        "latitude": 24.5333333,
+        "longitude": -75.6333333
+    },
+    {
+        "name": "Thomas Town",
+        "country": "Bahamas",
+        "province": "West Grand Bahama",
+        "population": -1,
+        "latitude": 26.65,
+        "longitude": -78.966667
+    },
+    {
+        "name": "The Village",
+        "country": "Bahamas",
+        "province": "Cat Island",
+        "population": -1,
+        "latitude": 24.25,
+        "longitude": -75.4
+    },
+    {
+        "name": "The Ferry Settlement",
+        "country": "Bahamas",
+        "province": "Exuma",
+        "population": -1,
+        "latitude": 23.45,
+        "longitude": -75.5666667
+    },
+    {
+        "name": "The Bluff",
+        "country": "Bahamas",
+        "province": "South Andros",
+        "population": -1,
+        "latitude": 24.116667,
+        "longitude": -77.55
+    },
+    {
+        "name": "The Bight",
+        "country": "Bahamas",
+        "province": "Moore’s Island",
+        "population": -1,
+        "latitude": 26.3,
+        "longitude": -77.55
+    },
+    {
+        "name": "Tatnall",
+        "country": "Bahamas",
+        "province": "Long Island",
+        "population": -1,
+        "latitude": 23.4833333,
+        "longitude": -75.2
+    },
+    {
+        "name": "Taits",
+        "country": "Bahamas",
+        "province": "Long Island",
+        "population": -1,
+        "latitude": 22.9833333,
+        "longitude": -74.8833333
+    },
+    {
+        "name": "Sweetings Village",
+        "country": "Bahamas",
+        "province": "Central Abaco",
+        "population": -1,
+        "latitude": 26.35,
+        "longitude": -77.033333
+    },
+    {
+        "name": "Sugar Loaf",
+        "country": "Bahamas",
+        "province": "San Salvador",
+        "population": -1,
+        "latitude": 23.65,
+        "longitude": -74.5166667
+    },
+    {
+        "name": "Stuart Manor",
+        "country": "Bahamas",
+        "province": "Exuma",
+        "population": -1,
+        "latitude": 23.6333333,
+        "longitude": -76
+    },
+    {
+        "name": "Stevens",
+        "country": "Bahamas",
+        "province": "Long Island",
+        "population": -1,
+        "latitude": 23.0833333,
+        "longitude": -75.0166667
+    },
+    {
+        "name": "South Victoria Hill",
+        "country": "Bahamas",
+        "province": "San Salvador",
+        "population": -1,
+        "latitude": 24,
+        "longitude": -74.4666667
+    },
+    {
+        "name": "Snake Cay",
+        "country": "Bahamas",
+        "province": "Central Abaco",
+        "population": -1,
+        "latitude": 26.45678,
+        "longitude": -77.048201
+    },
+    {
+        "name": "Smith’s Hill",
+        "country": "Bahamas",
+        "province": "South Andros",
+        "population": -1,
+        "latitude": 24.05,
+        "longitude": -77.533333
+    },
+    {
+        "name": "Seminets",
+        "country": "Bahamas",
+        "province": "North Andros",
+        "population": -1,
+        "latitude": 24.866667,
+        "longitude": -77.933333
+    },
+    {
+        "name": "Seaview Settlement",
+        "country": "Bahamas",
+        "province": "Crooked Island and Long Cay",
+        "population": -1,
+        "latitude": 22.816667,
+        "longitude": -74.283333
+    },
+    {
+        "name": "Scrub Hill",
+        "country": "Bahamas",
+        "province": "Long Island",
+        "population": -1,
+        "latitude": 23.4833333,
+        "longitude": -75.2333333
+    },
+    {
+        "name": "Scrub Hill",
+        "country": "Bahamas",
+        "province": "Long Island",
+        "population": -1,
+        "latitude": 23.1,
+        "longitude": -75.0166667
+    },
+    {
+        "name": "Sandilands Village",
+        "country": "Bahamas",
+        "province": "New Providence",
+        "population": -1,
+        "latitude": 25.05,
+        "longitude": -77.3166667
+    },
+    {
+        "name": "Sam McKinnons",
+        "country": "Bahamas",
+        "province": "Long Island",
+        "population": -1,
+        "latitude": 23.4,
+        "longitude": -75.1833333
+    },
+    {
+        "name": "Rokers Point Settlement",
+        "country": "Bahamas",
+        "province": "Exuma",
+        "population": -1,
+        "latitude": 23.6166667,
+        "longitude": -75.9166667
+    },
+    {
+        "name": "Roberts Town",
+        "country": "Bahamas",
+        "province": "West Grand Bahama",
+        "population": -1,
+        "latitude": 26.666667,
+        "longitude": -78.95
+    },
+    {
+        "name": "Richmond",
+        "country": "Bahamas",
+        "province": "Crooked Island and Long Cay",
+        "population": -1,
+        "latitude": 22.8,
+        "longitude": -74.333333
+    },
+    {
+        "name": "Reckley Hill",
+        "country": "Bahamas",
+        "province": "San Salvador",
+        "population": -1,
+        "latitude": 24.1,
+        "longitude": -74.45
+    },
+    {
+        "name": "Quarters",
+        "country": "Bahamas",
+        "province": "San Salvador",
+        "population": -1,
+        "latitude": 24.10382,
+        "longitude": -74.51899
+    },
+    {
+        "name": "Pure Gold",
+        "country": "Bahamas",
+        "province": "South Andros",
+        "population": -1,
+        "latitude": 23.966667,
+        "longitude": -77.533333
+    },
+    {
+        "name": "Port Howe",
+        "country": "Bahamas",
+        "province": "Cat Island",
+        "population": -1,
+        "latitude": 24.158476,
+        "longitude": -75.338606
+    },
+    {
+        "name": "Pompey Bay",
+        "country": "Bahamas",
+        "province": "Acklins",
+        "population": -1,
+        "latitude": 22.41143,
+        "longitude": -73.993808
+    },
+    {
+        "name": "Polly Hill",
+        "country": "Bahamas",
+        "province": "San Salvador",
+        "population": -1,
+        "latitude": 24.0833333,
+        "longitude": -74.4333333
+    },
+    {
+        "name": "Pine Ridge",
+        "country": "Bahamas",
+        "province": "West Grand Bahama",
+        "population": -1,
+        "latitude": 26.55,
+        "longitude": -78.733333
+    },
+    {
+        "name": "Pinefield",
+        "country": "Bahamas",
+        "province": "Acklins",
+        "population": -1,
+        "latitude": 22.65,
+        "longitude": -73.8666667
+    },
+    {
+        "name": "Pinders",
+        "country": "Bahamas",
+        "province": "Long Island",
+        "population": -1,
+        "latitude": 23.2833333,
+        "longitude": -75.1
+    },
+    {
+        "name": "Palmetto Point",
+        "country": "Bahamas",
+        "province": "Central Eleuthera",
+        "population": -1,
+        "latitude": 25.166667,
+        "longitude": -76.166667
+    },
+    {
+        "name": "Owens Town",
+        "country": "Bahamas",
+        "province": "North Andros",
+        "population": -1,
+        "latitude": 24.877622,
+        "longitude": -78.035752
+    },
+    {
+        "name": "Orange Hill",
+        "country": "Bahamas",
+        "province": "New Providence",
+        "population": -1,
+        "latitude": 25.0666667,
+        "longitude": -77.4833333
+    },
+    {
+        "name": "Orange Creek",
+        "country": "Bahamas",
+        "province": "Cat Island",
+        "population": -1,
+        "latitude": 24.65,
+        "longitude": -75.7166667
+    },
+    {
+        "name": "O’Neils",
+        "country": "Bahamas",
+        "province": "Long Island",
+        "population": -1,
+        "latitude": 23.5,
+        "longitude": -75.216667
+    },
+    {
+        "name": "Old Place",
+        "country": "Bahamas",
+        "province": "San Salvador",
+        "population": -1,
+        "latitude": 23.9666667,
+        "longitude": -74.4833333
+    },
+    {
+        "name": "Old Grays",
+        "country": "Bahamas",
+        "province": "Long Island",
+        "population": -1,
+        "latitude": 23.2166667,
+        "longitude": -75.0833333
+    },
+    {
+        "name": "Nassau Estate",
+        "country": "Bahamas",
+        "province": "New Providence",
+        "population": -1,
+        "latitude": 25.0333333,
+        "longitude": -77.2833333
+    },
+    {
+        "name": "Murphy Town",
+        "country": "Bahamas",
+        "province": "Central Abaco",
+        "population": -1,
+        "latitude": 26.552615,
+        "longitude": -77.095854
+    },
+    {
+        "name": "Moxey Town",
+        "country": "Bahamas",
+        "province": "Mangrove Cay",
+        "population": -1,
+        "latitude": 24.295397666583582,
+        "longitude": -77.6799488067627
+    },
+    {
+        "name": "Mount Pleasant",
+        "country": "Bahamas",
+        "province": "New Providence",
+        "population": -1,
+        "latitude": 25.0166667,
+        "longitude": -77.5166667
+    },
+    {
+        "name": "Mount Hope",
+        "country": "Bahamas",
+        "province": "North Abaco",
+        "population": -1,
+        "latitude": 26.9,
+        "longitude": -77.766667
+    },
+    {
+        "name": "Moss Town",
+        "country": "Bahamas",
+        "province": "Cat Island",
+        "population": -1,
+        "latitude": 24.246181961579406,
+        "longitude": -75.38681030273438
+    },
+    {
+        "name": "Moss Town",
+        "country": "Bahamas",
+        "province": "Exuma",
+        "population": -1,
+        "latitude": 23.546748,
+        "longitude": -75.855714
+    },
+    {
+        "name": "Moss Town",
+        "country": "Bahamas",
+        "province": "Crooked Island and Long Cay",
+        "population": -1,
+        "latitude": 22.8,
+        "longitude": -74.25
+    },
+    {
+        "name": "Morgan’s Bluff",
+        "country": "Bahamas",
+        "province": "North Andros",
+        "population": -1,
+        "latitude": 25.166667,
+        "longitude": -78.033333
+    },
+    {
+        "name": "Morant Bay",
+        "country": "Bahamas",
+        "province": "Acklins",
+        "population": -1,
+        "latitude": 22.4,
+        "longitude": -74.0333333
+    },
+    {
+        "name": "Montreal",
+        "country": "Bahamas",
+        "province": "San Salvador",
+        "population": -1,
+        "latitude": 23.95637,
+        "longitude": -74.49443
+    },
+    {
+        "name": "Minns",
+        "country": "Bahamas",
+        "province": "North Andros",
+        "population": -1,
+        "latitude": 24.7,
+        "longitude": -77.766667
+    },
+    {
+        "name": "Millers Hill",
+        "country": "Bahamas",
+        "province": "North Andros",
+        "population": -1,
+        "latitude": 25.116667,
+        "longitude": -77.983333
+    },
+    {
+        "name": "Millers",
+        "country": "Bahamas",
+        "province": "Long Island",
+        "population": -1,
+        "latitude": 23.4,
+        "longitude": -75.1666667
+    },
+    {
+        "name": "McKenzie",
+        "country": "Bahamas",
+        "province": "Long Island",
+        "population": -1,
+        "latitude": 23.1333333,
+        "longitude": -75.0666667
+    },
+    {
+        "name": "McKenzie",
+        "country": "Bahamas",
+        "province": "Long Island",
+        "population": -1,
+        "latitude": 23.0166667,
+        "longitude": -74.8833333
+    },
+    {
+        "name": "Mather Town",
+        "country": "Bahamas",
+        "province": "West Grand Bahama",
+        "population": -1,
+        "latitude": 26.55,
+        "longitude": -78.583333
+    },
+    {
+        "name": "Martin Town",
+        "country": "Bahamas",
+        "province": "West Grand Bahama",
+        "population": -1,
+        "latitude": 26.533333,
+        "longitude": -78.8
+    },
+    {
+        "name": "Man of War Sound",
+        "country": "Bahamas",
+        "province": "Central Andros",
+        "population": -1,
+        "latitude": 24.55,
+        "longitude": -77.75
+    },
+    {
+        "name": "Mangrove Bush",
+        "country": "Bahamas",
+        "province": "Long Island",
+        "population": -1,
+        "latitude": 23.1333333,
+        "longitude": -75.0666667
+    },
+    {
+        "name": "Lower Deadman’s Cay",
+        "country": "Bahamas",
+        "province": "Long Island",
+        "population": -1,
+        "latitude": 23.1664,
+        "longitude": -75.09602
+    },
+    {
+        "name": "Lower Bogue",
+        "country": "Bahamas",
+        "province": "North Eleuthera",
+        "population": -1,
+        "latitude": 25.466667,
+        "longitude": -76.716667
+    },
+    {
+        "name": "Lovely Bay",
+        "country": "Bahamas",
+        "province": "Acklins",
+        "population": -1,
+        "latitude": 22.691354,
+        "longitude": -73.981988
+    },
+    {
+        "name": "Love Hill",
+        "country": "Bahamas",
+        "province": "North Andros",
+        "population": -1,
+        "latitude": 24.75,
+        "longitude": -77.85
+    },
+    {
+        "name": "Love",
+        "country": "Bahamas",
+        "province": "New Providence",
+        "population": -1,
+        "latitude": 25.0666667,
+        "longitude": -77.5
+    },
+    {
+        "name": "Louis Town",
+        "country": "Bahamas",
+        "province": "Bimini",
+        "population": -1,
+        "latitude": 25.552531,
+        "longitude": -79.278538
+    },
+    {
+        "name": "Long Bay",
+        "country": "Bahamas",
+        "province": "San Salvador",
+        "population": -1,
+        "latitude": 24.01151,
+        "longitude": -74.52542
+    },
+    {
+        "name": "Little Farmers Cay",
+        "country": "Bahamas",
+        "province": "Black Point",
+        "population": -1,
+        "latitude": 23.95,
+        "longitude": -76.316667
+    },
+    {
+        "name": "Little Creek",
+        "country": "Bahamas",
+        "province": "South Andros",
+        "population": -1,
+        "latitude": 23.946745,
+        "longitude": -77.522481
+    },
+    {
+        "name": "Little Bay Settlement",
+        "country": "Bahamas",
+        "province": "North Eleuthera",
+        "population": -1,
+        "latitude": 25.333333,
+        "longitude": -76.833333
+    },
+    {
+        "name": "Little Bay",
+        "country": "Bahamas",
+        "province": "South Abaco",
+        "population": -1,
+        "latitude": 25.833333,
+        "longitude": -77.166667
+    },
+    {
+        "name": "Killarney",
+        "country": "Bahamas",
+        "province": "New Providence",
+        "population": -1,
+        "latitude": 25.05,
+        "longitude": -77.4166667
+    },
+    {
+        "name": "John Millars",
+        "country": "Bahamas",
+        "province": "New Providence",
+        "population": -1,
+        "latitude": 24.68984,
+        "longitude": -76.20255
+    },
+    {
+        "name": "Jimmy Hill",
+        "country": "Bahamas",
+        "province": "Exuma",
+        "population": -1,
+        "latitude": 23.5666667,
+        "longitude": -75.8666667
+    },
+    {
+        "name": "Hope Estate",
+        "country": "Bahamas",
+        "province": "West Grand Bahama",
+        "population": -1,
+        "latitude": 26.666667,
+        "longitude": -78.933333
+    },
+    {
+        "name": "Holmes Rock",
+        "country": "Bahamas",
+        "province": "West Grand Bahama",
+        "population": -1,
+        "latitude": 26.533333,
+        "longitude": -78.8
+    },
+    {
+        "name": "Holdiday Track",
+        "country": "Bahamas",
+        "province": "San Salvador",
+        "population": -1,
+        "latitude": 24.0166667,
+        "longitude": -74.45
+    },
+    {
+        "name": "Hermitage",
+        "country": "Bahamas",
+        "province": "Exuma",
+        "population": -1,
+        "latitude": 23.5166667,
+        "longitude": -75.8333333
+    },
+    {
+        "name": "Hawks Nest",
+        "country": "Bahamas",
+        "province": "Cat Island",
+        "population": -1,
+        "latitude": 24.15881,
+        "longitude": -75.50938
+    },
+    {
+        "name": "Hawksbill",
+        "country": "Bahamas",
+        "province": "West Grand Bahama",
+        "population": -1,
+        "latitude": 26.5,
+        "longitude": -78.733333
+    },
+    {
+        "name": "Hartswell",
+        "country": "Bahamas",
+        "province": "Exuma",
+        "population": -1,
+        "latitude": 23.4333333,
+        "longitude": -75.6666667
+    },
+    {
+        "name": "Harts Bay Hill",
+        "country": "Bahamas",
+        "province": "Cat Island",
+        "population": -1,
+        "latitude": 24.4166667,
+        "longitude": -75.5333333
+    },
+    {
+        "name": "Hard Hill",
+        "country": "Bahamas",
+        "province": "Acklins",
+        "population": -1,
+        "latitude": 22.601787,
+        "longitude": -73.877636
+    },
+    {
+        "name": "Hard Bargain",
+        "country": "Bahamas",
+        "province": "North Andros",
+        "population": -1,
+        "latitude": 24.755347,
+        "longitude": -77.797505
+    },
+    {
+        "name": "Hard Bargain",
+        "country": "Bahamas",
+        "province": "San Salvador",
+        "population": -1,
+        "latitude": 24.0666667,
+        "longitude": -74.45
+    },
+    {
+        "name": "Harbour Estate",
+        "country": "Bahamas",
+        "province": "San Salvador",
+        "population": -1,
+        "latitude": 24.1,
+        "longitude": -74.5166667
+    },
+    {
+        "name": "Halls Landing",
+        "country": "Bahamas",
+        "province": "San Salvador",
+        "population": -1,
+        "latitude": 24,
+        "longitude": -74.5166667
+    },
+    {
+        "name": "Gregory Town",
+        "country": "Bahamas",
+        "province": "North Eleuthera",
+        "population": -1,
+        "latitude": 25.390861,
+        "longitude": -76.557152
+    },
+    {
+        "name": "Green Turtle Village",
+        "country": "Bahamas",
+        "province": "North Abaco",
+        "population": -1,
+        "latitude": 26.816667,
+        "longitude": -77.45
+    },
+    {
+        "name": "Green Castle",
+        "country": "Bahamas",
+        "province": "South Eleuthera",
+        "population": -1,
+        "latitude": 24.79834,
+        "longitude": -76.27378
+    },
+    {
+        "name": "Grays",
+        "country": "Bahamas",
+        "province": "Long Island",
+        "population": -1,
+        "latitude": 23.252925,
+        "longitude": -75.102926
+    },
+    {
+        "name": "Goodwill",
+        "country": "Bahamas",
+        "province": "Acklins",
+        "population": -1,
+        "latitude": 22.53678,
+        "longitude": -73.87533
+    },
+    {
+        "name": "Golden Grove",
+        "country": "Bahamas",
+        "province": "East Grand Bahama",
+        "population": -1,
+        "latitude": 26.6,
+        "longitude": -78.333333
+    },
+    {
+        "name": "Golden Grove",
+        "country": "Bahamas",
+        "province": "Acklins",
+        "population": -1,
+        "latitude": 22.4666667,
+        "longitude": -73.9
+    },
+    {
+        "name": "Glintons",
+        "country": "Bahamas",
+        "province": "Long Island",
+        "population": -1,
+        "latitude": 23.6333333,
+        "longitude": -75.3
+    },
+    {
+        "name": "Gilbert Grant",
+        "country": "Bahamas",
+        "province": "Exuma",
+        "population": -1,
+        "latitude": 23.6,
+        "longitude": -75.9166667
+    },
+    {
+        "name": "Gambier Village",
+        "country": "Bahamas",
+        "province": "New Providence",
+        "population": -1,
+        "latitude": 25.0666667,
+        "longitude": -77.5
+    },
+    {
+        "name": "Galloway Landing",
+        "country": "Bahamas",
+        "province": "Long Island",
+        "population": -1,
+        "latitude": 23.062309,
+        "longitude": -74.971465
+    },
+    {
+        "name": "Freetown",
+        "country": "Bahamas",
+        "province": "North Abaco",
+        "population": -1,
+        "latitude": 26.566667,
+        "longitude": -78.45
+    },
+    {
+        "name": "Fox Town",
+        "country": "Bahamas",
+        "province": "North Abaco",
+        "population": -1,
+        "latitude": 26.917667,
+        "longitude": -77.7998
+    },
+    {
+        "name": "Fortune Hill",
+        "country": "Bahamas",
+        "province": "San Salvador",
+        "population": -1,
+        "latitude": 24.0166667,
+        "longitude": -74.45
+    },
+    {
+        "name": "Ford",
+        "country": "Bahamas",
+        "province": "Long Island",
+        "population": -1,
+        "latitude": 22.9166667,
+        "longitude": -74.8666667
+    },
+    {
+        "name": "Fire Road Village",
+        "country": "Bahamas",
+        "province": "North Abaco",
+        "population": -1,
+        "latitude": 26.861644,
+        "longitude": -77.500765
+    },
+    {
+        "name": "Farquharson",
+        "country": "Bahamas",
+        "province": "San Salvador",
+        "population": -1,
+        "latitude": 24,
+        "longitude": -74.4666667
+    },
+    {
+        "name": "Fairfield",
+        "country": "Bahamas",
+        "province": "Crooked Island and Long Cay",
+        "population": -1,
+        "latitude": 22.783333,
+        "longitude": -74.216667
+    },
+    {
+        "name": "Eight Mile Rock",
+        "country": "Bahamas",
+        "province": "West Grand Bahama",
+        "population": -1,
+        "latitude": 26.516667,
+        "longitude": -78.783333
+    },
+    {
+        "name": "Dundas Town",
+        "country": "Bahamas",
+        "province": "Central Abaco",
+        "population": -1,
+        "latitude": 26.546377,
+        "longitude": -77.079784
+    },
+    {
+        "name": "Doctor’s Creek",
+        "country": "Bahamas",
+        "province": "Long Island",
+        "population": -1,
+        "latitude": 23.466667,
+        "longitude": -75.216667
+    },
+    {
+        "name": "Dixons",
+        "country": "Bahamas",
+        "province": "San Salvador",
+        "population": -1,
+        "latitude": 24.1,
+        "longitude": -74.45
+    },
+    {
+        "name": "Delancey Town",
+        "country": "Bahamas",
+        "province": "South Eleuthera",
+        "population": -1,
+        "latitude": 24.766667,
+        "longitude": -76.266667
+    },
+    {
+        "name": "Curtis",
+        "country": "Bahamas",
+        "province": "Exuma",
+        "population": -1,
+        "latitude": 23.6333333,
+        "longitude": -75.9666667
+    },
+    {
+        "name": "Cunningham",
+        "country": "Bahamas",
+        "province": "New Providence",
+        "population": -1,
+        "latitude": 25.0833333,
+        "longitude": -77.4333333
+    },
+    {
+        "name": "Cripple Hill",
+        "country": "Bahamas",
+        "province": "Crooked Island and Long Cay",
+        "population": -1,
+        "latitude": 22.783333,
+        "longitude": -74.233333
+    },
+    {
+        "name": "Creek Village",
+        "country": "Bahamas",
+        "province": "New Providence",
+        "population": -1,
+        "latitude": 25.0666667,
+        "longitude": -77.3
+    },
+    {
+        "name": "Cornishtown",
+        "country": "Bahamas",
+        "province": "North Abaco",
+        "population": -1,
+        "latitude": 26.862891,
+        "longitude": -77.527166
+    },
+    {
+        "name": "Coral Heights",
+        "country": "Bahamas",
+        "province": "New Providence",
+        "population": -1,
+        "latitude": 24.998198,
+        "longitude": -77.455551
+    },
+    {
+        "name": "Clifton",
+        "country": "Bahamas",
+        "province": "New Providence",
+        "population": -1,
+        "latitude": 25.0166667,
+        "longitude": -77.5666667
+    },
+    {
+        "name": "Church Grove",
+        "country": "Bahamas",
+        "province": "Crooked Island and Long Cay",
+        "population": -1,
+        "latitude": 22.75,
+        "longitude": -74.216667
+    },
+    {
+        "name": "Chesters",
+        "country": "Bahamas",
+        "province": "Acklins",
+        "population": -1,
+        "latitude": 22.706571,
+        "longitude": -73.917904
+    },
+    {
+        "name": "Cartwright",
+        "country": "Bahamas",
+        "province": "Long Island",
+        "population": -1,
+        "latitude": 23.1333333,
+        "longitude": -75.0666667
+    },
+    {
+        "name": "Carmichael Village",
+        "country": "Bahamas",
+        "province": "New Providence",
+        "population": -1,
+        "latitude": 25.0166667,
+        "longitude": -77.4333333
+    },
+    {
+        "name": "Cargill Creek",
+        "country": "Bahamas",
+        "province": "Central Andros",
+        "population": -1,
+        "latitude": 24.49863029494056,
+        "longitude": -77.71994590759277
+    },
+    {
+        "name": "Camperdown",
+        "country": "Bahamas",
+        "province": "New Providence",
+        "population": -1,
+        "latitude": 25.05,
+        "longitude": -77.2666667
+    },
+    {
+        "name": "Calvin Hill",
+        "country": "Bahamas",
+        "province": "Exuma",
+        "population": -1,
+        "latitude": 23.6,
+        "longitude": -75.9666667
+    },
+    {
+        "name": "Calabash Bay",
+        "country": "Bahamas",
+        "province": "North Andros",
+        "population": -1,
+        "latitude": 24.733333,
+        "longitude": -77.8
+    },
+    {
+        "name": "Cairey’s",
+        "country": "Bahamas",
+        "province": "Cat Island",
+        "population": -1,
+        "latitude": 24.483333,
+        "longitude": -75.566667
+    },
+    {
+        "name": "Cabbage Hill",
+        "country": "Bahamas",
+        "province": "Crooked Island and Long Cay",
+        "population": -1,
+        "latitude": 22.76375627840203,
+        "longitude": -74.21994209289551
+    },
+    {
+        "name": "Buckleys",
+        "country": "Bahamas",
+        "province": "Long Island",
+        "population": -1,
+        "latitude": 23.15,
+        "longitude": -75.0833333
+    },
+    {
+        "name": "Browns",
+        "country": "Bahamas",
+        "province": "Crooked Island and Long Cay",
+        "population": -1,
+        "latitude": 22.729167,
+        "longitude": -74.060359
+    },
+    {
+        "name": "Brandy Hill",
+        "country": "Bahamas",
+        "province": "San Salvador",
+        "population": -1,
+        "latitude": 24.0833333,
+        "longitude": -74.4333333
+    },
+    {
+        "name": "Bradford",
+        "country": "Bahamas",
+        "province": "New Providence",
+        "population": -1,
+        "latitude": 25.0666667,
+        "longitude": -77.5166667
+    },
+    {
+        "name": "Bowers",
+        "country": "Bahamas",
+        "province": "Long Island",
+        "population": -1,
+        "latitude": 23.25,
+        "longitude": -75.0833333
+    },
+    {
+        "name": "Bowen Sound",
+        "country": "Bahamas",
+        "province": "Central Andros",
+        "population": -1,
+        "latitude": 24.583333,
+        "longitude": -77.733333
+    },
+    {
+        "name": "Bluff",
+        "country": "Bahamas",
+        "province": "Bimini",
+        "population": -1,
+        "latitude": 25.7833333,
+        "longitude": -79.3166667
+    },
+    {
+        "name": "Blanket Sound",
+        "country": "Bahamas",
+        "province": "North Andros",
+        "population": -1,
+        "latitude": 24.85,
+        "longitude": -77.9
+    },
+    {
+        "name": "Blackwood Village",
+        "country": "Bahamas",
+        "province": "North Abaco",
+        "population": -1,
+        "latitude": 26.813929,
+        "longitude": -77.439279
+    },
+    {
+        "name": "Bevans Town",
+        "country": "Bahamas",
+        "province": "East Grand Bahama",
+        "population": -1,
+        "latitude": 26.6,
+        "longitude": -78.316667
+    },
+    {
+        "name": "Betsy Bay",
+        "country": "Bahamas",
+        "province": "Mayaguana",
+        "population": -1,
+        "latitude": 22.418617,
+        "longitude": -73.134088
+    },
+    {
+        "name": "Bastian Point",
+        "country": "Bahamas",
+        "province": "Mangrove Cay",
+        "population": -1,
+        "latitude": 24.23461,
+        "longitude": -77.62529
+    },
+    {
+        "name": "Bannerman Town",
+        "country": "Bahamas",
+        "province": "New Providence",
+        "population": -1,
+        "latitude": 24.66055,
+        "longitude": -76.18396
+    },
+    {
+        "name": "Bain Town",
+        "country": "Bahamas",
+        "province": "West Grand Bahama",
+        "population": -1,
+        "latitude": 26.516667,
+        "longitude": -78.783333
+    },
+    {
+        "name": "Bain Town",
+        "country": "Bahamas",
+        "province": "Cat Island",
+        "population": -1,
+        "latitude": 24.654414,
+        "longitude": -75.714809
+    },
+    {
+        "name": "Bains",
+        "country": "Bahamas",
+        "province": "Long Island",
+        "population": -1,
+        "latitude": 23.45,
+        "longitude": -75.2166667
+    },
+    {
+        "name": "Bailey Town",
+        "country": "Bahamas",
+        "province": "Cat Island",
+        "population": -1,
+        "latitude": 24.152493,
+        "longitude": -75.316667
+    },
+    {
+        "name": "August Town",
+        "country": "Bahamas",
+        "province": "North Andros",
+        "population": -1,
+        "latitude": 25.033333,
+        "longitude": -77.983333
+    },
+    {
+        "name": "Anne’s Tract Settlement",
+        "country": "Bahamas",
+        "province": "Exuma",
+        "population": -1,
+        "latitude": 23.683333,
+        "longitude": -76.05
+    },
+    {
+        "name": "Andersons",
+        "country": "Bahamas",
+        "province": "Long Island",
+        "population": -1,
+        "latitude": 23.2166667,
+        "longitude": -75.0833333
+    },
+    {
+        "name": "Anderson",
+        "country": "Bahamas",
+        "province": "Long Island",
+        "population": -1,
+        "latitude": 23.5333333,
+        "longitude": -75.2333333
+    },
+    {
+        "name": "Anderson",
+        "country": "Bahamas",
+        "province": "Acklins",
+        "population": -1,
+        "latitude": 22.6166667,
+        "longitude": -73.8666667
+    },
+    {
+        "name": "Alligator Bay Settlement",
+        "country": "Bahamas",
+        "province": "Long Island",
+        "population": -1,
+        "latitude": 23.45,
+        "longitude": -75.2166667
+    },
+    {
+        "name": "Allen",
+        "country": "Bahamas",
+        "province": "San Salvador",
+        "population": -1,
+        "latitude": 23.95,
+        "longitude": -74.5166667
+    },
+    {
+        "name": "Alexander",
+        "country": "Bahamas",
+        "province": "Exuma",
+        "population": -1,
+        "latitude": 23.65,
+        "longitude": -76.0166667
+    },
+    {
+        "name": "Abercorn",
+        "country": "Bahamas",
+        "province": "Acklins",
+        "population": -1,
+        "latitude": 22.3666667,
+        "longitude": -73.95
+    },
+    {
+        "name": "Graham's Harbour",
+        "country": "Bahamas",
+        "province": "Bahamas",
+        "population": -1,
+        "latitude": 24.11903,
+        "longitude": -74.46438
+    },
+    {
+        "name": "Rainbow Bay",
+        "country": "Bahamas",
+        "province": "Bahamas",
+        "population": -1,
+        "latitude": 25.3333984971116,
+        "longitude": -76.4276361465454
+    },
+    {
+        "name": "North Cat Cay",
+        "country": "Bahamas",
+        "province": "Bahamas",
+        "population": -1,
+        "latitude": 25.55549,
+        "longitude": -79.28434
+    },
+    {
+        "name": "Port Royal",
+        "country": "Bahamas",
+        "province": "Bimini",
+        "population": -1,
+        "latitude": 25.70078,
+        "longitude": -79.30254
+    },
+    {
+        "name": "Pigeon Cay",
+        "country": "Bahamas",
+        "province": "Exuma",
+        "population": -1,
+        "latitude": 23.429904,
+        "longitude": -75.678083
+    },
+    {
+        "name": "Grand Cay",
+        "country": "Bahamas",
+        "province": "Grand Cay",
+        "population": 383,
+        "latitude": 27.21983,
+        "longitude": -78.32771
+    },
+    {
+        "name": "Walker Cay",
+        "country": "Bahamas",
+        "province": "Grand Cay",
+        "population": 23,
+        "latitude": 27.25993,
+        "longitude": -78.40243
+    },
+    {
+        "name": "Nassau",
+        "country": "Bahamas",
+        "province": "Bahamas",
+        "population": -1,
+        "latitude": 25.0325441,
+        "longitude": -77.4771328
+    },
+    {
+        "name": "Winton Meadows",
+        "country": "Bahamas",
+        "province": "New Providence",
+        "population": -1,
+        "latitude": 25.0333333,
+        "longitude": -77.2666667
+    },
+    {
+        "name": "Winton Heights",
+        "country": "Bahamas",
+        "province": "New Providence",
+        "population": -1,
+        "latitude": 25.0333333,
+        "longitude": -77.2666667
+    },
+    {
+        "name": "Stapleton Gardens",
+        "country": "Bahamas",
+        "province": "New Providence",
+        "population": -1,
+        "latitude": 25.05,
+        "longitude": -77.3666667
+    },
+    {
+        "name": "Sea Breeze Estates",
+        "country": "Bahamas",
+        "province": "New Providence",
+        "population": -1,
+        "latitude": 25.0166667,
+        "longitude": -77.3166667
+    },
+    {
+        "name": "Pinewood Gardens Estate",
+        "country": "Bahamas",
+        "province": "New Providence",
+        "population": -1,
+        "latitude": 25.0333333,
+        "longitude": -77
+    },
+    {
+        "name": "Millar Heights",
+        "country": "Bahamas",
+        "province": "New Providence",
+        "population": -1,
+        "latitude": 25.0166667,
+        "longitude": -77.3833333
+    },
+    {
+        "name": "Highbury Park",
+        "country": "Bahamas",
+        "province": "New Providence",
+        "population": -1,
+        "latitude": 25.0333333,
+        "longitude": -77.3166667
+    },
+    {
+        "name": "Golden Gates Estates",
+        "country": "Bahamas",
+        "province": "New Providence",
+        "population": -1,
+        "latitude": 25.0166667,
+        "longitude": -77.35
+    },
+    {
+        "name": "Exuma Harbour Estates",
+        "country": "Bahamas",
+        "province": "Exuma",
+        "population": -1,
+        "latitude": 23.5,
+        "longitude": -75.7666667
+    },
+    {
+        "name": "Englerston",
+        "country": "Bahamas",
+        "province": "New Providence",
+        "population": -1,
+        "latitude": 25.05,
+        "longitude": -77.3333333
+    },
+    {
+        "name": "Blair Estates",
+        "country": "Bahamas",
+        "province": "New Providence",
+        "population": -1,
+        "latitude": 25.05,
+        "longitude": -77.3
+    },
+    {
+        "name": "Belair Estates",
+        "country": "Bahamas",
+        "province": "New Providence",
+        "population": -1,
+        "latitude": 25.0166667,
+        "longitude": -77.3666667
+    },
+    {
+        "name": "Grantstown (Historical)",
+        "country": "Bahamas",
+        "province": "New Providence",
+        "population": -1,
+        "latitude": 25.05563,
+        "longitude": -77.33826
+    },
+    {
+        "name": "Gun Cay",
+        "country": "Bahamas",
+        "province": "Bahamas",
+        "population": -1,
+        "latitude": 25.58228,
+        "longitude": -79.29992
+    },
+    {
+        "name": "The Bluff Settlement",
+        "country": "Bahamas",
+        "province": "Central Abaco",
+        "population": -1,
+        "latitude": 26.63287,
+        "longitude": -77.342543
+    }
+]

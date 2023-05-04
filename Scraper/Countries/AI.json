@@ -1,0 +1,354 @@
+[
+    {
+        "name": "The Valley",
+        "country": "Anguilla",
+        "province": "The Valley",
+        "population": 2035,
+        "latitude": 18.2170409282136,
+        "longitude": -63.0578327178955
+    },
+    {
+        "name": "Blowing Point Village",
+        "country": "Anguilla",
+        "province": "Blowing Point",
+        "population": 942,
+        "latitude": 18.17648,
+        "longitude": -63.09375
+    },
+    {
+        "name": "Sandy Ground Village",
+        "country": "Anguilla",
+        "province": "Sandy Ground",
+        "population": 274,
+        "latitude": 18.20118,
+        "longitude": -63.08998
+    },
+    {
+        "name": "West End Village",
+        "country": "Anguilla",
+        "province": "West End",
+        "population": -1,
+        "latitude": 18.17191,
+        "longitude": -63.14941
+    },
+    {
+        "name": "The Quarter",
+        "country": "Anguilla",
+        "province": "The Quarter",
+        "population": -1,
+        "latitude": 18.20799,
+        "longitude": -63.04178
+    },
+    {
+        "name": "Farrington",
+        "country": "Anguilla",
+        "province": "The Farrington",
+        "population": -1,
+        "latitude": 18.215,
+        "longitude": -63.02238
+    },
+    {
+        "name": "Stoney Ground",
+        "country": "Anguilla",
+        "province": "Stoney Ground",
+        "population": -1,
+        "latitude": 18.22026,
+        "longitude": -63.04607
+    },
+    {
+        "name": "South Hill Village",
+        "country": "Anguilla",
+        "province": "South Hill",
+        "population": -1,
+        "latitude": 18.19201,
+        "longitude": -63.08779
+    },
+    {
+        "name": "North Side",
+        "country": "Anguilla",
+        "province": "North Side",
+        "population": -1,
+        "latitude": 18.22919,
+        "longitude": -63.04401
+    },
+    {
+        "name": "North Hill Village",
+        "country": "Anguilla",
+        "province": "North Hill",
+        "population": -1,
+        "latitude": 18.20542,
+        "longitude": -63.07847
+    },
+    {
+        "name": "Island Harbour",
+        "country": "Anguilla",
+        "province": "Island Harbour",
+        "population": -1,
+        "latitude": 18.256007319763523,
+        "longitude": -63.010196685791016
+    },
+    {
+        "name": "George Hill",
+        "country": "Anguilla",
+        "province": "George Hill",
+        "population": -1,
+        "latitude": 18.19939,
+        "longitude": -63.0665
+    },
+    {
+        "name": "East End Village",
+        "country": "Anguilla",
+        "province": "East End",
+        "population": -1,
+        "latitude": 18.2333333,
+        "longitude": -63
+    },
+    {
+        "name": "Sandy Hill",
+        "country": "Anguilla",
+        "province": "Sandy Hill",
+        "population": -1,
+        "latitude": 18.22104,
+        "longitude": -63.01329
+    },
+    {
+        "name": "Crocus Hill",
+        "country": "Anguilla",
+        "province": "",
+        "population": -1,
+        "latitude": 18.2172,
+        "longitude": -63.06393
+    },
+    {
+        "name": "Welches Hill",
+        "country": "Anguilla",
+        "province": "",
+        "population": -1,
+        "latitude": 18.2446,
+        "longitude": -63.01217
+    },
+    {
+        "name": "Shoal Bay Village",
+        "country": "Anguilla",
+        "province": "",
+        "population": -1,
+        "latitude": 18.25385,
+        "longitude": -63.02886
+    },
+    {
+        "name": "Little Dix",
+        "country": "Anguilla",
+        "province": "",
+        "population": -1,
+        "latitude": 18.23261,
+        "longitude": -63.03779
+    },
+    {
+        "name": "White Hill",
+        "country": "Anguilla",
+        "province": "",
+        "population": -1,
+        "latitude": 18.253271,
+        "longitude": -62.995731
+    },
+    {
+        "name": "Wattices",
+        "country": "Anguilla",
+        "province": "",
+        "population": -1,
+        "latitude": 18.22674,
+        "longitude": -63.033677
+    },
+    {
+        "name": "The Fountain",
+        "country": "Anguilla",
+        "province": "",
+        "population": -1,
+        "latitude": 18.249,
+        "longitude": -63.031207
+    },
+    {
+        "name": "The Forest",
+        "country": "Anguilla",
+        "province": "",
+        "population": -1,
+        "latitude": 18.200387,
+        "longitude": -63.045214
+    },
+    {
+        "name": "The Copse",
+        "country": "Anguilla",
+        "province": "",
+        "population": -1,
+        "latitude": 18.23347,
+        "longitude": -62.99681
+    },
+    {
+        "name": "Rey Hill",
+        "country": "Anguilla",
+        "province": "",
+        "population": -1,
+        "latitude": 18.208341,
+        "longitude": -63.043529
+    },
+    {
+        "name": "Mount Fortune",
+        "country": "Anguilla",
+        "province": "",
+        "population": -1,
+        "latitude": 18.24301,
+        "longitude": -62.99552
+    },
+    {
+        "name": "Lower South Hill",
+        "country": "Anguilla",
+        "province": "",
+        "population": -1,
+        "latitude": 18.192095,
+        "longitude": -63.102059
+    },
+    {
+        "name": "Long Path",
+        "country": "Anguilla",
+        "province": "",
+        "population": -1,
+        "latitude": 18.214836,
+        "longitude": -63.024503
+    },
+    {
+        "name": "Long Ground",
+        "country": "Anguilla",
+        "province": "",
+        "population": -1,
+        "latitude": 18.202247,
+        "longitude": -63.059801
+    },
+    {
+        "name": "Long Bay Village",
+        "country": "Anguilla",
+        "province": "South Hill",
+        "population": -1,
+        "latitude": 18.187601,
+        "longitude": -63.12879
+    },
+    {
+        "name": "Ebenezer",
+        "country": "Anguilla",
+        "province": "",
+        "population": -1,
+        "latitude": 18.2166667,
+        "longitude": -63.0666667
+    },
+    {
+        "name": "Deep Waters",
+        "country": "Anguilla",
+        "province": "",
+        "population": -1,
+        "latitude": 18.235013,
+        "longitude": -63.026014
+    },
+    {
+        "name": "Cauls Bottom",
+        "country": "Anguilla",
+        "province": "",
+        "population": -1,
+        "latitude": 18.221652,
+        "longitude": -63.042152
+    },
+    {
+        "name": "Cannifist",
+        "country": "Anguilla",
+        "province": "",
+        "population": -1,
+        "latitude": 18.233635,
+        "longitude": -63.019651
+    },
+    {
+        "name": "Bethel",
+        "country": "Anguilla",
+        "province": "",
+        "population": -1,
+        "latitude": 18.2,
+        "longitude": -63.1
+    },
+    {
+        "name": "Captains Ridge",
+        "country": "Anguilla",
+        "province": "",
+        "population": -1,
+        "latitude": 18.261683,
+        "longitude": -62.989189
+    },
+    {
+        "name": "Brimegin",
+        "country": "Anguilla",
+        "province": "",
+        "population": -1,
+        "latitude": 18.236027,
+        "longitude": -63.049409
+    },
+    {
+        "name": "Cedar Village",
+        "country": "Anguilla",
+        "province": "",
+        "population": -1,
+        "latitude": 18.227337,
+        "longitude": -63.059108
+    },
+    {
+        "name": "Mahogany Tree",
+        "country": "Anguilla",
+        "province": "",
+        "population": -1,
+        "latitude": 18.214887,
+        "longitude": -63.04707
+    },
+    {
+        "name": "Long Bay",
+        "country": "Anguilla",
+        "province": "",
+        "population": -1,
+        "latitude": 18.183792,
+        "longitude": -63.12665
+    },
+    {
+        "name": "Junks Hole",
+        "country": "Anguilla",
+        "province": "",
+        "population": -1,
+        "latitude": 18.25198,
+        "longitude": -62.989231
+    },
+    {
+        "name": "Chalvilles",
+        "country": "Anguilla",
+        "province": "",
+        "population": -1,
+        "latitude": 18.234797,
+        "longitude": -63.015
+    },
+    {
+        "name": "Bungalows",
+        "country": "Anguilla",
+        "province": "",
+        "population": -1,
+        "latitude": 18.184825,
+        "longitude": -63.101033
+    },
+    {
+        "name": "Betty Hill",
+        "country": "Anguilla",
+        "province": "",
+        "population": -1,
+        "latitude": 18.22574,
+        "longitude": -63.0043
+    },
+    {
+        "name": "Cul-de-Sac",
+        "country": "Anguilla",
+        "province": "",
+        "population": -1,
+        "latitude": 18.17186,
+        "longitude": -63.102034
+    }
+]

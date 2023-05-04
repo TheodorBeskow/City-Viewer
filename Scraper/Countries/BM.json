@@ -1,0 +1,186 @@
+[
+    {
+        "name": "Hamilton",
+        "country": "Bermuda",
+        "province": "Hamilton city",
+        "population": 902,
+        "latitude": 32.2949,
+        "longitude": -64.78303
+    },
+    {
+        "name": "Saint George",
+        "country": "Bermuda",
+        "province": "Saint George",
+        "population": 1896,
+        "latitude": 32.3816667,
+        "longitude": -64.6780556
+    },
+    {
+        "name": "Cross Bay",
+        "country": "Bermuda",
+        "province": "Southampton",
+        "population": 135,
+        "latitude": 32.25346,
+        "longitude": -64.83882
+    },
+    {
+        "name": "Stovel Bay",
+        "country": "Bermuda",
+        "province": "Pembroke",
+        "population": 411,
+        "latitude": 32.30587,
+        "longitude": -64.81429
+    },
+    {
+        "name": "Tucker’s Town",
+        "country": "Bermuda",
+        "province": "Saint Georgeʼs",
+        "population": -1,
+        "latitude": 32.332778,
+        "longitude": -64.688056
+    },
+    {
+        "name": "Flatt’s Village",
+        "country": "Bermuda",
+        "province": "Smithʼs",
+        "population": -1,
+        "latitude": 32.32094,
+        "longitude": -64.74016
+    },
+    {
+        "name": "Somerset",
+        "country": "Bermuda",
+        "province": "Sandys",
+        "population": -1,
+        "latitude": 32.2983333,
+        "longitude": -64.8683333
+    },
+    {
+        "name": "Pembroke Parish",
+        "country": "Bermuda",
+        "province": "Pembroke",
+        "population": -1,
+        "latitude": 32.30019243853808,
+        "longitude": -64.79204177856445
+    },
+    {
+        "name": "Warwick Camp",
+        "country": "Bermuda",
+        "province": "Warwick",
+        "population": -1,
+        "latitude": 32.2572222,
+        "longitude": -64.8161111
+    },
+    {
+        "name": "Harrington Hundreds",
+        "country": "Bermuda",
+        "province": "Smithʼs",
+        "population": -1,
+        "latitude": 32.3186111,
+        "longitude": -64.7288889
+    },
+    {
+        "name": "Sunnyside",
+        "country": "Bermuda",
+        "province": "Hamilton",
+        "population": -1,
+        "latitude": 32.3263889,
+        "longitude": -64.7411111
+    },
+    {
+        "name": "Scotts Hill",
+        "country": "Bermuda",
+        "province": "Sandys",
+        "population": -1,
+        "latitude": 32.2972222,
+        "longitude": -64.8655556
+    },
+    {
+        "name": "North Shore Village",
+        "country": "Bermuda",
+        "province": "Devonshire",
+        "population": -1,
+        "latitude": 32.3063889,
+        "longitude": -64.7736111
+    },
+    {
+        "name": "Mount Pleasant",
+        "country": "Bermuda",
+        "province": "Paget",
+        "population": -1,
+        "latitude": 32.2741667,
+        "longitude": -64.7836111
+    },
+    {
+        "name": "Melrose",
+        "country": "Bermuda",
+        "province": "Saint Georgeʼs",
+        "population": -1,
+        "latitude": 32.36845,
+        "longitude": -64.67739
+    },
+    {
+        "name": "Hog Bay",
+        "country": "Bermuda",
+        "province": "Sandys",
+        "population": -1,
+        "latitude": 32.2711111,
+        "longitude": -64.88
+    },
+    {
+        "name": "Hinson Hall",
+        "country": "Bermuda",
+        "province": "Smithʼs",
+        "population": -1,
+        "latitude": 32.3136111,
+        "longitude": -64.7436111
+    },
+    {
+        "name": "Hill View",
+        "country": "Bermuda",
+        "province": "Warwick",
+        "population": -1,
+        "latitude": 32.2694444,
+        "longitude": -64.8088889
+    },
+    {
+        "name": "Chelston",
+        "country": "Bermuda",
+        "province": "Paget",
+        "population": -1,
+        "latitude": 32.2836111,
+        "longitude": -64.7705556
+    },
+    {
+        "name": "Cashew City",
+        "country": "Bermuda",
+        "province": "Saint Georgeʼs",
+        "population": -1,
+        "latitude": 32.3702778,
+        "longitude": -64.6544444
+    },
+    {
+        "name": "Camden",
+        "country": "Bermuda",
+        "province": "Paget",
+        "population": -1,
+        "latitude": 32.2941667,
+        "longitude": -64.7605556
+    },
+    {
+        "name": "Bethaven",
+        "country": "Bermuda",
+        "province": "Devonshire",
+        "population": -1,
+        "latitude": 32.2833333,
+        "longitude": -64.75
+    },
+    {
+        "name": "Darrell's Wharf Ferry Stop",
+        "country": "Bermuda",
+        "province": "Paget",
+        "population": -1,
+        "latitude": 32.28096484809875,
+        "longitude": -64.79591488838196
+    }
+]

@@ -1,0 +1,954 @@
+[
+    {
+        "name": "Kralendijk",
+        "country": "Bonaire, Sint Eustatius, and Saba",
+        "province": "Bonaire",
+        "population": 3081,
+        "latitude": 12.15,
+        "longitude": -68.266667
+    },
+    {
+        "name": "Oranjestad",
+        "country": "Bonaire, Sint Eustatius, and Saba",
+        "province": "Sint Eustatius",
+        "population": 1097,
+        "latitude": 17.48303,
+        "longitude": -62.9864
+    },
+    {
+        "name": "Upper Hell's Gate",
+        "country": "Bonaire, Sint Eustatius, and Saba",
+        "province": "Saba",
+        "population": 2810,
+        "latitude": 17.6429996118843,
+        "longitude": -63.226490020752
+    },
+    {
+        "name": "Dorp Tera Kora",
+        "country": "Bonaire, Sint Eustatius, and Saba",
+        "province": "Bonaire",
+        "population": 1186,
+        "latitude": 12.137279,
+        "longitude": -68.260388
+    },
+    {
+        "name": "Dorp Rincon",
+        "country": "Bonaire, Sint Eustatius, and Saba",
+        "province": "Bonaire",
+        "population": 1496,
+        "latitude": 12.237623,
+        "longitude": -68.330592
+    },
+    {
+        "name": "Dorp Antriol",
+        "country": "Bonaire, Sint Eustatius, and Saba",
+        "province": "Bonaire",
+        "population": 2980,
+        "latitude": 12.166306,
+        "longitude": -68.27042
+    },
+    {
+        "name": "The Bottom",
+        "country": "Bonaire, Sint Eustatius, and Saba",
+        "province": "Saba",
+        "population": 488,
+        "latitude": 17.62652,
+        "longitude": -63.24971
+    },
+    {
+        "name": "Golden Rock",
+        "country": "Bonaire, Sint Eustatius, and Saba",
+        "province": "Sint Eustatius",
+        "population": 823,
+        "latitude": 17.491418,
+        "longitude": -62.981193
+    },
+    {
+        "name": "Windward Side",
+        "country": "Bonaire, Sint Eustatius, and Saba",
+        "province": "Saba",
+        "population": 442,
+        "latitude": 17.628644278896356,
+        "longitude": -63.231360912323
+    },
+    {
+        "name": "Saint John's Flat",
+        "country": "Bonaire, Sint Eustatius, and Saba",
+        "province": "Saba",
+        "population": 197,
+        "latitude": 17.620586796295502,
+        "longitude": -63.243398666381836
+    },
+    {
+        "name": "White Hook",
+        "country": "Bonaire, Sint Eustatius, and Saba",
+        "province": "Sint Eustatius",
+        "population": -1,
+        "latitude": 17.468464,
+        "longitude": -62.976529
+    },
+    {
+        "name": "Walkers",
+        "country": "Bonaire, Sint Eustatius, and Saba",
+        "province": "Sint Eustatius",
+        "population": -1,
+        "latitude": 17.485939,
+        "longitude": -62.97601
+    },
+    {
+        "name": "Upper Round Hill",
+        "country": "Bonaire, Sint Eustatius, and Saba",
+        "province": "Sint Eustatius",
+        "population": -1,
+        "latitude": 17.484243,
+        "longitude": -62.972066
+    },
+    {
+        "name": "Tom Ball",
+        "country": "Bonaire, Sint Eustatius, and Saba",
+        "province": "Sint Eustatius",
+        "population": -1,
+        "latitude": 17.489514,
+        "longitude": -62.971583
+    },
+    {
+        "name": "The Farm",
+        "country": "Bonaire, Sint Eustatius, and Saba",
+        "province": "Sint Eustatius",
+        "population": -1,
+        "latitude": 17.477286,
+        "longitude": -62.975443
+    },
+    {
+        "name": "Princess Garden",
+        "country": "Bonaire, Sint Eustatius, and Saba",
+        "province": "Sint Eustatius",
+        "population": -1,
+        "latitude": 17.480546,
+        "longitude": -62.978286
+    },
+    {
+        "name": "Pleasures",
+        "country": "Bonaire, Sint Eustatius, and Saba",
+        "province": "Sint Eustatius",
+        "population": -1,
+        "latitude": 17.478277,
+        "longitude": -62.970959
+    },
+    {
+        "name": "Markoe",
+        "country": "Bonaire, Sint Eustatius, and Saba",
+        "province": "Sint Eustatius",
+        "population": -1,
+        "latitude": 17.475055,
+        "longitude": -62.950555
+    },
+    {
+        "name": "Mansion Pasture",
+        "country": "Bonaire, Sint Eustatius, and Saba",
+        "province": "Sint Eustatius",
+        "population": -1,
+        "latitude": 17.485445,
+        "longitude": -62.97965
+    },
+    {
+        "name": "Man of War",
+        "country": "Bonaire, Sint Eustatius, and Saba",
+        "province": "Sint Eustatius",
+        "population": -1,
+        "latitude": 17.489523,
+        "longitude": -62.956835
+    },
+    {
+        "name": "Lower Round Hill",
+        "country": "Bonaire, Sint Eustatius, and Saba",
+        "province": "Sint Eustatius",
+        "population": -1,
+        "latitude": 17.483917,
+        "longitude": -62.974746
+    },
+    {
+        "name": "Lodi",
+        "country": "Bonaire, Sint Eustatius, and Saba",
+        "province": "Sint Eustatius",
+        "population": -1,
+        "latitude": 17.483368,
+        "longitude": -62.976513
+    },
+    {
+        "name": "Kid Sadler",
+        "country": "Bonaire, Sint Eustatius, and Saba",
+        "province": "Sint Eustatius",
+        "population": -1,
+        "latitude": 17.471057,
+        "longitude": -62.951557
+    },
+    {
+        "name": "Jeems",
+        "country": "Bonaire, Sint Eustatius, and Saba",
+        "province": "Sint Eustatius",
+        "population": -1,
+        "latitude": 17.488197,
+        "longitude": -62.984166
+    },
+    {
+        "name": "Hard Time",
+        "country": "Bonaire, Sint Eustatius, and Saba",
+        "province": "Sint Eustatius",
+        "population": -1,
+        "latitude": 17.487207,
+        "longitude": -62.969468
+    },
+    {
+        "name": "Grovell",
+        "country": "Bonaire, Sint Eustatius, and Saba",
+        "province": "Sint Eustatius",
+        "population": -1,
+        "latitude": 17.503218,
+        "longitude": -62.97785
+    },
+    {
+        "name": "Grove",
+        "country": "Bonaire, Sint Eustatius, and Saba",
+        "province": "Sint Eustatius",
+        "population": -1,
+        "latitude": 17.473296,
+        "longitude": -62.980153
+    },
+    {
+        "name": "Fair Play",
+        "country": "Bonaire, Sint Eustatius, and Saba",
+        "province": "Sint Eustatius",
+        "population": -1,
+        "latitude": 17.494962,
+        "longitude": -62.973073
+    },
+    {
+        "name": "English Quarter",
+        "country": "Bonaire, Sint Eustatius, and Saba",
+        "province": "Sint Eustatius",
+        "population": -1,
+        "latitude": 17.492942,
+        "longitude": -62.961756
+    },
+    {
+        "name": "Dorp Nor’i Saliña",
+        "country": "Bonaire, Sint Eustatius, and Saba",
+        "province": "Bonaire",
+        "population": -1,
+        "latitude": 12.17597,
+        "longitude": -68.27492
+    },
+    {
+        "name": "Dorp Nikiboko",
+        "country": "Bonaire, Sint Eustatius, and Saba",
+        "province": "Bonaire",
+        "population": -1,
+        "latitude": 12.144442,
+        "longitude": -68.261206
+    },
+    {
+        "name": "Docker’s Island",
+        "country": "Bonaire, Sint Eustatius, and Saba",
+        "province": "Sint Eustatius",
+        "population": -1,
+        "latitude": 17.467105,
+        "longitude": -62.965386
+    },
+    {
+        "name": "Crooks",
+        "country": "Bonaire, Sint Eustatius, and Saba",
+        "province": "Sint Eustatius",
+        "population": -1,
+        "latitude": 17.471907,
+        "longitude": -62.982128
+    },
+    {
+        "name": "Cherry Tree",
+        "country": "Bonaire, Sint Eustatius, and Saba",
+        "province": "Sint Eustatius",
+        "population": -1,
+        "latitude": 17.492844,
+        "longitude": -62.974505
+    },
+    {
+        "name": "Boxen Alley",
+        "country": "Bonaire, Sint Eustatius, and Saba",
+        "province": "Sint Eustatius",
+        "population": -1,
+        "latitude": 17.470982,
+        "longitude": -62.980924
+    },
+    {
+        "name": "Boven Bolivia",
+        "country": "Bonaire, Sint Eustatius, and Saba",
+        "province": "Bonaire",
+        "population": -1,
+        "latitude": 12.186186,
+        "longitude": -68.215068
+    },
+    {
+        "name": "Big Pasture",
+        "country": "Bonaire, Sint Eustatius, and Saba",
+        "province": "Sint Eustatius",
+        "population": -1,
+        "latitude": 17.48893,
+        "longitude": -62.955801
+    },
+    {
+        "name": "Benesuela",
+        "country": "Bonaire, Sint Eustatius, and Saba",
+        "province": "Bonaire",
+        "population": -1,
+        "latitude": 12.265574,
+        "longitude": -68.339584
+    },
+    {
+        "name": "Onima",
+        "country": "Bonaire, Sint Eustatius, and Saba",
+        "province": "Bonaire",
+        "population": -1,
+        "latitude": 12.247998,
+        "longitude": -68.312163
+    },
+    {
+        "name": "Lower Hell's Gate",
+        "country": "Bonaire, Sint Eustatius, and Saba",
+        "province": "Saba",
+        "population": -1,
+        "latitude": 17.6396869442262,
+        "longitude": -63.229923248291
+    },
+    {
+        "name": "Leeuwarden",
+        "country": "Bonaire, Sint Eustatius, and Saba",
+        "province": "Bonaire",
+        "population": -1,
+        "latitude": 12.22435,
+        "longitude": -68.27295
+    },
+    {
+        "name": "Kuruburu",
+        "country": "Bonaire, Sint Eustatius, and Saba",
+        "province": "Bonaire",
+        "population": -1,
+        "latitude": 12.196657,
+        "longitude": -68.262186
+    },
+    {
+        "name": "Jan Doran",
+        "country": "Bonaire, Sint Eustatius, and Saba",
+        "province": "Bonaire",
+        "population": -1,
+        "latitude": 12.216667,
+        "longitude": -68.35
+    },
+    {
+        "name": "English Quarter",
+        "country": "Bonaire, Sint Eustatius, and Saba",
+        "province": "Saba",
+        "population": -1,
+        "latitude": 17.632429,
+        "longitude": -63.22898
+    },
+    {
+        "name": "Dorp Sabana",
+        "country": "Bonaire, Sint Eustatius, and Saba",
+        "province": "Bonaire",
+        "population": -1,
+        "latitude": 12.149086,
+        "longitude": -68.269537
+    },
+    {
+        "name": "Concordia",
+        "country": "Bonaire, Sint Eustatius, and Saba",
+        "province": "Sint Eustatius",
+        "population": -1,
+        "latitude": 17.492958,
+        "longitude": -62.97858
+    },
+    {
+        "name": "Kas Korá",
+        "country": "Bonaire, Sint Eustatius, and Saba",
+        "province": "Bonaire",
+        "population": -1,
+        "latitude": 12.171639,
+        "longitude": -68.231876
+    },
+    {
+        "name": "Caranjito",
+        "country": "Bonaire, Sint Eustatius, and Saba",
+        "province": "Bonaire",
+        "population": -1,
+        "latitude": 12.135956,
+        "longitude": -68.264388
+    },
+    {
+        "name": "Bella Vista",
+        "country": "Bonaire, Sint Eustatius, and Saba",
+        "province": "Bonaire",
+        "population": -1,
+        "latitude": 12.150184,
+        "longitude": -68.262548
+    },
+    {
+        "name": "Barkadera",
+        "country": "Bonaire, Sint Eustatius, and Saba",
+        "province": "Bonaire",
+        "population": -1,
+        "latitude": 12.1991838302482,
+        "longitude": -68.3040618896484
+    },
+    {
+        "name": "Belnem",
+        "country": "Bonaire, Sint Eustatius, and Saba",
+        "province": "Bonaire",
+        "population": -1,
+        "latitude": 12.1232921881687,
+        "longitude": -68.2873892784119
+    },
+    {
+        "name": "Subi di Rincon",
+        "country": "Bonaire, Sint Eustatius, and Saba",
+        "province": "Bonaire",
+        "population": -1,
+        "latitude": 12.227401,
+        "longitude": -68.333663
+    },
+    {
+        "name": "Wilton",
+        "country": "Bonaire, Sint Eustatius, and Saba",
+        "province": "Sint Eustatius",
+        "population": -1,
+        "latitude": 17.477876,
+        "longitude": -62.981732
+    },
+    {
+        "name": "Wanapa",
+        "country": "Bonaire, Sint Eustatius, and Saba",
+        "province": "Bonaire",
+        "population": -1,
+        "latitude": 12.124694,
+        "longitude": -68.243229
+    },
+    {
+        "name": "Vlijt",
+        "country": "Bonaire, Sint Eustatius, and Saba",
+        "province": "Bonaire",
+        "population": -1,
+        "latitude": 12.166762,
+        "longitude": -68.273447
+    },
+    {
+        "name": "Upper Town",
+        "country": "Bonaire, Sint Eustatius, and Saba",
+        "province": "Sint Eustatius",
+        "population": -1,
+        "latitude": 17.482645,
+        "longitude": -62.984087
+    },
+    {
+        "name": "The Level",
+        "country": "Bonaire, Sint Eustatius, and Saba",
+        "province": "Saba",
+        "population": -1,
+        "latitude": 17.626137,
+        "longitude": -63.22723
+    },
+    {
+        "name": "The Gap",
+        "country": "Bonaire, Sint Eustatius, and Saba",
+        "province": "Saba",
+        "population": -1,
+        "latitude": 17.629875,
+        "longitude": -63.253275
+    },
+    {
+        "name": "Tera Hundu",
+        "country": "Bonaire, Sint Eustatius, and Saba",
+        "province": "Bonaire",
+        "population": -1,
+        "latitude": 12.183689,
+        "longitude": -68.272641
+    },
+    {
+        "name": "Sint Joris",
+        "country": "Bonaire, Sint Eustatius, and Saba",
+        "province": "Bonaire",
+        "population": -1,
+        "latitude": 12.238938,
+        "longitude": -68.346318
+    },
+    {
+        "name": "Senkuria",
+        "country": "Bonaire, Sint Eustatius, and Saba",
+        "province": "Bonaire",
+        "population": -1,
+        "latitude": 12.150946,
+        "longitude": -68.268132
+    },
+    {
+        "name": "Schotsenhoek",
+        "country": "Bonaire, Sint Eustatius, and Saba",
+        "province": "Sint Eustatius",
+        "population": -1,
+        "latitude": 17.48944,
+        "longitude": -62.988129
+    },
+    {
+        "name": "Santa Krus",
+        "country": "Bonaire, Sint Eustatius, and Saba",
+        "province": "Bonaire",
+        "population": -1,
+        "latitude": 12.238692,
+        "longitude": -68.365434
+    },
+    {
+        "name": "Santa Clara",
+        "country": "Bonaire, Sint Eustatius, and Saba",
+        "province": "Bonaire",
+        "population": -1,
+        "latitude": 12.136524,
+        "longitude": -68.228723
+    },
+    {
+        "name": "Santa Catarina",
+        "country": "Bonaire, Sint Eustatius, and Saba",
+        "province": "Bonaire",
+        "population": -1,
+        "latitude": 12.149194,
+        "longitude": -68.224694
+    },
+    {
+        "name": "San José",
+        "country": "Bonaire, Sint Eustatius, and Saba",
+        "province": "Bonaire",
+        "population": -1,
+        "latitude": 12.12695,
+        "longitude": -68.236589
+    },
+    {
+        "name": "San Bernardo",
+        "country": "Bonaire, Sint Eustatius, and Saba",
+        "province": "Bonaire",
+        "population": -1,
+        "latitude": 12.188904,
+        "longitude": -68.266975
+    },
+    {
+        "name": "Saliña",
+        "country": "Bonaire, Sint Eustatius, and Saba",
+        "province": "Bonaire",
+        "population": -1,
+        "latitude": 12.162684,
+        "longitude": -68.283712
+    },
+    {
+        "name": "Sabaneta",
+        "country": "Bonaire, Sint Eustatius, and Saba",
+        "province": "Bonaire",
+        "population": -1,
+        "latitude": 12.240107,
+        "longitude": -68.342769
+    },
+    {
+        "name": "Roozendaal",
+        "country": "Bonaire, Sint Eustatius, and Saba",
+        "province": "Bonaire",
+        "population": -1,
+        "latitude": 12.143621,
+        "longitude": -68.26861
+    },
+    {
+        "name": "Riscado",
+        "country": "Bonaire, Sint Eustatius, and Saba",
+        "province": "Bonaire",
+        "population": -1,
+        "latitude": 12.229708,
+        "longitude": -68.366456
+    },
+    {
+        "name": "Rigot",
+        "country": "Bonaire, Sint Eustatius, and Saba",
+        "province": "Bonaire",
+        "population": -1,
+        "latitude": 12.246341,
+        "longitude": -68.36138
+    },
+    {
+        "name": "Republiek",
+        "country": "Bonaire, Sint Eustatius, and Saba",
+        "province": "Bonaire",
+        "population": -1,
+        "latitude": 12.252942,
+        "longitude": -68.346442
+    },
+    {
+        "name": "Republiek",
+        "country": "Bonaire, Sint Eustatius, and Saba",
+        "province": "Bonaire",
+        "population": -1,
+        "latitude": 12.147274,
+        "longitude": -68.259815
+    },
+    {
+        "name": "Prospect",
+        "country": "Bonaire, Sint Eustatius, and Saba",
+        "province": "Sint Eustatius",
+        "population": -1,
+        "latitude": 17.477728,
+        "longitude": -62.985504
+    },
+    {
+        "name": "Porto Spaño",
+        "country": "Bonaire, Sint Eustatius, and Saba",
+        "province": "Bonaire",
+        "population": -1,
+        "latitude": 12.23166,
+        "longitude": -68.281443
+    },
+    {
+        "name": "Porta Makaku",
+        "country": "Bonaire, Sint Eustatius, and Saba",
+        "province": "Bonaire",
+        "population": -1,
+        "latitude": 12.262994,
+        "longitude": -68.351498
+    },
+    {
+        "name": "Paramira",
+        "country": "Bonaire, Sint Eustatius, and Saba",
+        "province": "Sint Eustatius",
+        "population": -1,
+        "latitude": 17.486804,
+        "longitude": -62.981814
+    },
+    {
+        "name": "Para Mira",
+        "country": "Bonaire, Sint Eustatius, and Saba",
+        "province": "Bonaire",
+        "population": -1,
+        "latitude": 12.236741,
+        "longitude": -68.340578
+    },
+    {
+        "name": "Paradijs",
+        "country": "Bonaire, Sint Eustatius, and Saba",
+        "province": "Bonaire",
+        "population": -1,
+        "latitude": 12.136658,
+        "longitude": -68.238578
+    },
+    {
+        "name": "Orinoco",
+        "country": "Bonaire, Sint Eustatius, and Saba",
+        "province": "Bonaire",
+        "population": -1,
+        "latitude": 12.155559,
+        "longitude": -68.227638
+    },
+    {
+        "name": "Oranje Pan",
+        "country": "Bonaire, Sint Eustatius, and Saba",
+        "province": "Bonaire",
+        "population": -1,
+        "latitude": 12.033333,
+        "longitude": -68.25
+    },
+    {
+        "name": "New Ground",
+        "country": "Bonaire, Sint Eustatius, and Saba",
+        "province": "Sint Eustatius",
+        "population": -1,
+        "latitude": 17.486526,
+        "longitude": -62.984075
+    },
+    {
+        "name": "Mountain Piece",
+        "country": "Bonaire, Sint Eustatius, and Saba",
+        "province": "Sint Eustatius",
+        "population": 51,
+        "latitude": 17.485892,
+        "longitude": -62.966847
+    },
+    {
+        "name": "Mentor",
+        "country": "Bonaire, Sint Eustatius, and Saba",
+        "province": "Bonaire",
+        "population": -1,
+        "latitude": 12.174859,
+        "longitude": -68.272267
+    },
+    {
+        "name": "Mansion",
+        "country": "Bonaire, Sint Eustatius, and Saba",
+        "province": "Sint Eustatius",
+        "population": -1,
+        "latitude": 17.483616,
+        "longitude": -62.980304
+    },
+    {
+        "name": "Lower Town",
+        "country": "Bonaire, Sint Eustatius, and Saba",
+        "province": "Sint Eustatius",
+        "population": -1,
+        "latitude": 17.479733,
+        "longitude": -62.984998
+    },
+    {
+        "name": "Labra",
+        "country": "Bonaire, Sint Eustatius, and Saba",
+        "province": "Bonaire",
+        "population": -1,
+        "latitude": 12.251722,
+        "longitude": -68.399648
+    },
+    {
+        "name": "Kunchi",
+        "country": "Bonaire, Sint Eustatius, and Saba",
+        "province": "Bonaire",
+        "population": -1,
+        "latitude": 12.246232,
+        "longitude": -68.304579
+    },
+    {
+        "name": "Kokorobí",
+        "country": "Bonaire, Sint Eustatius, and Saba",
+        "province": "Bonaire",
+        "population": -1,
+        "latitude": 12.231416,
+        "longitude": -68.327294
+    },
+    {
+        "name": "Kibra Hacha",
+        "country": "Bonaire, Sint Eustatius, and Saba",
+        "province": "Bonaire",
+        "population": -1,
+        "latitude": 12.17027,
+        "longitude": -68.273068
+    },
+    {
+        "name": "Ishiri",
+        "country": "Bonaire, Sint Eustatius, and Saba",
+        "province": "Bonaire",
+        "population": -1,
+        "latitude": 12.141934,
+        "longitude": -68.236354
+    },
+    {
+        "name": "Hoop",
+        "country": "Bonaire, Sint Eustatius, and Saba",
+        "province": "Bonaire",
+        "population": -1,
+        "latitude": 12.123518,
+        "longitude": -68.28734
+    },
+    {
+        "name": "Hearty",
+        "country": "Bonaire, Sint Eustatius, and Saba",
+        "province": "Sint Eustatius",
+        "population": -1,
+        "latitude": 17.486798,
+        "longitude": -62.973017
+    },
+    {
+        "name": "Hato",
+        "country": "Bonaire, Sint Eustatius, and Saba",
+        "province": "Bonaire",
+        "population": 13,
+        "latitude": 12.17586,
+        "longitude": -68.28827
+    },
+    {
+        "name": "Guatemala",
+        "country": "Bonaire, Sint Eustatius, and Saba",
+        "province": "Bonaire",
+        "population": -1,
+        "latitude": 12.170464,
+        "longitude": -68.239857
+    },
+    {
+        "name": "Godet",
+        "country": "Bonaire, Sint Eustatius, and Saba",
+        "province": "Sint Eustatius",
+        "population": -1,
+        "latitude": 17.487329,
+        "longitude": -62.990854
+    },
+    {
+        "name": "Glass Bottle",
+        "country": "Bonaire, Sint Eustatius, and Saba",
+        "province": "Sint Eustatius",
+        "population": -1,
+        "latitude": 17.480635,
+        "longitude": -62.971508
+    },
+    {
+        "name": "Gilheads",
+        "country": "Bonaire, Sint Eustatius, and Saba",
+        "province": "Sint Eustatius",
+        "population": -1,
+        "latitude": 17.478936,
+        "longitude": -62.977221
+    },
+    {
+        "name": "Fiscal",
+        "country": "Bonaire, Sint Eustatius, and Saba",
+        "province": "Sint Eustatius",
+        "population": -1,
+        "latitude": 17.484669,
+        "longitude": -62.987314
+    },
+    {
+        "name": "Den Tuna",
+        "country": "Bonaire, Sint Eustatius, and Saba",
+        "province": "Bonaire",
+        "population": -1,
+        "latitude": 12.169796,
+        "longitude": -68.270128
+    },
+    {
+        "name": "Crispeen",
+        "country": "Bonaire, Sint Eustatius, and Saba",
+        "province": "Saba",
+        "population": -1,
+        "latitude": 17.625712,
+        "longitude": -63.241673
+    },
+    {
+        "name": "Cottage Pasture",
+        "country": "Bonaire, Sint Eustatius, and Saba",
+        "province": "Sint Eustatius",
+        "population": -1,
+        "latitude": 17.485217,
+        "longitude": -62.985684
+    },
+    {
+        "name": "Chapel Piece",
+        "country": "Bonaire, Sint Eustatius, and Saba",
+        "province": "Sint Eustatius",
+        "population": -1,
+        "latitude": 17.480333,
+        "longitude": -62.983679
+    },
+    {
+        "name": "Buena Vista",
+        "country": "Bonaire, Sint Eustatius, and Saba",
+        "province": "Bonaire",
+        "population": -1,
+        "latitude": 12.249019,
+        "longitude": -68.32674
+    },
+    {
+        "name": "Buena Esperansa",
+        "country": "Bonaire, Sint Eustatius, and Saba",
+        "province": "Bonaire",
+        "population": -1,
+        "latitude": 12.168177,
+        "longitude": -68.229149
+    },
+    {
+        "name": "Bricat",
+        "country": "Bonaire, Sint Eustatius, and Saba",
+        "province": "Bonaire",
+        "population": -1,
+        "latitude": 12.155916,
+        "longitude": -68.223086
+    },
+    {
+        "name": "Bouille",
+        "country": "Bonaire, Sint Eustatius, and Saba",
+        "province": "Sint Eustatius",
+        "population": -1,
+        "latitude": 17.472211,
+        "longitude": -62.980584
+    },
+    {
+        "name": "Botelé",
+        "country": "Bonaire, Sint Eustatius, and Saba",
+        "province": "Bonaire",
+        "population": -1,
+        "latitude": 12.23163,
+        "longitude": -68.319345
+    },
+    {
+        "name": "Benners",
+        "country": "Bonaire, Sint Eustatius, and Saba",
+        "province": "Sint Eustatius",
+        "population": -1,
+        "latitude": 17.485918,
+        "longitude": -62.988889
+    },
+    {
+        "name": "Bel Nem",
+        "country": "Bonaire, Sint Eustatius, and Saba",
+        "province": "Bonaire",
+        "population": -1,
+        "latitude": 12.118635,
+        "longitude": -68.29182
+    },
+    {
+        "name": "Nawati",
+        "country": "Bonaire, Sint Eustatius, and Saba",
+        "province": "Bonaire",
+        "population": -1,
+        "latitude": 12.1811,
+        "longitude": -68.2775
+    },
+    {
+        "name": "Republiek",
+        "country": "Bonaire, Sint Eustatius, and Saba",
+        "province": "Bonaire",
+        "population": -1,
+        "latitude": 12.18345,
+        "longitude": -68.28303
+    },
+    {
+        "name": "Claes Gut",
+        "country": "Bonaire, Sint Eustatius, and Saba",
+        "province": "Sint Eustatius",
+        "population": -1,
+        "latitude": 17.482246,
+        "longitude": -62.987358
+    },
+    {
+        "name": "Dos Pos",
+        "country": "Bonaire, Sint Eustatius, and Saba",
+        "province": "Bonaire",
+        "population": -1,
+        "latitude": 12.23739,
+        "longitude": -68.357629
+    },
+    {
+        "name": "Libertad",
+        "country": "Bonaire, Sint Eustatius, and Saba",
+        "province": "Bonaire",
+        "population": -1,
+        "latitude": 12.13917,
+        "longitude": -68.259625
+    },
+    {
+        "name": "Kincu",
+        "country": "Bonaire, Sint Eustatius, and Saba",
+        "province": "Bonaire",
+        "population": -1,
+        "latitude": 12.117207,
+        "longitude": -68.270761
+    },
+    {
+        "name": "Angola",
+        "country": "Bonaire, Sint Eustatius, and Saba",
+        "province": "Bonaire",
+        "population": -1,
+        "latitude": 12.177357,
+        "longitude": -68.263314
+    },
+    {
+        "name": "Kunuku Bieu",
+        "country": "Bonaire, Sint Eustatius, and Saba",
+        "province": "Bonaire",
+        "population": -1,
+        "latitude": 12.178217,
+        "longitude": -68.269258
+    }
+]

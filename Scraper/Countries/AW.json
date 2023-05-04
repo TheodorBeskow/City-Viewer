@@ -1,0 +1,1378 @@
+[
+    {
+        "name": "Oranjestad",
+        "country": "Aruba",
+        "province": "",
+        "population": 29998,
+        "latitude": 12.5239825861101,
+        "longitude": -70.027027130127
+    },
+    {
+        "name": "Tanki Leendert",
+        "country": "Aruba",
+        "province": "",
+        "population": 21500,
+        "latitude": 12.539139,
+        "longitude": -70.020036
+    },
+    {
+        "name": "San Nicolas",
+        "country": "Aruba",
+        "province": "",
+        "population": 15200,
+        "latitude": 12.436239,
+        "longitude": -69.907128
+    },
+    {
+        "name": "Santa Cruz",
+        "country": "Aruba",
+        "province": "",
+        "population": 12900,
+        "latitude": 12.50953,
+        "longitude": -69.98094
+    },
+    {
+        "name": "Savaneta",
+        "country": "Aruba",
+        "province": "",
+        "population": 11500,
+        "latitude": 12.45026,
+        "longitude": -69.938108
+    },
+    {
+        "name": "Paradera",
+        "country": "Aruba",
+        "province": "",
+        "population": 12000,
+        "latitude": 12.535105,
+        "longitude": -70.006878
+    },
+    {
+        "name": "Sero Colorado",
+        "country": "Aruba",
+        "province": "",
+        "population": -1,
+        "latitude": 12.418812,
+        "longitude": -69.882099
+    },
+    {
+        "name": "Pos Chiquito",
+        "country": "Aruba",
+        "province": "",
+        "population": -1,
+        "latitude": 12.464973,
+        "longitude": -69.962325
+    },
+    {
+        "name": "Noord",
+        "country": "Aruba",
+        "province": "",
+        "population": -1,
+        "latitude": 12.56596,
+        "longitude": -70.031984
+    },
+    {
+        "name": "Fontein",
+        "country": "Aruba",
+        "province": "",
+        "population": -1,
+        "latitude": 12.492579,
+        "longitude": -69.905743
+    },
+    {
+        "name": "Butucu",
+        "country": "Aruba",
+        "province": "",
+        "population": -1,
+        "latitude": 12.472465,
+        "longitude": -69.914391
+    },
+    {
+        "name": "Tanki Flip",
+        "country": "Aruba",
+        "province": "",
+        "population": -1,
+        "latitude": 12.545876,
+        "longitude": -70.030669
+    },
+    {
+        "name": "Tamarijn",
+        "country": "Aruba",
+        "province": "",
+        "population": -1,
+        "latitude": 12.535909,
+        "longitude": -69.987572
+    },
+    {
+        "name": "Shiribana",
+        "country": "Aruba",
+        "province": "",
+        "population": -1,
+        "latitude": 12.537168,
+        "longitude": -70.011192
+    },
+    {
+        "name": "Shabiruri",
+        "country": "Aruba",
+        "province": "",
+        "population": -1,
+        "latitude": 12.52303,
+        "longitude": -69.971587
+    },
+    {
+        "name": "Sero Blanco",
+        "country": "Aruba",
+        "province": "",
+        "population": -1,
+        "latitude": 12.52688,
+        "longitude": -70.02273
+    },
+    {
+        "name": "Rooi Prikichi",
+        "country": "Aruba",
+        "province": "",
+        "population": -1,
+        "latitude": 12.54048,
+        "longitude": -69.980261
+    },
+    {
+        "name": "Rooi Afó",
+        "country": "Aruba",
+        "province": "",
+        "population": -1,
+        "latitude": 12.526216,
+        "longitude": -70.009688
+    },
+    {
+        "name": "Pos Abao",
+        "country": "Aruba",
+        "province": "",
+        "population": -1,
+        "latitude": 12.544245,
+        "longitude": -70.04898
+    },
+    {
+        "name": "Plantersrust",
+        "country": "Aruba",
+        "province": "",
+        "population": -1,
+        "latitude": 12.511412,
+        "longitude": -70.001279
+    },
+    {
+        "name": "Piedra Plat",
+        "country": "Aruba",
+        "province": "",
+        "population": -1,
+        "latitude": 12.525388,
+        "longitude": -69.991941
+    },
+    {
+        "name": "Parkieten Bos",
+        "country": "Aruba",
+        "province": "",
+        "population": -1,
+        "latitude": 12.487343,
+        "longitude": -70.000635
+    },
+    {
+        "name": "Palm Beach",
+        "country": "Aruba",
+        "province": "",
+        "population": -1,
+        "latitude": 12.568470371838318,
+        "longitude": -70.03887176513672
+    },
+    {
+        "name": "Noord Cura Cabai",
+        "country": "Aruba",
+        "province": "",
+        "population": -1,
+        "latitude": 12.45064,
+        "longitude": -69.93259
+    },
+    {
+        "name": "Morgenster",
+        "country": "Aruba",
+        "province": "",
+        "population": -1,
+        "latitude": 12.516888,
+        "longitude": -70.004955
+    },
+    {
+        "name": "Mon Pos",
+        "country": "Aruba",
+        "province": "",
+        "population": -1,
+        "latitude": 12.523607,
+        "longitude": -69.968887
+    },
+    {
+        "name": "Modansa",
+        "country": "Aruba",
+        "province": "",
+        "population": -1,
+        "latitude": 12.532913,
+        "longitude": -70.014364
+    },
+    {
+        "name": "Maria Mài",
+        "country": "Aruba",
+        "province": "",
+        "population": -1,
+        "latitude": 12.493222,
+        "longitude": -69.960867
+    },
+    {
+        "name": "Marawiel",
+        "country": "Aruba",
+        "province": "",
+        "population": -1,
+        "latitude": 12.545426,
+        "longitude": -69.991127
+    },
+    {
+        "name": "Mahuma",
+        "country": "Aruba",
+        "province": "",
+        "population": -1,
+        "latitude": 12.497089,
+        "longitude": -69.997687
+    },
+    {
+        "name": "Madiki",
+        "country": "Aruba",
+        "province": "",
+        "population": -1,
+        "latitude": 12.529305,
+        "longitude": -70.04188
+    },
+    {
+        "name": "Macuarima",
+        "country": "Aruba",
+        "province": "",
+        "population": -1,
+        "latitude": 12.49889,
+        "longitude": -69.97469
+    },
+    {
+        "name": "Juwana Morto",
+        "country": "Aruba",
+        "province": "",
+        "population": -1,
+        "latitude": 12.440844,
+        "longitude": -69.890401
+    },
+    {
+        "name": "Jan Flemming",
+        "country": "Aruba",
+        "province": "",
+        "population": -1,
+        "latitude": 12.497289,
+        "longitude": -69.974491
+    },
+    {
+        "name": "Gasparito",
+        "country": "Aruba",
+        "province": "",
+        "population": -1,
+        "latitude": 12.562301,
+        "longitude": -70.041755
+    },
+    {
+        "name": "Eagle Beach",
+        "country": "Aruba",
+        "province": "",
+        "population": -1,
+        "latitude": 12.547861166976828,
+        "longitude": -70.0568962097168
+    },
+    {
+        "name": "Dacota",
+        "country": "Aruba",
+        "province": "",
+        "population": -1,
+        "latitude": 12.515144,
+        "longitude": -70.021995
+    },
+    {
+        "name": "Cura Cabai",
+        "country": "Aruba",
+        "province": "",
+        "population": -1,
+        "latitude": 12.44202,
+        "longitude": -69.92978
+    },
+    {
+        "name": "Cunucu Abao",
+        "country": "Aruba",
+        "province": "",
+        "population": -1,
+        "latitude": 12.547867,
+        "longitude": -70.046939
+    },
+    {
+        "name": "Coba Lodo",
+        "country": "Aruba",
+        "province": "",
+        "population": -1,
+        "latitude": 12.5,
+        "longitude": -69.95
+    },
+    {
+        "name": "Catiri",
+        "country": "Aruba",
+        "province": "",
+        "population": -1,
+        "latitude": 12.542626,
+        "longitude": -70.016621
+    },
+    {
+        "name": "Catashi",
+        "country": "Aruba",
+        "province": "",
+        "population": -1,
+        "latitude": 12.515213,
+        "longitude": -69.958088
+    },
+    {
+        "name": "Casibari",
+        "country": "Aruba",
+        "province": "",
+        "population": -1,
+        "latitude": 12.532505,
+        "longitude": -69.996578
+    },
+    {
+        "name": "Cashero",
+        "country": "Aruba",
+        "province": "",
+        "population": -1,
+        "latitude": 12.52327,
+        "longitude": -69.97885
+    },
+    {
+        "name": "Cas di Paloma",
+        "country": "Aruba",
+        "province": "",
+        "population": -1,
+        "latitude": 12.490993,
+        "longitude": -70.004244
+    },
+    {
+        "name": "Cas Ariba",
+        "country": "Aruba",
+        "province": "",
+        "population": -1,
+        "latitude": 12.5,
+        "longitude": -69.95
+    },
+    {
+        "name": "Canashito",
+        "country": "Aruba",
+        "province": "",
+        "population": -1,
+        "latitude": 12.510807,
+        "longitude": -69.988299
+    },
+    {
+        "name": "Camacuri",
+        "country": "Aruba",
+        "province": "",
+        "population": -1,
+        "latitude": 12.507614,
+        "longitude": -70.022048
+    },
+    {
+        "name": "Calabas",
+        "country": "Aruba",
+        "province": "",
+        "population": -1,
+        "latitude": 12.558371,
+        "longitude": -70.009129
+    },
+    {
+        "name": "Cadushi Largo",
+        "country": "Aruba",
+        "province": "",
+        "population": -1,
+        "latitude": 12.519601,
+        "longitude": -69.971022
+    },
+    {
+        "name": "Bubali",
+        "country": "Aruba",
+        "province": "",
+        "population": -1,
+        "latitude": 12.551329,
+        "longitude": -70.042881
+    },
+    {
+        "name": "Bringamosa",
+        "country": "Aruba",
+        "province": "",
+        "population": -1,
+        "latitude": 12.49105,
+        "longitude": -69.96321
+    },
+    {
+        "name": "Boton",
+        "country": "Aruba",
+        "province": "",
+        "population": -1,
+        "latitude": 12.49465,
+        "longitude": -69.9654
+    },
+    {
+        "name": "Blumond",
+        "country": "Aruba",
+        "province": "",
+        "population": -1,
+        "latitude": 12.537989,
+        "longitude": -69.999241
+    },
+    {
+        "name": "Barcelona",
+        "country": "Aruba",
+        "province": "",
+        "population": -1,
+        "latitude": 12.515781,
+        "longitude": -70.016539
+    },
+    {
+        "name": "Babijn",
+        "country": "Aruba",
+        "province": "",
+        "population": -1,
+        "latitude": 12.53973,
+        "longitude": -69.99561
+    },
+    {
+        "name": "Angochi",
+        "country": "Aruba",
+        "province": "",
+        "population": -1,
+        "latitude": 12.51627,
+        "longitude": -69.96321
+    },
+    {
+        "name": "Sint Anna",
+        "country": "Aruba",
+        "province": "",
+        "population": -1,
+        "latitude": 12.566667,
+        "longitude": -70.033333
+    },
+    {
+        "name": "Sabana Blanco",
+        "country": "Aruba",
+        "province": "",
+        "population": -1,
+        "latitude": 12.508786,
+        "longitude": -70.012527
+    },
+    {
+        "name": "Druif",
+        "country": "Aruba",
+        "province": "",
+        "population": -1,
+        "latitude": 12.5333333,
+        "longitude": -70.0666667
+    },
+    {
+        "name": "Bushiribana",
+        "country": "Aruba",
+        "province": "",
+        "population": -1,
+        "latitude": 12.550248,
+        "longitude": -69.973187
+    },
+    {
+        "name": "Arashi",
+        "country": "Aruba",
+        "province": "",
+        "population": -1,
+        "latitude": 12.60755,
+        "longitude": -70.052
+    },
+    {
+        "name": "Westpunt",
+        "country": "Aruba",
+        "province": "",
+        "population": -1,
+        "latitude": 12.59517,
+        "longitude": -70.038284
+    },
+    {
+        "name": "Solito",
+        "country": "Aruba",
+        "province": "",
+        "population": -1,
+        "latitude": 12.530775,
+        "longitude": -70.027323
+    },
+    {
+        "name": "Shete",
+        "country": "Aruba",
+        "province": "",
+        "population": -1,
+        "latitude": 12.511582,
+        "longitude": -69.949801
+    },
+    {
+        "name": "Sabanía Abao",
+        "country": "Aruba",
+        "province": "",
+        "population": -1,
+        "latitude": 12.522405,
+        "longitude": -69.959286
+    },
+    {
+        "name": "Roncadó",
+        "country": "Aruba",
+        "province": "",
+        "population": -1,
+        "latitude": 12.538043,
+        "longitude": -70.005801
+    },
+    {
+        "name": "Moco",
+        "country": "Aruba",
+        "province": "",
+        "population": -1,
+        "latitude": 12.551337,
+        "longitude": -70.008432
+    },
+    {
+        "name": "Jamanota",
+        "country": "Aruba",
+        "province": "",
+        "population": -1,
+        "latitude": 12.49114,
+        "longitude": -69.95411
+    },
+    {
+        "name": "Brasil",
+        "country": "Aruba",
+        "province": "",
+        "population": -1,
+        "latitude": 12.447982,
+        "longitude": -69.925378
+    },
+    {
+        "name": "Balashi",
+        "country": "Aruba",
+        "province": "",
+        "population": -1,
+        "latitude": 12.483675,
+        "longitude": -69.97269
+    },
+    {
+        "name": "Boegoeroei",
+        "country": "Aruba",
+        "province": "Aruba",
+        "population": -1,
+        "latitude": 12.554312193183376,
+        "longitude": -70.03011703491211
+    },
+    {
+        "name": "Malmok",
+        "country": "Aruba",
+        "province": "Aruba",
+        "population": -1,
+        "latitude": 12.60087,
+        "longitude": -70.05064
+    },
+    {
+        "name": "Hubada",
+        "country": "Aruba",
+        "province": "",
+        "population": -1,
+        "latitude": 12.554288,
+        "longitude": -69.996178
+    },
+    {
+        "name": "Cadushi",
+        "country": "Aruba",
+        "province": "",
+        "population": -1,
+        "latitude": 12.548317,
+        "longitude": -69.978144
+    },
+    {
+        "name": "Wayaca",
+        "country": "Aruba",
+        "province": "",
+        "population": -1,
+        "latitude": 12.507089,
+        "longitude": -70.004713
+    },
+    {
+        "name": "Washington",
+        "country": "Aruba",
+        "province": "",
+        "population": -1,
+        "latitude": 12.558371,
+        "longitude": -70.03816
+    },
+    {
+        "name": "Tarabana",
+        "country": "Aruba",
+        "province": "",
+        "population": -1,
+        "latitude": 12.521272,
+        "longitude": -70.019849
+    },
+    {
+        "name": "Soledad",
+        "country": "Aruba",
+        "province": "",
+        "population": -1,
+        "latitude": 12.547715,
+        "longitude": -70.014947
+    },
+    {
+        "name": "Siribana",
+        "country": "Aruba",
+        "province": "",
+        "population": -1,
+        "latitude": 12.518171,
+        "longitude": -69.97938
+    },
+    {
+        "name": "Simeon Antonio",
+        "country": "Aruba",
+        "province": "",
+        "population": -1,
+        "latitude": 12.494036,
+        "longitude": -70.009596
+    },
+    {
+        "name": "Shaba",
+        "country": "Aruba",
+        "province": "",
+        "population": -1,
+        "latitude": 12.552682,
+        "longitude": -70.029724
+    },
+    {
+        "name": "Santa Martha",
+        "country": "Aruba",
+        "province": "",
+        "population": -1,
+        "latitude": 12.503405,
+        "longitude": -69.991866
+    },
+    {
+        "name": "Santa Helena",
+        "country": "Aruba",
+        "province": "",
+        "population": -1,
+        "latitude": 12.53089,
+        "longitude": -70.036504
+    },
+    {
+        "name": "San Fuego",
+        "country": "Aruba",
+        "province": "",
+        "population": -1,
+        "latitude": 12.501273,
+        "longitude": -69.955573
+    },
+    {
+        "name": "San Barbola",
+        "country": "Aruba",
+        "province": "",
+        "population": -1,
+        "latitude": 12.525539,
+        "longitude": -70.0156
+    },
+    {
+        "name": "Saliña Cerca",
+        "country": "Aruba",
+        "province": "",
+        "population": -1,
+        "latitude": 12.579375,
+        "longitude": -70.037068
+    },
+    {
+        "name": "Sabana Liber",
+        "country": "Aruba",
+        "province": "",
+        "population": -1,
+        "latitude": 12.562498,
+        "longitude": -70.021856
+    },
+    {
+        "name": "Sabana Grandi",
+        "country": "Aruba",
+        "province": "",
+        "population": -1,
+        "latitude": 12.497843,
+        "longitude": -69.981981
+    },
+    {
+        "name": "Sabana Berde",
+        "country": "Aruba",
+        "province": "",
+        "population": -1,
+        "latitude": 12.50689,
+        "longitude": -70.016585
+    },
+    {
+        "name": "Sabana Basora",
+        "country": "Aruba",
+        "province": "",
+        "population": -1,
+        "latitude": 12.472162,
+        "longitude": -69.962248
+    },
+    {
+        "name": "Rooi Master",
+        "country": "Aruba",
+        "province": "",
+        "population": -1,
+        "latitude": 12.450173,
+        "longitude": -69.923379
+    },
+    {
+        "name": "Rooi Hundo",
+        "country": "Aruba",
+        "province": "",
+        "population": -1,
+        "latitude": 12.443159,
+        "longitude": -69.896828
+    },
+    {
+        "name": "Rooi Congo",
+        "country": "Aruba",
+        "province": "",
+        "population": -1,
+        "latitude": 12.447336,
+        "longitude": -69.91512
+    },
+    {
+        "name": "Rooi Cochi",
+        "country": "Aruba",
+        "province": "",
+        "population": -1,
+        "latitude": 12.453633,
+        "longitude": -69.933817
+    },
+    {
+        "name": "Rooi Bosal",
+        "country": "Aruba",
+        "province": "",
+        "population": -1,
+        "latitude": 12.491984,
+        "longitude": -69.978209
+    },
+    {
+        "name": "Primavera",
+        "country": "Aruba",
+        "province": "",
+        "population": -1,
+        "latitude": 12.512766,
+        "longitude": -70.007625
+    },
+    {
+        "name": "Ponton",
+        "country": "Aruba",
+        "province": "",
+        "population": -1,
+        "latitude": 12.535548,
+        "longitude": -70.031678
+    },
+    {
+        "name": "Picaron",
+        "country": "Aruba",
+        "province": "",
+        "population": -1,
+        "latitude": 12.502422,
+        "longitude": -69.959997
+    },
+    {
+        "name": "Pavía",
+        "country": "Aruba",
+        "province": "",
+        "population": -1,
+        "latitude": 12.52167,
+        "longitude": -70.000967
+    },
+    {
+        "name": "Paraguaná",
+        "country": "Aruba",
+        "province": "",
+        "population": -1,
+        "latitude": 12.54765,
+        "longitude": -70.019605
+    },
+    {
+        "name": "Paradijs",
+        "country": "Aruba",
+        "province": "",
+        "population": -1,
+        "latitude": 12.539325,
+        "longitude": -70.049501
+    },
+    {
+        "name": "Nuñe",
+        "country": "Aruba",
+        "province": "",
+        "population": -1,
+        "latitude": 12.538893,
+        "longitude": -70.007963
+    },
+    {
+        "name": "Meiveld",
+        "country": "Aruba",
+        "province": "",
+        "population": -1,
+        "latitude": 12.521351,
+        "longitude": -70.008191
+    },
+    {
+        "name": "Mabon",
+        "country": "Aruba",
+        "province": "",
+        "population": -1,
+        "latitude": 12.452706,
+        "longitude": -69.92553
+    },
+    {
+        "name": "Falcon",
+        "country": "Aruba",
+        "province": "",
+        "population": -1,
+        "latitude": 12.5376,
+        "longitude": -70.015828
+    },
+    {
+        "name": "Cumaná",
+        "country": "Aruba",
+        "province": "",
+        "population": -1,
+        "latitude": 12.519045,
+        "longitude": -70.016387
+    },
+    {
+        "name": "Barcadera",
+        "country": "Aruba",
+        "province": "",
+        "population": -1,
+        "latitude": 12.485513,
+        "longitude": -69.983251
+    },
+    {
+        "name": "Lagoville",
+        "country": "Aruba",
+        "province": "",
+        "population": -1,
+        "latitude": 12.439627,
+        "longitude": -69.911003
+    },
+    {
+        "name": "Essoville",
+        "country": "Aruba",
+        "province": "",
+        "population": -1,
+        "latitude": 12.434989,
+        "longitude": -69.899904
+    },
+    {
+        "name": "Esso Heights",
+        "country": "Aruba",
+        "province": "",
+        "population": -1,
+        "latitude": 12.438957,
+        "longitude": -69.898515
+    },
+    {
+        "name": "Pedro Mosa",
+        "country": "Aruba",
+        "province": "",
+        "population": -1,
+        "latitude": 12.439227,
+        "longitude": -69.892042
+    },
+    {
+        "name": "Lago Heights",
+        "country": "Aruba",
+        "province": "",
+        "population": -1,
+        "latitude": 12.435224,
+        "longitude": -69.891389
+    },
+    {
+        "name": "Sabana Lodo",
+        "country": "Aruba",
+        "province": "",
+        "population": -1,
+        "latitude": 12.438317,
+        "longitude": -69.885032
+    },
+    {
+        "name": "Sant’i Patía",
+        "country": "Aruba",
+        "province": "",
+        "population": -1,
+        "latitude": 12.443203,
+        "longitude": -69.885311
+    },
+    {
+        "name": "Rooi Spoki",
+        "country": "Aruba",
+        "province": "",
+        "population": -1,
+        "latitude": 12.446082,
+        "longitude": -69.900269
+    },
+    {
+        "name": "Standardville",
+        "country": "Aruba",
+        "province": "",
+        "population": -1,
+        "latitude": 12.444329,
+        "longitude": -69.909837
+    },
+    {
+        "name": "Watapana Gezag",
+        "country": "Aruba",
+        "province": "",
+        "population": -1,
+        "latitude": 12.443556,
+        "longitude": -69.911425
+    },
+    {
+        "name": "Zeewijk",
+        "country": "Aruba",
+        "province": "",
+        "population": -1,
+        "latitude": 12.438036,
+        "longitude": -69.917008
+    },
+    {
+        "name": "Papegaaienbos",
+        "country": "Aruba",
+        "province": "",
+        "population": -1,
+        "latitude": 12.435784,
+        "longitude": -69.915969
+    },
+    {
+        "name": "Generaal Majoor de Bruynewijk",
+        "country": "Aruba",
+        "province": "",
+        "population": -1,
+        "latitude": 12.450628,
+        "longitude": -69.94377
+    },
+    {
+        "name": "Sabana Serbete",
+        "country": "Aruba",
+        "province": "",
+        "population": -1,
+        "latitude": 12.447467,
+        "longitude": -69.886835
+    },
+    {
+        "name": "Pos Grandi",
+        "country": "Aruba",
+        "province": "",
+        "population": -1,
+        "latitude": 12.455439,
+        "longitude": -69.953744
+    },
+    {
+        "name": "Recrea",
+        "country": "Aruba",
+        "province": "",
+        "population": -1,
+        "latitude": 12.506083,
+        "longitude": -69.968143
+    },
+    {
+        "name": "Laga Bena",
+        "country": "Aruba",
+        "province": "",
+        "population": -1,
+        "latitude": 12.511404,
+        "longitude": -69.957945
+    },
+    {
+        "name": "Wela",
+        "country": "Aruba",
+        "province": "",
+        "population": -1,
+        "latitude": 12.483464,
+        "longitude": -69.964132
+    },
+    {
+        "name": "Bonheur",
+        "country": "Aruba",
+        "province": "",
+        "population": -1,
+        "latitude": 12.481417,
+        "longitude": -69.96672
+    },
+    {
+        "name": "Weso",
+        "country": "Aruba",
+        "province": "",
+        "population": -1,
+        "latitude": 12.46882,
+        "longitude": -69.965932
+    },
+    {
+        "name": "Mangel Halto",
+        "country": "Aruba",
+        "province": "",
+        "population": -1,
+        "latitude": 12.467353,
+        "longitude": -69.971393
+    },
+    {
+        "name": "Pieter Boer",
+        "country": "Aruba",
+        "province": "",
+        "population": -1,
+        "latitude": 12.467646,
+        "longitude": -69.958325
+    },
+    {
+        "name": "Corto Palo",
+        "country": "Aruba",
+        "province": "",
+        "population": -1,
+        "latitude": 12.456397,
+        "longitude": -69.912518
+    },
+    {
+        "name": "Burubunu",
+        "country": "Aruba",
+        "province": "",
+        "population": -1,
+        "latitude": 12.473481,
+        "longitude": -69.966676
+    },
+    {
+        "name": "Coba",
+        "country": "Aruba",
+        "province": "",
+        "population": -1,
+        "latitude": 12.516874,
+        "longitude": -69.964813
+    },
+    {
+        "name": "Lodo",
+        "country": "Aruba",
+        "province": "",
+        "population": -1,
+        "latitude": 12.513993,
+        "longitude": -69.964697
+    },
+    {
+        "name": "Sombre",
+        "country": "Aruba",
+        "province": "",
+        "population": -1,
+        "latitude": 12.512006,
+        "longitude": -69.963521
+    },
+    {
+        "name": "Jara",
+        "country": "Aruba",
+        "province": "",
+        "population": -1,
+        "latitude": 12.460233,
+        "longitude": -69.950948
+    },
+    {
+        "name": "San Miguel",
+        "country": "Aruba",
+        "province": "",
+        "population": -1,
+        "latitude": 12.554756,
+        "longitude": -70.047408
+    },
+    {
+        "name": "Pos Shan Jan",
+        "country": "Aruba",
+        "province": "",
+        "population": -1,
+        "latitude": 12.540542,
+        "longitude": -70.046091
+    },
+    {
+        "name": "Bushiri",
+        "country": "Aruba",
+        "province": "",
+        "population": -1,
+        "latitude": 12.535302,
+        "longitude": -70.0469
+    },
+    {
+        "name": "Bario Dokter Dussenbroek",
+        "country": "Aruba",
+        "province": "",
+        "population": -1,
+        "latitude": 12.526076,
+        "longitude": -70.020374
+    },
+    {
+        "name": "Kibaima",
+        "country": "Aruba",
+        "province": "",
+        "population": -1,
+        "latitude": 12.486345,
+        "longitude": -69.977924
+    },
+    {
+        "name": "Papaya",
+        "country": "Aruba",
+        "province": "",
+        "population": -1,
+        "latitude": 12.542691,
+        "longitude": -70.011892
+    },
+    {
+        "name": "Van Kol",
+        "country": "Aruba",
+        "province": "",
+        "population": -1,
+        "latitude": 12.555186,
+        "longitude": -70.015358
+    },
+    {
+        "name": "Montaña",
+        "country": "Aruba",
+        "province": "",
+        "population": -1,
+        "latitude": 12.557475,
+        "longitude": -70.027421
+    },
+    {
+        "name": "Coyari",
+        "country": "Aruba",
+        "province": "",
+        "population": -1,
+        "latitude": 12.560062,
+        "longitude": -70.043258
+    },
+    {
+        "name": "Paramira",
+        "country": "Aruba",
+        "province": "",
+        "population": -1,
+        "latitude": 12.528112,
+        "longitude": -70.028307
+    },
+    {
+        "name": "Montana",
+        "country": "Aruba",
+        "province": "",
+        "population": -1,
+        "latitude": 12.514912,
+        "longitude": -70.013612
+    },
+    {
+        "name": "Simonslust",
+        "country": "Aruba",
+        "province": "",
+        "population": -1,
+        "latitude": 12.515248,
+        "longitude": -70.007078
+    },
+    {
+        "name": "Santa Rosa",
+        "country": "Aruba",
+        "province": "",
+        "population": -1,
+        "latitude": 12.49295,
+        "longitude": -69.99514
+    },
+    {
+        "name": "Buena Vista",
+        "country": "Aruba",
+        "province": "",
+        "population": -1,
+        "latitude": 12.494893,
+        "longitude": -70.003485
+    },
+    {
+        "name": "Dorcas",
+        "country": "Aruba",
+        "province": "",
+        "population": -1,
+        "latitude": 12.500845,
+        "longitude": -69.996218
+    },
+    {
+        "name": "Vallei",
+        "country": "Aruba",
+        "province": "",
+        "population": -1,
+        "latitude": 12.503411,
+        "longitude": -69.999091
+    },
+    {
+        "name": "Baha Bahul",
+        "country": "Aruba",
+        "province": "",
+        "population": -1,
+        "latitude": 12.514504,
+        "longitude": -69.994868
+    },
+    {
+        "name": "Purba Mira",
+        "country": "Aruba",
+        "province": "",
+        "population": -1,
+        "latitude": 12.53115,
+        "longitude": -69.992475
+    },
+    {
+        "name": "Porto Rico",
+        "country": "Aruba",
+        "province": "",
+        "population": -1,
+        "latitude": 12.542809,
+        "longitude": -69.988849
+    },
+    {
+        "name": "Yanana",
+        "country": "Aruba",
+        "province": "",
+        "population": -1,
+        "latitude": 12.544172,
+        "longitude": -69.996474
+    },
+    {
+        "name": "Cascogne",
+        "country": "Aruba",
+        "province": "",
+        "population": -1,
+        "latitude": 12.524176,
+        "longitude": -70.000261
+    },
+    {
+        "name": "Lombok",
+        "country": "Aruba",
+        "province": "",
+        "population": -1,
+        "latitude": 12.523174,
+        "longitude": -70.002846
+    },
+    {
+        "name": "Gasparito",
+        "country": "Aruba",
+        "province": "",
+        "population": -1,
+        "latitude": 12.532833,
+        "longitude": -70.010278
+    },
+    {
+        "name": "Saliña",
+        "country": "Aruba",
+        "province": "",
+        "population": -1,
+        "latitude": 12.550389,
+        "longitude": -70.013512
+    },
+    {
+        "name": "Manchebo",
+        "country": "Aruba",
+        "province": "",
+        "population": -1,
+        "latitude": 12.54324,
+        "longitude": -70.05744
+    },
+    {
+        "name": "Monserrat",
+        "country": "Aruba",
+        "province": "",
+        "population": -1,
+        "latitude": 12.570475,
+        "longitude": -70.032593
+    },
+    {
+        "name": "Keíto",
+        "country": "Aruba",
+        "province": "",
+        "population": -1,
+        "latitude": 12.563211,
+        "longitude": -70.040178
+    },
+    {
+        "name": "Bakval",
+        "country": "Aruba",
+        "province": "",
+        "population": -1,
+        "latitude": 12.58204,
+        "longitude": -70.040348
+    },
+    {
+        "name": "Rooi Santo",
+        "country": "Aruba",
+        "province": "",
+        "population": -1,
+        "latitude": 12.58562,
+        "longitude": -70.038834
+    },
+    {
+        "name": "Tibushi",
+        "country": "Aruba",
+        "province": "",
+        "population": -1,
+        "latitude": 12.599954,
+        "longitude": -70.037293
+    },
+    {
+        "name": "Camai",
+        "country": "Aruba",
+        "province": "",
+        "population": -1,
+        "latitude": 12.577283,
+        "longitude": -70.031334
+    },
+    {
+        "name": "Malpaís",
+        "country": "Aruba",
+        "province": "",
+        "population": -1,
+        "latitude": 12.548691,
+        "longitude": -70.042637
+    },
+    {
+        "name": "Hato",
+        "country": "Aruba",
+        "province": "",
+        "population": -1,
+        "latitude": 12.544226,
+        "longitude": -70.0333
+    },
+    {
+        "name": "Alto Vista",
+        "country": "Aruba",
+        "province": "",
+        "population": -1,
+        "latitude": 12.5705,
+        "longitude": -70.019119
+    },
+    {
+        "name": "Boroncana",
+        "country": "Aruba",
+        "province": "",
+        "population": -1,
+        "latitude": 12.585198,
+        "longitude": -70.027914
+    },
+    {
+        "name": "Ayo",
+        "country": "Aruba",
+        "province": "Aruba",
+        "population": -1,
+        "latitude": 12.53551,
+        "longitude": -69.97731
+    }
+]

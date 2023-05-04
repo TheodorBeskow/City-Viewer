@@ -1,0 +1,1450 @@
+[
+    {
+        "name": "St John's",
+        "country": "Antigua and Barbuda",
+        "province": "Saint John",
+        "population": 24226,
+        "latitude": 17.12096,
+        "longitude": -61.84329
+    },
+    {
+        "name": "Piggotts",
+        "country": "Antigua and Barbuda",
+        "province": "Saint George",
+        "population": 1878,
+        "latitude": 17.1166667,
+        "longitude": -61.8
+    },
+    {
+        "name": "All Saints",
+        "country": "Antigua and Barbuda",
+        "province": "Saint Peter",
+        "population": 2526,
+        "latitude": 17.0667130475053,
+        "longitude": -61.79303169250488
+    },
+    {
+        "name": "Potters Village",
+        "country": "Antigua and Barbuda",
+        "province": "Saint John",
+        "population": 1433,
+        "latitude": 17.113369,
+        "longitude": -61.819618
+    },
+    {
+        "name": "Liberta",
+        "country": "Antigua and Barbuda",
+        "province": "Saint Paul",
+        "population": 1668,
+        "latitude": 17.041413,
+        "longitude": -61.790516
+    },
+    {
+        "name": "Codrington",
+        "country": "Antigua and Barbuda",
+        "province": "Barbuda",
+        "population": 1325,
+        "latitude": 17.6394,
+        "longitude": -61.82437
+    },
+    {
+        "name": "Bolands",
+        "country": "Antigua and Barbuda",
+        "province": "Saint Mary",
+        "population": 1657,
+        "latitude": 17.06564638118522,
+        "longitude": -61.874656677246094
+    },
+    {
+        "name": "Parham",
+        "country": "Antigua and Barbuda",
+        "province": "Saint Peter",
+        "population": 969,
+        "latitude": 17.096823341565187,
+        "longitude": -61.77045822143555
+    },
+    {
+        "name": "Cedar Grove",
+        "country": "Antigua and Barbuda",
+        "province": "Saint John",
+        "population": 789,
+        "latitude": 17.162253,
+        "longitude": -61.817804
+    },
+    {
+        "name": "Carlisle",
+        "country": "Antigua and Barbuda",
+        "province": "Saint George",
+        "population": 831,
+        "latitude": 17.132256,
+        "longitude": -61.803561
+    },
+    {
+        "name": "Old Road",
+        "country": "Antigua and Barbuda",
+        "province": "Saint Mary",
+        "population": 623,
+        "latitude": 17.016816,
+        "longitude": -61.835787
+    },
+    {
+        "name": "Falmouth",
+        "country": "Antigua and Barbuda",
+        "province": "Saint Paul",
+        "population": 619,
+        "latitude": 17.027406472894558,
+        "longitude": -61.78135871887207
+    },
+    {
+        "name": "Willikies",
+        "country": "Antigua and Barbuda",
+        "province": "Saint Philip",
+        "population": -1,
+        "latitude": 17.086837,
+        "longitude": -61.709299
+    },
+    {
+        "name": "Swetes",
+        "country": "Antigua and Barbuda",
+        "province": "Saint Paul",
+        "population": 727,
+        "latitude": 17.050374,
+        "longitude": -61.800913
+    },
+    {
+        "name": "Sea View Farm",
+        "country": "Antigua and Barbuda",
+        "province": "Saint George",
+        "population": -1,
+        "latitude": 17.088091,
+        "longitude": -61.802813
+    },
+    {
+        "name": "Sawcolts",
+        "country": "Antigua and Barbuda",
+        "province": "Saint Mary",
+        "population": -1,
+        "latitude": 17.050382,
+        "longitude": -61.820138
+    },
+    {
+        "name": "Pares",
+        "country": "Antigua and Barbuda",
+        "province": "Saint Peter",
+        "population": -1,
+        "latitude": 17.084926,
+        "longitude": -61.754452
+    },
+    {
+        "name": "Jennings",
+        "country": "Antigua and Barbuda",
+        "province": "Saint Philip",
+        "population": -1,
+        "latitude": 17.07778960654538,
+        "longitude": -61.86581611633301
+    },
+    {
+        "name": "Freetown",
+        "country": "Antigua and Barbuda",
+        "province": "Saint Philip",
+        "population": 623,
+        "latitude": 17.047905,
+        "longitude": -61.703322
+    },
+    {
+        "name": "Ffryes",
+        "country": "Antigua and Barbuda",
+        "province": "Saint Philip",
+        "population": -1,
+        "latitude": 17.055088,
+        "longitude": -61.731433
+    },
+    {
+        "name": "English Harbour Town",
+        "country": "Antigua and Barbuda",
+        "province": "Saint Paul",
+        "population": 666,
+        "latitude": 17.016371,
+        "longitude": -61.7674
+    },
+    {
+        "name": "Betty’s Hope",
+        "country": "Antigua and Barbuda",
+        "province": "Saint Peter",
+        "population": -1,
+        "latitude": 17.081186,
+        "longitude": -61.744794
+    },
+    {
+        "name": "Bethesda",
+        "country": "Antigua and Barbuda",
+        "province": "Saint Paul",
+        "population": -1,
+        "latitude": 17.043313,
+        "longitude": -61.750833
+    },
+    {
+        "name": "Jolly Harbour",
+        "country": "Antigua and Barbuda",
+        "province": "Saint Mary",
+        "population": -1,
+        "latitude": 17.066220740730483,
+        "longitude": -61.88645839691162
+    },
+    {
+        "name": "Urlings",
+        "country": "Antigua and Barbuda",
+        "province": "Saint Mary",
+        "population": -1,
+        "latitude": 17.026869,
+        "longitude": -61.876183
+    },
+    {
+        "name": "Seatons",
+        "country": "Antigua and Barbuda",
+        "province": "Saint Philip",
+        "population": -1,
+        "latitude": 17.094346,
+        "longitude": -61.725525
+    },
+    {
+        "name": "St. Philips",
+        "country": "Antigua and Barbuda",
+        "province": "Saint Philip",
+        "population": -1,
+        "latitude": 17.046275,
+        "longitude": -61.723734
+    },
+    {
+        "name": "Saint Johnston Village",
+        "country": "Antigua and Barbuda",
+        "province": "Saint John",
+        "population": -1,
+        "latitude": 17.118612,
+        "longitude": -61.827004
+    },
+    {
+        "name": "Paynters",
+        "country": "Antigua and Barbuda",
+        "province": "Saint George",
+        "population": -1,
+        "latitude": 17.117894,
+        "longitude": -61.806778
+    },
+    {
+        "name": "Osbourn",
+        "country": "Antigua and Barbuda",
+        "province": "Saint George",
+        "population": -1,
+        "latitude": 17.125912,
+        "longitude": -61.804399
+    },
+    {
+        "name": "Newfield",
+        "country": "Antigua and Barbuda",
+        "province": "Saint Philip",
+        "population": -1,
+        "latitude": 17.056866665309236,
+        "longitude": -61.72539710998535
+    },
+    {
+        "name": "Johnsons Point",
+        "country": "Antigua and Barbuda",
+        "province": "Saint Mary",
+        "population": -1,
+        "latitude": 17.02985,
+        "longitude": -61.88885
+    },
+    {
+        "name": "Grays Hill",
+        "country": "Antigua and Barbuda",
+        "province": "Saint John",
+        "population": -1,
+        "latitude": 17.105791,
+        "longitude": -61.847375
+    },
+    {
+        "name": "Freemans",
+        "country": "Antigua and Barbuda",
+        "province": "Saint Peter",
+        "population": -1,
+        "latitude": 17.079171,
+        "longitude": -61.785703
+    },
+    {
+        "name": "Comfort Hall",
+        "country": "Antigua and Barbuda",
+        "province": "Saint Philip",
+        "population": -1,
+        "latitude": 17.081328,
+        "longitude": -61.714155
+    },
+    {
+        "name": "Watsons",
+        "country": "Antigua and Barbuda",
+        "province": "Saint Philip",
+        "population": -1,
+        "latitude": 17.054512,
+        "longitude": -61.677886
+    },
+    {
+        "name": "Seaforths",
+        "country": "Antigua and Barbuda",
+        "province": "Saint Mary",
+        "population": -1,
+        "latitude": 17.09376,
+        "longitude": -61.864303
+    },
+    {
+        "name": "Saint Lukes",
+        "country": "Antigua and Barbuda",
+        "province": "Saint John",
+        "population": -1,
+        "latitude": 17.078772,
+        "longitude": -61.834366
+    },
+    {
+        "name": "Pattersons Dwelling House",
+        "country": "Antigua and Barbuda",
+        "province": "Saint Paul",
+        "population": -1,
+        "latitude": 17.0333333,
+        "longitude": -61.7833333
+    },
+    {
+        "name": "New Winthorpes",
+        "country": "Antigua and Barbuda",
+        "province": "Saint George",
+        "population": -1,
+        "latitude": 17.145751,
+        "longitude": -61.813437
+    },
+    {
+        "name": "Mount William",
+        "country": "Antigua and Barbuda",
+        "province": "Saint Paul",
+        "population": -1,
+        "latitude": 17.038923,
+        "longitude": -61.790573
+    },
+    {
+        "name": "Matthews",
+        "country": "Antigua and Barbuda",
+        "province": "Saint Paul",
+        "population": -1,
+        "latitude": 17.058156,
+        "longitude": -61.794931
+    },
+    {
+        "name": "Little Duers",
+        "country": "Antigua and Barbuda",
+        "province": "Saint Peter",
+        "population": -1,
+        "latitude": 17.069271,
+        "longitude": -61.747606
+    },
+    {
+        "name": "Hamiltons",
+        "country": "Antigua and Barbuda",
+        "province": "Saint John",
+        "population": -1,
+        "latitude": 17.05,
+        "longitude": -61.8333333
+    },
+    {
+        "name": "Crab Hill",
+        "country": "Antigua and Barbuda",
+        "province": "Saint Mary",
+        "population": -1,
+        "latitude": 17.034365,
+        "longitude": -61.891144
+    },
+    {
+        "name": "Bendals",
+        "country": "Antigua and Barbuda",
+        "province": "Saint John",
+        "population": -1,
+        "latitude": 17.06807,
+        "longitude": -61.836042
+    },
+    {
+        "name": "Barnes Hill",
+        "country": "Antigua and Barbuda",
+        "province": "Saint George",
+        "population": -1,
+        "latitude": 17.142272,
+        "longitude": -61.80788
+    },
+    {
+        "name": "Aberdeen",
+        "country": "Antigua and Barbuda",
+        "province": "Saint John",
+        "population": -1,
+        "latitude": 17.069944,
+        "longitude": -61.809772
+    },
+    {
+        "name": "Yorks",
+        "country": "Antigua and Barbuda",
+        "province": "Saint Mary",
+        "population": -1,
+        "latitude": 17.078974,
+        "longitude": -61.874971
+    },
+    {
+        "name": "Woods",
+        "country": "Antigua and Barbuda",
+        "province": "Saint John",
+        "population": -1,
+        "latitude": 17.135264,
+        "longitude": -61.825847
+    },
+    {
+        "name": "Willoughby",
+        "country": "Antigua and Barbuda",
+        "province": "Saint Philip",
+        "population": -1,
+        "latitude": 17.040515,
+        "longitude": -61.719944
+    },
+    {
+        "name": "Weatherills",
+        "country": "Antigua and Barbuda",
+        "province": "Saint John",
+        "population": -1,
+        "latitude": 17.165141,
+        "longitude": -61.835338
+    },
+    {
+        "name": "Vernons",
+        "country": "Antigua and Barbuda",
+        "province": "Saint Peter",
+        "population": -1,
+        "latitude": 17.09192,
+        "longitude": -61.771321
+    },
+    {
+        "name": "Tyrells",
+        "country": "Antigua and Barbuda",
+        "province": "Saint Paul",
+        "population": -1,
+        "latitude": 17.04828,
+        "longitude": -61.795164
+    },
+    {
+        "name": "Tramontania",
+        "country": "Antigua and Barbuda",
+        "province": "Saint Mary",
+        "population": -1,
+        "latitude": 17.025522,
+        "longitude": -61.837308
+    },
+    {
+        "name": "The Grove",
+        "country": "Antigua and Barbuda",
+        "province": "Saint George",
+        "population": -1,
+        "latitude": 17.1,
+        "longitude": -61.8
+    },
+    {
+        "name": "The Diamond",
+        "country": "Antigua and Barbuda",
+        "province": "Saint Peter",
+        "population": -1,
+        "latitude": 17.07759,
+        "longitude": -61.760474
+    },
+    {
+        "name": "The Brook",
+        "country": "Antigua and Barbuda",
+        "province": "Saint Philip",
+        "population": -1,
+        "latitude": 17.059724,
+        "longitude": -61.68061
+    },
+    {
+        "name": "Table Hill Gordon",
+        "country": "Antigua and Barbuda",
+        "province": "Saint Paul",
+        "population": -1,
+        "latitude": 17.043319,
+        "longitude": -61.779906
+    },
+    {
+        "name": "Sutherlands Development",
+        "country": "Antigua and Barbuda",
+        "province": "Saint John",
+        "population": -1,
+        "latitude": 17.122682,
+        "longitude": -61.829505
+    },
+    {
+        "name": "Sutherland",
+        "country": "Antigua and Barbuda",
+        "province": "Saint John",
+        "population": -1,
+        "latitude": 17.112412,
+        "longitude": -61.880068
+    },
+    {
+        "name": "Savannah",
+        "country": "Antigua and Barbuda",
+        "province": "Saint Paul",
+        "population": -1,
+        "latitude": 17.020828,
+        "longitude": -61.738713
+    },
+    {
+        "name": "Renfrew",
+        "country": "Antigua and Barbuda",
+        "province": "Saint John",
+        "population": -1,
+        "latitude": 17.090231,
+        "longitude": -61.810713
+    },
+    {
+        "name": "Red Hill",
+        "country": "Antigua and Barbuda",
+        "province": "Saint Paul",
+        "population": -1,
+        "latitude": 17.031113,
+        "longitude": -61.741596
+    },
+    {
+        "name": "Piccadilly",
+        "country": "Antigua and Barbuda",
+        "province": "Saint Paul",
+        "population": -1,
+        "latitude": 17.031474,
+        "longitude": -61.753115
+    },
+    {
+        "name": "Pattersons",
+        "country": "Antigua and Barbuda",
+        "province": "Saint Paul",
+        "population": -1,
+        "latitude": 17.024152,
+        "longitude": -61.78848
+    },
+    {
+        "name": "Parrys",
+        "country": "Antigua and Barbuda",
+        "province": "Saint Peter",
+        "population": -1,
+        "latitude": 17.073879,
+        "longitude": -61.764767
+    },
+    {
+        "name": "Paradise View",
+        "country": "Antigua and Barbuda",
+        "province": "Saint John",
+        "population": -1,
+        "latitude": 17.149534,
+        "longitude": -61.841609
+    },
+    {
+        "name": "Morris Loobys",
+        "country": "Antigua and Barbuda",
+        "province": "Saint Paul",
+        "population": -1,
+        "latitude": 17.049607,
+        "longitude": -61.758919
+    },
+    {
+        "name": "Montpelier",
+        "country": "Antigua and Barbuda",
+        "province": "Saint Philip",
+        "population": -1,
+        "latitude": 17.050868,
+        "longitude": -61.719121
+    },
+    {
+        "name": "Mill Reef Club",
+        "country": "Antigua and Barbuda",
+        "province": "Saint Philip",
+        "population": -1,
+        "latitude": 17.0333333,
+        "longitude": -61.6833333
+    },
+    {
+        "name": "Mannings",
+        "country": "Antigua and Barbuda",
+        "province": "Saint Philip",
+        "population": -1,
+        "latitude": 17.037786,
+        "longitude": -61.693801
+    },
+    {
+        "name": "Lyons",
+        "country": "Antigua and Barbuda",
+        "province": "Saint Philip",
+        "population": -1,
+        "latitude": 17.057541,
+        "longitude": -61.730025
+    },
+    {
+        "name": "Lower Lyons",
+        "country": "Antigua and Barbuda",
+        "province": "Saint Philip",
+        "population": -1,
+        "latitude": 17.044075,
+        "longitude": -61.736176
+    },
+    {
+        "name": "Long Lane",
+        "country": "Antigua and Barbuda",
+        "province": "Saint Philip",
+        "population": -1,
+        "latitude": 17.067345,
+        "longitude": -61.741997
+    },
+    {
+        "name": "John Hughes",
+        "country": "Antigua and Barbuda",
+        "province": "Saint Mary",
+        "population": -1,
+        "latitude": 17.043282,
+        "longitude": -61.822203
+    },
+    {
+        "name": "Herberts",
+        "country": "Antigua and Barbuda",
+        "province": "Saint John",
+        "population": -1,
+        "latitude": 17.094005,
+        "longitude": -61.814031
+    },
+    {
+        "name": "Harveys",
+        "country": "Antigua and Barbuda",
+        "province": "Saint Mary",
+        "population": -1,
+        "latitude": 17.0333333,
+        "longitude": -61.8666667
+    },
+    {
+        "name": "Gunthorpes",
+        "country": "Antigua and Barbuda",
+        "province": "Saint George",
+        "population": -1,
+        "latitude": 17.109749,
+        "longitude": -61.79989
+    },
+    {
+        "name": "Green Bay",
+        "country": "Antigua and Barbuda",
+        "province": "Saint John",
+        "population": -1,
+        "latitude": 17.114677,
+        "longitude": -61.848923
+    },
+    {
+        "name": "Grays",
+        "country": "Antigua and Barbuda",
+        "province": "Saint Philip",
+        "population": -1,
+        "latitude": 17.07853,
+        "longitude": -61.707212
+    },
+    {
+        "name": "Grants",
+        "country": "Antigua and Barbuda",
+        "province": "Saint Philip",
+        "population": -1,
+        "latitude": 17.0833333,
+        "longitude": -61.7166667
+    },
+    {
+        "name": "Golden Grove",
+        "country": "Antigua and Barbuda",
+        "province": "Saint John",
+        "population": -1,
+        "latitude": 17.08902959024737,
+        "longitude": -61.84684753417969
+    },
+    {
+        "name": "Glanvilles",
+        "country": "Antigua and Barbuda",
+        "province": "Saint Philip",
+        "population": -1,
+        "latitude": 17.085797,
+        "longitude": -61.725201
+    },
+    {
+        "name": "Gilberts",
+        "country": "Antigua and Barbuda",
+        "province": "Saint Peter",
+        "population": -1,
+        "latitude": 17.089049,
+        "longitude": -61.739033
+    },
+    {
+        "name": "Five Islands Village",
+        "country": "Antigua and Barbuda",
+        "province": "Saint John",
+        "population": -1,
+        "latitude": 17.11944,
+        "longitude": -61.88388
+    },
+    {
+        "name": "Fitches Creek",
+        "country": "Antigua and Barbuda",
+        "province": "Saint George",
+        "population": -1,
+        "latitude": 17.124193,
+        "longitude": -61.7949
+    },
+    {
+        "name": "Emanuel",
+        "country": "Antigua and Barbuda",
+        "province": "Saint John",
+        "population": -1,
+        "latitude": 17.072174,
+        "longitude": -61.837313
+    },
+    {
+        "name": "Ebenezer",
+        "country": "Antigua and Barbuda",
+        "province": "Saint Mary",
+        "population": -1,
+        "latitude": 17.082854,
+        "longitude": -61.858946
+    },
+    {
+        "name": "Dulcina",
+        "country": "Antigua and Barbuda",
+        "province": "Barbuda",
+        "population": -1,
+        "latitude": 17.593669,
+        "longitude": -61.826975
+    },
+    {
+        "name": "Delaps",
+        "country": "Antigua and Barbuda",
+        "province": "Saint Paul",
+        "population": -1,
+        "latitude": 17.06046,
+        "longitude": -61.751788
+    },
+    {
+        "name": "Crosbies",
+        "country": "Antigua and Barbuda",
+        "province": "Saint John",
+        "population": -1,
+        "latitude": 17.165695,
+        "longitude": -61.823666
+    },
+    {
+        "name": "Creekside",
+        "country": "Antigua and Barbuda",
+        "province": "Saint John",
+        "population": -1,
+        "latitude": 17.07902029472849,
+        "longitude": -61.85646057128906
+    },
+    {
+        "name": "Collins",
+        "country": "Antigua and Barbuda",
+        "province": "Saint Philip",
+        "population": -1,
+        "latitude": 17.076151,
+        "longitude": -61.733221
+    },
+    {
+        "name": "Coconut Hall",
+        "country": "Antigua and Barbuda",
+        "province": "Saint Peter",
+        "population": -1,
+        "latitude": 17.110055,
+        "longitude": -61.73462
+    },
+    {
+        "name": "Cochranes",
+        "country": "Antigua and Barbuda",
+        "province": "Saint Peter",
+        "population": -1,
+        "latitude": 17.083344,
+        "longitude": -61.766914
+    },
+    {
+        "name": "Cobbs Cross",
+        "country": "Antigua and Barbuda",
+        "province": "Saint Paul",
+        "population": -1,
+        "latitude": 17.024016,
+        "longitude": -61.765985
+    },
+    {
+        "name": "Clare Hall",
+        "country": "Antigua and Barbuda",
+        "province": "Saint John",
+        "population": -1,
+        "latitude": 17.1166667,
+        "longitude": -61.8166667
+    },
+    {
+        "name": "Christian Hill",
+        "country": "Antigua and Barbuda",
+        "province": "Saint Paul",
+        "population": -1,
+        "latitude": 17.035322,
+        "longitude": -61.751364
+    },
+    {
+        "name": "Cedar Hall",
+        "country": "Antigua and Barbuda",
+        "province": "Saint Mary",
+        "population": -1,
+        "latitude": 17.0773,
+        "longitude": -61.857629
+    },
+    {
+        "name": "Cassada Gardens",
+        "country": "Antigua and Barbuda",
+        "province": "Saint John",
+        "population": -1,
+        "latitude": 17.12824,
+        "longitude": -61.811479
+    },
+    {
+        "name": "Buckleys",
+        "country": "Antigua and Barbuda",
+        "province": "Saint John",
+        "population": -1,
+        "latitude": 17.072210384931697,
+        "longitude": -61.81337356567383
+    },
+    {
+        "name": "Branns Hamlet",
+        "country": "Antigua and Barbuda",
+        "province": "Saint John",
+        "population": -1,
+        "latitude": 17.103663,
+        "longitude": -61.836117
+    },
+    {
+        "name": "Boon House",
+        "country": "Antigua and Barbuda",
+        "province": "Saint John",
+        "population": -1,
+        "latitude": 17.1666667,
+        "longitude": -61.8333333
+    },
+    {
+        "name": "Blubber Valley",
+        "country": "Antigua and Barbuda",
+        "province": "Saint Mary",
+        "population": -1,
+        "latitude": 17.066515,
+        "longitude": -61.864186
+    },
+    {
+        "name": "Bishops",
+        "country": "Antigua and Barbuda",
+        "province": "Saint Mary",
+        "population": -1,
+        "latitude": 17.045229,
+        "longitude": -61.815569
+    },
+    {
+        "name": "Belmont",
+        "country": "Antigua and Barbuda",
+        "province": "Saint John",
+        "population": -1,
+        "latitude": 17.09964,
+        "longitude": -61.826123
+    },
+    {
+        "name": "Bellevue Heights",
+        "country": "Antigua and Barbuda",
+        "province": "Saint John",
+        "population": -1,
+        "latitude": 17.092205,
+        "longitude": -61.823021
+    },
+    {
+        "name": "Bats Cave",
+        "country": "Antigua and Barbuda",
+        "province": "Saint Paul",
+        "population": -1,
+        "latitude": 17.0166667,
+        "longitude": -61.75
+    },
+    {
+        "name": "Guadeloupe",
+        "country": "Antigua and Barbuda",
+        "province": "Saint Mary",
+        "population": -1,
+        "latitude": 16.995971,
+        "longitude": -62.067641
+    },
+    {
+        "name": "Freemans Village",
+        "country": "Antigua and Barbuda",
+        "province": "Saint Peter",
+        "population": -1,
+        "latitude": 17.080209952252,
+        "longitude": -61.7927312850952
+    },
+    {
+        "name": "Soldier",
+        "country": "Antigua and Barbuda",
+        "province": "Saint John",
+        "population": -1,
+        "latitude": 17.168587,
+        "longitude": -61.836185
+    },
+    {
+        "name": "Side Hill",
+        "country": "Antigua and Barbuda",
+        "province": "Saint John",
+        "population": -1,
+        "latitude": 17.118174,
+        "longitude": -61.86245
+    },
+    {
+        "name": "Roses",
+        "country": "Antigua and Barbuda",
+        "province": "Saint Mary",
+        "population": -1,
+        "latitude": 17.057351,
+        "longitude": -61.87432
+    },
+    {
+        "name": "Tottenham Park",
+        "country": "Antigua and Barbuda",
+        "province": "Saint Mary",
+        "population": -1,
+        "latitude": 17.061552,
+        "longitude": -61.872666
+    },
+    {
+        "name": "Willocks",
+        "country": "Antigua and Barbuda",
+        "province": "Saint Mary",
+        "population": -1,
+        "latitude": 17.048843,
+        "longitude": -61.87584
+    },
+    {
+        "name": "Friars Hill",
+        "country": "Antigua and Barbuda",
+        "province": "Saint John",
+        "population": -1,
+        "latitude": 17.146344,
+        "longitude": -61.834056
+    },
+    {
+        "name": "Black Rock",
+        "country": "Antigua and Barbuda",
+        "province": "Saint John",
+        "population": -1,
+        "latitude": 17.169118,
+        "longitude": -61.827412
+    },
+    {
+        "name": "Royals",
+        "country": "Antigua and Barbuda",
+        "province": "Saint John",
+        "population": -1,
+        "latitude": 17.163291,
+        "longitude": -61.810566
+    },
+    {
+        "name": "Weirs",
+        "country": "Antigua and Barbuda",
+        "province": "Saint George",
+        "population": -1,
+        "latitude": 17.116435,
+        "longitude": -61.790899
+    },
+    {
+        "name": "Twenty Hill",
+        "country": "Antigua and Barbuda",
+        "province": "Saint Peter",
+        "population": -1,
+        "latitude": 17.102358,
+        "longitude": -61.769778
+    },
+    {
+        "name": "Mount Joy",
+        "country": "Antigua and Barbuda",
+        "province": "Saint Peter",
+        "population": -1,
+        "latitude": 17.087403,
+        "longitude": -61.77274
+    },
+    {
+        "name": "Elliots",
+        "country": "Antigua and Barbuda",
+        "province": "Saint Philip",
+        "population": -1,
+        "latitude": 17.08088,
+        "longitude": -61.737503
+    },
+    {
+        "name": "Bodkins",
+        "country": "Antigua and Barbuda",
+        "province": "Saint Paul",
+        "population": -1,
+        "latitude": 17.049471,
+        "longitude": -61.765673
+    },
+    {
+        "name": "Richmond",
+        "country": "Antigua and Barbuda",
+        "province": "Saint Paul",
+        "population": -1,
+        "latitude": 17.039373,
+        "longitude": -61.801548
+    },
+    {
+        "name": "Green Hill",
+        "country": "Antigua and Barbuda",
+        "province": "Saint Paul",
+        "population": -1,
+        "latitude": 17.038209,
+        "longitude": -61.78555
+    },
+    {
+        "name": "Guinea Bush",
+        "country": "Antigua and Barbuda",
+        "province": "Saint Paul",
+        "population": -1,
+        "latitude": 17.031227,
+        "longitude": -61.771853
+    },
+    {
+        "name": "Browns",
+        "country": "Antigua and Barbuda",
+        "province": "Saint Philip",
+        "population": -1,
+        "latitude": 17.067807,
+        "longitude": -61.698122
+    },
+    {
+        "name": "Follys",
+        "country": "Antigua and Barbuda",
+        "province": "Saint Paul",
+        "population": -1,
+        "latitude": 17.051051,
+        "longitude": -61.808822
+    },
+    {
+        "name": "Martin Hill",
+        "country": "Antigua and Barbuda",
+        "province": "Saint John",
+        "population": -1,
+        "latitude": 17.072911,
+        "longitude": -61.817037
+    },
+    {
+        "name": "Yepton",
+        "country": "Antigua and Barbuda",
+        "province": "Saint John",
+        "population": -1,
+        "latitude": 17.124925,
+        "longitude": -61.872352
+    },
+    {
+        "name": "Jonas",
+        "country": "Antigua and Barbuda",
+        "province": "Saint Peter",
+        "population": -1,
+        "latitude": 17.074132,
+        "longitude": -61.790863
+    },
+    {
+        "name": "Bellevue",
+        "country": "Antigua and Barbuda",
+        "province": "Saint George",
+        "population": -1,
+        "latitude": 17.080041,
+        "longitude": -61.793727
+    },
+    {
+        "name": "Cedar Hill",
+        "country": "Antigua and Barbuda",
+        "province": "Saint Peter",
+        "population": -1,
+        "latitude": 17.105055,
+        "longitude": -61.780666
+    },
+    {
+        "name": "Hattons",
+        "country": "Antigua and Barbuda",
+        "province": "Saint John",
+        "population": -1,
+        "latitude": 17.116545,
+        "longitude": -61.853024
+    },
+    {
+        "name": "Picarts",
+        "country": "Antigua and Barbuda",
+        "province": "Saint Mary",
+        "population": -1,
+        "latitude": 17.042139,
+        "longitude": -61.887533
+    },
+    {
+        "name": "Willis Freemans",
+        "country": "Antigua and Barbuda",
+        "province": "Saint Paul",
+        "population": -1,
+        "latitude": 17.049536,
+        "longitude": -61.778966
+    },
+    {
+        "name": "Tomlinson",
+        "country": "Antigua and Barbuda",
+        "province": "Saint John",
+        "population": -1,
+        "latitude": 17.113269,
+        "longitude": -61.808079
+    },
+    {
+        "name": "The Garden",
+        "country": "Antigua and Barbuda",
+        "province": "Saint Peter",
+        "population": -1,
+        "latitude": 17.071111,
+        "longitude": -61.743418
+    },
+    {
+        "name": "The Caves",
+        "country": "Antigua and Barbuda",
+        "province": "Barbuda",
+        "population": -1,
+        "latitude": 17.68581,
+        "longitude": -61.787836
+    },
+    {
+        "name": "Spencers",
+        "country": "Antigua and Barbuda",
+        "province": "Saint Philip",
+        "population": -1,
+        "latitude": 17.093912,
+        "longitude": -61.703891
+    },
+    {
+        "name": "Sign",
+        "country": "Antigua and Barbuda",
+        "province": "Saint Philip",
+        "population": -1,
+        "latitude": 17.090964,
+        "longitude": -61.711791
+    },
+    {
+        "name": "Sandersons",
+        "country": "Antigua and Barbuda",
+        "province": "Saint Peter",
+        "population": -1,
+        "latitude": 17.075273,
+        "longitude": -61.769909
+    },
+    {
+        "name": "Rooms",
+        "country": "Antigua and Barbuda",
+        "province": "Saint Philip",
+        "population": -1,
+        "latitude": 17.099709,
+        "longitude": -61.69749
+    },
+    {
+        "name": "Orange Valley Mill",
+        "country": "Antigua and Barbuda",
+        "province": "Saint Mary",
+        "population": -1,
+        "latitude": 17.0333333,
+        "longitude": -61.8666667
+    },
+    {
+        "name": "Olivers",
+        "country": "Antigua and Barbuda",
+        "province": "Saint John",
+        "population": -1,
+        "latitude": 17.07713,
+        "longitude": -61.815515
+    },
+    {
+        "name": "North Sound",
+        "country": "Antigua and Barbuda",
+        "province": "Saint George",
+        "population": -1,
+        "latitude": 17.095629,
+        "longitude": -61.783659
+    },
+    {
+        "name": "New Division",
+        "country": "Antigua and Barbuda",
+        "province": "Saint Mary",
+        "population": -1,
+        "latitude": 17.089288,
+        "longitude": -61.877111
+    },
+    {
+        "name": "Mercers Creek",
+        "country": "Antigua and Barbuda",
+        "province": "Saint Peter",
+        "population": -1,
+        "latitude": 17.093762,
+        "longitude": -61.736894
+    },
+    {
+        "name": "Mayers",
+        "country": "Antigua and Barbuda",
+        "province": "Saint Philip",
+        "population": -1,
+        "latitude": 17.086804,
+        "longitude": -61.713736
+    },
+    {
+        "name": "Lightfoots",
+        "country": "Antigua and Barbuda",
+        "province": "Saint George",
+        "population": -1,
+        "latitude": 17.100883,
+        "longitude": -61.802743
+    },
+    {
+        "name": "Lavingtons",
+        "country": "Antigua and Barbuda",
+        "province": "Saint Philip",
+        "population": -1,
+        "latitude": 17.06087,
+        "longitude": -61.738831
+    },
+    {
+        "name": "Gaynors",
+        "country": "Antigua and Barbuda",
+        "province": "Saint Philip",
+        "population": -1,
+        "latitude": 17.067393,
+        "longitude": -61.718599
+    },
+    {
+        "name": "Gambles",
+        "country": "Antigua and Barbuda",
+        "province": "Saint John",
+        "population": -1,
+        "latitude": 17.12735,
+        "longitude": -61.833123
+    },
+    {
+        "name": "Dunnings",
+        "country": "Antigua and Barbuda",
+        "province": "Saint Mary",
+        "population": -1,
+        "latitude": 17.071537,
+        "longitude": -61.854411
+    },
+    {
+        "name": "Denfields",
+        "country": "Antigua and Barbuda",
+        "province": "Saint John",
+        "population": -1,
+        "latitude": 17.110937,
+        "longitude": -61.856669
+    },
+    {
+        "name": "Dark Wood",
+        "country": "Antigua and Barbuda",
+        "province": "Saint Mary",
+        "population": -1,
+        "latitude": 17.040525,
+        "longitude": -61.889597
+    },
+    {
+        "name": "Cooks",
+        "country": "Antigua and Barbuda",
+        "province": "Saint John",
+        "population": -1,
+        "latitude": 17.104985,
+        "longitude": -61.854289
+    },
+    {
+        "name": "Claremont",
+        "country": "Antigua and Barbuda",
+        "province": "Saint Mary",
+        "population": -1,
+        "latitude": 17.02527,
+        "longitude": -61.83586
+    },
+    {
+        "name": "Cedar Valley Mill",
+        "country": "Antigua and Barbuda",
+        "province": "Saint John",
+        "population": -1,
+        "latitude": 17.1333333,
+        "longitude": -61.8
+    },
+    {
+        "name": "Cades Bay",
+        "country": "Antigua and Barbuda",
+        "province": "Saint Mary",
+        "population": -1,
+        "latitude": 17.02581,
+        "longitude": -61.86446
+    },
+    {
+        "name": "Burkes",
+        "country": "Antigua and Barbuda",
+        "province": "Saint Paul",
+        "population": -1,
+        "latitude": 17.060109,
+        "longitude": -61.783975
+    },
+    {
+        "name": "Big Duers",
+        "country": "Antigua and Barbuda",
+        "province": "Saint Peter",
+        "population": -1,
+        "latitude": 17.070752,
+        "longitude": -61.7633
+    },
+    {
+        "name": "Nut Grove",
+        "country": "Antigua and Barbuda",
+        "province": "Saint John",
+        "population": -1,
+        "latitude": 17.105722,
+        "longitude": -61.844584
+    },
+    {
+        "name": "Grays Farm",
+        "country": "Antigua and Barbuda",
+        "province": "Saint John",
+        "population": -1,
+        "latitude": 17.110956,
+        "longitude": -61.847692
+    },
+    {
+        "name": "Kentish",
+        "country": "Antigua and Barbuda",
+        "province": "Saint John",
+        "population": -1,
+        "latitude": 17.112264,
+        "longitude": -61.842519
+    },
+    {
+        "name": "Ottos New Town",
+        "country": "Antigua and Barbuda",
+        "province": "Saint John",
+        "population": -1,
+        "latitude": 17.112591,
+        "longitude": -61.837838
+    },
+    {
+        "name": "Point",
+        "country": "Antigua and Barbuda",
+        "province": "Saint John",
+        "population": -1,
+        "latitude": 17.124551,
+        "longitude": -61.847344
+    },
+    {
+        "name": "Gambles Terrace",
+        "country": "Antigua and Barbuda",
+        "province": "Saint John",
+        "population": -1,
+        "latitude": 17.128435,
+        "longitude": -61.842049
+    },
+    {
+        "name": "Parham Hill",
+        "country": "Antigua and Barbuda",
+        "province": "Saint Peter",
+        "population": -1,
+        "latitude": 17.098663,
+        "longitude": -61.76522
+    },
+    {
+        "name": "Brooks",
+        "country": "Antigua and Barbuda",
+        "province": "Saint Paul",
+        "population": -1,
+        "latitude": 17.041951,
+        "longitude": -61.781257
+    },
+    {
+        "name": "The Ordnance Land",
+        "country": "Antigua and Barbuda",
+        "province": "Saint Paul",
+        "population": -1,
+        "latitude": 17.010418,
+        "longitude": -61.765824
+    },
+    {
+        "name": "Villa",
+        "country": "Antigua and Barbuda",
+        "province": "Saint John",
+        "population": -1,
+        "latitude": 17.133481,
+        "longitude": -61.849706
+    },
+    {
+        "name": "Belvedere",
+        "country": "Antigua and Barbuda",
+        "province": "Saint John",
+        "population": -1,
+        "latitude": 17.067725,
+        "longitude": -61.838672
+    },
+    {
+        "name": "Potters Buff",
+        "country": "Antigua and Barbuda",
+        "province": "Saint John",
+        "population": -1,
+        "latitude": 17.10366,
+        "longitude": -61.812974
+    },
+    {
+        "name": "Skerretts",
+        "country": "Antigua and Barbuda",
+        "province": "Saint John",
+        "population": -1,
+        "latitude": 17.122297,
+        "longitude": -61.823815
+    },
+    {
+        "name": "Crabs Peninsula",
+        "country": "Antigua and Barbuda",
+        "province": "Saint Peter",
+        "population": -1,
+        "latitude": 17.124229,
+        "longitude": -61.757252
+    },
+    {
+        "name": "Union",
+        "country": "Antigua and Barbuda",
+        "province": "Saint John",
+        "population": -1,
+        "latitude": 17.113836,
+        "longitude": -61.858056
+    },
+    {
+        "name": "Halls",
+        "country": "Antigua and Barbuda",
+        "province": "Saint Mary",
+        "population": -1,
+        "latitude": 17.091574,
+        "longitude": -61.858013
+    },
+    {
+        "name": "James Corner",
+        "country": "Antigua and Barbuda",
+        "province": "Barbuda",
+        "population": -1,
+        "latitude": 17.642615,
+        "longitude": -61.816857
+    },
+    {
+        "name": "Saint Helena",
+        "country": "Antigua and Barbuda",
+        "province": "Saint Paul",
+        "population": -1,
+        "latitude": 17.0072,
+        "longitude": -61.762246
+    }
+]

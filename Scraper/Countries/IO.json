@@ -1,0 +1,42 @@
+[
+    {
+        "name": "Île Lubine",
+        "country": "British Indian Ocean Territory",
+        "province": "British Indian Ocean Territory",
+        "population": 15,
+        "latitude": -6.66887,
+        "longitude": 71.33406
+    },
+    {
+        "name": "Minni Minni",
+        "country": "British Indian Ocean Territory",
+        "province": "British Indian Ocean Territory",
+        "population": -1,
+        "latitude": -7.316926,
+        "longitude": 72.482918
+    },
+    {
+        "name": "Downtown",
+        "country": "British Indian Ocean Territory",
+        "province": "British Indian Ocean Territory",
+        "population": -1,
+        "latitude": -7.262287,
+        "longitude": 72.376758
+    },
+    {
+        "name": "Carcasse",
+        "country": "British Indian Ocean Territory",
+        "province": "British Indian Ocean Territory",
+        "population": -1,
+        "latitude": -7.374491,
+        "longitude": 72.481325
+    },
+    {
+        "name": "East Point Settlement",
+        "country": "British Indian Ocean Territory",
+        "province": "British Indian Ocean Territory",
+        "population": -1,
+        "latitude": -7.3529,
+        "longitude": 72.467769
+    }
+]

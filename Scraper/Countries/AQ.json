@@ -1,0 +1,42 @@
+[
+    {
+        "name": "McMurdo Station",
+        "country": "Antarctica",
+        "province": "Antarctica",
+        "population": 1258,
+        "latitude": -77.846323,
+        "longitude": 166.668235
+    },
+    {
+        "name": "The Stars Village",
+        "country": "Antarctica",
+        "province": "Antarctica",
+        "population": 150,
+        "latitude": -62.20001,
+        "longitude": -58.96109
+    },
+    {
+        "name": "Amundsen–Scott South Pole Station",
+        "country": "Antarctica",
+        "province": "Antarctica",
+        "population": 150,
+        "latitude": -90,
+        "longitude": 0
+    },
+    {
+        "name": "Rothera",
+        "country": "Antarctica",
+        "province": "Antarctica",
+        "population": 100,
+        "latitude": -67.568417,
+        "longitude": -68.125796
+    },
+    {
+        "name": "Bernardo O'Higgins",
+        "country": "Antarctica",
+        "province": "Antarctica",
+        "population": 44,
+        "latitude": -63.32090205041218,
+        "longitude": -57.899558544158936
+    }
+]

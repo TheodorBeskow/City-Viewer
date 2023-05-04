@@ -1,0 +1,2010 @@
+[
+    {
+        "name": "Thimphu",
+        "country": "Bhutan",
+        "province": "Thimphu District",
+        "population": 98676,
+        "latitude": 27.46608895996089,
+        "longitude": 89.64191436767578
+    },
+    {
+        "name": "Punakha",
+        "country": "Bhutan",
+        "province": "Punakha",
+        "population": 21500,
+        "latitude": 27.591370702413197,
+        "longitude": 89.87743377685547
+    },
+    {
+        "name": "Pemagatshel",
+        "country": "Bhutan",
+        "province": "Pemagatshel",
+        "population": 13864,
+        "latitude": 27.037951,
+        "longitude": 91.403053
+    },
+    {
+        "name": "Sarpang",
+        "country": "Bhutan",
+        "province": "Sarpang District",
+        "population": 10416,
+        "latitude": 26.86395,
+        "longitude": 90.267448
+    },
+    {
+        "name": "Phuntsholing",
+        "country": "Bhutan",
+        "province": "Chukha",
+        "population": 27658,
+        "latitude": 26.85164162108547,
+        "longitude": 89.38837051391602
+    },
+    {
+        "name": "Paro",
+        "country": "Bhutan",
+        "province": "Paro",
+        "population": 11448,
+        "latitude": 27.430499,
+        "longitude": 89.413336
+    },
+    {
+        "name": "Jakar",
+        "country": "Bhutan",
+        "province": "Bumthang District",
+        "population": 6243,
+        "latitude": 27.549182,
+        "longitude": 90.752499
+    },
+    {
+        "name": "Samtse",
+        "country": "Bhutan",
+        "province": "Samtse District",
+        "population": 5396,
+        "latitude": 26.899032,
+        "longitude": 89.099507
+    },
+    {
+        "name": "Samdrup Jongkhar",
+        "country": "Bhutan",
+        "province": "Samdrup Jongkhar",
+        "population": 9325,
+        "latitude": 26.800687,
+        "longitude": 91.505191
+    },
+    {
+        "name": "Wangdue Phodrang",
+        "country": "Bhutan",
+        "province": "Wangdi Phodrang",
+        "population": 8954,
+        "latitude": 27.486154,
+        "longitude": 89.899149
+    },
+    {
+        "name": "Trongsa",
+        "country": "Bhutan",
+        "province": "Tongsa",
+        "population": 2805,
+        "latitude": 27.502599,
+        "longitude": 90.507157
+    },
+    {
+        "name": "Trashi Yangtse",
+        "country": "Bhutan",
+        "province": "Trashi Yangste",
+        "population": 3025,
+        "latitude": 27.611603,
+        "longitude": 91.498003
+    },
+    {
+        "name": "Trashigang",
+        "country": "Bhutan",
+        "province": "Trashigang District",
+        "population": 872,
+        "latitude": 27.333097,
+        "longitude": 91.554243
+    },
+    {
+        "name": "Daga",
+        "country": "Bhutan",
+        "province": "Dagana",
+        "population": 2243,
+        "latitude": 27.075291,
+        "longitude": 89.876876
+    },
+    {
+        "name": "Mongar",
+        "country": "Bhutan",
+        "province": "Mongar",
+        "population": 2969,
+        "latitude": 27.274714,
+        "longitude": 91.239631
+    },
+    {
+        "name": "Ha",
+        "country": "Bhutan",
+        "province": "Haa",
+        "population": 1449,
+        "latitude": 27.387467766049838,
+        "longitude": 89.2807388305664
+    },
+    {
+        "name": "Tsirang",
+        "country": "Bhutan",
+        "province": "Tsirang District",
+        "population": 22376,
+        "latitude": 27.021895,
+        "longitude": 90.122909
+    },
+    {
+        "name": "Tsimasham",
+        "country": "Bhutan",
+        "province": "Chukha",
+        "population": 2855,
+        "latitude": 27.098903,
+        "longitude": 89.536042
+    },
+    {
+        "name": "Panbang",
+        "country": "Bhutan",
+        "province": "Zhemgang District",
+        "population": 1360,
+        "latitude": 26.8666667,
+        "longitude": 90.9833333
+    },
+    {
+        "name": "Laya",
+        "country": "Bhutan",
+        "province": "Gasa",
+        "population": 2000,
+        "latitude": 28.0613,
+        "longitude": 89.6826
+    },
+    {
+        "name": "Tashi Chho Dzong",
+        "country": "Bhutan",
+        "province": "",
+        "population": -1,
+        "latitude": 27.4833333,
+        "longitude": 89.6166667
+    },
+    {
+        "name": "Shemgang",
+        "country": "Bhutan",
+        "province": "Zhemgang District",
+        "population": 852,
+        "latitude": 27.216892,
+        "longitude": 90.657935
+    },
+    {
+        "name": "Pajo",
+        "country": "Bhutan",
+        "province": "Punakha",
+        "population": 3032,
+        "latitude": 27.5333333,
+        "longitude": 89.8833333
+    },
+    {
+        "name": "Lhuentse",
+        "country": "Bhutan",
+        "province": "Lhuntse",
+        "population": 100,
+        "latitude": 27.66787,
+        "longitude": 91.183927
+    },
+    {
+        "name": "Gelephu",
+        "country": "Bhutan",
+        "province": "Sarpang District",
+        "population": -1,
+        "latitude": 26.86833403270843,
+        "longitude": 90.4877758026123
+    },
+    {
+        "name": "Daphu",
+        "country": "Bhutan",
+        "province": "Chukha",
+        "population": 1666,
+        "latitude": 26.9666667,
+        "longitude": 89.3833333
+    },
+    {
+        "name": "Kurjey",
+        "country": "Bhutan",
+        "province": "Bumthang District",
+        "population": -1,
+        "latitude": 27.6166667,
+        "longitude": 90.7
+    },
+    {
+        "name": "Nangnang",
+        "country": "Bhutan",
+        "province": "Bumthang District",
+        "population": -1,
+        "latitude": 27.6,
+        "longitude": 90.8833333
+    },
+    {
+        "name": "Nganglam",
+        "country": "Bhutan",
+        "province": "Samdrup Jongkhar",
+        "population": 707,
+        "latitude": 26.7833333,
+        "longitude": 91.25
+    },
+    {
+        "name": "Chengmari",
+        "country": "Bhutan",
+        "province": "Samtse District",
+        "population": -1,
+        "latitude": 26.9166667,
+        "longitude": 89.0333333
+    },
+    {
+        "name": "Dorokha",
+        "country": "Bhutan",
+        "province": "Samtse District",
+        "population": -1,
+        "latitude": 27.0166667,
+        "longitude": 89.2166667
+    },
+    {
+        "name": "Sibsu",
+        "country": "Bhutan",
+        "province": "Dagana",
+        "population": -1,
+        "latitude": 26.9972222,
+        "longitude": 88.9
+    },
+    {
+        "name": "Damphu",
+        "country": "Bhutan",
+        "province": "Tsirang District",
+        "population": -1,
+        "latitude": 27.0166667,
+        "longitude": 90.1
+    },
+    {
+        "name": "Dagapela",
+        "country": "Bhutan",
+        "province": "Tsirang District",
+        "population": -1,
+        "latitude": 26.9333333,
+        "longitude": 89.95
+    },
+    {
+        "name": "Thrimshing",
+        "country": "Bhutan",
+        "province": "Trashigang District",
+        "population": -1,
+        "latitude": 27.1333333,
+        "longitude": 91.6166667
+    },
+    {
+        "name": "Wamrong",
+        "country": "Bhutan",
+        "province": "Trashigang District",
+        "population": 416,
+        "latitude": 27.0666667,
+        "longitude": 91.5666667
+    },
+    {
+        "name": "Tseshinang",
+        "country": "Bhutan",
+        "province": "Wangdi Phodrang",
+        "population": -1,
+        "latitude": 27.75,
+        "longitude": 90.0666667
+    },
+    {
+        "name": "Drugyel Dzong",
+        "country": "Bhutan",
+        "province": "Paro",
+        "population": -1,
+        "latitude": 27.5,
+        "longitude": 89.3333333
+    },
+    {
+        "name": "Damthang",
+        "country": "Bhutan",
+        "province": "Haa",
+        "population": -1,
+        "latitude": 27.4166667,
+        "longitude": 89.35
+    },
+    {
+        "name": "Tshalunang",
+        "country": "Bhutan",
+        "province": "Paro",
+        "population": -1,
+        "latitude": 27.468828,
+        "longitude": 89.522567
+    },
+    {
+        "name": "Atsho Chhubar",
+        "country": "Bhutan",
+        "province": "Paro",
+        "population": -1,
+        "latitude": 27.4833333,
+        "longitude": 89.4
+    },
+    {
+        "name": "Daifam",
+        "country": "Bhutan",
+        "province": "Samdrup Jongkhar",
+        "population": 662,
+        "latitude": 26.9,
+        "longitude": 92.1
+    },
+    {
+        "name": "Bhangtar",
+        "country": "Bhutan",
+        "province": "Samdrup Jongkhar",
+        "population": 656,
+        "latitude": 26.8166667,
+        "longitude": 91.7166667
+    },
+    {
+        "name": "Lunana",
+        "country": "Bhutan",
+        "province": "Punakha",
+        "population": -1,
+        "latitude": 28.299888,
+        "longitude": 90.232285
+    },
+    {
+        "name": "Yuwak",
+        "country": "Bhutan",
+        "province": "",
+        "population": -1,
+        "latitude": 27.5166667,
+        "longitude": 89.8666667
+    },
+    {
+        "name": "Yālang",
+        "country": "Bhutan",
+        "province": "",
+        "population": -1,
+        "latitude": 27.4333333,
+        "longitude": 91.6333333
+    },
+    {
+        "name": "Wangchukling",
+        "country": "Bhutan",
+        "province": "",
+        "population": -1,
+        "latitude": 27.55,
+        "longitude": 90.7333333
+    },
+    {
+        "name": "Usak",
+        "country": "Bhutan",
+        "province": "",
+        "population": -1,
+        "latitude": 27.25,
+        "longitude": 89.7666667
+    },
+    {
+        "name": "Ura",
+        "country": "Bhutan",
+        "province": "Bumthang District",
+        "population": -1,
+        "latitude": 27.4166667,
+        "longitude": 90.9166667
+    },
+    {
+        "name": "Tse Kang",
+        "country": "Bhutan",
+        "province": "",
+        "population": -1,
+        "latitude": 27.75,
+        "longitude": 91.2333333
+    },
+    {
+        "name": "Tosumani",
+        "country": "Bhutan",
+        "province": "",
+        "population": -1,
+        "latitude": 27.92727,
+        "longitude": 91.320363
+    },
+    {
+        "name": "Tormoshangsa",
+        "country": "Bhutan",
+        "province": "Lhuntse",
+        "population": -1,
+        "latitude": 27.4833333,
+        "longitude": 91.1
+    },
+    {
+        "name": "Tongla Kenga",
+        "country": "Bhutan",
+        "province": "",
+        "population": -1,
+        "latitude": 27.1333333,
+        "longitude": 91.2166667
+    },
+    {
+        "name": "Tobrang",
+        "country": "Bhutan",
+        "province": "Lhuntse",
+        "population": -1,
+        "latitude": 27.7166667,
+        "longitude": 91.5
+    },
+    {
+        "name": "Tima",
+        "country": "Bhutan",
+        "province": "",
+        "population": -1,
+        "latitude": 27.1666667,
+        "longitude": 89.0333333
+    },
+    {
+        "name": "Khenpa Dzong",
+        "country": "Bhutan",
+        "province": "Lhuntse",
+        "population": -1,
+        "latitude": 27.8166667,
+        "longitude": 91.0833333
+    },
+    {
+        "name": "Thumgaon",
+        "country": "Bhutan",
+        "province": "",
+        "population": -1,
+        "latitude": 26.9833333,
+        "longitude": 89.9666667
+    },
+    {
+        "name": "Thebong",
+        "country": "Bhutan",
+        "province": "",
+        "population": -1,
+        "latitude": 27.2666667,
+        "longitude": 91.2666667
+    },
+    {
+        "name": "Taripe",
+        "country": "Bhutan",
+        "province": "",
+        "population": -1,
+        "latitude": 27.736712,
+        "longitude": 91.426721
+    },
+    {
+        "name": "Tamji",
+        "country": "Bhutan",
+        "province": "",
+        "population": -1,
+        "latitude": 27.8,
+        "longitude": 89.6333333
+    },
+    {
+        "name": "Tāla",
+        "country": "Bhutan",
+        "province": "",
+        "population": -1,
+        "latitude": 26.8666667,
+        "longitude": 89.5666667
+    },
+    {
+        "name": "Sufali",
+        "country": "Bhutan",
+        "province": "",
+        "population": -1,
+        "latitude": 26.8666667,
+        "longitude": 90.9833333
+    },
+    {
+        "name": "Suchha",
+        "country": "Bhutan",
+        "province": "",
+        "population": -1,
+        "latitude": 27.2333333,
+        "longitude": 89.45
+    },
+    {
+        "name": "Sangbay",
+        "country": "Bhutan",
+        "province": "Haa",
+        "population": -1,
+        "latitude": 27.1666667,
+        "longitude": 89.0833333
+    },
+    {
+        "name": "Singye Dzong",
+        "country": "Bhutan",
+        "province": "Lhuntse",
+        "population": -1,
+        "latitude": 27.9166667,
+        "longitude": 91.35
+    },
+    {
+        "name": "Shuri",
+        "country": "Bhutan",
+        "province": "",
+        "population": -1,
+        "latitude": 27.5,
+        "longitude": 90.75
+    },
+    {
+        "name": "Shongar Dzong",
+        "country": "Bhutan",
+        "province": "Mongar",
+        "population": -1,
+        "latitude": 27.25,
+        "longitude": 91.0833333
+    },
+    {
+        "name": "Shodug",
+        "country": "Bhutan",
+        "province": "",
+        "population": -1,
+        "latitude": 27.7666667,
+        "longitude": 89.45
+    },
+    {
+        "name": "Shingkarap",
+        "country": "Bhutan",
+        "province": "",
+        "population": -1,
+        "latitude": 27.6166667,
+        "longitude": 89.2666667
+    },
+    {
+        "name": "Shingbe",
+        "country": "Bhutan",
+        "province": "",
+        "population": -1,
+        "latitude": 27.9333333,
+        "longitude": 91.6166667
+    },
+    {
+        "name": "Sharithang",
+        "country": "Bhutan",
+        "province": "",
+        "population": -1,
+        "latitude": 27.4166667,
+        "longitude": 89.0166667
+    },
+    {
+        "name": "Shapang",
+        "country": "Bhutan",
+        "province": "",
+        "population": -1,
+        "latitude": 27.65,
+        "longitude": 91.4666667
+    },
+    {
+        "name": "Shali",
+        "country": "Bhutan",
+        "province": "",
+        "population": -1,
+        "latitude": 27.4833333,
+        "longitude": 91.5666667
+    },
+    {
+        "name": "Shabling",
+        "country": "Bhutan",
+        "province": "",
+        "population": -1,
+        "latitude": 27.7333333,
+        "longitude": 91.1166667
+    },
+    {
+        "name": "Sengor",
+        "country": "Bhutan",
+        "province": "",
+        "population": -1,
+        "latitude": 27.3666667,
+        "longitude": 91.0166667
+    },
+    {
+        "name": "Sawang",
+        "country": "Bhutan",
+        "province": "",
+        "population": -1,
+        "latitude": 27.789005,
+        "longitude": 91.29466
+    },
+    {
+        "name": "Sassi",
+        "country": "Bhutan",
+        "province": "",
+        "population": -1,
+        "latitude": 27.1333333,
+        "longitude": 91.4333333
+    },
+    {
+        "name": "Sasoka",
+        "country": "Bhutan",
+        "province": "",
+        "population": -1,
+        "latitude": 27.75,
+        "longitude": 90.8666667
+    },
+    {
+        "name": "Sangkari",
+        "country": "Bhutan",
+        "province": "",
+        "population": -1,
+        "latitude": 27.3,
+        "longitude": 89.3166667
+    },
+    {
+        "name": "Sana",
+        "country": "Bhutan",
+        "province": "",
+        "population": -1,
+        "latitude": 27.5833333,
+        "longitude": 91.3833333
+    },
+    {
+        "name": "Samtengang",
+        "country": "Bhutan",
+        "province": "",
+        "population": -1,
+        "latitude": 27.5333333,
+        "longitude": 90
+    },
+    {
+        "name": "Sakteng",
+        "country": "Bhutan",
+        "province": "Trashigang District",
+        "population": -1,
+        "latitude": 27.3833333,
+        "longitude": 91.8666667
+    },
+    {
+        "name": "Saidu",
+        "country": "Bhutan",
+        "province": "",
+        "population": -1,
+        "latitude": 27.8333333,
+        "longitude": 90.9333333
+    },
+    {
+        "name": "Rungzyung",
+        "country": "Bhutan",
+        "province": "",
+        "population": -1,
+        "latitude": 27.35,
+        "longitude": 91.6666667
+    },
+    {
+        "name": "Ritang",
+        "country": "Bhutan",
+        "province": "",
+        "population": -1,
+        "latitude": 27.55,
+        "longitude": 90.1666667
+    },
+    {
+        "name": "Rife",
+        "country": "Bhutan",
+        "province": "",
+        "population": -1,
+        "latitude": 27.8833333,
+        "longitude": 90.5166667
+    },
+    {
+        "name": "Raga",
+        "country": "Bhutan",
+        "province": "",
+        "population": -1,
+        "latitude": 27.3,
+        "longitude": 89.5333333
+    },
+    {
+        "name": "Rading",
+        "country": "Bhutan",
+        "province": "",
+        "population": -1,
+        "latitude": 26.9666667,
+        "longitude": 91.4666667
+    },
+    {
+        "name": "Pinsoperi",
+        "country": "Bhutan",
+        "province": "",
+        "population": -1,
+        "latitude": 27.1166667,
+        "longitude": 89.95
+    },
+    {
+        "name": "Pimi",
+        "country": "Bhutan",
+        "province": "",
+        "population": -1,
+        "latitude": 27.5666667,
+        "longitude": 90.9833333
+    },
+    {
+        "name": "Phisugaon",
+        "country": "Bhutan",
+        "province": "",
+        "population": -1,
+        "latitude": 26.753692,
+        "longitude": 90.110098
+    },
+    {
+        "name": "Pachu",
+        "country": "Bhutan",
+        "province": "",
+        "population": -1,
+        "latitude": 26.9,
+        "longitude": 89.35
+    },
+    {
+        "name": "Ningsang La",
+        "country": "Bhutan",
+        "province": "",
+        "population": -1,
+        "latitude": 27.1833333,
+        "longitude": 91.8
+    },
+    {
+        "name": "Nimgong",
+        "country": "Bhutan",
+        "province": "",
+        "population": -1,
+        "latitude": 27.208392,
+        "longitude": 90.938769
+    },
+    {
+        "name": "Ngālangkang",
+        "country": "Bhutan",
+        "province": "",
+        "population": -1,
+        "latitude": 27.45,
+        "longitude": 91.583333
+    },
+    {
+        "name": "Naspe",
+        "country": "Bhutan",
+        "province": "",
+        "population": -1,
+        "latitude": 27.6833333,
+        "longitude": 90.7166667
+    },
+    {
+        "name": "Naktsang",
+        "country": "Bhutan",
+        "province": "",
+        "population": -1,
+        "latitude": 27.3833333,
+        "longitude": 89.2666667
+    },
+    {
+        "name": "Monka",
+        "country": "Bhutan",
+        "province": "",
+        "population": -1,
+        "latitude": 27.3833333,
+        "longitude": 91.1666667
+    },
+    {
+        "name": "Māogaon",
+        "country": "Bhutan",
+        "province": "",
+        "population": -1,
+        "latitude": 27.025875,
+        "longitude": 90.401784
+    },
+    {
+        "name": "Manikyangsa",
+        "country": "Bhutan",
+        "province": "",
+        "population": -1,
+        "latitude": 27.5333333,
+        "longitude": 90.1
+    },
+    {
+        "name": "Lung Chen",
+        "country": "Bhutan",
+        "province": "",
+        "population": -1,
+        "latitude": 27.6333333,
+        "longitude": 90.1833333
+    },
+    {
+        "name": "Lobnig",
+        "country": "Bhutan",
+        "province": "",
+        "population": -1,
+        "latitude": 27.15,
+        "longitude": 89.55
+    },
+    {
+        "name": "Lhedang",
+        "country": "Bhutan",
+        "province": "Bumthang District",
+        "population": -1,
+        "latitude": 27.95001,
+        "longitude": 90.692139
+    },
+    {
+        "name": "Lao",
+        "country": "Bhutan",
+        "province": "",
+        "population": -1,
+        "latitude": 27.8166667,
+        "longitude": 91.5
+    },
+    {
+        "name": "Chapchha",
+        "country": "Bhutan",
+        "province": "Chukha",
+        "population": -1,
+        "latitude": 27.2,
+        "longitude": 89.55
+    },
+    {
+        "name": "Kungtar",
+        "country": "Bhutan",
+        "province": "",
+        "population": -1,
+        "latitude": 27.5333333,
+        "longitude": 91.05
+    },
+    {
+        "name": "Kisona",
+        "country": "Bhutan",
+        "province": "",
+        "population": -1,
+        "latitude": 27.25,
+        "longitude": 90
+    },
+    {
+        "name": "Khitokha",
+        "country": "Bhutan",
+        "province": "",
+        "population": -1,
+        "latitude": 26.9,
+        "longitude": 89.6166667
+    },
+    {
+        "name": "Kengkhar",
+        "country": "Bhutan",
+        "province": "",
+        "population": -1,
+        "latitude": 27.1,
+        "longitude": 91.25
+    },
+    {
+        "name": "Kencho",
+        "country": "Bhutan",
+        "province": "",
+        "population": -1,
+        "latitude": 27.75,
+        "longitude": 89.7166667
+    },
+    {
+        "name": "Kechungka",
+        "country": "Bhutan",
+        "province": "",
+        "population": -1,
+        "latitude": 27.4166667,
+        "longitude": 89.25
+    },
+    {
+        "name": "Kangpar",
+        "country": "Bhutan",
+        "province": "",
+        "population": -1,
+        "latitude": 27.1666667,
+        "longitude": 91.7333333
+    },
+    {
+        "name": "Hlāri",
+        "country": "Bhutan",
+        "province": "",
+        "population": -1,
+        "latitude": 27.4,
+        "longitude": 88.983333
+    },
+    {
+        "name": "Harācha",
+        "country": "Bhutan",
+        "province": "",
+        "population": -1,
+        "latitude": 27.1833333,
+        "longitude": 90.0333333
+    },
+    {
+        "name": "Gyetsa",
+        "country": "Bhutan",
+        "province": "",
+        "population": -1,
+        "latitude": 27.5166667,
+        "longitude": 90.6333333
+    },
+    {
+        "name": "Giala",
+        "country": "Bhutan",
+        "province": "",
+        "population": -1,
+        "latitude": 27.37366,
+        "longitude": 89.968298
+    },
+    {
+        "name": "Ghunkarah",
+        "country": "Bhutan",
+        "province": "",
+        "population": -1,
+        "latitude": 27.4,
+        "longitude": 91.5666667
+    },
+    {
+        "name": "Gasa",
+        "country": "Bhutan",
+        "province": "Gasa",
+        "population": 548,
+        "latitude": 27.9037209520203,
+        "longitude": 89.7268867492676
+    },
+    {
+        "name": "Galechugaon",
+        "country": "Bhutan",
+        "province": "",
+        "population": -1,
+        "latitude": 27,
+        "longitude": 90.5333333
+    },
+    {
+        "name": "Dungna",
+        "country": "Bhutan",
+        "province": "Chukha",
+        "population": -1,
+        "latitude": 27.0333333,
+        "longitude": 89.4
+    },
+    {
+        "name": "Dotanang",
+        "country": "Bhutan",
+        "province": "",
+        "population": -1,
+        "latitude": 27.5833333,
+        "longitude": 89.6333333
+    },
+    {
+        "name": "Doring",
+        "country": "Bhutan",
+        "province": "",
+        "population": -1,
+        "latitude": 27.2,
+        "longitude": 89.2
+    },
+    {
+        "name": "Donkar",
+        "country": "Bhutan",
+        "province": "",
+        "population": -1,
+        "latitude": 27.639217,
+        "longitude": 91.224419
+    },
+    {
+        "name": "Domka",
+        "country": "Bhutan",
+        "province": "",
+        "population": -1,
+        "latitude": 27.0666667,
+        "longitude": 91.0666667
+    },
+    {
+        "name": "Dogsar",
+        "country": "Bhutan",
+        "province": "",
+        "population": -1,
+        "latitude": 27.948542,
+        "longitude": 91.138668
+    },
+    {
+        "name": "Dhur",
+        "country": "Bhutan",
+        "province": "",
+        "population": -1,
+        "latitude": 27.615122,
+        "longitude": 90.669917
+    },
+    {
+        "name": "Dametsi",
+        "country": "Bhutan",
+        "province": "Mongar",
+        "population": -1,
+        "latitude": 27.3,
+        "longitude": 91.45
+    },
+    {
+        "name": "Dam",
+        "country": "Bhutan",
+        "province": "",
+        "population": -1,
+        "latitude": 27.1166667,
+        "longitude": 89.7666667
+    },
+    {
+        "name": "Chuyul",
+        "country": "Bhutan",
+        "province": "",
+        "population": -1,
+        "latitude": 27.5333333,
+        "longitude": 89.3
+    },
+    {
+        "name": "Chilo",
+        "country": "Bhutan",
+        "province": "",
+        "population": -1,
+        "latitude": 27.55,
+        "longitude": 90
+    },
+    {
+        "name": "Chemaito",
+        "country": "Bhutan",
+        "province": "",
+        "population": -1,
+        "latitude": 27.5,
+        "longitude": 90.2833333
+    },
+    {
+        "name": "Changchukha Dzong",
+        "country": "Bhutan",
+        "province": "Sarpang District",
+        "population": -1,
+        "latitude": 27.1333333,
+        "longitude": 90.35
+    },
+    {
+        "name": "Chalaika",
+        "country": "Bhutan",
+        "province": "",
+        "population": -1,
+        "latitude": 27.0833333,
+        "longitude": 89.8666667
+    },
+    {
+        "name": "Byaradingka",
+        "country": "Bhutan",
+        "province": "",
+        "population": -1,
+        "latitude": 27.7666667,
+        "longitude": 89.45
+    },
+    {
+        "name": "Byakar Dzong",
+        "country": "Bhutan",
+        "province": "Bumthang District",
+        "population": -1,
+        "latitude": 27.55,
+        "longitude": 90.7166667
+    },
+    {
+        "name": "Bumtang Tang",
+        "country": "Bhutan",
+        "province": "",
+        "population": -1,
+        "latitude": 27.6,
+        "longitude": 90.8166667
+    },
+    {
+        "name": "Bitana",
+        "country": "Bhutan",
+        "province": "",
+        "population": -1,
+        "latitude": 27.05,
+        "longitude": 90.3
+    },
+    {
+        "name": "Bhurgaon",
+        "country": "Bhutan",
+        "province": "",
+        "population": -1,
+        "latitude": 26.9,
+        "longitude": 90.4333333
+    },
+    {
+        "name": "Beteni",
+        "country": "Bhutan",
+        "province": "",
+        "population": -1,
+        "latitude": 27.0333333,
+        "longitude": 90.2333333
+    },
+    {
+        "name": "Bali",
+        "country": "Bhutan",
+        "province": "",
+        "population": -1,
+        "latitude": 27.366637,
+        "longitude": 90.56238
+    },
+    {
+        "name": "Balfai",
+        "country": "Bhutan",
+        "province": "",
+        "population": -1,
+        "latitude": 27.2166667,
+        "longitude": 91.5
+    },
+    {
+        "name": "Bachāp",
+        "country": "Bhutan",
+        "province": "",
+        "population": -1,
+        "latitude": 26.9833333,
+        "longitude": 89.8166667
+    },
+    {
+        "name": "Ama",
+        "country": "Bhutan",
+        "province": "",
+        "population": -1,
+        "latitude": 27.353147,
+        "longitude": 89.902098
+    },
+    {
+        "name": "Rukubji",
+        "country": "Bhutan",
+        "province": "",
+        "population": -1,
+        "latitude": 27.51555,
+        "longitude": 90.273843
+    },
+    {
+        "name": "Samtse",
+        "country": "Bhutan",
+        "province": "Samtse District",
+        "population": -1,
+        "latitude": 26.913086,
+        "longitude": 89.083612
+    },
+    {
+        "name": "Kanglung",
+        "country": "Bhutan",
+        "province": "Trashigang District",
+        "population": -1,
+        "latitude": 27.29,
+        "longitude": 91.54
+    },
+    {
+        "name": "Tingtibi",
+        "country": "Bhutan",
+        "province": "Zhemgang District",
+        "population": -1,
+        "latitude": 27.15,
+        "longitude": 90.68
+    },
+    {
+        "name": "Lungtenzampa",
+        "country": "Bhutan",
+        "province": "Thimphu District",
+        "population": -1,
+        "latitude": 27.468208,
+        "longitude": 89.644412
+    },
+    {
+        "name": "Deothang",
+        "country": "Bhutan",
+        "province": "Samdrup Jongkhar",
+        "population": -1,
+        "latitude": 26.89,
+        "longitude": 91.5
+    },
+    {
+        "name": "Sānchi",
+        "country": "Bhutan",
+        "province": "",
+        "population": -1,
+        "latitude": 27.3,
+        "longitude": 90.616667
+    },
+    {
+        "name": "Samdrup Choling",
+        "country": "Bhutan",
+        "province": "Tongsa",
+        "population": -1,
+        "latitude": 27.4,
+        "longitude": 90.5
+    },
+    {
+        "name": "Lhamoy Zingkha Gewog",
+        "country": "Bhutan",
+        "province": "Sarpang District",
+        "population": -1,
+        "latitude": 26.756944,
+        "longitude": 89.8
+    },
+    {
+        "name": "Lingshi",
+        "country": "Bhutan",
+        "province": "Thimphu District",
+        "population": -1,
+        "latitude": 27.9166667,
+        "longitude": 89.4333333
+    },
+    {
+        "name": "Pinkhua",
+        "country": "Bhutan",
+        "province": "Sarpang District",
+        "population": -1,
+        "latitude": 26.7166667,
+        "longitude": 90.05
+    },
+    {
+        "name": "Pangkha",
+        "country": "Bhutan",
+        "province": "Zhemgang District",
+        "population": -1,
+        "latitude": 26.95,
+        "longitude": 90.8166667
+    },
+    {
+        "name": "Namtir",
+        "country": "Bhutan",
+        "province": "",
+        "population": -1,
+        "latitude": 27.3333333,
+        "longitude": 90.4
+    },
+    {
+        "name": "Dzongsa Dzong",
+        "country": "Bhutan",
+        "province": "Samtse District",
+        "population": -1,
+        "latitude": 27.1,
+        "longitude": 88.8833333
+    },
+    {
+        "name": "Denchukha",
+        "country": "Bhutan",
+        "province": "",
+        "population": -1,
+        "latitude": 27.0166667,
+        "longitude": 89.25
+    },
+    {
+        "name": "Barshong",
+        "country": "Bhutan",
+        "province": "",
+        "population": -1,
+        "latitude": 27.7,
+        "longitude": 89.55
+    },
+    {
+        "name": "Gangtey Gonpa",
+        "country": "Bhutan",
+        "province": "Wangdi Phodrang",
+        "population": -1,
+        "latitude": 27.5,
+        "longitude": 90.1666667
+    },
+    {
+        "name": "Lalai",
+        "country": "Bhutan",
+        "province": "Sarpang District",
+        "population": -1,
+        "latitude": 26.7833333,
+        "longitude": 90.5166667
+    },
+    {
+        "name": "Kalikhola",
+        "country": "Bhutan",
+        "province": "Sarpang District",
+        "population": -1,
+        "latitude": 26.7166667,
+        "longitude": 90.85
+    },
+    {
+        "name": "Lamidangra",
+        "country": "Bhutan",
+        "province": "Tsirang District",
+        "population": -1,
+        "latitude": 26.9666667,
+        "longitude": 90.1
+    },
+    {
+        "name": "Radi",
+        "country": "Bhutan",
+        "province": "Trashigang District",
+        "population": -1,
+        "latitude": 27.3666667,
+        "longitude": 91.6833333
+    },
+    {
+        "name": "Gyepozhing",
+        "country": "Bhutan",
+        "province": "Mongar",
+        "population": -1,
+        "latitude": 27.1833333,
+        "longitude": 91.1666667
+    },
+    {
+        "name": "Dawakha",
+        "country": "Bhutan",
+        "province": "Punakha",
+        "population": -1,
+        "latitude": 27.6666667,
+        "longitude": 89.9166667
+    },
+    {
+        "name": "Zarāfi",
+        "country": "Bhutan",
+        "province": "",
+        "population": -1,
+        "latitude": 27.145183,
+        "longitude": 90.692227
+    },
+    {
+        "name": "Tungka La",
+        "country": "Bhutan",
+        "province": "",
+        "population": -1,
+        "latitude": 26.95,
+        "longitude": 91.3666667
+    },
+    {
+        "name": "Tsangka",
+        "country": "Bhutan",
+        "province": "",
+        "population": -1,
+        "latitude": 27.4833333,
+        "longitude": 90.4666667
+    },
+    {
+        "name": "Tendu",
+        "country": "Bhutan",
+        "province": "",
+        "population": -1,
+        "latitude": 27.1333333,
+        "longitude": 88.8833333
+    },
+    {
+        "name": "Tashtanje",
+        "country": "Bhutan",
+        "province": "",
+        "population": -1,
+        "latitude": 26.9833333,
+        "longitude": 92.0166667
+    },
+    {
+        "name": "Tangsebi",
+        "country": "Bhutan",
+        "province": "",
+        "population": -1,
+        "latitude": 27.4333333,
+        "longitude": 90.4333333
+    },
+    {
+        "name": "Tamjee",
+        "country": "Bhutan",
+        "province": "",
+        "population": -1,
+        "latitude": 27.6666667,
+        "longitude": 89.9
+    },
+    {
+        "name": "Shiuji",
+        "country": "Bhutan",
+        "province": "Haa",
+        "population": -1,
+        "latitude": 27.176807,
+        "longitude": 89.025288
+    },
+    {
+        "name": "Shegaria",
+        "country": "Bhutan",
+        "province": "",
+        "population": -1,
+        "latitude": 27.6666667,
+        "longitude": 90
+    },
+    {
+        "name": "Sawaphu",
+        "country": "Bhutan",
+        "province": "",
+        "population": -1,
+        "latitude": 27.3666667,
+        "longitude": 90.2
+    },
+    {
+        "name": "Rapley",
+        "country": "Bhutan",
+        "province": "",
+        "population": -1,
+        "latitude": 27.1,
+        "longitude": 89.2833333
+    },
+    {
+        "name": "Pieksao",
+        "country": "Bhutan",
+        "province": "",
+        "population": -1,
+        "latitude": 26.9333333,
+        "longitude": 90.9833333
+    },
+    {
+        "name": "Niche Kālikhola",
+        "country": "Bhutan",
+        "province": "",
+        "population": -1,
+        "latitude": 26.88314,
+        "longitude": 90.088187
+    },
+    {
+        "name": "Naitola",
+        "country": "Bhutan",
+        "province": "",
+        "population": -1,
+        "latitude": 26.9,
+        "longitude": 91.2666667
+    },
+    {
+        "name": "Nab Chöte",
+        "country": "Bhutan",
+        "province": "",
+        "population": -1,
+        "latitude": 27.5833333,
+        "longitude": 90.4333333
+    },
+    {
+        "name": "Momai Thāng",
+        "country": "Bhutan",
+        "province": "",
+        "population": -1,
+        "latitude": 26.9166667,
+        "longitude": 89.85
+    },
+    {
+        "name": "Mochhu",
+        "country": "Bhutan",
+        "province": "",
+        "population": -1,
+        "latitude": 27.1333333,
+        "longitude": 89.1166667
+    },
+    {
+        "name": "Louri",
+        "country": "Bhutan",
+        "province": "",
+        "population": -1,
+        "latitude": 27.1,
+        "longitude": 91.9333333
+    },
+    {
+        "name": "Lamti",
+        "country": "Bhutan",
+        "province": "",
+        "population": -1,
+        "latitude": 27.3333333,
+        "longitude": 90.5666667
+    },
+    {
+        "name": "Lāmedāda",
+        "country": "Bhutan",
+        "province": "",
+        "population": -1,
+        "latitude": 26.95,
+        "longitude": 90.1333333
+    },
+    {
+        "name": "Khar",
+        "country": "Bhutan",
+        "province": "",
+        "population": -1,
+        "latitude": 27,
+        "longitude": 91.35
+    },
+    {
+        "name": "Kamganka",
+        "country": "Bhutan",
+        "province": "",
+        "population": -1,
+        "latitude": 27.249806,
+        "longitude": 89.960684
+    },
+    {
+        "name": "Kagha",
+        "country": "Bhutan",
+        "province": "",
+        "population": -1,
+        "latitude": 27.5333333,
+        "longitude": 90.4666667
+    },
+    {
+        "name": "Gönphu",
+        "country": "Bhutan",
+        "province": "",
+        "population": -1,
+        "latitude": 27.0833333,
+        "longitude": 90.7666667
+    },
+    {
+        "name": "Gongchuāndgaon",
+        "country": "Bhutan",
+        "province": "",
+        "population": -1,
+        "latitude": 27.0333333,
+        "longitude": 90.4333333
+    },
+    {
+        "name": "Gnimthenla",
+        "country": "Bhutan",
+        "province": "",
+        "population": -1,
+        "latitude": 26.909479,
+        "longitude": 89.857186
+    },
+    {
+        "name": "Gasila",
+        "country": "Bhutan",
+        "province": "",
+        "population": -1,
+        "latitude": 27.3333333,
+        "longitude": 89.8
+    },
+    {
+        "name": "Doronagaon",
+        "country": "Bhutan",
+        "province": "",
+        "population": -1,
+        "latitude": 26.832044,
+        "longitude": 89.81261
+    },
+    {
+        "name": "Diptsang",
+        "country": "Bhutan",
+        "province": "",
+        "population": -1,
+        "latitude": 27.05,
+        "longitude": 91.9833333
+    },
+    {
+        "name": "Dhāje",
+        "country": "Bhutan",
+        "province": "",
+        "population": -1,
+        "latitude": 26.9666667,
+        "longitude": 90.1166667
+    },
+    {
+        "name": "Dewāngiri",
+        "country": "Bhutan",
+        "province": "Samdrup Jongkhar",
+        "population": -1,
+        "latitude": 26.8666667,
+        "longitude": 91.4666667
+    },
+    {
+        "name": "Chungkar",
+        "country": "Bhutan",
+        "province": "",
+        "population": -1,
+        "latitude": 27.05,
+        "longitude": 91.4166667
+    },
+    {
+        "name": "Chendebi",
+        "country": "Bhutan",
+        "province": "",
+        "population": -1,
+        "latitude": 27.45,
+        "longitude": 90.3333333
+    },
+    {
+        "name": "Changra",
+        "country": "Bhutan",
+        "province": "",
+        "population": -1,
+        "latitude": 27.4,
+        "longitude": 90.4666667
+    },
+    {
+        "name": "Chamarchi",
+        "country": "Bhutan",
+        "province": "",
+        "population": -1,
+        "latitude": 26.9,
+        "longitude": 89.1
+    },
+    {
+        "name": "Buri Chu",
+        "country": "Bhutan",
+        "province": "",
+        "population": -1,
+        "latitude": 27,
+        "longitude": 90.2166667
+    },
+    {
+        "name": "Bioka",
+        "country": "Bhutan",
+        "province": "",
+        "population": -1,
+        "latitude": 26.9,
+        "longitude": 90.9166667
+    },
+    {
+        "name": "Bhangbārai",
+        "country": "Bhutan",
+        "province": "",
+        "population": -1,
+        "latitude": 27.2666667,
+        "longitude": 90.3
+    },
+    {
+        "name": "Alla",
+        "country": "Bhutan",
+        "province": "",
+        "population": -1,
+        "latitude": 27.35,
+        "longitude": 89.9666667
+    },
+    {
+        "name": "Paro populated 1",
+        "country": "Bhutan",
+        "province": "Paro",
+        "population": -1,
+        "latitude": 27.388934807357657,
+        "longitude": 89.43135023117065
+    },
+    {
+        "name": "Paro Populated2",
+        "country": "Bhutan",
+        "province": "Paro",
+        "population": -1,
+        "latitude": 27.38619123375337,
+        "longitude": 89.4273591041565
+    },
+    {
+        "name": "Paro Populated3",
+        "country": "Bhutan",
+        "province": "Paro",
+        "population": -1,
+        "latitude": 27.390706662470198,
+        "longitude": 89.42521333694458
+    },
+    {
+        "name": "Paro Populated4",
+        "country": "Bhutan",
+        "province": "Paro",
+        "population": -1,
+        "latitude": 27.38899196441731,
+        "longitude": 89.43396806716919
+    },
+    {
+        "name": "Dūmte",
+        "country": "Bhutan",
+        "province": "Samtse District",
+        "population": -1,
+        "latitude": 27.045532,
+        "longitude": 89.182751
+    },
+    {
+        "name": "Hingslo",
+        "country": "Bhutan",
+        "province": "Haa",
+        "population": -1,
+        "latitude": 27.179371,
+        "longitude": 89.152561
+    },
+    {
+        "name": "Bumtaka",
+        "country": "Bhutan",
+        "province": "Haa",
+        "population": -1,
+        "latitude": 27.656799,
+        "longitude": 89.869619
+    },
+    {
+        "name": "Gipsa",
+        "country": "Bhutan",
+        "province": "",
+        "population": -1,
+        "latitude": 26.972647,
+        "longitude": 89.984749
+    },
+    {
+        "name": "Rachau",
+        "country": "Bhutan",
+        "province": "",
+        "population": -1,
+        "latitude": 27.553778,
+        "longitude": 90.10368
+    },
+    {
+        "name": "Yekho",
+        "country": "Bhutan",
+        "province": "",
+        "population": -1,
+        "latitude": 27.479031,
+        "longitude": 90.16009
+    },
+    {
+        "name": "Chela",
+        "country": "Bhutan",
+        "province": "",
+        "population": -1,
+        "latitude": 27.567298,
+        "longitude": 90.444783
+    },
+    {
+        "name": "Gāmling",
+        "country": "Bhutan",
+        "province": "",
+        "population": -1,
+        "latitude": 27.624446,
+        "longitude": 90.891828
+    },
+    {
+        "name": "Shingkhar",
+        "country": "Bhutan",
+        "province": "",
+        "population": -1,
+        "latitude": 27.478992,
+        "longitude": 90.903483
+    },
+    {
+        "name": "Pangsu",
+        "country": "Bhutan",
+        "province": "",
+        "population": -1,
+        "latitude": 27.257227,
+        "longitude": 90.577619
+    },
+    {
+        "name": "Chungsing",
+        "country": "Bhutan",
+        "province": "",
+        "population": -1,
+        "latitude": 27.014919,
+        "longitude": 90.557262
+    },
+    {
+        "name": "Majgaon",
+        "country": "Bhutan",
+        "province": "",
+        "population": -1,
+        "latitude": 27.020125,
+        "longitude": 90.075599
+    },
+    {
+        "name": "Nepāltārgaon",
+        "country": "Bhutan",
+        "province": "",
+        "population": -1,
+        "latitude": 26.863559,
+        "longitude": 90.503416
+    },
+    {
+        "name": "Dumegaon",
+        "country": "Bhutan",
+        "province": "",
+        "population": -1,
+        "latitude": 26.929915,
+        "longitude": 90.404737
+    },
+    {
+        "name": "Ajingregaon",
+        "country": "Bhutan",
+        "province": "",
+        "population": -1,
+        "latitude": 26.954469,
+        "longitude": 90.288497
+    },
+    {
+        "name": "Sāmātung",
+        "country": "Bhutan",
+        "province": "",
+        "population": -1,
+        "latitude": 26.819737,
+        "longitude": 90.189974
+    },
+    {
+        "name": "Momring",
+        "country": "Bhutan",
+        "province": "",
+        "population": -1,
+        "latitude": 27.125817,
+        "longitude": 91.907992
+    },
+    {
+        "name": "Kho Ling",
+        "country": "Bhutan",
+        "province": "",
+        "population": -1,
+        "latitude": 27.198052,
+        "longitude": 91.584929
+    },
+    {
+        "name": "Pangthāng",
+        "country": "Bhutan",
+        "province": "",
+        "population": -1,
+        "latitude": 27.115182,
+        "longitude": 91.43071
+    },
+    {
+        "name": "Jimkhār",
+        "country": "Bhutan",
+        "province": "",
+        "population": -1,
+        "latitude": 27.606866,
+        "longitude": 91.506712
+    },
+    {
+        "name": "Jam Khar",
+        "country": "Bhutan",
+        "province": "",
+        "population": -1,
+        "latitude": 27.390605,
+        "longitude": 91.608638
+    },
+    {
+        "name": "Ga Ling",
+        "country": "Bhutan",
+        "province": "",
+        "population": -1,
+        "latitude": 27.339198,
+        "longitude": 91.644534
+    },
+    {
+        "name": "Drakhāng",
+        "country": "Bhutan",
+        "province": "Trashi Yangste",
+        "population": -1,
+        "latitude": 27.73228,
+        "longitude": 91.709014
+    },
+    {
+        "name": "Māgo",
+        "country": "Bhutan",
+        "province": "Trashigang District",
+        "population": -1,
+        "latitude": 27.692839,
+        "longitude": 92.215987
+    },
+    {
+        "name": "Gorjo",
+        "country": "Bhutan",
+        "province": "",
+        "population": -1,
+        "latitude": 27.598003,
+        "longitude": 92.405216
+    },
+    {
+        "name": "Ānkāling",
+        "country": "Bhutan",
+        "province": "Trashigang District",
+        "population": -1,
+        "latitude": 27.03785,
+        "longitude": 92.152616
+    },
+    {
+        "name": "Autsho",
+        "country": "Bhutan",
+        "province": "Lhuntse",
+        "population": -1,
+        "latitude": 27.4430873903705,
+        "longitude": 91.1748504638672
+    },
+    {
+        "name": "Shari",
+        "country": "Bhutan",
+        "province": "Haa",
+        "population": -1,
+        "latitude": 27.26172541674173,
+        "longitude": 89.34270858764648
+    },
+    {
+        "name": "Lobeysa",
+        "country": "Bhutan",
+        "province": "Thimphu District",
+        "population": -1,
+        "latitude": 27.52273459839377,
+        "longitude": 89.88550186157227
+    },
+    {
+        "name": "Phuentsholing",
+        "country": "Bhutan",
+        "province": "Chukha",
+        "population": -1,
+        "latitude": 26.8656,
+        "longitude": 89.38407
+    },
+    {
+        "name": "Pele La",
+        "country": "Bhutan",
+        "province": "Wangdi Phodrang",
+        "population": -1,
+        "latitude": 27.55,
+        "longitude": 90.216667
+    },
+    {
+        "name": "Nganglam New",
+        "country": "Bhutan",
+        "province": "Samdrup Jongkhar",
+        "population": -1,
+        "latitude": 26.81771,
+        "longitude": 91.24836
+    },
+    {
+        "name": "Tsimalakha",
+        "country": "Bhutan",
+        "province": "Chukha",
+        "population": -1,
+        "latitude": 27.086019,
+        "longitude": 89.541507
+    },
+    {
+        "name": "Tshimalakha",
+        "country": "Bhutan",
+        "province": "Chukha",
+        "population": -1,
+        "latitude": 27.086019,
+        "longitude": 89.541507
+    },
+    {
+        "name": "Dala",
+        "country": "Bhutan",
+        "province": "Chukha",
+        "population": -1,
+        "latitude": 26.85,
+        "longitude": 89.549722
+    },
+    {
+        "name": "Mebisa",
+        "country": "Bhutan",
+        "province": "Chukha",
+        "population": -1,
+        "latitude": 27.062695,
+        "longitude": 89.560529
+    },
+    {
+        "name": "Babesa",
+        "country": "Bhutan",
+        "province": "Thimphu District",
+        "population": -1,
+        "latitude": 27.43277,
+        "longitude": 89.65024
+    },
+    {
+        "name": "Gomkora",
+        "country": "Bhutan",
+        "province": "Trashigang District",
+        "population": -1,
+        "latitude": 27.425702,
+        "longitude": 91.564961
+    },
+    {
+        "name": "Kungarapten",
+        "country": "Bhutan",
+        "province": "Tongsa",
+        "population": -1,
+        "latitude": 27.41071,
+        "longitude": 90.51586
+    },
+    {
+        "name": "Bjimthangkha",
+        "country": "Bhutan",
+        "province": "Wangdi Phodrang",
+        "population": 100,
+        "latitude": 27.41495,
+        "longitude": 89.90032
+    },
+    {
+        "name": "Bubja",
+        "country": "Bhutan",
+        "province": "Tongsa",
+        "population": -1,
+        "latitude": 27.40226,
+        "longitude": 90.53195
+    },
+    {
+        "name": "Praling",
+        "country": "Bhutan",
+        "province": "Zhemgang District",
+        "population": -1,
+        "latitude": 27.0411111,
+        "longitude": 90.8063888
+    }
+]

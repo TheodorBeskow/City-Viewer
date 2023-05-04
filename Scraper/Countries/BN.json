@@ -1,0 +1,1770 @@
+[
+    {
+        "name": "Bandar Seri Begawan",
+        "country": "Brunei",
+        "province": "Brunei-Muara District",
+        "population": 64409,
+        "latitude": 4.89035,
+        "longitude": 114.94006
+    },
+    {
+        "name": "Kuala Belait",
+        "country": "Brunei",
+        "province": "Belait",
+        "population": 31178,
+        "latitude": 4.583611691323977,
+        "longitude": 114.23120498657227
+    },
+    {
+        "name": "Tutong",
+        "country": "Brunei",
+        "province": "Tutong",
+        "population": 19151,
+        "latitude": 4.802778,
+        "longitude": 114.649167
+    },
+    {
+        "name": "Seria",
+        "country": "Brunei",
+        "province": "Belait",
+        "population": 30097,
+        "latitude": 4.6063692730037,
+        "longitude": 114.32476043701172
+    },
+    {
+        "name": "Kapok",
+        "country": "Brunei",
+        "province": "Brunei-Muara District",
+        "population": 4337,
+        "latitude": 5.024472,
+        "longitude": 115.046639
+    },
+    {
+        "name": "Bangar",
+        "country": "Brunei",
+        "province": "Temburong",
+        "population": 3970,
+        "latitude": 4.708611,
+        "longitude": 115.071667
+    },
+    {
+        "name": "Mentiri",
+        "country": "Brunei",
+        "province": "Brunei-Muara District",
+        "population": 1121,
+        "latitude": 4.970583,
+        "longitude": 115.020778
+    },
+    {
+        "name": "Sungai Liang",
+        "country": "Brunei",
+        "province": "Belait",
+        "population": -1,
+        "latitude": 4.677473,
+        "longitude": 114.495868
+    },
+    {
+        "name": "Rambai",
+        "country": "Brunei",
+        "province": "Tutong",
+        "population": -1,
+        "latitude": 4.638822,
+        "longitude": 114.651481
+    },
+    {
+        "name": "Pad Nunok",
+        "country": "Brunei",
+        "province": "Tutong",
+        "population": -1,
+        "latitude": 4.717494,
+        "longitude": 114.72825
+    },
+    {
+        "name": "Madewa",
+        "country": "Brunei",
+        "province": "Brunei",
+        "population": -1,
+        "latitude": 4.855831,
+        "longitude": 114.895118
+    },
+    {
+        "name": "Lamunin",
+        "country": "Brunei",
+        "province": "Tutong",
+        "population": -1,
+        "latitude": 4.6816,
+        "longitude": 114.715373
+    },
+    {
+        "name": "Sukang",
+        "country": "Brunei",
+        "province": "Belait",
+        "population": -1,
+        "latitude": 4.3166667,
+        "longitude": 114.6166667
+    },
+    {
+        "name": "Rasau",
+        "country": "Brunei",
+        "province": "Brunei",
+        "population": -1,
+        "latitude": 4.55,
+        "longitude": 114.2166667
+    },
+    {
+        "name": "Panaga",
+        "country": "Brunei",
+        "province": "Brunei",
+        "population": -1,
+        "latitude": 4.6,
+        "longitude": 114.2833333
+    },
+    {
+        "name": "Brooketon",
+        "country": "Brunei",
+        "province": "Brunei",
+        "population": -1,
+        "latitude": 5.02699,
+        "longitude": 115.06913
+    },
+    {
+        "name": "Melilas",
+        "country": "Brunei",
+        "province": "Belait",
+        "population": -1,
+        "latitude": 4.2333333,
+        "longitude": 114.6666667
+    },
+    {
+        "name": "Labi",
+        "country": "Brunei",
+        "province": "Belait",
+        "population": -1,
+        "latitude": 4.3833333,
+        "longitude": 114.4333333
+    },
+    {
+        "name": "Kuala Balai",
+        "country": "Brunei",
+        "province": "Belait",
+        "population": -1,
+        "latitude": 4.45,
+        "longitude": 114.3166667
+    },
+    {
+        "name": "Telamba",
+        "country": "Brunei",
+        "province": "Brunei",
+        "population": -1,
+        "latitude": 4.729643,
+        "longitude": 114.566747
+    },
+    {
+        "name": "Sungai Hanching",
+        "country": "Brunei",
+        "province": "Brunei-Muara District",
+        "population": -1,
+        "latitude": 4.968058,
+        "longitude": 114.977534
+    },
+    {
+        "name": "Subok",
+        "country": "Brunei",
+        "province": "Brunei-Muara District",
+        "population": -1,
+        "latitude": 4.893114,
+        "longitude": 114.965877
+    },
+    {
+        "name": "Sinarubai",
+        "country": "Brunei",
+        "province": "Brunei",
+        "population": -1,
+        "latitude": 4.837974,
+        "longitude": 114.874727
+    },
+    {
+        "name": "Serasa",
+        "country": "Brunei",
+        "province": "Brunei-Muara District",
+        "population": -1,
+        "latitude": 5.01761,
+        "longitude": 115.05798
+    },
+    {
+        "name": "Kampong Sengkurong",
+        "country": "Brunei",
+        "province": "Brunei",
+        "population": -1,
+        "latitude": 4.8833333,
+        "longitude": 114.8333333
+    },
+    {
+        "name": "Sengkarai",
+        "country": "Brunei",
+        "province": "Brunei",
+        "population": -1,
+        "latitude": 4.804756,
+        "longitude": 114.645581
+    },
+    {
+        "name": "Salambigar",
+        "country": "Brunei",
+        "province": "Brunei-Muara District",
+        "population": -1,
+        "latitude": 4.978771,
+        "longitude": 114.987802
+    },
+    {
+        "name": "Kampong Rimba",
+        "country": "Brunei",
+        "province": "Brunei",
+        "population": -1,
+        "latitude": 4.9166667,
+        "longitude": 114.9
+    },
+    {
+        "name": "Pulaie",
+        "country": "Brunei",
+        "province": "Brunei",
+        "population": -1,
+        "latitude": 4.92994,
+        "longitude": 114.95523
+    },
+    {
+        "name": "Penanjong",
+        "country": "Brunei",
+        "province": "Brunei",
+        "population": -1,
+        "latitude": 4.837929,
+        "longitude": 114.680142
+    },
+    {
+        "name": "Kampong Lupak Luas",
+        "country": "Brunei",
+        "province": "Brunei-Muara District",
+        "population": -1,
+        "latitude": 4.869716,
+        "longitude": 114.940467
+    },
+    {
+        "name": "Lubok Pulau",
+        "country": "Brunei",
+        "province": "Tutong",
+        "population": -1,
+        "latitude": 4.764028,
+        "longitude": 114.663558
+    },
+    {
+        "name": "Layong",
+        "country": "Brunei",
+        "province": "Tutong",
+        "population": -1,
+        "latitude": 4.688946,
+        "longitude": 114.677534
+    },
+    {
+        "name": "Kupang",
+        "country": "Brunei",
+        "province": "Brunei",
+        "population": -1,
+        "latitude": 4.843088,
+        "longitude": 114.794454
+    },
+    {
+        "name": "Kuala Abang",
+        "country": "Brunei",
+        "province": "Tutong",
+        "population": -1,
+        "latitude": 4.70108,
+        "longitude": 114.676835
+    },
+    {
+        "name": "Kampong Kiajong",
+        "country": "Brunei",
+        "province": "Brunei",
+        "population": -1,
+        "latitude": 4.9166667,
+        "longitude": 114.7833333
+    },
+    {
+        "name": "Kampong Kerangan Nyatan",
+        "country": "Brunei",
+        "province": "Brunei",
+        "population": -1,
+        "latitude": 4.4166667,
+        "longitude": 114.6
+    },
+    {
+        "name": "Katok",
+        "country": "Brunei",
+        "province": "Brunei",
+        "population": -1,
+        "latitude": 4.916194,
+        "longitude": 114.893528
+    },
+    {
+        "name": "Junjongan",
+        "country": "Brunei",
+        "province": "Brunei-Muara District",
+        "population": -1,
+        "latitude": 4.810315,
+        "longitude": 114.853427
+    },
+    {
+        "name": "Kampong Jerudong",
+        "country": "Brunei",
+        "province": "Brunei-Muara District",
+        "population": -1,
+        "latitude": 4.95,
+        "longitude": 114.85
+    },
+    {
+        "name": "Kampong Burong Pingai",
+        "country": "Brunei",
+        "province": "Brunei",
+        "population": -1,
+        "latitude": 4.65,
+        "longitude": 114.6333333
+    },
+    {
+        "name": "Bukit Sulang",
+        "country": "Brunei",
+        "province": "Tutong",
+        "population": -1,
+        "latitude": 4.658263,
+        "longitude": 114.736642
+    },
+    {
+        "name": "Batu Marang",
+        "country": "Brunei",
+        "province": "Brunei",
+        "population": -1,
+        "latitude": 4.982028,
+        "longitude": 115.035056
+    },
+    {
+        "name": "Batong",
+        "country": "Brunei",
+        "province": "Brunei-Muara District",
+        "population": -1,
+        "latitude": 4.819923,
+        "longitude": 114.81663
+    },
+    {
+        "name": "Batu Apoi",
+        "country": "Brunei",
+        "province": "Temburong",
+        "population": -1,
+        "latitude": 4.7,
+        "longitude": 115.1
+    },
+    {
+        "name": "Tempuan Ugas",
+        "country": "Brunei",
+        "province": "Brunei",
+        "population": -1,
+        "latitude": 4.7666667,
+        "longitude": 114.5833333
+    },
+    {
+        "name": "Kampong Tanjong Maya",
+        "country": "Brunei",
+        "province": "Tutong",
+        "population": -1,
+        "latitude": 4.75,
+        "longitude": 114.6666667
+    },
+    {
+        "name": "Kampong Selayun",
+        "country": "Brunei",
+        "province": "Brunei",
+        "population": -1,
+        "latitude": 4.9,
+        "longitude": 114.85
+    },
+    {
+        "name": "Kampong Perumpong",
+        "country": "Brunei",
+        "province": "Brunei",
+        "population": -1,
+        "latitude": 4.6833333,
+        "longitude": 114.4833333
+    },
+    {
+        "name": "Kampong Penapar",
+        "country": "Brunei",
+        "province": "Brunei",
+        "population": -1,
+        "latitude": 4.7333333,
+        "longitude": 114.6666667
+    },
+    {
+        "name": "Kampong Penabai",
+        "country": "Brunei",
+        "province": "Brunei",
+        "population": -1,
+        "latitude": 4.8,
+        "longitude": 114.6166667
+    },
+    {
+        "name": "Kampong Pelumpong",
+        "country": "Brunei",
+        "province": "Brunei",
+        "population": -1,
+        "latitude": 5.0333333,
+        "longitude": 115.1
+    },
+    {
+        "name": "Kampong Pegalayan",
+        "country": "Brunei",
+        "province": "Brunei",
+        "population": -1,
+        "latitude": 4.7833333,
+        "longitude": 114.8333333
+    },
+    {
+        "name": "Kampong Pangkalan Piasau",
+        "country": "Brunei",
+        "province": "Brunei",
+        "population": -1,
+        "latitude": 4.6833333,
+        "longitude": 114.65
+    },
+    {
+        "name": "Kampong Pangkalan Mau",
+        "country": "Brunei",
+        "province": "Brunei",
+        "population": -1,
+        "latitude": 4.75,
+        "longitude": 114.7333333
+    },
+    {
+        "name": "Panchor Papan",
+        "country": "Brunei",
+        "province": "Brunei",
+        "population": -1,
+        "latitude": 4.8089,
+        "longitude": 114.673005
+    },
+    {
+        "name": "Panchor Dulit",
+        "country": "Brunei",
+        "province": "Brunei",
+        "population": -1,
+        "latitude": 4.805458,
+        "longitude": 114.664906
+    },
+    {
+        "name": "Kampong Menunggol",
+        "country": "Brunei",
+        "province": "Brunei",
+        "population": -1,
+        "latitude": 4.9333333,
+        "longitude": 114.8333333
+    },
+    {
+        "name": "Kampong Lugu",
+        "country": "Brunei",
+        "province": "Brunei",
+        "population": -1,
+        "latitude": 4.8833333,
+        "longitude": 114.8
+    },
+    {
+        "name": "Kampong Lubok Tanjong Maya",
+        "country": "Brunei",
+        "province": "Brunei",
+        "population": -1,
+        "latitude": 4.75,
+        "longitude": 114.6666667
+    },
+    {
+        "name": "Kampong Luagan Dudok",
+        "country": "Brunei",
+        "province": "Tutong",
+        "population": -1,
+        "latitude": 4.817337,
+        "longitude": 114.729793
+    },
+    {
+        "name": "Kampong Kiudang",
+        "country": "Brunei",
+        "province": "Tutong",
+        "population": -1,
+        "latitude": 4.75,
+        "longitude": 114.7333333
+    },
+    {
+        "name": "Katimahar",
+        "country": "Brunei",
+        "province": "Brunei",
+        "population": -1,
+        "latitude": 4.868069,
+        "longitude": 114.814543
+    },
+    {
+        "name": "Kampong Danau",
+        "country": "Brunei",
+        "province": "Tutong",
+        "population": -1,
+        "latitude": 4.7666667,
+        "longitude": 114.5833333
+    },
+    {
+        "name": "Bunut",
+        "country": "Brunei",
+        "province": "Brunei",
+        "population": -1,
+        "latitude": 4.853477,
+        "longitude": 114.886826
+    },
+    {
+        "name": "Kampong Bukit Bang Tangur",
+        "country": "Brunei",
+        "province": "Brunei",
+        "population": -1,
+        "latitude": 4.6166667,
+        "longitude": 114.6
+    },
+    {
+        "name": "Kampong Benutan",
+        "country": "Brunei",
+        "province": "Brunei",
+        "population": -1,
+        "latitude": 4.6,
+        "longitude": 114.7166667
+    },
+    {
+        "name": "Kulapis",
+        "country": "Brunei",
+        "province": "Brunei-Muara District",
+        "population": -1,
+        "latitude": 4.85045,
+        "longitude": 114.82322
+    },
+    {
+        "name": "Masin",
+        "country": "Brunei",
+        "province": "Brunei-Muara District",
+        "population": -1,
+        "latitude": 4.8375,
+        "longitude": 114.84472
+    },
+    {
+        "name": "Pangkalan Siong",
+        "country": "Brunei",
+        "province": "Brunei",
+        "population": -1,
+        "latitude": 4.4833333,
+        "longitude": 114.55
+    },
+    {
+        "name": "Kampong Ukong",
+        "country": "Brunei",
+        "province": "Tutong",
+        "population": -1,
+        "latitude": 4.6666667,
+        "longitude": 114.6333333
+    },
+    {
+        "name": "Kampong Tunggulian",
+        "country": "Brunei",
+        "province": "Brunei",
+        "population": -1,
+        "latitude": 4.6833333,
+        "longitude": 114.5
+    },
+    {
+        "name": "Kampong Telisai",
+        "country": "Brunei",
+        "province": "Tutong",
+        "population": -1,
+        "latitude": 4.735577,
+        "longitude": 114.563245
+    },
+    {
+        "name": "Kampong Telaga Baka",
+        "country": "Brunei",
+        "province": "Brunei",
+        "population": -1,
+        "latitude": 4.8166667,
+        "longitude": 114.6833333
+    },
+    {
+        "name": "Kampong Tanjong Menungan",
+        "country": "Brunei",
+        "province": "Brunei",
+        "population": -1,
+        "latitude": 4.8333333,
+        "longitude": 114.7166667
+    },
+    {
+        "name": "Kampong Serdang",
+        "country": "Brunei",
+        "province": "Brunei",
+        "population": -1,
+        "latitude": 4.9,
+        "longitude": 114.9833333
+    },
+    {
+        "name": "Kampong Sabun",
+        "country": "Brunei",
+        "province": "Brunei",
+        "population": -1,
+        "latitude": 5.0333333,
+        "longitude": 115.0666667
+    },
+    {
+        "name": "Kampong Pangkalan Ran",
+        "country": "Brunei",
+        "province": "Brunei",
+        "population": -1,
+        "latitude": 4.6666667,
+        "longitude": 114.6333333
+    },
+    {
+        "name": "Kampong Pangkalan Parai",
+        "country": "Brunei",
+        "province": "Brunei",
+        "population": -1,
+        "latitude": 4.6666667,
+        "longitude": 114.6333333
+    },
+    {
+        "name": "Kampong Panchuran",
+        "country": "Brunei",
+        "province": "Brunei",
+        "population": -1,
+        "latitude": 4.9666667,
+        "longitude": 115.0166667
+    },
+    {
+        "name": "Kampong Nong Kelulau",
+        "country": "Brunei",
+        "province": "Brunei",
+        "population": -1,
+        "latitude": 4.7333333,
+        "longitude": 114.65
+    },
+    {
+        "name": "Kampong Mungkom",
+        "country": "Brunei",
+        "province": "Brunei",
+        "population": -1,
+        "latitude": 4.7333333,
+        "longitude": 114.75
+    },
+    {
+        "name": "Mulaut",
+        "country": "Brunei",
+        "province": "Brunei",
+        "population": -1,
+        "latitude": 4.864579,
+        "longitude": 114.845835
+    },
+    {
+        "name": "Kampong Mulaut",
+        "country": "Brunei",
+        "province": "Brunei",
+        "population": -1,
+        "latitude": 4.8666667,
+        "longitude": 114.8333333
+    },
+    {
+        "name": "Kampong Menunggol",
+        "country": "Brunei",
+        "province": "Brunei",
+        "population": -1,
+        "latitude": 4.8833333,
+        "longitude": 114.9833333
+    },
+    {
+        "name": "Kampong Mengawang",
+        "country": "Brunei",
+        "province": "Brunei",
+        "population": -1,
+        "latitude": 4.8833333,
+        "longitude": 114.85
+    },
+    {
+        "name": "Kampong Lilas",
+        "country": "Brunei",
+        "province": "Brunei",
+        "population": -1,
+        "latitude": 4.7,
+        "longitude": 114.5166667
+    },
+    {
+        "name": "Kampong Lambak A",
+        "country": "Brunei",
+        "province": "Brunei-Muara District",
+        "population": -1,
+        "latitude": 4.96611,
+        "longitude": 114.94296
+    },
+    {
+        "name": "Kampong Kobong",
+        "country": "Brunei",
+        "province": "Brunei",
+        "population": -1,
+        "latitude": 4.6333333,
+        "longitude": 115.0333333
+    },
+    {
+        "name": "Kampong Kenua",
+        "country": "Brunei",
+        "province": "Brunei",
+        "population": -1,
+        "latitude": 4.6166667,
+        "longitude": 115.05
+    },
+    {
+        "name": "Kampong Kebia",
+        "country": "Brunei",
+        "province": "Brunei",
+        "population": -1,
+        "latitude": 4.7666667,
+        "longitude": 114.7333333
+    },
+    {
+        "name": "Kampong Kayu Kapur",
+        "country": "Brunei",
+        "province": "Brunei",
+        "population": -1,
+        "latitude": 4.7333333,
+        "longitude": 114.6666667
+    },
+    {
+        "name": "Kampong Kasat",
+        "country": "Brunei",
+        "province": "Brunei",
+        "population": -1,
+        "latitude": 4.823068,
+        "longitude": 114.947105
+    },
+    {
+        "name": "Kampong Ikas",
+        "country": "Brunei",
+        "province": "Brunei",
+        "population": -1,
+        "latitude": 4.8666667,
+        "longitude": 114.8
+    },
+    {
+        "name": "Kampong Empat Setengah",
+        "country": "Brunei",
+        "province": "Brunei",
+        "population": -1,
+        "latitude": 4.95,
+        "longitude": 114.95
+    },
+    {
+        "name": "Kampong Delima",
+        "country": "Brunei",
+        "province": "Brunei",
+        "population": -1,
+        "latitude": 4.95,
+        "longitude": 114.95
+    },
+    {
+        "name": "Bukit Panggal",
+        "country": "Brunei",
+        "province": "Tutong",
+        "population": -1,
+        "latitude": 4.827743,
+        "longitude": 114.726277
+    },
+    {
+        "name": "Kampong Buang Tawar",
+        "country": "Brunei",
+        "province": "Brunei",
+        "population": -1,
+        "latitude": 4.8833333,
+        "longitude": 114.9666667
+    },
+    {
+        "name": "Kampong Birau",
+        "country": "Brunei",
+        "province": "Brunei",
+        "population": -1,
+        "latitude": 4.7833333,
+        "longitude": 114.7333333
+    },
+    {
+        "name": "Kampong Bintauran",
+        "country": "Brunei",
+        "province": "Brunei",
+        "population": -1,
+        "latitude": 4.8666667,
+        "longitude": 114.7166667
+    },
+    {
+        "name": "Kampong Binchaya",
+        "country": "Brunei",
+        "province": "Brunei",
+        "population": -1,
+        "latitude": 4.7333333,
+        "longitude": 114.5666667
+    },
+    {
+        "name": "Kampong Biang",
+        "country": "Brunei",
+        "province": "Brunei",
+        "population": -1,
+        "latitude": 4.65,
+        "longitude": 115.1
+    },
+    {
+        "name": "Kampong Bebatek",
+        "country": "Brunei",
+        "province": "Brunei",
+        "population": -1,
+        "latitude": 4.85,
+        "longitude": 114.8333333
+    },
+    {
+        "name": "Kampong Bandong",
+        "country": "Brunei",
+        "province": "Brunei",
+        "population": -1,
+        "latitude": 4.8833333,
+        "longitude": 114.7666667
+    },
+    {
+        "name": "Temada",
+        "country": "Brunei",
+        "province": "Brunei",
+        "population": -1,
+        "latitude": 4.55,
+        "longitude": 115.0666667
+    },
+    {
+        "name": "Tangki Ayer",
+        "country": "Brunei",
+        "province": "Brunei",
+        "population": -1,
+        "latitude": 4.9166667,
+        "longitude": 114.9333333
+    },
+    {
+        "name": "Sukang Hilir",
+        "country": "Brunei",
+        "province": "Brunei",
+        "population": -1,
+        "latitude": 4.4,
+        "longitude": 114.6
+    },
+    {
+        "name": "Rumah Supon",
+        "country": "Brunei",
+        "province": "Brunei",
+        "population": -1,
+        "latitude": 4.4833333,
+        "longitude": 114.7833333
+    },
+    {
+        "name": "Rumah Samawa",
+        "country": "Brunei",
+        "province": "Brunei",
+        "population": -1,
+        "latitude": 4.2333333,
+        "longitude": 114.6666667
+    },
+    {
+        "name": "Rumah Bawang Grang",
+        "country": "Brunei",
+        "province": "Brunei",
+        "population": -1,
+        "latitude": 4.2166667,
+        "longitude": 114.6833333
+    },
+    {
+        "name": "Rampayoh",
+        "country": "Brunei",
+        "province": "Brunei",
+        "population": -1,
+        "latitude": 4.3833333,
+        "longitude": 114.45
+    },
+    {
+        "name": "Purau Purau",
+        "country": "Brunei",
+        "province": "Brunei",
+        "population": -1,
+        "latitude": 4.3833333,
+        "longitude": 114.6166667
+    },
+    {
+        "name": "Kampong Wasan",
+        "country": "Brunei",
+        "province": "Brunei",
+        "population": -1,
+        "latitude": 4.7666667,
+        "longitude": 114.7833333
+    },
+    {
+        "name": "Kampong Tunah Jambu",
+        "country": "Brunei",
+        "province": "Brunei",
+        "population": -1,
+        "latitude": 4.9833333,
+        "longitude": 114.9833333
+    },
+    {
+        "name": "Kampong Tulang",
+        "country": "Brunei",
+        "province": "Brunei",
+        "population": -1,
+        "latitude": 4.8833333,
+        "longitude": 114.8333333
+    },
+    {
+        "name": "Kampong Timbunan",
+        "country": "Brunei",
+        "province": "Brunei",
+        "population": -1,
+        "latitude": 4.95,
+        "longitude": 114.9666667
+    },
+    {
+        "name": "Kampong Timahu",
+        "country": "Brunei",
+        "province": "Brunei",
+        "population": -1,
+        "latitude": 4.8666667,
+        "longitude": 114.8166667
+    },
+    {
+        "name": "Kampong Terap Bau",
+        "country": "Brunei",
+        "province": "Brunei",
+        "population": -1,
+        "latitude": 4.8666667,
+        "longitude": 114.9333333
+    },
+    {
+        "name": "Kampong Tanjong Santul",
+        "country": "Brunei",
+        "province": "Brunei",
+        "population": -1,
+        "latitude": 4.6833333,
+        "longitude": 114.6666667
+    },
+    {
+        "name": "Kampong Tanjong Nangka",
+        "country": "Brunei",
+        "province": "Brunei",
+        "population": -1,
+        "latitude": 4.8833333,
+        "longitude": 114.8166667
+    },
+    {
+        "name": "Kampong Tanjong Durian",
+        "country": "Brunei",
+        "province": "Brunei",
+        "population": -1,
+        "latitude": 4.8166667,
+        "longitude": 114.75
+    },
+    {
+        "name": "Kampong Tanjong Berapan",
+        "country": "Brunei",
+        "province": "Brunei",
+        "population": -1,
+        "latitude": 4.8166667,
+        "longitude": 114.6666667
+    },
+    {
+        "name": "Kampong Tanjong",
+        "country": "Brunei",
+        "province": "Brunei",
+        "population": -1,
+        "latitude": 4.8833333,
+        "longitude": 114.8333333
+    },
+    {
+        "name": "Kampong Sungai Liang Kechil",
+        "country": "Brunei",
+        "province": "Brunei",
+        "population": -1,
+        "latitude": 4.6666667,
+        "longitude": 114.4833333
+    },
+    {
+        "name": "Kampong Sungai Lampai",
+        "country": "Brunei",
+        "province": "Brunei",
+        "population": -1,
+        "latitude": 4.8833333,
+        "longitude": 114.95
+    },
+    {
+        "name": "Kampong Sungai Kelugus",
+        "country": "Brunei",
+        "province": "Brunei",
+        "population": -1,
+        "latitude": 4.8333333,
+        "longitude": 114.9166667
+    },
+    {
+        "name": "Kampong Sungai Burong",
+        "country": "Brunei",
+        "province": "Brunei",
+        "population": -1,
+        "latitude": 4.7166667,
+        "longitude": 114.7166667
+    },
+    {
+        "name": "Kampong Sungai Bubus",
+        "country": "Brunei",
+        "province": "Brunei",
+        "population": -1,
+        "latitude": 5.0166667,
+        "longitude": 115.1
+    },
+    {
+        "name": "Kampong Sungai Besar",
+        "country": "Brunei",
+        "province": "Brunei",
+        "population": -1,
+        "latitude": 4.9333333,
+        "longitude": 115.0166667
+    },
+    {
+        "name": "Jalan Sungai Asam",
+        "country": "Brunei",
+        "province": "Brunei",
+        "population": -1,
+        "latitude": 4.87156,
+        "longitude": 114.93698
+    },
+    {
+        "name": "Kampong Sumbiling",
+        "country": "Brunei",
+        "province": "Brunei",
+        "population": -1,
+        "latitude": 4.5833333,
+        "longitude": 115.1166667
+    },
+    {
+        "name": "Kampong Sinonuk",
+        "country": "Brunei",
+        "province": "Brunei",
+        "population": -1,
+        "latitude": 4.6333333,
+        "longitude": 114.6666667
+    },
+    {
+        "name": "Kampong Sinaut",
+        "country": "Brunei",
+        "province": "Brunei",
+        "population": -1,
+        "latitude": 4.8166667,
+        "longitude": 114.75
+    },
+    {
+        "name": "Kampong Sibut",
+        "country": "Brunei",
+        "province": "Brunei",
+        "population": -1,
+        "latitude": 4.6166667,
+        "longitude": 115.1
+    },
+    {
+        "name": "Kampong Sibakit",
+        "country": "Brunei",
+        "province": "Brunei",
+        "population": -1,
+        "latitude": 4.7333333,
+        "longitude": 114.6666667
+    },
+    {
+        "name": "Kampong Serusup",
+        "country": "Brunei",
+        "province": "Brunei",
+        "population": -1,
+        "latitude": 4.95,
+        "longitude": 114.9333333
+    },
+    {
+        "name": "Kampong Semabat",
+        "country": "Brunei",
+        "province": "Brunei",
+        "population": -1,
+        "latitude": 4.5666667,
+        "longitude": 115.0666667
+    },
+    {
+        "name": "Kampong Selangan",
+        "country": "Brunei",
+        "province": "Brunei",
+        "population": -1,
+        "latitude": 4.9166667,
+        "longitude": 114.8333333
+    },
+    {
+        "name": "Kampong Sawah",
+        "country": "Brunei",
+        "province": "Brunei",
+        "population": -1,
+        "latitude": 4.5166667,
+        "longitude": 114.55
+    },
+    {
+        "name": "Kampong Salapit",
+        "country": "Brunei",
+        "province": "Brunei",
+        "population": -1,
+        "latitude": 4.8666667,
+        "longitude": 114.8166667
+    },
+    {
+        "name": "Kampong Riong",
+        "country": "Brunei",
+        "province": "Brunei",
+        "population": -1,
+        "latitude": 4.85,
+        "longitude": 114.9833333
+    },
+    {
+        "name": "Kampong Riong",
+        "country": "Brunei",
+        "province": "Brunei",
+        "population": -1,
+        "latitude": 4.8166667,
+        "longitude": 114.6833333
+    },
+    {
+        "name": "Kampong Rendangan",
+        "country": "Brunei",
+        "province": "Brunei",
+        "population": -1,
+        "latitude": 4.8333333,
+        "longitude": 114.8333333
+    },
+    {
+        "name": "Kampong Ranggu",
+        "country": "Brunei",
+        "province": "Brunei",
+        "population": -1,
+        "latitude": 4.8666667,
+        "longitude": 114.9166667
+    },
+    {
+        "name": "Kampong Rampaya",
+        "country": "Brunei",
+        "province": "Brunei",
+        "population": -1,
+        "latitude": 4.6333333,
+        "longitude": 114.65
+    },
+    {
+        "name": "Kampong Putat",
+        "country": "Brunei",
+        "province": "Brunei",
+        "population": -1,
+        "latitude": 4.8333333,
+        "longitude": 114.9833333
+    },
+    {
+        "name": "Kampong Purau Purau",
+        "country": "Brunei",
+        "province": "Brunei",
+        "population": -1,
+        "latitude": 4.3666667,
+        "longitude": 114.6
+    },
+    {
+        "name": "Kampong Pulau Muda",
+        "country": "Brunei",
+        "province": "Brunei",
+        "population": -1,
+        "latitude": 4.9333333,
+        "longitude": 114.9166667
+    },
+    {
+        "name": "Kampong Pugat",
+        "country": "Brunei",
+        "province": "Brunei",
+        "population": -1,
+        "latitude": 4.8,
+        "longitude": 114.8166667
+    },
+    {
+        "name": "Kampong Pudak",
+        "country": "Brunei",
+        "province": "Brunei",
+        "population": -1,
+        "latitude": 4.9,
+        "longitude": 114.9833333
+    },
+    {
+        "name": "Kampong Potong",
+        "country": "Brunei",
+        "province": "Brunei",
+        "population": -1,
+        "latitude": 4.8333333,
+        "longitude": 114.7833333
+    },
+    {
+        "name": "Kampong Perupok",
+        "country": "Brunei",
+        "province": "Brunei",
+        "population": -1,
+        "latitude": 4.75,
+        "longitude": 114.6166667
+    },
+    {
+        "name": "Kampong Peradayan",
+        "country": "Brunei",
+        "province": "Brunei",
+        "population": -1,
+        "latitude": 4.7333333,
+        "longitude": 115.0833333
+    },
+    {
+        "name": "Kampong Pepatan",
+        "country": "Brunei",
+        "province": "Brunei",
+        "population": -1,
+        "latitude": 4.9,
+        "longitude": 115.0333333
+    },
+    {
+        "name": "Kampong Pepara",
+        "country": "Brunei",
+        "province": "Brunei",
+        "population": -1,
+        "latitude": 4.8,
+        "longitude": 114.8166667
+    },
+    {
+        "name": "Kampong Penyatang",
+        "country": "Brunei",
+        "province": "Brunei",
+        "population": -1,
+        "latitude": 4.75,
+        "longitude": 114.5833333
+    },
+    {
+        "name": "Kampong Peninjau",
+        "country": "Brunei",
+        "province": "Brunei",
+        "population": -1,
+        "latitude": 4.9333333,
+        "longitude": 114.8333333
+    },
+    {
+        "name": "Kampong Pelambayan",
+        "country": "Brunei",
+        "province": "Brunei",
+        "population": -1,
+        "latitude": 4.8833333,
+        "longitude": 114.9666667
+    },
+    {
+        "name": "Kampong Patong",
+        "country": "Brunei",
+        "province": "Brunei",
+        "population": -1,
+        "latitude": 4.8166667,
+        "longitude": 114.9166667
+    },
+    {
+        "name": "Kampong Pasang",
+        "country": "Brunei",
+        "province": "Brunei",
+        "population": -1,
+        "latitude": 4.9166667,
+        "longitude": 114.9166667
+    },
+    {
+        "name": "Kampong Parit Biang",
+        "country": "Brunei",
+        "province": "Brunei",
+        "population": -1,
+        "latitude": 4.6166667,
+        "longitude": 115.1
+    },
+    {
+        "name": "Kampong Parit",
+        "country": "Brunei",
+        "province": "Brunei",
+        "population": -1,
+        "latitude": 4.88594,
+        "longitude": 114.92867
+    },
+    {
+        "name": "Kampong Paring",
+        "country": "Brunei",
+        "province": "Brunei",
+        "population": -1,
+        "latitude": 4.95,
+        "longitude": 115.0166667
+    },
+    {
+        "name": "Kampong Pantau Marai",
+        "country": "Brunei",
+        "province": "Brunei",
+        "population": -1,
+        "latitude": 4.8,
+        "longitude": 114.8
+    },
+    {
+        "name": "Kampong Panjang",
+        "country": "Brunei",
+        "province": "Brunei",
+        "population": -1,
+        "latitude": 4.95,
+        "longitude": 114.9
+    },
+    {
+        "name": "Kampong Pak",
+        "country": "Brunei",
+        "province": "Brunei",
+        "population": -1,
+        "latitude": 4.6833333,
+        "longitude": 115.1833333
+    },
+    {
+        "name": "Kampong Paganan",
+        "country": "Brunei",
+        "province": "Brunei",
+        "population": -1,
+        "latitude": 4.55,
+        "longitude": 115.0666667
+    },
+    {
+        "name": "Kampong Nangka",
+        "country": "Brunei",
+        "province": "Brunei",
+        "population": -1,
+        "latitude": 4.8833333,
+        "longitude": 114.8333333
+    },
+    {
+        "name": "Kampong Medaras",
+        "country": "Brunei",
+        "province": "Brunei",
+        "population": -1,
+        "latitude": 4.9666667,
+        "longitude": 114.9166667
+    },
+    {
+        "name": "Kampong Mata Mata",
+        "country": "Brunei",
+        "province": "Brunei",
+        "population": -1,
+        "latitude": 4.9,
+        "longitude": 114.9
+    },
+    {
+        "name": "Kampong Lumapas",
+        "country": "Brunei",
+        "province": "Brunei",
+        "population": -1,
+        "latitude": 4.85,
+        "longitude": 114.9166667
+    },
+    {
+        "name": "Kampong Lopat",
+        "country": "Brunei",
+        "province": "Brunei",
+        "population": -1,
+        "latitude": 4.6833333,
+        "longitude": 115.2
+    },
+    {
+        "name": "Kampong Limpas",
+        "country": "Brunei",
+        "province": "Brunei",
+        "population": -1,
+        "latitude": 4.8333333,
+        "longitude": 114.9166667
+    },
+    {
+        "name": "Kampong Limau Manis",
+        "country": "Brunei",
+        "province": "Brunei",
+        "population": -1,
+        "latitude": 4.75,
+        "longitude": 114.8166667
+    },
+    {
+        "name": "Kampong Lepong",
+        "country": "Brunei",
+        "province": "Brunei",
+        "population": -1,
+        "latitude": 4.6,
+        "longitude": 115.05
+    },
+    {
+        "name": "Kampong Labut",
+        "country": "Brunei",
+        "province": "Brunei",
+        "population": -1,
+        "latitude": 4.75,
+        "longitude": 115.1
+    },
+    {
+        "name": "Kampong Kuala Ungar",
+        "country": "Brunei",
+        "province": "Brunei",
+        "population": -1,
+        "latitude": 4.6166667,
+        "longitude": 114.6666667
+    },
+    {
+        "name": "Kampong Kuala Tutong",
+        "country": "Brunei",
+        "province": "Tutong",
+        "population": -1,
+        "latitude": 4.7833333,
+        "longitude": 114.6
+    },
+    {
+        "name": "Kampong Kota Batu",
+        "country": "Brunei",
+        "province": "Brunei",
+        "population": -1,
+        "latitude": 4.8833333,
+        "longitude": 114.95
+    },
+    {
+        "name": "Kampong Keriam",
+        "country": "Brunei",
+        "province": "Tutong",
+        "population": -1,
+        "latitude": 4.816031,
+        "longitude": 114.694095
+    },
+    {
+        "name": "Kampong Keluyoh",
+        "country": "Brunei",
+        "province": "Brunei",
+        "population": -1,
+        "latitude": 4.6666667,
+        "longitude": 114.5
+    },
+    {
+        "name": "Kampong Kelalang",
+        "country": "Brunei",
+        "province": "Brunei",
+        "population": -1,
+        "latitude": 4.7333333,
+        "longitude": 114.6666667
+    },
+    {
+        "name": "Kampong Kebun",
+        "country": "Brunei",
+        "province": "Brunei",
+        "population": -1,
+        "latitude": 4.75,
+        "longitude": 114.7333333
+    },
+    {
+        "name": "Kampong Kandang",
+        "country": "Brunei",
+        "province": "Brunei",
+        "population": -1,
+        "latitude": 4.8,
+        "longitude": 114.65
+    },
+    {
+        "name": "Kampong Kalamasi",
+        "country": "Brunei",
+        "province": "Brunei",
+        "population": -1,
+        "latitude": 4.8333333,
+        "longitude": 114.95
+    },
+    {
+        "name": "Kampong Jangsak",
+        "country": "Brunei",
+        "province": "Brunei",
+        "population": -1,
+        "latitude": 4.8833333,
+        "longitude": 114.8666667
+    },
+    {
+        "name": "Kampong Imang",
+        "country": "Brunei",
+        "province": "Brunei",
+        "population": -1,
+        "latitude": 4.8,
+        "longitude": 114.8
+    },
+    {
+        "name": "Kampong Gadong",
+        "country": "Brunei",
+        "province": "Brunei-Muara District",
+        "population": -1,
+        "latitude": 4.9166667,
+        "longitude": 114.9166667
+    },
+    {
+        "name": "Kampong Burong Pingai Berakas",
+        "country": "Brunei",
+        "province": "Brunei",
+        "population": -1,
+        "latitude": 4.9333333,
+        "longitude": 114.9166667
+    },
+    {
+        "name": "Kampong Bukok",
+        "country": "Brunei",
+        "province": "Brunei",
+        "population": -1,
+        "latitude": 4.65,
+        "longitude": 115.05
+    },
+    {
+        "name": "Kampong Bukit Tambai",
+        "country": "Brunei",
+        "province": "Brunei",
+        "population": -1,
+        "latitude": 4.7666667,
+        "longitude": 114.7333333
+    },
+    {
+        "name": "Kampong Bukit Kota",
+        "country": "Brunei",
+        "province": "Brunei",
+        "population": -1,
+        "latitude": 4.7,
+        "longitude": 114.7166667
+    },
+    {
+        "name": "Kampong Bukit",
+        "country": "Brunei",
+        "province": "Brunei",
+        "population": -1,
+        "latitude": 4.6333333,
+        "longitude": 114.65
+    },
+    {
+        "name": "Kampong Buangsakar",
+        "country": "Brunei",
+        "province": "Brunei",
+        "population": -1,
+        "latitude": 4.85,
+        "longitude": 114.95
+    },
+    {
+        "name": "Kampong Buang Bulan",
+        "country": "Brunei",
+        "province": "Brunei",
+        "population": -1,
+        "latitude": 4.6833333,
+        "longitude": 115.0833333
+    },
+    {
+        "name": "Kampong Buangang",
+        "country": "Brunei",
+        "province": "Brunei",
+        "population": -1,
+        "latitude": 4.6166667,
+        "longitude": 114.6833333
+    },
+    {
+        "name": "Kampong Bibit",
+        "country": "Brunei",
+        "province": "Brunei",
+        "population": -1,
+        "latitude": 4.8833333,
+        "longitude": 114.9
+    },
+    {
+        "name": "Kampong Beribi",
+        "country": "Brunei",
+        "province": "Brunei",
+        "population": -1,
+        "latitude": 4.8833333,
+        "longitude": 114.8833333
+    },
+    {
+        "name": "Kampong Berbunot",
+        "country": "Brunei",
+        "province": "Brunei",
+        "population": -1,
+        "latitude": 4.8833333,
+        "longitude": 115.0333333
+    },
+    {
+        "name": "Kampong Berakas",
+        "country": "Brunei",
+        "province": "Brunei-Muara District",
+        "population": -1,
+        "latitude": 4.94794,
+        "longitude": 114.93583
+    },
+    {
+        "name": "Kampong Belayong",
+        "country": "Brunei",
+        "province": "Brunei",
+        "population": -1,
+        "latitude": 4.6333333,
+        "longitude": 115.05
+    },
+    {
+        "name": "Kampong Belaban",
+        "country": "Brunei",
+        "province": "Brunei",
+        "population": -1,
+        "latitude": 4.6666667,
+        "longitude": 115.0833333
+    },
+    {
+        "name": "Kampong Bawong",
+        "country": "Brunei",
+        "province": "Brunei",
+        "population": -1,
+        "latitude": 4.8333333,
+        "longitude": 114.9666667
+    },
+    {
+        "name": "Kampong Batu Lapan",
+        "country": "Brunei",
+        "province": "Brunei",
+        "population": -1,
+        "latitude": 4.8833333,
+        "longitude": 114.85
+    },
+    {
+        "name": "Kampong Batu Empat",
+        "country": "Brunei",
+        "province": "Brunei",
+        "population": -1,
+        "latitude": 4.8666667,
+        "longitude": 114.9
+    },
+    {
+        "name": "Kampong Batu Empat",
+        "country": "Brunei",
+        "province": "Brunei",
+        "population": -1,
+        "latitude": 4.7833333,
+        "longitude": 114.8166667
+    },
+    {
+        "name": "Kampong Batang Duri",
+        "country": "Brunei",
+        "province": "Temburong",
+        "population": -1,
+        "latitude": 4.5666667,
+        "longitude": 115.1333333
+    },
+    {
+        "name": "Kampong Baru Baru",
+        "country": "Brunei",
+        "province": "Brunei",
+        "population": -1,
+        "latitude": 4.6666667,
+        "longitude": 115.1
+    },
+    {
+        "name": "Kampong Bantun",
+        "country": "Brunei",
+        "province": "Brunei",
+        "population": -1,
+        "latitude": 4.8833333,
+        "longitude": 114.8666667
+    },
+    {
+        "name": "Kampong Bang Togor",
+        "country": "Brunei",
+        "province": "Brunei",
+        "population": -1,
+        "latitude": 4.6166667,
+        "longitude": 114.6166667
+    },
+    {
+        "name": "Kampong Bangana",
+        "country": "Brunei",
+        "province": "Brunei",
+        "population": -1,
+        "latitude": 4.65,
+        "longitude": 114.7166667
+    },
+    {
+        "name": "Kampong Bakaladong",
+        "country": "Brunei",
+        "province": "Brunei",
+        "population": -1,
+        "latitude": 4.6833333,
+        "longitude": 114.6666667
+    },
+    {
+        "name": "Kampong Baharu",
+        "country": "Brunei",
+        "province": "Brunei",
+        "population": -1,
+        "latitude": 4.8,
+        "longitude": 114.8
+    },
+    {
+        "name": "Kampong Ampar",
+        "country": "Brunei",
+        "province": "Brunei",
+        "population": -1,
+        "latitude": 4.7833333,
+        "longitude": 114.8166667
+    },
+    {
+        "name": "Kampong Amo",
+        "country": "Brunei",
+        "province": "Temburong",
+        "population": -1,
+        "latitude": 4.6166667,
+        "longitude": 115.1
+    },
+    {
+        "name": "Kampong Abang",
+        "country": "Brunei",
+        "province": "Brunei",
+        "population": -1,
+        "latitude": 4.6833333,
+        "longitude": 114.7166667
+    },
+    {
+        "name": "Istana Darul Hana",
+        "country": "Brunei",
+        "province": "Brunei",
+        "population": -1,
+        "latitude": 4.8833333,
+        "longitude": 114.9166667
+    },
+    {
+        "name": "Bukit Puan",
+        "country": "Brunei",
+        "province": "Brunei",
+        "population": -1,
+        "latitude": 4.5333333,
+        "longitude": 114.45
+    },
+    {
+        "name": "Bukit Salat",
+        "country": "Brunei",
+        "province": "Brunei-Muara District",
+        "population": -1,
+        "latitude": 4.89015,
+        "longitude": 114.93675
+    },
+    {
+        "name": "Kuala Peminyak",
+        "country": "Brunei",
+        "province": "Brunei-Muara District",
+        "population": -1,
+        "latitude": 4.88509,
+        "longitude": 114.93934
+    },
+    {
+        "name": "Pemancha Lama",
+        "country": "Brunei",
+        "province": "Brunei-Muara District",
+        "population": -1,
+        "latitude": 4.88562,
+        "longitude": 114.93996
+    }
+]
