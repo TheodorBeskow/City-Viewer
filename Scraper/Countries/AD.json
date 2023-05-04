@@ -1,0 +1,562 @@
+[
+    {
+        "name": "Andorra la Vella",
+        "country": "Andorra",
+        "province": "Andorra la Vella",
+        "population": 20430,
+        "latitude": 42.5077931425348,
+        "longitude": 1.5210914611816406
+    },
+    {
+        "name": "Escaldes-Engordany",
+        "country": "Andorra",
+        "province": "Escaldes-Engordany",
+        "population": 15853,
+        "latitude": 42.5072869554153,
+        "longitude": 1.53413772583008
+    },
+    {
+        "name": "Encamp",
+        "country": "Andorra",
+        "province": "Encamp",
+        "population": 11223,
+        "latitude": 42.5347416860164,
+        "longitude": 1.5801429748535156
+    },
+    {
+        "name": "Canillo",
+        "country": "Andorra",
+        "province": "Canillo",
+        "population": 3292,
+        "latitude": 42.56759716305985,
+        "longitude": 1.5975558757781982
+    },
+    {
+        "name": "Sant Julià de Lòria",
+        "country": "Andorra",
+        "province": "Sant Julià de Loria",
+        "population": 8022,
+        "latitude": 42.4637237004292,
+        "longitude": 1.49128675460815
+    },
+    {
+        "name": "La Massana",
+        "country": "Andorra",
+        "province": "La Massana",
+        "population": 7211,
+        "latitude": 42.5449866731324,
+        "longitude": 1.51482582092285
+    },
+    {
+        "name": "Ordino",
+        "country": "Andorra",
+        "province": "Ordino",
+        "population": 3066,
+        "latitude": 42.556225766578,
+        "longitude": 1.53319358825684
+    },
+    {
+        "name": "Pas de la Casa",
+        "country": "Andorra",
+        "province": "Encamp",
+        "population": 2363,
+        "latitude": 42.5427733923449,
+        "longitude": 1.73360824584961
+    },
+    {
+        "name": "Arinsal",
+        "country": "Andorra",
+        "province": "La Massana",
+        "population": 1419,
+        "latitude": 42.5720455887291,
+        "longitude": 1.48452758789062
+    },
+    {
+        "name": "El Tarter",
+        "country": "Andorra",
+        "province": "Canillo",
+        "population": 1052,
+        "latitude": 42.579525,
+        "longitude": 1.653625
+    },
+    {
+        "name": "Certers",
+        "country": "Andorra",
+        "province": "Sant Julià de Loria",
+        "population": -1,
+        "latitude": 42.474574,
+        "longitude": 1.506108
+    },
+    {
+        "name": "Bixessarri",
+        "country": "Andorra",
+        "province": "Sant Julià de Loria",
+        "population": -1,
+        "latitude": 42.481972,
+        "longitude": 1.460522
+    },
+    {
+        "name": "Aubinyà",
+        "country": "Andorra",
+        "province": "Sant Julià de Loria",
+        "population": -1,
+        "latitude": 42.45310125153081,
+        "longitude": 1.492466926574707
+    },
+    {
+        "name": "Arans",
+        "country": "Andorra",
+        "province": "Ordino",
+        "population": -1,
+        "latitude": 42.582263,
+        "longitude": 1.518444
+    },
+    {
+        "name": "Anyós",
+        "country": "Andorra",
+        "province": "La Massana",
+        "population": -1,
+        "latitude": 42.53464681717032,
+        "longitude": 1.52510404586792
+    },
+    {
+        "name": "Ansalonga",
+        "country": "Andorra",
+        "province": "Ordino",
+        "population": -1,
+        "latitude": 42.568806091659575,
+        "longitude": 1.521981954574585
+    },
+    {
+        "name": "Aixovall",
+        "country": "Andorra",
+        "province": "Sant Julià de Loria",
+        "population": -1,
+        "latitude": 42.47640179036158,
+        "longitude": 1.4889907836914062
+    },
+    {
+        "name": "Aixirivall",
+        "country": "Andorra",
+        "province": "Sant Julià de Loria",
+        "population": -1,
+        "latitude": 42.462454,
+        "longitude": 1.502094
+    },
+    {
+        "name": "Aixàs",
+        "country": "Andorra",
+        "province": "Sant Julià de Loria",
+        "population": -1,
+        "latitude": 42.486466,
+        "longitude": 1.46838
+    },
+    {
+        "name": "Xixerella",
+        "country": "Andorra",
+        "province": "La Massana",
+        "population": -1,
+        "latitude": 42.5532699704902,
+        "longitude": 1.48736000061035
+    },
+    {
+        "name": "Vila",
+        "country": "Andorra",
+        "province": "Encamp",
+        "population": -1,
+        "latitude": 42.5317572011909,
+        "longitude": 1.5665441751480103
+    },
+    {
+        "name": "Sornàs",
+        "country": "Andorra",
+        "province": "Ordino",
+        "population": -1,
+        "latitude": 42.564608,
+        "longitude": 1.527566
+    },
+    {
+        "name": "Soldeu",
+        "country": "Andorra",
+        "province": "Canillo",
+        "population": 602,
+        "latitude": 42.57688081768198,
+        "longitude": 1.6676902770996094
+    },
+    {
+        "name": "Sispony",
+        "country": "Andorra",
+        "province": "La Massana",
+        "population": -1,
+        "latitude": 42.53367835612189,
+        "longitude": 1.5161347389221191
+    },
+    {
+        "name": "Segudet",
+        "country": "Andorra",
+        "province": "Ordino",
+        "population": -1,
+        "latitude": 42.557128,
+        "longitude": 1.538077
+    },
+    {
+        "name": "Santa Coloma",
+        "country": "Andorra",
+        "province": "Andorra la Vella",
+        "population": -1,
+        "latitude": 42.494542,
+        "longitude": 1.498967
+    },
+    {
+        "name": "Ransol",
+        "country": "Andorra",
+        "province": "Canillo",
+        "population": -1,
+        "latitude": 42.58136808036866,
+        "longitude": 1.6381216049194336
+    },
+    {
+        "name": "Prats",
+        "country": "Andorra",
+        "province": "Canillo",
+        "population": -1,
+        "latitude": 42.56003490158782,
+        "longitude": 1.5939617156982422
+    },
+    {
+        "name": "Pal",
+        "country": "Andorra",
+        "province": "La Massana",
+        "population": -1,
+        "latitude": 42.545919389391564,
+        "longitude": 1.475236415863037
+    },
+    {
+        "name": "Nagol",
+        "country": "Andorra",
+        "province": "Sant Julià de Loria",
+        "population": -1,
+        "latitude": 42.471419,
+        "longitude": 1.502308
+    },
+    {
+        "name": "Molleres",
+        "country": "Andorra",
+        "province": "Canillo",
+        "population": -1,
+        "latitude": 42.550927,
+        "longitude": 1.589851
+    },
+    {
+        "name": "Meritxell",
+        "country": "Andorra",
+        "province": "Canillo",
+        "population": -1,
+        "latitude": 42.55402869086266,
+        "longitude": 1.590871810913086
+    },
+    {
+        "name": "Llumeneres",
+        "country": "Andorra",
+        "province": "Sant Julià de Loria",
+        "population": -1,
+        "latitude": 42.47228683666464,
+        "longitude": 1.5116500854492188
+    },
+    {
+        "name": "Llorts",
+        "country": "Andorra",
+        "province": "Ordino",
+        "population": -1,
+        "latitude": 42.59624957634236,
+        "longitude": 1.5265846252441406
+    },
+    {
+        "name": "Les Bons",
+        "country": "Andorra",
+        "province": "Encamp",
+        "population": -1,
+        "latitude": 42.53872604741696,
+        "longitude": 1.5864944458007812
+    },
+    {
+        "name": "l'Aldosa de canillo",
+        "country": "Andorra",
+        "province": "Canillo",
+        "population": 195,
+        "latitude": 42.57895068672027,
+        "longitude": 1.629023551940918
+    },
+    {
+        "name": "l'Aldosa",
+        "country": "Andorra",
+        "province": "La Massana",
+        "population": 594,
+        "latitude": 42.5439116608356,
+        "longitude": 1.52289390563965
+    },
+    {
+        "name": "La Cortinada",
+        "country": "Andorra",
+        "province": "Ordino",
+        "population": -1,
+        "latitude": 42.574226228588515,
+        "longitude": 1.5184521675109863
+    },
+    {
+        "name": "Juberri",
+        "country": "Andorra",
+        "province": "Sant Julià de Loria",
+        "population": -1,
+        "latitude": 42.44,
+        "longitude": 1.491941
+    },
+    {
+        "name": "Fontaneda",
+        "country": "Andorra",
+        "province": "Sant Julià de Loria",
+        "population": -1,
+        "latitude": 42.454046,
+        "longitude": 1.464711
+    },
+    {
+        "name": "Escàs",
+        "country": "Andorra",
+        "province": "La Massana",
+        "population": -1,
+        "latitude": 42.54643,
+        "longitude": 1.508952
+    },
+    {
+        "name": "Erts",
+        "country": "Andorra",
+        "province": "La Massana",
+        "population": -1,
+        "latitude": 42.56218435232186,
+        "longitude": 1.4968013763427734
+    },
+    {
+        "name": "Engordany",
+        "country": "Andorra",
+        "province": "Escaldes-Engordany",
+        "population": -1,
+        "latitude": 42.511146528672,
+        "longitude": 1.54117584228516
+    },
+    {
+        "name": "El Vilar",
+        "country": "Andorra",
+        "province": "Canillo",
+        "population": -1,
+        "latitude": 42.572044,
+        "longitude": 1.608002
+    },
+    {
+        "name": "Els Plans",
+        "country": "Andorra",
+        "province": "Canillo",
+        "population": -1,
+        "latitude": 42.581425,
+        "longitude": 1.632726
+    },
+    {
+        "name": "El Serrat",
+        "country": "Andorra",
+        "province": "Ordino",
+        "population": -1,
+        "latitude": 42.61829672418602,
+        "longitude": 1.5391159057617188
+    },
+    {
+        "name": "La Margineda",
+        "country": "Andorra",
+        "province": "Andorra la Vella",
+        "population": 155,
+        "latitude": 42.485991747585004,
+        "longitude": 1.4902353286743164
+    },
+    {
+        "name": "Incles",
+        "country": "Andorra",
+        "province": "Canillo",
+        "population": -1,
+        "latitude": 42.582853229987315,
+        "longitude": 1.6626691818237305
+    },
+    {
+        "name": "Bordes de Envalira",
+        "country": "Andorra",
+        "province": "Canillo",
+        "population": -1,
+        "latitude": 42.559623968751495,
+        "longitude": 1.6857576370239258
+    },
+    {
+        "name": "Els Vilars",
+        "country": "Andorra",
+        "province": "Escaldes-Engordany",
+        "population": -1,
+        "latitude": 42.516357,
+        "longitude": 1.533563
+    },
+    {
+        "name": "Sant Joan de Caselles",
+        "country": "Andorra",
+        "province": "Canillo",
+        "population": -1,
+        "latitude": 42.57116066964717,
+        "longitude": 1.6076087951660156
+    },
+    {
+        "name": "Ràmio",
+        "country": "Andorra",
+        "province": "Escaldes-Engordany",
+        "population": -1,
+        "latitude": 42.497338,
+        "longitude": 1.57401
+    },
+    {
+        "name": "Mas de Ribafeta",
+        "country": "Andorra",
+        "province": "La Massana",
+        "population": -1,
+        "latitude": 42.569315,
+        "longitude": 1.48858
+    },
+    {
+        "name": "Mas d’Alins",
+        "country": "Andorra",
+        "province": "Sant Julià de Loria",
+        "population": -1,
+        "latitude": 42.441115,
+        "longitude": 1.45128
+    },
+    {
+        "name": "Les Subiranes",
+        "country": "Andorra",
+        "province": "Ordino",
+        "population": 6,
+        "latitude": 42.62055,
+        "longitude": 1.54147
+    },
+    {
+        "name": "Les Salines",
+        "country": "Andorra",
+        "province": "Ordino",
+        "population": -1,
+        "latitude": 42.6095167034749,
+        "longitude": 1.5369701385498
+    },
+    {
+        "name": "Sant Miquel d'Engolasters",
+        "country": "Andorra",
+        "province": "Escaldes-Engordany",
+        "population": -1,
+        "latitude": 42.51119398095852,
+        "longitude": 1.5598654747009277
+    },
+    {
+        "name": "Puiol del Piu",
+        "country": "Andorra",
+        "province": "La Massana",
+        "population": 400,
+        "latitude": 42.5652,
+        "longitude": 1.49159
+    },
+    {
+        "name": "La Comella",
+        "country": "Andorra",
+        "province": "Andorra la Vella",
+        "population": -1,
+        "latitude": 42.50117,
+        "longitude": 1.528792
+    },
+    {
+        "name": "Tossalet i Vinyals",
+        "country": "Andorra",
+        "province": "Andorra la Vella",
+        "population": -1,
+        "latitude": 42.485971,
+        "longitude": 1.489104
+    },
+    {
+        "name": "La Plana",
+        "country": "Andorra",
+        "province": "Escaldes-Engordany",
+        "population": -1,
+        "latitude": 42.504711,
+        "longitude": 1.538625
+    },
+    {
+        "name": "Els Cortals",
+        "country": "Andorra",
+        "province": "Encamp",
+        "population": -1,
+        "latitude": 42.533381885451654,
+        "longitude": 1.5885329246520996
+    },
+    {
+        "name": "Urbanització Ermengol-Serra",
+        "country": "Andorra",
+        "province": "Escaldes-Engordany",
+        "population": -1,
+        "latitude": 42.514178,
+        "longitude": 1.541804
+    },
+    {
+        "name": "Urbanització Guem",
+        "country": "Andorra",
+        "province": "Escaldes-Engordany",
+        "population": -1,
+        "latitude": 42.512016,
+        "longitude": 1.545053
+    },
+    {
+        "name": "Urbanització Sa Calma",
+        "country": "Andorra",
+        "province": "Escaldes-Engordany",
+        "population": -1,
+        "latitude": 42.510954,
+        "longitude": 1.543734
+    },
+    {
+        "name": "El Barri",
+        "country": "Andorra",
+        "province": "Escaldes-Engordany",
+        "population": -1,
+        "latitude": 42.509088,
+        "longitude": 1.544992
+    },
+    {
+        "name": "Urbanització la Plana",
+        "country": "Andorra",
+        "province": "Escaldes-Engordany",
+        "population": -1,
+        "latitude": 42.505259,
+        "longitude": 1.53995
+    },
+    {
+        "name": "Urbanització Can Noguer",
+        "country": "Andorra",
+        "province": "Escaldes-Engordany",
+        "population": -1,
+        "latitude": 42.508858,
+        "longitude": 1.550524
+    },
+    {
+        "name": "Urbanització Terra Vella",
+        "country": "Andorra",
+        "province": "Andorra la Vella",
+        "population": -1,
+        "latitude": 42.503355,
+        "longitude": 1.5225
+    },
+    {
+        "name": "El Cedre",
+        "country": "Andorra",
+        "province": "Andorra la Vella",
+        "population": -1,
+        "latitude": 42.497762,
+        "longitude": 1.501426
+    }
+]
