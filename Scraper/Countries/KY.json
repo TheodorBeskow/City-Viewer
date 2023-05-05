@@ -1,0 +1,42 @@
+[
+    {
+        "name": "George Town",
+        "country": "Cayman Islands",
+        "province": "George Town",
+        "population": 29370,
+        "latitude": 19.2866,
+        "longitude": -81.37436
+    },
+    {
+        "name": "West Bay",
+        "country": "Cayman Islands",
+        "province": "West Bay",
+        "population": 15335,
+        "latitude": 19.38197,
+        "longitude": -81.39281
+    },
+    {
+        "name": "North Side",
+        "country": "Cayman Islands",
+        "province": "North Side",
+        "population": 1902,
+        "latitude": 19.35,
+        "longitude": -81.2
+    },
+    {
+        "name": "East End",
+        "country": "Cayman Islands",
+        "province": "East End",
+        "population": 1846,
+        "latitude": 19.3,
+        "longitude": -81.1166667
+    },
+    {
+        "name": "Bodden Town",
+        "country": "Cayman Islands",
+        "province": "Bodden Town",
+        "population": 14845,
+        "latitude": 19.27647,
+        "longitude": -81.2542
+    }
+]

@@ -21,13 +21,16 @@ const scraperObject = {
           continue;
         }
         try{
-          list.push(element.getAttribute("value"));
+          list.push({
+            "CountryCode" : element.getAttribute("value"),
+            "CountryName" : element.textContent.substring(1)
+          });
         } catch{}
       }
-      console.log(list);
-
+      
       return list;
     }, elements);
+    console.log(countries);
 
     fs.writeFile(
       `${sortiment.split("/").join("-")}.json`,

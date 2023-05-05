@@ -5,20 +5,20 @@ const sleep = ms => new Promise(r => setTimeout(r, ms*1000))
 const scraperObject = {
   url1: "https://www.geonames.org/advanced-search.html?q=&country=",
   url2: "&featureClass=P&startRow=",
-  async scraper(browser, toSave, CountryCode) {
+  async scraper(browser, toSave, CountryData) {
     let page = await browser.newPage();
     let CountryCityList = [];
     let FoundEnd = false;
     
     //
     for(let CountryIndex = 0; CountryIndex<=5000 && !FoundEnd; CountryIndex+=50){
-      console.log(`Navigating to ${this.url1}${CountryCode}${this.url2}${CountryIndex}`);
+      console.log(`Navigating to ${this.url1}${CountryData["CountryCode"]}${this.url2}${CountryIndex}`);
 
-      await page.goto(`${this.url1}${CountryCode}${this.url2}${CountryIndex}`, {waitUntil: "domcontentloaded"});
+      await page.goto(`${this.url1}${CountryData["CountryCode"]}${this.url2}${CountryIndex}`, {waitUntil: "domcontentloaded"});
       // Wait for the required DOM to be rendered
   
       for(let city = 3; city < 53; city++){
-        // console.log(city);
+        // Check to see if there are any cities left
         try{
           await page.waitForXPath('//*[@id="search"]/table/tbody/tr['+(city+1).toString()+']', {timeout: 1000})
         }catch{
@@ -27,19 +27,20 @@ const scraperObject = {
           break
         }
         
-        let hasPopulation = await page.waitForXPath('//*[@id="search"]/table/tbody/tr['+city.toString()+']/td[4]')
+        let hasPopulation = await page.waitForXPath('//*[@id="search"]/table/tbody/tr['+city.toString()+']/td[4]');
         let popText = await page.evaluate((hasPopulation) => {return hasPopulation.textContent}, hasPopulation);
         var hasPop = popText.includes("population");
 
+        let CountryLess = false;
         try{
           await page.waitForXPath('//*[@id="search"]/table/tbody/tr['+city.toString()+']/td[3]/a', {timeout: 1000});
         } catch {
           console.log("City has no country:", CountryIndex+city-2);
-          continue;
+          CountryLess = true;
         }
         
-        let name = await page.waitForXPath('//*[@id="search"]/table/tbody/tr['+city.toString()+']/td[2]/a')
-        let country = await page.waitForXPath('//*[@id="search"]/table/tbody/tr['+city.toString()+']/td[3]/a')
+        let name = await page.waitForXPath('//*[@id="search"]/table/tbody/tr['+city.toString()+']/td[2]/a');
+        let country = await page.waitForXPath('//*[@id="search"]/table/tbody/tr['+city.toString()+']/td[3]'+(CountryLess?'':'/a'));
         try{
           var province = await page.waitForXPath('//*[@id="search"]/table/tbody/tr['+city.toString()+']/td[3]/text()', {timeout: 1000})
         } catch {
@@ -59,11 +60,13 @@ const scraperObject = {
             "longitude" : parseFloat(long.textContent),
           };
         }, name, country, province, population, lat, long);
+
         if(cityData["province"]!=cityData["country"]) cityData["province"] = cityData["province"].substring(2);
         if(cityData["province"].length == 0) {
           cityData["province"] = cityData["country"]
           console.log("Province length = 0 now set to", cityData["country"])
         }
+
         if(hasPop){
           cityData["population"] = cityData["population"].substring(11);
           let splitIndex = cityData["population"].indexOf(' ');
@@ -73,6 +76,12 @@ const scraperObject = {
           cityData["population"] = cityData["population"].replace(/,/g, "");
           cityData["population"] = parseInt(cityData["population"]);
         }else cityData["population"] = -1;
+
+        if(CountryLess && cityData["country"].substring(0, 2).toUpperCase() == CountryData["CountryCode"]) cityData["country"] = CountryData["CountryName"];
+        if(cityData["country"] != CountryData["CountryName"]){
+          console.log("Wrong country name!\nShould be \"" + CountryData["CountryName"]+ "\" but is \"" + cityData["country"] + "\"")
+          continue;
+        }
 
         //console.log(cityData) 
         CountryCityList.push(cityData);
