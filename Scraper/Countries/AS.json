@@ -1,1 +1,1194 @@
-[{"name":"Pago Pago","country":"American Samoa","province":"Eastern District","population":11500,"latitude":-14.27806,"longitude":-170.7025},{"name":"Aūa","country":"American Samoa","province":"Eastern District","population":2124,"latitude":-14.2761111,"longitude":-170.6638889},{"name":"Faleniu","country":"American Samoa","province":"Western District","population":3200,"latitude":-14.3325,"longitude":-170.7444444},{"name":"Leone","country":"American Samoa","province":"Western District","population":4050,"latitude":-14.3438889,"longitude":-170.785},{"name":"Vaitogi","country":"American Samoa","province":"Western District","population":1436,"latitude":-14.35259,"longitude":-170.73796},{"name":"Fagatogo","country":"American Samoa","province":"Eastern District","population":1868,"latitude":-14.2825,"longitude":-170.69},{"name":"Mapusagafou","country":"American Samoa","province":"Western District","population":2052,"latitude":-14.3305556,"longitude":-170.7527778},{"name":"Malaeimi","country":"American Samoa","province":"Western District","population":1261,"latitude":-14.3227778,"longitude":-170.7338889},{"name":"Vailoatai","country":"American Samoa","province":"Western District","population":1144,"latitude":-14.3534,"longitude":-170.7808},{"name":"Ta`ū","country":"American Samoa","province":"Manu'a","population":873,"latitude":-14.2336111,"longitude":-169.5144444},{"name":"Fitiuta","country":"American Samoa","province":"Manu'a","population":-1,"latitude":-14.21675,"longitude":-169.42493},{"name":"Taulaga","country":"American Samoa","province":"Swains Island","population":37,"latitude":-11.0552778,"longitude":-171.0883333},{"name":"Tāfuna","country":"American Samoa","province":"Western District","population":7988,"latitude":-14.3358333,"longitude":-170.72},{"name":"Utulei","country":"American Samoa","province":"Eastern District","population":683,"latitude":-14.2869444,"longitude":-170.6830556},{"name":"Afao","country":"American Samoa","province":"Western District","population":-1,"latitude":-14.3366667,"longitude":-170.7991667},{"name":"Aasu","country":"American Samoa","province":"Western District","population":-1,"latitude":-14.2975,"longitude":-170.7583333},{"name":"Āfono","country":"American Samoa","province":"Eastern District","population":527,"latitude":-14.2641667,"longitude":-170.6508333},{"name":"Alofau","country":"American Samoa","province":"Eastern District","population":465,"latitude":-14.2791667,"longitude":-170.6022222},{"name":"Alao","country":"American Samoa","province":"Eastern District","population":508,"latitude":-14.2675,"longitude":-170.5636111},{"name":"Ālega","country":"American Samoa","province":"Eastern District","population":-1,"latitude":-14.2852778,"longitude":-170.6375},{"name":"Agugulu","country":"American Samoa","province":"Western District","population":-1,"latitude":-14.3355556,"longitude":-170.8216667},{"name":"‘Āmanave","country":"American Samoa","province":"Western District","population":-1,"latitude":-14.33,"longitude":-170.8294444},{"name":"Amaluia","country":"American Samoa","province":"Western District","population":-1,"latitude":-14.3383333,"longitude":-170.7911111},{"name":"Amaua","country":"American Samoa","province":"Eastern District","population":-1,"latitude":-14.2769444,"longitude":-170.6216667},{"name":"Āmouli","country":"American Samoa","province":"Eastern District","population":-1,"latitude":-14.2780556,"longitude":-170.5825},{"name":"Anua","country":"American Samoa","province":"Eastern District","population":-1,"latitude":-14.275,"longitude":-170.6877778},{"name":"Asili","country":"American Samoa","province":"Western District","population":-1,"latitude":-14.3355556,"longitude":-170.7955556},{"name":"‘Aoa","country":"American Samoa","province":"Eastern District","population":466,"latitude":-14.2655556,"longitude":-170.5838889},{"name":"Atu‘u","country":"American Samoa","province":"Eastern District","population":-1,"latitude":-14.2744444,"longitude":-170.6847222},{"name":"Auasi","country":"American Samoa","province":"Eastern District","population":-1,"latitude":-14.2766667,"longitude":-170.5744444},{"name":"Aumi","country":"American Samoa","province":"Eastern District","population":-1,"latitude":-14.2919444,"longitude":-170.6466667},{"name":"Aunu‘u","country":"American Samoa","province":"Eastern District","population":-1,"latitude":-14.2836,"longitude":-170.56055},{"name":"Auto","country":"American Samoa","province":"Eastern District","population":-1,"latitude":-14.2830556,"longitude":-170.6269444},{"name":"Vatia","country":"American Samoa","province":"Eastern District","population":-1,"latitude":-14.255,"longitude":-170.6752778},{"name":"Faiava","country":"American Samoa","province":"Manu'a","population":-1,"latitude":-14.16069,"longitude":-169.61746},{"name":"Faga‘alu","country":"American Samoa","province":"Eastern District","population":-1,"latitude":-14.2963889,"longitude":-170.6836111},{"name":"Failolo","country":"American Samoa","province":"Western District","population":-1,"latitude":-14.3336111,"longitude":-170.8258333},{"name":"Fatumafuti","country":"American Samoa","province":"Eastern District","population":-1,"latitude":-14.3013889,"longitude":-170.6772222},{"name":"Ili‘ili","country":"American Samoa","province":"Western District","population":-1,"latitude":-14.3516667,"longitude":-170.7469444},{"name":"Lalomoana","country":"American Samoa","province":"Manu'a","population":-1,"latitude":-14.16571,"longitude":-169.6235},{"name":"Mapusaga","country":"American Samoa","province":"Western District","population":-1,"latitude":-14.33,"longitude":-170.7438889},{"name":"Nu‘uuli","country":"American Samoa","province":"Eastern District","population":-1,"latitude":-14.3158333,"longitude":-170.6975},{"name":"Olosega","country":"American Samoa","province":"Manu'a","population":-1,"latitude":-14.17699,"longitude":-169.62425},{"name":"Pagai","country":"American Samoa","province":"Eastern District","population":-1,"latitude":-14.275,"longitude":-170.6052778},{"name":"Futiga","country":"American Samoa","province":"Western District","population":-1,"latitude":-14.3533333,"longitude":-170.7541667},{"name":"Poloa","country":"American Samoa","province":"Western District","population":-1,"latitude":-14.3216667,"longitude":-170.8327778},{"name":"Se‘etaga","country":"American Samoa","province":"Western District","population":-1,"latitude":-14.3305556,"longitude":-170.8105556},{"name":"Faleāsao","country":"American Samoa","province":"Manu'a","population":-1,"latitude":-14.2222046287597,"longitude":-169.5127773284912},{"name":"Fagalea","country":"American Samoa","province":"Eastern District","population":-1,"latitude":-14.2891667,"longitude":-170.7186111},{"name":"Fagali‘i","country":"American Samoa","province":"Western District","population":-1,"latitude":-14.3122222,"longitude":-170.8247222},{"name":"Fagasā","country":"American Samoa","province":"Eastern District","population":-1,"latitude":-14.2908333,"longitude":-170.7186111},{"name":"Sogi","country":"American Samoa","province":"Western District","population":-1,"latitude":-14.3541667,"longitude":-170.7836111},{"name":"Aganoa","country":"American Samoa","province":"Eastern District","population":-1,"latitude":-14.2794444,"longitude":-170.5791667},{"name":"Afulei","country":"American Samoa","province":"Eastern District","population":-1,"latitude":-14.28,"longitude":-170.6238889},{"name":"A‘asufou","country":"American Samoa","province":"Western District","population":-1,"latitude":-14.3202778,"longitude":-170.7638889},{"name":"Alaufau","country":"American Samoa","province":"Manu'a","population":-1,"latitude":-14.16705,"longitude":-169.68073},{"name":"A‘oloaufou","country":"American Samoa","province":"Western District","population":-1,"latitude":-14.3197222,"longitude":-170.7677778},{"name":"Anasosopo","country":"American Samoa","province":"Eastern District","population":-1,"latitude":-14.2886111,"longitude":-170.6627778},{"name":"Aoloautuai (historical)","country":"American Samoa","province":"Western District","population":-1,"latitude":-14.3002778,"longitude":-170.78},{"name":"Tafeta","country":"American Samoa","province":"Western District","population":-1,"latitude":-14.3255556,"longitude":-170.7516667},{"name":"Aoloau","country":"American Samoa","province":"Western District","population":966,"latitude":-14.3197222,"longitude":-170.77},{"name":"Auma","country":"American Samoa","province":"Western District","population":-1,"latitude":-14.3408333,"longitude":-170.7863889},{"name":"Avau","country":"American Samoa","province":"Eastern District","population":-1,"latitude":-14.3108333,"longitude":-170.6927778},{"name":"Autapini","country":"American Samoa","province":"Eastern District","population":-1,"latitude":-14.2788889,"longitude":-170.6975},{"name":"Avaio","country":"American Samoa","province":"Eastern District","population":-1,"latitude":-14.2852778,"longitude":-170.6308333},{"name":"Vasaaiga","country":"American Samoa","province":"Eastern District","population":-1,"latitude":-14.3055556,"longitude":-170.6861111},{"name":"Faga‘itua","country":"American Samoa","province":"Eastern District","population":-1,"latitude":-14.2719444,"longitude":-170.6119444},{"name":"Fagamalo","country":"American Samoa","province":"Western District","population":-1,"latitude":-14.3036111,"longitude":-170.8088889},{"name":"Vaiala","country":"American Samoa","province":"Western District","population":-1,"latitude":-14.3461111,"longitude":-170.7786111},{"name":"Tafananai","country":"American Samoa","province":"Eastern District","population":-1,"latitude":-14.28788,"longitude":-170.66285},{"name":"Utusia","country":"American Samoa","province":"Eastern District","population":-1,"latitude":-14.2758333,"longitude":-170.6186111},{"name":"Sa‘ilele","country":"American Samoa","province":"Eastern District","population":-1,"latitude":-14.2622222,"longitude":-170.5963889},{"name":"Satala","country":"American Samoa","province":"Eastern District","population":-1,"latitude":-14.271244,"longitude":-170.692216},{"name":"Si‘ufaga","country":"American Samoa","province":"Eastern District","population":-1,"latitude":-14.2791667,"longitude":-170.5852778},{"name":"Si‘ufaga","country":"American Samoa","province":"Eastern District","population":-1,"latitude":-14.275,"longitude":-170.6988889},{"name":"Sili","country":"American Samoa","province":"Manu'a","population":-1,"latitude":-14.16442,"longitude":-169.61962},{"name":"Si‘ufaga","country":"American Samoa","province":"Manu'a","population":-1,"latitude":-14.2408333,"longitude":-169.5116667},{"name":"Utumea East","country":"American Samoa","province":"Eastern District","population":-1,"latitude":-14.2758333,"longitude":-170.5683333},{"name":"Utumea West","country":"American Samoa","province":"Western District","population":-1,"latitude":-14.3341667,"longitude":-170.8172222},{"name":"Utumea","country":"American Samoa","province":"Eastern District","population":-1,"latitude":-14.2758333,"longitude":-170.5691667},{"name":"Utumea","country":"American Samoa","province":"Western District","population":-1,"latitude":-14.3336111,"longitude":-170.8138889},{"name":"Utuloa","country":"American Samoa","province":"Eastern District","population":-1,"latitude":-14.2644444,"longitude":-170.6172222},{"name":"Tula","country":"American Samoa","province":"Eastern District","population":370,"latitude":-14.2580556,"longitude":-170.5641667},{"name":"Tuaolo","country":"American Samoa","province":"Western District","population":-1,"latitude":-14.3194444,"longitude":-170.7591667},{"name":"Tō‘aga (historical)","country":"American Samoa","province":"Manu'a","population":-1,"latitude":-14.17602,"longitude":-169.6535},{"name":"Taputimu","country":"American Samoa","province":"Western District","population":741,"latitude":-14.3602778,"longitude":-170.7730556},{"name":"Falili","country":"American Samoa","province":"Western District","population":-1,"latitude":-14.3563889,"longitude":-170.78},{"name":"Tafunafou","country":"American Samoa","province":"Western District","population":-1,"latitude":-14.3291667,"longitude":-170.7308333},{"name":"Tagapofu","country":"American Samoa","province":"Eastern District","population":-1,"latitude":-14.3033333,"longitude":-170.6825},{"name":"Puapua","country":"American Samoa","province":"Western District","population":-1,"latitude":-14.344717,"longitude":-170.771898},{"name":"Faalefu","country":"American Samoa","province":"Eastern District","population":-1,"latitude":-14.2669444,"longitude":-170.5891667},{"name":"Faganeanea","country":"American Samoa","province":"Eastern District","population":-1,"latitude":-14.3061111,"longitude":-170.6888889},{"name":"Faga","country":"American Samoa","province":"Manu'a","population":-1,"latitude":-14.2177778,"longitude":-169.455},{"name":"Fagamutu","country":"American Samoa","province":"Western District","population":-1,"latitude":-14.3361111,"longitude":-170.805},{"name":"Fagalele","country":"American Samoa","province":"Western District","population":-1,"latitude":-14.3466667,"longitude":-170.7844444},{"name":"Fagatele","country":"American Samoa","province":"Eastern District","population":-1,"latitude":-14.2933333,"longitude":-170.7227778},{"name":"Fogāgogo","country":"American Samoa","province":"Western District","population":-1,"latitude":-14.3427778,"longitude":-170.7222222},{"name":"Fogaau","country":"American Samoa","province":"Eastern District","population":-1,"latitude":-14.2819444,"longitude":-170.5880556},{"name":"Itū‘au","country":"American Samoa","province":"Western District","population":-1,"latitude":-14.3477778,"longitude":-170.7663889},{"name":"Fusi","country":"American Samoa","province":"Manu'a","population":-1,"latitude":-14.2436111,"longitude":-169.5102778},{"name":"Fogausa","country":"American Samoa","province":"Eastern District","population":-1,"latitude":-14.2861111,"longitude":-170.6036111},{"name":"Fusi","country":"American Samoa","province":"Eastern District","population":-1,"latitude":-14.2788889,"longitude":-170.7002778},{"name":"Lalopua","country":"American Samoa","province":"Eastern District","population":-1,"latitude":-14.2752778,"longitude":-170.6952778},{"name":"Lauagae","country":"American Samoa","province":"Eastern District","population":-1,"latitude":-14.2544444,"longitude":-170.5686111},{"name":"Lauliituai","country":"American Samoa","province":"Eastern District","population":-1,"latitude":-14.2916667,"longitude":-170.6527778},{"name":"Leloaloa","country":"American Samoa","province":"Eastern District","population":546,"latitude":-14.2722222,"longitude":-170.6780556},{"name":"Lepine","country":"American Samoa","province":"Western District","population":-1,"latitude":-14.3238889,"longitude":-170.7277778},{"name":"Lauliifou","country":"American Samoa","province":"Eastern District","population":-1,"latitude":-14.2936111,"longitude":-170.6588889},{"name":"Lauli‘i","country":"American Samoa","province":"Eastern District","population":-1,"latitude":-14.2922222,"longitude":-170.6530556},{"name":"Leusoali‘i","country":"American Samoa","province":"Manu'a","population":-1,"latitude":-14.2261111,"longitude":-169.4211111},{"name":"Lumā","country":"American Samoa","province":"Manu'a","population":-1,"latitude":-14.2316667,"longitude":-169.5147222},{"name":"Malaeloa/Ituau","country":"American Samoa","province":"Western District","population":717,"latitude":-14.3472222,"longitude":-170.7672222},{"name":"Malaeloa/Aitulagi","country":"American Samoa","province":"Western District","population":633,"latitude":-14.33861,"longitude":-170.76784},{"name":"Maia","country":"American Samoa","province":"Manu'a","population":-1,"latitude":-14.2194444,"longitude":-169.4283333},{"name":"Malaeloa","country":"American Samoa","province":"Western District","population":-1,"latitude":-14.3441667,"longitude":-170.7672222},{"name":"Malaloa","country":"American Samoa","province":"Eastern District","population":-1,"latitude":-14.2808333,"longitude":-170.6925},{"name":"Maloata","country":"American Samoa","province":"Western District","population":-1,"latitude":-14.3094444,"longitude":-170.8147222},{"name":"Masefau","country":"American Samoa","province":"Eastern District","population":-1,"latitude":-14.2591667,"longitude":-170.6305556},{"name":"Masausi","country":"American Samoa","province":"Eastern District","population":-1,"latitude":-14.2647222,"longitude":-170.6041667},{"name":"Matu‘u","country":"American Samoa","province":"Eastern District","population":-1,"latitude":-14.3036111,"longitude":-170.6838889},{"name":"Mesepa","country":"American Samoa","province":"Western District","population":552,"latitude":-14.3313889,"longitude":-170.7444444},{"name":"Nua","country":"American Samoa","province":"Western District","population":-1,"latitude":-14.3330556,"longitude":-170.8058333},{"name":"Ofu","country":"American Samoa","province":"Manu'a","population":254,"latitude":-14.17117,"longitude":-169.67851},{"name":"Ogefao","country":"American Samoa","province":"Eastern District","population":-1,"latitude":-14.2538889,"longitude":-170.5777778},{"name":"Oneoneloa","country":"American Samoa","province":"Eastern District","population":-1,"latitude":-14.3127778,"longitude":-170.6944444},{"name":"Onenoa","country":"American Samoa","province":"Eastern District","population":-1,"latitude":-14.2566667,"longitude":-170.5797222},{"name":"Ottoville","country":"American Samoa","province":"Western District","population":-1,"latitude":-14.3347222,"longitude":-170.7297222},{"name":"Pava‘ia‘i","country":"American Samoa","province":"Western District","population":-1,"latitude":-14.3408333,"longitude":-170.7508333},{"name":"Motu o Manu","country":"American Samoa","province":"Rose Island","population":4,"latitude":-14.54313,"longitude":-168.16592},{"name":"Amalau (historical)","country":"American Samoa","province":"Eastern District","population":-1,"latitude":-14.2575,"longitude":-170.6583333},{"name":"Amouli (historical)","country":"American Samoa","province":"Manu'a","population":-1,"latitude":-14.2713889,"longitude":-169.4941667},{"name":"Faalaaga (historical)","country":"American Samoa","province":"Manu'a","population":-1,"latitude":-14.16985,"longitude":-169.64175},{"name":"Samoi (historical)","country":"American Samoa","province":"Manu'a","population":-1,"latitude":-14.16087,"longitude":-169.6745},{"name":"Saua (historical)","country":"American Samoa","province":"Manu'a","population":-1,"latitude":-14.2413889,"longitude":-169.42},{"name":"Tulauta (historical)","country":"American Samoa","province":"Eastern District","population":-1,"latitude":-14.2575,"longitude":-170.5675},{"name":"Tuafanua (historical)","country":"American Samoa","province":"Manu'a","population":-1,"latitude":-14.16762,"longitude":-169.65324},{"name":"Tafalau (historical)","country":"American Samoa","province":"Manu'a","population":-1,"latitude":-14.16935,"longitude":-169.61085},{"name":"Etena - Jennings Residency","country":"American Samoa","province":"Swains Island","population":-1,"latitude":-11.0602841294535,"longitude":-171.074756383896},{"name":"Fagamalo (historical)","country":"American Samoa","province":"American Samoa","population":-1,"latitude":-14.2505556,"longitude":-169.5022222},{"name":"Lepua (historical)","country":"American Samoa","province":"Manu'a","population":-1,"latitude":-14.17726,"longitude":-169.6079},{"name":"Lepisi (historical)","country":"American Samoa","province":"Manu'a","population":-1,"latitude":-14.2680556,"longitude":-169.4758333},{"name":"Lepula (historical)","country":"American Samoa","province":"Manu'a","population":-1,"latitude":-14.2191667,"longitude":-169.4361111},{"name":"Letula (historical)","country":"American Samoa","province":"Manu'a","population":-1,"latitude":-14.2191667,"longitude":-169.4438889},{"name":"Luamaa (historical)","country":"American Samoa","province":"Manu'a","population":-1,"latitude":-14.2533333,"longitude":-169.4202778},{"name":"Mafafa (historical)","country":"American Samoa","province":"Manu'a","population":-1,"latitude":-14.16829,"longitude":-169.64392},{"name":"Maupua (historical)","country":"American Samoa","province":"Eastern District","population":-1,"latitude":-14.2536111,"longitude":-170.5708333},{"name":"Oa (historical)","country":"American Samoa","province":"Eastern District","population":-1,"latitude":-14.2586111,"longitude":-170.6413889},{"name":"Oge (historical)","country":"American Samoa","province":"Manu'a","population":-1,"latitude":-14.18352,"longitude":-169.60989},{"name":"Ogegase (historical)","country":"American Samoa","province":"Eastern District","population":-1,"latitude":-14.2583333,"longitude":-170.5841667}]
+[
+    {
+        "name": "Pago Pago",
+        "country": "American Samoa",
+        "province": "Eastern District",
+        "population": 11500,
+        "latitude": -14.27806,
+        "longitude": -170.7025
+    },
+    {
+        "name": "Aūa",
+        "country": "American Samoa",
+        "province": "Eastern District",
+        "population": 2124,
+        "latitude": -14.2761111,
+        "longitude": -170.6638889
+    },
+    {
+        "name": "Faleniu",
+        "country": "American Samoa",
+        "province": "Western District",
+        "population": 3200,
+        "latitude": -14.3325,
+        "longitude": -170.7444444
+    },
+    {
+        "name": "Leone",
+        "country": "American Samoa",
+        "province": "Western District",
+        "population": 4050,
+        "latitude": -14.3438889,
+        "longitude": -170.785
+    },
+    {
+        "name": "Vaitogi",
+        "country": "American Samoa",
+        "province": "Western District",
+        "population": 1436,
+        "latitude": -14.35259,
+        "longitude": -170.73796
+    },
+    {
+        "name": "Fagatogo",
+        "country": "American Samoa",
+        "province": "Eastern District",
+        "population": 1868,
+        "latitude": -14.2825,
+        "longitude": -170.69
+    },
+    {
+        "name": "Mapusagafou",
+        "country": "American Samoa",
+        "province": "Western District",
+        "population": 2052,
+        "latitude": -14.3305556,
+        "longitude": -170.7527778
+    },
+    {
+        "name": "Malaeimi",
+        "country": "American Samoa",
+        "province": "Western District",
+        "population": 1261,
+        "latitude": -14.3227778,
+        "longitude": -170.7338889
+    },
+    {
+        "name": "Vailoatai",
+        "country": "American Samoa",
+        "province": "Western District",
+        "population": 1144,
+        "latitude": -14.3534,
+        "longitude": -170.7808
+    },
+    {
+        "name": "Ta`ū",
+        "country": "American Samoa",
+        "province": "Manu'a",
+        "population": 873,
+        "latitude": -14.2336111,
+        "longitude": -169.5144444
+    },
+    {
+        "name": "Fitiuta",
+        "country": "American Samoa",
+        "province": "Manu'a",
+        "population": -1,
+        "latitude": -14.21675,
+        "longitude": -169.42493
+    },
+    {
+        "name": "Taulaga",
+        "country": "American Samoa",
+        "province": "Swains Island",
+        "population": 37,
+        "latitude": -11.0552778,
+        "longitude": -171.0883333
+    },
+    {
+        "name": "Tāfuna",
+        "country": "American Samoa",
+        "province": "Western District",
+        "population": 7988,
+        "latitude": -14.3358333,
+        "longitude": -170.72
+    },
+    {
+        "name": "Utulei",
+        "country": "American Samoa",
+        "province": "Eastern District",
+        "population": 683,
+        "latitude": -14.2869444,
+        "longitude": -170.6830556
+    },
+    {
+        "name": "Afao",
+        "country": "American Samoa",
+        "province": "Western District",
+        "population": -1,
+        "latitude": -14.3366667,
+        "longitude": -170.7991667
+    },
+    {
+        "name": "Aasu",
+        "country": "American Samoa",
+        "province": "Western District",
+        "population": -1,
+        "latitude": -14.2975,
+        "longitude": -170.7583333
+    },
+    {
+        "name": "Āfono",
+        "country": "American Samoa",
+        "province": "Eastern District",
+        "population": 527,
+        "latitude": -14.2641667,
+        "longitude": -170.6508333
+    },
+    {
+        "name": "Alofau",
+        "country": "American Samoa",
+        "province": "Eastern District",
+        "population": 465,
+        "latitude": -14.2791667,
+        "longitude": -170.6022222
+    },
+    {
+        "name": "Alao",
+        "country": "American Samoa",
+        "province": "Eastern District",
+        "population": 508,
+        "latitude": -14.2675,
+        "longitude": -170.5636111
+    },
+    {
+        "name": "Ālega",
+        "country": "American Samoa",
+        "province": "Eastern District",
+        "population": -1,
+        "latitude": -14.2852778,
+        "longitude": -170.6375
+    },
+    {
+        "name": "Agugulu",
+        "country": "American Samoa",
+        "province": "Western District",
+        "population": -1,
+        "latitude": -14.3355556,
+        "longitude": -170.8216667
+    },
+    {
+        "name": "‘Āmanave",
+        "country": "American Samoa",
+        "province": "Western District",
+        "population": -1,
+        "latitude": -14.33,
+        "longitude": -170.8294444
+    },
+    {
+        "name": "Amaluia",
+        "country": "American Samoa",
+        "province": "Western District",
+        "population": -1,
+        "latitude": -14.3383333,
+        "longitude": -170.7911111
+    },
+    {
+        "name": "Amaua",
+        "country": "American Samoa",
+        "province": "Eastern District",
+        "population": -1,
+        "latitude": -14.2769444,
+        "longitude": -170.6216667
+    },
+    {
+        "name": "Āmouli",
+        "country": "American Samoa",
+        "province": "Eastern District",
+        "population": -1,
+        "latitude": -14.2780556,
+        "longitude": -170.5825
+    },
+    {
+        "name": "Anua",
+        "country": "American Samoa",
+        "province": "Eastern District",
+        "population": -1,
+        "latitude": -14.275,
+        "longitude": -170.6877778
+    },
+    {
+        "name": "Asili",
+        "country": "American Samoa",
+        "province": "Western District",
+        "population": -1,
+        "latitude": -14.3355556,
+        "longitude": -170.7955556
+    },
+    {
+        "name": "‘Aoa",
+        "country": "American Samoa",
+        "province": "Eastern District",
+        "population": 466,
+        "latitude": -14.2655556,
+        "longitude": -170.5838889
+    },
+    {
+        "name": "Atu‘u",
+        "country": "American Samoa",
+        "province": "Eastern District",
+        "population": -1,
+        "latitude": -14.2744444,
+        "longitude": -170.6847222
+    },
+    {
+        "name": "Auasi",
+        "country": "American Samoa",
+        "province": "Eastern District",
+        "population": -1,
+        "latitude": -14.2766667,
+        "longitude": -170.5744444
+    },
+    {
+        "name": "Aumi",
+        "country": "American Samoa",
+        "province": "Eastern District",
+        "population": -1,
+        "latitude": -14.2919444,
+        "longitude": -170.6466667
+    },
+    {
+        "name": "Aunu‘u",
+        "country": "American Samoa",
+        "province": "Eastern District",
+        "population": -1,
+        "latitude": -14.2836,
+        "longitude": -170.56055
+    },
+    {
+        "name": "Auto",
+        "country": "American Samoa",
+        "province": "Eastern District",
+        "population": -1,
+        "latitude": -14.2830556,
+        "longitude": -170.6269444
+    },
+    {
+        "name": "Vatia",
+        "country": "American Samoa",
+        "province": "Eastern District",
+        "population": -1,
+        "latitude": -14.255,
+        "longitude": -170.6752778
+    },
+    {
+        "name": "Faiava",
+        "country": "American Samoa",
+        "province": "Manu'a",
+        "population": -1,
+        "latitude": -14.16069,
+        "longitude": -169.61746
+    },
+    {
+        "name": "Faga‘alu",
+        "country": "American Samoa",
+        "province": "Eastern District",
+        "population": -1,
+        "latitude": -14.2963889,
+        "longitude": -170.6836111
+    },
+    {
+        "name": "Failolo",
+        "country": "American Samoa",
+        "province": "Western District",
+        "population": -1,
+        "latitude": -14.3336111,
+        "longitude": -170.8258333
+    },
+    {
+        "name": "Fatumafuti",
+        "country": "American Samoa",
+        "province": "Eastern District",
+        "population": -1,
+        "latitude": -14.3013889,
+        "longitude": -170.6772222
+    },
+    {
+        "name": "Ili‘ili",
+        "country": "American Samoa",
+        "province": "Western District",
+        "population": -1,
+        "latitude": -14.3516667,
+        "longitude": -170.7469444
+    },
+    {
+        "name": "Lalomoana",
+        "country": "American Samoa",
+        "province": "Manu'a",
+        "population": -1,
+        "latitude": -14.16571,
+        "longitude": -169.6235
+    },
+    {
+        "name": "Mapusaga",
+        "country": "American Samoa",
+        "province": "Western District",
+        "population": -1,
+        "latitude": -14.33,
+        "longitude": -170.7438889
+    },
+    {
+        "name": "Nu‘uuli",
+        "country": "American Samoa",
+        "province": "Eastern District",
+        "population": -1,
+        "latitude": -14.3158333,
+        "longitude": -170.6975
+    },
+    {
+        "name": "Olosega",
+        "country": "American Samoa",
+        "province": "Manu'a",
+        "population": -1,
+        "latitude": -14.17699,
+        "longitude": -169.62425
+    },
+    {
+        "name": "Pagai",
+        "country": "American Samoa",
+        "province": "Eastern District",
+        "population": -1,
+        "latitude": -14.275,
+        "longitude": -170.6052778
+    },
+    {
+        "name": "Futiga",
+        "country": "American Samoa",
+        "province": "Western District",
+        "population": -1,
+        "latitude": -14.3533333,
+        "longitude": -170.7541667
+    },
+    {
+        "name": "Poloa",
+        "country": "American Samoa",
+        "province": "Western District",
+        "population": -1,
+        "latitude": -14.3216667,
+        "longitude": -170.8327778
+    },
+    {
+        "name": "Se‘etaga",
+        "country": "American Samoa",
+        "province": "Western District",
+        "population": -1,
+        "latitude": -14.3305556,
+        "longitude": -170.8105556
+    },
+    {
+        "name": "Faleāsao",
+        "country": "American Samoa",
+        "province": "Manu'a",
+        "population": -1,
+        "latitude": -14.2222046287597,
+        "longitude": -169.5127773284912
+    },
+    {
+        "name": "Fagalea",
+        "country": "American Samoa",
+        "province": "Eastern District",
+        "population": -1,
+        "latitude": -14.2891667,
+        "longitude": -170.7186111
+    },
+    {
+        "name": "Fagali‘i",
+        "country": "American Samoa",
+        "province": "Western District",
+        "population": -1,
+        "latitude": -14.3122222,
+        "longitude": -170.8247222
+    },
+    {
+        "name": "Fagasā",
+        "country": "American Samoa",
+        "province": "Eastern District",
+        "population": -1,
+        "latitude": -14.2908333,
+        "longitude": -170.7186111
+    },
+    {
+        "name": "Sogi",
+        "country": "American Samoa",
+        "province": "Western District",
+        "population": -1,
+        "latitude": -14.3541667,
+        "longitude": -170.7836111
+    },
+    {
+        "name": "Aganoa",
+        "country": "American Samoa",
+        "province": "Eastern District",
+        "population": -1,
+        "latitude": -14.2794444,
+        "longitude": -170.5791667
+    },
+    {
+        "name": "Afulei",
+        "country": "American Samoa",
+        "province": "Eastern District",
+        "population": -1,
+        "latitude": -14.28,
+        "longitude": -170.6238889
+    },
+    {
+        "name": "A‘asufou",
+        "country": "American Samoa",
+        "province": "Western District",
+        "population": -1,
+        "latitude": -14.3202778,
+        "longitude": -170.7638889
+    },
+    {
+        "name": "Alaufau",
+        "country": "American Samoa",
+        "province": "Manu'a",
+        "population": -1,
+        "latitude": -14.16705,
+        "longitude": -169.68073
+    },
+    {
+        "name": "A‘oloaufou",
+        "country": "American Samoa",
+        "province": "Western District",
+        "population": -1,
+        "latitude": -14.3197222,
+        "longitude": -170.7677778
+    },
+    {
+        "name": "Anasosopo",
+        "country": "American Samoa",
+        "province": "Eastern District",
+        "population": -1,
+        "latitude": -14.2886111,
+        "longitude": -170.6627778
+    },
+    {
+        "name": "Aoloautuai (historical)",
+        "country": "American Samoa",
+        "province": "Western District",
+        "population": -1,
+        "latitude": -14.3002778,
+        "longitude": -170.78
+    },
+    {
+        "name": "Tafeta",
+        "country": "American Samoa",
+        "province": "Western District",
+        "population": -1,
+        "latitude": -14.3255556,
+        "longitude": -170.7516667
+    },
+    {
+        "name": "Aoloau",
+        "country": "American Samoa",
+        "province": "Western District",
+        "population": 966,
+        "latitude": -14.3197222,
+        "longitude": -170.77
+    },
+    {
+        "name": "Auma",
+        "country": "American Samoa",
+        "province": "Western District",
+        "population": -1,
+        "latitude": -14.3408333,
+        "longitude": -170.7863889
+    },
+    {
+        "name": "Avau",
+        "country": "American Samoa",
+        "province": "Eastern District",
+        "population": -1,
+        "latitude": -14.3108333,
+        "longitude": -170.6927778
+    },
+    {
+        "name": "Autapini",
+        "country": "American Samoa",
+        "province": "Eastern District",
+        "population": -1,
+        "latitude": -14.2788889,
+        "longitude": -170.6975
+    },
+    {
+        "name": "Avaio",
+        "country": "American Samoa",
+        "province": "Eastern District",
+        "population": -1,
+        "latitude": -14.2852778,
+        "longitude": -170.6308333
+    },
+    {
+        "name": "Vasaaiga",
+        "country": "American Samoa",
+        "province": "Eastern District",
+        "population": -1,
+        "latitude": -14.3055556,
+        "longitude": -170.6861111
+    },
+    {
+        "name": "Faga‘itua",
+        "country": "American Samoa",
+        "province": "Eastern District",
+        "population": -1,
+        "latitude": -14.2719444,
+        "longitude": -170.6119444
+    },
+    {
+        "name": "Fagamalo",
+        "country": "American Samoa",
+        "province": "Western District",
+        "population": -1,
+        "latitude": -14.3036111,
+        "longitude": -170.8088889
+    },
+    {
+        "name": "Vaiala",
+        "country": "American Samoa",
+        "province": "Western District",
+        "population": -1,
+        "latitude": -14.3461111,
+        "longitude": -170.7786111
+    },
+    {
+        "name": "Tafananai",
+        "country": "American Samoa",
+        "province": "Eastern District",
+        "population": -1,
+        "latitude": -14.28788,
+        "longitude": -170.66285
+    },
+    {
+        "name": "Utusia",
+        "country": "American Samoa",
+        "province": "Eastern District",
+        "population": -1,
+        "latitude": -14.2758333,
+        "longitude": -170.6186111
+    },
+    {
+        "name": "Sa‘ilele",
+        "country": "American Samoa",
+        "province": "Eastern District",
+        "population": -1,
+        "latitude": -14.2622222,
+        "longitude": -170.5963889
+    },
+    {
+        "name": "Satala",
+        "country": "American Samoa",
+        "province": "Eastern District",
+        "population": -1,
+        "latitude": -14.271244,
+        "longitude": -170.692216
+    },
+    {
+        "name": "Si‘ufaga",
+        "country": "American Samoa",
+        "province": "Eastern District",
+        "population": -1,
+        "latitude": -14.2791667,
+        "longitude": -170.5852778
+    },
+    {
+        "name": "Si‘ufaga",
+        "country": "American Samoa",
+        "province": "Eastern District",
+        "population": -1,
+        "latitude": -14.275,
+        "longitude": -170.6988889
+    },
+    {
+        "name": "Sili",
+        "country": "American Samoa",
+        "province": "Manu'a",
+        "population": -1,
+        "latitude": -14.16442,
+        "longitude": -169.61962
+    },
+    {
+        "name": "Si‘ufaga",
+        "country": "American Samoa",
+        "province": "Manu'a",
+        "population": -1,
+        "latitude": -14.2408333,
+        "longitude": -169.5116667
+    },
+    {
+        "name": "Utumea East",
+        "country": "American Samoa",
+        "province": "Eastern District",
+        "population": -1,
+        "latitude": -14.2758333,
+        "longitude": -170.5683333
+    },
+    {
+        "name": "Utumea West",
+        "country": "American Samoa",
+        "province": "Western District",
+        "population": -1,
+        "latitude": -14.3341667,
+        "longitude": -170.8172222
+    },
+    {
+        "name": "Utumea",
+        "country": "American Samoa",
+        "province": "Eastern District",
+        "population": -1,
+        "latitude": -14.2758333,
+        "longitude": -170.5691667
+    },
+    {
+        "name": "Utumea",
+        "country": "American Samoa",
+        "province": "Western District",
+        "population": -1,
+        "latitude": -14.3336111,
+        "longitude": -170.8138889
+    },
+    {
+        "name": "Utuloa",
+        "country": "American Samoa",
+        "province": "Eastern District",
+        "population": -1,
+        "latitude": -14.2644444,
+        "longitude": -170.6172222
+    },
+    {
+        "name": "Tula",
+        "country": "American Samoa",
+        "province": "Eastern District",
+        "population": 370,
+        "latitude": -14.2580556,
+        "longitude": -170.5641667
+    },
+    {
+        "name": "Tuaolo",
+        "country": "American Samoa",
+        "province": "Western District",
+        "population": -1,
+        "latitude": -14.3194444,
+        "longitude": -170.7591667
+    },
+    {
+        "name": "Tō‘aga (historical)",
+        "country": "American Samoa",
+        "province": "Manu'a",
+        "population": -1,
+        "latitude": -14.17602,
+        "longitude": -169.6535
+    },
+    {
+        "name": "Taputimu",
+        "country": "American Samoa",
+        "province": "Western District",
+        "population": 741,
+        "latitude": -14.3602778,
+        "longitude": -170.7730556
+    },
+    {
+        "name": "Falili",
+        "country": "American Samoa",
+        "province": "Western District",
+        "population": -1,
+        "latitude": -14.3563889,
+        "longitude": -170.78
+    },
+    {
+        "name": "Tafunafou",
+        "country": "American Samoa",
+        "province": "Western District",
+        "population": -1,
+        "latitude": -14.3291667,
+        "longitude": -170.7308333
+    },
+    {
+        "name": "Tagapofu",
+        "country": "American Samoa",
+        "province": "Eastern District",
+        "population": -1,
+        "latitude": -14.3033333,
+        "longitude": -170.6825
+    },
+    {
+        "name": "Puapua",
+        "country": "American Samoa",
+        "province": "Western District",
+        "population": -1,
+        "latitude": -14.344717,
+        "longitude": -170.771898
+    },
+    {
+        "name": "Faalefu",
+        "country": "American Samoa",
+        "province": "Eastern District",
+        "population": -1,
+        "latitude": -14.2669444,
+        "longitude": -170.5891667
+    },
+    {
+        "name": "Faganeanea",
+        "country": "American Samoa",
+        "province": "Eastern District",
+        "population": -1,
+        "latitude": -14.3061111,
+        "longitude": -170.6888889
+    },
+    {
+        "name": "Faga",
+        "country": "American Samoa",
+        "province": "Manu'a",
+        "population": -1,
+        "latitude": -14.2177778,
+        "longitude": -169.455
+    },
+    {
+        "name": "Fagamutu",
+        "country": "American Samoa",
+        "province": "Western District",
+        "population": -1,
+        "latitude": -14.3361111,
+        "longitude": -170.805
+    },
+    {
+        "name": "Fagalele",
+        "country": "American Samoa",
+        "province": "Western District",
+        "population": -1,
+        "latitude": -14.3466667,
+        "longitude": -170.7844444
+    },
+    {
+        "name": "Fagatele",
+        "country": "American Samoa",
+        "province": "Eastern District",
+        "population": -1,
+        "latitude": -14.2933333,
+        "longitude": -170.7227778
+    },
+    {
+        "name": "Fogāgogo",
+        "country": "American Samoa",
+        "province": "Western District",
+        "population": -1,
+        "latitude": -14.3427778,
+        "longitude": -170.7222222
+    },
+    {
+        "name": "Fogaau",
+        "country": "American Samoa",
+        "province": "Eastern District",
+        "population": -1,
+        "latitude": -14.2819444,
+        "longitude": -170.5880556
+    },
+    {
+        "name": "Itū‘au",
+        "country": "American Samoa",
+        "province": "Western District",
+        "population": -1,
+        "latitude": -14.3477778,
+        "longitude": -170.7663889
+    },
+    {
+        "name": "Fusi",
+        "country": "American Samoa",
+        "province": "Manu'a",
+        "population": -1,
+        "latitude": -14.2436111,
+        "longitude": -169.5102778
+    },
+    {
+        "name": "Fogausa",
+        "country": "American Samoa",
+        "province": "Eastern District",
+        "population": -1,
+        "latitude": -14.2861111,
+        "longitude": -170.6036111
+    },
+    {
+        "name": "Fusi",
+        "country": "American Samoa",
+        "province": "Eastern District",
+        "population": -1,
+        "latitude": -14.2788889,
+        "longitude": -170.7002778
+    },
+    {
+        "name": "Lalopua",
+        "country": "American Samoa",
+        "province": "Eastern District",
+        "population": -1,
+        "latitude": -14.2752778,
+        "longitude": -170.6952778
+    },
+    {
+        "name": "Lauagae",
+        "country": "American Samoa",
+        "province": "Eastern District",
+        "population": -1,
+        "latitude": -14.2544444,
+        "longitude": -170.5686111
+    },
+    {
+        "name": "Lauliituai",
+        "country": "American Samoa",
+        "province": "Eastern District",
+        "population": -1,
+        "latitude": -14.2916667,
+        "longitude": -170.6527778
+    },
+    {
+        "name": "Leloaloa",
+        "country": "American Samoa",
+        "province": "Eastern District",
+        "population": 546,
+        "latitude": -14.2722222,
+        "longitude": -170.6780556
+    },
+    {
+        "name": "Lepine",
+        "country": "American Samoa",
+        "province": "Western District",
+        "population": -1,
+        "latitude": -14.3238889,
+        "longitude": -170.7277778
+    },
+    {
+        "name": "Lauliifou",
+        "country": "American Samoa",
+        "province": "Eastern District",
+        "population": -1,
+        "latitude": -14.2936111,
+        "longitude": -170.6588889
+    },
+    {
+        "name": "Lauli‘i",
+        "country": "American Samoa",
+        "province": "Eastern District",
+        "population": -1,
+        "latitude": -14.2922222,
+        "longitude": -170.6530556
+    },
+    {
+        "name": "Leusoali‘i",
+        "country": "American Samoa",
+        "province": "Manu'a",
+        "population": -1,
+        "latitude": -14.2261111,
+        "longitude": -169.4211111
+    },
+    {
+        "name": "Lumā",
+        "country": "American Samoa",
+        "province": "Manu'a",
+        "population": -1,
+        "latitude": -14.2316667,
+        "longitude": -169.5147222
+    },
+    {
+        "name": "Malaeloa/Ituau",
+        "country": "American Samoa",
+        "province": "Western District",
+        "population": 717,
+        "latitude": -14.3472222,
+        "longitude": -170.7672222
+    },
+    {
+        "name": "Malaeloa/Aitulagi",
+        "country": "American Samoa",
+        "province": "Western District",
+        "population": 633,
+        "latitude": -14.33861,
+        "longitude": -170.76784
+    },
+    {
+        "name": "Maia",
+        "country": "American Samoa",
+        "province": "Manu'a",
+        "population": -1,
+        "latitude": -14.2194444,
+        "longitude": -169.4283333
+    },
+    {
+        "name": "Malaeloa",
+        "country": "American Samoa",
+        "province": "Western District",
+        "population": -1,
+        "latitude": -14.3441667,
+        "longitude": -170.7672222
+    },
+    {
+        "name": "Malaloa",
+        "country": "American Samoa",
+        "province": "Eastern District",
+        "population": -1,
+        "latitude": -14.2808333,
+        "longitude": -170.6925
+    },
+    {
+        "name": "Maloata",
+        "country": "American Samoa",
+        "province": "Western District",
+        "population": -1,
+        "latitude": -14.3094444,
+        "longitude": -170.8147222
+    },
+    {
+        "name": "Masefau",
+        "country": "American Samoa",
+        "province": "Eastern District",
+        "population": -1,
+        "latitude": -14.2591667,
+        "longitude": -170.6305556
+    },
+    {
+        "name": "Masausi",
+        "country": "American Samoa",
+        "province": "Eastern District",
+        "population": -1,
+        "latitude": -14.2647222,
+        "longitude": -170.6041667
+    },
+    {
+        "name": "Matu‘u",
+        "country": "American Samoa",
+        "province": "Eastern District",
+        "population": -1,
+        "latitude": -14.3036111,
+        "longitude": -170.6838889
+    },
+    {
+        "name": "Mesepa",
+        "country": "American Samoa",
+        "province": "Western District",
+        "population": 552,
+        "latitude": -14.3313889,
+        "longitude": -170.7444444
+    },
+    {
+        "name": "Nua",
+        "country": "American Samoa",
+        "province": "Western District",
+        "population": -1,
+        "latitude": -14.3330556,
+        "longitude": -170.8058333
+    },
+    {
+        "name": "Ofu",
+        "country": "American Samoa",
+        "province": "Manu'a",
+        "population": 254,
+        "latitude": -14.17117,
+        "longitude": -169.67851
+    },
+    {
+        "name": "Ogefao",
+        "country": "American Samoa",
+        "province": "Eastern District",
+        "population": -1,
+        "latitude": -14.2538889,
+        "longitude": -170.5777778
+    },
+    {
+        "name": "Oneoneloa",
+        "country": "American Samoa",
+        "province": "Eastern District",
+        "population": -1,
+        "latitude": -14.3127778,
+        "longitude": -170.6944444
+    },
+    {
+        "name": "Onenoa",
+        "country": "American Samoa",
+        "province": "Eastern District",
+        "population": -1,
+        "latitude": -14.2566667,
+        "longitude": -170.5797222
+    },
+    {
+        "name": "Ottoville",
+        "country": "American Samoa",
+        "province": "Western District",
+        "population": -1,
+        "latitude": -14.3347222,
+        "longitude": -170.7297222
+    },
+    {
+        "name": "Pava‘ia‘i",
+        "country": "American Samoa",
+        "province": "Western District",
+        "population": -1,
+        "latitude": -14.3408333,
+        "longitude": -170.7508333
+    },
+    {
+        "name": "Motu o Manu",
+        "country": "American Samoa",
+        "province": "Rose Island",
+        "population": 4,
+        "latitude": -14.54313,
+        "longitude": -168.16592
+    },
+    {
+        "name": "Amalau (historical)",
+        "country": "American Samoa",
+        "province": "Eastern District",
+        "population": -1,
+        "latitude": -14.2575,
+        "longitude": -170.6583333
+    },
+    {
+        "name": "Amouli (historical)",
+        "country": "American Samoa",
+        "province": "Manu'a",
+        "population": -1,
+        "latitude": -14.2713889,
+        "longitude": -169.4941667
+    },
+    {
+        "name": "Faalaaga (historical)",
+        "country": "American Samoa",
+        "province": "Manu'a",
+        "population": -1,
+        "latitude": -14.16985,
+        "longitude": -169.64175
+    },
+    {
+        "name": "Samoi (historical)",
+        "country": "American Samoa",
+        "province": "Manu'a",
+        "population": -1,
+        "latitude": -14.16087,
+        "longitude": -169.6745
+    },
+    {
+        "name": "Saua (historical)",
+        "country": "American Samoa",
+        "province": "Manu'a",
+        "population": -1,
+        "latitude": -14.2413889,
+        "longitude": -169.42
+    },
+    {
+        "name": "Tulauta (historical)",
+        "country": "American Samoa",
+        "province": "Eastern District",
+        "population": -1,
+        "latitude": -14.2575,
+        "longitude": -170.5675
+    },
+    {
+        "name": "Tuafanua (historical)",
+        "country": "American Samoa",
+        "province": "Manu'a",
+        "population": -1,
+        "latitude": -14.16762,
+        "longitude": -169.65324
+    },
+    {
+        "name": "Tafalau (historical)",
+        "country": "American Samoa",
+        "province": "Manu'a",
+        "population": -1,
+        "latitude": -14.16935,
+        "longitude": -169.61085
+    },
+    {
+        "name": "Etena - Jennings Residency",
+        "country": "American Samoa",
+        "province": "Swains Island",
+        "population": -1,
+        "latitude": -11.0602841294535,
+        "longitude": -171.074756383896
+    },
+    {
+        "name": "Fagamalo (historical)",
+        "country": "American Samoa",
+        "province": "American Samoa",
+        "population": -1,
+        "latitude": -14.2505556,
+        "longitude": -169.5022222
+    },
+    {
+        "name": "Lepua (historical)",
+        "country": "American Samoa",
+        "province": "Manu'a",
+        "population": -1,
+        "latitude": -14.17726,
+        "longitude": -169.6079
+    },
+    {
+        "name": "Lepisi (historical)",
+        "country": "American Samoa",
+        "province": "Manu'a",
+        "population": -1,
+        "latitude": -14.2680556,
+        "longitude": -169.4758333
+    },
+    {
+        "name": "Lepula (historical)",
+        "country": "American Samoa",
+        "province": "Manu'a",
+        "population": -1,
+        "latitude": -14.2191667,
+        "longitude": -169.4361111
+    },
+    {
+        "name": "Letula (historical)",
+        "country": "American Samoa",
+        "province": "Manu'a",
+        "population": -1,
+        "latitude": -14.2191667,
+        "longitude": -169.4438889
+    },
+    {
+        "name": "Luamaa (historical)",
+        "country": "American Samoa",
+        "province": "Manu'a",
+        "population": -1,
+        "latitude": -14.2533333,
+        "longitude": -169.4202778
+    },
+    {
+        "name": "Mafafa (historical)",
+        "country": "American Samoa",
+        "province": "Manu'a",
+        "population": -1,
+        "latitude": -14.16829,
+        "longitude": -169.64392
+    },
+    {
+        "name": "Maupua (historical)",
+        "country": "American Samoa",
+        "province": "Eastern District",
+        "population": -1,
+        "latitude": -14.2536111,
+        "longitude": -170.5708333
+    },
+    {
+        "name": "Oa (historical)",
+        "country": "American Samoa",
+        "province": "Eastern District",
+        "population": -1,
+        "latitude": -14.2586111,
+        "longitude": -170.6413889
+    },
+    {
+        "name": "Oge (historical)",
+        "country": "American Samoa",
+        "province": "Manu'a",
+        "population": -1,
+        "latitude": -14.18352,
+        "longitude": -169.60989
+    },
+    {
+        "name": "Ogegase (historical)",
+        "country": "American Samoa",
+        "province": "Eastern District",
+        "population": -1,
+        "latitude": -14.2583333,
+        "longitude": -170.5841667
+    }
+]

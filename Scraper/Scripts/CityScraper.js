@@ -64,7 +64,7 @@ const scraperObject = {
         if(cityData["province"]!=cityData["country"]) cityData["province"] = cityData["province"].substring(2);
         if(cityData["province"].length == 0) {
           cityData["province"] = cityData["country"]
-          console.log("Province length = 0 now set to", cityData["country"])
+          console.log("Province at",CountryIndex+city-2,"has length = 0 now set to", cityData["country"])
         }
 
         if(hasPop){
@@ -79,7 +79,7 @@ const scraperObject = {
 
         if(CountryLess && cityData["country"].substring(0, 2).toUpperCase() == CountryData["CountryCode"]) cityData["country"] = CountryData["CountryName"];
         if(cityData["country"] != CountryData["CountryName"]){
-          console.log("Wrong country name!\nShould be \"" + CountryData["CountryName"]+ "\" but is \"" + cityData["country"] + "\"")
+          console.log("Wrong country name at",CountryIndex+city-2+"!\nShould be \"" + CountryData["CountryName"]+ "\" but is \"" + cityData["country"] + "\"")
           continue;
         }
 

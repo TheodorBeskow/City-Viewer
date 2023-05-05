@@ -47,7 +47,8 @@ rl.question("Country to scan or leave empty to scrape next country: ", function 
             if(countryToScrape == null)  countryToScrape = countries[fs.readdirSync('./Countries/').length];
             cityController(browserInstance, countryToScrape);
         }catch{
-            console.log("You have already scraped all countries and", cc, "is not a valid country code.")
+            console.log("You have already scraped all countries and", cc, "is not a valid country code.");
         }
     });
+    rl.close();
 });
