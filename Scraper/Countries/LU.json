@@ -1,0 +1,5538 @@
+[
+    {
+        "name": "Luxembourg",
+        "country": "Luxembourg",
+        "province": "Luxembourg",
+        "population": 76684,
+        "latitude": 49.6116667,
+        "longitude": 6.13
+    },
+    {
+        "name": "Esch-sur-Alzette",
+        "country": "Luxembourg",
+        "province": "Esch-sur-Alzette",
+        "population": 28228,
+        "latitude": 49.495833,
+        "longitude": 5.980556
+    },
+    {
+        "name": "Dudelange",
+        "country": "Luxembourg",
+        "province": "Esch-sur-Alzette",
+        "population": 18013,
+        "latitude": 49.480556,
+        "longitude": 6.0875
+    },
+    {
+        "name": "Schifflange",
+        "country": "Luxembourg",
+        "province": "Esch-sur-Alzette",
+        "population": 8155,
+        "latitude": 49.506389,
+        "longitude": 6.012778
+    },
+    {
+        "name": "Pétange",
+        "country": "Luxembourg",
+        "province": "Esch-sur-Alzette",
+        "population": 7187,
+        "latitude": 49.558333,
+        "longitude": 5.880556
+    },
+    {
+        "name": "Ettelbruck",
+        "country": "Luxembourg",
+        "province": "Diekirch",
+        "population": 6364,
+        "latitude": 49.8475,
+        "longitude": 6.104167
+    },
+    {
+        "name": "Bettembourg",
+        "country": "Luxembourg",
+        "province": "Esch-sur-Alzette",
+        "population": 7437,
+        "latitude": 49.518611,
+        "longitude": 6.102778
+    },
+    {
+        "name": "Strassen",
+        "country": "Luxembourg",
+        "province": "Luxembourg",
+        "population": 6006,
+        "latitude": 49.620556,
+        "longitude": 6.073333
+    },
+    {
+        "name": "Wiltz",
+        "country": "Luxembourg",
+        "province": "Wiltz",
+        "population": 4816,
+        "latitude": 49.96547,
+        "longitude": 5.9339
+    },
+    {
+        "name": "Wasserbillig",
+        "country": "Luxembourg",
+        "province": "Grevenmacher",
+        "population": 2327,
+        "latitude": 49.71534,
+        "longitude": 6.49861
+    },
+    {
+        "name": "Soleuvre",
+        "country": "Luxembourg",
+        "province": "Esch-sur-Alzette",
+        "population": 4988,
+        "latitude": 49.52148,
+        "longitude": 5.93781
+    },
+    {
+        "name": "Rodange",
+        "country": "Luxembourg",
+        "province": "Esch-sur-Alzette",
+        "population": 5505,
+        "latitude": 49.5463889,
+        "longitude": 5.8408333
+    },
+    {
+        "name": "Remich",
+        "country": "Luxembourg",
+        "province": "Remich",
+        "population": 3187,
+        "latitude": 49.545,
+        "longitude": 6.366944
+    },
+    {
+        "name": "Mersch",
+        "country": "Luxembourg",
+        "province": "Mersch",
+        "population": 3464,
+        "latitude": 49.748889,
+        "longitude": 6.106111
+    },
+    {
+        "name": "Mamer",
+        "country": "Luxembourg",
+        "province": "Capellen",
+        "population": 5017,
+        "latitude": 49.6275,
+        "longitude": 6.023333
+    },
+    {
+        "name": "Lamadelaine",
+        "country": "Luxembourg",
+        "province": "Esch-sur-Alzette",
+        "population": 2428,
+        "latitude": 49.5463889,
+        "longitude": 5.8563889
+    },
+    {
+        "name": "Kayl",
+        "country": "Luxembourg",
+        "province": "Esch-sur-Alzette",
+        "population": 4396,
+        "latitude": 49.489167,
+        "longitude": 6.039722
+    },
+    {
+        "name": "Grevenmacher",
+        "country": "Luxembourg",
+        "province": "Grevenmacher",
+        "population": 4921,
+        "latitude": 49.67751,
+        "longitude": 6.44022
+    },
+    {
+        "name": "Echternach",
+        "country": "Luxembourg",
+        "province": "Echternach",
+        "population": 4787,
+        "latitude": 49.81212,
+        "longitude": 6.41846
+    },
+    {
+        "name": "Differdange",
+        "country": "Luxembourg",
+        "province": "Esch-sur-Alzette",
+        "population": 5296,
+        "latitude": 49.524167,
+        "longitude": 5.891389
+    },
+    {
+        "name": "Diekirch",
+        "country": "Luxembourg",
+        "province": "Diekirch",
+        "population": 6756,
+        "latitude": 49.8677778,
+        "longitude": 6.1558333
+    },
+    {
+        "name": "Bridel",
+        "country": "Luxembourg",
+        "province": "Capellen",
+        "population": 2404,
+        "latitude": 49.65579,
+        "longitude": 6.07999
+    },
+    {
+        "name": "Béreldange",
+        "country": "Luxembourg",
+        "province": "Luxembourg",
+        "population": 3627,
+        "latitude": 49.65507,
+        "longitude": 6.11874
+    },
+    {
+        "name": "Belvaux",
+        "country": "Luxembourg",
+        "province": "Esch-sur-Alzette",
+        "population": 5313,
+        "latitude": 49.51014,
+        "longitude": 5.92414
+    },
+    {
+        "name": "Vianden",
+        "country": "Luxembourg",
+        "province": "Vianden",
+        "population": 1626,
+        "latitude": 49.935,
+        "longitude": 6.208889
+    },
+    {
+        "name": "Tétange",
+        "country": "Luxembourg",
+        "province": "Esch-sur-Alzette",
+        "population": 2929,
+        "latitude": 49.4758333,
+        "longitude": 6.0422222
+    },
+    {
+        "name": "Steinsel",
+        "country": "Luxembourg",
+        "province": "Luxembourg",
+        "population": 1879,
+        "latitude": 49.676944,
+        "longitude": 6.123889
+    },
+    {
+        "name": "Steinfort",
+        "country": "Luxembourg",
+        "province": "Capellen",
+        "population": 2225,
+        "latitude": 49.661389,
+        "longitude": 5.919167
+    },
+    {
+        "name": "Schieren",
+        "country": "Luxembourg",
+        "province": "Diekirch",
+        "population": 1397,
+        "latitude": 49.830556,
+        "longitude": 6.098611
+    },
+    {
+        "name": "Sandweiler",
+        "country": "Luxembourg",
+        "province": "Luxembourg",
+        "population": 2522,
+        "latitude": 49.61471,
+        "longitude": 6.22221
+    },
+    {
+        "name": "Rumelange",
+        "country": "Luxembourg",
+        "province": "Esch-sur-Alzette",
+        "population": -1,
+        "latitude": 49.45964,
+        "longitude": 6.03089
+    },
+    {
+        "name": "Rollingen",
+        "country": "Luxembourg",
+        "province": "Mersch",
+        "population": 1448,
+        "latitude": 49.7416667,
+        "longitude": 6.1144444
+    },
+    {
+        "name": "Redange",
+        "country": "Luxembourg",
+        "province": "Redange",
+        "population": 1164,
+        "latitude": 49.76437,
+        "longitude": 5.88997
+    },
+    {
+        "name": "Pontpierre",
+        "country": "Luxembourg",
+        "province": "Esch-sur-Alzette",
+        "population": 1017,
+        "latitude": 49.5363889,
+        "longitude": 6.0294444
+    },
+    {
+        "name": "Olm",
+        "country": "Luxembourg",
+        "province": "Luxembourg",
+        "population": 1459,
+        "latitude": 49.6572222,
+        "longitude": 6.0002778
+    },
+    {
+        "name": "Obercorn",
+        "country": "Luxembourg",
+        "province": "Esch-sur-Alzette",
+        "population": 4666,
+        "latitude": 49.5136111,
+        "longitude": 5.8961111
+    },
+    {
+        "name": "Niedercorn",
+        "country": "Luxembourg",
+        "province": "Esch-sur-Alzette",
+        "population": 3164,
+        "latitude": 49.5361111,
+        "longitude": 5.8930556
+    },
+    {
+        "name": "Müllendorf",
+        "country": "Luxembourg",
+        "province": "Luxembourg",
+        "population": 1024,
+        "latitude": 49.680278,
+        "longitude": 6.13
+    },
+    {
+        "name": "Moutfort",
+        "country": "Luxembourg",
+        "province": "Luxembourg",
+        "population": 1306,
+        "latitude": 49.5852778,
+        "longitude": 6.2555556
+    },
+    {
+        "name": "Mondorf-les-Bains",
+        "country": "Luxembourg",
+        "province": "Remich",
+        "population": 3113,
+        "latitude": 49.505,
+        "longitude": 6.281111
+    },
+    {
+        "name": "Mondercange",
+        "country": "Luxembourg",
+        "province": "Esch-sur-Alzette",
+        "population": 3306,
+        "latitude": 49.533056,
+        "longitude": 5.988333
+    },
+    {
+        "name": "Mertert",
+        "country": "Luxembourg",
+        "province": "Grevenmacher",
+        "population": 1163,
+        "latitude": 49.70261,
+        "longitude": 6.47966
+    },
+    {
+        "name": "Merl",
+        "country": "Luxembourg",
+        "province": "Luxembourg",
+        "population": 6264,
+        "latitude": 49.6033333,
+        "longitude": 6.0955556
+    },
+    {
+        "name": "Lintgen",
+        "country": "Luxembourg",
+        "province": "Mersch",
+        "population": 1752,
+        "latitude": 49.72243,
+        "longitude": 6.13016
+    },
+    {
+        "name": "Leudelange",
+        "country": "Luxembourg",
+        "province": "Esch-sur-Alzette",
+        "population": 1924,
+        "latitude": 49.568333,
+        "longitude": 6.065278
+    },
+    {
+        "name": "Junglinster",
+        "country": "Luxembourg",
+        "province": "Grevenmacher",
+        "population": 2358,
+        "latitude": 49.707222,
+        "longitude": 6.253056
+    },
+    {
+        "name": "Itzig",
+        "country": "Luxembourg",
+        "province": "Luxembourg",
+        "population": 1836,
+        "latitude": 49.58769,
+        "longitude": 6.17065
+    },
+    {
+        "name": "Hesperange",
+        "country": "Luxembourg",
+        "province": "Luxembourg",
+        "population": 1937,
+        "latitude": 49.568056,
+        "longitude": 6.151389
+    },
+    {
+        "name": "Helmsange",
+        "country": "Luxembourg",
+        "province": "Luxembourg",
+        "population": 2193,
+        "latitude": 49.6527778,
+        "longitude": 6.1413889
+    },
+    {
+        "name": "Heisdorf",
+        "country": "Luxembourg",
+        "province": "Luxembourg",
+        "population": 1586,
+        "latitude": 49.67207,
+        "longitude": 6.14202
+    },
+    {
+        "name": "Hautcharage",
+        "country": "Luxembourg",
+        "province": "Capellen",
+        "population": 1495,
+        "latitude": 49.57499,
+        "longitude": 5.9097
+    },
+    {
+        "name": "Gonderange",
+        "country": "Luxembourg",
+        "province": "Grevenmacher",
+        "population": 1735,
+        "latitude": 49.69537,
+        "longitude": 6.24577
+    },
+    {
+        "name": "Fentange",
+        "country": "Luxembourg",
+        "province": "Luxembourg",
+        "population": 1302,
+        "latitude": 49.5627778,
+        "longitude": 6.1538889
+    },
+    {
+        "name": "Eischen",
+        "country": "Luxembourg",
+        "province": "Capellen",
+        "population": 1559,
+        "latitude": 49.6855556,
+        "longitude": 5.8786111
+    },
+    {
+        "name": "Colmar",
+        "country": "Luxembourg",
+        "province": "Mersch",
+        "population": 1776,
+        "latitude": 49.810278,
+        "longitude": 6.097222
+    },
+    {
+        "name": "Clervaux",
+        "country": "Luxembourg",
+        "province": "Clervaux",
+        "population": 1103,
+        "latitude": 50.054722,
+        "longitude": 6.031389
+    },
+    {
+        "name": "Clemency",
+        "country": "Luxembourg",
+        "province": "Capellen",
+        "population": 1821,
+        "latitude": 49.5966667,
+        "longitude": 5.8758333
+    },
+    {
+        "name": "Capellen",
+        "country": "Luxembourg",
+        "province": "Capellen",
+        "population": 1330,
+        "latitude": 49.645,
+        "longitude": 5.990833
+    },
+    {
+        "name": "Bissen",
+        "country": "Luxembourg",
+        "province": "Mersch",
+        "population": 2547,
+        "latitude": 49.78733,
+        "longitude": 6.0654
+    },
+    {
+        "name": "Bertrange",
+        "country": "Luxembourg",
+        "province": "Luxembourg",
+        "population": 5615,
+        "latitude": 49.611111,
+        "longitude": 6.05
+    },
+    {
+        "name": "Bascharage",
+        "country": "Luxembourg",
+        "province": "Capellen",
+        "population": 4645,
+        "latitude": 49.56727,
+        "longitude": 5.9073
+    },
+    {
+        "name": "Aspelt",
+        "country": "Luxembourg",
+        "province": "Esch-sur-Alzette",
+        "population": 1013,
+        "latitude": 49.5227778,
+        "longitude": 6.2247222
+    },
+    {
+        "name": "Alzingen",
+        "country": "Luxembourg",
+        "province": "Luxembourg",
+        "population": 1376,
+        "latitude": 49.565,
+        "longitude": 6.1636111
+    },
+    {
+        "name": "Senningerberg",
+        "country": "Luxembourg",
+        "province": "Luxembourg",
+        "population": 1663,
+        "latitude": 49.64907012039082,
+        "longitude": 6.226072311401367
+    },
+    {
+        "name": "Howald",
+        "country": "Luxembourg",
+        "province": "Luxembourg",
+        "population": -1,
+        "latitude": 49.58386765811807,
+        "longitude": 6.142773628234863
+    },
+    {
+        "name": "Weidingen",
+        "country": "Luxembourg",
+        "province": "Wiltz",
+        "population": -1,
+        "latitude": 49.97068,
+        "longitude": 5.93884
+    },
+    {
+        "name": "Wecker",
+        "country": "Luxembourg",
+        "province": "Grevenmacher",
+        "population": 667,
+        "latitude": 49.69473,
+        "longitude": 6.38525
+    },
+    {
+        "name": "Warken",
+        "country": "Luxembourg",
+        "province": "Diekirch",
+        "population": 1188,
+        "latitude": 49.85918,
+        "longitude": 6.08415
+    },
+    {
+        "name": "Walferdange",
+        "country": "Luxembourg",
+        "province": "Luxembourg",
+        "population": 740,
+        "latitude": 49.66321,
+        "longitude": 6.13224
+    },
+    {
+        "name": "Troisvierges",
+        "country": "Luxembourg",
+        "province": "Clervaux",
+        "population": 1457,
+        "latitude": 50.121111,
+        "longitude": 6.000278
+    },
+    {
+        "name": "Schrassig",
+        "country": "Luxembourg",
+        "province": "Luxembourg",
+        "population": 1051,
+        "latitude": 49.61014,
+        "longitude": 6.25903
+    },
+    {
+        "name": "Schouweiler",
+        "country": "Luxembourg",
+        "province": "Capellen",
+        "population": 1090,
+        "latitude": 49.5825,
+        "longitude": 5.9563889
+    },
+    {
+        "name": "Schengen",
+        "country": "Luxembourg",
+        "province": "Remich",
+        "population": 470,
+        "latitude": 49.47,
+        "longitude": 6.362
+    },
+    {
+        "name": "Sanem",
+        "country": "Luxembourg",
+        "province": "Esch-sur-Alzette",
+        "population": 2489,
+        "latitude": 49.548056,
+        "longitude": 5.928889
+    },
+    {
+        "name": "Roodt-sur-Syre",
+        "country": "Luxembourg",
+        "province": "Grevenmacher",
+        "population": 960,
+        "latitude": 49.66591,
+        "longitude": 6.30257
+    },
+    {
+        "name": "Roeser",
+        "country": "Luxembourg",
+        "province": "Esch-sur-Alzette",
+        "population": 708,
+        "latitude": 49.53721,
+        "longitude": 6.14629
+    },
+    {
+        "name": "Remerschen",
+        "country": "Luxembourg",
+        "province": "Remich",
+        "population": 704,
+        "latitude": 49.4886111,
+        "longitude": 6.3516667
+    },
+    {
+        "name": "Reckange",
+        "country": "Luxembourg",
+        "province": "Mersch",
+        "population": 611,
+        "latitude": 49.749722,
+        "longitude": 6.083056
+    },
+    {
+        "name": "Rameldange",
+        "country": "Luxembourg",
+        "province": "Luxembourg",
+        "population": 682,
+        "latitude": 49.66032,
+        "longitude": 6.23238
+    },
+    {
+        "name": "Oetrange",
+        "country": "Luxembourg",
+        "province": "Luxembourg",
+        "population": 781,
+        "latitude": 49.5963889,
+        "longitude": 6.26
+    },
+    {
+        "name": "Oberanven",
+        "country": "Luxembourg",
+        "province": "Luxembourg",
+        "population": 682,
+        "latitude": 49.65743,
+        "longitude": 6.24302
+    },
+    {
+        "name": "Noertzange",
+        "country": "Luxembourg",
+        "province": "Esch-sur-Alzette",
+        "population": 999,
+        "latitude": 49.5091667,
+        "longitude": 6.0561111
+    },
+    {
+        "name": "Niederanven",
+        "country": "Luxembourg",
+        "province": "Luxembourg",
+        "population": 1508,
+        "latitude": 49.65196,
+        "longitude": 6.26199
+    },
+    {
+        "name": "Münsbach",
+        "country": "Luxembourg",
+        "province": "Luxembourg",
+        "population": 585,
+        "latitude": 49.63277,
+        "longitude": 6.26459
+    },
+    {
+        "name": "Mensdorf",
+        "country": "Luxembourg",
+        "province": "Grevenmacher",
+        "population": 813,
+        "latitude": 49.65467,
+        "longitude": 6.30416
+    },
+    {
+        "name": "Lorentzweiler",
+        "country": "Luxembourg",
+        "province": "Mersch",
+        "population": 772,
+        "latitude": 49.70131,
+        "longitude": 6.14234
+    },
+    {
+        "name": "Larochette",
+        "country": "Luxembourg",
+        "province": "Mersch",
+        "population": 1410,
+        "latitude": 49.78362,
+        "longitude": 6.21891
+    },
+    {
+        "name": "Kopstal",
+        "country": "Luxembourg",
+        "province": "Capellen",
+        "population": 657,
+        "latitude": 49.664444,
+        "longitude": 6.073056
+    },
+    {
+        "name": "Koerich",
+        "country": "Luxembourg",
+        "province": "Capellen",
+        "population": 1066,
+        "latitude": 49.67,
+        "longitude": 5.95
+    },
+    {
+        "name": "Kehlen",
+        "country": "Luxembourg",
+        "province": "Capellen",
+        "population": 1658,
+        "latitude": 49.668333,
+        "longitude": 6.035833
+    },
+    {
+        "name": "Hostert",
+        "country": "Luxembourg",
+        "province": "Luxembourg",
+        "population": 364,
+        "latitude": 49.65749,
+        "longitude": 6.23268
+    },
+    {
+        "name": "Hobscheid",
+        "country": "Luxembourg",
+        "province": "Capellen",
+        "population": 1051,
+        "latitude": 49.688611,
+        "longitude": 5.914722
+    },
+    {
+        "name": "Helmdange",
+        "country": "Luxembourg",
+        "province": "Mersch",
+        "population": 638,
+        "latitude": 49.69387,
+        "longitude": 6.14166
+    },
+    {
+        "name": "Hellange",
+        "country": "Luxembourg",
+        "province": "Esch-sur-Alzette",
+        "population": 629,
+        "latitude": 49.50759,
+        "longitude": 6.14978
+    },
+    {
+        "name": "Hagen",
+        "country": "Luxembourg",
+        "province": "Capellen",
+        "population": 978,
+        "latitude": 49.6494444,
+        "longitude": 5.9316667
+    },
+    {
+        "name": "Gilsdorf",
+        "country": "Luxembourg",
+        "province": "Diekirch",
+        "population": 886,
+        "latitude": 49.86499,
+        "longitude": 6.17979
+    },
+    {
+        "name": "Garnich",
+        "country": "Luxembourg",
+        "province": "Capellen",
+        "population": 824,
+        "latitude": 49.616667,
+        "longitude": 5.9525
+    },
+    {
+        "name": "Frisange",
+        "country": "Luxembourg",
+        "province": "Esch-sur-Alzette",
+        "population": 1355,
+        "latitude": 49.51616,
+        "longitude": 6.18858
+    },
+    {
+        "name": "Ehnen",
+        "country": "Luxembourg",
+        "province": "Grevenmacher",
+        "population": 531,
+        "latitude": 49.60155,
+        "longitude": 6.38664
+    },
+    {
+        "name": "Ehlerange",
+        "country": "Luxembourg",
+        "province": "Esch-sur-Alzette",
+        "population": 756,
+        "latitude": 49.5241667,
+        "longitude": 5.9661111
+    },
+    {
+        "name": "Dalheim",
+        "country": "Luxembourg",
+        "province": "Remich",
+        "population": 1364,
+        "latitude": 49.540833,
+        "longitude": 6.259722
+    },
+    {
+        "name": "Crauthem",
+        "country": "Luxembourg",
+        "province": "Esch-sur-Alzette",
+        "population": 1278,
+        "latitude": 49.5355556,
+        "longitude": 6.1469444
+    },
+    {
+        "name": "Contern",
+        "country": "Luxembourg",
+        "province": "Luxembourg",
+        "population": 1083,
+        "latitude": 49.581944,
+        "longitude": 6.226667
+    },
+    {
+        "name": "Consdorf",
+        "country": "Luxembourg",
+        "province": "Echternach",
+        "population": 1241,
+        "latitude": 49.78018,
+        "longitude": 6.3395
+    },
+    {
+        "name": "Canach",
+        "country": "Luxembourg",
+        "province": "Remich",
+        "population": 1496,
+        "latitude": 49.6069444,
+        "longitude": 6.3258333
+    },
+    {
+        "name": "Bofferdange",
+        "country": "Luxembourg",
+        "province": "Mersch",
+        "population": 802,
+        "latitude": 49.69062,
+        "longitude": 6.13998
+    },
+    {
+        "name": "Bettendorf",
+        "country": "Luxembourg",
+        "province": "Diekirch",
+        "population": 1072,
+        "latitude": 49.876667,
+        "longitude": 6.218056
+    },
+    {
+        "name": "Bettange-sur-Mess",
+        "country": "Luxembourg",
+        "province": "Capellen",
+        "population": 992,
+        "latitude": 49.5758333,
+        "longitude": 5.9838889
+    },
+    {
+        "name": "Beringen",
+        "country": "Luxembourg",
+        "province": "Mersch",
+        "population": 956,
+        "latitude": 49.7583333,
+        "longitude": 6.1169444
+    },
+    {
+        "name": "Bergem",
+        "country": "Luxembourg",
+        "province": "Esch-sur-Alzette",
+        "population": 1490,
+        "latitude": 49.525,
+        "longitude": 6.0422222
+    },
+    {
+        "name": "Beaufort",
+        "country": "Luxembourg",
+        "province": "Echternach",
+        "population": 1418,
+        "latitude": 49.835833,
+        "longitude": 6.291667
+    },
+    {
+        "name": "Bech-Kleinmacher",
+        "country": "Luxembourg",
+        "province": "Remich",
+        "population": 593,
+        "latitude": 49.5308333,
+        "longitude": 6.355
+    },
+    {
+        "name": "Wormeldange",
+        "country": "Luxembourg",
+        "province": "Grevenmacher",
+        "population": 786,
+        "latitude": 49.61114,
+        "longitude": 6.40546
+    },
+    {
+        "name": "Weiler-la-Tour",
+        "country": "Luxembourg",
+        "province": "Luxembourg",
+        "population": 484,
+        "latitude": 49.540833,
+        "longitude": 6.200833
+    },
+    {
+        "name": "Useldange",
+        "country": "Luxembourg",
+        "province": "Redange",
+        "population": 657,
+        "latitude": 49.769722,
+        "longitude": 5.982222
+    },
+    {
+        "name": "Uebersyren",
+        "country": "Luxembourg",
+        "province": "Luxembourg",
+        "population": 4144,
+        "latitude": 49.6319,
+        "longitude": 6.2771
+    },
+    {
+        "name": "Senningen",
+        "country": "Luxembourg",
+        "province": "Luxembourg",
+        "population": 378,
+        "latitude": 49.64535,
+        "longitude": 6.23927
+    },
+    {
+        "name": "Schuttrange",
+        "country": "Luxembourg",
+        "province": "Luxembourg",
+        "population": 841,
+        "latitude": 49.620556,
+        "longitude": 6.268611
+    },
+    {
+        "name": "Rosport",
+        "country": "Luxembourg",
+        "province": "Echternach",
+        "population": 681,
+        "latitude": 49.8047,
+        "longitude": 6.50532
+    },
+    {
+        "name": "Reckange-sur-Mess",
+        "country": "Luxembourg",
+        "province": "Esch-sur-Alzette",
+        "population": 571,
+        "latitude": 49.5625,
+        "longitude": 6.008889
+    },
+    {
+        "name": "Perlé",
+        "country": "Luxembourg",
+        "province": "Redange",
+        "population": 649,
+        "latitude": 49.8116667,
+        "longitude": 5.7658333
+    },
+    {
+        "name": "Peppange",
+        "country": "Luxembourg",
+        "province": "Esch-sur-Alzette",
+        "population": 593,
+        "latitude": 49.5244444,
+        "longitude": 6.1297222
+    },
+    {
+        "name": "Moersdorf",
+        "country": "Luxembourg",
+        "province": "Echternach",
+        "population": 301,
+        "latitude": 49.7383333,
+        "longitude": 6.5
+    },
+    {
+        "name": "Mertzig",
+        "country": "Luxembourg",
+        "province": "Diekirch",
+        "population": 1482,
+        "latitude": 49.833889,
+        "longitude": 6.0075
+    },
+    {
+        "name": "Medernach",
+        "country": "Luxembourg",
+        "province": "Diekirch",
+        "population": 907,
+        "latitude": 49.80955,
+        "longitude": 6.21521
+    },
+    {
+        "name": "Linger",
+        "country": "Luxembourg",
+        "province": "Capellen",
+        "population": 591,
+        "latitude": 49.5658333,
+        "longitude": 5.8866667
+    },
+    {
+        "name": "Kleinbettingen",
+        "country": "Luxembourg",
+        "province": "Capellen",
+        "population": 872,
+        "latitude": 49.6463889,
+        "longitude": 5.9163889
+    },
+    {
+        "name": "Ingeldorf",
+        "country": "Luxembourg",
+        "province": "Diekirch",
+        "population": 833,
+        "latitude": 49.8519444,
+        "longitude": 6.1347222
+    },
+    {
+        "name": "Hosingen",
+        "country": "Luxembourg",
+        "province": "Clervaux",
+        "population": 811,
+        "latitude": 50.01218,
+        "longitude": 6.09089
+    },
+    {
+        "name": "Hoscheid",
+        "country": "Luxembourg",
+        "province": "Clervaux",
+        "population": 319,
+        "latitude": 49.9472222,
+        "longitude": 6.0816667
+    },
+    {
+        "name": "Heffingen",
+        "country": "Luxembourg",
+        "province": "Mersch",
+        "population": 623,
+        "latitude": 49.76907,
+        "longitude": 6.24049
+    },
+    {
+        "name": "Foetz",
+        "country": "Luxembourg",
+        "province": "Esch-sur-Alzette",
+        "population": 483,
+        "latitude": 49.5294444,
+        "longitude": 6.0108333
+    },
+    {
+        "name": "Findel",
+        "country": "Luxembourg",
+        "province": "Luxembourg",
+        "population": 105,
+        "latitude": 49.62456,
+        "longitude": 6.1756
+    },
+    {
+        "name": "Niederfeulen",
+        "country": "Luxembourg",
+        "province": "Diekirch",
+        "population": 1125,
+        "latitude": 49.855556,
+        "longitude": 6.047222
+    },
+    {
+        "name": "Eselborn",
+        "country": "Luxembourg",
+        "province": "Clervaux",
+        "population": 337,
+        "latitude": 50.0627778,
+        "longitude": 6.0036111
+    },
+    {
+        "name": "Brouch",
+        "country": "Luxembourg",
+        "province": "Mersch",
+        "population": 740,
+        "latitude": 49.7361111,
+        "longitude": 6.0230556
+    },
+    {
+        "name": "Bourglinster",
+        "country": "Luxembourg",
+        "province": "Grevenmacher",
+        "population": 680,
+        "latitude": 49.70306,
+        "longitude": 6.21725
+    },
+    {
+        "name": "Blaschette",
+        "country": "Luxembourg",
+        "province": "Mersch",
+        "population": 465,
+        "latitude": 49.70279,
+        "longitude": 6.16876
+    },
+    {
+        "name": "Bivange",
+        "country": "Luxembourg",
+        "province": "Esch-sur-Alzette",
+        "population": 617,
+        "latitude": 49.5444444,
+        "longitude": 6.1377778
+    },
+    {
+        "name": "Bigonville",
+        "country": "Luxembourg",
+        "province": "Redange",
+        "population": 475,
+        "latitude": 49.8516667,
+        "longitude": 5.7933333
+    },
+    {
+        "name": "Berdorf",
+        "country": "Luxembourg",
+        "province": "Echternach",
+        "population": 900,
+        "latitude": 49.82051,
+        "longitude": 6.34945
+    },
+    {
+        "name": "Bastendorf",
+        "country": "Luxembourg",
+        "province": "Vianden",
+        "population": 377,
+        "latitude": 49.8919444,
+        "longitude": 6.1652778
+    },
+    {
+        "name": "Wellenstein",
+        "country": "Luxembourg",
+        "province": "Remich",
+        "population": 499,
+        "latitude": 49.5238889,
+        "longitude": 6.3422222
+    },
+    {
+        "name": "Weiswampach",
+        "country": "Luxembourg",
+        "province": "Clervaux",
+        "population": 691,
+        "latitude": 50.137222,
+        "longitude": 6.075
+    },
+    {
+        "name": "Wahl",
+        "country": "Luxembourg",
+        "province": "Redange",
+        "population": 235,
+        "latitude": 49.836667,
+        "longitude": 5.906389
+    },
+    {
+        "name": "Vichten",
+        "country": "Luxembourg",
+        "province": "Redange",
+        "population": 764,
+        "latitude": 49.803056,
+        "longitude": 6
+    },
+    {
+        "name": "Tuntange",
+        "country": "Luxembourg",
+        "province": "Mersch",
+        "population": 605,
+        "latitude": 49.717778,
+        "longitude": 6.010278
+    },
+    {
+        "name": "Tarchamps",
+        "country": "Luxembourg",
+        "province": "Wiltz",
+        "population": 294,
+        "latitude": 49.9505556,
+        "longitude": 5.7961111
+    },
+    {
+        "name": "Syren",
+        "country": "Luxembourg",
+        "province": "Luxembourg",
+        "population": 423,
+        "latitude": 49.5619444,
+        "longitude": 6.2216667
+    },
+    {
+        "name": "Stolzembourg",
+        "country": "Luxembourg",
+        "province": "Vianden",
+        "population": 183,
+        "latitude": 49.96549,
+        "longitude": 6.16745
+    },
+    {
+        "name": "Steinheim",
+        "country": "Luxembourg",
+        "province": "Echternach",
+        "population": 550,
+        "latitude": 49.81794,
+        "longitude": 6.47713
+    },
+    {
+        "name": "Sprinkange",
+        "country": "Luxembourg",
+        "province": "Capellen",
+        "population": -1,
+        "latitude": 49.58049,
+        "longitude": 5.96493
+    },
+    {
+        "name": "Scheidgen",
+        "country": "Luxembourg",
+        "province": "Echternach",
+        "population": 461,
+        "latitude": 49.78059,
+        "longitude": 6.3607
+    },
+    {
+        "name": "Saeul",
+        "country": "Luxembourg",
+        "province": "Redange",
+        "population": 316,
+        "latitude": 49.727222,
+        "longitude": 5.986389
+    },
+    {
+        "name": "Roodt",
+        "country": "Luxembourg",
+        "province": "Capellen",
+        "population": 215,
+        "latitude": 49.691944,
+        "longitude": 6.002222
+    },
+    {
+        "name": "Roedgen",
+        "country": "Luxembourg",
+        "province": "Esch-sur-Alzette",
+        "population": 337,
+        "latitude": 49.5747222,
+        "longitude": 6.0347222
+    },
+    {
+        "name": "Rodenbourg",
+        "country": "Luxembourg",
+        "province": "Grevenmacher",
+        "population": 109,
+        "latitude": 49.68671,
+        "longitude": 6.28939
+    },
+    {
+        "name": "Reisdorf",
+        "country": "Luxembourg",
+        "province": "Diekirch",
+        "population": 493,
+        "latitude": 49.868611,
+        "longitude": 6.267778
+    },
+    {
+        "name": "Rambrouch",
+        "country": "Luxembourg",
+        "province": "Redange",
+        "population": 401,
+        "latitude": 49.830833,
+        "longitude": 5.845
+    },
+    {
+        "name": "Pratz",
+        "country": "Luxembourg",
+        "province": "Redange",
+        "population": 367,
+        "latitude": 49.8016667,
+        "longitude": 5.9391667
+    },
+    {
+        "name": "Platen",
+        "country": "Luxembourg",
+        "province": "Redange",
+        "population": 541,
+        "latitude": 49.78933,
+        "longitude": 5.93382
+    },
+    {
+        "name": "Osweiler",
+        "country": "Luxembourg",
+        "province": "Echternach",
+        "population": 381,
+        "latitude": 49.78667,
+        "longitude": 6.44254
+    },
+    {
+        "name": "Olingen",
+        "country": "Luxembourg",
+        "province": "Grevenmacher",
+        "population": 403,
+        "latitude": 49.67985,
+        "longitude": 6.31392
+    },
+    {
+        "name": "Oberfeulen",
+        "country": "Luxembourg",
+        "province": "Diekirch",
+        "population": 283,
+        "latitude": 49.8480556,
+        "longitude": 6.0355556
+    },
+    {
+        "name": "Nospelt",
+        "country": "Luxembourg",
+        "province": "Capellen",
+        "population": 766,
+        "latitude": 49.6752778,
+        "longitude": 6.0088889
+    },
+    {
+        "name": "Noerdange",
+        "country": "Luxembourg",
+        "province": "Redange",
+        "population": 599,
+        "latitude": 49.7422222,
+        "longitude": 5.9261111
+    },
+    {
+        "name": "Niederdonven",
+        "country": "Luxembourg",
+        "province": "Grevenmacher",
+        "population": 324,
+        "latitude": 49.63479,
+        "longitude": 6.40243
+    },
+    {
+        "name": "Neihaischen",
+        "country": "Luxembourg",
+        "province": "Luxembourg",
+        "population": 239,
+        "latitude": 49.62483,
+        "longitude": 6.23408
+    },
+    {
+        "name": "Moestroff",
+        "country": "Luxembourg",
+        "province": "Diekirch",
+        "population": 418,
+        "latitude": 49.8677778,
+        "longitude": 6.2394444
+    },
+    {
+        "name": "Moesdorf",
+        "country": "Luxembourg",
+        "province": "Mersch",
+        "population": 353,
+        "latitude": 49.7680556,
+        "longitude": 6.1166667
+    },
+    {
+        "name": "Michelau",
+        "country": "Luxembourg",
+        "province": "Diekirch",
+        "population": 281,
+        "latitude": 49.9,
+        "longitude": 6.0919444
+    },
+    {
+        "name": "Meispelt",
+        "country": "Luxembourg",
+        "province": "Capellen",
+        "population": 290,
+        "latitude": 49.6911111,
+        "longitude": 6.0591667
+    },
+    {
+        "name": "Marnach",
+        "country": "Luxembourg",
+        "province": "Clervaux",
+        "population": 454,
+        "latitude": 50.0533333,
+        "longitude": 6.0619444
+    },
+    {
+        "name": "Machtum",
+        "country": "Luxembourg",
+        "province": "Grevenmacher",
+        "population": 304,
+        "latitude": 49.65897,
+        "longitude": 6.43599
+    },
+    {
+        "name": "Lullange",
+        "country": "Luxembourg",
+        "province": "Clervaux",
+        "population": 132,
+        "latitude": 50.06,
+        "longitude": 5.9419444
+    },
+    {
+        "name": "Lipperscheid",
+        "country": "Luxembourg",
+        "province": "Diekirch",
+        "population": 294,
+        "latitude": 49.9186111,
+        "longitude": 6.0866667
+    },
+    {
+        "name": "Lasauvage",
+        "country": "Luxembourg",
+        "province": "Esch-sur-Alzette",
+        "population": 402,
+        "latitude": 49.525,
+        "longitude": 5.8375
+    },
+    {
+        "name": "Kockelscheuer",
+        "country": "Luxembourg",
+        "province": "Esch-sur-Alzette",
+        "population": 270,
+        "latitude": 49.5611111,
+        "longitude": 6.1122222
+    },
+    {
+        "name": "Keispelt",
+        "country": "Luxembourg",
+        "province": "Capellen",
+        "population": 567,
+        "latitude": 49.69394,
+        "longitude": 6.06789
+    },
+    {
+        "name": "Hunsdorf",
+        "country": "Luxembourg",
+        "province": "Mersch",
+        "population": 413,
+        "latitude": 49.6966667,
+        "longitude": 6.1316667
+    },
+    {
+        "name": "Huncherange",
+        "country": "Luxembourg",
+        "province": "Esch-sur-Alzette",
+        "population": 615,
+        "latitude": 49.5169444,
+        "longitude": 6.065
+    },
+    {
+        "name": "Huldange",
+        "country": "Luxembourg",
+        "province": "Clervaux",
+        "population": 376,
+        "latitude": 50.1647222,
+        "longitude": 6.015
+    },
+    {
+        "name": "Hostert",
+        "country": "Luxembourg",
+        "province": "Redange",
+        "population": 360,
+        "latitude": 49.81,
+        "longitude": 5.866667
+    },
+    {
+        "name": "Holzem",
+        "country": "Luxembourg",
+        "province": "Capellen",
+        "population": 541,
+        "latitude": 49.6163889,
+        "longitude": 5.9902778
+    },
+    {
+        "name": "Heiderscheid",
+        "country": "Luxembourg",
+        "province": "Wiltz",
+        "population": 424,
+        "latitude": 49.88734,
+        "longitude": 5.97892
+    },
+    {
+        "name": "Hassel",
+        "country": "Luxembourg",
+        "province": "Luxembourg",
+        "population": 436,
+        "latitude": 49.55019,
+        "longitude": 6.20826
+    },
+    {
+        "name": "Harlange",
+        "country": "Luxembourg",
+        "province": "Wiltz",
+        "population": 378,
+        "latitude": 49.9313889,
+        "longitude": 5.79
+    },
+    {
+        "name": "Haller",
+        "country": "Luxembourg",
+        "province": "Echternach",
+        "population": 223,
+        "latitude": 49.81982,
+        "longitude": 6.28006
+    },
+    {
+        "name": "Greiveldange",
+        "country": "Luxembourg",
+        "province": "Remich",
+        "population": 630,
+        "latitude": 49.5838889,
+        "longitude": 6.3591667
+    },
+    {
+        "name": "Grass",
+        "country": "Luxembourg",
+        "province": "Capellen",
+        "population": 71,
+        "latitude": 49.6308333,
+        "longitude": 5.8913889
+    },
+    {
+        "name": "Gostingen",
+        "country": "Luxembourg",
+        "province": "Grevenmacher",
+        "population": 342,
+        "latitude": 49.6191667,
+        "longitude": 6.3544444
+    },
+    {
+        "name": "Goetzingen",
+        "country": "Luxembourg",
+        "province": "Capellen",
+        "population": 341,
+        "latitude": 49.6602778,
+        "longitude": 5.9816667
+    },
+    {
+        "name": "Goeblange",
+        "country": "Luxembourg",
+        "province": "Capellen",
+        "population": 434,
+        "latitude": 49.6697222,
+        "longitude": 5.9652778
+    },
+    {
+        "name": "Godbrange",
+        "country": "Luxembourg",
+        "province": "Grevenmacher",
+        "population": 574,
+        "latitude": 49.73395,
+        "longitude": 6.23238
+    },
+    {
+        "name": "Fouhren",
+        "country": "Luxembourg",
+        "province": "Vianden",
+        "population": 380,
+        "latitude": 49.9155556,
+        "longitude": 6.1961111
+    },
+    {
+        "name": "Folschette",
+        "country": "Luxembourg",
+        "province": "Redange",
+        "population": 289,
+        "latitude": 49.8141667,
+        "longitude": 5.8747222
+    },
+    {
+        "name": "Flaxweiler",
+        "country": "Luxembourg",
+        "province": "Grevenmacher",
+        "population": 358,
+        "latitude": 49.66602,
+        "longitude": 6.34321
+    },
+    {
+        "name": "Fingig",
+        "country": "Luxembourg",
+        "province": "Capellen",
+        "population": 329,
+        "latitude": 49.6036111,
+        "longitude": 5.9008333
+    },
+    {
+        "name": "Filsdorf",
+        "country": "Luxembourg",
+        "province": "Remich",
+        "population": 371,
+        "latitude": 49.5325,
+        "longitude": 6.2483333
+    },
+    {
+        "name": "Fennange",
+        "country": "Luxembourg",
+        "province": "Esch-sur-Alzette",
+        "population": 293,
+        "latitude": 49.5197222,
+        "longitude": 6.0783333
+    },
+    {
+        "name": "Esch-sur-Sûre",
+        "country": "Luxembourg",
+        "province": "Wiltz",
+        "population": 333,
+        "latitude": 49.911389,
+        "longitude": 5.936389
+    },
+    {
+        "name": "Eschdorf",
+        "country": "Luxembourg",
+        "province": "Wiltz",
+        "population": 433,
+        "latitude": 49.8859,
+        "longitude": 5.93421
+    },
+    {
+        "name": "Erpeldange",
+        "country": "Luxembourg",
+        "province": "Diekirch",
+        "population": 845,
+        "latitude": 49.864722,
+        "longitude": 6.114722
+    },
+    {
+        "name": "Erpeldange",
+        "country": "Luxembourg",
+        "province": "Remich",
+        "population": 359,
+        "latitude": 49.54444,
+        "longitude": 6.3275
+    },
+    {
+        "name": "Erpeldange",
+        "country": "Luxembourg",
+        "province": "Wiltz",
+        "population": 202,
+        "latitude": 49.978056,
+        "longitude": 5.948611
+    },
+    {
+        "name": "Ernzen",
+        "country": "Luxembourg",
+        "province": "Mersch",
+        "population": 398,
+        "latitude": 49.77253,
+        "longitude": 6.22118
+    },
+    {
+        "name": "Ernster",
+        "country": "Luxembourg",
+        "province": "Luxembourg",
+        "population": 350,
+        "latitude": 49.67901,
+        "longitude": 6.24822
+    },
+    {
+        "name": "Elvange",
+        "country": "Luxembourg",
+        "province": "Remich",
+        "population": 713,
+        "latitude": 49.505278,
+        "longitude": 6.316389
+    },
+    {
+        "name": "Ellange",
+        "country": "Luxembourg",
+        "province": "Remich",
+        "population": 299,
+        "latitude": 49.52,
+        "longitude": 6.2983333
+    },
+    {
+        "name": "Eisenborn",
+        "country": "Luxembourg",
+        "province": "Grevenmacher",
+        "population": 170,
+        "latitude": 49.69138,
+        "longitude": 6.18363
+    },
+    {
+        "name": "Ehlange",
+        "country": "Luxembourg",
+        "province": "Esch-sur-Alzette",
+        "population": 429,
+        "latitude": 49.5488889,
+        "longitude": 6.0169444
+    },
+    {
+        "name": "Dippach",
+        "country": "Luxembourg",
+        "province": "Capellen",
+        "population": 808,
+        "latitude": 49.58701,
+        "longitude": 5.9833
+    },
+    {
+        "name": "Cruchten",
+        "country": "Luxembourg",
+        "province": "Mersch",
+        "population": 404,
+        "latitude": 49.79908,
+        "longitude": 6.13235
+    },
+    {
+        "name": "Christnach",
+        "country": "Luxembourg",
+        "province": "Echternach",
+        "population": 394,
+        "latitude": 49.78805,
+        "longitude": 6.27337
+    },
+    {
+        "name": "Burden",
+        "country": "Luxembourg",
+        "province": "Diekirch",
+        "population": 450,
+        "latitude": 49.87987,
+        "longitude": 6.08943
+    },
+    {
+        "name": "Brandenbourg",
+        "country": "Luxembourg",
+        "province": "Vianden",
+        "population": 193,
+        "latitude": 49.91141,
+        "longitude": 6.1384
+    },
+    {
+        "name": "Boxhorn",
+        "country": "Luxembourg",
+        "province": "Clervaux",
+        "population": 398,
+        "latitude": 50.0838889,
+        "longitude": 5.9925
+    },
+    {
+        "name": "Boulaide",
+        "country": "Luxembourg",
+        "province": "Wiltz",
+        "population": 396,
+        "latitude": 49.887778,
+        "longitude": 5.816389
+    },
+    {
+        "name": "Born",
+        "country": "Luxembourg",
+        "province": "Echternach",
+        "population": 336,
+        "latitude": 49.75928,
+        "longitude": 6.51227
+    },
+    {
+        "name": "Boevange",
+        "country": "Luxembourg",
+        "province": "Clervaux",
+        "population": 125,
+        "latitude": 50.046389,
+        "longitude": 5.934167
+    },
+    {
+        "name": "Bettel",
+        "country": "Luxembourg",
+        "province": "Diekirch",
+        "population": 223,
+        "latitude": 49.91575,
+        "longitude": 6.22693
+    },
+    {
+        "name": "Berg",
+        "country": "Luxembourg",
+        "province": "Grevenmacher",
+        "population": 93,
+        "latitude": 49.68342,
+        "longitude": 6.35776
+    },
+    {
+        "name": "Berchem",
+        "country": "Luxembourg",
+        "province": "Esch-sur-Alzette",
+        "population": 863,
+        "latitude": 49.5402778,
+        "longitude": 6.1291667
+    },
+    {
+        "name": "Berbourg",
+        "country": "Luxembourg",
+        "province": "Grevenmacher",
+        "population": 664,
+        "latitude": 49.7306,
+        "longitude": 6.39355
+    },
+    {
+        "name": "Beckerich",
+        "country": "Luxembourg",
+        "province": "Redange",
+        "population": 672,
+        "latitude": 49.73114,
+        "longitude": 5.88241
+    },
+    {
+        "name": "Bech",
+        "country": "Luxembourg",
+        "province": "Echternach",
+        "population": 380,
+        "latitude": 49.7526,
+        "longitude": 6.36379
+    },
+    {
+        "name": "Arsdorf",
+        "country": "Luxembourg",
+        "province": "Redange",
+        "population": 241,
+        "latitude": 49.8613889,
+        "longitude": 5.8438889
+    },
+    {
+        "name": "Altwies",
+        "country": "Luxembourg",
+        "province": "Remich",
+        "population": 617,
+        "latitude": 49.5105556,
+        "longitude": 6.2572222
+    },
+    {
+        "name": "Wolwelange",
+        "country": "Luxembourg",
+        "province": "Redange",
+        "population": 358,
+        "latitude": 49.8286111,
+        "longitude": 5.7647222
+    },
+    {
+        "name": "Wintrange",
+        "country": "Luxembourg",
+        "province": "Remich",
+        "population": 384,
+        "latitude": 49.5013889,
+        "longitude": 6.3527778
+    },
+    {
+        "name": "Winseler",
+        "country": "Luxembourg",
+        "province": "Wiltz",
+        "population": 126,
+        "latitude": 49.967778,
+        "longitude": 5.890278
+    },
+    {
+        "name": "Wilwerdange",
+        "country": "Luxembourg",
+        "province": "Clervaux",
+        "population": 268,
+        "latitude": 50.1405556,
+        "longitude": 6.0238889
+    },
+    {
+        "name": "Wickrange",
+        "country": "Luxembourg",
+        "province": "Esch-sur-Alzette",
+        "population": 111,
+        "latitude": 49.5413889,
+        "longitude": 6.0216667
+    },
+    {
+        "name": "Welscheid",
+        "country": "Luxembourg",
+        "province": "Diekirch",
+        "population": 149,
+        "latitude": 49.8880556,
+        "longitude": 6.0677778
+    },
+    {
+        "name": "Welfrange",
+        "country": "Luxembourg",
+        "province": "Remich",
+        "population": 154,
+        "latitude": 49.538056,
+        "longitude": 6.284167
+    },
+    {
+        "name": "Weiler",
+        "country": "Luxembourg",
+        "province": "Vianden",
+        "population": 153,
+        "latitude": 49.963611,
+        "longitude": 6.124167
+    },
+    {
+        "name": "Weilerbach",
+        "country": "Luxembourg",
+        "province": "Echternach",
+        "population": 274,
+        "latitude": 49.8333333,
+        "longitude": 6.3827778
+    },
+    {
+        "name": "Weicherdange",
+        "country": "Luxembourg",
+        "province": "Clervaux",
+        "population": 220,
+        "latitude": 50.0383333,
+        "longitude": 5.9894444
+    },
+    {
+        "name": "Waldbillig",
+        "country": "Luxembourg",
+        "province": "Echternach",
+        "population": 408,
+        "latitude": 49.79636,
+        "longitude": 6.28431
+    },
+    {
+        "name": "Wahlhausen",
+        "country": "Luxembourg",
+        "province": "Clervaux",
+        "population": 465,
+        "latitude": 49.9852778,
+        "longitude": 6.1266667
+    },
+    {
+        "name": "Urspelt",
+        "country": "Luxembourg",
+        "province": "Clervaux",
+        "population": 54,
+        "latitude": 50.0755556,
+        "longitude": 6.0466667
+    },
+    {
+        "name": "Troine",
+        "country": "Luxembourg",
+        "province": "Clervaux",
+        "population": -1,
+        "latitude": 50.0644444,
+        "longitude": 5.8830556
+    },
+    {
+        "name": "Trintange",
+        "country": "Luxembourg",
+        "province": "Remich",
+        "population": 289,
+        "latitude": 49.5708333,
+        "longitude": 6.2805556
+    },
+    {
+        "name": "Tandel",
+        "country": "Luxembourg",
+        "province": "Vianden",
+        "population": 89,
+        "latitude": 49.8975,
+        "longitude": 6.1833333
+    },
+    {
+        "name": "Surré",
+        "country": "Luxembourg",
+        "province": "Wiltz",
+        "population": 190,
+        "latitude": 49.903056,
+        "longitude": 5.78
+    },
+    {
+        "name": "Stockem",
+        "country": "Luxembourg",
+        "province": "Clervaux",
+        "population": 119,
+        "latitude": 50.0788889,
+        "longitude": 5.9580556
+    },
+    {
+        "name": "Stegen",
+        "country": "Luxembourg",
+        "province": "Diekirch",
+        "population": 406,
+        "latitude": 49.83,
+        "longitude": 6.1719444
+    },
+    {
+        "name": "Sonlez",
+        "country": "Luxembourg",
+        "province": "Wiltz",
+        "population": 41,
+        "latitude": 49.965,
+        "longitude": 5.8266667
+    },
+    {
+        "name": "Siebenaler",
+        "country": "Luxembourg",
+        "province": "Clervaux",
+        "population": 56,
+        "latitude": 50.0105556,
+        "longitude": 6.0266667
+    },
+    {
+        "name": "Septfontaines",
+        "country": "Luxembourg",
+        "province": "Capellen",
+        "population": 363,
+        "latitude": 49.701111,
+        "longitude": 5.967222
+    },
+    {
+        "name": "Schweich",
+        "country": "Luxembourg",
+        "province": "Redange",
+        "population": 194,
+        "latitude": 49.7227778,
+        "longitude": 5.9275
+    },
+    {
+        "name": "Schwebsange",
+        "country": "Luxembourg",
+        "province": "Remich",
+        "population": 307,
+        "latitude": 49.5116667,
+        "longitude": 6.3569444
+    },
+    {
+        "name": "Schrondweiler",
+        "country": "Luxembourg",
+        "province": "Mersch",
+        "population": 285,
+        "latitude": 49.7977778,
+        "longitude": 6.1591667
+    },
+    {
+        "name": "Schoos",
+        "country": "Luxembourg",
+        "province": "Mersch",
+        "population": 164,
+        "latitude": 49.7441667,
+        "longitude": 6.1708333
+    },
+    {
+        "name": "Schoenfels",
+        "country": "Luxembourg",
+        "province": "Mersch",
+        "population": 216,
+        "latitude": 49.7188889,
+        "longitude": 6.0922222
+    },
+    {
+        "name": "Schlindermanderscheid",
+        "country": "Luxembourg",
+        "province": "Diekirch",
+        "population": 137,
+        "latitude": 49.9330556,
+        "longitude": 6.0636111
+    },
+    {
+        "name": "Schandel",
+        "country": "Luxembourg",
+        "province": "Redange",
+        "population": 194,
+        "latitude": 49.7922222,
+        "longitude": 5.9758333
+    },
+    {
+        "name": "Rumlange",
+        "country": "Luxembourg",
+        "province": "Clervaux",
+        "population": -1,
+        "latitude": 50.08,
+        "longitude": 5.9755556
+    },
+    {
+        "name": "Roodt",
+        "country": "Luxembourg",
+        "province": "Redange",
+        "population": 159,
+        "latitude": 49.794444,
+        "longitude": 5.821667
+    },
+    {
+        "name": "Rombach-Martelange",
+        "country": "Luxembourg",
+        "province": "Redange",
+        "population": 244,
+        "latitude": 49.8347222,
+        "longitude": 5.7427778
+    },
+    {
+        "name": "Rolling",
+        "country": "Luxembourg",
+        "province": "Remich",
+        "population": 117,
+        "latitude": 49.5488889,
+        "longitude": 6.3172222
+    },
+    {
+        "name": "Roder",
+        "country": "Luxembourg",
+        "province": "Clervaux",
+        "population": 66,
+        "latitude": 50.0558333,
+        "longitude": 6.0836111
+    },
+    {
+        "name": "Rippweiler",
+        "country": "Luxembourg",
+        "province": "Redange",
+        "population": 153,
+        "latitude": 49.7516667,
+        "longitude": 5.9575
+    },
+    {
+        "name": "Rippig",
+        "country": "Luxembourg",
+        "province": "Grevenmacher",
+        "population": 113,
+        "latitude": 49.7341667,
+        "longitude": 6.3194444
+    },
+    {
+        "name": "Reuler",
+        "country": "Luxembourg",
+        "province": "Clervaux",
+        "population": 193,
+        "latitude": 50.0577778,
+        "longitude": 6.0375
+    },
+    {
+        "name": "Reuland",
+        "country": "Luxembourg",
+        "province": "Mersch",
+        "population": 196,
+        "latitude": 49.75316,
+        "longitude": 6.2604
+    },
+    {
+        "name": "Reimberg",
+        "country": "Luxembourg",
+        "province": "Redange",
+        "population": 182,
+        "latitude": 49.7972222,
+        "longitude": 5.9538889
+    },
+    {
+        "name": "Reichlange",
+        "country": "Luxembourg",
+        "province": "Redange",
+        "population": 132,
+        "latitude": 49.7736111,
+        "longitude": 5.9280556
+    },
+    {
+        "name": "Putscheid",
+        "country": "Luxembourg",
+        "province": "Vianden",
+        "population": 38,
+        "latitude": 49.960833,
+        "longitude": 6.143056
+    },
+    {
+        "name": "Pintsch",
+        "country": "Luxembourg",
+        "province": "Wiltz",
+        "population": 126,
+        "latitude": 49.9944444,
+        "longitude": 6.0130556
+    },
+    {
+        "name": "Pettingen",
+        "country": "Luxembourg",
+        "province": "Mersch",
+        "population": 206,
+        "latitude": 49.7702778,
+        "longitude": 6.1091667
+    },
+    {
+        "name": "Ospern",
+        "country": "Luxembourg",
+        "province": "Redange",
+        "population": 276,
+        "latitude": 49.7838889,
+        "longitude": 5.9044444
+    },
+    {
+        "name": "Oberwampach",
+        "country": "Luxembourg",
+        "province": "Clervaux",
+        "population": 183,
+        "latitude": 50.0166667,
+        "longitude": 5.8608333
+    },
+    {
+        "name": "Oberpallen",
+        "country": "Luxembourg",
+        "province": "Redange",
+        "population": 397,
+        "latitude": 49.7302778,
+        "longitude": 5.8438889
+    },
+    {
+        "name": "Oberdonven",
+        "country": "Luxembourg",
+        "province": "Grevenmacher",
+        "population": 164,
+        "latitude": 49.6466667,
+        "longitude": 6.4005556
+    },
+    {
+        "name": "Nothum",
+        "country": "Luxembourg",
+        "province": "Wiltz",
+        "population": 161,
+        "latitude": 49.9413889,
+        "longitude": 5.8827778
+    },
+    {
+        "name": "Noertrange",
+        "country": "Luxembourg",
+        "province": "Wiltz",
+        "population": 274,
+        "latitude": 49.9797222,
+        "longitude": 5.9108333
+    },
+    {
+        "name": "Nocher",
+        "country": "Luxembourg",
+        "province": "Wiltz",
+        "population": 233,
+        "latitude": 49.94653,
+        "longitude": 5.97626
+    },
+    {
+        "name": "Niederwampach",
+        "country": "Luxembourg",
+        "province": "Clervaux",
+        "population": -1,
+        "latitude": 50.0116667,
+        "longitude": 5.8436111
+    },
+    {
+        "name": "Niederpallen",
+        "country": "Luxembourg",
+        "province": "Redange",
+        "population": 374,
+        "latitude": 49.7552778,
+        "longitude": 5.9122222
+    },
+    {
+        "name": "Neunhausen",
+        "country": "Luxembourg",
+        "province": "Wiltz",
+        "population": 65,
+        "latitude": 49.87672,
+        "longitude": 5.88597
+    },
+    {
+        "name": "Nagem",
+        "country": "Luxembourg",
+        "province": "Redange",
+        "population": 216,
+        "latitude": 49.7891667,
+        "longitude": 5.8577778
+    },
+    {
+        "name": "Nachtmanderscheid",
+        "country": "Luxembourg",
+        "province": "Vianden",
+        "population": 70,
+        "latitude": 49.9483333,
+        "longitude": 6.1294444
+    },
+    {
+        "name": "Munshausen",
+        "country": "Luxembourg",
+        "province": "Clervaux",
+        "population": 147,
+        "latitude": 50.0336111,
+        "longitude": 6.0386111
+    },
+    {
+        "name": "Münschecker",
+        "country": "Luxembourg",
+        "province": "Grevenmacher",
+        "population": 152,
+        "latitude": 49.6938889,
+        "longitude": 6.4422222
+    },
+    {
+        "name": "Müllerthal",
+        "country": "Luxembourg",
+        "province": "Grevenmacher",
+        "population": 152,
+        "latitude": 49.7902,
+        "longitude": 6.30665
+    },
+    {
+        "name": "Michelbouch",
+        "country": "Luxembourg",
+        "province": "Redange",
+        "population": 116,
+        "latitude": 49.8186111,
+        "longitude": 6.0202778
+    },
+    {
+        "name": "Merscheid",
+        "country": "Luxembourg",
+        "province": "Wiltz",
+        "population": 143,
+        "latitude": 49.87107,
+        "longitude": 5.96995
+    },
+    {
+        "name": "Merkholz",
+        "country": "Luxembourg",
+        "province": "Wiltz",
+        "population": 94,
+        "latitude": 49.96133,
+        "longitude": 5.98042
+    },
+    {
+        "name": "Medingen",
+        "country": "Luxembourg",
+        "province": "Luxembourg",
+        "population": 102,
+        "latitude": 49.572778,
+        "longitude": 6.248611
+    },
+    {
+        "name": "Mecher",
+        "country": "Luxembourg",
+        "province": "Wiltz",
+        "population": 63,
+        "latitude": 49.9233333,
+        "longitude": 5.8722222
+    },
+    {
+        "name": "Longsdorf",
+        "country": "Luxembourg",
+        "province": "Vianden",
+        "population": 80,
+        "latitude": 49.8988889,
+        "longitude": 6.2052778
+    },
+    {
+        "name": "Livange",
+        "country": "Luxembourg",
+        "province": "Esch-sur-Alzette",
+        "population": 306,
+        "latitude": 49.5302778,
+        "longitude": 6.1202778
+    },
+    {
+        "name": "Limpach",
+        "country": "Luxembourg",
+        "province": "Esch-sur-Alzette",
+        "population": 254,
+        "latitude": 49.5588889,
+        "longitude": 5.9805556
+    },
+    {
+        "name": "Lieler",
+        "country": "Luxembourg",
+        "province": "Clervaux",
+        "population": 179,
+        "latitude": 50.1244444,
+        "longitude": 6.11
+    },
+    {
+        "name": "Lellig",
+        "country": "Luxembourg",
+        "province": "Grevenmacher",
+        "population": 142,
+        "latitude": 49.7161111,
+        "longitude": 6.4363889
+    },
+    {
+        "name": "Leithum",
+        "country": "Luxembourg",
+        "province": "Clervaux",
+        "population": 78,
+        "latitude": 50.1608333,
+        "longitude": 6.1088889
+    },
+    {
+        "name": "Lannen",
+        "country": "Luxembourg",
+        "province": "Redange",
+        "population": 113,
+        "latitude": 49.7894444,
+        "longitude": 5.8397222
+    },
+    {
+        "name": "Landscheid",
+        "country": "Luxembourg",
+        "province": "Vianden",
+        "population": 76,
+        "latitude": 49.92407,
+        "longitude": 6.129
+    },
+    {
+        "name": "Koetschette",
+        "country": "Luxembourg",
+        "province": "Redange",
+        "population": 125,
+        "latitude": 49.8380556,
+        "longitude": 5.8402778
+    },
+    {
+        "name": "Knaphoscheid",
+        "country": "Luxembourg",
+        "province": "Wiltz",
+        "population": 180,
+        "latitude": 50.013333,
+        "longitude": 5.964722
+    },
+    {
+        "name": "Luxembourg-Kirchberg",
+        "country": "Luxembourg",
+        "province": "Luxembourg",
+        "population": 3534,
+        "latitude": 49.6238889,
+        "longitude": 6.1494444
+    },
+    {
+        "name": "Kautenbach",
+        "country": "Luxembourg",
+        "province": "Wiltz",
+        "population": 126,
+        "latitude": 49.9527778,
+        "longitude": 6.02
+    },
+    {
+        "name": "Kaundorf",
+        "country": "Luxembourg",
+        "province": "Wiltz",
+        "population": 192,
+        "latitude": 49.9213889,
+        "longitude": 5.9030556
+    },
+    {
+        "name": "Kalborn",
+        "country": "Luxembourg",
+        "province": "Clervaux",
+        "population": 58,
+        "latitude": 50.1027778,
+        "longitude": 6.1130556
+    },
+    {
+        "name": "Kahler",
+        "country": "Luxembourg",
+        "province": "Capellen",
+        "population": 192,
+        "latitude": 49.6313889,
+        "longitude": 5.9177778
+    },
+    {
+        "name": "Insenborn",
+        "country": "Luxembourg",
+        "province": "Wiltz",
+        "population": 165,
+        "latitude": 49.9016667,
+        "longitude": 5.8847222
+    },
+    {
+        "name": "Imbringen",
+        "country": "Luxembourg",
+        "province": "Grevenmacher",
+        "population": 292,
+        "latitude": 49.6975,
+        "longitude": 6.1975
+    },
+    {
+        "name": "Hupperdange",
+        "country": "Luxembourg",
+        "province": "Clervaux",
+        "population": 210,
+        "latitude": 50.0961111,
+        "longitude": 6.0591667
+    },
+    {
+        "name": "Hovelange",
+        "country": "Luxembourg",
+        "province": "Redange",
+        "population": 285,
+        "latitude": 49.7225,
+        "longitude": 5.9072222
+    },
+    {
+        "name": "Hoscheiderdickt",
+        "country": "Luxembourg",
+        "province": "Clervaux",
+        "population": 278,
+        "latitude": 49.9730556,
+        "longitude": 6.0916667
+    },
+    {
+        "name": "Holzthum",
+        "country": "Luxembourg",
+        "province": "Clervaux",
+        "population": 294,
+        "latitude": 49.985,
+        "longitude": 6.0733333
+    },
+    {
+        "name": "Holtz",
+        "country": "Luxembourg",
+        "province": "Redange",
+        "population": 196,
+        "latitude": 49.8072222,
+        "longitude": 5.7916667
+    },
+    {
+        "name": "Holler",
+        "country": "Luxembourg",
+        "province": "Clervaux",
+        "population": 87,
+        "latitude": 50.1236111,
+        "longitude": 6.0494444
+    },
+    {
+        "name": "Hollenfels",
+        "country": "Luxembourg",
+        "province": "Mersch",
+        "population": 247,
+        "latitude": 49.7130556,
+        "longitude": 6.0508333
+    },
+    {
+        "name": "Hoffelt",
+        "country": "Luxembourg",
+        "province": "Clervaux",
+        "population": 270,
+        "latitude": 50.0997222,
+        "longitude": 5.9233333
+    },
+    {
+        "name": "Hoesdorf",
+        "country": "Luxembourg",
+        "province": "Diekirch",
+        "population": 105,
+        "latitude": 49.8838889,
+        "longitude": 6.2580556
+    },
+    {
+        "name": "Hivange",
+        "country": "Luxembourg",
+        "province": "Capellen",
+        "population": 119,
+        "latitude": 49.6072222,
+        "longitude": 5.9322222
+    },
+    {
+        "name": "Herborn",
+        "country": "Luxembourg",
+        "province": "Echternach",
+        "population": 150,
+        "latitude": 49.7416667,
+        "longitude": 6.4277778
+    },
+    {
+        "name": "Heinerscheid",
+        "country": "Luxembourg",
+        "province": "Clervaux",
+        "population": 429,
+        "latitude": 50.0961111,
+        "longitude": 6.0880556
+    },
+    {
+        "name": "Hautbellain",
+        "country": "Luxembourg",
+        "province": "Clervaux",
+        "population": 151,
+        "latitude": 50.1566667,
+        "longitude": 5.9786111
+    },
+    {
+        "name": "Hamiville",
+        "country": "Luxembourg",
+        "province": "Clervaux",
+        "population": 171,
+        "latitude": 50.0461111,
+        "longitude": 5.9041667
+    },
+    {
+        "name": "Hagelsdorf",
+        "country": "Luxembourg",
+        "province": "Grevenmacher",
+        "population": 21,
+        "latitude": 49.6877778,
+        "longitude": 6.3655556
+    },
+    {
+        "name": "Hachiville",
+        "country": "Luxembourg",
+        "province": "Clervaux",
+        "population": 194,
+        "latitude": 50.1080556,
+        "longitude": 5.9233333
+    },
+    {
+        "name": "Grevenknapp",
+        "country": "Luxembourg",
+        "province": "Mersch",
+        "population": -1,
+        "latitude": 49.7625,
+        "longitude": 6.0338889
+    },
+    {
+        "name": "Grevels",
+        "country": "Luxembourg",
+        "province": "Redange",
+        "population": 207,
+        "latitude": 49.85138,
+        "longitude": 5.91399
+    },
+    {
+        "name": "Greisch",
+        "country": "Luxembourg",
+        "province": "Capellen",
+        "population": 210,
+        "latitude": 49.7097222,
+        "longitude": 5.9883333
+    },
+    {
+        "name": "Gralingen",
+        "country": "Luxembourg",
+        "province": "Vianden",
+        "population": 142,
+        "latitude": 49.9369444,
+        "longitude": 6.1016667
+    },
+    {
+        "name": "Gosseldange",
+        "country": "Luxembourg",
+        "province": "Mersch",
+        "population": 458,
+        "latitude": 49.7263889,
+        "longitude": 6.1169444
+    },
+    {
+        "name": "Goebelsmuhle",
+        "country": "Luxembourg",
+        "province": "Diekirch",
+        "population": 34,
+        "latitude": 49.92139,
+        "longitude": 6.05372
+    },
+    {
+        "name": "Girst",
+        "country": "Luxembourg",
+        "province": "Echternach",
+        "population": 113,
+        "latitude": 49.7672222,
+        "longitude": 6.4988889
+    },
+    {
+        "name": "Heischtergronn",
+        "country": "Luxembourg",
+        "province": "Wiltz",
+        "population": -1,
+        "latitude": 49.90188,
+        "longitude": 5.96008
+    },
+    {
+        "name": "Fischbach",
+        "country": "Luxembourg",
+        "province": "Clervaux",
+        "population": 114,
+        "latitude": 50.075278,
+        "longitude": 6.068889
+    },
+    {
+        "name": "Everlange",
+        "country": "Luxembourg",
+        "province": "Redange",
+        "population": 370,
+        "latitude": 49.7741667,
+        "longitude": 5.9555556
+    },
+    {
+        "name": "Eschweiler",
+        "country": "Luxembourg",
+        "province": "Grevenmacher",
+        "population": 118,
+        "latitude": 49.71749,
+        "longitude": 6.31016
+    },
+    {
+        "name": "Eschweiler",
+        "country": "Luxembourg",
+        "province": "Wiltz",
+        "population": 205,
+        "latitude": 49.997778,
+        "longitude": 5.948889
+    },
+    {
+        "name": "Eschette",
+        "country": "Luxembourg",
+        "province": "Redange",
+        "population": 34,
+        "latitude": 49.8230556,
+        "longitude": 5.8883333
+    },
+    {
+        "name": "Ersange",
+        "country": "Luxembourg",
+        "province": "Remich",
+        "population": -1,
+        "latitude": 49.5744444,
+        "longitude": 6.2755556
+    },
+    {
+        "name": "Ermsdorf",
+        "country": "Luxembourg",
+        "province": "Diekirch",
+        "population": 228,
+        "latitude": 49.8294444,
+        "longitude": 6.2227778
+    },
+    {
+        "name": "Eppeldorf",
+        "country": "Luxembourg",
+        "province": "Diekirch",
+        "population": 181,
+        "latitude": 49.8444444,
+        "longitude": 6.2497222
+    },
+    {
+        "name": "Enscherange",
+        "country": "Luxembourg",
+        "province": "Wiltz",
+        "population": 174,
+        "latitude": 49.9994444,
+        "longitude": 5.9927778
+    },
+    {
+        "name": "Drinklange",
+        "country": "Luxembourg",
+        "province": "Clervaux",
+        "population": 124,
+        "latitude": 50.1336111,
+        "longitude": 6.0191667
+    },
+    {
+        "name": "Drauffelt",
+        "country": "Luxembourg",
+        "province": "Clervaux",
+        "population": 143,
+        "latitude": 50.0177778,
+        "longitude": 6.0061111
+    },
+    {
+        "name": "Doennange",
+        "country": "Luxembourg",
+        "province": "Clervaux",
+        "population": 146,
+        "latitude": 50.0622222,
+        "longitude": 5.9558333
+    },
+    {
+        "name": "Doncols",
+        "country": "Luxembourg",
+        "province": "Wiltz",
+        "population": 232,
+        "latitude": 49.97,
+        "longitude": 5.8372222
+    },
+    {
+        "name": "Dirbach",
+        "country": "Luxembourg",
+        "province": "Wiltz",
+        "population": -1,
+        "latitude": 49.9211111,
+        "longitude": 6.0383333
+    },
+    {
+        "name": "Dillingen",
+        "country": "Luxembourg",
+        "province": "Echternach",
+        "population": 159,
+        "latitude": 49.8536111,
+        "longitude": 6.3191667
+    },
+    {
+        "name": "Dickweiler",
+        "country": "Luxembourg",
+        "province": "Echternach",
+        "population": 111,
+        "latitude": 49.7775,
+        "longitude": 6.4722222
+    },
+    {
+        "name": "Derenbach",
+        "country": "Luxembourg",
+        "province": "Clervaux",
+        "population": 287,
+        "latitude": 50.015,
+        "longitude": 5.8897222
+    },
+    {
+        "name": "Dellen",
+        "country": "Luxembourg",
+        "province": "Redange",
+        "population": -1,
+        "latitude": 49.8591667,
+        "longitude": 5.9613889
+    },
+    {
+        "name": "Deiffelt",
+        "country": "Luxembourg",
+        "province": "Clervaux",
+        "population": -1,
+        "latitude": 50.0655556,
+        "longitude": 5.9638889
+    },
+    {
+        "name": "Dahlem",
+        "country": "Luxembourg",
+        "province": "Capellen",
+        "population": 389,
+        "latitude": 49.6022222,
+        "longitude": 5.9483333
+    },
+    {
+        "name": "Dahl",
+        "country": "Luxembourg",
+        "province": "Wiltz",
+        "population": 246,
+        "latitude": 49.9352778,
+        "longitude": 5.9758333
+    },
+    {
+        "name": "Consthum",
+        "country": "Luxembourg",
+        "province": "Clervaux",
+        "population": 207,
+        "latitude": 49.9747222,
+        "longitude": 6.0541667
+    },
+    {
+        "name": "Colpach-Haut",
+        "country": "Luxembourg",
+        "province": "Redange",
+        "population": 152,
+        "latitude": 49.7686111,
+        "longitude": 5.82
+    },
+    {
+        "name": "Colpach-Bas",
+        "country": "Luxembourg",
+        "province": "Redange",
+        "population": 110,
+        "latitude": 49.7583333,
+        "longitude": 5.8269444
+    },
+    {
+        "name": "Calmus",
+        "country": "Luxembourg",
+        "province": "Redange",
+        "population": 76,
+        "latitude": 49.7255556,
+        "longitude": 5.9644444
+    },
+    {
+        "name": "Buschrodt",
+        "country": "Luxembourg",
+        "province": "Redange",
+        "population": 118,
+        "latitude": 49.8272222,
+        "longitude": 5.9358333
+    },
+    {
+        "name": "Buschdorf",
+        "country": "Luxembourg",
+        "province": "Mersch",
+        "population": 387,
+        "latitude": 49.7508333,
+        "longitude": 6.0083333
+    },
+    {
+        "name": "Burmerange",
+        "country": "Luxembourg",
+        "province": "Remich",
+        "population": 191,
+        "latitude": 49.4852778,
+        "longitude": 6.3230556
+    },
+    {
+        "name": "Buderscheid",
+        "country": "Luxembourg",
+        "province": "Wiltz",
+        "population": 126,
+        "latitude": 49.93426,
+        "longitude": 5.93815
+    },
+    {
+        "name": "Brouch",
+        "country": "Luxembourg",
+        "province": "Grevenmacher",
+        "population": 52,
+        "latitude": 49.7289,
+        "longitude": 6.33838
+    },
+    {
+        "name": "Brachtenbach",
+        "country": "Luxembourg",
+        "province": "Clervaux",
+        "population": 159,
+        "latitude": 50.0213889,
+        "longitude": 5.9113889
+    },
+    {
+        "name": "Bous",
+        "country": "Luxembourg",
+        "province": "Remich",
+        "population": 560,
+        "latitude": 49.553889,
+        "longitude": 6.329167
+    },
+    {
+        "name": "Bour",
+        "country": "Luxembourg",
+        "province": "Mersch",
+        "population": 67,
+        "latitude": 49.7013889,
+        "longitude": 6.0188889
+    },
+    {
+        "name": "Boudler",
+        "country": "Luxembourg",
+        "province": "Grevenmacher",
+        "population": 69,
+        "latitude": 49.72276,
+        "longitude": 6.35454
+    },
+    {
+        "name": "Bonnal",
+        "country": "Luxembourg",
+        "province": "Wiltz",
+        "population": -1,
+        "latitude": 49.9036111,
+        "longitude": 5.8880556
+    },
+    {
+        "name": "Boevange-sur-Attert",
+        "country": "Luxembourg",
+        "province": "Mersch",
+        "population": 576,
+        "latitude": 49.77256,
+        "longitude": 6.01532
+    },
+    {
+        "name": "Bockholtz",
+        "country": "Luxembourg",
+        "province": "Wiltz",
+        "population": 60,
+        "latitude": 49.9233333,
+        "longitude": 5.9975
+    },
+    {
+        "name": "Biwer",
+        "country": "Luxembourg",
+        "province": "Grevenmacher",
+        "population": 653,
+        "latitude": 49.70605,
+        "longitude": 6.37201
+    },
+    {
+        "name": "Bivels",
+        "country": "Luxembourg",
+        "province": "Vianden",
+        "population": 80,
+        "latitude": 49.9602778,
+        "longitude": 6.1922222
+    },
+    {
+        "name": "Binsfeld",
+        "country": "Luxembourg",
+        "province": "Clervaux",
+        "population": 235,
+        "latitude": 50.1188889,
+        "longitude": 6.0386111
+    },
+    {
+        "name": "Bilsdorf",
+        "country": "Luxembourg",
+        "province": "Redange",
+        "population": 121,
+        "latitude": 49.8575,
+        "longitude": 5.825
+    },
+    {
+        "name": "Beyren",
+        "country": "Luxembourg",
+        "province": "Grevenmacher",
+        "population": 312,
+        "latitude": 49.6263889,
+        "longitude": 6.3369444
+    },
+    {
+        "name": "Bettborn",
+        "country": "Luxembourg",
+        "province": "Redange",
+        "population": 231,
+        "latitude": 49.795278,
+        "longitude": 5.941111
+    },
+    {
+        "name": "Berlé",
+        "country": "Luxembourg",
+        "province": "Wiltz",
+        "population": 110,
+        "latitude": 49.9522222,
+        "longitude": 5.8561111
+    },
+    {
+        "name": "Beidweiler",
+        "country": "Luxembourg",
+        "province": "Grevenmacher",
+        "population": 243,
+        "latitude": 49.7233333,
+        "longitude": 6.3025
+    },
+    {
+        "name": "Baschleiden",
+        "country": "Luxembourg",
+        "province": "Wiltz",
+        "population": 185,
+        "latitude": 49.8983333,
+        "longitude": 5.8202778
+    },
+    {
+        "name": "Basbellain",
+        "country": "Luxembourg",
+        "province": "Clervaux",
+        "population": 164,
+        "latitude": 50.1458333,
+        "longitude": 5.9838889
+    },
+    {
+        "name": "Asselborn",
+        "country": "Luxembourg",
+        "province": "Clervaux",
+        "population": 413,
+        "latitude": 50.0972222,
+        "longitude": 5.9730556
+    },
+    {
+        "name": "Assel",
+        "country": "Luxembourg",
+        "province": "Remich",
+        "population": 174,
+        "latitude": 49.5527778,
+        "longitude": 6.3158333
+    },
+    {
+        "name": "Ansembourg",
+        "country": "Luxembourg",
+        "province": "Mersch",
+        "population": 61,
+        "latitude": 49.7025,
+        "longitude": 6.0433333
+    },
+    {
+        "name": "Angelsberg",
+        "country": "Luxembourg",
+        "province": "Mersch",
+        "population": 292,
+        "latitude": 49.7563889,
+        "longitude": 6.1608333
+    },
+    {
+        "name": "Altrier",
+        "country": "Luxembourg",
+        "province": "Echternach",
+        "population": 190,
+        "latitude": 49.7500932919454,
+        "longitude": 6.3265585899353
+    },
+    {
+        "name": "Altlinster",
+        "country": "Luxembourg",
+        "province": "Grevenmacher",
+        "population": 115,
+        "latitude": 49.7155556,
+        "longitude": 6.2166667
+    },
+    {
+        "name": "Alscheid",
+        "country": "Luxembourg",
+        "province": "Wiltz",
+        "population": 50,
+        "latitude": 49.9711111,
+        "longitude": 6.0097222
+    },
+    {
+        "name": "Ahn",
+        "country": "Luxembourg",
+        "province": "Grevenmacher",
+        "population": -1,
+        "latitude": 49.6244444,
+        "longitude": 6.4216667
+    },
+    {
+        "name": "Bollendorf-Pont",
+        "country": "Luxembourg",
+        "province": "Echternach",
+        "population": -1,
+        "latitude": 49.8484713921526,
+        "longitude": 6.35786533355713
+    },
+    {
+        "name": "Wallendorf-Pont",
+        "country": "Luxembourg",
+        "province": "Diekirch",
+        "population": -1,
+        "latitude": 49.8739,
+        "longitude": 6.28674
+    },
+    {
+        "name": "Dondelange",
+        "country": "Luxembourg",
+        "province": "Capellen",
+        "population": -1,
+        "latitude": 49.69001,
+        "longitude": 6.03051
+    },
+    {
+        "name": "Nocher-Route",
+        "country": "Luxembourg",
+        "province": "Wiltz",
+        "population": -1,
+        "latitude": 49.94815,
+        "longitude": 5.96021
+    },
+    {
+        "name": "Windhof",
+        "country": "Luxembourg",
+        "province": "Capellen",
+        "population": -1,
+        "latitude": 49.64635,
+        "longitude": 5.95755
+    },
+    {
+        "name": "Wormeldange-Haut",
+        "country": "Luxembourg",
+        "province": "Grevenmacher",
+        "population": -1,
+        "latitude": 49.60983,
+        "longitude": 6.39999
+    },
+    {
+        "name": "Wilwerwiltz",
+        "country": "Luxembourg",
+        "province": "Wiltz",
+        "population": 249,
+        "latitude": 49.988889,
+        "longitude": 5.999167
+    },
+    {
+        "name": "Wemperhardt",
+        "country": "Luxembourg",
+        "province": "Clervaux",
+        "population": -1,
+        "latitude": 50.1555556,
+        "longitude": 6.0533333
+    },
+    {
+        "name": "Weimerskirch",
+        "country": "Luxembourg",
+        "province": "Luxembourg",
+        "population": -1,
+        "latitude": 49.6236111,
+        "longitude": 6.1363889
+    },
+    {
+        "name": "Watrange",
+        "country": "Luxembourg",
+        "province": "Wiltz",
+        "population": 92,
+        "latitude": 49.9441667,
+        "longitude": 5.7858333
+    },
+    {
+        "name": "Walsdorf",
+        "country": "Luxembourg",
+        "province": "Vianden",
+        "population": 68,
+        "latitude": 49.9266667,
+        "longitude": 6.1736111
+    },
+    {
+        "name": "Waldbredimus",
+        "country": "Luxembourg",
+        "province": "Remich",
+        "population": 416,
+        "latitude": 49.55676,
+        "longitude": 6.28789
+    },
+    {
+        "name": "Untereisenbach",
+        "country": "Luxembourg",
+        "province": "Clervaux",
+        "population": -1,
+        "latitude": 50.0016667,
+        "longitude": 6.1455556
+    },
+    {
+        "name": "Pommerloch",
+        "country": "Luxembourg",
+        "province": "Wiltz",
+        "population": 51,
+        "latitude": 49.9602778,
+        "longitude": 5.8608333
+    },
+    {
+        "name": "Stadtbredimus",
+        "country": "Luxembourg",
+        "province": "Remich",
+        "population": 749,
+        "latitude": 49.562778,
+        "longitude": 6.364444
+    },
+    {
+        "name": "Selscheid",
+        "country": "Luxembourg",
+        "province": "Wiltz",
+        "population": 59,
+        "latitude": 50.0180556,
+        "longitude": 5.9488889
+    },
+    {
+        "name": "Schwidelbrouch",
+        "country": "Luxembourg",
+        "province": "Redange",
+        "population": -1,
+        "latitude": 49.8305556,
+        "longitude": 5.8544444
+    },
+    {
+        "name": "Schwebach",
+        "country": "Luxembourg",
+        "province": "Redange",
+        "population": 55,
+        "latitude": 49.7461111,
+        "longitude": 5.9719444
+    },
+    {
+        "name": "Schimpach",
+        "country": "Luxembourg",
+        "province": "Clervaux",
+        "population": -1,
+        "latitude": 50.0102778,
+        "longitude": 5.8522222
+    },
+    {
+        "name": "Roost",
+        "country": "Luxembourg",
+        "province": "Mersch",
+        "population": -1,
+        "latitude": 49.7866667,
+        "longitude": 6.0961111
+    },
+    {
+        "name": "Rollingergrund",
+        "country": "Luxembourg",
+        "province": "Luxembourg",
+        "population": -1,
+        "latitude": 49.6227778,
+        "longitude": 6.1077778
+    },
+    {
+        "name": "Roedt",
+        "country": "Luxembourg",
+        "province": "Remich",
+        "population": -1,
+        "latitude": 49.5677778,
+        "longitude": 6.285
+    },
+    {
+        "name": "Reckingerhaff",
+        "country": "Luxembourg",
+        "province": "Remich",
+        "population": -1,
+        "latitude": 49.533333,
+        "longitude": 6.316667
+    },
+    {
+        "name": "Pulvermühle",
+        "country": "Luxembourg",
+        "province": "Luxembourg",
+        "population": 31,
+        "latitude": 49.609,
+        "longitude": 6.15147
+    },
+    {
+        "name": "Prettingen",
+        "country": "Luxembourg",
+        "province": "Mersch",
+        "population": 101,
+        "latitude": 49.7175,
+        "longitude": 6.1202778
+    },
+    {
+        "name": "Pissange",
+        "country": "Luxembourg",
+        "province": "Esch-sur-Alzette",
+        "population": 66,
+        "latitude": 49.5494444,
+        "longitude": 6.0002778
+    },
+    {
+        "name": "Pfaffenthal",
+        "country": "Luxembourg",
+        "province": "Luxembourg",
+        "population": -1,
+        "latitude": 49.616667,
+        "longitude": 6.133333
+    },
+    {
+        "name": "Oberschlinder",
+        "country": "Luxembourg",
+        "province": "Clervaux",
+        "population": -1,
+        "latitude": 49.95,
+        "longitude": 6.0666667
+    },
+    {
+        "name": "Mühlenbach",
+        "country": "Luxembourg",
+        "province": "Luxembourg",
+        "population": -1,
+        "latitude": 49.6316667,
+        "longitude": 6.1191667
+    },
+    {
+        "name": "Meysembourg",
+        "country": "Luxembourg",
+        "province": "Mersch",
+        "population": -1,
+        "latitude": 49.76971,
+        "longitude": 6.18709
+    },
+    {
+        "name": "Merscheid",
+        "country": "Luxembourg",
+        "province": "Vianden",
+        "population": 103,
+        "latitude": 49.954722,
+        "longitude": 6.106944
+    },
+    {
+        "name": "Mecher",
+        "country": "Luxembourg",
+        "province": "Clervaux",
+        "population": -1,
+        "latitude": 50.040833,
+        "longitude": 6.0175
+    },
+    {
+        "name": "Marienthal",
+        "country": "Luxembourg",
+        "province": "Mersch",
+        "population": 108,
+        "latitude": 49.71,
+        "longitude": 6.0616667
+    },
+    {
+        "name": "Limpertsberg",
+        "country": "Luxembourg",
+        "province": "Luxembourg",
+        "population": -1,
+        "latitude": 49.6208333,
+        "longitude": 6.1216667
+    },
+    {
+        "name": "Liefrange",
+        "country": "Luxembourg",
+        "province": "Wiltz",
+        "population": 85,
+        "latitude": 49.91,
+        "longitude": 5.8775
+    },
+    {
+        "name": "Levelange",
+        "country": "Luxembourg",
+        "province": "Redange",
+        "population": 43,
+        "latitude": 49.7397222,
+        "longitude": 5.8566667
+    },
+    {
+        "name": "Lentzweiler",
+        "country": "Luxembourg",
+        "province": "Clervaux",
+        "population": -1,
+        "latitude": 50.0667,
+        "longitude": 5.98051
+    },
+    {
+        "name": "Lenningen",
+        "country": "Luxembourg",
+        "province": "Remich",
+        "population": 338,
+        "latitude": 49.60045,
+        "longitude": 6.36719
+    },
+    {
+        "name": "Lellingen",
+        "country": "Luxembourg",
+        "province": "Wiltz",
+        "population": 93,
+        "latitude": 49.9836111,
+        "longitude": 6.0144444
+    },
+    {
+        "name": "Kuborn",
+        "country": "Luxembourg",
+        "province": "Redange",
+        "population": 75,
+        "latitude": 49.8705556,
+        "longitude": 5.9030556
+    },
+    {
+        "name": "Koedange",
+        "country": "Luxembourg",
+        "province": "Mersch",
+        "population": -1,
+        "latitude": 49.7283333,
+        "longitude": 6.2102778
+    },
+    {
+        "name": "Kapweiler",
+        "country": "Luxembourg",
+        "province": "Redange",
+        "population": 30,
+        "latitude": 49.7394444,
+        "longitude": 5.9705556
+    },
+    {
+        "name": "Hëttermillen",
+        "country": "Luxembourg",
+        "province": "Remich",
+        "population": -1,
+        "latitude": 49.5861111,
+        "longitude": 6.3736111
+    },
+    {
+        "name": "Huttange",
+        "country": "Luxembourg",
+        "province": "Redange",
+        "population": 37,
+        "latitude": 49.7361111,
+        "longitude": 5.8986111
+    },
+    {
+        "name": "Houschterhaff",
+        "country": "Luxembourg",
+        "province": "Vianden",
+        "population": -1,
+        "latitude": 49.93531,
+        "longitude": 6.15709
+    },
+    {
+        "name": "Heispelt",
+        "country": "Luxembourg",
+        "province": "Redange",
+        "population": 81,
+        "latitude": 49.857222,
+        "longitude": 5.880556
+    },
+    {
+        "name": "Hamm",
+        "country": "Luxembourg",
+        "province": "Luxembourg",
+        "population": -1,
+        "latitude": 49.6069444,
+        "longitude": 6.1686111
+    },
+    {
+        "name": "Grundhof",
+        "country": "Luxembourg",
+        "province": "Echternach",
+        "population": 27,
+        "latitude": 49.835,
+        "longitude": 6.3313889
+    },
+    {
+        "name": "Grund",
+        "country": "Luxembourg",
+        "province": "Luxembourg",
+        "population": -1,
+        "latitude": 49.60997,
+        "longitude": 6.13791
+    },
+    {
+        "name": "Grumelscheid",
+        "country": "Luxembourg",
+        "province": "Wiltz",
+        "population": 64,
+        "latitude": 49.98343,
+        "longitude": 5.87072
+    },
+    {
+        "name": "Grosbous",
+        "country": "Luxembourg",
+        "province": "Redange",
+        "population": 656,
+        "latitude": 49.827778,
+        "longitude": 5.967222
+    },
+    {
+        "name": "Goesdorf",
+        "country": "Luxembourg",
+        "province": "Wiltz",
+        "population": 251,
+        "latitude": 49.92131,
+        "longitude": 5.96601
+    },
+    {
+        "name": "Goedange",
+        "country": "Luxembourg",
+        "province": "Clervaux",
+        "population": 45,
+        "latitude": 50.1491667,
+        "longitude": 6.0133333
+    },
+    {
+        "name": "Givenich",
+        "country": "Luxembourg",
+        "province": "Echternach",
+        "population": 84,
+        "latitude": 49.7422222,
+        "longitude": 6.48
+    },
+    {
+        "name": "Gasperich",
+        "country": "Luxembourg",
+        "province": "Luxembourg",
+        "population": -1,
+        "latitude": 49.5855556,
+        "longitude": 6.1230556
+    },
+    {
+        "name": "Folkendange",
+        "country": "Luxembourg",
+        "province": "Diekirch",
+        "population": 21,
+        "latitude": 49.8430556,
+        "longitude": 6.2041667
+    },
+    {
+        "name": "Flatzbour",
+        "country": "Luxembourg",
+        "province": "Redange",
+        "population": -1,
+        "latitude": 49.83488,
+        "longitude": 5.78766
+    },
+    {
+        "name": "Vesquenhaff",
+        "country": "Luxembourg",
+        "province": "Esch-sur-Alzette",
+        "population": -1,
+        "latitude": 49.511111,
+        "longitude": 5.873889
+    },
+    {
+        "name": "Emerange",
+        "country": "Luxembourg",
+        "province": "Remich",
+        "population": 99,
+        "latitude": 49.4869444,
+        "longitude": 6.2916667
+    },
+    {
+        "name": "Elvange",
+        "country": "Luxembourg",
+        "province": "Redange",
+        "population": 96,
+        "latitude": 49.724722,
+        "longitude": 5.917778
+    },
+    {
+        "name": "Ell",
+        "country": "Luxembourg",
+        "province": "Redange",
+        "population": 359,
+        "latitude": 49.763889,
+        "longitude": 5.857222
+    },
+    {
+        "name": "Dommeldange",
+        "country": "Luxembourg",
+        "province": "Luxembourg",
+        "population": -1,
+        "latitude": 49.63411,
+        "longitude": 6.13864
+    },
+    {
+        "name": "Colbette",
+        "country": "Luxembourg",
+        "province": "Echternach",
+        "population": -1,
+        "latitude": 49.76843,
+        "longitude": 6.30285
+    },
+    {
+        "name": "Cinqfontaines",
+        "country": "Luxembourg",
+        "province": "Clervaux",
+        "population": 13,
+        "latitude": 50.1072222,
+        "longitude": 6.0077778
+    },
+    {
+        "name": "Cessange",
+        "country": "Luxembourg",
+        "province": "Luxembourg",
+        "population": -1,
+        "latitude": 49.5894444,
+        "longitude": 6.1069444
+    },
+    {
+        "name": "Burange",
+        "country": "Luxembourg",
+        "province": "Esch-sur-Alzette",
+        "population": -1,
+        "latitude": 49.4911111,
+        "longitude": 6.0925
+    },
+    {
+        "name": "Budersberg",
+        "country": "Luxembourg",
+        "province": "Esch-sur-Alzette",
+        "population": -1,
+        "latitude": 49.4927778,
+        "longitude": 6.0694444
+    },
+    {
+        "name": "Breidweiler",
+        "country": "Luxembourg",
+        "province": "Echternach",
+        "population": 99,
+        "latitude": 49.77766,
+        "longitude": 6.30332
+    },
+    {
+        "name": "Breidfeld",
+        "country": "Luxembourg",
+        "province": "Clervaux",
+        "population": 49,
+        "latitude": 50.1241667,
+        "longitude": 6.0636111
+    },
+    {
+        "name": "Brattert",
+        "country": "Luxembourg",
+        "province": "Redange",
+        "population": -1,
+        "latitude": 49.8555556,
+        "longitude": 5.9036111
+    },
+    {
+        "name": "Boursdorf",
+        "country": "Luxembourg",
+        "province": "Echternach",
+        "population": 22,
+        "latitude": 49.7580556,
+        "longitude": 6.4786111
+    },
+    {
+        "name": "Bourscheid",
+        "country": "Luxembourg",
+        "province": "Diekirch",
+        "population": 275,
+        "latitude": 49.90862,
+        "longitude": 6.0675
+    },
+    {
+        "name": "Bockholtz",
+        "country": "Luxembourg",
+        "province": "Clervaux",
+        "population": 47,
+        "latitude": 50.012222,
+        "longitude": 6.052778
+    },
+    {
+        "name": "Bigelbach",
+        "country": "Luxembourg",
+        "province": "Diekirch",
+        "population": 79,
+        "latitude": 49.8602778,
+        "longitude": 6.2880556
+    },
+    {
+        "name": "Berschbach",
+        "country": "Luxembourg",
+        "province": "Mersch",
+        "population": -1,
+        "latitude": 49.7438889,
+        "longitude": 6.115
+    },
+    {
+        "name": "Beiler",
+        "country": "Luxembourg",
+        "province": "Clervaux",
+        "population": 87,
+        "latitude": 50.1655556,
+        "longitude": 6.0888889
+    },
+    {
+        "name": "Beggen",
+        "country": "Luxembourg",
+        "province": "Luxembourg",
+        "population": -1,
+        "latitude": 49.64506,
+        "longitude": 6.12932
+    },
+    {
+        "name": "Bavigne",
+        "country": "Luxembourg",
+        "province": "Wiltz",
+        "population": 132,
+        "latitude": 49.921944,
+        "longitude": 5.849444
+    },
+    {
+        "name": "Troine-Route",
+        "country": "Luxembourg",
+        "province": "Clervaux",
+        "population": -1,
+        "latitude": 50.0461111,
+        "longitude": 5.8780556
+    },
+    {
+        "name": "Kalkesbach",
+        "country": "Luxembourg",
+        "province": "Echternach",
+        "population": -1,
+        "latitude": 49.80143,
+        "longitude": 6.35379
+    },
+    {
+        "name": "Zittig",
+        "country": "Luxembourg",
+        "province": "Echternach",
+        "population": 38,
+        "latitude": 49.7388889,
+        "longitude": 6.345
+    },
+    {
+        "name": "Wolpert",
+        "country": "Luxembourg",
+        "province": "Echternach",
+        "population": -1,
+        "latitude": 49.76421,
+        "longitude": 6.3536
+    },
+    {
+        "name": "Wolfsmuhle",
+        "country": "Luxembourg",
+        "province": "Remich",
+        "population": -1,
+        "latitude": 49.533333,
+        "longitude": 6.316667
+    },
+    {
+        "name": "Wollefsmillen",
+        "country": "Luxembourg",
+        "province": "Grevenmacher",
+        "population": -1,
+        "latitude": 49.7163889,
+        "longitude": 6.49
+    },
+    {
+        "name": "Wincrange",
+        "country": "Luxembourg",
+        "province": "Clervaux",
+        "population": 210,
+        "latitude": 50.053333,
+        "longitude": 5.919167
+    },
+    {
+        "name": "Wiltzermühle",
+        "country": "Luxembourg",
+        "province": "Capellen",
+        "population": -1,
+        "latitude": 49.65,
+        "longitude": 6.05
+    },
+    {
+        "name": "Welsdorf",
+        "country": "Luxembourg",
+        "province": "Mersch",
+        "population": -1,
+        "latitude": 49.81727,
+        "longitude": 6.08677
+    },
+    {
+        "name": "Weileschbach",
+        "country": "Luxembourg",
+        "province": "Diekirch",
+        "population": -1,
+        "latitude": 49.866667,
+        "longitude": 6.216667
+    },
+    {
+        "name": "Weiler",
+        "country": "Luxembourg",
+        "province": "Clervaux",
+        "population": 44,
+        "latitude": 50.1044444,
+        "longitude": 5.9461111
+    },
+    {
+        "name": "Tadler",
+        "country": "Luxembourg",
+        "province": "Wiltz",
+        "population": -1,
+        "latitude": 49.9113889,
+        "longitude": 5.9955556
+    },
+    {
+        "name": "Schmëtt",
+        "country": "Luxembourg",
+        "province": "Clervaux",
+        "population": -1,
+        "latitude": 50.181667,
+        "longitude": 6.025278
+    },
+    {
+        "name": "Schleiwenhaff",
+        "country": "Luxembourg",
+        "province": "Esch-sur-Alzette",
+        "population": -1,
+        "latitude": 49.5783333,
+        "longitude": 6.0588889
+    },
+    {
+        "name": "Schleif",
+        "country": "Luxembourg",
+        "province": "Wiltz",
+        "population": 8,
+        "latitude": 49.9905556,
+        "longitude": 5.8575
+    },
+    {
+        "name": "Scheierhaff",
+        "country": "Luxembourg",
+        "province": "Remich",
+        "population": -1,
+        "latitude": 49.59,
+        "longitude": 6.3161111
+    },
+    {
+        "name": "Scheidel",
+        "country": "Luxembourg",
+        "province": "Diekirch",
+        "population": -1,
+        "latitude": 49.8936111,
+        "longitude": 6.0447222
+    },
+    {
+        "name": "Savelborn",
+        "country": "Luxembourg",
+        "province": "Diekirch",
+        "population": -1,
+        "latitude": 49.81163,
+        "longitude": 6.25483
+    },
+    {
+        "name": "Sassel",
+        "country": "Luxembourg",
+        "province": "Clervaux",
+        "population": 45,
+        "latitude": 50.0994444,
+        "longitude": 5.9975
+    },
+    {
+        "name": "Roullingen",
+        "country": "Luxembourg",
+        "province": "Wiltz",
+        "population": -1,
+        "latitude": 49.9558333,
+        "longitude": 5.9247222
+    },
+    {
+        "name": "Rodershausen",
+        "country": "Luxembourg",
+        "province": "Clervaux",
+        "population": 96,
+        "latitude": 50.0366667,
+        "longitude": 6.1311111
+    },
+    {
+        "name": "Ringel",
+        "country": "Luxembourg",
+        "province": "Wiltz",
+        "population": -1,
+        "latitude": 49.9169444,
+        "longitude": 6.0119444
+    },
+    {
+        "name": "Pfaffenthal",
+        "country": "Luxembourg",
+        "province": "Wiltz",
+        "population": -1,
+        "latitude": 49.916667,
+        "longitude": 6
+    },
+    {
+        "name": "Petit-Nobressart",
+        "country": "Luxembourg",
+        "province": "Redange",
+        "population": 89,
+        "latitude": 49.7797222,
+        "longitude": 5.8094444
+    },
+    {
+        "name": "Oberglabach",
+        "country": "Luxembourg",
+        "province": "Mersch",
+        "population": -1,
+        "latitude": 49.7775,
+        "longitude": 6.1505556
+    },
+    {
+        "name": "Neidhausen",
+        "country": "Luxembourg",
+        "province": "Clervaux",
+        "population": 53,
+        "latitude": 50.0288889,
+        "longitude": 6.0666667
+    },
+    {
+        "name": "Misèrehof",
+        "country": "Luxembourg",
+        "province": "Redange",
+        "population": -1,
+        "latitude": 49.866667,
+        "longitude": 5.833333
+    },
+    {
+        "name": "Mergenhof",
+        "country": "Luxembourg",
+        "province": "Redange",
+        "population": -1,
+        "latitude": 49.816667,
+        "longitude": 5.866667
+    },
+    {
+        "name": "Martelinville",
+        "country": "Luxembourg",
+        "province": "Redange",
+        "population": -1,
+        "latitude": 49.8669444,
+        "longitude": 5.7733333
+    },
+    {
+        "name": "Manternach",
+        "country": "Luxembourg",
+        "province": "Grevenmacher",
+        "population": 443,
+        "latitude": 49.702778,
+        "longitude": 6.426389
+    },
+    {
+        "name": "Maison Cronière",
+        "country": "Luxembourg",
+        "province": "Esch-sur-Alzette",
+        "population": -1,
+        "latitude": 49.516667,
+        "longitude": 5.85
+    },
+    {
+        "name": "Lultzhausen",
+        "country": "Luxembourg",
+        "province": "Wiltz",
+        "population": 32,
+        "latitude": 49.9094444,
+        "longitude": 5.8908333
+    },
+    {
+        "name": "Loorbierg",
+        "country": "Luxembourg",
+        "province": "Redange",
+        "population": -1,
+        "latitude": 49.8594444,
+        "longitude": 5.8511111
+    },
+    {
+        "name": "Kreizerbuch",
+        "country": "Luxembourg",
+        "province": "Capellen",
+        "population": -1,
+        "latitude": 49.7016667,
+        "longitude": 5.9163889
+    },
+    {
+        "name": "Kneppchen",
+        "country": "Luxembourg",
+        "province": "Mersch",
+        "population": -1,
+        "latitude": 49.7419444,
+        "longitude": 6.0186111
+    },
+    {
+        "name": "Kehmen",
+        "country": "Luxembourg",
+        "province": "Diekirch",
+        "population": -1,
+        "latitude": 49.9008333,
+        "longitude": 6.0372222
+    },
+    {
+        "name": "Kapenacker",
+        "country": "Luxembourg",
+        "province": "Grevenmacher",
+        "population": -1,
+        "latitude": 49.6344444,
+        "longitude": 6.3558333
+    },
+    {
+        "name": "Hollerich",
+        "country": "Luxembourg",
+        "province": "Luxembourg",
+        "population": -1,
+        "latitude": 49.60314,
+        "longitude": 6.11423
+    },
+    {
+        "name": "Hoerchen",
+        "country": "Luxembourg",
+        "province": "Capellen",
+        "population": -1,
+        "latitude": 49.566667,
+        "longitude": 5.933333
+    },
+    {
+        "name": "Hinkel",
+        "country": "Luxembourg",
+        "province": "Echternach",
+        "population": 82,
+        "latitude": 49.776389,
+        "longitude": 6.515278
+    },
+    {
+        "name": "Hersberg",
+        "country": "Luxembourg",
+        "province": "Echternach",
+        "population": -1,
+        "latitude": 49.7562902335942,
+        "longitude": 6.32755637168884
+    },
+    {
+        "name": "Hierheck",
+        "country": "Luxembourg",
+        "province": "Wiltz",
+        "population": 36,
+        "latitude": 49.8730556,
+        "longitude": 5.9311111
+    },
+    {
+        "name": "Hemstal",
+        "country": "Luxembourg",
+        "province": "Echternach",
+        "population": 79,
+        "latitude": 49.7344444,
+        "longitude": 6.3361111
+    },
+    {
+        "name": "Haut-Martelange",
+        "country": "Luxembourg",
+        "province": "Redange",
+        "population": 32,
+        "latitude": 49.825,
+        "longitude": 5.7511111
+    },
+    {
+        "name": "Grindhausen",
+        "country": "Luxembourg",
+        "province": "Clervaux",
+        "population": 25,
+        "latitude": 50.0833333,
+        "longitude": 6.06
+    },
+    {
+        "name": "Grevelscheuer",
+        "country": "Luxembourg",
+        "province": "Luxembourg",
+        "population": -1,
+        "latitude": 49.633333,
+        "longitude": 6.2
+    },
+    {
+        "name": "Grentzingen",
+        "country": "Luxembourg",
+        "province": "Diekirch",
+        "population": -1,
+        "latitude": 49.8319444,
+        "longitude": 6.0930556
+    },
+    {
+        "name": "Graulinster",
+        "country": "Luxembourg",
+        "province": "Grevenmacher",
+        "population": -1,
+        "latitude": 49.74008,
+        "longitude": 6.28757
+    },
+    {
+        "name": "Girsterklaus",
+        "country": "Luxembourg",
+        "province": "Echternach",
+        "population": 12,
+        "latitude": 49.7777778,
+        "longitude": 6.4994444
+    },
+    {
+        "name": "Geyershaff",
+        "country": "Luxembourg",
+        "province": "Echternach",
+        "population": -1,
+        "latitude": 49.76552,
+        "longitude": 6.38754
+    },
+    {
+        "name": "Fronay",
+        "country": "Luxembourg",
+        "province": "Grevenmacher",
+        "population": -1,
+        "latitude": 49.666667,
+        "longitude": 6.416667
+    },
+    {
+        "name": "Fënsterdall",
+        "country": "Luxembourg",
+        "province": "Mersch",
+        "population": -1,
+        "latitude": 49.75295,
+        "longitude": 6.03583
+    },
+    {
+        "name": "Roudenhaff",
+        "country": "Luxembourg",
+        "province": "Esch-sur-Alzette",
+        "population": -1,
+        "latitude": 49.5311111,
+        "longitude": 5.8472222
+    },
+    {
+        "name": "Eltz",
+        "country": "Luxembourg",
+        "province": "Redange",
+        "population": 34,
+        "latitude": 49.7783333,
+        "longitude": 5.895
+    },
+    {
+        "name": "Eich",
+        "country": "Luxembourg",
+        "province": "Luxembourg",
+        "population": -1,
+        "latitude": 49.6288889,
+        "longitude": 6.1319444
+    },
+    {
+        "name": "Ehner",
+        "country": "Luxembourg",
+        "province": "Redange",
+        "population": 13,
+        "latitude": 49.7175,
+        "longitude": 5.95
+    },
+    {
+        "name": "Éimeschbaach",
+        "country": "Luxembourg",
+        "province": "Clervaux",
+        "population": -1,
+        "latitude": 50.093611,
+        "longitude": 5.956667
+    },
+    {
+        "name": "Dorscheid",
+        "country": "Luxembourg",
+        "province": "Clervaux",
+        "population": 90,
+        "latitude": 50.0361111,
+        "longitude": 6.0713889
+    },
+    {
+        "name": "Crendal",
+        "country": "Luxembourg",
+        "province": "Clervaux",
+        "population": 10,
+        "latitude": 50.0577778,
+        "longitude": 5.8980556
+    },
+    {
+        "name": "Clausen",
+        "country": "Luxembourg",
+        "province": "Luxembourg",
+        "population": -1,
+        "latitude": 49.61313,
+        "longitude": 6.14278
+    },
+    {
+        "name": "Clairefontaine",
+        "country": "Luxembourg",
+        "province": "Diekirch",
+        "population": -1,
+        "latitude": 49.866667,
+        "longitude": 6.183333
+    },
+    {
+        "name": "Château Faubourg",
+        "country": "Luxembourg",
+        "province": "Vianden",
+        "population": -1,
+        "latitude": 49.933333,
+        "longitude": 6.216667
+    },
+    {
+        "name": "Bonnevoie",
+        "country": "Luxembourg",
+        "province": "Luxembourg",
+        "population": -1,
+        "latitude": 49.5944444,
+        "longitude": 6.15
+    },
+    {
+        "name": "Biwisch",
+        "country": "Luxembourg",
+        "province": "Clervaux",
+        "population": 103,
+        "latitude": 50.1180556,
+        "longitude": 5.9791667
+    },
+    {
+        "name": "Birtrange",
+        "country": "Luxembourg",
+        "province": "Diekirch",
+        "population": -1,
+        "latitude": 49.8269444,
+        "longitude": 6.0913889
+    },
+    {
+        "name": "Birel",
+        "country": "Luxembourg",
+        "province": "Luxembourg",
+        "population": -1,
+        "latitude": 49.616667,
+        "longitude": 6.216667
+    },
+    {
+        "name": "Betzdorf",
+        "country": "Luxembourg",
+        "province": "Grevenmacher",
+        "population": 248,
+        "latitude": 49.683333,
+        "longitude": 6.35
+    },
+    {
+        "name": "Berg",
+        "country": "Luxembourg",
+        "province": "Mersch",
+        "population": -1,
+        "latitude": 49.813611,
+        "longitude": 6.089167
+    },
+    {
+        "name": "Belval",
+        "country": "Luxembourg",
+        "province": "Esch-sur-Alzette",
+        "population": -1,
+        "latitude": 49.5102778,
+        "longitude": 5.9436111
+    },
+    {
+        "name": "Bech-Kleinmacher",
+        "country": "Luxembourg",
+        "province": "Remich",
+        "population": -1,
+        "latitude": 49.528056,
+        "longitude": 6.353889
+    },
+    {
+        "name": "Asselborn",
+        "country": "Luxembourg",
+        "province": "Diekirch",
+        "population": -1,
+        "latitude": 49.9,
+        "longitude": 6.05
+    },
+    {
+        "name": "Allerborn",
+        "country": "Luxembourg",
+        "province": "Clervaux",
+        "population": 59,
+        "latitude": 50.0366667,
+        "longitude": 5.8708333
+    },
+    {
+        "name": "Abweiler",
+        "country": "Luxembourg",
+        "province": "Esch-sur-Alzette",
+        "population": 75,
+        "latitude": 49.5336111,
+        "longitude": 6.0808333
+    },
+    {
+        "name": "Riesenhof",
+        "country": "Luxembourg",
+        "province": "Redange",
+        "population": -1,
+        "latitude": 49.83914,
+        "longitude": 5.81481
+    },
+    {
+        "name": "Wues",
+        "country": "Luxembourg",
+        "province": "Mersch",
+        "population": -1,
+        "latitude": 49.7966667,
+        "longitude": 6.1555556
+    },
+    {
+        "name": "Wickelscheid",
+        "country": "Luxembourg",
+        "province": "Mersch",
+        "population": -1,
+        "latitude": 49.75,
+        "longitude": 6.2
+    },
+    {
+        "name": "Weyer",
+        "country": "Luxembourg",
+        "province": "Grevenmacher",
+        "population": -1,
+        "latitude": 49.719722,
+        "longitude": 6.2
+    },
+    {
+        "name": "Webershof",
+        "country": "Luxembourg",
+        "province": "Diekirch",
+        "population": -1,
+        "latitude": 49.816667,
+        "longitude": 6.25
+    },
+    {
+        "name": "Tockmuhle",
+        "country": "Luxembourg",
+        "province": "Wiltz",
+        "population": -1,
+        "latitude": 49.916667,
+        "longitude": 5.783333
+    },
+    {
+        "name": "Tomm",
+        "country": "Luxembourg",
+        "province": "Vianden",
+        "population": -1,
+        "latitude": 49.8944444,
+        "longitude": 6.1636111
+    },
+    {
+        "name": "Staekaul",
+        "country": "Luxembourg",
+        "province": "Capellen",
+        "population": -1,
+        "latitude": 49.6961111,
+        "longitude": 5.9202778
+    },
+    {
+        "name": "Scierie Schleif",
+        "country": "Luxembourg",
+        "province": "Mersch",
+        "population": -1,
+        "latitude": 49.716667,
+        "longitude": 6.133333
+    },
+    {
+        "name": "Gaichel",
+        "country": "Luxembourg",
+        "province": "Capellen",
+        "population": -1,
+        "latitude": 49.69467382651204,
+        "longitude": 5.868587493896484
+    },
+    {
+        "name": "Potaschberg",
+        "country": "Luxembourg",
+        "province": "Grevenmacher",
+        "population": -1,
+        "latitude": 49.6733333,
+        "longitude": 6.4008333
+    },
+    {
+        "name": "Ober-Merzig",
+        "country": "Luxembourg",
+        "province": "Diekirch",
+        "population": -1,
+        "latitude": 49.833333,
+        "longitude": 6.016667
+    },
+    {
+        "name": "Nommern",
+        "country": "Luxembourg",
+        "province": "Mersch",
+        "population": 272,
+        "latitude": 49.786944,
+        "longitude": 6.174722
+    },
+    {
+        "name": "Nieder-Merzig",
+        "country": "Luxembourg",
+        "province": "Diekirch",
+        "population": -1,
+        "latitude": 49.833333,
+        "longitude": 6.016667
+    },
+    {
+        "name": "Neumühle",
+        "country": "Luxembourg",
+        "province": "Luxembourg",
+        "population": -1,
+        "latitude": 49.616667,
+        "longitude": 6.233333
+    },
+    {
+        "name": "Mompach",
+        "country": "Luxembourg",
+        "province": "Echternach",
+        "population": 100,
+        "latitude": 49.746111,
+        "longitude": 6.465
+    },
+    {
+        "name": "Moulin de Bascharage",
+        "country": "Luxembourg",
+        "province": "Redange",
+        "population": -1,
+        "latitude": 49.883333,
+        "longitude": 5.9
+    },
+    {
+        "name": "Masseler",
+        "country": "Luxembourg",
+        "province": "Wiltz",
+        "population": 36,
+        "latitude": 49.9308333,
+        "longitude": 6.0372222
+    },
+    {
+        "name": "Maison Wangert",
+        "country": "Luxembourg",
+        "province": "Redange",
+        "population": -1,
+        "latitude": 49.8,
+        "longitude": 5.866667
+    },
+    {
+        "name": "Maisons Boussert",
+        "country": "Luxembourg",
+        "province": "Mersch",
+        "population": -1,
+        "latitude": 49.733333,
+        "longitude": 6.133333
+    },
+    {
+        "name": "Maisons Alteschmeltz",
+        "country": "Luxembourg",
+        "province": "Capellen",
+        "population": -1,
+        "latitude": 49.7,
+        "longitude": 5.983333
+    },
+    {
+        "name": "Lellerhaff",
+        "country": "Luxembourg",
+        "province": "Mersch",
+        "population": -1,
+        "latitude": 49.7994444,
+        "longitude": 6.0861111
+    },
+    {
+        "name": "Lausdorn",
+        "country": "Luxembourg",
+        "province": "Clervaux",
+        "population": -1,
+        "latitude": 50.1191667,
+        "longitude": 6.0833333
+    },
+    {
+        "name": "Kocherei",
+        "country": "Luxembourg",
+        "province": "Clervaux",
+        "population": -1,
+        "latitude": 50.0694444,
+        "longitude": 6.0705556
+    },
+    {
+        "name": "Kobenbour",
+        "country": "Luxembourg",
+        "province": "Echternach",
+        "population": -1,
+        "latitude": 49.7502778,
+        "longitude": 6.3061111
+    },
+    {
+        "name": "Koeppenhaff",
+        "country": "Luxembourg",
+        "province": "Vianden",
+        "population": -1,
+        "latitude": 49.90313,
+        "longitude": 6.13314
+    },
+    {
+        "name": "Jockelsmuhle",
+        "country": "Luxembourg",
+        "province": "Grevenmacher",
+        "population": -1,
+        "latitude": 49.716667,
+        "longitude": 6.366667
+    },
+    {
+        "name": "Horas",
+        "country": "Luxembourg",
+        "province": "Redange",
+        "population": -1,
+        "latitude": 49.8105556,
+        "longitude": 5.9186111
+    },
+    {
+        "name": "Héienhaff",
+        "country": "Luxembourg",
+        "province": "Luxembourg",
+        "population": -1,
+        "latitude": 49.6325,
+        "longitude": 6.220833
+    },
+    {
+        "name": "Fischbach",
+        "country": "Luxembourg",
+        "province": "Mersch",
+        "population": 184,
+        "latitude": 49.746,
+        "longitude": 6.18702
+    },
+    {
+        "name": "Ferme Fuhrman",
+        "country": "Luxembourg",
+        "province": "Wiltz",
+        "population": -1,
+        "latitude": 49.933333,
+        "longitude": 5.8
+    },
+    {
+        "name": "Fennbierg",
+        "country": "Luxembourg",
+        "province": "Clervaux",
+        "population": -1,
+        "latitude": 50.0127778,
+        "longitude": 6.0913889
+    },
+    {
+        "name": "Essingen",
+        "country": "Luxembourg",
+        "province": "Mersch",
+        "population": 18,
+        "latitude": 49.7788889,
+        "longitude": 6.1166667
+    },
+    {
+        "name": "Dorscheiderhaischen",
+        "country": "Luxembourg",
+        "province": "Clervaux",
+        "population": -1,
+        "latitude": 50.0391667,
+        "longitude": 6.0797222
+    },
+    {
+        "name": "Cap",
+        "country": "Luxembourg",
+        "province": "Capellen",
+        "population": -1,
+        "latitude": 49.6444444,
+        "longitude": 5.9844444
+    },
+    {
+        "name": "Buurgfried",
+        "country": "Luxembourg",
+        "province": "Wiltz",
+        "population": -1,
+        "latitude": 49.9008333,
+        "longitude": 5.8586111
+    },
+    {
+        "name": "Bohey",
+        "country": "Luxembourg",
+        "province": "Wiltz",
+        "population": -1,
+        "latitude": 49.9741667,
+        "longitude": 5.8438889
+    },
+    {
+        "name": "Blumenthal",
+        "country": "Luxembourg",
+        "province": "Grevenmacher",
+        "population": -1,
+        "latitude": 49.74492,
+        "longitude": 6.26564
+    },
+    {
+        "name": "Banzelt",
+        "country": "Luxembourg",
+        "province": "Grevenmacher",
+        "population": -1,
+        "latitude": 49.6683333,
+        "longitude": 6.3302778
+    },
+    {
+        "name": "Amberg",
+        "country": "Luxembourg",
+        "province": "Redange",
+        "population": -1,
+        "latitude": 49.766667,
+        "longitude": 5.866667
+    },
+    {
+        "name": "Maulusmühle",
+        "country": "Luxembourg",
+        "province": "Clervaux",
+        "population": -1,
+        "latitude": 50.09619,
+        "longitude": 6.02823
+    },
+    {
+        "name": "Eisenbach",
+        "country": "Luxembourg",
+        "province": "Clervaux",
+        "population": -1,
+        "latitude": 50.00128,
+        "longitude": 6.14166
+    },
+    {
+        "name": "Wecker-Gare",
+        "country": "Luxembourg",
+        "province": "Grevenmacher",
+        "population": -1,
+        "latitude": 49.70125,
+        "longitude": 6.38688
+    },
+    {
+        "name": "Bigonville-Poteau",
+        "country": "Luxembourg",
+        "province": "Redange",
+        "population": -1,
+        "latitude": 49.83818,
+        "longitude": 5.78306
+    },
+    {
+        "name": "Bourscheid-Plage",
+        "country": "Luxembourg",
+        "province": "Diekirch",
+        "population": -1,
+        "latitude": 49.90879,
+        "longitude": 6.08087
+    },
+    {
+        "name": "Asselscheuer",
+        "country": "Luxembourg",
+        "province": "Mersch",
+        "population": -1,
+        "latitude": 49.69192,
+        "longitude": 6.17478
+    },
+    {
+        "name": "Weydig",
+        "country": "Luxembourg",
+        "province": "Grevenmacher",
+        "population": -1,
+        "latitude": 49.7165,
+        "longitude": 6.3303
+    },
+    {
+        "name": "Simmerfarm",
+        "country": "Luxembourg",
+        "province": "Capellen",
+        "population": -1,
+        "latitude": 49.69326,
+        "longitude": 5.98566
+    },
+    {
+        "name": "Simmerschmelz",
+        "country": "Luxembourg",
+        "province": "Capellen",
+        "population": -1,
+        "latitude": 49.69745,
+        "longitude": 5.98982
+    },
+    {
+        "name": "Flebour",
+        "country": "Luxembourg",
+        "province": "Diekirch",
+        "population": -1,
+        "latitude": 49.91006,
+        "longitude": 6.10788
+    },
+    {
+        "name": "Schiltzberg",
+        "country": "Luxembourg",
+        "province": "Mersch",
+        "population": -1,
+        "latitude": 49.7384,
+        "longitude": 6.22154
+    },
+    {
+        "name": "Wilmeshof",
+        "country": "Luxembourg",
+        "province": "Diekirch",
+        "population": -1,
+        "latitude": 49.85,
+        "longitude": 6.116667
+    },
+    {
+        "name": "Weissenhof",
+        "country": "Luxembourg",
+        "province": "Luxembourg",
+        "population": -1,
+        "latitude": 49.566667,
+        "longitude": 6.116667
+    },
+    {
+        "name": "Weimershof",
+        "country": "Luxembourg",
+        "province": "Luxembourg",
+        "population": -1,
+        "latitude": 49.6,
+        "longitude": 6.15
+    },
+    {
+        "name": "Wakelterhof",
+        "country": "Luxembourg",
+        "province": "Echternach",
+        "population": -1,
+        "latitude": 49.816667,
+        "longitude": 6.3
+    },
+    {
+        "name": "Thillen",
+        "country": "Luxembourg",
+        "province": "Grevenmacher",
+        "population": -1,
+        "latitude": 49.7,
+        "longitude": 6.433333
+    },
+    {
+        "name": "Septfontaines",
+        "country": "Luxembourg",
+        "province": "Luxembourg",
+        "population": -1,
+        "latitude": 49.6280556,
+        "longitude": 6.1044444
+    },
+    {
+        "name": "Schwachtgesmühle",
+        "country": "Luxembourg",
+        "province": "Grevenmacher",
+        "population": -1,
+        "latitude": 49.716667,
+        "longitude": 6.216667
+    },
+    {
+        "name": "Schneideschhof",
+        "country": "Luxembourg",
+        "province": "Capellen",
+        "population": -1,
+        "latitude": 49.683333,
+        "longitude": 5.95
+    },
+    {
+        "name": "Rodbach",
+        "country": "Luxembourg",
+        "province": "Redange",
+        "population": -1,
+        "latitude": 49.7797222,
+        "longitude": 5.9352778
+    },
+    {
+        "name": "Rindschleiden",
+        "country": "Luxembourg",
+        "province": "Redange",
+        "population": -1,
+        "latitude": 49.8502778,
+        "longitude": 5.9013889
+    },
+    {
+        "name": "Ohligsmühle",
+        "country": "Luxembourg",
+        "province": "Luxembourg",
+        "population": -1,
+        "latitude": 49.616667,
+        "longitude": 6.266667
+    },
+    {
+        "name": "Oberschieren",
+        "country": "Luxembourg",
+        "province": "Diekirch",
+        "population": -1,
+        "latitude": 49.833333,
+        "longitude": 6.1
+    },
+    {
+        "name": "Obereisenbach",
+        "country": "Luxembourg",
+        "province": "Clervaux",
+        "population": -1,
+        "latitude": 50.01,
+        "longitude": 6.084
+    },
+    {
+        "name": "Niederwiltz",
+        "country": "Luxembourg",
+        "province": "Wiltz",
+        "population": -1,
+        "latitude": 49.9691667,
+        "longitude": 5.9230556
+    },
+    {
+        "name": "Niederschlinder",
+        "country": "Luxembourg",
+        "province": "Diekirch",
+        "population": -1,
+        "latitude": 49.9333333,
+        "longitude": 6.0666667
+    },
+    {
+        "name": "Niederschieren",
+        "country": "Luxembourg",
+        "province": "Diekirch",
+        "population": -1,
+        "latitude": 49.833333,
+        "longitude": 6.1
+    },
+    {
+        "name": "Neimillen",
+        "country": "Luxembourg",
+        "province": "Clervaux",
+        "population": -1,
+        "latitude": 50.0805556,
+        "longitude": 5.9216667
+    },
+    {
+        "name": "Neumühle",
+        "country": "Luxembourg",
+        "province": "Wiltz",
+        "population": -1,
+        "latitude": 49.9,
+        "longitude": 5.95
+    },
+    {
+        "name": "Neumühle",
+        "country": "Luxembourg",
+        "province": "Capellen",
+        "population": -1,
+        "latitude": 49.7,
+        "longitude": 5.9
+    },
+    {
+        "name": "Neudorf",
+        "country": "Luxembourg",
+        "province": "Luxembourg",
+        "population": -1,
+        "latitude": 49.6163889,
+        "longitude": 6.1566667
+    },
+    {
+        "name": "Moulin Schenk",
+        "country": "Luxembourg",
+        "province": "Mersch",
+        "population": -1,
+        "latitude": 49.733333,
+        "longitude": 6.216667
+    },
+    {
+        "name": "Moulin Colmesch",
+        "country": "Luxembourg",
+        "province": "Mersch",
+        "population": -1,
+        "latitude": 49.7,
+        "longitude": 6.116667
+    },
+    {
+        "name": "Maulin Diederich",
+        "country": "Luxembourg",
+        "province": "Luxembourg",
+        "population": -1,
+        "latitude": 49.6,
+        "longitude": 6.25
+    },
+    {
+        "name": "Massen",
+        "country": "Luxembourg",
+        "province": "Clervaux",
+        "population": -1,
+        "latitude": 50.1175,
+        "longitude": 5.9927778
+    },
+    {
+        "name": "Marxberg",
+        "country": "Luxembourg",
+        "province": "Vianden",
+        "population": -1,
+        "latitude": 49.9,
+        "longitude": 6.2091667
+    },
+    {
+        "name": "Marbourg",
+        "country": "Luxembourg",
+        "province": "Clervaux",
+        "population": -1,
+        "latitude": 50.0516667,
+        "longitude": 6.0747222
+    },
+    {
+        "name": "Maisons Prevent",
+        "country": "Luxembourg",
+        "province": "Mersch",
+        "population": -1,
+        "latitude": 49.716667,
+        "longitude": 6.183333
+    },
+    {
+        "name": "Maison Peffer",
+        "country": "Luxembourg",
+        "province": "Esch-sur-Alzette",
+        "population": -1,
+        "latitude": 49.516667,
+        "longitude": 6.166667
+    },
+    {
+        "name": "Maison Leh",
+        "country": "Luxembourg",
+        "province": "Diekirch",
+        "population": -1,
+        "latitude": 49.883333,
+        "longitude": 6.233333
+    },
+    {
+        "name": "Maison Klein",
+        "country": "Luxembourg",
+        "province": "Redange",
+        "population": -1,
+        "latitude": 49.75,
+        "longitude": 5.85
+    },
+    {
+        "name": "Maison Hoffmann",
+        "country": "Luxembourg",
+        "province": "Grevenmacher",
+        "population": -1,
+        "latitude": 49.7,
+        "longitude": 6.283333
+    },
+    {
+        "name": "Maison Burg",
+        "country": "Luxembourg",
+        "province": "Diekirch",
+        "population": -1,
+        "latitude": 49.833333,
+        "longitude": 6.183333
+    },
+    {
+        "name": "Leihof",
+        "country": "Luxembourg",
+        "province": "Mersch",
+        "population": -1,
+        "latitude": 49.8,
+        "longitude": 6.1
+    },
+    {
+        "name": "Lannenerbierg",
+        "country": "Luxembourg",
+        "province": "Redange",
+        "population": -1,
+        "latitude": 49.7986111,
+        "longitude": 5.8352778
+    },
+    {
+        "name": "Kleinhoscheid",
+        "country": "Luxembourg",
+        "province": "Wiltz",
+        "population": -1,
+        "latitude": 50.0194444,
+        "longitude": 5.9680556
+    },
+    {
+        "name": "Kéisbierg",
+        "country": "Luxembourg",
+        "province": "Grevenmacher",
+        "population": -1,
+        "latitude": 49.674722,
+        "longitude": 6.320556
+    },
+    {
+        "name": "Kapendahl",
+        "country": "Luxembourg",
+        "province": "Diekirch",
+        "population": -1,
+        "latitude": 49.866667,
+        "longitude": 6.233333
+    },
+    {
+        "name": "Jenkenhof",
+        "country": "Luxembourg",
+        "province": "Redange",
+        "population": -1,
+        "latitude": 49.816667,
+        "longitude": 5.95
+    },
+    {
+        "name": "Italien",
+        "country": "Luxembourg",
+        "province": "Esch-sur-Alzette",
+        "population": -1,
+        "latitude": 49.4744444,
+        "longitude": 6.0794444
+    },
+    {
+        "name": "Hubertsmuhle",
+        "country": "Luxembourg",
+        "province": "Clervaux",
+        "population": -1,
+        "latitude": 50.133333,
+        "longitude": 6.066667
+    },
+    {
+        "name": "Houschthauser",
+        "country": "Luxembourg",
+        "province": "Wiltz",
+        "population": -1,
+        "latitude": 49.95,
+        "longitude": 5.8
+    },
+    {
+        "name": "Hondsjang",
+        "country": "Luxembourg",
+        "province": "Clervaux",
+        "population": -1,
+        "latitude": 50.083333,
+        "longitude": 6
+    },
+    {
+        "name": "Heckenhof",
+        "country": "Luxembourg",
+        "province": "Capellen",
+        "population": -1,
+        "latitude": 49.683333,
+        "longitude": 5.933333
+    },
+    {
+        "name": "Hau",
+        "country": "Luxembourg",
+        "province": "Esch-sur-Alzette",
+        "population": -1,
+        "latitude": 49.5208333,
+        "longitude": 6.1866667
+    },
+    {
+        "name": "Grundmuhle",
+        "country": "Luxembourg",
+        "province": "Wiltz",
+        "population": -1,
+        "latitude": 49.9,
+        "longitude": 5.9
+    },
+    {
+        "name": "Gruef",
+        "country": "Luxembourg",
+        "province": "Diekirch",
+        "population": -1,
+        "latitude": 49.8802778,
+        "longitude": 6.2219444
+    },
+    {
+        "name": "Goeldt",
+        "country": "Luxembourg",
+        "province": "Redange",
+        "population": -1,
+        "latitude": 49.8222222,
+        "longitude": 5.8558333
+    },
+    {
+        "name": "Geimer",
+        "country": "Luxembourg",
+        "province": "Mersch",
+        "population": -1,
+        "latitude": 49.75,
+        "longitude": 6
+    },
+    {
+        "name": "Gantenbeinmühle",
+        "country": "Luxembourg",
+        "province": "Luxembourg",
+        "population": -1,
+        "latitude": 49.6,
+        "longitude": 6.166667
+    },
+    {
+        "name": "Fleibur",
+        "country": "Luxembourg",
+        "province": "Wiltz",
+        "population": -1,
+        "latitude": 49.8991667,
+        "longitude": 5.8127778
+    },
+    {
+        "name": "Ferme Thibesart",
+        "country": "Luxembourg",
+        "province": "Diekirch",
+        "population": -1,
+        "latitude": 49.816667,
+        "longitude": 6.116667
+    },
+    {
+        "name": "Ferme Grossenbour",
+        "country": "Luxembourg",
+        "province": "Vianden",
+        "population": -1,
+        "latitude": 49.883333,
+        "longitude": 6.166667
+    },
+    {
+        "name": "Ferme du Flamand",
+        "country": "Luxembourg",
+        "province": "Clervaux",
+        "population": -1,
+        "latitude": 50.15,
+        "longitude": 6.05
+    },
+    {
+        "name": "Dreiborn",
+        "country": "Luxembourg",
+        "province": "Grevenmacher",
+        "population": -1,
+        "latitude": 49.6172222,
+        "longitude": 6.3938889
+    },
+    {
+        "name": "Diggel",
+        "country": "Luxembourg",
+        "province": "Redange",
+        "population": -1,
+        "latitude": 49.7261111,
+        "longitude": 5.8411111
+    },
+    {
+        "name": "Daundorf",
+        "country": "Luxembourg",
+        "province": "Remich",
+        "population": -1,
+        "latitude": 49.5075,
+        "longitude": 6.2875
+    },
+    {
+        "name": "Buchholz",
+        "country": "Luxembourg",
+        "province": "Grevenmacher",
+        "population": -1,
+        "latitude": 49.658333,
+        "longitude": 6.364722
+    },
+    {
+        "name": "Brill",
+        "country": "Luxembourg",
+        "province": "Wiltz",
+        "population": -1,
+        "latitude": 49.9816667,
+        "longitude": 5.9061111
+    },
+    {
+        "name": "Broderbour",
+        "country": "Luxembourg",
+        "province": "Diekirch",
+        "population": -1,
+        "latitude": 49.8530556,
+        "longitude": 6.1872222
+    },
+    {
+        "name": "Breinert",
+        "country": "Luxembourg",
+        "province": "Grevenmacher",
+        "population": 50,
+        "latitude": 49.7119,
+        "longitude": 6.3422
+    },
+    {
+        "name": "Brameschhaff",
+        "country": "Luxembourg",
+        "province": "Capellen",
+        "population": -1,
+        "latitude": 49.6566667,
+        "longitude": 6.0497222
+    },
+    {
+        "name": "Bischenrech",
+        "country": "Luxembourg",
+        "province": "Clervaux",
+        "population": -1,
+        "latitude": 50.083333,
+        "longitude": 6
+    },
+    {
+        "name": "Béil",
+        "country": "Luxembourg",
+        "province": "Mersch",
+        "population": -1,
+        "latitude": 49.759167,
+        "longitude": 6.239722
+    },
+    {
+        "name": "Aciérie",
+        "country": "Luxembourg",
+        "province": "Esch-sur-Alzette",
+        "population": -1,
+        "latitude": 49.533333,
+        "longitude": 5.9
+    },
+    {
+        "name": "Colmar-Pont",
+        "country": "Luxembourg",
+        "province": "Mersch",
+        "population": -1,
+        "latitude": 49.81489,
+        "longitude": 6.10286
+    },
+    {
+        "name": "Kaesfurt",
+        "country": "Luxembourg",
+        "province": "Clervaux",
+        "population": -1,
+        "latitude": 50.09253,
+        "longitude": 6.07325
+    },
+    {
+        "name": "Lilien",
+        "country": "Luxembourg",
+        "province": "Echternach",
+        "population": -1,
+        "latitude": 49.75405,
+        "longitude": 6.3956
+    },
+    {
+        "name": "Fuussekaul",
+        "country": "Luxembourg",
+        "province": "Wiltz",
+        "population": -1,
+        "latitude": 49.87775,
+        "longitude": 5.99092
+    },
+    {
+        "name": "Niederfeulen",
+        "country": "Luxembourg",
+        "province": "Diekirch",
+        "population": -1,
+        "latitude": 49.87235,
+        "longitude": 5.99785
+    },
+    {
+        "name": "Bourscheid-Moulin",
+        "country": "Luxembourg",
+        "province": "Diekirch",
+        "population": -1,
+        "latitude": 49.91108,
+        "longitude": 6.08746
+    },
+    {
+        "name": "Dunkrodt",
+        "country": "Luxembourg",
+        "province": "Wiltz",
+        "population": -1,
+        "latitude": 49.9230556,
+        "longitude": 5.8786111
+    },
+    {
+        "name": "Woulkeschdall",
+        "country": "Luxembourg",
+        "province": "Esch-sur-Alzette",
+        "population": -1,
+        "latitude": 49.4847222,
+        "longitude": 6.0977778
+    },
+    {
+        "name": "Lauterbour",
+        "country": "Luxembourg",
+        "province": "Echternach",
+        "population": -1,
+        "latitude": 49.79683500031165,
+        "longitude": 6.389837265014648
+    },
+    {
+        "name": "Kleinmacher",
+        "country": "Luxembourg",
+        "province": "Remich",
+        "population": -1,
+        "latitude": 49.5325,
+        "longitude": 6.3552778
+    },
+    {
+        "name": "Bombatsch",
+        "country": "Luxembourg",
+        "province": "Clervaux",
+        "population": -1,
+        "latitude": 50.0583333,
+        "longitude": 6.0663889
+    },
+    {
+        "name": "Berens",
+        "country": "Luxembourg",
+        "province": "Echternach",
+        "population": -1,
+        "latitude": 49.8436111,
+        "longitude": 6.2680556
+    },
+    {
+        "name": "Dasbourg-Pont",
+        "country": "Luxembourg",
+        "province": "Clervaux",
+        "population": -1,
+        "latitude": 50.0492236236734,
+        "longitude": 6.12587571144104
+    },
+    {
+        "name": "Rollingergrund / Belair-Nord",
+        "country": "Luxembourg",
+        "province": "Luxembourg",
+        "population": -1,
+        "latitude": 49.63320030179004,
+        "longitude": 6.0929116295463785
+    },
+    {
+        "name": "Ville-Haute",
+        "country": "Luxembourg",
+        "province": "Luxembourg",
+        "population": -1,
+        "latitude": 49.61173211310114,
+        "longitude": 6.1264803651051585
+    },
+    {
+        "name": "Neudorf/Weimershof /",
+        "country": "Luxembourg",
+        "province": "Luxembourg",
+        "population": -1,
+        "latitude": 49.625595794886266,
+        "longitude": 6.169256841602766
+    },
+    {
+        "name": "Belair",
+        "country": "Luxembourg",
+        "province": "Luxembourg",
+        "population": -1,
+        "latitude": 49.61159507441608,
+        "longitude": 6.106821902683094
+    },
+    {
+        "name": "Gare",
+        "country": "Luxembourg",
+        "province": "Luxembourg",
+        "population": -1,
+        "latitude": 49.60174974466736,
+        "longitude": 6.129711267817194
+    },
+    {
+        "name": "Bonnevoie-Sud",
+        "country": "Luxembourg",
+        "province": "Luxembourg",
+        "population": -1,
+        "latitude": 49.596793827279846,
+        "longitude": 6.147187888338352
+    },
+    {
+        "name": "Bonnevoie-Nord/Verlorenkost",
+        "country": "Luxembourg",
+        "province": "Luxembourg",
+        "population": -1,
+        "latitude": 49.6043087437034,
+        "longitude": 6.141865068235045
+    },
+    {
+        "name": "Cents",
+        "country": "Luxembourg",
+        "province": "Luxembourg",
+        "population": -1,
+        "latitude": 49.617074061521535,
+        "longitude": 6.1641269957011495
+    },
+    {
+        "name": "Grenz",
+        "country": "Luxembourg",
+        "province": "Esch-sur-Alzette",
+        "population": -1,
+        "latitude": 49.473870525881395,
+        "longitude": 5.981183865886506
+    },
+    {
+        "name": "Park",
+        "country": "Luxembourg",
+        "province": "Esch-sur-Alzette",
+        "population": -1,
+        "latitude": 49.485050575735364,
+        "longitude": 5.986695583922431
+    },
+    {
+        "name": "Uecht",
+        "country": "Luxembourg",
+        "province": "Esch-sur-Alzette",
+        "population": -1,
+        "latitude": 49.49682463465937,
+        "longitude": 5.9744981718306445
+    },
+    {
+        "name": "Lankelz",
+        "country": "Luxembourg",
+        "province": "Esch-sur-Alzette",
+        "population": -1,
+        "latitude": 49.50969444258631,
+        "longitude": 5.983004774843288
+    },
+    {
+        "name": "Al-Esch",
+        "country": "Luxembourg",
+        "province": "Esch-sur-Alzette",
+        "population": -1,
+        "latitude": 49.49605299563684,
+        "longitude": 5.98391244271566
+    },
+    {
+        "name": "Universitéit",
+        "country": "Luxembourg",
+        "province": "Esch-sur-Alzette",
+        "population": -1,
+        "latitude": 49.50438834116374,
+        "longitude": 5.949748136660167
+    },
+    {
+        "name": "Neiduerf",
+        "country": "Luxembourg",
+        "province": "Esch-sur-Alzette",
+        "population": -1,
+        "latitude": 49.486985587907775,
+        "longitude": 5.996621754309609
+    },
+    {
+        "name": "Raemerich",
+        "country": "Luxembourg",
+        "province": "Esch-sur-Alzette",
+        "population": -1,
+        "latitude": 49.51010054094287,
+        "longitude": 5.9523722756428885
+    },
+    {
+        "name": "Zaepert",
+        "country": "Luxembourg",
+        "province": "Esch-sur-Alzette",
+        "population": -1,
+        "latitude": 49.509397618136376,
+        "longitude": 5.972882210697802
+    },
+    {
+        "name": "Belval",
+        "country": "Luxembourg",
+        "province": "Esch-sur-Alzette",
+        "population": -1,
+        "latitude": 49.49828291363094,
+        "longitude": 5.959673336160632
+    },
+    {
+        "name": "Wobrecken",
+        "country": "Luxembourg",
+        "province": "Esch-sur-Alzette",
+        "population": -1,
+        "latitude": 49.503928251003245,
+        "longitude": 5.979796832951603
+    },
+    {
+        "name": "Fettmeth",
+        "country": "Luxembourg",
+        "province": "Esch-sur-Alzette",
+        "population": -1,
+        "latitude": 49.50473730355782,
+        "longitude": 5.9731509996824235
+    },
+    {
+        "name": "Bruch",
+        "country": "Luxembourg",
+        "province": "Esch-sur-Alzette",
+        "population": -1,
+        "latitude": 49.503235397801916,
+        "longitude": 5.9672863016295485
+    },
+    {
+        "name": "Dellhéicht",
+        "country": "Luxembourg",
+        "province": "Esch-sur-Alzette",
+        "population": -1,
+        "latitude": 49.501319582943026,
+        "longitude": 5.983153597923316
+    },
+    {
+        "name": "Brill",
+        "country": "Luxembourg",
+        "province": "Esch-sur-Alzette",
+        "population": -1,
+        "latitude": 49.49262859898835,
+        "longitude": 5.978301063479295
+    },
+    {
+        "name": "Schlassgoard",
+        "country": "Luxembourg",
+        "province": "Esch-sur-Alzette",
+        "population": -1,
+        "latitude": 49.503391862538955,
+        "longitude": 5.992463338751824
+    },
+    {
+        "name": "Lalleng",
+        "country": "Luxembourg",
+        "province": "Esch-sur-Alzette",
+        "population": -1,
+        "latitude": 49.511874734424445,
+        "longitude": 5.993905976884102
+    },
+    {
+        "name": "Sommet",
+        "country": "Luxembourg",
+        "province": "Esch-sur-Alzette",
+        "population": -1,
+        "latitude": 49.50970806368236,
+        "longitude": 5.963581589426223
+    }
+]

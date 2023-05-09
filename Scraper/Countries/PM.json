@@ -1,0 +1,42 @@
+[
+    {
+        "name": "Saint-Pierre",
+        "country": "Saint Pierre and Miquelon",
+        "province": "Saint-Pierre",
+        "population": 6200,
+        "latitude": 46.77914,
+        "longitude": -56.1773
+    },
+    {
+        "name": "Miquelon",
+        "country": "Saint Pierre and Miquelon",
+        "province": "Miquelon-Langlade",
+        "population": 1141,
+        "latitude": 47.0975,
+        "longitude": -56.3813889
+    },
+    {
+        "name": "Petit Barachois",
+        "country": "Saint Pierre and Miquelon",
+        "province": "Miquelon-Langlade",
+        "population": -1,
+        "latitude": 46.862677,
+        "longitude": -56.361231
+    },
+    {
+        "name": "Le Ruisseau Debons",
+        "country": "Saint Pierre and Miquelon",
+        "province": "Miquelon-Langlade",
+        "population": -1,
+        "latitude": 46.873648,
+        "longitude": -56.342576
+    },
+    {
+        "name": "Village de l'Anse du Gouvernement",
+        "country": "Saint Pierre and Miquelon",
+        "province": "Miquelon-Langlade",
+        "population": -1,
+        "latitude": 46.897479,
+        "longitude": -56.301251
+    }
+]

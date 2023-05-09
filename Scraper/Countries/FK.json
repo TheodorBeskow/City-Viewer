@@ -1,0 +1,450 @@
+[
+    {
+        "name": "Stanley",
+        "country": "Falkland Islands",
+        "province": "Falkland Islands",
+        "population": 2213,
+        "latitude": -51.69382,
+        "longitude": -57.85701
+    },
+    {
+        "name": "Goose Green Settlement",
+        "country": "Falkland Islands",
+        "province": "Falkland Islands",
+        "population": 70,
+        "latitude": -51.82774,
+        "longitude": -58.97255
+    },
+    {
+        "name": "Port Howard",
+        "country": "Falkland Islands",
+        "province": "Falkland Islands",
+        "population": 41,
+        "latitude": -51.615401,
+        "longitude": -59.523012
+    },
+    {
+        "name": "Weddell Settlement",
+        "country": "Falkland Islands",
+        "province": "Falkland Islands",
+        "population": -1,
+        "latitude": -51.89231,
+        "longitude": -60.904854
+    },
+    {
+        "name": "Roy Cove Settlement",
+        "country": "Falkland Islands",
+        "province": "Falkland Islands",
+        "population": -1,
+        "latitude": -51.548361,
+        "longitude": -60.385578
+    },
+    {
+        "name": "Dunnose Head Settlement",
+        "country": "Falkland Islands",
+        "province": "Falkland Islands",
+        "population": -1,
+        "latitude": -51.741466,
+        "longitude": -60.416568
+    },
+    {
+        "name": "Chartres",
+        "country": "Falkland Islands",
+        "province": "Falkland Islands",
+        "population": -1,
+        "latitude": -51.711082,
+        "longitude": -60.079538
+    },
+    {
+        "name": "Walker Creek",
+        "country": "Falkland Islands",
+        "province": "Falkland Islands",
+        "population": -1,
+        "latitude": -51.9666667,
+        "longitude": -58.7666667
+    },
+    {
+        "name": "Teal Inlet Settlement",
+        "country": "Falkland Islands",
+        "province": "Falkland Islands",
+        "population": -1,
+        "latitude": -51.54571,
+        "longitude": -58.423549
+    },
+    {
+        "name": "Salvador Settlement",
+        "country": "Falkland Islands",
+        "province": "Falkland Islands",
+        "population": -1,
+        "latitude": -51.434089,
+        "longitude": -58.371988
+    },
+    {
+        "name": "San Carlos Settlement",
+        "country": "Falkland Islands",
+        "province": "Falkland Islands",
+        "population": -1,
+        "latitude": -51.573567,
+        "longitude": -59.034994
+    },
+    {
+        "name": "Rincon Grande Settlement",
+        "country": "Falkland Islands",
+        "province": "Falkland Islands",
+        "population": -1,
+        "latitude": -51.461507,
+        "longitude": -58.309333
+    },
+    {
+        "name": "Port Louis Settlement",
+        "country": "Falkland Islands",
+        "province": "Falkland Islands",
+        "population": -1,
+        "latitude": -51.523675,
+        "longitude": -58.108957
+    },
+    {
+        "name": "Pebble Island Settlement",
+        "country": "Falkland Islands",
+        "province": "Falkland Islands",
+        "population": -1,
+        "latitude": -51.318181,
+        "longitude": -59.603901
+    },
+    {
+        "name": "North Arm Settlement",
+        "country": "Falkland Islands",
+        "province": "Falkland Islands",
+        "population": -1,
+        "latitude": -52.123731,
+        "longitude": -59.367628
+    },
+    {
+        "name": "Douglas Settlement",
+        "country": "Falkland Islands",
+        "province": "Falkland Islands",
+        "population": -1,
+        "latitude": -51.459859,
+        "longitude": -58.608835
+    },
+    {
+        "name": "Darwin",
+        "country": "Falkland Islands",
+        "province": "Falkland Islands",
+        "population": -1,
+        "latitude": -51.806928,
+        "longitude": -58.959606
+    },
+    {
+        "name": "Fox Bay East Settlement",
+        "country": "Falkland Islands",
+        "province": "Falkland Islands",
+        "population": -1,
+        "latitude": -51.956557,
+        "longitude": -60.069291
+    },
+    {
+        "name": "Port San Carlos Settlement",
+        "country": "Falkland Islands",
+        "province": "Falkland Islands",
+        "population": -1,
+        "latitude": -51.501836,
+        "longitude": -58.987513
+    },
+    {
+        "name": "Fitzroy Settlement",
+        "country": "Falkland Islands",
+        "province": "Falkland Islands",
+        "population": -1,
+        "latitude": -51.786936,
+        "longitude": -58.226291
+    },
+    {
+        "name": "Spring Point Settlement",
+        "country": "Falkland Islands",
+        "province": "Falkland Islands",
+        "population": -1,
+        "latitude": -51.829679,
+        "longitude": -60.455883
+    },
+    {
+        "name": "Port Stephens Settlement",
+        "country": "Falkland Islands",
+        "province": "Falkland Islands",
+        "population": -1,
+        "latitude": -52.102434,
+        "longitude": -60.844513
+    },
+    {
+        "name": "Fox Bay West Settlement",
+        "country": "Falkland Islands",
+        "province": "Falkland Islands",
+        "population": -1,
+        "latitude": -51.951682,
+        "longitude": -60.084381
+    },
+    {
+        "name": "Sand Fountain",
+        "country": "Falkland Islands",
+        "province": "Falkland Islands",
+        "population": -1,
+        "latitude": -51.4833333,
+        "longitude": -58.75
+    },
+    {
+        "name": "Orqueta",
+        "country": "Falkland Islands",
+        "province": "Falkland Islands",
+        "population": -1,
+        "latitude": -51.8666667,
+        "longitude": -59.2333333
+    },
+    {
+        "name": "Mariquita",
+        "country": "Falkland Islands",
+        "province": "Falkland Islands",
+        "population": -1,
+        "latitude": -51.9,
+        "longitude": -59.4
+    },
+    {
+        "name": "Johnson Harbour Settlement",
+        "country": "Falkland Islands",
+        "province": "Falkland Islands",
+        "population": -1,
+        "latitude": -51.498371,
+        "longitude": -58.03967
+    },
+    {
+        "name": "Ceritos",
+        "country": "Falkland Islands",
+        "province": "Falkland Islands",
+        "population": -1,
+        "latitude": -51.7166667,
+        "longitude": -58.85
+    },
+    {
+        "name": "Camp Verde",
+        "country": "Falkland Islands",
+        "province": "Falkland Islands",
+        "population": -1,
+        "latitude": -51.5333333,
+        "longitude": -58.9666667
+    },
+    {
+        "name": "Beaver Settlement",
+        "country": "Falkland Islands",
+        "province": "Falkland Islands",
+        "population": -1,
+        "latitude": -51.853169,
+        "longitude": -61.253849
+    },
+    {
+        "name": "Westpoint Island Settlement",
+        "country": "Falkland Islands",
+        "province": "Falkland Islands",
+        "population": -1,
+        "latitude": -51.348791,
+        "longitude": -60.68685
+    },
+    {
+        "name": "Carcass Island Settlement",
+        "country": "Falkland Islands",
+        "province": "Falkland Islands",
+        "population": -1,
+        "latitude": -51.29086,
+        "longitude": -60.55696
+    },
+    {
+        "name": "New Island Settlement",
+        "country": "Falkland Islands",
+        "province": "Falkland Islands",
+        "population": -1,
+        "latitude": -51.725565,
+        "longitude": -61.2988
+    },
+    {
+        "name": "Saunders Island Settlement",
+        "country": "Falkland Islands",
+        "province": "Falkland Islands",
+        "population": -1,
+        "latitude": -51.365886,
+        "longitude": -60.087259
+    },
+    {
+        "name": "Hill Cove",
+        "country": "Falkland Islands",
+        "province": "Falkland Islands",
+        "population": -1,
+        "latitude": -51.497405,
+        "longitude": -60.115589
+    },
+    {
+        "name": "Speedwell Island Settlement",
+        "country": "Falkland Islands",
+        "province": "Falkland Islands",
+        "population": -1,
+        "latitude": -52.220738,
+        "longitude": -59.688253
+    },
+    {
+        "name": "Lively Settlement",
+        "country": "Falkland Islands",
+        "province": "Falkland Islands",
+        "population": -1,
+        "latitude": -51.994074,
+        "longitude": -58.456638
+    },
+    {
+        "name": "Bluff Cove Settlement",
+        "country": "Falkland Islands",
+        "province": "Falkland Islands",
+        "population": -1,
+        "latitude": -51.747527,
+        "longitude": -58.175628
+    },
+    {
+        "name": "Green Patch Settlement",
+        "country": "Falkland Islands",
+        "province": "Falkland Islands",
+        "population": -1,
+        "latitude": -51.54833,
+        "longitude": -58.117847
+    },
+    {
+        "name": "Foam Creek House",
+        "country": "Falkland Islands",
+        "province": "Falkland Islands",
+        "population": -1,
+        "latitude": -51.46784,
+        "longitude": -58.33088
+    },
+    {
+        "name": "Keppel Settlement",
+        "country": "Falkland Islands",
+        "province": "Falkland Islands",
+        "population": -1,
+        "latitude": -51.331211,
+        "longitude": -59.943308
+    },
+    {
+        "name": "Tranquilidad",
+        "country": "Falkland Islands",
+        "province": "Falkland Islands",
+        "population": -1,
+        "latitude": -51.813739,
+        "longitude": -59.092121
+    },
+    {
+        "name": "Port Louis South",
+        "country": "Falkland Islands",
+        "province": "Falkland Islands",
+        "population": -1,
+        "latitude": -51.6,
+        "longitude": -58.15
+    },
+    {
+        "name": "Piedra Sola",
+        "country": "Falkland Islands",
+        "province": "Falkland Islands",
+        "population": -1,
+        "latitude": -51.5333333,
+        "longitude": -58.7666667
+    },
+    {
+        "name": "Mid Rancho",
+        "country": "Falkland Islands",
+        "province": "Falkland Islands",
+        "population": -1,
+        "latitude": -51.8333333,
+        "longitude": -58.6
+    },
+    {
+        "name": "Mare Harbour Rancho",
+        "country": "Falkland Islands",
+        "province": "Falkland Islands",
+        "population": -1,
+        "latitude": -51.9,
+        "longitude": -58.4
+    },
+    {
+        "name": "Horseshoe Bay",
+        "country": "Falkland Islands",
+        "province": "Falkland Islands",
+        "population": -1,
+        "latitude": -51.5333333,
+        "longitude": -58.2166667
+    },
+    {
+        "name": "Hope Cottage",
+        "country": "Falkland Islands",
+        "province": "Falkland Islands",
+        "population": -1,
+        "latitude": -51.86315,
+        "longitude": -59.35632
+    },
+    {
+        "name": "Fitzroy North",
+        "country": "Falkland Islands",
+        "province": "Falkland Islands",
+        "population": -1,
+        "latitude": -51.7333333,
+        "longitude": -58.25
+    },
+    {
+        "name": "Estancia House",
+        "country": "Falkland Islands",
+        "province": "Falkland Islands",
+        "population": -1,
+        "latitude": -51.635298,
+        "longitude": -58.165172
+    },
+    {
+        "name": "Dos Lomas",
+        "country": "Falkland Islands",
+        "province": "Falkland Islands",
+        "population": -1,
+        "latitude": -51.7833333,
+        "longitude": -59.25
+    },
+    {
+        "name": "Cranmer",
+        "country": "Falkland Islands",
+        "province": "Falkland Islands",
+        "population": -1,
+        "latitude": -51.3333333,
+        "longitude": -59.9333333
+    },
+    {
+        "name": "Burnside House",
+        "country": "Falkland Islands",
+        "province": "Falkland Islands",
+        "population": -1,
+        "latitude": -51.784088,
+        "longitude": -58.939371
+    },
+    {
+        "name": "Bombilia House",
+        "country": "Falkland Islands",
+        "province": "Falkland Islands",
+        "population": -1,
+        "latitude": -51.548118,
+        "longitude": -58.685858
+    },
+    {
+        "name": "Bluff Cove",
+        "country": "Falkland Islands",
+        "province": "Falkland Islands",
+        "population": -1,
+        "latitude": -51.74826229789951,
+        "longitude": -58.178465366363525
+    },
+    {
+        "name": "Port Edgar Settlement",
+        "country": "Falkland Islands",
+        "province": "Falkland Islands",
+        "population": -1,
+        "latitude": -52.04937,
+        "longitude": -60.27978
+    }
+]

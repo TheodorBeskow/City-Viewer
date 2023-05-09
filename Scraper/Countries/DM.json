@@ -1,0 +1,1058 @@
+[
+    {
+        "name": "Roseau",
+        "country": "Dominica",
+        "province": "Saint George",
+        "population": 16571,
+        "latitude": 15.3017368927302,
+        "longitude": -61.3880825042725
+    },
+    {
+        "name": "Portsmouth",
+        "country": "Dominica",
+        "province": "Saint John",
+        "population": 3633,
+        "latitude": 15.58288,
+        "longitude": -61.45592
+    },
+    {
+        "name": "Marigot",
+        "country": "Dominica",
+        "province": "Saint Andrew",
+        "population": 2669,
+        "latitude": 15.537433,
+        "longitude": -61.281999
+    },
+    {
+        "name": "Mahaut",
+        "country": "Dominica",
+        "province": "Saint Paul",
+        "population": 2369,
+        "latitude": 15.363570341834762,
+        "longitude": -61.39700889587402
+    },
+    {
+        "name": "Berekua",
+        "country": "Dominica",
+        "province": "Saint Patrick",
+        "population": 2608,
+        "latitude": 15.2333333,
+        "longitude": -61.3166667
+    },
+    {
+        "name": "Wesley",
+        "country": "Dominica",
+        "province": "Saint Andrew",
+        "population": 1933,
+        "latitude": 15.5666667,
+        "longitude": -61.3166667
+    },
+    {
+        "name": "Saint Joseph",
+        "country": "Dominica",
+        "province": "Saint Joseph",
+        "population": 2184,
+        "latitude": 15.4061,
+        "longitude": -61.42374
+    },
+    {
+        "name": "Soufrière",
+        "country": "Dominica",
+        "province": "Saint Mark",
+        "population": 1416,
+        "latitude": 15.233736274209877,
+        "longitude": -61.35881423950195
+    },
+    {
+        "name": "Castle Bruce",
+        "country": "Dominica",
+        "province": "Saint David",
+        "population": 1387,
+        "latitude": 15.443971,
+        "longitude": -61.257227
+    },
+    {
+        "name": "Salisbury",
+        "country": "Dominica",
+        "province": "Saint Joseph",
+        "population": 1413,
+        "latitude": 15.436891,
+        "longitude": -61.436368
+    },
+    {
+        "name": "Pointe Michel",
+        "country": "Dominica",
+        "province": "Saint Luke",
+        "population": 1202,
+        "latitude": 15.259759203821577,
+        "longitude": -61.374521255493164
+    },
+    {
+        "name": "Rosalie",
+        "country": "Dominica",
+        "province": "Saint David",
+        "population": 802,
+        "latitude": 15.3666667,
+        "longitude": -61.2666667
+    },
+    {
+        "name": "Pont Cassé",
+        "country": "Dominica",
+        "province": "Saint Paul",
+        "population": 702,
+        "latitude": 15.3666667,
+        "longitude": -61.35
+    },
+    {
+        "name": "La Plaine",
+        "country": "Dominica",
+        "province": "Saint Patrick",
+        "population": 1332,
+        "latitude": 15.32768,
+        "longitude": -61.247534
+    },
+    {
+        "name": "Colihaut",
+        "country": "Dominica",
+        "province": "Saint Peter",
+        "population": 890,
+        "latitude": 15.484783459305502,
+        "longitude": -61.462154388427734
+    },
+    {
+        "name": "Calibishie",
+        "country": "Dominica",
+        "province": "Saint Andrew",
+        "population": 1020,
+        "latitude": 15.592967,
+        "longitude": -61.349008
+    },
+    {
+        "name": "Petite Soufrière",
+        "country": "Dominica",
+        "province": "Saint David",
+        "population": -1,
+        "latitude": 15.390245,
+        "longitude": -61.25617
+    },
+    {
+        "name": "Petite Savane",
+        "country": "Dominica",
+        "province": "Saint Patrick",
+        "population": -1,
+        "latitude": 15.255344,
+        "longitude": -61.267922
+    },
+    {
+        "name": "Paix Bouche",
+        "country": "Dominica",
+        "province": "Saint Andrew",
+        "population": -1,
+        "latitude": 15.592484,
+        "longitude": -61.41133
+    },
+    {
+        "name": "Morne Raquette",
+        "country": "Dominica",
+        "province": "Saint Joseph",
+        "population": -1,
+        "latitude": 15.456375,
+        "longitude": -61.447322
+    },
+    {
+        "name": "Méro",
+        "country": "Dominica",
+        "province": "Saint Joseph",
+        "population": -1,
+        "latitude": 15.418657,
+        "longitude": -61.428939
+    },
+    {
+        "name": "Massacre",
+        "country": "Dominica",
+        "province": "Saint Paul",
+        "population": -1,
+        "latitude": 15.346851455455102,
+        "longitude": -61.3916015625
+    },
+    {
+        "name": "Layou",
+        "country": "Dominica",
+        "province": "Saint Joseph",
+        "population": -1,
+        "latitude": 15.397,
+        "longitude": -61.42546
+    },
+    {
+        "name": "Laudat",
+        "country": "Dominica",
+        "province": "Saint George",
+        "population": -1,
+        "latitude": 15.3372,
+        "longitude": -61.33211
+    },
+    {
+        "name": "Hampstead",
+        "country": "Dominica",
+        "province": "Saint Andrew",
+        "population": -1,
+        "latitude": 15.594571,
+        "longitude": -61.366305
+    },
+    {
+        "name": "Grand Fond",
+        "country": "Dominica",
+        "province": "Saint David",
+        "population": -1,
+        "latitude": 15.356258,
+        "longitude": -61.281871
+    },
+    {
+        "name": "Good Hope",
+        "country": "Dominica",
+        "province": "Saint David",
+        "population": -1,
+        "latitude": 15.411677,
+        "longitude": -61.254056
+    },
+    {
+        "name": "Galion",
+        "country": "Dominica",
+        "province": "Saint Mark",
+        "population": -1,
+        "latitude": 15.222576688711003,
+        "longitude": -61.35735511779785
+    },
+    {
+        "name": "Dublanc",
+        "country": "Dominica",
+        "province": "Saint Peter",
+        "population": -1,
+        "latitude": 15.51361,
+        "longitude": -61.46679
+    },
+    {
+        "name": "Délices",
+        "country": "Dominica",
+        "province": "Saint Patrick",
+        "population": -1,
+        "latitude": 15.287346,
+        "longitude": -61.266174
+    },
+    {
+        "name": "Coulibistrie",
+        "country": "Dominica",
+        "province": "Saint Joseph",
+        "population": -1,
+        "latitude": 15.460656,
+        "longitude": -61.450894
+    },
+    {
+        "name": "Borne",
+        "country": "Dominica",
+        "province": "Saint John",
+        "population": -1,
+        "latitude": 15.579464,
+        "longitude": -61.420759
+    },
+    {
+        "name": "Bense",
+        "country": "Dominica",
+        "province": "Saint Andrew",
+        "population": -1,
+        "latitude": 15.587713,
+        "longitude": -61.375584
+    },
+    {
+        "name": "Bells",
+        "country": "Dominica",
+        "province": "Saint Joseph",
+        "population": -1,
+        "latitude": 15.422144,
+        "longitude": -61.339327
+    },
+    {
+        "name": "Bataka",
+        "country": "Dominica",
+        "province": "Saint David",
+        "population": -1,
+        "latitude": 15.506459,
+        "longitude": -61.266296
+    },
+    {
+        "name": "Anse de Mai",
+        "country": "Dominica",
+        "province": "Saint Andrew",
+        "population": -1,
+        "latitude": 15.593113,
+        "longitude": -61.382777
+    },
+    {
+        "name": "Vieille Case",
+        "country": "Dominica",
+        "province": "Saint Andrew",
+        "population": -1,
+        "latitude": 15.614179,
+        "longitude": -61.408231
+    },
+    {
+        "name": "Trafalgar",
+        "country": "Dominica",
+        "province": "Saint George",
+        "population": -1,
+        "latitude": 15.32728,
+        "longitude": -61.3456
+    },
+    {
+        "name": "Thibaud",
+        "country": "Dominica",
+        "province": "Saint Andrew",
+        "population": -1,
+        "latitude": 15.599689,
+        "longitude": -61.397287
+    },
+    {
+        "name": "Scotts Head Village",
+        "country": "Dominica",
+        "province": "Saint Mark",
+        "population": -1,
+        "latitude": 15.212224039726207,
+        "longitude": -61.36482238769531
+    },
+    {
+        "name": "Salybia",
+        "country": "Dominica",
+        "province": "Saint David",
+        "population": -1,
+        "latitude": 15.493818,
+        "longitude": -61.257526
+    },
+    {
+        "name": "Canefield",
+        "country": "Dominica",
+        "province": "Saint Paul",
+        "population": -1,
+        "latitude": 15.3313728769465,
+        "longitude": -61.38915538787842
+    },
+    {
+        "name": "Castle Comfort",
+        "country": "Dominica",
+        "province": "Saint George",
+        "population": 790,
+        "latitude": 15.28439,
+        "longitude": -61.37049
+    },
+    {
+        "name": "Wotten Waven",
+        "country": "Dominica",
+        "province": "Saint George",
+        "population": 220,
+        "latitude": 15.31813,
+        "longitude": -61.33839
+    },
+    {
+        "name": "Campbell",
+        "country": "Dominica",
+        "province": "Saint Paul",
+        "population": -1,
+        "latitude": 15.375211,
+        "longitude": -61.372819
+    },
+    {
+        "name": "Picard",
+        "country": "Dominica",
+        "province": "Saint John",
+        "population": -1,
+        "latitude": 15.552811,
+        "longitude": -61.459387
+    },
+    {
+        "name": "Giraudet",
+        "country": "Dominica",
+        "province": "Saint George",
+        "population": -1,
+        "latitude": 15.2918,
+        "longitude": -61.34869
+    },
+    {
+        "name": "Tête Morne",
+        "country": "Dominica",
+        "province": "Saint Patrick",
+        "population": -1,
+        "latitude": 15.235449,
+        "longitude": -61.333957
+    },
+    {
+        "name": "Sylvania",
+        "country": "Dominica",
+        "province": "Saint Paul",
+        "population": -1,
+        "latitude": 15.359299,
+        "longitude": -61.355553
+    },
+    {
+        "name": "Rivière Ciriques",
+        "country": "Dominica",
+        "province": "Saint David",
+        "population": -1,
+        "latitude": 15.359898,
+        "longitude": -61.258354
+    },
+    {
+        "name": "Morne Prosper",
+        "country": "Dominica",
+        "province": "Saint George",
+        "population": -1,
+        "latitude": 15.29698,
+        "longitude": -61.36002
+    },
+    {
+        "name": "Morne Aux Frégates",
+        "country": "Dominica",
+        "province": "Saint David",
+        "population": -1,
+        "latitude": 15.357406,
+        "longitude": -61.262061
+    },
+    {
+        "name": "Melville Hall",
+        "country": "Dominica",
+        "province": "Saint Andrew",
+        "population": -1,
+        "latitude": 15.545258,
+        "longitude": -61.292222
+    },
+    {
+        "name": "Madjini",
+        "country": "Dominica",
+        "province": "Saint David",
+        "population": -1,
+        "latitude": 15.467655,
+        "longitude": -61.249371
+    },
+    {
+        "name": "Glanvillia",
+        "country": "Dominica",
+        "province": "Saint John",
+        "population": -1,
+        "latitude": 15.567074,
+        "longitude": -61.456124
+    },
+    {
+        "name": "Dos D’Âne",
+        "country": "Dominica",
+        "province": "Saint Andrew",
+        "population": -1,
+        "latitude": 15.585156,
+        "longitude": -61.412709
+    },
+    {
+        "name": "Newtown",
+        "country": "Dominica",
+        "province": "Saint George",
+        "population": -1,
+        "latitude": 15.29437,
+        "longitude": -61.38173
+    },
+    {
+        "name": "Capucin",
+        "country": "Dominica",
+        "province": "Saint John",
+        "population": -1,
+        "latitude": 15.630709,
+        "longitude": -61.461241
+    },
+    {
+        "name": "Bassinville",
+        "country": "Dominica",
+        "province": "Saint Joseph",
+        "population": -1,
+        "latitude": 15.4333333,
+        "longitude": -61.3666667
+    },
+    {
+        "name": "Woodford Hill",
+        "country": "Dominica",
+        "province": "Saint Andrew",
+        "population": 1063,
+        "latitude": 15.580934,
+        "longitude": -61.331488
+    },
+    {
+        "name": "Wall House",
+        "country": "Dominica",
+        "province": "Saint George",
+        "population": -1,
+        "latitude": 15.278218,
+        "longitude": -61.37139
+    },
+    {
+        "name": "Eggleston",
+        "country": "Dominica",
+        "province": "Saint George",
+        "population": -1,
+        "latitude": 15.297845,
+        "longitude": -61.356875
+    },
+    {
+        "name": "Copt Hall Estate",
+        "country": "Dominica",
+        "province": "Saint George",
+        "population": -1,
+        "latitude": 15.312987,
+        "longitude": -61.357563
+    },
+    {
+        "name": "Roger",
+        "country": "Dominica",
+        "province": "Saint Paul",
+        "population": -1,
+        "latitude": 15.339044,
+        "longitude": -61.388117
+    },
+    {
+        "name": "Riversdale",
+        "country": "Dominica",
+        "province": "Saint Joseph",
+        "population": -1,
+        "latitude": 15.4166667,
+        "longitude": -61.3666667
+    },
+    {
+        "name": "Potter’s Ville",
+        "country": "Dominica",
+        "province": "Saint George",
+        "population": -1,
+        "latitude": 15.302433,
+        "longitude": -61.389583
+    },
+    {
+        "name": "Pichelin",
+        "country": "Dominica",
+        "province": "Saint Patrick",
+        "population": -1,
+        "latitude": 15.264230599953349,
+        "longitude": -61.325833797454834
+    },
+    {
+        "name": "Pineville",
+        "country": "Dominica",
+        "province": "Saint Andrew",
+        "population": -1,
+        "latitude": 15.6311,
+        "longitude": -61.42456
+    },
+    {
+        "name": "Morpo",
+        "country": "Dominica",
+        "province": "Saint David",
+        "population": -1,
+        "latitude": 15.426635,
+        "longitude": -61.255562
+    },
+    {
+        "name": "Morne Soleil",
+        "country": "Dominica",
+        "province": "Saint John",
+        "population": -1,
+        "latitude": 15.613743,
+        "longitude": -61.465367
+    },
+    {
+        "name": "Morne Jaune",
+        "country": "Dominica",
+        "province": "Saint David",
+        "population": -1,
+        "latitude": 15.352853,
+        "longitude": -61.264008
+    },
+    {
+        "name": "Monkey Hill",
+        "country": "Dominica",
+        "province": "Saint David",
+        "population": -1,
+        "latitude": 15.499588,
+        "longitude": -61.264814
+    },
+    {
+        "name": "Loubiere",
+        "country": "Dominica",
+        "province": "Saint George",
+        "population": -1,
+        "latitude": 15.27893,
+        "longitude": -61.3722
+    },
+    {
+        "name": "La Source",
+        "country": "Dominica",
+        "province": "Saint Andrew",
+        "population": -1,
+        "latitude": 15.58788,
+        "longitude": -61.405737
+    },
+    {
+        "name": "Larieu",
+        "country": "Dominica",
+        "province": "Saint Andrew",
+        "population": -1,
+        "latitude": 15.586169,
+        "longitude": -61.328701
+    },
+    {
+        "name": "Là Haut",
+        "country": "Dominica",
+        "province": "Saint John",
+        "population": -1,
+        "latitude": 15.62603,
+        "longitude": -61.41628
+    },
+    {
+        "name": "Lagon",
+        "country": "Dominica",
+        "province": "Saint John",
+        "population": -1,
+        "latitude": 15.579982,
+        "longitude": -61.457823
+    },
+    {
+        "name": "Guillet",
+        "country": "Dominica",
+        "province": "Saint John",
+        "population": -1,
+        "latitude": 15.605103,
+        "longitude": -61.461063
+    },
+    {
+        "name": "Gommier",
+        "country": "Dominica",
+        "province": "Saint Andrew",
+        "population": -1,
+        "latitude": 15.609695,
+        "longitude": -61.403469
+    },
+    {
+        "name": "Geneva",
+        "country": "Dominica",
+        "province": "Saint Patrick",
+        "population": -1,
+        "latitude": 15.245388,
+        "longitude": -61.316584
+    },
+    {
+        "name": "Gaulette",
+        "country": "Dominica",
+        "province": "Saint David",
+        "population": -1,
+        "latitude": 15.482551,
+        "longitude": -61.252788
+    },
+    {
+        "name": "Fond Saint Jean",
+        "country": "Dominica",
+        "province": "Saint Patrick",
+        "population": -1,
+        "latitude": 15.244846,
+        "longitude": -61.282107
+    },
+    {
+        "name": "Fond Cani",
+        "country": "Dominica",
+        "province": "Saint George",
+        "population": -1,
+        "latitude": 15.31875,
+        "longitude": -61.35401
+    },
+    {
+        "name": "Dubuc",
+        "country": "Dominica",
+        "province": "Saint Patrick",
+        "population": -1,
+        "latitude": 15.246714,
+        "longitude": -61.303788
+    },
+    {
+        "name": "Demitrie",
+        "country": "Dominica",
+        "province": "Saint Andrew",
+        "population": -1,
+        "latitude": 15.62968,
+        "longitude": -61.41829
+    },
+    {
+        "name": "Crayfish River",
+        "country": "Dominica",
+        "province": "Saint David",
+        "population": -1,
+        "latitude": 15.497024,
+        "longitude": -61.257545
+    },
+    {
+        "name": "Cottage",
+        "country": "Dominica",
+        "province": "Saint John",
+        "population": -1,
+        "latitude": 15.615789,
+        "longitude": -61.463688
+    },
+    {
+        "name": "Cocoyer",
+        "country": "Dominica",
+        "province": "Saint John",
+        "population": -1,
+        "latitude": 15.616767,
+        "longitude": -61.460352
+    },
+    {
+        "name": "Cochrane",
+        "country": "Dominica",
+        "province": "Saint Paul",
+        "population": -1,
+        "latitude": 15.337746548181963,
+        "longitude": -61.36190414428711
+    },
+    {
+        "name": "Clifton",
+        "country": "Dominica",
+        "province": "Saint John",
+        "population": -1,
+        "latitude": 15.623804,
+        "longitude": -61.462843
+    },
+    {
+        "name": "Boetica",
+        "country": "Dominica",
+        "province": "Saint Patrick",
+        "population": -1,
+        "latitude": 15.309106,
+        "longitude": -61.250526
+    },
+    {
+        "name": "Bioche",
+        "country": "Dominica",
+        "province": "Saint Peter",
+        "population": -1,
+        "latitude": 15.508952,
+        "longitude": -61.466832
+    },
+    {
+        "name": "Belvidere",
+        "country": "Dominica",
+        "province": "Saint Patrick",
+        "population": -1,
+        "latitude": 15.2833333,
+        "longitude": -61.25
+    },
+    {
+        "name": "Belmanier",
+        "country": "Dominica",
+        "province": "Saint Andrew",
+        "population": -1,
+        "latitude": 15.58867,
+        "longitude": -61.407249
+    },
+    {
+        "name": "Bellevue Chopin",
+        "country": "Dominica",
+        "province": "Saint George",
+        "population": -1,
+        "latitude": 15.264479008057673,
+        "longitude": -61.345038414001465
+    },
+    {
+        "name": "Au Parc",
+        "country": "Dominica",
+        "province": "Saint Andrew",
+        "population": -1,
+        "latitude": 15.611428,
+        "longitude": -61.406455
+    },
+    {
+        "name": "Toucari",
+        "country": "Dominica",
+        "province": "Saint John",
+        "population": -1,
+        "latitude": 15.611241,
+        "longitude": -61.46382
+    },
+    {
+        "name": "Tobino",
+        "country": "Dominica",
+        "province": "Saint Andrew",
+        "population": -1,
+        "latitude": 15.614354,
+        "longitude": -61.405915
+    },
+    {
+        "name": "The Cross",
+        "country": "Dominica",
+        "province": "Saint David",
+        "population": -1,
+        "latitude": 15.363603,
+        "longitude": -61.273708
+    },
+    {
+        "name": "Tarou",
+        "country": "Dominica",
+        "province": "Saint Paul",
+        "population": -1,
+        "latitude": 15.388624,
+        "longitude": -61.414844
+    },
+    {
+        "name": "Tanetane",
+        "country": "Dominica",
+        "province": "Saint John",
+        "population": -1,
+        "latitude": 15.601879,
+        "longitude": -61.461108
+    },
+    {
+        "name": "Stowe",
+        "country": "Dominica",
+        "province": "Saint Patrick",
+        "population": -1,
+        "latitude": 15.245678,
+        "longitude": -61.293361
+    },
+    {
+        "name": "Sineku",
+        "country": "Dominica",
+        "province": "Saint David",
+        "population": -1,
+        "latitude": 15.466317,
+        "longitude": -61.248249
+    },
+    {
+        "name": "Sibouli",
+        "country": "Dominica",
+        "province": "Saint Luke",
+        "population": -1,
+        "latitude": 15.257952,
+        "longitude": -61.377022
+    },
+    {
+        "name": "Saint Sauveur",
+        "country": "Dominica",
+        "province": "Saint David",
+        "population": -1,
+        "latitude": 15.40258,
+        "longitude": -61.2547
+    },
+    {
+        "name": "Saint Cyr",
+        "country": "Dominica",
+        "province": "Saint David",
+        "population": -1,
+        "latitude": 15.490252,
+        "longitude": -61.25353
+    },
+    {
+        "name": "Upper King's Hill",
+        "country": "Dominica",
+        "province": "Saint George",
+        "population": -1,
+        "latitude": 15.299,
+        "longitude": -61.37521
+    },
+    {
+        "name": "Belfast",
+        "country": "Dominica",
+        "province": "Saint Paul",
+        "population": -1,
+        "latitude": 15.3668,
+        "longitude": -61.39615
+    },
+    {
+        "name": "Capuchin",
+        "country": "Dominica",
+        "province": "Saint John",
+        "population": -1,
+        "latitude": 15.631502,
+        "longitude": -61.460329
+    },
+    {
+        "name": "Grand Savane",
+        "country": "Dominica",
+        "province": "Saint Joseph",
+        "population": -1,
+        "latitude": 15.444912,
+        "longitude": -61.435183
+    },
+    {
+        "name": "Jimmit",
+        "country": "Dominica",
+        "province": "Saint Paul",
+        "population": -1,
+        "latitude": 15.371451,
+        "longitude": -61.403139
+    },
+    {
+        "name": "Warner",
+        "country": "Dominica",
+        "province": "Saint Paul",
+        "population": -1,
+        "latitude": 15.392978,
+        "longitude": -61.393751
+    },
+    {
+        "name": "Citronnière",
+        "country": "Dominica",
+        "province": "Saint George",
+        "population": -1,
+        "latitude": 15.28919,
+        "longitude": -61.376985
+    },
+    {
+        "name": "Fortuné Estate",
+        "country": "Dominica",
+        "province": "Saint George",
+        "population": -1,
+        "latitude": 15.291177,
+        "longitude": -61.376023
+    },
+    {
+        "name": "Bon Repos",
+        "country": "Dominica",
+        "province": "Saint Paul",
+        "population": -1,
+        "latitude": 15.373594,
+        "longitude": -61.38572
+    },
+    {
+        "name": "Laronde",
+        "country": "Dominica",
+        "province": "Saint Patrick",
+        "population": -1,
+        "latitude": 15.319117,
+        "longitude": -61.247817
+    },
+    {
+        "name": "River Estate",
+        "country": "Dominica",
+        "province": "Saint Paul",
+        "population": -1,
+        "latitude": 15.328493,
+        "longitude": -61.387319
+    },
+    {
+        "name": "Goodwill",
+        "country": "Dominica",
+        "province": "Saint George",
+        "population": -1,
+        "latitude": 15.305097,
+        "longitude": -61.383518
+    },
+    {
+        "name": "atkinson",
+        "country": "Dominica",
+        "province": "Saint David",
+        "population": -1,
+        "latitude": 15.5166667,
+        "longitude": -61.2666667
+    },
+    {
+        "name": "Bath Estate",
+        "country": "Dominica",
+        "province": "Dominica",
+        "population": -1,
+        "latitude": 15.30327,
+        "longitude": -61.37864
+    },
+    {
+        "name": "St Aroment",
+        "country": "Dominica",
+        "province": "Dominica",
+        "population": -1,
+        "latitude": 15.30708,
+        "longitude": -61.37269
+    },
+    {
+        "name": "Fond Cole",
+        "country": "Dominica",
+        "province": "Dominica",
+        "population": -1,
+        "latitude": 15.31413,
+        "longitude": -61.38689
+    },
+    {
+        "name": "Upper Goodwill",
+        "country": "Dominica",
+        "province": "Dominica",
+        "population": -1,
+        "latitude": 15.30582,
+        "longitude": -61.38072
+    },
+    {
+        "name": "Goodwill",
+        "country": "Dominica",
+        "province": "Dominica",
+        "population": -1,
+        "latitude": 15.30637,
+        "longitude": -61.38675
+    },
+    {
+        "name": "Elms Hall",
+        "country": "Dominica",
+        "province": "Dominica",
+        "population": -1,
+        "latitude": 15.30223,
+        "longitude": -61.37379
+    },
+    {
+        "name": "Citronier",
+        "country": "Dominica",
+        "province": "Dominica",
+        "population": -1,
+        "latitude": 15.28841,
+        "longitude": -61.37615
+    },
+    {
+        "name": "Charlotte Valley",
+        "country": "Dominica",
+        "province": "Saint George",
+        "population": -1,
+        "latitude": 15.293362,
+        "longitude": -61.378077
+    },
+    {
+        "name": "Saint Aromant Estate",
+        "country": "Dominica",
+        "province": "Saint George",
+        "population": -1,
+        "latitude": 15.30666,
+        "longitude": -61.37376
+    },
+    {
+        "name": "Mount Saint Mary’s",
+        "country": "Dominica",
+        "province": "Saint George",
+        "population": -1,
+        "latitude": 15.290634,
+        "longitude": -61.372903
+    },
+    {
+        "name": "Emsall Estate",
+        "country": "Dominica",
+        "province": "Saint George",
+        "population": -1,
+        "latitude": 15.302321,
+        "longitude": -61.373849
+    },
+    {
+        "name": "Kings Hill",
+        "country": "Dominica",
+        "province": "Saint George",
+        "population": -1,
+        "latitude": 15.296849,
+        "longitude": -61.377895
+    },
+    {
+        "name": "Stock Farm",
+        "country": "Dominica",
+        "province": "Saint George",
+        "population": -1,
+        "latitude": 15.310174,
+        "longitude": -61.38484
+    }
+]

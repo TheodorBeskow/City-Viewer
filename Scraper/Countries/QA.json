@@ -1,0 +1,2186 @@
+[
+    {
+        "name": "Doha",
+        "country": "Qatar",
+        "province": "Baladīyat ad Dawḩah",
+        "population": 344939,
+        "latitude": 25.28545,
+        "longitude": 51.53096
+    },
+    {
+        "name": "Ar Rayyan",
+        "country": "Qatar",
+        "province": "Baladīyat ar Rayyān",
+        "population": 272465,
+        "latitude": 25.291944,
+        "longitude": 51.424444
+    },
+    {
+        "name": "Umm Şalāl Muḩammad",
+        "country": "Qatar",
+        "province": "Baladīyat Umm Şalāl",
+        "population": 29391,
+        "latitude": 25.415239,
+        "longitude": 51.406474
+    },
+    {
+        "name": "Al Wakrah",
+        "country": "Qatar",
+        "province": "Al Wakrah",
+        "population": 26436,
+        "latitude": 25.171511,
+        "longitude": 51.603371
+    },
+    {
+        "name": "Al Khor",
+        "country": "Qatar",
+        "province": "Al Khor",
+        "population": 18923,
+        "latitude": 25.683889,
+        "longitude": 51.505833
+    },
+    {
+        "name": "Dukhān",
+        "country": "Qatar",
+        "province": "Al-Shahaniya",
+        "population": 7250,
+        "latitude": 25.424852,
+        "longitude": 50.782269
+    },
+    {
+        "name": "Ash Shīḩānīyah",
+        "country": "Qatar",
+        "province": "Al-Shahaniya",
+        "population": 8380,
+        "latitude": 25.370879,
+        "longitude": 51.222636
+    },
+    {
+        "name": "Musay‘īd",
+        "country": "Qatar",
+        "province": "Al Wakrah",
+        "population": 5769,
+        "latitude": 24.99226,
+        "longitude": 51.550669
+    },
+    {
+        "name": "Madīnat ash Shamāl",
+        "country": "Qatar",
+        "province": "Madīnat ash Shamāl",
+        "population": 5267,
+        "latitude": 26.129334,
+        "longitude": 51.200905
+    },
+    {
+        "name": "Al Wukayr",
+        "country": "Qatar",
+        "province": "Al Wakrah",
+        "population": 5146,
+        "latitude": 25.151066,
+        "longitude": 51.537176
+    },
+    {
+        "name": "Umm Şalāl ‘Alī",
+        "country": "Qatar",
+        "province": "Baladīyat Umm Şalāl",
+        "population": -1,
+        "latitude": 25.469722,
+        "longitude": 51.3975
+    },
+    {
+        "name": "Az̧ Z̧a‘āyin",
+        "country": "Qatar",
+        "province": "Baladīyat az̧ Z̧a‘āyin",
+        "population": -1,
+        "latitude": 25.577442,
+        "longitude": 51.483063
+    },
+    {
+        "name": "Al Jumaylīyah",
+        "country": "Qatar",
+        "province": "Al-Shahaniya",
+        "population": 1788,
+        "latitude": 25.610682,
+        "longitude": 51.091083
+    },
+    {
+        "name": "Fuwayriţ",
+        "country": "Qatar",
+        "province": "Madīnat ash Shamāl",
+        "population": 1333,
+        "latitude": 26.025649,
+        "longitude": 51.369707
+    },
+    {
+        "name": "Umm Qarn",
+        "country": "Qatar",
+        "province": "Baladīyat az̧ Z̧a‘āyin",
+        "population": -1,
+        "latitude": 25.552665,
+        "longitude": 51.431002
+    },
+    {
+        "name": "Sumaysimah",
+        "country": "Qatar",
+        "province": "Baladīyat az̧ Z̧a‘āyin",
+        "population": -1,
+        "latitude": 25.578226,
+        "longitude": 51.483192
+    },
+    {
+        "name": "Nu‘ayjah",
+        "country": "Qatar",
+        "province": "Baladīyat ad Dawḩah",
+        "population": -1,
+        "latitude": 25.246168,
+        "longitude": 51.532273
+    },
+    {
+        "name": "Ath Thaqab",
+        "country": "Qatar",
+        "province": "Madīnat ash Shamāl",
+        "population": -1,
+        "latitude": 26.031532,
+        "longitude": 51.115121
+    },
+    {
+        "name": "Makīn al Fatīyah",
+        "country": "Qatar",
+        "province": "Madīnat ash Shamāl",
+        "population": -1,
+        "latitude": 26.032928,
+        "longitude": 51.164705
+    },
+    {
+        "name": "Ar Ruways",
+        "country": "Qatar",
+        "province": "Madīnat ash Shamāl",
+        "population": 3334,
+        "latitude": 26.139781,
+        "longitude": 51.214925
+    },
+    {
+        "name": "Al Ghuwayrīyah",
+        "country": "Qatar",
+        "province": "Al Khor",
+        "population": 2332,
+        "latitude": 25.828823,
+        "longitude": 51.245669
+    },
+    {
+        "name": "Adh Dhakhīrah",
+        "country": "Qatar",
+        "province": "Al Khor",
+        "population": -1,
+        "latitude": 25.732007,
+        "longitude": 51.543768
+    },
+    {
+        "name": "Abū Z̧ulūf",
+        "country": "Qatar",
+        "province": "Madīnat ash Shamāl",
+        "population": -1,
+        "latitude": 26.124035,
+        "longitude": 51.181515
+    },
+    {
+        "name": "Umm al ‘Iz̧ām",
+        "country": "Qatar",
+        "province": "Al Khor",
+        "population": -1,
+        "latitude": 25.822411,
+        "longitude": 51.156142
+    },
+    {
+        "name": "Abū Thaylah",
+        "country": "Qatar",
+        "province": "Baladīyat Umm Şalāl",
+        "population": -1,
+        "latitude": 25.533828,
+        "longitude": 51.304789
+    },
+    {
+        "name": "Umm al Kilāb",
+        "country": "Qatar",
+        "province": "Madīnat ash Shamāl",
+        "population": -1,
+        "latitude": 26.04787,
+        "longitude": 51.209307
+    },
+    {
+        "name": "Umm al Ghaylam",
+        "country": "Qatar",
+        "province": "Madīnat ash Shamāl",
+        "population": -1,
+        "latitude": 25.999826,
+        "longitude": 51.299527
+    },
+    {
+        "name": "Aş Şanī‘",
+        "country": "Qatar",
+        "province": "Baladīyat Umm Şalāl",
+        "population": -1,
+        "latitude": 25.542727,
+        "longitude": 51.40815
+    },
+    {
+        "name": "‘Ayn az Zughayn",
+        "country": "Qatar",
+        "province": "Al-Shahaniya",
+        "population": -1,
+        "latitude": 25.313736,
+        "longitude": 50.888443
+    },
+    {
+        "name": "Bi’r Zikrīt",
+        "country": "Qatar",
+        "province": "Al-Shahaniya",
+        "population": -1,
+        "latitude": 25.485331,
+        "longitude": 50.847685
+    },
+    {
+        "name": "Umm ‘Ubayrīyah",
+        "country": "Qatar",
+        "province": "Baladīyat Umm Şalāl",
+        "population": -1,
+        "latitude": 25.493655,
+        "longitude": 51.375435
+    },
+    {
+        "name": "Umm Juway‘id",
+        "country": "Qatar",
+        "province": "Al Khor",
+        "population": -1,
+        "latitude": 25.832111,
+        "longitude": 51.067748
+    },
+    {
+        "name": "Umm Bāb",
+        "country": "Qatar",
+        "province": "Baladīyat ar Rayyān",
+        "population": 2500,
+        "latitude": 25.214167,
+        "longitude": 50.807222
+    },
+    {
+        "name": "Umm az Zubār ash Sharqīyah",
+        "country": "Qatar",
+        "province": "Al-Shahaniya",
+        "population": -1,
+        "latitude": 25.174932,
+        "longitude": 51.278243
+    },
+    {
+        "name": "Umm Suwayyah",
+        "country": "Qatar",
+        "province": "Baladīyat az̧ Z̧a‘āyin",
+        "population": -1,
+        "latitude": 25.648027,
+        "longitude": 51.449356
+    },
+    {
+        "name": "Aş Şunay‘",
+        "country": "Qatar",
+        "province": "Al-Shahaniya",
+        "population": -1,
+        "latitude": 25.492696,
+        "longitude": 50.964801
+    },
+    {
+        "name": "Ra’s Abū Finţās",
+        "country": "Qatar",
+        "province": "Baladīyat ad Dawḩah",
+        "population": -1,
+        "latitude": 25.204006,
+        "longitude": 51.617643
+    },
+    {
+        "name": "Mu‘aydhir Rawḑat Rāshid",
+        "country": "Qatar",
+        "province": "Baladīyat ar Rayyān",
+        "population": -1,
+        "latitude": 25.261698,
+        "longitude": 51.39684
+    },
+    {
+        "name": "Turaynah",
+        "country": "Qatar",
+        "province": "Al Wakrah",
+        "population": -1,
+        "latitude": 24.758089,
+        "longitude": 51.2107
+    },
+    {
+        "name": "Madīnat al Ka‘bān",
+        "country": "Qatar",
+        "province": "Al Khor",
+        "population": -1,
+        "latitude": 25.873392,
+        "longitude": 51.352652
+    },
+    {
+        "name": "Al Kharsa‘ah",
+        "country": "Qatar",
+        "province": "Al-Shahaniya",
+        "population": -1,
+        "latitude": 25.267384,
+        "longitude": 50.967943
+    },
+    {
+        "name": "As Suwayḩilīyah",
+        "country": "Qatar",
+        "province": "Al-Shahaniya",
+        "population": -1,
+        "latitude": 25.766727,
+        "longitude": 51.018284
+    },
+    {
+        "name": "Mazra‘at aş Şin‘",
+        "country": "Qatar",
+        "province": "Al-Shahaniya",
+        "population": -1,
+        "latitude": 25.560095,
+        "longitude": 51.160594
+    },
+    {
+        "name": "Qaryat ar Rufayq",
+        "country": "Qatar",
+        "province": "Al-Shahaniya",
+        "population": -1,
+        "latitude": 25.529511,
+        "longitude": 50.974064
+    },
+    {
+        "name": "‘Ayn an Nu‘mān",
+        "country": "Qatar",
+        "province": "Madīnat ash Shamāl",
+        "population": -1,
+        "latitude": 25.859586,
+        "longitude": 51.083881
+    },
+    {
+        "name": "Al Waqbah",
+        "country": "Qatar",
+        "province": "Baladīyat ar Rayyān",
+        "population": -1,
+        "latitude": 25.304984,
+        "longitude": 51.401419
+    },
+    {
+        "name": "Al Wa‘b",
+        "country": "Qatar",
+        "province": "Al Khor",
+        "population": -1,
+        "latitude": 25.840838,
+        "longitude": 51.463193
+    },
+    {
+        "name": "Al Mafjar",
+        "country": "Qatar",
+        "province": "Madīnat ash Shamāl",
+        "population": -1,
+        "latitude": 26.134825,
+        "longitude": 51.303582
+    },
+    {
+        "name": "Al Khuwayr Ḩassān",
+        "country": "Qatar",
+        "province": "Madīnat ash Shamāl",
+        "population": -1,
+        "latitude": 26.068693,
+        "longitude": 51.083901
+    },
+    {
+        "name": "Al Khurayţīyāt",
+        "country": "Qatar",
+        "province": "Baladīyat Umm Şalāl",
+        "population": -1,
+        "latitude": 25.388376,
+        "longitude": 51.425151
+    },
+    {
+        "name": "Al Khurayb",
+        "country": "Qatar",
+        "province": "Al-Shahaniya",
+        "population": -1,
+        "latitude": 25.435681,
+        "longitude": 51.22019
+    },
+    {
+        "name": "Al Qa‘ābīyah",
+        "country": "Qatar",
+        "province": "Madīnat ash Shamāl",
+        "population": -1,
+        "latitude": 26.06968,
+        "longitude": 51.245311
+    },
+    {
+        "name": "Al Jumayl",
+        "country": "Qatar",
+        "province": "Madīnat ash Shamāl",
+        "population": -1,
+        "latitude": 26.099722,
+        "longitude": 51.161111
+    },
+    {
+        "name": "Al Ḩasanīyah",
+        "country": "Qatar",
+        "province": "Al-Shahaniya",
+        "population": -1,
+        "latitude": 25.339838,
+        "longitude": 51.29582
+    },
+    {
+        "name": "Al Ghashshāmīyah",
+        "country": "Qatar",
+        "province": "Madīnat ash Shamāl",
+        "population": -1,
+        "latitude": 25.98513,
+        "longitude": 51.328304
+    },
+    {
+        "name": "Al Ghārīyah",
+        "country": "Qatar",
+        "province": "Madīnat ash Shamāl",
+        "population": -1,
+        "latitude": 26.079964,
+        "longitude": 51.35745
+    },
+    {
+        "name": "Al ‘Arīsh",
+        "country": "Qatar",
+        "province": "Madīnat ash Shamāl",
+        "population": -1,
+        "latitude": 26.051019,
+        "longitude": 51.056892
+    },
+    {
+        "name": "‘Adhbah",
+        "country": "Qatar",
+        "province": "Madīnat ash Shamāl",
+        "population": -1,
+        "latitude": 26.05151,
+        "longitude": 51.31874
+    },
+    {
+        "name": "Rawḑat al ‘Ajūz",
+        "country": "Qatar",
+        "province": "Baladīyat Umm Şalāl",
+        "population": -1,
+        "latitude": 25.546216,
+        "longitude": 51.372215
+    },
+    {
+        "name": "Abū Sidrah",
+        "country": "Qatar",
+        "province": "Al-Shahaniya",
+        "population": -1,
+        "latitude": 25.725102,
+        "longitude": 51.001924
+    },
+    {
+        "name": "As Sulaymī ash Sharqī",
+        "country": "Qatar",
+        "province": "Al Khor",
+        "population": -1,
+        "latitude": 25.883147,
+        "longitude": 51.219737
+    },
+    {
+        "name": "Muḩayriqat Janūb aş Şu‘lūkīyah",
+        "country": "Qatar",
+        "province": "Al Khor",
+        "population": -1,
+        "latitude": 25.809401,
+        "longitude": 51.056078
+    },
+    {
+        "name": "Al Ghāfah",
+        "country": "Qatar",
+        "province": "Al Khor",
+        "population": -1,
+        "latitude": 25.77977,
+        "longitude": 51.020901
+    },
+    {
+        "name": "Al Ḩuwaylah",
+        "country": "Qatar",
+        "province": "Madīnat ash Shamāl",
+        "population": -1,
+        "latitude": 25.948892,
+        "longitude": 51.465114
+    },
+    {
+        "name": "Al Khurayş",
+        "country": "Qatar",
+        "province": "Al Khor",
+        "population": -1,
+        "latitude": 25.856935,
+        "longitude": 51.435825
+    },
+    {
+        "name": "Mazra‘at al Mājidah",
+        "country": "Qatar",
+        "province": "Al Khor",
+        "population": -1,
+        "latitude": 25.87267,
+        "longitude": 51.257805
+    },
+    {
+        "name": "Simsimah",
+        "country": "Qatar",
+        "province": "Al Khor",
+        "population": -1,
+        "latitude": 25.795081,
+        "longitude": 51.404787
+    },
+    {
+        "name": "Umm Birkah",
+        "country": "Qatar",
+        "province": "Al Khor",
+        "population": -1,
+        "latitude": 25.747197,
+        "longitude": 51.450816
+    },
+    {
+        "name": "Al Qā‘īyah",
+        "country": "Qatar",
+        "province": "Al-Shahaniya",
+        "population": -1,
+        "latitude": 25.668337,
+        "longitude": 51.172447
+    },
+    {
+        "name": "Tinbak ash Sharqīyah al Qadīmah",
+        "country": "Qatar",
+        "province": "Baladīyat az̧ Z̧a‘āyin",
+        "population": -1,
+        "latitude": 25.611193,
+        "longitude": 51.472327
+    },
+    {
+        "name": "Rawḑat Rāshid",
+        "country": "Qatar",
+        "province": "Al-Shahaniya",
+        "population": -1,
+        "latitude": 25.233061,
+        "longitude": 51.204666
+    },
+    {
+        "name": "Umm Wishāḩ",
+        "country": "Qatar",
+        "province": "Al-Shahaniya",
+        "population": -1,
+        "latitude": 25.170092,
+        "longitude": 51.090121
+    },
+    {
+        "name": "Sahlat al Markh",
+        "country": "Qatar",
+        "province": "Al-Shahaniya",
+        "population": -1,
+        "latitude": 25.161795,
+        "longitude": 51.164568
+    },
+    {
+        "name": "Az Zighāb",
+        "country": "Qatar",
+        "province": "Madīnat ash Shamāl",
+        "population": -1,
+        "latitude": 26.107785,
+        "longitude": 51.239646
+    },
+    {
+        "name": "Al ‘Aşmīyah",
+        "country": "Qatar",
+        "province": "Madīnat ash Shamāl",
+        "population": -1,
+        "latitude": 26.076437,
+        "longitude": 51.165645
+    },
+    {
+        "name": "Umm aş Şūf",
+        "country": "Qatar",
+        "province": "Madīnat ash Shamāl",
+        "population": -1,
+        "latitude": 26.07146,
+        "longitude": 51.210827
+    },
+    {
+        "name": "Ar Rakīyāt",
+        "country": "Qatar",
+        "province": "Madīnat ash Shamāl",
+        "population": -1,
+        "latitude": 26.050228,
+        "longitude": 51.130405
+    },
+    {
+        "name": "Al Markhīyah",
+        "country": "Qatar",
+        "province": "Baladīyat ad Dawḩah",
+        "population": -1,
+        "latitude": 25.324885,
+        "longitude": 51.498358
+    },
+    {
+        "name": "As Sulţah al Jadīdah",
+        "country": "Qatar",
+        "province": "Baladīyat ad Dawḩah",
+        "population": -1,
+        "latitude": 25.260403,
+        "longitude": 51.514028
+    },
+    {
+        "name": "Farīq ‘Abd al ‘Azīz",
+        "country": "Qatar",
+        "province": "Baladīyat ad Dawḩah",
+        "population": -1,
+        "latitude": 25.277963,
+        "longitude": 51.524209
+    },
+    {
+        "name": "Ad Dawḩah al Jadīdah",
+        "country": "Qatar",
+        "province": "Baladīyat ad Dawḩah",
+        "population": -1,
+        "latitude": 25.277073,
+        "longitude": 51.532859
+    },
+    {
+        "name": "An Najmah",
+        "country": "Qatar",
+        "province": "Baladīyat ad Dawḩah",
+        "population": -1,
+        "latitude": 25.267045,
+        "longitude": 51.543224
+    },
+    {
+        "name": "Al Hilāl al Gharbīyah",
+        "country": "Qatar",
+        "province": "Baladīyat ad Dawḩah",
+        "population": -1,
+        "latitude": 25.258599,
+        "longitude": 51.530979
+    },
+    {
+        "name": "Al Hilāl ash Sharqīyah",
+        "country": "Qatar",
+        "province": "Baladīyat ad Dawḩah",
+        "population": -1,
+        "latitude": 25.260417,
+        "longitude": 51.54632
+    },
+    {
+        "name": "As Sulţah al Qadīmah",
+        "country": "Qatar",
+        "province": "Baladīyat ad Dawḩah",
+        "population": -1,
+        "latitude": 25.288056,
+        "longitude": 51.546667
+    },
+    {
+        "name": "Al Hitmī",
+        "country": "Qatar",
+        "province": "Baladīyat ad Dawḩah",
+        "population": -1,
+        "latitude": 25.284882,
+        "longitude": 51.546118
+    },
+    {
+        "name": "Al Khulayfāt",
+        "country": "Qatar",
+        "province": "Baladīyat ad Dawḩah",
+        "population": -1,
+        "latitude": 25.282272,
+        "longitude": 51.561743
+    },
+    {
+        "name": "As Sūq",
+        "country": "Qatar",
+        "province": "Baladīyat ad Dawḩah",
+        "population": -1,
+        "latitude": 25.287999,
+        "longitude": 51.537153
+    },
+    {
+        "name": "Al Ghānim",
+        "country": "Qatar",
+        "province": "Baladīyat ad Dawḩah",
+        "population": -1,
+        "latitude": 25.279874,
+        "longitude": 51.540366
+    },
+    {
+        "name": "Al Jisrah",
+        "country": "Qatar",
+        "province": "Baladīyat ad Dawḩah",
+        "population": -1,
+        "latitude": 25.28489,
+        "longitude": 51.537559
+    },
+    {
+        "name": "Al Bid‘ ash Sharqīyah",
+        "country": "Qatar",
+        "province": "Baladīyat ad Dawḩah",
+        "population": -1,
+        "latitude": 25.290588,
+        "longitude": 51.526739
+    },
+    {
+        "name": "Al Bid‘ al Gharbīyah",
+        "country": "Qatar",
+        "province": "Baladīyat ad Dawḩah",
+        "population": -1,
+        "latitude": 25.292617,
+        "longitude": 51.519714
+    },
+    {
+        "name": "Al Mirqāb",
+        "country": "Qatar",
+        "province": "Baladīyat ad Dawḩah",
+        "population": -1,
+        "latitude": 25.273377,
+        "longitude": 51.499981
+    },
+    {
+        "name": "Mushayrib",
+        "country": "Qatar",
+        "province": "Baladīyat ad Dawḩah",
+        "population": -1,
+        "latitude": 25.284603,
+        "longitude": 51.520504
+    },
+    {
+        "name": "Wādī as Sayl",
+        "country": "Qatar",
+        "province": "Baladīyat ad Dawḩah",
+        "population": -1,
+        "latitude": 25.308038,
+        "longitude": 51.505003
+    },
+    {
+        "name": "Abū Sudayrah",
+        "country": "Qatar",
+        "province": "Baladīyat ad Dawḩah",
+        "population": -1,
+        "latitude": 25.282523,
+        "longitude": 51.512383
+    },
+    {
+        "name": "As Sadd",
+        "country": "Qatar",
+        "province": "Baladīyat ad Dawḩah",
+        "population": -1,
+        "latitude": 25.286174,
+        "longitude": 51.500739
+    },
+    {
+        "name": "Al Jabr",
+        "country": "Qatar",
+        "province": "Baladīyat ad Dawḩah",
+        "population": -1,
+        "latitude": 25.270833,
+        "longitude": 51.505833
+    },
+    {
+        "name": "Abū Samrah",
+        "country": "Qatar",
+        "province": "Baladīyat ar Rayyān",
+        "population": 938,
+        "latitude": 24.7437,
+        "longitude": 50.831736
+    },
+    {
+        "name": "As Saylīyah",
+        "country": "Qatar",
+        "province": "Baladīyat ar Rayyān",
+        "population": -1,
+        "latitude": 25.213627,
+        "longitude": 51.373142
+    },
+    {
+        "name": "Umm Qurūn",
+        "country": "Qatar",
+        "province": "Baladīyat ar Rayyān",
+        "population": -1,
+        "latitude": 25.233576,
+        "longitude": 51.330426
+    },
+    {
+        "name": "Umm aḑ Ḑa‘ah Khawzān",
+        "country": "Qatar",
+        "province": "Al-Shahaniya",
+        "population": -1,
+        "latitude": 25.480314,
+        "longitude": 50.940519
+    },
+    {
+        "name": "Umm Qarn",
+        "country": "Qatar",
+        "province": "Al-Shahaniya",
+        "population": -1,
+        "latitude": 25.298992,
+        "longitude": 51.005355
+    },
+    {
+        "name": "Umm al Quhāb al Qadīmah",
+        "country": "Qatar",
+        "province": "Al-Shahaniya",
+        "population": -1,
+        "latitude": 25.500595,
+        "longitude": 50.979552
+    },
+    {
+        "name": "Al ‘Unayzah",
+        "country": "Qatar",
+        "province": "Baladīyat ad Dawḩah",
+        "population": -1,
+        "latitude": 25.337593,
+        "longitude": 51.509528
+    },
+    {
+        "name": "Rawḑat Shamīm",
+        "country": "Qatar",
+        "province": "Al-Shahaniya",
+        "population": -1,
+        "latitude": 25.226609,
+        "longitude": 51.17608
+    },
+    {
+        "name": "Umm Ghuwaylīnah",
+        "country": "Qatar",
+        "province": "Al-Shahaniya",
+        "population": -1,
+        "latitude": 25.587158,
+        "longitude": 51.149864
+    },
+    {
+        "name": "Umm al Quhāb",
+        "country": "Qatar",
+        "province": "Al Khor",
+        "population": -1,
+        "latitude": 25.766948,
+        "longitude": 51.471338
+    },
+    {
+        "name": "Umm al Quhāb",
+        "country": "Qatar",
+        "province": "Al-Shahaniya",
+        "population": -1,
+        "latitude": 25.374113,
+        "longitude": 51.293329
+    },
+    {
+        "name": "Umm al Qubūr",
+        "country": "Qatar",
+        "province": "Baladīyat Umm Şalāl",
+        "population": -1,
+        "latitude": 25.365296,
+        "longitude": 51.436908
+    },
+    {
+        "name": "Umm al ‘Amad",
+        "country": "Qatar",
+        "province": "Baladīyat Umm Şalāl",
+        "population": -1,
+        "latitude": 25.490653,
+        "longitude": 51.397701
+    },
+    {
+        "name": "Umm al Afā‘ī",
+        "country": "Qatar",
+        "province": "Baladīyat ar Rayyān",
+        "population": -1,
+        "latitude": 25.358789,
+        "longitude": 51.33357
+    },
+    {
+        "name": "Umm al Abāriq",
+        "country": "Qatar",
+        "province": "Baladīyat Umm Şalāl",
+        "population": -1,
+        "latitude": 25.477483,
+        "longitude": 51.360708
+    },
+    {
+        "name": "Ar Rumaylah",
+        "country": "Qatar",
+        "province": "Baladīyat ad Dawḩah",
+        "population": -1,
+        "latitude": 25.282731,
+        "longitude": 51.530436
+    },
+    {
+        "name": "Musaykah",
+        "country": "Qatar",
+        "province": "Madīnat ash Shamāl",
+        "population": -1,
+        "latitude": 25.959114,
+        "longitude": 51.097528
+    },
+    {
+        "name": "Lishā",
+        "country": "Qatar",
+        "province": "Madīnat ash Shamāl",
+        "population": -1,
+        "latitude": 25.957837,
+        "longitude": 51.071631
+    },
+    {
+        "name": "‘Ayn Sinān",
+        "country": "Qatar",
+        "province": "Madīnat ash Shamāl",
+        "population": -1,
+        "latitude": 26.008296,
+        "longitude": 51.3294
+    },
+    {
+        "name": "As Sulaymī al Gharbī",
+        "country": "Qatar",
+        "province": "Al Khor",
+        "population": -1,
+        "latitude": 25.868008,
+        "longitude": 51.20263
+    },
+    {
+        "name": "Al Jatlāwīyah",
+        "country": "Qatar",
+        "province": "Al Khor",
+        "population": -1,
+        "latitude": 25.905723,
+        "longitude": 51.202442
+    },
+    {
+        "name": "As Samrīyah",
+        "country": "Qatar",
+        "province": "Al-Shahaniya",
+        "population": -1,
+        "latitude": 25.364639,
+        "longitude": 51.280705
+    },
+    {
+        "name": "As Sulaymīyah",
+        "country": "Qatar",
+        "province": "Al-Shahaniya",
+        "population": -1,
+        "latitude": 25.353732,
+        "longitude": 50.960517
+    },
+    {
+        "name": "Ash Shaqrā’",
+        "country": "Qatar",
+        "province": "Al Wakrah",
+        "population": 43,
+        "latitude": 24.826714,
+        "longitude": 51.393399
+    },
+    {
+        "name": "Ash Shafallaḩīyah",
+        "country": "Qatar",
+        "province": "Al Khor",
+        "population": -1,
+        "latitude": 25.649231,
+        "longitude": 51.369532
+    },
+    {
+        "name": "Al Wabrah",
+        "country": "Qatar",
+        "province": "Al-Shahaniya",
+        "population": -1,
+        "latitude": 25.33905,
+        "longitude": 51.173332
+    },
+    {
+        "name": "Jaww al ‘Uwaynah",
+        "country": "Qatar",
+        "province": "Al-Shahaniya",
+        "population": -1,
+        "latitude": 25.446624,
+        "longitude": 50.958151
+    },
+    {
+        "name": "Al Mashrab",
+        "country": "Qatar",
+        "province": "Al Khor",
+        "population": -1,
+        "latitude": 25.894594,
+        "longitude": 51.386309
+    },
+    {
+        "name": "Al Kir‘ānah",
+        "country": "Qatar",
+        "province": "Baladīyat ar Rayyān",
+        "population": -1,
+        "latitude": 25.011084,
+        "longitude": 51.043244
+    },
+    {
+        "name": "Al Khīsah",
+        "country": "Qatar",
+        "province": "Madīnat ash Shamāl",
+        "population": -1,
+        "latitude": 25.924416,
+        "longitude": 51.339938
+    },
+    {
+        "name": "Al Khīsah",
+        "country": "Qatar",
+        "province": "Baladīyat az̧ Z̧a‘āyin",
+        "population": -1,
+        "latitude": 25.416441,
+        "longitude": 51.459045
+    },
+    {
+        "name": "Khidāj",
+        "country": "Qatar",
+        "province": "Madīnat ash Shamāl",
+        "population": -1,
+        "latitude": 26.080629,
+        "longitude": 51.111451
+    },
+    {
+        "name": "Al Khaţţīyah",
+        "country": "Qatar",
+        "province": "Al-Shahaniya",
+        "population": -1,
+        "latitude": 25.418673,
+        "longitude": 50.787577
+    },
+    {
+        "name": "Al Kharrārah",
+        "country": "Qatar",
+        "province": "Al Wakrah",
+        "population": 179,
+        "latitude": 24.903252,
+        "longitude": 51.175821
+    },
+    {
+        "name": "Al Judhay‘",
+        "country": "Qatar",
+        "province": "Madīnat ash Shamāl",
+        "population": -1,
+        "latitude": 25.951485,
+        "longitude": 51.34767
+    },
+    {
+        "name": "Al Buraythāt",
+        "country": "Qatar",
+        "province": "Al-Shahaniya",
+        "population": -1,
+        "latitude": 25.458943,
+        "longitude": 50.956777
+    },
+    {
+        "name": "Al Bidda",
+        "country": "Qatar",
+        "province": "Baladīyat ad Dawḩah",
+        "population": -1,
+        "latitude": 25.29139,
+        "longitude": 51.52362
+    },
+    {
+        "name": "‘Adhbah ash Shamālīyah",
+        "country": "Qatar",
+        "province": "Madīnat ash Shamāl",
+        "population": -1,
+        "latitude": 26.070981,
+        "longitude": 51.304533
+    },
+    {
+        "name": "As Sulaymī ‘Abd al ‘Azīz Bin Khalīfah",
+        "country": "Qatar",
+        "province": "Al Khor",
+        "population": -1,
+        "latitude": 25.847778,
+        "longitude": 51.205833
+    },
+    {
+        "name": "Ash Shafallaḩīyah",
+        "country": "Qatar",
+        "province": "Al Khor",
+        "population": -1,
+        "latitude": 25.760317,
+        "longitude": 51.39133
+    },
+    {
+        "name": "As Sāmirīyah",
+        "country": "Qatar",
+        "province": "Al-Shahaniya",
+        "population": -1,
+        "latitude": 25.491313,
+        "longitude": 51.222385
+    },
+    {
+        "name": "Abū Şuwayy",
+        "country": "Qatar",
+        "province": "Al-Shahaniya",
+        "population": -1,
+        "latitude": 25.696995,
+        "longitude": 51.259753
+    },
+    {
+        "name": "Al ‘Uqdah",
+        "country": "Qatar",
+        "province": "Al Khor",
+        "population": -1,
+        "latitude": 25.685449,
+        "longitude": 51.467107
+    },
+    {
+        "name": "Al Ghāf",
+        "country": "Qatar",
+        "province": "Baladīyat az̧ Z̧a‘āyin",
+        "population": -1,
+        "latitude": 25.627306,
+        "longitude": 51.455081
+    },
+    {
+        "name": "An Naşrānīyah",
+        "country": "Qatar",
+        "province": "Al-Shahaniya",
+        "population": -1,
+        "latitude": 25.407002,
+        "longitude": 51.07694
+    },
+    {
+        "name": "Mukaynis",
+        "country": "Qatar",
+        "province": "Baladīyat ar Rayyān",
+        "population": -1,
+        "latitude": 25.122428,
+        "longitude": 51.217749
+    },
+    {
+        "name": "Al Wa‘b",
+        "country": "Qatar",
+        "province": "Madīnat ash Shamāl",
+        "population": -1,
+        "latitude": 26.11561,
+        "longitude": 51.226026
+    },
+    {
+        "name": "Umm Şabbāḩ",
+        "country": "Qatar",
+        "province": "Madīnat ash Shamāl",
+        "population": -1,
+        "latitude": 26.110943,
+        "longitude": 51.189662
+    },
+    {
+        "name": "Sidrīyat Makīn",
+        "country": "Qatar",
+        "province": "Madīnat ash Shamāl",
+        "population": -1,
+        "latitude": 26.0336111,
+        "longitude": 51.1638889
+    },
+    {
+        "name": "Umm al Qubūr",
+        "country": "Qatar",
+        "province": "Madīnat ash Shamāl",
+        "population": -1,
+        "latitude": 26.008397,
+        "longitude": 51.087694
+    },
+    {
+        "name": "Zar‘ al ‘Atīyah",
+        "country": "Qatar",
+        "province": "Baladīyat ar Rayyān",
+        "population": -1,
+        "latitude": 25.32565,
+        "longitude": 51.349055
+    },
+    {
+        "name": "Wādī Jallāl",
+        "country": "Qatar",
+        "province": "Al Wakrah",
+        "population": -1,
+        "latitude": 25.030603,
+        "longitude": 51.276115
+    },
+    {
+        "name": "Abū Kharāb",
+        "country": "Qatar",
+        "province": "Al Khor",
+        "population": -1,
+        "latitude": 25.709796,
+        "longitude": 51.589705
+    },
+    {
+        "name": "Umm Qayn",
+        "country": "Qatar",
+        "province": "Al Khor",
+        "population": -1,
+        "latitude": 25.712912,
+        "longitude": 51.498866
+    },
+    {
+        "name": "Umm aş Şuwab",
+        "country": "Qatar",
+        "province": "Baladīyat ar Rayyān",
+        "population": -1,
+        "latitude": 25.068637,
+        "longitude": 51.078168
+    },
+    {
+        "name": "Umm ash Shubrum",
+        "country": "Qatar",
+        "province": "Al-Shahaniya",
+        "population": -1,
+        "latitude": 25.163862,
+        "longitude": 51.221316
+    },
+    {
+        "name": "Umm al ‘Iz̧ām",
+        "country": "Qatar",
+        "province": "Al-Shahaniya",
+        "population": -1,
+        "latitude": 25.312706,
+        "longitude": 51.004505
+    },
+    {
+        "name": "Nabāt al Uşayl",
+        "country": "Qatar",
+        "province": "Al Wakrah",
+        "population": -1,
+        "latitude": 25.109663,
+        "longitude": 51.533904
+    },
+    {
+        "name": "Muraykh",
+        "country": "Qatar",
+        "province": "Baladīyat ar Rayyān",
+        "population": -1,
+        "latitude": 25.28553,
+        "longitude": 51.441433
+    },
+    {
+        "name": "Ḩalwān",
+        "country": "Qatar",
+        "province": "Madīnat ash Shamāl",
+        "population": -1,
+        "latitude": 25.948843,
+        "longitude": 51.060512
+    },
+    {
+        "name": "Fuḩayḩīl",
+        "country": "Qatar",
+        "province": "Madīnat ash Shamāl",
+        "population": -1,
+        "latitude": 25.908944,
+        "longitude": 50.995874
+    },
+    {
+        "name": "Bi’r al Ḩusayn",
+        "country": "Qatar",
+        "province": "Al-Shahaniya",
+        "population": -1,
+        "latitude": 25.56974,
+        "longitude": 50.950904
+    },
+    {
+        "name": "As Sulaymī Suḩaym Bin Ḩamad",
+        "country": "Qatar",
+        "province": "Al Khor",
+        "population": -1,
+        "latitude": 25.881124,
+        "longitude": 51.179176
+    },
+    {
+        "name": "Abū Sidrah",
+        "country": "Qatar",
+        "province": "Baladīyat ar Rayyān",
+        "population": -1,
+        "latitude": 25.234885,
+        "longitude": 51.421643
+    },
+    {
+        "name": "An Nuqay‘ah",
+        "country": "Qatar",
+        "province": "Al-Shahaniya",
+        "population": -1,
+        "latitude": 25.751944,
+        "longitude": 50.920833
+    },
+    {
+        "name": "Al Muraydah",
+        "country": "Qatar",
+        "province": "Madīnat ash Shamāl",
+        "population": -1,
+        "latitude": 25.939509,
+        "longitude": 51.309568
+    },
+    {
+        "name": "Al Jubayl",
+        "country": "Qatar",
+        "province": "Al Khor",
+        "population": -1,
+        "latitude": 25.701332,
+        "longitude": 51.585412
+    },
+    {
+        "name": "Al Gharrāfah al Jadīdah",
+        "country": "Qatar",
+        "province": "Baladīyat ar Rayyān",
+        "population": -1,
+        "latitude": 25.335209,
+        "longitude": 51.422047
+    },
+    {
+        "name": "Al Buşayyir",
+        "country": "Qatar",
+        "province": "Al-Shahaniya",
+        "population": -1,
+        "latitude": 25.716509,
+        "longitude": 51.055972
+    },
+    {
+        "name": "Abū Hāmūr",
+        "country": "Qatar",
+        "province": "Baladīyat ar Rayyān",
+        "population": -1,
+        "latitude": 25.242747,
+        "longitude": 51.495988
+    },
+    {
+        "name": "As Sahlah ash Shamālīyah",
+        "country": "Qatar",
+        "province": "Al-Shahaniya",
+        "population": -1,
+        "latitude": 25.177781,
+        "longitude": 51.162036
+    },
+    {
+        "name": "Ash Shabhānah",
+        "country": "Qatar",
+        "province": "Al-Shahaniya",
+        "population": -1,
+        "latitude": 25.212639,
+        "longitude": 50.936866
+    },
+    {
+        "name": "Umm al Maqārīn",
+        "country": "Qatar",
+        "province": "Al-Shahaniya",
+        "population": -1,
+        "latitude": 25.170208,
+        "longitude": 51.18551
+    },
+    {
+        "name": "Umm Ghuwaylīnah",
+        "country": "Qatar",
+        "province": "Al-Shahaniya",
+        "population": -1,
+        "latitude": 25.148691,
+        "longitude": 51.208163
+    },
+    {
+        "name": "Wādī al Jamāl ash Shamālī",
+        "country": "Qatar",
+        "province": "Al-Shahaniya",
+        "population": -1,
+        "latitude": 25.190604,
+        "longitude": 51.108684
+    },
+    {
+        "name": "Umm Ḩawţah",
+        "country": "Qatar",
+        "province": "Baladīyat ar Rayyān",
+        "population": -1,
+        "latitude": 24.890114,
+        "longitude": 51.066982
+    },
+    {
+        "name": "Al ‘Āmirīyah",
+        "country": "Qatar",
+        "province": "Baladīyat ar Rayyān",
+        "population": -1,
+        "latitude": 24.821632,
+        "longitude": 51.076727
+    },
+    {
+        "name": "Al Wusayl",
+        "country": "Qatar",
+        "province": "Baladīyat ar Rayyān",
+        "population": -1,
+        "latitude": 24.972215,
+        "longitude": 50.986229
+    },
+    {
+        "name": "Umm Qarn",
+        "country": "Qatar",
+        "province": "Baladīyat ar Rayyān",
+        "population": -1,
+        "latitude": 25.092966,
+        "longitude": 51.133213
+    },
+    {
+        "name": "Jarayān al Baţnah",
+        "country": "Qatar",
+        "province": "Baladīyat ar Rayyān",
+        "population": -1,
+        "latitude": 25.1078,
+        "longitude": 51.152978
+    },
+    {
+        "name": "Jumaylīyat ash Shahwān",
+        "country": "Qatar",
+        "province": "Al-Shahaniya",
+        "population": -1,
+        "latitude": 25.62016,
+        "longitude": 51.082704
+    },
+    {
+        "name": "Jumaylīyat an Na‘īm",
+        "country": "Qatar",
+        "province": "Al-Shahaniya",
+        "population": -1,
+        "latitude": 25.634132,
+        "longitude": 51.080778
+    },
+    {
+        "name": "Al Marrūnah",
+        "country": "Qatar",
+        "province": "Madīnat ash Shamāl",
+        "population": -1,
+        "latitude": 25.994826,
+        "longitude": 51.398924
+    },
+    {
+        "name": "Ar Ruḩayyah",
+        "country": "Qatar",
+        "province": "Baladīyat az̧ Z̧a‘āyin",
+        "population": -1,
+        "latitude": 25.640632,
+        "longitude": 51.463133
+    },
+    {
+        "name": "Al Masākir ‘Uraydah",
+        "country": "Qatar",
+        "province": "Al Khor",
+        "population": -1,
+        "latitude": 25.732207,
+        "longitude": 51.588586
+    },
+    {
+        "name": "Umm ‘Anīq",
+        "country": "Qatar",
+        "province": "Al Khor",
+        "population": -1,
+        "latitude": 25.713897,
+        "longitude": 51.531575
+    },
+    {
+        "name": "Al Julay‘ah",
+        "country": "Qatar",
+        "province": "Baladīyat ad Dawḩah",
+        "population": -1,
+        "latitude": 25.35261,
+        "longitude": 51.474854
+    },
+    {
+        "name": "Al Ḩammāmah",
+        "country": "Qatar",
+        "province": "Baladīyat az̧ Z̧a‘āyin",
+        "population": -1,
+        "latitude": 25.446228,
+        "longitude": 51.473285
+    },
+    {
+        "name": "Burj Barzān",
+        "country": "Qatar",
+        "province": "Baladīyat Umm Şalāl",
+        "population": -1,
+        "latitude": 25.524686,
+        "longitude": 51.303651
+    },
+    {
+        "name": "Thu‘aylib",
+        "country": "Qatar",
+        "province": "Baladīyat Umm Şalāl",
+        "population": -1,
+        "latitude": 25.418401,
+        "longitude": 51.413696
+    },
+    {
+        "name": "Jarī Ibn ‘Abd al Wahhāb",
+        "country": "Qatar",
+        "province": "Baladīyat Umm Şalāl",
+        "population": -1,
+        "latitude": 25.438002,
+        "longitude": 51.269768
+    },
+    {
+        "name": "Şin‘ al Ḩumaydī",
+        "country": "Qatar",
+        "province": "Baladīyat ar Rayyān",
+        "population": -1,
+        "latitude": 25.369696,
+        "longitude": 51.336885
+    },
+    {
+        "name": "Abū Nakhlah",
+        "country": "Qatar",
+        "province": "Al-Shahaniya",
+        "population": -1,
+        "latitude": 25.173862,
+        "longitude": 51.317335
+    },
+    {
+        "name": "Al Bāhiyah",
+        "country": "Qatar",
+        "province": "Al Wakrah",
+        "population": -1,
+        "latitude": 25.128291,
+        "longitude": 51.418585
+    },
+    {
+        "name": "Al Mashāf",
+        "country": "Qatar",
+        "province": "Al Wakrah",
+        "population": -1,
+        "latitude": 25.175279,
+        "longitude": 51.569017
+    },
+    {
+        "name": "Umm az Zubār al Qiblīyah",
+        "country": "Qatar",
+        "province": "Al-Shahaniya",
+        "population": -1,
+        "latitude": 25.176441,
+        "longitude": 51.252019
+    },
+    {
+        "name": "‘Ayn ar Rukhayşah",
+        "country": "Qatar",
+        "province": "Al-Shahaniya",
+        "population": -1,
+        "latitude": 25.330974,
+        "longitude": 51.249232
+    },
+    {
+        "name": "Gharāfat ar Rayyān",
+        "country": "Qatar",
+        "province": "Al-Shahaniya",
+        "population": -1,
+        "latitude": 25.238354,
+        "longitude": 51.246167
+    },
+    {
+        "name": "Laqţah",
+        "country": "Qatar",
+        "province": "Al-Shahaniya",
+        "population": -1,
+        "latitude": 25.341299,
+        "longitude": 51.309901
+    },
+    {
+        "name": "Umm Jāsim",
+        "country": "Qatar",
+        "province": "Madīnat ash Shamāl",
+        "population": -1,
+        "latitude": 26.066929,
+        "longitude": 51.153122
+    },
+    {
+        "name": "Fuwayriţ al Qadīm",
+        "country": "Qatar",
+        "province": "Madīnat ash Shamāl",
+        "population": -1,
+        "latitude": 26.034473,
+        "longitude": 51.367173
+    },
+    {
+        "name": "Al ‘Uţūrīyah",
+        "country": "Qatar",
+        "province": "Al-Shahaniya",
+        "population": -1,
+        "latitude": 25.512945,
+        "longitude": 51.211377
+    },
+    {
+        "name": "Mu‘aydhar al Wakīr",
+        "country": "Qatar",
+        "province": "Al Wakrah",
+        "population": -1,
+        "latitude": 25.125099,
+        "longitude": 51.542238
+    },
+    {
+        "name": "Abā an Najm",
+        "country": "Qatar",
+        "province": "Baladīyat Umm Şalāl",
+        "population": -1,
+        "latitude": 25.534043,
+        "longitude": 51.369924
+    },
+    {
+        "name": "Jarī Khabāb",
+        "country": "Qatar",
+        "province": "Baladīyat Umm Şalāl",
+        "population": -1,
+        "latitude": 25.506189,
+        "longitude": 51.383646
+    },
+    {
+        "name": "Abū Qarn",
+        "country": "Qatar",
+        "province": "Baladīyat Umm Şalāl",
+        "population": -1,
+        "latitude": 25.43079,
+        "longitude": 51.345976
+    },
+    {
+        "name": "Umm Aqdīr",
+        "country": "Qatar",
+        "province": "Al-Shahaniya",
+        "population": -1,
+        "latitude": 25.325698,
+        "longitude": 51.278008
+    },
+    {
+        "name": "Jarī az̧ Z̧abī",
+        "country": "Qatar",
+        "province": "Baladīyat ar Rayyān",
+        "population": -1,
+        "latitude": 25.347508,
+        "longitude": 51.346417
+    },
+    {
+        "name": "Jarīyān as Sahm",
+        "country": "Qatar",
+        "province": "Baladīyat ar Rayyān",
+        "population": -1,
+        "latitude": 25.368495,
+        "longitude": 51.354503
+    },
+    {
+        "name": "Ath Thamīd",
+        "country": "Qatar",
+        "province": "Baladīyat ar Rayyān",
+        "population": -1,
+        "latitude": 25.356582,
+        "longitude": 51.379201
+    },
+    {
+        "name": "Mu‘aydhir al Mashāf",
+        "country": "Qatar",
+        "province": "Al-Shahaniya",
+        "population": -1,
+        "latitude": 25.418037,
+        "longitude": 51.263991
+    },
+    {
+        "name": "Mu‘aydhir ad Dasm",
+        "country": "Qatar",
+        "province": "Al-Shahaniya",
+        "population": -1,
+        "latitude": 25.391616,
+        "longitude": 51.268361
+    },
+    {
+        "name": "Abū Aqlīlah",
+        "country": "Qatar",
+        "province": "Baladīyat Umm Şalāl",
+        "population": -1,
+        "latitude": 25.456173,
+        "longitude": 51.275556
+    },
+    {
+        "name": "Umm Asharīn",
+        "country": "Qatar",
+        "province": "Baladīyat Umm Şalāl",
+        "population": -1,
+        "latitude": 25.397405,
+        "longitude": 51.343861
+    },
+    {
+        "name": "Umm Qarīn",
+        "country": "Qatar",
+        "province": "Al Khor",
+        "population": -1,
+        "latitude": 25.609246,
+        "longitude": 51.390323
+    },
+    {
+        "name": "Al Gharrāfah",
+        "country": "Qatar",
+        "province": "Baladīyat ar Rayyān",
+        "population": -1,
+        "latitude": 25.331297,
+        "longitude": 51.444038
+    },
+    {
+        "name": "Al Muntazah",
+        "country": "Qatar",
+        "province": "Baladīyat ad Dawḩah",
+        "population": -1,
+        "latitude": 25.270734,
+        "longitude": 51.519694
+    },
+    {
+        "name": "Al Manşūrah",
+        "country": "Qatar",
+        "province": "Baladīyat ad Dawḩah",
+        "population": -1,
+        "latitude": 25.268071,
+        "longitude": 51.532186
+    },
+    {
+        "name": "Umm Ghuwaylīnah",
+        "country": "Qatar",
+        "province": "Baladīyat ad Dawḩah",
+        "population": -1,
+        "latitude": 25.276362,
+        "longitude": 51.548051
+    },
+    {
+        "name": "Al Wa‘b",
+        "country": "Qatar",
+        "province": "Baladīyat ar Rayyān",
+        "population": -1,
+        "latitude": 25.266803,
+        "longitude": 51.486498
+    },
+    {
+        "name": "Madīnat Khalīfah",
+        "country": "Qatar",
+        "province": "Baladīyat ad Dawḩah",
+        "population": -1,
+        "latitude": 25.320471,
+        "longitude": 51.477874
+    },
+    {
+        "name": "Farīq al Ghānim al Jadīd",
+        "country": "Qatar",
+        "province": "Baladīyat ar Rayyān",
+        "population": -1,
+        "latitude": 25.246404,
+        "longitude": 51.446222
+    },
+    {
+        "name": "‘Ayn Khālid",
+        "country": "Qatar",
+        "province": "Baladīyat ar Rayyān",
+        "population": -1,
+        "latitude": 25.217532,
+        "longitude": 51.456516
+    },
+    {
+        "name": "Qaryat al Muhannā",
+        "country": "Qatar",
+        "province": "Al-Shahaniya",
+        "population": -1,
+        "latitude": 25.182771,
+        "longitude": 50.804833
+    },
+    {
+        "name": "Şafyā",
+        "country": "Qatar",
+        "province": "Madīnat ash Shamāl",
+        "population": -1,
+        "latitude": 26.024112,
+        "longitude": 51.371465
+    },
+    {
+        "name": "Ad Duḩayl",
+        "country": "Qatar",
+        "province": "Baladīyat ad Dawḩah",
+        "population": -1,
+        "latitude": 25.354177,
+        "longitude": 51.45712
+    },
+    {
+        "name": "Abū Naghl",
+        "country": "Qatar",
+        "province": "Baladīyat ad Dawḩah",
+        "population": -1,
+        "latitude": 25.273027,
+        "longitude": 51.537474
+    },
+    {
+        "name": "Umm Lakhbā",
+        "country": "Qatar",
+        "province": "Baladīyat ad Dawḩah",
+        "population": -1,
+        "latitude": 25.341571,
+        "longitude": 51.470603
+    },
+    {
+        "name": "Ba‘jī",
+        "country": "Qatar",
+        "province": "Baladīyat ar Rayyān",
+        "population": -1,
+        "latitude": 25.275053,
+        "longitude": 51.43908
+    },
+    {
+        "name": "Bakrah wa Qu‘ūd",
+        "country": "Qatar",
+        "province": "Baladīyat ad Dawḩah",
+        "population": -1,
+        "latitude": 25.286685,
+        "longitude": 51.565007
+    },
+    {
+        "name": "Farīq al Mirqāb",
+        "country": "Qatar",
+        "province": "Baladīyat ad Dawḩah",
+        "population": -1,
+        "latitude": 25.289109,
+        "longitude": 51.542092
+    },
+    {
+        "name": "Farīq al Mawālik",
+        "country": "Qatar",
+        "province": "Baladīyat ad Dawḩah",
+        "population": -1,
+        "latitude": 25.284755,
+        "longitude": 51.542282
+    },
+    {
+        "name": "Farīq an Naşr",
+        "country": "Qatar",
+        "province": "Baladīyat ad Dawḩah",
+        "population": -1,
+        "latitude": 25.284938,
+        "longitude": 51.548103
+    },
+    {
+        "name": "Farīq an Nu‘ayjah",
+        "country": "Qatar",
+        "province": "Baladīyat ad Dawḩah",
+        "population": -1,
+        "latitude": 25.288727,
+        "longitude": 51.545412
+    },
+    {
+        "name": "Farīq al Hitmī",
+        "country": "Qatar",
+        "province": "Baladīyat ad Dawḩah",
+        "population": -1,
+        "latitude": 25.286315,
+        "longitude": 51.532611
+    },
+    {
+        "name": "Kulayb",
+        "country": "Qatar",
+        "province": "Baladīyat ad Dawḩah",
+        "population": -1,
+        "latitude": 25.267982,
+        "longitude": 51.555668
+    },
+    {
+        "name": "Madīnat Khalīfah al Janūbīyah",
+        "country": "Qatar",
+        "province": "Baladīyat ar Rayyān",
+        "population": -1,
+        "latitude": 25.275342,
+        "longitude": 51.481071
+    },
+    {
+        "name": "Al ‘Afjah - Musay‘īd",
+        "country": "Qatar",
+        "province": "Al Wakrah",
+        "population": -1,
+        "latitude": 25.002982,
+        "longitude": 51.521375
+    },
+    {
+        "name": "Al Khurayjah",
+        "country": "Qatar",
+        "province": "Madīnat ash Shamāl",
+        "population": -1,
+        "latitude": 26.060004,
+        "longitude": 51.343248
+    },
+    {
+        "name": "Al Yūsufīyah",
+        "country": "Qatar",
+        "province": "Madīnat ash Shamāl",
+        "population": -1,
+        "latitude": 26.112273,
+        "longitude": 51.159185
+    },
+    {
+        "name": "At Tuwaym al Janūbī",
+        "country": "Qatar",
+        "province": "Madīnat ash Shamāl",
+        "population": -1,
+        "latitude": 26.046013,
+        "longitude": 51.25076
+    },
+    {
+        "name": "Ar Ruwayḑah",
+        "country": "Qatar",
+        "province": "Madīnat ash Shamāl",
+        "population": -1,
+        "latitude": 26.072818,
+        "longitude": 51.139476
+    },
+    {
+        "name": "Al Maţār al ‘Atīq",
+        "country": "Qatar",
+        "province": "Baladīyat ad Dawḩah",
+        "population": -1,
+        "latitude": 25.251378,
+        "longitude": 51.55569
+    },
+    {
+        "name": "Ath Thumāmah Sab‘ah wa Arba‘ūn",
+        "country": "Qatar",
+        "province": "Baladīyat ad Dawḩah",
+        "population": -1,
+        "latitude": 25.239027,
+        "longitude": 51.563326
+    },
+    {
+        "name": "Ath Thumāmah Sittah wa Arba‘ūn",
+        "country": "Qatar",
+        "province": "Baladīyat ad Dawḩah",
+        "population": -1,
+        "latitude": 25.234039,
+        "longitude": 51.540533
+    },
+    {
+        "name": "Ath Thumāmah Khamsūn",
+        "country": "Qatar",
+        "province": "Baladīyat ad Dawḩah",
+        "population": -1,
+        "latitude": 25.219578,
+        "longitude": 51.553227
+    },
+    {
+        "name": "Umm Bashar",
+        "country": "Qatar",
+        "province": "Al Wakrah",
+        "population": -1,
+        "latitude": 25.19644,
+        "longitude": 51.568677
+    },
+    {
+        "name": "Al Wukayr",
+        "country": "Qatar",
+        "province": "Al Wakrah",
+        "population": -1,
+        "latitude": 25.173487,
+        "longitude": 51.545724
+    },
+    {
+        "name": "Al Ma‘mūrah Sittah wa Khamsūn",
+        "country": "Qatar",
+        "province": "Baladīyat ar Rayyān",
+        "population": -1,
+        "latitude": 25.241469,
+        "longitude": 51.508642
+    },
+    {
+        "name": "Nu‘ayjah Thalāthah wa Arba‘ūn",
+        "country": "Qatar",
+        "province": "Baladīyat ad Dawḩah",
+        "population": -1,
+        "latitude": 25.250443,
+        "longitude": 51.51949
+    },
+    {
+        "name": "Mu‘aydhir Khamsah wa Khamsūn",
+        "country": "Qatar",
+        "province": "Baladīyat ar Rayyān",
+        "population": -1,
+        "latitude": 25.250404,
+        "longitude": 51.4083
+    },
+    {
+        "name": "Muḩayrjah",
+        "country": "Qatar",
+        "province": "Baladīyat ar Rayyān",
+        "population": -1,
+        "latitude": 25.270836,
+        "longitude": 51.460486
+    },
+    {
+        "name": "Luw‘ayb",
+        "country": "Qatar",
+        "province": "Baladīyat ar Rayyān",
+        "population": -1,
+        "latitude": 25.280838,
+        "longitude": 51.45834
+    },
+    {
+        "name": "Farīj al Amīr",
+        "country": "Qatar",
+        "province": "Baladīyat ar Rayyān",
+        "population": -1,
+        "latitude": 25.287334,
+        "longitude": 51.471355
+    },
+    {
+        "name": "Al Maşlabah",
+        "country": "Qatar",
+        "province": "Baladīyat Umm Şalāl",
+        "population": -1,
+        "latitude": 25.480496,
+        "longitude": 51.318062
+    },
+    {
+        "name": "Al ‘Ab",
+        "country": "Qatar",
+        "province": "Baladīyat az̧ Z̧a‘āyin",
+        "population": -1,
+        "latitude": 25.39395,
+        "longitude": 51.447229
+    },
+    {
+        "name": "La‘bīb",
+        "country": "Qatar",
+        "province": "Baladīyat az̧ Z̧a‘āyin",
+        "population": -1,
+        "latitude": 25.375347,
+        "longitude": 51.457361
+    },
+    {
+        "name": "Wādī al Banāt",
+        "country": "Qatar",
+        "province": "Baladīyat az̧ Z̧a‘āyin",
+        "population": -1,
+        "latitude": 25.399533,
+        "longitude": 51.476975
+    },
+    {
+        "name": "Aţ Ţarfah",
+        "country": "Qatar",
+        "province": "Baladīyat ad Dawḩah",
+        "population": -1,
+        "latitude": 25.373354,
+        "longitude": 51.489917
+    },
+    {
+        "name": "Farīj Kulayb",
+        "country": "Qatar",
+        "province": "Baladīyat ad Dawḩah",
+        "population": -1,
+        "latitude": 25.313134,
+        "longitude": 51.4929
+    },
+    {
+        "name": "Al Luqţah",
+        "country": "Qatar",
+        "province": "Baladīyat ar Rayyān",
+        "population": -1,
+        "latitude": 25.315392,
+        "longitude": 51.463716
+    },
+    {
+        "name": "Ash Shaqab",
+        "country": "Qatar",
+        "province": "Baladīyat ar Rayyān",
+        "population": -1,
+        "latitude": 25.310446,
+        "longitude": 51.437749
+    },
+    {
+        "name": "Rawḑah Aqdīm",
+        "country": "Qatar",
+        "province": "Baladīyat ar Rayyān",
+        "population": -1,
+        "latitude": 25.335408,
+        "longitude": 51.395045
+    },
+    {
+        "name": "Banī Hājar",
+        "country": "Qatar",
+        "province": "Baladīyat ar Rayyān",
+        "population": -1,
+        "latitude": 25.314976,
+        "longitude": 51.403512
+    },
+    {
+        "name": "Jarī as Samar",
+        "country": "Qatar",
+        "province": "Baladīyat Umm Şalāl",
+        "population": -1,
+        "latitude": 25.414668,
+        "longitude": 51.348953
+    },
+    {
+        "name": "Wādī al Mazrū‘ah",
+        "country": "Qatar",
+        "province": "Baladīyat Umm Şalāl",
+        "population": -1,
+        "latitude": 25.405079,
+        "longitude": 51.378962
+    },
+    {
+        "name": "Abū Fusaylah",
+        "country": "Qatar",
+        "province": "Baladīyat Umm Şalāl",
+        "population": -1,
+        "latitude": 25.434607,
+        "longitude": 51.40656
+    },
+    {
+        "name": "Azghawī Wāḩad wa Saba‘īn",
+        "country": "Qatar",
+        "province": "Baladīyat Umm Şalāl",
+        "population": -1,
+        "latitude": 25.354486,
+        "longitude": 51.417312
+    },
+    {
+        "name": "Azghawī Wāḩad wa Khamsīn",
+        "country": "Qatar",
+        "province": "Baladīyat ar Rayyān",
+        "population": -1,
+        "latitude": 25.356808,
+        "longitude": 51.428749
+    },
+    {
+        "name": "Wādī al Was‘ah",
+        "country": "Qatar",
+        "province": "Baladīyat az̧ Z̧a‘āyin",
+        "population": -1,
+        "latitude": 25.44569,
+        "longitude": 51.4263
+    },
+    {
+        "name": "Rawḑah al Ḩamāmah",
+        "country": "Qatar",
+        "province": "Baladīyat az̧ Z̧a‘āyin",
+        "population": -1,
+        "latitude": 25.440791,
+        "longitude": 51.457576
+    },
+    {
+        "name": "Rawḑah al Juhānīyah",
+        "country": "Qatar",
+        "province": "Baladīyat ar Rayyān",
+        "population": -1,
+        "latitude": 25.340685,
+        "longitude": 51.356366
+    },
+    {
+        "name": "As Sīj",
+        "country": "Qatar",
+        "province": "Baladīyat ar Rayyān",
+        "population": -1,
+        "latitude": 25.320741,
+        "longitude": 51.376565
+    },
+    {
+        "name": "Sharīyah",
+        "country": "Qatar",
+        "province": "Baladīyat ar Rayyān",
+        "population": -1,
+        "latitude": 25.377404,
+        "longitude": 51.331711
+    },
+    {
+        "name": "Jaryān al Junayḩāt",
+        "country": "Qatar",
+        "province": "Baladīyat az̧ Z̧a‘āyin",
+        "population": -1,
+        "latitude": 25.430367,
+        "longitude": 51.428364
+    }
+]

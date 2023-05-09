@@ -1,0 +1,2882 @@
+[
+    {
+        "name": "Vaduz",
+        "country": "Liechtenstein",
+        "province": "Vaduz",
+        "population": 5197,
+        "latitude": 47.141511485405275,
+        "longitude": 9.521541595458984
+    },
+    {
+        "name": "Triesen",
+        "country": "Liechtenstein",
+        "province": "Triesen",
+        "population": 4701,
+        "latitude": 47.10752278534248,
+        "longitude": 9.52815055847168
+    },
+    {
+        "name": "Schaan",
+        "country": "Liechtenstein",
+        "province": "Schaan",
+        "population": 5748,
+        "latitude": 47.16497553655583,
+        "longitude": 9.5086669921875
+    },
+    {
+        "name": "Triesenberg",
+        "country": "Liechtenstein",
+        "province": "Triesenberg",
+        "population": 2689,
+        "latitude": 47.11815388776896,
+        "longitude": 9.541969299316406
+    },
+    {
+        "name": "Mauren",
+        "country": "Liechtenstein",
+        "province": "Mauren",
+        "population": 3626,
+        "latitude": 47.21805241016608,
+        "longitude": 9.544200897216797
+    },
+    {
+        "name": "Eschen",
+        "country": "Liechtenstein",
+        "province": "Eschen",
+        "population": 4008,
+        "latitude": 47.210706470580504,
+        "longitude": 9.522228240966797
+    },
+    {
+        "name": "Balzers",
+        "country": "Liechtenstein",
+        "province": "Balzers",
+        "population": 4447,
+        "latitude": 47.06665,
+        "longitude": 9.50251
+    },
+    {
+        "name": "Schellenberg",
+        "country": "Liechtenstein",
+        "province": "Schellenberg",
+        "population": 1004,
+        "latitude": 47.23122591107286,
+        "longitude": 9.546775817871094
+    },
+    {
+        "name": "Ruggell",
+        "country": "Liechtenstein",
+        "province": "Ruggell",
+        "population": 1862,
+        "latitude": 47.23798625964118,
+        "longitude": 9.52540397644043
+    },
+    {
+        "name": "Gamprin",
+        "country": "Liechtenstein",
+        "province": "Gamprin",
+        "population": 1268,
+        "latitude": 47.22038424167995,
+        "longitude": 9.509353637695312
+    },
+    {
+        "name": "Planken",
+        "country": "Liechtenstein",
+        "province": "Planken",
+        "population": 377,
+        "latitude": 47.185162668211504,
+        "longitude": 9.54437255859375
+    },
+    {
+        "name": "Schaanwald",
+        "country": "Liechtenstein",
+        "province": "Mauren",
+        "population": -1,
+        "latitude": 47.21187256067931,
+        "longitude": 9.562397003173828
+    },
+    {
+        "name": "Nendeln",
+        "country": "Liechtenstein",
+        "province": "Eschen",
+        "population": -1,
+        "latitude": 47.19846097658329,
+        "longitude": 9.542999267578125
+    },
+    {
+        "name": "Mäls",
+        "country": "Liechtenstein",
+        "province": "Balzers",
+        "population": -1,
+        "latitude": 47.06105,
+        "longitude": 9.49568
+    },
+    {
+        "name": "Wangerberg",
+        "country": "Liechtenstein",
+        "province": "Triesenberg",
+        "population": -1,
+        "latitude": 47.10588704262785,
+        "longitude": 9.54463005065918
+    },
+    {
+        "name": "Rotenboden",
+        "country": "Liechtenstein",
+        "province": "Triesenberg",
+        "population": -1,
+        "latitude": 47.12971718068695,
+        "longitude": 9.538021087646484
+    },
+    {
+        "name": "Silum",
+        "country": "Liechtenstein",
+        "province": "Triesenberg",
+        "population": -1,
+        "latitude": 47.13183,
+        "longitude": 9.55377
+    },
+    {
+        "name": "Masescha",
+        "country": "Liechtenstein",
+        "province": "Triesenberg",
+        "population": -1,
+        "latitude": 47.13271,
+        "longitude": 9.54454
+    },
+    {
+        "name": "Möliholz",
+        "country": "Liechtenstein",
+        "province": "Vaduz",
+        "population": -1,
+        "latitude": 47.155691,
+        "longitude": 9.511111
+    },
+    {
+        "name": "Bendern",
+        "country": "Liechtenstein",
+        "province": "Gamprin",
+        "population": -1,
+        "latitude": 47.21198916827907,
+        "longitude": 9.506778717041016
+    },
+    {
+        "name": "Malbun",
+        "country": "Liechtenstein",
+        "province": "Triesenberg",
+        "population": 50,
+        "latitude": 47.10138849097794,
+        "longitude": 9.609861373901367
+    },
+    {
+        "name": "Steg",
+        "country": "Liechtenstein",
+        "province": "Triesenberg",
+        "population": 50,
+        "latitude": 47.112663363777635,
+        "longitude": 9.575357437133789
+    },
+    {
+        "name": "Ebaholz",
+        "country": "Liechtenstein",
+        "province": "Vaduz",
+        "population": -1,
+        "latitude": 47.1488,
+        "longitude": 9.51287
+    },
+    {
+        "name": "Hinterschellenberg",
+        "country": "Liechtenstein",
+        "province": "Schellenberg",
+        "population": -1,
+        "latitude": 47.241016480767314,
+        "longitude": 9.558792114257812
+    },
+    {
+        "name": "Valüna",
+        "country": "Liechtenstein",
+        "province": "Triesen",
+        "population": -1,
+        "latitude": 47.084885,
+        "longitude": 9.588087
+    },
+    {
+        "name": "Vorderer Schellenberg",
+        "country": "Liechtenstein",
+        "province": "Schellenberg",
+        "population": -1,
+        "latitude": 47.22802,
+        "longitude": 9.53902
+    },
+    {
+        "name": "Mittlerer Schellenberg",
+        "country": "Liechtenstein",
+        "province": "Schellenberg",
+        "population": -1,
+        "latitude": 47.23148,
+        "longitude": 9.54653
+    },
+    {
+        "name": "Lavadina",
+        "country": "Liechtenstein",
+        "province": "Triesenberg",
+        "population": -1,
+        "latitude": 47.11458907698154,
+        "longitude": 9.555452785358343
+    },
+    {
+        "name": "Foppa",
+        "country": "Liechtenstein",
+        "province": "Triesenberg",
+        "population": -1,
+        "latitude": 47.134852,
+        "longitude": 9.543215
+    },
+    {
+        "name": "Vorder Prufatscheng",
+        "country": "Liechtenstein",
+        "province": "Triesenberg",
+        "population": -1,
+        "latitude": 47.137743,
+        "longitude": 9.539207
+    },
+    {
+        "name": "Erbi",
+        "country": "Liechtenstein",
+        "province": "Triesenberg",
+        "population": -1,
+        "latitude": 47.138874,
+        "longitude": 9.533633
+    },
+    {
+        "name": "Bärg",
+        "country": "Liechtenstein",
+        "province": "Triesenberg",
+        "population": -1,
+        "latitude": 47.139518,
+        "longitude": 9.545568
+    },
+    {
+        "name": "Allmeina",
+        "country": "Liechtenstein",
+        "province": "Triesenberg",
+        "population": -1,
+        "latitude": 47.129975,
+        "longitude": 9.538878
+    },
+    {
+        "name": "Alpelti",
+        "country": "Liechtenstein",
+        "province": "Triesenberg",
+        "population": -1,
+        "latitude": 47.128017,
+        "longitude": 9.558384
+    },
+    {
+        "name": "Berg",
+        "country": "Liechtenstein",
+        "province": "Eschen",
+        "population": -1,
+        "latitude": 47.223068,
+        "longitude": 9.538707
+    },
+    {
+        "name": "Oberplanken",
+        "country": "Liechtenstein",
+        "province": "Planken",
+        "population": -1,
+        "latitude": 47.178113,
+        "longitude": 9.545853
+    },
+    {
+        "name": "Ober Ställ",
+        "country": "Liechtenstein",
+        "province": "Planken",
+        "population": -1,
+        "latitude": 47.176996,
+        "longitude": 9.546116
+    },
+    {
+        "name": "Gnalp",
+        "country": "Liechtenstein",
+        "province": "Triesenberg",
+        "population": -1,
+        "latitude": 47.122856,
+        "longitude": 9.553516
+    },
+    {
+        "name": "Mitätsch",
+        "country": "Liechtenstein",
+        "province": "Triesenberg",
+        "population": -1,
+        "latitude": 47.125011,
+        "longitude": 9.553266
+    },
+    {
+        "name": "Hof",
+        "country": "Liechtenstein",
+        "province": "Triesenberg",
+        "population": -1,
+        "latitude": 47.126654,
+        "longitude": 9.546641
+    },
+    {
+        "name": "Eggalti",
+        "country": "Liechtenstein",
+        "province": "Triesenberg",
+        "population": -1,
+        "latitude": 47.124643,
+        "longitude": 9.543487
+    },
+    {
+        "name": "Bim Stall",
+        "country": "Liechtenstein",
+        "province": "Schaan",
+        "population": -1,
+        "latitude": 47.139805,
+        "longitude": 9.600639
+    },
+    {
+        "name": "Riethof",
+        "country": "Liechtenstein",
+        "province": "Schaan",
+        "population": -1,
+        "latitude": 47.192236,
+        "longitude": 9.52347
+    },
+    {
+        "name": "Rüti",
+        "country": "Liechtenstein",
+        "province": "Triesenberg",
+        "population": -1,
+        "latitude": 47.107991,
+        "longitude": 9.544975
+    },
+    {
+        "name": "Böda",
+        "country": "Liechtenstein",
+        "province": "Triesenberg",
+        "population": -1,
+        "latitude": 47.106175,
+        "longitude": 9.543236
+    },
+    {
+        "name": "Fura",
+        "country": "Liechtenstein",
+        "province": "Triesenberg",
+        "population": -1,
+        "latitude": 47.104683,
+        "longitude": 9.545519
+    },
+    {
+        "name": "Welda Bongert",
+        "country": "Liechtenstein",
+        "province": "Triesen",
+        "population": -1,
+        "latitude": 47.086321,
+        "longitude": 9.527913
+    },
+    {
+        "name": "Neugrütt",
+        "country": "Liechtenstein",
+        "province": "Triesen",
+        "population": -1,
+        "latitude": 47.08782,
+        "longitude": 9.523365
+    },
+    {
+        "name": "Loch",
+        "country": "Liechtenstein",
+        "province": "Schellenberg",
+        "population": -1,
+        "latitude": 47.22853,
+        "longitude": 9.53413
+    },
+    {
+        "name": "Betsche",
+        "country": "Liechtenstein",
+        "province": "Mauren",
+        "population": -1,
+        "latitude": 47.22708,
+        "longitude": 9.54814
+    },
+    {
+        "name": "Lums",
+        "country": "Liechtenstein",
+        "province": "Gamprin",
+        "population": -1,
+        "latitude": 47.22541,
+        "longitude": 9.52606
+    },
+    {
+        "name": "Breita",
+        "country": "Liechtenstein",
+        "province": "Gamprin",
+        "population": -1,
+        "latitude": 47.22599,
+        "longitude": 9.51669
+    },
+    {
+        "name": "Badäl",
+        "country": "Liechtenstein",
+        "province": "Gamprin",
+        "population": -1,
+        "latitude": 47.22944,
+        "longitude": 9.51906
+    },
+    {
+        "name": "Studaberg",
+        "country": "Liechtenstein",
+        "province": "Gamprin",
+        "population": -1,
+        "latitude": 47.22179,
+        "longitude": 9.50841
+    },
+    {
+        "name": "Michel Öhri",
+        "country": "Liechtenstein",
+        "province": "Gamprin",
+        "population": -1,
+        "latitude": 47.22409,
+        "longitude": 9.523401
+    },
+    {
+        "name": "Hinterer Schaanwald",
+        "country": "Liechtenstein",
+        "province": "Mauren",
+        "population": -1,
+        "latitude": 47.215,
+        "longitude": 9.56894
+    },
+    {
+        "name": "Wert",
+        "country": "Liechtenstein",
+        "province": "Mauren",
+        "population": -1,
+        "latitude": 47.21916,
+        "longitude": 9.54745
+    },
+    {
+        "name": "Fromahus",
+        "country": "Liechtenstein",
+        "province": "Triesenberg",
+        "population": -1,
+        "latitude": 47.132485,
+        "longitude": 9.532816
+    },
+    {
+        "name": "Chleistäg",
+        "country": "Liechtenstein",
+        "province": "Triesenberg",
+        "population": -1,
+        "latitude": 47.109957,
+        "longitude": 9.577929
+    },
+    {
+        "name": "Oberdorf",
+        "country": "Liechtenstein",
+        "province": "Vaduz",
+        "population": -1,
+        "latitude": 47.144986,
+        "longitude": 9.52158
+    },
+    {
+        "name": "Underdorf",
+        "country": "Liechtenstein",
+        "province": "Vaduz",
+        "population": -1,
+        "latitude": 47.141095,
+        "longitude": 9.520647
+    },
+    {
+        "name": "Grossstäg",
+        "country": "Liechtenstein",
+        "province": "Triesenberg",
+        "population": -1,
+        "latitude": 47.116884,
+        "longitude": 9.571357
+    },
+    {
+        "name": "Wisli",
+        "country": "Liechtenstein",
+        "province": "Triesenberg",
+        "population": -1,
+        "latitude": 47.112297,
+        "longitude": 9.571515
+    },
+    {
+        "name": "Widum",
+        "country": "Liechtenstein",
+        "province": "Eschen",
+        "population": -1,
+        "latitude": 47.217758,
+        "longitude": 9.524025
+    },
+    {
+        "name": "Feld",
+        "country": "Liechtenstein",
+        "province": "Eschen",
+        "population": -1,
+        "latitude": 47.198614,
+        "longitude": 9.544851
+    },
+    {
+        "name": "Möligärta",
+        "country": "Liechtenstein",
+        "province": "Ruggell",
+        "population": -1,
+        "latitude": 47.242449,
+        "longitude": 9.523321
+    },
+    {
+        "name": "Berg",
+        "country": "Liechtenstein",
+        "province": "Ruggell",
+        "population": -1,
+        "latitude": 47.234392,
+        "longitude": 9.529591
+    },
+    {
+        "name": "Burg",
+        "country": "Liechtenstein",
+        "province": "Schellenberg",
+        "population": -1,
+        "latitude": 47.232538,
+        "longitude": 9.54192
+    },
+    {
+        "name": "Feld",
+        "country": "Liechtenstein",
+        "province": "Schellenberg",
+        "population": -1,
+        "latitude": 47.233288,
+        "longitude": 9.546271
+    },
+    {
+        "name": "Holzgatter",
+        "country": "Liechtenstein",
+        "province": "Schellenberg",
+        "population": -1,
+        "latitude": 47.231106,
+        "longitude": 9.54752
+    },
+    {
+        "name": "Quadera",
+        "country": "Liechtenstein",
+        "province": "Mauren",
+        "population": -1,
+        "latitude": 47.220577,
+        "longitude": 9.541184
+    },
+    {
+        "name": "Bendererbünt",
+        "country": "Liechtenstein",
+        "province": "Gamprin",
+        "population": -1,
+        "latitude": 47.21181,
+        "longitude": 9.509152
+    },
+    {
+        "name": "Hueb",
+        "country": "Liechtenstein",
+        "province": "Gamprin",
+        "population": -1,
+        "latitude": 47.212362,
+        "longitude": 9.503001
+    },
+    {
+        "name": "Fallsbretscha",
+        "country": "Liechtenstein",
+        "province": "Gamprin",
+        "population": -1,
+        "latitude": 47.214794,
+        "longitude": 9.504249
+    },
+    {
+        "name": "Breita",
+        "country": "Liechtenstein",
+        "province": "Gamprin",
+        "population": -1,
+        "latitude": 47.211744,
+        "longitude": 9.506405
+    },
+    {
+        "name": "Büntner",
+        "country": "Liechtenstein",
+        "province": "Gamprin",
+        "population": -1,
+        "latitude": 47.212665,
+        "longitude": 9.506931
+    },
+    {
+        "name": "Büntle",
+        "country": "Liechtenstein",
+        "province": "Balzers",
+        "population": -1,
+        "latitude": 47.075693,
+        "longitude": 9.514637
+    },
+    {
+        "name": "Winkel",
+        "country": "Liechtenstein",
+        "province": "Balzers",
+        "population": -1,
+        "latitude": 47.068924,
+        "longitude": 9.506908
+    },
+    {
+        "name": "Plattabach",
+        "country": "Liechtenstein",
+        "province": "Balzers",
+        "population": -1,
+        "latitude": 47.067083,
+        "longitude": 9.504634
+    },
+    {
+        "name": "Wingerta",
+        "country": "Liechtenstein",
+        "province": "Balzers",
+        "population": -1,
+        "latitude": 47.063732,
+        "longitude": 9.50838
+    },
+    {
+        "name": "Bim Züghüsle",
+        "country": "Liechtenstein",
+        "province": "Balzers",
+        "population": -1,
+        "latitude": 47.066019,
+        "longitude": 9.505633
+    },
+    {
+        "name": "Gnetsch",
+        "country": "Liechtenstein",
+        "province": "Balzers",
+        "population": -1,
+        "latitude": 47.067872,
+        "longitude": 9.503241
+    },
+    {
+        "name": "Insel",
+        "country": "Liechtenstein",
+        "province": "Balzers",
+        "population": -1,
+        "latitude": 47.069476,
+        "longitude": 9.502347
+    },
+    {
+        "name": "Gässle",
+        "country": "Liechtenstein",
+        "province": "Balzers",
+        "population": -1,
+        "latitude": 47.068266,
+        "longitude": 9.508394
+    },
+    {
+        "name": "Iramalin",
+        "country": "Liechtenstein",
+        "province": "Balzers",
+        "population": -1,
+        "latitude": 47.068778,
+        "longitude": 9.500494
+    },
+    {
+        "name": "Rietle",
+        "country": "Liechtenstein",
+        "province": "Balzers",
+        "population": -1,
+        "latitude": 47.064191,
+        "longitude": 9.503386
+    },
+    {
+        "name": "Stadel",
+        "country": "Liechtenstein",
+        "province": "Balzers",
+        "population": -1,
+        "latitude": 47.071998,
+        "longitude": 9.504253
+    },
+    {
+        "name": "Obem Dorf",
+        "country": "Liechtenstein",
+        "province": "Balzers",
+        "population": -1,
+        "latitude": 47.069711,
+        "longitude": 9.511325
+    },
+    {
+        "name": "Hala",
+        "country": "Liechtenstein",
+        "province": "Schellenberg",
+        "population": -1,
+        "latitude": 47.226291,
+        "longitude": 9.535248
+    },
+    {
+        "name": "Under Berg",
+        "country": "Liechtenstein",
+        "province": "Mauren",
+        "population": -1,
+        "latitude": 47.221704,
+        "longitude": 9.536063
+    },
+    {
+        "name": "Lutzfeld",
+        "country": "Liechtenstein",
+        "province": "Mauren",
+        "population": -1,
+        "latitude": 47.220389,
+        "longitude": 9.536326
+    },
+    {
+        "name": "Lowal",
+        "country": "Liechtenstein",
+        "province": "Balzers",
+        "population": -1,
+        "latitude": 47.07163,
+        "longitude": 9.511443
+    },
+    {
+        "name": "Uf da Stötz",
+        "country": "Liechtenstein",
+        "province": "Balzers",
+        "population": -1,
+        "latitude": 47.074626,
+        "longitude": 9.511181
+    },
+    {
+        "name": "Winkel",
+        "country": "Liechtenstein",
+        "province": "Balzers",
+        "population": -1,
+        "latitude": 47.062402,
+        "longitude": 9.495079
+    },
+    {
+        "name": "Talezze",
+        "country": "Liechtenstein",
+        "province": "Balzers",
+        "population": -1,
+        "latitude": 47.062374,
+        "longitude": 9.497774
+    },
+    {
+        "name": "Säss",
+        "country": "Liechtenstein",
+        "province": "Balzers",
+        "population": -1,
+        "latitude": 47.061653,
+        "longitude": 9.510629
+    },
+    {
+        "name": "Widau",
+        "country": "Liechtenstein",
+        "province": "Ruggell",
+        "population": -1,
+        "latitude": 47.247882,
+        "longitude": 9.527453
+    },
+    {
+        "name": "Platta",
+        "country": "Liechtenstein",
+        "province": "Gamprin",
+        "population": -1,
+        "latitude": 47.21335,
+        "longitude": 9.50555
+    },
+    {
+        "name": "Spidach",
+        "country": "Liechtenstein",
+        "province": "Ruggell",
+        "population": -1,
+        "latitude": 47.238273,
+        "longitude": 9.527864
+    },
+    {
+        "name": "Guler",
+        "country": "Liechtenstein",
+        "province": "Mauren",
+        "population": -1,
+        "latitude": 47.223549,
+        "longitude": 9.54888
+    },
+    {
+        "name": "Tils",
+        "country": "Liechtenstein",
+        "province": "Mauren",
+        "population": -1,
+        "latitude": 47.226059,
+        "longitude": 9.550772
+    },
+    {
+        "name": "Obera Berg",
+        "country": "Liechtenstein",
+        "province": "Mauren",
+        "population": -1,
+        "latitude": 47.224232,
+        "longitude": 9.542912
+    },
+    {
+        "name": "Fürstafeld",
+        "country": "Liechtenstein",
+        "province": "Mauren",
+        "population": -1,
+        "latitude": 47.223181,
+        "longitude": 9.544411
+    },
+    {
+        "name": "Höll",
+        "country": "Liechtenstein",
+        "province": "Mauren",
+        "population": -1,
+        "latitude": 47.22184,
+        "longitude": 9.540152
+    },
+    {
+        "name": "Stotz",
+        "country": "Liechtenstein",
+        "province": "Schellenberg",
+        "population": -1,
+        "latitude": 47.229691,
+        "longitude": 9.547322
+    },
+    {
+        "name": "Egeta",
+        "country": "Liechtenstein",
+        "province": "Mauren",
+        "population": -1,
+        "latitude": 47.230098,
+        "longitude": 9.548518
+    },
+    {
+        "name": "Tisa",
+        "country": "Liechtenstein",
+        "province": "Schellenberg",
+        "population": -1,
+        "latitude": 47.231308,
+        "longitude": 9.543194
+    },
+    {
+        "name": "Platta",
+        "country": "Liechtenstein",
+        "province": "Schellenberg",
+        "population": -1,
+        "latitude": 47.229546,
+        "longitude": 9.539448
+    },
+    {
+        "name": "Wisleguet",
+        "country": "Liechtenstein",
+        "province": "Schellenberg",
+        "population": -1,
+        "latitude": 47.227943,
+        "longitude": 9.536872
+    },
+    {
+        "name": "Bretscha",
+        "country": "Liechtenstein",
+        "province": "Gamprin",
+        "population": -1,
+        "latitude": 47.220312,
+        "longitude": 9.51449
+    },
+    {
+        "name": "Hala",
+        "country": "Liechtenstein",
+        "province": "Gamprin",
+        "population": -1,
+        "latitude": 47.219581,
+        "longitude": 9.510863
+    },
+    {
+        "name": "Au",
+        "country": "Liechtenstein",
+        "province": "Gamprin",
+        "population": -1,
+        "latitude": 47.224474,
+        "longitude": 9.511241
+    },
+    {
+        "name": "Höfe",
+        "country": "Liechtenstein",
+        "province": "Gamprin",
+        "population": -1,
+        "latitude": 47.223196,
+        "longitude": 9.516017
+    },
+    {
+        "name": "Platta",
+        "country": "Liechtenstein",
+        "province": "Gamprin",
+        "population": -1,
+        "latitude": 47.220586,
+        "longitude": 9.508387
+    },
+    {
+        "name": "Grütt",
+        "country": "Liechtenstein",
+        "province": "Gamprin",
+        "population": -1,
+        "latitude": 47.218174,
+        "longitude": 9.508807
+    },
+    {
+        "name": "Oberdorf",
+        "country": "Liechtenstein",
+        "province": "Eschen",
+        "population": -1,
+        "latitude": 47.214218,
+        "longitude": 9.523402
+    },
+    {
+        "name": "Am Bach",
+        "country": "Liechtenstein",
+        "province": "Eschen",
+        "population": -1,
+        "latitude": 47.214869,
+        "longitude": 9.521733
+    },
+    {
+        "name": "Osser Hala",
+        "country": "Liechtenstein",
+        "province": "Eschen",
+        "population": -1,
+        "latitude": 47.210413,
+        "longitude": 9.515522
+    },
+    {
+        "name": "Ober Hala",
+        "country": "Liechtenstein",
+        "province": "Eschen",
+        "population": -1,
+        "latitude": 47.211392,
+        "longitude": 9.51731
+    },
+    {
+        "name": "Inner Hala",
+        "country": "Liechtenstein",
+        "province": "Eschen",
+        "population": -1,
+        "latitude": 47.212036,
+        "longitude": 9.519742
+    },
+    {
+        "name": "Vorderdorf",
+        "country": "Liechtenstein",
+        "province": "Eschen",
+        "population": -1,
+        "latitude": 47.211813,
+        "longitude": 9.521759
+    },
+    {
+        "name": "Höfli",
+        "country": "Liechtenstein",
+        "province": "Eschen",
+        "population": -1,
+        "latitude": 47.210051,
+        "longitude": 9.5208
+    },
+    {
+        "name": "Underdorf",
+        "country": "Liechtenstein",
+        "province": "Eschen",
+        "population": -1,
+        "latitude": 47.2099,
+        "longitude": 9.523008
+    },
+    {
+        "name": "Under Atzig",
+        "country": "Liechtenstein",
+        "province": "Gamprin",
+        "population": -1,
+        "latitude": 47.208519,
+        "longitude": 9.504025
+    },
+    {
+        "name": "Ziegelmad",
+        "country": "Liechtenstein",
+        "province": "Eschen",
+        "population": -1,
+        "latitude": 47.200553,
+        "longitude": 9.539869
+    },
+    {
+        "name": "Gmeinsgarta",
+        "country": "Liechtenstein",
+        "province": "Eschen",
+        "population": -1,
+        "latitude": 47.200619,
+        "longitude": 9.543024
+    },
+    {
+        "name": "Unternendeln",
+        "country": "Liechtenstein",
+        "province": "Eschen",
+        "population": -1,
+        "latitude": 47.199647,
+        "longitude": 9.545455
+    },
+    {
+        "name": "Oberstädtli",
+        "country": "Liechtenstein",
+        "province": "Eschen",
+        "population": -1,
+        "latitude": 47.198937,
+        "longitude": 9.546507
+    },
+    {
+        "name": "Waldteile",
+        "country": "Liechtenstein",
+        "province": "Eschen",
+        "population": -1,
+        "latitude": 47.196255,
+        "longitude": 9.542735
+    },
+    {
+        "name": "Aussernendeln",
+        "country": "Liechtenstein",
+        "province": "Eschen",
+        "population": -1,
+        "latitude": 47.196361,
+        "longitude": 9.539554
+    },
+    {
+        "name": "Inner Wesa",
+        "country": "Liechtenstein",
+        "province": "Eschen",
+        "population": -1,
+        "latitude": 47.197951,
+        "longitude": 9.541486
+    },
+    {
+        "name": "Ober Bünt",
+        "country": "Liechtenstein",
+        "province": "Eschen",
+        "population": -1,
+        "latitude": 47.197767,
+        "longitude": 9.549832
+    },
+    {
+        "name": "Ossera",
+        "country": "Liechtenstein",
+        "province": "Planken",
+        "population": -1,
+        "latitude": 47.189199,
+        "longitude": 9.54907
+    },
+    {
+        "name": "Tola",
+        "country": "Liechtenstein",
+        "province": "Planken",
+        "population": -1,
+        "latitude": 47.188647,
+        "longitude": 9.548452
+    },
+    {
+        "name": "Tobel",
+        "country": "Liechtenstein",
+        "province": "Planken",
+        "population": -1,
+        "latitude": 47.188252,
+        "longitude": 9.549109
+    },
+    {
+        "name": "Büel",
+        "country": "Liechtenstein",
+        "province": "Planken",
+        "population": -1,
+        "latitude": 47.187726,
+        "longitude": 9.547269
+    },
+    {
+        "name": "Bünt",
+        "country": "Liechtenstein",
+        "province": "Planken",
+        "population": -1,
+        "latitude": 47.186925,
+        "longitude": 9.548452
+    },
+    {
+        "name": "Hest",
+        "country": "Liechtenstein",
+        "province": "Planken",
+        "population": -1,
+        "latitude": 47.186412,
+        "longitude": 9.546415
+    },
+    {
+        "name": "Boda",
+        "country": "Liechtenstein",
+        "province": "Planken",
+        "population": -1,
+        "latitude": 47.187161,
+        "longitude": 9.545363
+    },
+    {
+        "name": "Egerta",
+        "country": "Liechtenstein",
+        "province": "Planken",
+        "population": -1,
+        "latitude": 47.185886,
+        "longitude": 9.544364
+    },
+    {
+        "name": "Blacha",
+        "country": "Liechtenstein",
+        "province": "Planken",
+        "population": -1,
+        "latitude": 47.18402,
+        "longitude": 9.545192
+    },
+    {
+        "name": "Lett",
+        "country": "Liechtenstein",
+        "province": "Planken",
+        "population": -1,
+        "latitude": 47.183533,
+        "longitude": 9.541749
+    },
+    {
+        "name": "Kaserna",
+        "country": "Liechtenstein",
+        "province": "Planken",
+        "population": -1,
+        "latitude": 47.183047,
+        "longitude": 9.540697
+    },
+    {
+        "name": "Ob der Gass",
+        "country": "Liechtenstein",
+        "province": "Planken",
+        "population": -1,
+        "latitude": 47.183257,
+        "longitude": 9.543339
+    },
+    {
+        "name": "Bi der Steinmur",
+        "country": "Liechtenstein",
+        "province": "Planken",
+        "population": -1,
+        "latitude": 47.182784,
+        "longitude": 9.542603
+    },
+    {
+        "name": "Underem Rüttistein",
+        "country": "Liechtenstein",
+        "province": "Planken",
+        "population": -1,
+        "latitude": 47.185926,
+        "longitude": 9.547795
+    },
+    {
+        "name": "Ledi",
+        "country": "Liechtenstein",
+        "province": "Planken",
+        "population": -1,
+        "latitude": 47.180287,
+        "longitude": 9.545692
+    },
+    {
+        "name": "Rüttistein",
+        "country": "Liechtenstein",
+        "province": "Planken",
+        "population": -1,
+        "latitude": 47.186394,
+        "longitude": 9.54885
+    },
+    {
+        "name": "Under Ställ",
+        "country": "Liechtenstein",
+        "province": "Planken",
+        "population": -1,
+        "latitude": 47.179322,
+        "longitude": 9.544683
+    },
+    {
+        "name": "Bünda",
+        "country": "Liechtenstein",
+        "province": "Triesenberg",
+        "population": -1,
+        "latitude": 47.123736,
+        "longitude": 9.555435
+    },
+    {
+        "name": "Vordersilum",
+        "country": "Liechtenstein",
+        "province": "Triesenberg",
+        "population": -1,
+        "latitude": 47.128297,
+        "longitude": 9.553989
+    },
+    {
+        "name": "Silumerbord",
+        "country": "Liechtenstein",
+        "province": "Triesenberg",
+        "population": -1,
+        "latitude": 47.126404,
+        "longitude": 9.556026
+    },
+    {
+        "name": "Gädami",
+        "country": "Liechtenstein",
+        "province": "Triesenberg",
+        "population": -1,
+        "latitude": 47.123999,
+        "longitude": 9.548074
+    },
+    {
+        "name": "Parsüla",
+        "country": "Liechtenstein",
+        "province": "Triesenberg",
+        "population": -1,
+        "latitude": 47.12463,
+        "longitude": 9.551071
+    },
+    {
+        "name": "Bim Brunna",
+        "country": "Liechtenstein",
+        "province": "Triesenberg",
+        "population": -1,
+        "latitude": 47.124972,
+        "longitude": 9.545984
+    },
+    {
+        "name": "Balischguad",
+        "country": "Liechtenstein",
+        "province": "Triesenberg",
+        "population": -1,
+        "latitude": 47.126168,
+        "longitude": 9.542922
+    },
+    {
+        "name": "Winchel",
+        "country": "Liechtenstein",
+        "province": "Triesenberg",
+        "population": -1,
+        "latitude": 47.125708,
+        "longitude": 9.541055
+    },
+    {
+        "name": "Fuggsegga",
+        "country": "Liechtenstein",
+        "province": "Triesenberg",
+        "population": -1,
+        "latitude": 47.12233,
+        "longitude": 9.546786
+    },
+    {
+        "name": "Raibühel",
+        "country": "Liechtenstein",
+        "province": "Triesenberg",
+        "population": -1,
+        "latitude": 47.130197,
+        "longitude": 9.535896
+    },
+    {
+        "name": "Oberau",
+        "country": "Liechtenstein",
+        "province": "Vaduz",
+        "population": -1,
+        "latitude": 47.127607,
+        "longitude": 9.51969
+    },
+    {
+        "name": "Rütti",
+        "country": "Liechtenstein",
+        "province": "Vaduz",
+        "population": -1,
+        "latitude": 47.127515,
+        "longitude": 9.524126
+    },
+    {
+        "name": "Neurütti",
+        "country": "Liechtenstein",
+        "province": "Vaduz",
+        "population": -1,
+        "latitude": 47.12647,
+        "longitude": 9.515937
+    },
+    {
+        "name": "Bei der Kirchstrasse",
+        "country": "Liechtenstein",
+        "province": "Vaduz",
+        "population": -1,
+        "latitude": 47.135815,
+        "longitude": 9.517667
+    },
+    {
+        "name": "Aubünt",
+        "country": "Liechtenstein",
+        "province": "Vaduz",
+        "population": -1,
+        "latitude": 47.131517,
+        "longitude": 9.521906
+    },
+    {
+        "name": "Underdorf",
+        "country": "Liechtenstein",
+        "province": "Vaduz",
+        "population": -1,
+        "latitude": 47.140192,
+        "longitude": 9.518607
+    },
+    {
+        "name": "Ober Möliholz",
+        "country": "Liechtenstein",
+        "province": "Vaduz",
+        "population": -1,
+        "latitude": 47.154421,
+        "longitude": 9.51285
+    },
+    {
+        "name": "Under Möliholz",
+        "country": "Liechtenstein",
+        "province": "Vaduz",
+        "population": -1,
+        "latitude": 47.155459,
+        "longitude": 9.508118
+    },
+    {
+        "name": "Bim Krüz",
+        "country": "Liechtenstein",
+        "province": "Schaan",
+        "population": -1,
+        "latitude": 47.162005,
+        "longitude": 9.516412
+    },
+    {
+        "name": "Duxplatz",
+        "country": "Liechtenstein",
+        "province": "Schaan",
+        "population": -1,
+        "latitude": 47.165974,
+        "longitude": 9.521775
+    },
+    {
+        "name": "Bi den undera Hötta",
+        "country": "Liechtenstein",
+        "province": "Vaduz",
+        "population": -1,
+        "latitude": 47.107687,
+        "longitude": 9.598865
+    },
+    {
+        "name": "Wesa",
+        "country": "Liechtenstein",
+        "province": "Schaan",
+        "population": -1,
+        "latitude": 47.167486,
+        "longitude": 9.492713
+    },
+    {
+        "name": "Buacha",
+        "country": "Liechtenstein",
+        "province": "Triesenberg",
+        "population": -1,
+        "latitude": 47.117242,
+        "longitude": 9.553872
+    },
+    {
+        "name": "Ord",
+        "country": "Liechtenstein",
+        "province": "Triesenberg",
+        "population": -1,
+        "latitude": 47.1161,
+        "longitude": 9.555117
+    },
+    {
+        "name": "Hag",
+        "country": "Liechtenstein",
+        "province": "Triesenberg",
+        "population": -1,
+        "latitude": 47.116619,
+        "longitude": 9.544958
+    },
+    {
+        "name": "Gufer",
+        "country": "Liechtenstein",
+        "province": "Triesenberg",
+        "population": -1,
+        "latitude": 47.115672,
+        "longitude": 9.545867
+    },
+    {
+        "name": "Bleika",
+        "country": "Liechtenstein",
+        "province": "Triesenberg",
+        "population": -1,
+        "latitude": 47.121848,
+        "longitude": 9.544569
+    },
+    {
+        "name": "Under Büal",
+        "country": "Liechtenstein",
+        "province": "Triesenberg",
+        "population": -1,
+        "latitude": 47.122003,
+        "longitude": 9.549785
+    },
+    {
+        "name": "Spenni",
+        "country": "Liechtenstein",
+        "province": "Triesenberg",
+        "population": -1,
+        "latitude": 47.115854,
+        "longitude": 9.551432
+    },
+    {
+        "name": "Zlinerbord",
+        "country": "Liechtenstein",
+        "province": "Triesenberg",
+        "population": -1,
+        "latitude": 47.121043,
+        "longitude": 9.55238
+    },
+    {
+        "name": "Under der Gassa",
+        "country": "Liechtenstein",
+        "province": "Triesenberg",
+        "population": -1,
+        "latitude": 47.116204,
+        "longitude": 9.553054
+    },
+    {
+        "name": "Egga",
+        "country": "Liechtenstein",
+        "province": "Triesenberg",
+        "population": -1,
+        "latitude": 47.124645,
+        "longitude": 9.540002
+    },
+    {
+        "name": "Gschind",
+        "country": "Liechtenstein",
+        "province": "Triesenberg",
+        "population": -1,
+        "latitude": 47.121359,
+        "longitude": 9.540682
+    },
+    {
+        "name": "Trischel",
+        "country": "Liechtenstein",
+        "province": "Triesenberg",
+        "population": -1,
+        "latitude": 47.121452,
+        "longitude": 9.542796
+    },
+    {
+        "name": "Halda",
+        "country": "Liechtenstein",
+        "province": "Triesenberg",
+        "population": -1,
+        "latitude": 47.119746,
+        "longitude": 9.541004
+    },
+    {
+        "name": "Rietli",
+        "country": "Liechtenstein",
+        "province": "Triesenberg",
+        "population": -1,
+        "latitude": 47.12033,
+        "longitude": 9.54212
+    },
+    {
+        "name": "Üenaboda",
+        "country": "Liechtenstein",
+        "province": "Triesenberg",
+        "population": -1,
+        "latitude": 47.118617,
+        "longitude": 9.541186
+    },
+    {
+        "name": "Litzi",
+        "country": "Liechtenstein",
+        "province": "Triesenberg",
+        "population": -1,
+        "latitude": 47.117839,
+        "longitude": 9.540473
+    },
+    {
+        "name": "Sennwis",
+        "country": "Liechtenstein",
+        "province": "Triesenberg",
+        "population": -1,
+        "latitude": 47.118539,
+        "longitude": 9.545156
+    },
+    {
+        "name": "Räckholtera",
+        "country": "Liechtenstein",
+        "province": "Triesenberg",
+        "population": -1,
+        "latitude": 47.120122,
+        "longitude": 9.536541
+    },
+    {
+        "name": "Gärbi",
+        "country": "Liechtenstein",
+        "province": "Triesenberg",
+        "population": -1,
+        "latitude": 47.117021,
+        "longitude": 9.542237
+    },
+    {
+        "name": "Hüschi",
+        "country": "Liechtenstein",
+        "province": "Triesenberg",
+        "population": -1,
+        "latitude": 47.119461,
+        "longitude": 9.545649
+    },
+    {
+        "name": "Haberacher",
+        "country": "Liechtenstein",
+        "province": "Triesenberg",
+        "population": -1,
+        "latitude": 47.11444,
+        "longitude": 9.54997
+    },
+    {
+        "name": "Leitawis",
+        "country": "Liechtenstein",
+        "province": "Triesenberg",
+        "population": -1,
+        "latitude": 47.1161,
+        "longitude": 9.539201
+    },
+    {
+        "name": "Nasshagga",
+        "country": "Liechtenstein",
+        "province": "Triesenberg",
+        "population": -1,
+        "latitude": 47.116593,
+        "longitude": 9.536931
+    },
+    {
+        "name": "Steinäscht",
+        "country": "Liechtenstein",
+        "province": "Triesenberg",
+        "population": -1,
+        "latitude": 47.114271,
+        "longitude": 9.548023
+    },
+    {
+        "name": "Boda",
+        "country": "Liechtenstein",
+        "province": "Triesenberg",
+        "population": -1,
+        "latitude": 47.112143,
+        "longitude": 9.552396
+    },
+    {
+        "name": "Steinord",
+        "country": "Liechtenstein",
+        "province": "Triesenberg",
+        "population": -1,
+        "latitude": 47.112636,
+        "longitude": 9.549321
+    },
+    {
+        "name": "Burkrat",
+        "country": "Liechtenstein",
+        "province": "Triesenberg",
+        "population": -1,
+        "latitude": 47.110872,
+        "longitude": 9.551617
+    },
+    {
+        "name": "Rütelti",
+        "country": "Liechtenstein",
+        "province": "Triesenberg",
+        "population": -1,
+        "latitude": 47.112649,
+        "longitude": 9.544923
+    },
+    {
+        "name": "Rossboda",
+        "country": "Liechtenstein",
+        "province": "Triesenberg",
+        "population": -1,
+        "latitude": 47.113856,
+        "longitude": 9.546752
+    },
+    {
+        "name": "Täscherloch",
+        "country": "Liechtenstein",
+        "province": "Triesenberg",
+        "population": -1,
+        "latitude": 47.114063,
+        "longitude": 9.54491
+    },
+    {
+        "name": "Hega",
+        "country": "Liechtenstein",
+        "province": "Triesenberg",
+        "population": -1,
+        "latitude": 47.11588,
+        "longitude": 9.541446
+    },
+    {
+        "name": "Sütigerwis",
+        "country": "Liechtenstein",
+        "province": "Triesenberg",
+        "population": -1,
+        "latitude": 47.110067,
+        "longitude": 9.544702
+    },
+    {
+        "name": "Chalberrüti",
+        "country": "Liechtenstein",
+        "province": "Triesenberg",
+        "population": -1,
+        "latitude": 47.107706,
+        "longitude": 9.543379
+    },
+    {
+        "name": "Faraboda",
+        "country": "Liechtenstein",
+        "province": "Triesenberg",
+        "population": -1,
+        "latitude": 47.107226,
+        "longitude": 9.547517
+    },
+    {
+        "name": "Täscherbord",
+        "country": "Liechtenstein",
+        "province": "Triesenberg",
+        "population": -1,
+        "latitude": 47.103412,
+        "longitude": 9.545247
+    },
+    {
+        "name": "Hinderegga",
+        "country": "Liechtenstein",
+        "province": "Triesenberg",
+        "population": -1,
+        "latitude": 47.102906,
+        "longitude": 9.543236
+    },
+    {
+        "name": "Krestisrütti",
+        "country": "Liechtenstein",
+        "province": "Triesen",
+        "population": -1,
+        "latitude": 47.092716,
+        "longitude": 9.526053
+    },
+    {
+        "name": "Fina",
+        "country": "Liechtenstein",
+        "province": "Triesen",
+        "population": -1,
+        "latitude": 47.099235,
+        "longitude": 9.525882
+    },
+    {
+        "name": "Oberfeld",
+        "country": "Liechtenstein",
+        "province": "Triesen",
+        "population": -1,
+        "latitude": 47.101378,
+        "longitude": 9.524568
+    },
+    {
+        "name": "Gapluem",
+        "country": "Liechtenstein",
+        "province": "Triesen",
+        "population": -1,
+        "latitude": 47.10423,
+        "longitude": 9.53001
+    },
+    {
+        "name": "Gantafies",
+        "country": "Liechtenstein",
+        "province": "Triesen",
+        "population": -1,
+        "latitude": 47.100576,
+        "longitude": 9.530627
+    },
+    {
+        "name": "Grosch",
+        "country": "Liechtenstein",
+        "province": "Triesen",
+        "population": -1,
+        "latitude": 47.100103,
+        "longitude": 9.528682
+    },
+    {
+        "name": "Garnis",
+        "country": "Liechtenstein",
+        "province": "Triesen",
+        "population": -1,
+        "latitude": 47.100813,
+        "longitude": 9.535714
+    },
+    {
+        "name": "Sax",
+        "country": "Liechtenstein",
+        "province": "Triesen",
+        "population": -1,
+        "latitude": 47.101575,
+        "longitude": 9.536687
+    },
+    {
+        "name": "Hellabarta",
+        "country": "Liechtenstein",
+        "province": "Triesen",
+        "population": -1,
+        "latitude": 47.104349,
+        "longitude": 9.526592
+    },
+    {
+        "name": "Underfeld",
+        "country": "Liechtenstein",
+        "province": "Triesen",
+        "population": -1,
+        "latitude": 47.105019,
+        "longitude": 9.524016
+    },
+    {
+        "name": "Oberdorf",
+        "country": "Liechtenstein",
+        "province": "Triesen",
+        "population": -1,
+        "latitude": 47.105978,
+        "longitude": 9.534557
+    },
+    {
+        "name": "Gapont",
+        "country": "Liechtenstein",
+        "province": "Triesen",
+        "population": -1,
+        "latitude": 47.106833,
+        "longitude": 9.525935
+    },
+    {
+        "name": "Underdorf",
+        "country": "Liechtenstein",
+        "province": "Triesen",
+        "population": -1,
+        "latitude": 47.108055,
+        "longitude": 9.523753
+    },
+    {
+        "name": "Runkels",
+        "country": "Liechtenstein",
+        "province": "Triesen",
+        "population": -1,
+        "latitude": 47.108962,
+        "longitude": 9.52951
+    },
+    {
+        "name": "Gerbi",
+        "country": "Liechtenstein",
+        "province": "Triesen",
+        "population": -1,
+        "latitude": 47.109028,
+        "longitude": 9.526934
+    },
+    {
+        "name": "Auli",
+        "country": "Liechtenstein",
+        "province": "Triesen",
+        "population": -1,
+        "latitude": 47.111197,
+        "longitude": 9.524726
+    },
+    {
+        "name": "Sand",
+        "country": "Liechtenstein",
+        "province": "Triesen",
+        "population": -1,
+        "latitude": 47.113181,
+        "longitude": 9.523017
+    },
+    {
+        "name": "Spezadengla",
+        "country": "Liechtenstein",
+        "province": "Triesen",
+        "population": -1,
+        "latitude": 47.11075,
+        "longitude": 9.52742
+    },
+    {
+        "name": "Walcha",
+        "country": "Liechtenstein",
+        "province": "Triesen",
+        "population": -1,
+        "latitude": 47.111262,
+        "longitude": 9.529615
+    },
+    {
+        "name": "Sankt Mamerta",
+        "country": "Liechtenstein",
+        "province": "Triesen",
+        "population": -1,
+        "latitude": 47.107897,
+        "longitude": 9.532113
+    },
+    {
+        "name": "Sunnaberg",
+        "country": "Liechtenstein",
+        "province": "Triesen",
+        "population": -1,
+        "latitude": 47.112038,
+        "longitude": 9.530667
+    },
+    {
+        "name": "Letzana",
+        "country": "Liechtenstein",
+        "province": "Triesen",
+        "population": -1,
+        "latitude": 47.111972,
+        "longitude": 9.535675
+    },
+    {
+        "name": "Fanola",
+        "country": "Liechtenstein",
+        "province": "Triesen",
+        "population": -1,
+        "latitude": 47.109356,
+        "longitude": 9.53344
+    },
+    {
+        "name": "Gossahalda",
+        "country": "Liechtenstein",
+        "province": "Triesen",
+        "population": -1,
+        "latitude": 47.107437,
+        "longitude": 9.528156
+    },
+    {
+        "name": "Mazora",
+        "country": "Liechtenstein",
+        "province": "Triesen",
+        "population": -1,
+        "latitude": 47.114193,
+        "longitude": 9.53135
+    },
+    {
+        "name": "Matschels",
+        "country": "Liechtenstein",
+        "province": "Triesen",
+        "population": -1,
+        "latitude": 47.114601,
+        "longitude": 9.529826
+    },
+    {
+        "name": "Sankt Wolfgang",
+        "country": "Liechtenstein",
+        "province": "Triesen",
+        "population": -1,
+        "latitude": 47.118031,
+        "longitude": 9.526776
+    },
+    {
+        "name": "Dreiangel",
+        "country": "Liechtenstein",
+        "province": "Triesen",
+        "population": -1,
+        "latitude": 47.115087,
+        "longitude": 9.522912
+    },
+    {
+        "name": "Riet",
+        "country": "Liechtenstein",
+        "province": "Triesen",
+        "population": -1,
+        "latitude": 47.118229,
+        "longitude": 9.525633
+    },
+    {
+        "name": "Messina",
+        "country": "Liechtenstein",
+        "province": "Triesen",
+        "population": -1,
+        "latitude": 47.120976,
+        "longitude": 9.519337
+    },
+    {
+        "name": "Schliessa",
+        "country": "Liechtenstein",
+        "province": "Triesen",
+        "population": -1,
+        "latitude": 47.120003,
+        "longitude": 9.517549
+    },
+    {
+        "name": "Galgateil",
+        "country": "Liechtenstein",
+        "province": "Triesen",
+        "population": -1,
+        "latitude": 47.120581,
+        "longitude": 9.522715
+    },
+    {
+        "name": "Galga",
+        "country": "Liechtenstein",
+        "province": "Triesen",
+        "population": -1,
+        "latitude": 47.121686,
+        "longitude": 9.524489
+    },
+    {
+        "name": "Meierhof",
+        "country": "Liechtenstein",
+        "province": "Triesen",
+        "population": -1,
+        "latitude": 47.121883,
+        "longitude": 9.527499
+    },
+    {
+        "name": "Hiertwes",
+        "country": "Liechtenstein",
+        "province": "Triesen",
+        "population": -1,
+        "latitude": 47.120148,
+        "longitude": 9.5288
+    },
+    {
+        "name": "Musbühel",
+        "country": "Liechtenstein",
+        "province": "Triesenberg",
+        "population": -1,
+        "latitude": 47.099761,
+        "longitude": 9.614487
+    },
+    {
+        "name": "Büala",
+        "country": "Liechtenstein",
+        "province": "Triesenberg",
+        "population": -1,
+        "latitude": 47.09708,
+        "longitude": 9.612909
+    },
+    {
+        "name": "Stafel",
+        "country": "Liechtenstein",
+        "province": "Triesenberg",
+        "population": -1,
+        "latitude": 47.09867,
+        "longitude": 9.611595
+    },
+    {
+        "name": "Rüfi",
+        "country": "Liechtenstein",
+        "province": "Triesenberg",
+        "population": -1,
+        "latitude": 47.099525,
+        "longitude": 9.610635
+    },
+    {
+        "name": "Chämma",
+        "country": "Liechtenstein",
+        "province": "Triesenberg",
+        "population": -1,
+        "latitude": 47.100208,
+        "longitude": 9.611976
+    },
+    {
+        "name": "Jöraboda",
+        "country": "Liechtenstein",
+        "province": "Triesenberg",
+        "population": -1,
+        "latitude": 47.102061,
+        "longitude": 9.61005
+    },
+    {
+        "name": "Stubi",
+        "country": "Liechtenstein",
+        "province": "Triesenberg",
+        "population": -1,
+        "latitude": 47.100418,
+        "longitude": 9.608894
+    },
+    {
+        "name": "Heiligkrüz",
+        "country": "Liechtenstein",
+        "province": "Ruggell",
+        "population": -1,
+        "latitude": 47.24317,
+        "longitude": 9.5255
+    },
+    {
+        "name": "Rotagass",
+        "country": "Liechtenstein",
+        "province": "Ruggell",
+        "population": -1,
+        "latitude": 47.24,
+        "longitude": 9.5306
+    },
+    {
+        "name": "Fuera",
+        "country": "Liechtenstein",
+        "province": "Ruggell",
+        "population": -1,
+        "latitude": 47.24291,
+        "longitude": 9.53155
+    },
+    {
+        "name": "Obrosa",
+        "country": "Liechtenstein",
+        "province": "Ruggell",
+        "population": -1,
+        "latitude": 47.2413,
+        "longitude": 9.53222
+    },
+    {
+        "name": "Schlatt",
+        "country": "Liechtenstein",
+        "province": "Ruggell",
+        "population": -1,
+        "latitude": 47.23438,
+        "longitude": 9.521
+    },
+    {
+        "name": "Betzi",
+        "country": "Liechtenstein",
+        "province": "Ruggell",
+        "population": -1,
+        "latitude": 47.2343,
+        "longitude": 9.52604
+    },
+    {
+        "name": "Geisszepfel",
+        "country": "Liechtenstein",
+        "province": "Ruggell",
+        "population": -1,
+        "latitude": 47.23351,
+        "longitude": 9.52465
+    },
+    {
+        "name": "Oberwiler",
+        "country": "Liechtenstein",
+        "province": "Ruggell",
+        "population": -1,
+        "latitude": 47.2356,
+        "longitude": 9.52452
+    },
+    {
+        "name": "Spiegel",
+        "country": "Liechtenstein",
+        "province": "Ruggell",
+        "population": -1,
+        "latitude": 47.2382,
+        "longitude": 9.52262
+    },
+    {
+        "name": "Kellersfeld",
+        "country": "Liechtenstein",
+        "province": "Ruggell",
+        "population": -1,
+        "latitude": 47.24031,
+        "longitude": 9.52683
+    },
+    {
+        "name": "Underdarf",
+        "country": "Liechtenstein",
+        "province": "Ruggell",
+        "population": -1,
+        "latitude": 47.24285,
+        "longitude": 9.52952
+    },
+    {
+        "name": "Oberdarf",
+        "country": "Liechtenstein",
+        "province": "Ruggell",
+        "population": -1,
+        "latitude": 47.24143,
+        "longitude": 9.52642
+    },
+    {
+        "name": "Giessa",
+        "country": "Liechtenstein",
+        "province": "Ruggell",
+        "population": -1,
+        "latitude": 47.24445,
+        "longitude": 9.52711
+    },
+    {
+        "name": "Kolbafeld",
+        "country": "Liechtenstein",
+        "province": "Ruggell",
+        "population": -1,
+        "latitude": 47.23713,
+        "longitude": 9.53044
+    },
+    {
+        "name": "Lacha",
+        "country": "Liechtenstein",
+        "province": "Mauren",
+        "population": -1,
+        "latitude": 47.21732,
+        "longitude": 9.54094
+    },
+    {
+        "name": "Steinbös",
+        "country": "Liechtenstein",
+        "province": "Mauren",
+        "population": -1,
+        "latitude": 47.21877,
+        "longitude": 9.53767
+    },
+    {
+        "name": "Purtscher",
+        "country": "Liechtenstein",
+        "province": "Mauren",
+        "population": -1,
+        "latitude": 47.21897,
+        "longitude": 9.54773
+    },
+    {
+        "name": "Speckemad",
+        "country": "Liechtenstein",
+        "province": "Mauren",
+        "population": -1,
+        "latitude": 47.22171,
+        "longitude": 9.55127
+    },
+    {
+        "name": "Gampalütz",
+        "country": "Liechtenstein",
+        "province": "Mauren",
+        "population": -1,
+        "latitude": 47.21996,
+        "longitude": 9.5506
+    },
+    {
+        "name": "Bretscha",
+        "country": "Liechtenstein",
+        "province": "Mauren",
+        "population": -1,
+        "latitude": 47.21477,
+        "longitude": 9.54225
+    },
+    {
+        "name": "Krummenacker",
+        "country": "Liechtenstein",
+        "province": "Mauren",
+        "population": -1,
+        "latitude": 47.22357,
+        "longitude": 9.54653
+    },
+    {
+        "name": "Oksner",
+        "country": "Liechtenstein",
+        "province": "Mauren",
+        "population": -1,
+        "latitude": 47.22519,
+        "longitude": 9.54801
+    },
+    {
+        "name": "Hinderbüela",
+        "country": "Liechtenstein",
+        "province": "Mauren",
+        "population": -1,
+        "latitude": 47.21673,
+        "longitude": 9.54433
+    },
+    {
+        "name": "Sandgrueb",
+        "country": "Liechtenstein",
+        "province": "Mauren",
+        "population": -1,
+        "latitude": 47.21576,
+        "longitude": 9.53801
+    },
+    {
+        "name": "Popers",
+        "country": "Liechtenstein",
+        "province": "Mauren",
+        "population": -1,
+        "latitude": 47.21476,
+        "longitude": 9.53686
+    },
+    {
+        "name": "Binza",
+        "country": "Liechtenstein",
+        "province": "Mauren",
+        "population": -1,
+        "latitude": 47.22361,
+        "longitude": 9.553721
+    },
+    {
+        "name": "Hinderschloss",
+        "country": "Liechtenstein",
+        "province": "Schellenberg",
+        "population": -1,
+        "latitude": 47.23234,
+        "longitude": 9.555981
+    },
+    {
+        "name": "Schönabüel",
+        "country": "Liechtenstein",
+        "province": "Eschen",
+        "population": -1,
+        "latitude": 47.21574,
+        "longitude": 9.51815
+    },
+    {
+        "name": "Stelza",
+        "country": "Liechtenstein",
+        "province": "Gamprin",
+        "population": -1,
+        "latitude": 47.21896,
+        "longitude": 9.50803
+    },
+    {
+        "name": "Gölla",
+        "country": "Liechtenstein",
+        "province": "Gamprin",
+        "population": -1,
+        "latitude": 47.219607,
+        "longitude": 9.50927
+    },
+    {
+        "name": "Hellbock",
+        "country": "Liechtenstein",
+        "province": "Gamprin",
+        "population": -1,
+        "latitude": 47.21637,
+        "longitude": 9.50534
+    },
+    {
+        "name": "Platzbünt",
+        "country": "Liechtenstein",
+        "province": "Gamprin",
+        "population": -1,
+        "latitude": 47.21878,
+        "longitude": 9.51147
+    },
+    {
+        "name": "Stefas Guet",
+        "country": "Liechtenstein",
+        "province": "Gamprin",
+        "population": -1,
+        "latitude": 47.22146,
+        "longitude": 9.51734
+    },
+    {
+        "name": "Kalchofa",
+        "country": "Liechtenstein",
+        "province": "Gamprin",
+        "population": -1,
+        "latitude": 47.22217,
+        "longitude": 9.51755
+    },
+    {
+        "name": "Büel",
+        "country": "Liechtenstein",
+        "province": "Gamprin",
+        "population": -1,
+        "latitude": 47.22102,
+        "longitude": 9.51317
+    },
+    {
+        "name": "Fallsgass",
+        "country": "Liechtenstein",
+        "province": "Mauren",
+        "population": -1,
+        "latitude": 47.21391,
+        "longitude": 9.53412
+    },
+    {
+        "name": "Güediga",
+        "country": "Liechtenstein",
+        "province": "Eschen",
+        "population": -1,
+        "latitude": 47.214911,
+        "longitude": 9.529908
+    },
+    {
+        "name": "Hinderdorf",
+        "country": "Liechtenstein",
+        "province": "Eschen",
+        "population": -1,
+        "latitude": 47.21292,
+        "longitude": 9.52781
+    },
+    {
+        "name": "Garlanga",
+        "country": "Liechtenstein",
+        "province": "Mauren",
+        "population": -1,
+        "latitude": 47.21221,
+        "longitude": 9.53684
+    },
+    {
+        "name": "Glenn",
+        "country": "Liechtenstein",
+        "province": "Mauren",
+        "population": -1,
+        "latitude": 47.21315,
+        "longitude": 9.53967
+    },
+    {
+        "name": "Mittlerer Schaanwald",
+        "country": "Liechtenstein",
+        "province": "Mauren",
+        "population": -1,
+        "latitude": 47.21289,
+        "longitude": 9.56697
+    },
+    {
+        "name": "Weier",
+        "country": "Liechtenstein",
+        "province": "Mauren",
+        "population": -1,
+        "latitude": 47.21897,
+        "longitude": 9.54507
+    },
+    {
+        "name": "Breita",
+        "country": "Liechtenstein",
+        "province": "Mauren",
+        "population": -1,
+        "latitude": 47.22104,
+        "longitude": 9.54691
+    },
+    {
+        "name": "Klenn",
+        "country": "Liechtenstein",
+        "province": "Schellenberg",
+        "population": -1,
+        "latitude": 47.22997,
+        "longitude": 9.54206
+    },
+    {
+        "name": "Pfifer",
+        "country": "Liechtenstein",
+        "province": "Schellenberg",
+        "population": -1,
+        "latitude": 47.23049,
+        "longitude": 9.54468
+    },
+    {
+        "name": "Letta",
+        "country": "Liechtenstein",
+        "province": "Ruggell",
+        "population": -1,
+        "latitude": 47.23899,
+        "longitude": 9.52551
+    },
+    {
+        "name": "Langäcker",
+        "country": "Liechtenstein",
+        "province": "Ruggell",
+        "population": -1,
+        "latitude": 47.23712,
+        "longitude": 9.52508
+    },
+    {
+        "name": "Hof",
+        "country": "Liechtenstein",
+        "province": "Ruggell",
+        "population": -1,
+        "latitude": 47.23518,
+        "longitude": 9.52907
+    },
+    {
+        "name": "Lutzfeld",
+        "country": "Liechtenstein",
+        "province": "Mauren",
+        "population": -1,
+        "latitude": 47.22049,
+        "longitude": 9.53768
+    },
+    {
+        "name": "Aspa",
+        "country": "Liechtenstein",
+        "province": "Eschen",
+        "population": -1,
+        "latitude": 47.21954,
+        "longitude": 9.52868
+    },
+    {
+        "name": "Rosabüeler",
+        "country": "Liechtenstein",
+        "province": "Eschen",
+        "population": -1,
+        "latitude": 47.21777,
+        "longitude": 9.52701
+    },
+    {
+        "name": "Vorderer Schaanwald",
+        "country": "Liechtenstein",
+        "province": "Mauren",
+        "population": -1,
+        "latitude": 47.207843,
+        "longitude": 9.546729
+    },
+    {
+        "name": "Flux",
+        "country": "Liechtenstein",
+        "province": "Eschen",
+        "population": -1,
+        "latitude": 47.2051,
+        "longitude": 9.5195
+    },
+    {
+        "name": "Boia",
+        "country": "Liechtenstein",
+        "province": "Liechtenstein",
+        "population": -1,
+        "latitude": 47.21897,
+        "longitude": 9.51704
+    },
+    {
+        "name": "Mösma",
+        "country": "Liechtenstein",
+        "province": "Eschen",
+        "population": -1,
+        "latitude": 47.21683,
+        "longitude": 9.52415
+    },
+    {
+        "name": "Rinkawingert",
+        "country": "Liechtenstein",
+        "province": "Eschen",
+        "population": -1,
+        "latitude": 47.21372,
+        "longitude": 9.51895
+    },
+    {
+        "name": "Gräsgarta",
+        "country": "Liechtenstein",
+        "province": "Eschen",
+        "population": -1,
+        "latitude": 47.21445,
+        "longitude": 9.51843
+    },
+    {
+        "name": "Rofaberg",
+        "country": "Liechtenstein",
+        "province": "Eschen",
+        "population": -1,
+        "latitude": 47.21264,
+        "longitude": 9.51667
+    },
+    {
+        "name": "Tona",
+        "country": "Liechtenstein",
+        "province": "Eschen",
+        "population": -1,
+        "latitude": 47.21581,
+        "longitude": 9.52076
+    },
+    {
+        "name": "Breita",
+        "country": "Liechtenstein",
+        "province": "Eschen",
+        "population": -1,
+        "latitude": 47.20995,
+        "longitude": 9.51819
+    },
+    {
+        "name": "Hueb",
+        "country": "Liechtenstein",
+        "province": "Eschen",
+        "population": -1,
+        "latitude": 47.209356,
+        "longitude": 9.529623
+    },
+    {
+        "name": "Zweistäpfle",
+        "country": "Liechtenstein",
+        "province": "Balzers",
+        "population": -1,
+        "latitude": 47.064318,
+        "longitude": 9.493346
+    },
+    {
+        "name": "Underem Schloss",
+        "country": "Liechtenstein",
+        "province": "Balzers",
+        "population": -1,
+        "latitude": 47.063971,
+        "longitude": 9.496014
+    },
+    {
+        "name": "Iradug",
+        "country": "Liechtenstein",
+        "province": "Balzers",
+        "population": -1,
+        "latitude": 47.059318,
+        "longitude": 9.497618
+    },
+    {
+        "name": "Brüel",
+        "country": "Liechtenstein",
+        "province": "Balzers",
+        "population": -1,
+        "latitude": 47.060672,
+        "longitude": 9.486892
+    },
+    {
+        "name": "Mälsner Dorf",
+        "country": "Liechtenstein",
+        "province": "Balzers",
+        "population": -1,
+        "latitude": 47.061224,
+        "longitude": 9.498117
+    },
+    {
+        "name": "Finne",
+        "country": "Liechtenstein",
+        "province": "Balzers",
+        "population": -1,
+        "latitude": 47.062485,
+        "longitude": 9.491335
+    },
+    {
+        "name": "Hampfländer",
+        "country": "Liechtenstein",
+        "province": "Balzers",
+        "population": -1,
+        "latitude": 47.062617,
+        "longitude": 9.488693
+    },
+    {
+        "name": "Underem Stein",
+        "country": "Liechtenstein",
+        "province": "Balzers",
+        "population": -1,
+        "latitude": 47.059128,
+        "longitude": 9.489987
+    },
+    {
+        "name": "Prälawisch",
+        "country": "Liechtenstein",
+        "province": "Balzers",
+        "population": -1,
+        "latitude": 47.066132,
+        "longitude": 9.511839
+    },
+    {
+        "name": "Iratell",
+        "country": "Liechtenstein",
+        "province": "Balzers",
+        "population": -1,
+        "latitude": 47.070495,
+        "longitude": 9.506961
+    },
+    {
+        "name": "Tröxle",
+        "country": "Liechtenstein",
+        "province": "Schaan",
+        "population": -1,
+        "latitude": 47.173067,
+        "longitude": 9.507121
+    },
+    {
+        "name": "Rosagarta",
+        "country": "Liechtenstein",
+        "province": "Schaan",
+        "population": -1,
+        "latitude": 47.178217,
+        "longitude": 9.506915
+    },
+    {
+        "name": "Zagalzel",
+        "country": "Liechtenstein",
+        "province": "Schaan",
+        "population": -1,
+        "latitude": 47.171225,
+        "longitude": 9.514762
+    },
+    {
+        "name": "Besch",
+        "country": "Liechtenstein",
+        "province": "Schaan",
+        "population": -1,
+        "latitude": 47.172951,
+        "longitude": 9.519261
+    },
+    {
+        "name": "Fanal",
+        "country": "Liechtenstein",
+        "province": "Schaan",
+        "population": -1,
+        "latitude": 47.16947,
+        "longitude": 9.515291
+    },
+    {
+        "name": "Speckibünta",
+        "country": "Liechtenstein",
+        "province": "Schaan",
+        "population": -1,
+        "latitude": 47.16961,
+        "longitude": 9.511741
+    },
+    {
+        "name": "Specki",
+        "country": "Liechtenstein",
+        "province": "Schaan",
+        "population": -1,
+        "latitude": 47.168752,
+        "longitude": 9.510353
+    },
+    {
+        "name": "Kresta",
+        "country": "Liechtenstein",
+        "province": "Schaan",
+        "population": -1,
+        "latitude": 47.168383,
+        "longitude": 9.514603
+    },
+    {
+        "name": "Klifeld",
+        "country": "Liechtenstein",
+        "province": "Schaan",
+        "population": -1,
+        "latitude": 47.168772,
+        "longitude": 9.519453
+    },
+    {
+        "name": "Resch",
+        "country": "Liechtenstein",
+        "province": "Schaan",
+        "population": -1,
+        "latitude": 47.16547,
+        "longitude": 9.51503
+    },
+    {
+        "name": "Dux",
+        "country": "Liechtenstein",
+        "province": "Schaan",
+        "population": -1,
+        "latitude": 47.165709,
+        "longitude": 9.519031
+    },
+    {
+        "name": "Garsill",
+        "country": "Liechtenstein",
+        "province": "Schaan",
+        "population": -1,
+        "latitude": 47.164353,
+        "longitude": 9.519879
+    },
+    {
+        "name": "Rossfeld",
+        "country": "Liechtenstein",
+        "province": "Schaan",
+        "population": -1,
+        "latitude": 47.166058,
+        "longitude": 9.513186
+    },
+    {
+        "name": "Egerta",
+        "country": "Liechtenstein",
+        "province": "Schaan",
+        "population": -1,
+        "latitude": 47.166378,
+        "longitude": 9.50781
+    },
+    {
+        "name": "Malarsch",
+        "country": "Liechtenstein",
+        "province": "Schaan",
+        "population": -1,
+        "latitude": 47.16967,
+        "longitude": 9.506523
+    },
+    {
+        "name": "Lindaplatz",
+        "country": "Liechtenstein",
+        "province": "Schaan",
+        "population": -1,
+        "latitude": 47.167326,
+        "longitude": 9.508767
+    },
+    {
+        "name": "Bim Krüz",
+        "country": "Liechtenstein",
+        "province": "Schaan",
+        "population": -1,
+        "latitude": 47.167744,
+        "longitude": 9.502802
+    },
+    {
+        "name": "Rösle",
+        "country": "Liechtenstein",
+        "province": "Schaan",
+        "population": -1,
+        "latitude": 47.169939,
+        "longitude": 9.503571
+    },
+    {
+        "name": "Pardiel",
+        "country": "Liechtenstein",
+        "province": "Schaan",
+        "population": -1,
+        "latitude": 47.165151,
+        "longitude": 9.504478
+    },
+    {
+        "name": "Hafner",
+        "country": "Liechtenstein",
+        "province": "Schaan",
+        "population": -1,
+        "latitude": 47.161241,
+        "longitude": 9.507501
+    },
+    {
+        "name": "Quader",
+        "country": "Liechtenstein",
+        "province": "Schaan",
+        "population": -1,
+        "latitude": 47.160721,
+        "longitude": 9.511381
+    },
+    {
+        "name": "Gapetsch",
+        "country": "Liechtenstein",
+        "province": "Schaan",
+        "population": -1,
+        "latitude": 47.159656,
+        "longitude": 9.505554
+    },
+    {
+        "name": "Sax",
+        "country": "Liechtenstein",
+        "province": "Schaan",
+        "population": -1,
+        "latitude": 47.159993,
+        "longitude": 9.508398
+    },
+    {
+        "name": "Krüzbünt",
+        "country": "Liechtenstein",
+        "province": "Schaan",
+        "population": -1,
+        "latitude": 47.160921,
+        "longitude": 9.517096
+    },
+    {
+        "name": "Gafos",
+        "country": "Liechtenstein",
+        "province": "Schaan",
+        "population": -1,
+        "latitude": 47.16139,
+        "longitude": 9.521236
+    },
+    {
+        "name": "Stein-Egerta",
+        "country": "Liechtenstein",
+        "province": "Schaan",
+        "population": -1,
+        "latitude": 47.162742,
+        "longitude": 9.520842
+    },
+    {
+        "name": "Maree",
+        "country": "Liechtenstein",
+        "province": "Vaduz",
+        "population": -1,
+        "latitude": 47.14596,
+        "longitude": 9.523523
+    },
+    {
+        "name": "Iratetsch",
+        "country": "Liechtenstein",
+        "province": "Vaduz",
+        "population": -1,
+        "latitude": 47.14693,
+        "longitude": 9.520172
+    },
+    {
+        "name": "Quäderli",
+        "country": "Liechtenstein",
+        "province": "Vaduz",
+        "population": -1,
+        "latitude": 47.142987,
+        "longitude": 9.517411
+    },
+    {
+        "name": "Pradafant",
+        "country": "Liechtenstein",
+        "province": "Vaduz",
+        "population": -1,
+        "latitude": 47.146154,
+        "longitude": 9.51314
+    },
+    {
+        "name": "Bartlegrosch",
+        "country": "Liechtenstein",
+        "province": "Vaduz",
+        "population": -1,
+        "latitude": 47.148311,
+        "longitude": 9.510787
+    },
+    {
+        "name": "Äuli",
+        "country": "Liechtenstein",
+        "province": "Vaduz",
+        "population": -1,
+        "latitude": 47.139517,
+        "longitude": 9.520579
+    },
+    {
+        "name": "Heiligkrüz",
+        "country": "Liechtenstein",
+        "province": "Vaduz",
+        "population": -1,
+        "latitude": 47.134732,
+        "longitude": 9.521723
+    },
+    {
+        "name": "Underau",
+        "country": "Liechtenstein",
+        "province": "Vaduz",
+        "population": -1,
+        "latitude": 47.133205,
+        "longitude": 9.517582
+    },
+    {
+        "name": "Spania",
+        "country": "Liechtenstein",
+        "province": "Vaduz",
+        "population": -1,
+        "latitude": 47.133168,
+        "longitude": 9.523642
+    },
+    {
+        "name": "Toniäuli",
+        "country": "Liechtenstein",
+        "province": "Vaduz",
+        "population": -1,
+        "latitude": 47.13765,
+        "longitude": 9.518608
+    },
+    {
+        "name": "Städtli",
+        "country": "Liechtenstein",
+        "province": "Vaduz",
+        "population": -1,
+        "latitude": 47.140397,
+        "longitude": 9.522748
+    },
+    {
+        "name": "Mölihölzli",
+        "country": "Liechtenstein",
+        "province": "Vaduz",
+        "population": -1,
+        "latitude": 47.135077,
+        "longitude": 9.514047
+    },
+    {
+        "name": "Schwefel",
+        "country": "Liechtenstein",
+        "province": "Vaduz",
+        "population": -1,
+        "latitude": 47.129974,
+        "longitude": 9.524404
+    },
+    {
+        "name": "Altrütti",
+        "country": "Liechtenstein",
+        "province": "Vaduz",
+        "population": -1,
+        "latitude": 47.123823,
+        "longitude": 9.524089
+    }
+]

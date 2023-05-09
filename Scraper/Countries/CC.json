@@ -1,0 +1,18 @@
+[
+    {
+        "name": "West Island",
+        "country": "Cocos (Keeling) Islands",
+        "province": "Cocos (Keeling) Islands",
+        "population": 120,
+        "latitude": -12.1568147162497,
+        "longitude": 96.822509765625
+    },
+    {
+        "name": "Bantam Village",
+        "country": "Cocos (Keeling) Islands",
+        "province": "Cocos (Keeling) Islands",
+        "population": 500,
+        "latitude": -12.116447661867456,
+        "longitude": 96.89496695995331
+    }
+]

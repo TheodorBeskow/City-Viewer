@@ -1,0 +1,3674 @@
+[
+    {
+        "name": "Port of Spain",
+        "country": "Trinidad and Tobago",
+        "province": "Port of Spain",
+        "population": 49031,
+        "latitude": 10.66668,
+        "longitude": -61.51889
+    },
+    {
+        "name": "Chaguanas",
+        "country": "Trinidad and Tobago",
+        "province": "Chaguanas",
+        "population": 67433,
+        "latitude": 10.5166667,
+        "longitude": -61.4166667
+    },
+    {
+        "name": "San Fernando",
+        "country": "Trinidad and Tobago",
+        "province": "San Fernando",
+        "population": 55419,
+        "latitude": 10.279694,
+        "longitude": -61.468351
+    },
+    {
+        "name": "Rio Claro",
+        "country": "Trinidad and Tobago",
+        "province": "Mayaro",
+        "population": 35650,
+        "latitude": 10.305938,
+        "longitude": -61.175559
+    },
+    {
+        "name": "Mon Repos",
+        "country": "Trinidad and Tobago",
+        "province": "San Fernando",
+        "population": 56380,
+        "latitude": 10.279794,
+        "longitude": -61.445904
+    },
+    {
+        "name": "Marabella",
+        "country": "Trinidad and Tobago",
+        "province": "San Fernando",
+        "population": 26700,
+        "latitude": 10.306178,
+        "longitude": -61.446714
+    },
+    {
+        "name": "Laventille",
+        "country": "Trinidad and Tobago",
+        "province": "San Juan/Laventille",
+        "population": 21000,
+        "latitude": 10.6491667,
+        "longitude": -61.4988889
+    },
+    {
+        "name": "Arima",
+        "country": "Trinidad and Tobago",
+        "province": "Borough of Arima",
+        "population": 35000,
+        "latitude": 10.637366,
+        "longitude": -61.282276
+    },
+    {
+        "name": "Tunapuna",
+        "country": "Trinidad and Tobago",
+        "province": "Tunapuna/Piarco",
+        "population": 17758,
+        "latitude": 10.652449,
+        "longitude": -61.388778
+    },
+    {
+        "name": "Point Fortin",
+        "country": "Trinidad and Tobago",
+        "province": "Point Fortin",
+        "population": 19056,
+        "latitude": 10.174112,
+        "longitude": -61.684074
+    },
+    {
+        "name": "Siparia",
+        "country": "Trinidad and Tobago",
+        "province": "Siparia",
+        "population": 8568,
+        "latitude": 10.145253,
+        "longitude": -61.507399
+    },
+    {
+        "name": "Scarborough",
+        "country": "Trinidad and Tobago",
+        "province": "Tobago",
+        "population": 17000,
+        "latitude": 11.18229,
+        "longitude": -60.73525
+    },
+    {
+        "name": "Sangre Grande",
+        "country": "Trinidad and Tobago",
+        "province": "Sangre Grande",
+        "population": 15968,
+        "latitude": 10.58705,
+        "longitude": -61.13008
+    },
+    {
+        "name": "Princes Town",
+        "country": "Trinidad and Tobago",
+        "province": "Princes Town",
+        "population": 10000,
+        "latitude": 10.271836,
+        "longitude": -61.371031
+    },
+    {
+        "name": "Peñal",
+        "country": "Trinidad and Tobago",
+        "province": "Penal/Debe",
+        "population": 12281,
+        "latitude": 10.1666667,
+        "longitude": -61.4666667
+    },
+    {
+        "name": "Couva",
+        "country": "Trinidad and Tobago",
+        "province": "Couva-Tabaquite-Talparo",
+        "population": 5178,
+        "latitude": 10.422481901567691,
+        "longitude": -61.46747589111328
+    },
+    {
+        "name": "Arouca",
+        "country": "Trinidad and Tobago",
+        "province": "Tunapuna/Piarco",
+        "population": 12054,
+        "latitude": 10.628773,
+        "longitude": -61.334868
+    },
+    {
+        "name": "Tabaquite",
+        "country": "Trinidad and Tobago",
+        "province": "Couva-Tabaquite-Talparo",
+        "population": 3314,
+        "latitude": 10.38824,
+        "longitude": -61.297045
+    },
+    {
+        "name": "Diego Martin",
+        "country": "Trinidad and Tobago",
+        "province": "Diego Martin",
+        "population": -1,
+        "latitude": 10.720815,
+        "longitude": -61.566156
+    },
+    {
+        "name": "Debe",
+        "country": "Trinidad and Tobago",
+        "province": "Penal/Debe",
+        "population": 3127,
+        "latitude": 10.208456,
+        "longitude": -61.452735
+    },
+    {
+        "name": "Valsayn",
+        "country": "Trinidad and Tobago",
+        "province": "Tunapuna/Piarco",
+        "population": -1,
+        "latitude": 10.640606,
+        "longitude": -61.417886
+    },
+    {
+        "name": "Valencia",
+        "country": "Trinidad and Tobago",
+        "province": "Sangre Grande",
+        "population": -1,
+        "latitude": 10.649883,
+        "longitude": -61.199926
+    },
+    {
+        "name": "Toco",
+        "country": "Trinidad and Tobago",
+        "province": "Sangre Grande",
+        "population": -1,
+        "latitude": 10.833297,
+        "longitude": -60.946417
+    },
+    {
+        "name": "Talparo",
+        "country": "Trinidad and Tobago",
+        "province": "Couva-Tabaquite-Talparo",
+        "population": -1,
+        "latitude": 10.5,
+        "longitude": -61.266667
+    },
+    {
+        "name": "Speyside",
+        "country": "Trinidad and Tobago",
+        "province": "Tobago",
+        "population": -1,
+        "latitude": 11.29694,
+        "longitude": -60.537952
+    },
+    {
+        "name": "South Oropouche",
+        "country": "Trinidad and Tobago",
+        "province": "Siparia",
+        "population": -1,
+        "latitude": 10.227913,
+        "longitude": -61.547694
+    },
+    {
+        "name": "Santa Cruz",
+        "country": "Trinidad and Tobago",
+        "province": "San Juan/Laventille",
+        "population": -1,
+        "latitude": 10.722774,
+        "longitude": -61.469814
+    },
+    {
+        "name": "San Juan",
+        "country": "Trinidad and Tobago",
+        "province": "San Juan/Laventille",
+        "population": -1,
+        "latitude": 10.6579,
+        "longitude": -61.445657
+    },
+    {
+        "name": "Saint James",
+        "country": "Trinidad and Tobago",
+        "province": "Port of Spain",
+        "population": -1,
+        "latitude": 10.671706,
+        "longitude": -61.53446
+    },
+    {
+        "name": "Saint Augustine",
+        "country": "Trinidad and Tobago",
+        "province": "Tunapuna/Piarco",
+        "population": -1,
+        "latitude": 10.641959,
+        "longitude": -61.392417
+    },
+    {
+        "name": "Roxborough",
+        "country": "Trinidad and Tobago",
+        "province": "Tobago",
+        "population": -1,
+        "latitude": 11.249454,
+        "longitude": -60.575969
+    },
+    {
+        "name": "Pointe-à-Pierre",
+        "country": "Trinidad and Tobago",
+        "province": "Couva-Tabaquite-Talparo",
+        "population": -1,
+        "latitude": 10.31822,
+        "longitude": -61.45917
+    },
+    {
+        "name": "Piparo",
+        "country": "Trinidad and Tobago",
+        "province": "Princes Town",
+        "population": -1,
+        "latitude": 10.339746,
+        "longitude": -61.341187
+    },
+    {
+        "name": "Piarco",
+        "country": "Trinidad and Tobago",
+        "province": "Tunapuna/Piarco",
+        "population": -1,
+        "latitude": 10.588101,
+        "longitude": -61.32488
+    },
+    {
+        "name": "Petit Trou",
+        "country": "Trinidad and Tobago",
+        "province": "Sangre Grande",
+        "population": -1,
+        "latitude": 10.832622,
+        "longitude": -60.936412
+    },
+    {
+        "name": "Pembroke",
+        "country": "Trinidad and Tobago",
+        "province": "Tobago",
+        "population": -1,
+        "latitude": 11.217183,
+        "longitude": -60.624842
+    },
+    {
+        "name": "Morvant",
+        "country": "Trinidad and Tobago",
+        "province": "San Juan/Laventille",
+        "population": -1,
+        "latitude": 10.662966,
+        "longitude": -61.476388
+    },
+    {
+        "name": "Matelot",
+        "country": "Trinidad and Tobago",
+        "province": "Sangre Grande",
+        "population": -1,
+        "latitude": 10.819204,
+        "longitude": -61.126271
+    },
+    {
+        "name": "Maraval",
+        "country": "Trinidad and Tobago",
+        "province": "Diego Martin",
+        "population": -1,
+        "latitude": 10.707411,
+        "longitude": -61.509592
+    },
+    {
+        "name": "Malabar Settlement",
+        "country": "Trinidad and Tobago",
+        "province": "Borough of Arima",
+        "population": -1,
+        "latitude": 10.625307,
+        "longitude": -61.281397
+    },
+    {
+        "name": "Lopinot",
+        "country": "Trinidad and Tobago",
+        "province": "Tunapuna/Piarco",
+        "population": -1,
+        "latitude": 10.688873,
+        "longitude": -61.325768
+    },
+    {
+        "name": "La Brea",
+        "country": "Trinidad and Tobago",
+        "province": "Siparia",
+        "population": -1,
+        "latitude": 10.242345,
+        "longitude": -61.613268
+    },
+    {
+        "name": "Kelly Village",
+        "country": "Trinidad and Tobago",
+        "province": "Tunapuna/Piarco",
+        "population": -1,
+        "latitude": 10.586884,
+        "longitude": -61.359246
+    },
+    {
+        "name": "Iere",
+        "country": "Trinidad and Tobago",
+        "province": "Princes Town",
+        "population": -1,
+        "latitude": 10.286845,
+        "longitude": -61.388939
+    },
+    {
+        "name": "Guayaguayare",
+        "country": "Trinidad and Tobago",
+        "province": "Mayaro",
+        "population": -1,
+        "latitude": 10.14717,
+        "longitude": -61.03214
+    },
+    {
+        "name": "Guaico",
+        "country": "Trinidad and Tobago",
+        "province": "Sangre Grande",
+        "population": -1,
+        "latitude": 10.594784,
+        "longitude": -61.152208
+    },
+    {
+        "name": "Grande Riviere",
+        "country": "Trinidad and Tobago",
+        "province": "Sangre Grande",
+        "population": -1,
+        "latitude": 10.825158,
+        "longitude": -61.050949
+    },
+    {
+        "name": "Gasparillo",
+        "country": "Trinidad and Tobago",
+        "province": "Couva-Tabaquite-Talparo",
+        "population": -1,
+        "latitude": 10.317041,
+        "longitude": -61.426026
+    },
+    {
+        "name": "Fyzabad",
+        "country": "Trinidad and Tobago",
+        "province": "Siparia",
+        "population": -1,
+        "latitude": 10.1811,
+        "longitude": -61.545776
+    },
+    {
+        "name": "Dibe",
+        "country": "Trinidad and Tobago",
+        "province": "Diego Martin",
+        "population": -1,
+        "latitude": 10.683465,
+        "longitude": -61.531165
+    },
+    {
+        "name": "D’Abadie",
+        "country": "Trinidad and Tobago",
+        "province": "Tunapuna/Piarco",
+        "population": -1,
+        "latitude": 10.627254,
+        "longitude": -61.313149
+    },
+    {
+        "name": "Curepe",
+        "country": "Trinidad and Tobago",
+        "province": "Tunapuna/Piarco",
+        "population": -1,
+        "latitude": 10.633333,
+        "longitude": -61.4
+    },
+    {
+        "name": "Cunupia",
+        "country": "Trinidad and Tobago",
+        "province": "Chaguanas",
+        "population": -1,
+        "latitude": 10.547395,
+        "longitude": -61.375559
+    },
+    {
+        "name": "Cumuto",
+        "country": "Trinidad and Tobago",
+        "province": "Sangre Grande",
+        "population": -1,
+        "latitude": 10.586586,
+        "longitude": -61.207835
+    },
+    {
+        "name": "Claxton Bay",
+        "country": "Trinidad and Tobago",
+        "province": "Couva-Tabaquite-Talparo",
+        "population": -1,
+        "latitude": 10.366374,
+        "longitude": -61.459851
+    },
+    {
+        "name": "Chickland",
+        "country": "Trinidad and Tobago",
+        "province": "Couva-Tabaquite-Talparo",
+        "population": -1,
+        "latitude": 10.427349,
+        "longitude": -61.375891
+    },
+    {
+        "name": "Charlotteville",
+        "country": "Trinidad and Tobago",
+        "province": "Tobago",
+        "population": -1,
+        "latitude": 11.325555,
+        "longitude": -60.547125
+    },
+    {
+        "name": "Chaguaramas",
+        "country": "Trinidad and Tobago",
+        "province": "Diego Martin",
+        "population": -1,
+        "latitude": 10.682511,
+        "longitude": -61.64468
+    },
+    {
+        "name": "Castara",
+        "country": "Trinidad and Tobago",
+        "province": "Tobago",
+        "population": -1,
+        "latitude": 11.27983,
+        "longitude": -60.691019
+    },
+    {
+        "name": "Carenage",
+        "country": "Trinidad and Tobago",
+        "province": "Diego Martin",
+        "population": -1,
+        "latitude": 10.688672,
+        "longitude": -61.593013
+    },
+    {
+        "name": "Carapichaima",
+        "country": "Trinidad and Tobago",
+        "province": "Couva-Tabaquite-Talparo",
+        "population": -1,
+        "latitude": 10.477142,
+        "longitude": -61.447437
+    },
+    {
+        "name": "Canaan",
+        "country": "Trinidad and Tobago",
+        "province": "Tobago",
+        "population": -1,
+        "latitude": 11.16042,
+        "longitude": -60.81259
+    },
+    {
+        "name": "California",
+        "country": "Trinidad and Tobago",
+        "province": "Couva-Tabaquite-Talparo",
+        "population": -1,
+        "latitude": 10.409232,
+        "longitude": -61.472881
+    },
+    {
+        "name": "Buenos Ayres",
+        "country": "Trinidad and Tobago",
+        "province": "Siparia",
+        "population": -1,
+        "latitude": 10.104105,
+        "longitude": -61.684207
+    },
+    {
+        "name": "Bonne Aventure",
+        "country": "Trinidad and Tobago",
+        "province": "Couva-Tabaquite-Talparo",
+        "population": -1,
+        "latitude": 10.333649,
+        "longitude": -61.410946
+    },
+    {
+        "name": "Bonasse",
+        "country": "Trinidad and Tobago",
+        "province": "Siparia",
+        "population": -1,
+        "latitude": 10.091031,
+        "longitude": -61.860966
+    },
+    {
+        "name": "Blanchisseuse",
+        "country": "Trinidad and Tobago",
+        "province": "Tunapuna/Piarco",
+        "population": -1,
+        "latitude": 10.795968,
+        "longitude": -61.309777
+    },
+    {
+        "name": "Biche",
+        "country": "Trinidad and Tobago",
+        "province": "Mayaro",
+        "population": -1,
+        "latitude": 10.429063,
+        "longitude": -61.133706
+    },
+    {
+        "name": "Belmont",
+        "country": "Trinidad and Tobago",
+        "province": "Port of Spain",
+        "population": -1,
+        "latitude": 10.668171,
+        "longitude": -61.505738
+    },
+    {
+        "name": "Barataria",
+        "country": "Trinidad and Tobago",
+        "province": "San Juan/Laventille",
+        "population": -1,
+        "latitude": 10.647167,
+        "longitude": -61.459957
+    },
+    {
+        "name": "Bacolet",
+        "country": "Trinidad and Tobago",
+        "province": "Tobago",
+        "population": -1,
+        "latitude": 11.175388,
+        "longitude": -60.722629
+    },
+    {
+        "name": "Arnos Vale",
+        "country": "Trinidad and Tobago",
+        "province": "Tobago",
+        "population": -1,
+        "latitude": 11.20863,
+        "longitude": -60.75667
+    },
+    {
+        "name": "Trincity",
+        "country": "Trinidad and Tobago",
+        "province": "Tunapuna/Piarco",
+        "population": -1,
+        "latitude": 10.6353,
+        "longitude": -61.35469
+    },
+    {
+        "name": "Vistabella",
+        "country": "Trinidad and Tobago",
+        "province": "San Fernando",
+        "population": -1,
+        "latitude": 10.289202,
+        "longitude": -61.45414
+    },
+    {
+        "name": "San Francique",
+        "country": "Trinidad and Tobago",
+        "province": "Siparia",
+        "population": -1,
+        "latitude": 10.076085,
+        "longitude": -61.653408
+    },
+    {
+        "name": "Salybia",
+        "country": "Trinidad and Tobago",
+        "province": "Sangre Grande",
+        "population": -1,
+        "latitude": 10.701491,
+        "longitude": -61.03053
+    },
+    {
+        "name": "Saint Mary’s",
+        "country": "Trinidad and Tobago",
+        "province": "Siparia",
+        "population": -1,
+        "latitude": 10.223294,
+        "longitude": -61.542508
+    },
+    {
+        "name": "Sainte Madeleine",
+        "country": "Trinidad and Tobago",
+        "province": "Princes Town",
+        "population": -1,
+        "latitude": 10.271885,
+        "longitude": -61.429728
+    },
+    {
+        "name": "Sainte Croix",
+        "country": "Trinidad and Tobago",
+        "province": "Princes Town",
+        "population": -1,
+        "latitude": 10.26291,
+        "longitude": -61.368663
+    },
+    {
+        "name": "Plum Mitan",
+        "country": "Trinidad and Tobago",
+        "province": "Mayaro",
+        "population": -1,
+        "latitude": 10.45,
+        "longitude": -61.116667
+    },
+    {
+        "name": "Paradise",
+        "country": "Trinidad and Tobago",
+        "province": "Tunapuna/Piarco",
+        "population": 15067,
+        "latitude": 10.652977,
+        "longitude": -61.362979
+    },
+    {
+        "name": "Mucurapo",
+        "country": "Trinidad and Tobago",
+        "province": "Port of Spain",
+        "population": 4342,
+        "latitude": 10.662526,
+        "longitude": -61.536965
+    },
+    {
+        "name": "Moruga",
+        "country": "Trinidad and Tobago",
+        "province": "Princes Town",
+        "population": -1,
+        "latitude": 10.087779,
+        "longitude": -61.280719
+    },
+    {
+        "name": "L’Anse Noire",
+        "country": "Trinidad and Tobago",
+        "province": "Sangre Grande",
+        "population": -1,
+        "latitude": 10.834787,
+        "longitude": -60.97888
+    },
+    {
+        "name": "Guanapo",
+        "country": "Trinidad and Tobago",
+        "province": "Tunapuna/Piarco",
+        "population": -1,
+        "latitude": 10.597411,
+        "longitude": -61.268186
+    },
+    {
+        "name": "Filette",
+        "country": "Trinidad and Tobago",
+        "province": "San Juan/Laventille",
+        "population": -1,
+        "latitude": 10.80576,
+        "longitude": -61.35897
+    },
+    {
+        "name": "Dowe",
+        "country": "Trinidad and Tobago",
+        "province": "Couva-Tabaquite-Talparo",
+        "population": -1,
+        "latitude": 10.403528,
+        "longitude": -61.470809
+    },
+    {
+        "name": "Chase Village",
+        "country": "Trinidad and Tobago",
+        "province": "Couva-Tabaquite-Talparo",
+        "population": -1,
+        "latitude": 10.476489,
+        "longitude": -61.411075
+    },
+    {
+        "name": "Bon Accord",
+        "country": "Trinidad and Tobago",
+        "province": "Tobago",
+        "population": -1,
+        "latitude": 11.1616,
+        "longitude": -60.82512
+    },
+    {
+        "name": "Barrackpore",
+        "country": "Trinidad and Tobago",
+        "province": "Penal/Debe",
+        "population": -1,
+        "latitude": 10.206348,
+        "longitude": -61.395758
+    },
+    {
+        "name": "Balmain",
+        "country": "Trinidad and Tobago",
+        "province": "Couva-Tabaquite-Talparo",
+        "population": -1,
+        "latitude": 10.421005,
+        "longitude": -61.428436
+    },
+    {
+        "name": "Woodlands",
+        "country": "Trinidad and Tobago",
+        "province": "Princes Town",
+        "population": -1,
+        "latitude": 10.256843,
+        "longitude": -61.399821
+    },
+    {
+        "name": "Williamsville",
+        "country": "Trinidad and Tobago",
+        "province": "Princes Town",
+        "population": -1,
+        "latitude": 10.312832,
+        "longitude": -61.382959
+    },
+    {
+        "name": "Warners",
+        "country": "Trinidad and Tobago",
+        "province": "San Juan/Laventille",
+        "population": -1,
+        "latitude": 10.573028,
+        "longitude": -61.417083
+    },
+    {
+        "name": "Victoria",
+        "country": "Trinidad and Tobago",
+        "province": "San Fernando",
+        "population": -1,
+        "latitude": 10.261194,
+        "longitude": -61.45474
+    },
+    {
+        "name": "Upper Carapichaima",
+        "country": "Trinidad and Tobago",
+        "province": "Couva-Tabaquite-Talparo",
+        "population": -1,
+        "latitude": 10.445562,
+        "longitude": -61.396342
+    },
+    {
+        "name": "Union",
+        "country": "Trinidad and Tobago",
+        "province": "San Fernando",
+        "population": -1,
+        "latitude": 10.302124,
+        "longitude": -61.440426
+    },
+    {
+        "name": "Todd’s Road",
+        "country": "Trinidad and Tobago",
+        "province": "Couva-Tabaquite-Talparo",
+        "population": -1,
+        "latitude": 10.481042,
+        "longitude": -61.333265
+    },
+    {
+        "name": "Tableland",
+        "country": "Trinidad and Tobago",
+        "province": "Princes Town",
+        "population": -1,
+        "latitude": 10.278027,
+        "longitude": -61.271107
+    },
+    {
+        "name": "Spring",
+        "country": "Trinidad and Tobago",
+        "province": "Couva-Tabaquite-Talparo",
+        "population": -1,
+        "latitude": 10.420963,
+        "longitude": -61.426238
+    },
+    {
+        "name": "Sixth Company",
+        "country": "Trinidad and Tobago",
+        "province": "Princes Town",
+        "population": -1,
+        "latitude": 10.26259,
+        "longitude": -61.345186
+    },
+    {
+        "name": "San Rafael",
+        "country": "Trinidad and Tobago",
+        "province": "Couva-Tabaquite-Talparo",
+        "population": -1,
+        "latitude": 10.573545,
+        "longitude": -61.269942
+    },
+    {
+        "name": "Sangre Chiquita",
+        "country": "Trinidad and Tobago",
+        "province": "Sangre Grande",
+        "population": -1,
+        "latitude": 10.566982,
+        "longitude": -61.111545
+    },
+    {
+        "name": "Saint Thomas",
+        "country": "Trinidad and Tobago",
+        "province": "Chaguanas",
+        "population": -1,
+        "latitude": 10.519742,
+        "longitude": -61.423408
+    },
+    {
+        "name": "Saint Margaret",
+        "country": "Trinidad and Tobago",
+        "province": "Couva-Tabaquite-Talparo",
+        "population": -1,
+        "latitude": 10.345159,
+        "longitude": -61.452767
+    },
+    {
+        "name": "Saint Julien",
+        "country": "Trinidad and Tobago",
+        "province": "Princes Town",
+        "population": -1,
+        "latitude": 10.271086,
+        "longitude": -61.358843
+    },
+    {
+        "name": "Saint Joseph",
+        "country": "Trinidad and Tobago",
+        "province": "Tunapuna/Piarco",
+        "population": -1,
+        "latitude": 10.655817,
+        "longitude": -61.418126
+    },
+    {
+        "name": "Saint Joseph",
+        "country": "Trinidad and Tobago",
+        "province": "San Fernando",
+        "population": -1,
+        "latitude": 10.284479,
+        "longitude": -61.446972
+    },
+    {
+        "name": "Saint John",
+        "country": "Trinidad and Tobago",
+        "province": "Princes Town",
+        "population": -1,
+        "latitude": 10.247513,
+        "longitude": -61.418342
+    },
+    {
+        "name": "Saint Clair",
+        "country": "Trinidad and Tobago",
+        "province": "Port of Spain",
+        "population": -1,
+        "latitude": 10.670393,
+        "longitude": -61.521685
+    },
+    {
+        "name": "Runnemede",
+        "country": "Trinidad and Tobago",
+        "province": "Tobago",
+        "population": -1,
+        "latitude": 11.252376,
+        "longitude": -60.706292
+    },
+    {
+        "name": "Roussillac",
+        "country": "Trinidad and Tobago",
+        "province": "Siparia",
+        "population": -1,
+        "latitude": 10.214971,
+        "longitude": -61.582644
+    },
+    {
+        "name": "Redhead",
+        "country": "Trinidad and Tobago",
+        "province": "Sangre Grande",
+        "population": -1,
+        "latitude": 10.791742,
+        "longitude": -60.945289
+    },
+    {
+        "name": "Rampanalgas",
+        "country": "Trinidad and Tobago",
+        "province": "Sangre Grande",
+        "population": -1,
+        "latitude": 10.735122,
+        "longitude": -60.983572
+    },
+    {
+        "name": "Rambert",
+        "country": "Trinidad and Tobago",
+        "province": "Penal/Debe",
+        "population": -1,
+        "latitude": 10.238822,
+        "longitude": -61.47441
+    },
+    {
+        "name": "Preau",
+        "country": "Trinidad and Tobago",
+        "province": "Princes Town",
+        "population": -1,
+        "latitude": 10.202574,
+        "longitude": -61.316137
+    },
+    {
+        "name": "Petit Valley",
+        "country": "Trinidad and Tobago",
+        "province": "Diego Martin",
+        "population": 8140,
+        "latitude": 10.69974,
+        "longitude": -61.54717
+    },
+    {
+        "name": "Pepper Village",
+        "country": "Trinidad and Tobago",
+        "province": "Couva-Tabaquite-Talparo",
+        "population": -1,
+        "latitude": 10.403222,
+        "longitude": -61.356376
+    },
+    {
+        "name": "Palo Seco",
+        "country": "Trinidad and Tobago",
+        "province": "Siparia",
+        "population": -1,
+        "latitude": 10.093446,
+        "longitude": -61.589204
+    },
+    {
+        "name": "Palmyra",
+        "country": "Trinidad and Tobago",
+        "province": "Princes Town",
+        "population": -1,
+        "latitude": 10.281441,
+        "longitude": -61.427529
+    },
+    {
+        "name": "Orange Valley",
+        "country": "Trinidad and Tobago",
+        "province": "Couva-Tabaquite-Talparo",
+        "population": -1,
+        "latitude": 10.459101,
+        "longitude": -61.473045
+    },
+    {
+        "name": "Mount Stewart",
+        "country": "Trinidad and Tobago",
+        "province": "Princes Town",
+        "population": -1,
+        "latitude": 10.289926,
+        "longitude": -61.406072
+    },
+    {
+        "name": "Mount Saint George",
+        "country": "Trinidad and Tobago",
+        "province": "Tobago",
+        "population": -1,
+        "latitude": 11.194976,
+        "longitude": -60.682601
+    },
+    {
+        "name": "Moriah",
+        "country": "Trinidad and Tobago",
+        "province": "Tobago",
+        "population": -1,
+        "latitude": 11.246063,
+        "longitude": -60.713653
+    },
+    {
+        "name": "Montrose",
+        "country": "Trinidad and Tobago",
+        "province": "Tobago",
+        "population": -1,
+        "latitude": 11.201405,
+        "longitude": -60.653122
+    },
+    {
+        "name": "Monkey Town",
+        "country": "Trinidad and Tobago",
+        "province": "Penal/Debe",
+        "population": -1,
+        "latitude": 10.213821,
+        "longitude": -61.426525
+    },
+    {
+        "name": "Mc Bean",
+        "country": "Trinidad and Tobago",
+        "province": "Couva-Tabaquite-Talparo",
+        "population": -1,
+        "latitude": 10.447672,
+        "longitude": -61.452153
+    },
+    {
+        "name": "Mayo",
+        "country": "Trinidad and Tobago",
+        "province": "Couva-Tabaquite-Talparo",
+        "population": -1,
+        "latitude": 10.354219,
+        "longitude": -61.381417
+    },
+    {
+        "name": "Maracas",
+        "country": "Trinidad and Tobago",
+        "province": "Tunapuna/Piarco",
+        "population": -1,
+        "latitude": 10.710587,
+        "longitude": -61.419648
+    },
+    {
+        "name": "Manahambre",
+        "country": "Trinidad and Tobago",
+        "province": "Princes Town",
+        "population": -1,
+        "latitude": 10.266778,
+        "longitude": -61.384817
+    },
+    {
+        "name": "Mamoral",
+        "country": "Trinidad and Tobago",
+        "province": "Couva-Tabaquite-Talparo",
+        "population": -1,
+        "latitude": 10.448952,
+        "longitude": -61.290827
+    },
+    {
+        "name": "Lower Quarter",
+        "country": "Trinidad and Tobago",
+        "province": "Tobago",
+        "population": -1,
+        "latitude": 11.206022,
+        "longitude": -60.765116
+    },
+    {
+        "name": "Lothian",
+        "country": "Trinidad and Tobago",
+        "province": "Princes Town",
+        "population": -1,
+        "latitude": 10.256378,
+        "longitude": -61.381223
+    },
+    {
+        "name": "Longdenville",
+        "country": "Trinidad and Tobago",
+        "province": "Chaguanas",
+        "population": -1,
+        "latitude": 10.506183,
+        "longitude": -61.372197
+    },
+    {
+        "name": "Lengua",
+        "country": "Trinidad and Tobago",
+        "province": "Princes Town",
+        "population": -1,
+        "latitude": 10.254917,
+        "longitude": -61.367247
+    },
+    {
+        "name": "La Veronica",
+        "country": "Trinidad and Tobago",
+        "province": "Tunapuna/Piarco",
+        "population": -1,
+        "latitude": 10.7,
+        "longitude": -61.35
+    },
+    {
+        "name": "La Pastora",
+        "country": "Trinidad and Tobago",
+        "province": "Tunapuna/Piarco",
+        "population": -1,
+        "latitude": 10.699691,
+        "longitude": -61.316133
+    },
+    {
+        "name": "La Carrière",
+        "country": "Trinidad and Tobago",
+        "province": "Couva-Tabaquite-Talparo",
+        "population": -1,
+        "latitude": 10.31575,
+        "longitude": -61.44795
+    },
+    {
+        "name": "Jermingham Junction",
+        "country": "Trinidad and Tobago",
+        "province": "Chaguanas",
+        "population": -1,
+        "latitude": 10.548824,
+        "longitude": -61.399367
+    },
+    {
+        "name": "James Smart",
+        "country": "Trinidad and Tobago",
+        "province": "Sangre Grande",
+        "population": -1,
+        "latitude": 10.55,
+        "longitude": -61.083333
+    },
+    {
+        "name": "Homard",
+        "country": "Trinidad and Tobago",
+        "province": "Sangre Grande",
+        "population": -1,
+        "latitude": 10.828373,
+        "longitude": -61.068766
+    },
+    {
+        "name": "Hermitage",
+        "country": "Trinidad and Tobago",
+        "province": "Penal/Debe",
+        "population": -1,
+        "latitude": 10.235486,
+        "longitude": -61.461155
+    },
+    {
+        "name": "Hasnalli",
+        "country": "Trinidad and Tobago",
+        "province": "Sangre Grande",
+        "population": -1,
+        "latitude": 10.562551,
+        "longitude": -61.196601
+    },
+    {
+        "name": "Guaracara Junction",
+        "country": "Trinidad and Tobago",
+        "province": "Couva-Tabaquite-Talparo",
+        "population": -1,
+        "latitude": 10.3797,
+        "longitude": -61.325409
+    },
+    {
+        "name": "Guapo",
+        "country": "Trinidad and Tobago",
+        "province": "Point Fortin",
+        "population": -1,
+        "latitude": 10.19505,
+        "longitude": -61.656639
+    },
+    {
+        "name": "Green Hill",
+        "country": "Trinidad and Tobago",
+        "province": "Diego Martin",
+        "population": -1,
+        "latitude": 10.731445,
+        "longitude": -61.563382
+    },
+    {
+        "name": "Golconda",
+        "country": "Trinidad and Tobago",
+        "province": "Penal/Debe",
+        "population": -1,
+        "latitude": 10.253491,
+        "longitude": -61.438714
+    },
+    {
+        "name": "Glamorgan",
+        "country": "Trinidad and Tobago",
+        "province": "Tobago",
+        "population": -1,
+        "latitude": 11.222635,
+        "longitude": -60.609836
+    },
+    {
+        "name": "Four Roads",
+        "country": "Trinidad and Tobago",
+        "province": "Couva-Tabaquite-Talparo",
+        "population": -1,
+        "latitude": 10.486924,
+        "longitude": -61.217607
+    },
+    {
+        "name": "Fonrose",
+        "country": "Trinidad and Tobago",
+        "province": "Mayaro",
+        "population": -1,
+        "latitude": 10.287084,
+        "longitude": -61.238653
+    },
+    {
+        "name": "Flanagin Town",
+        "country": "Trinidad and Tobago",
+        "province": "Couva-Tabaquite-Talparo",
+        "population": -1,
+        "latitude": 10.431729,
+        "longitude": -61.315762
+    },
+    {
+        "name": "Exchange",
+        "country": "Trinidad and Tobago",
+        "province": "Couva-Tabaquite-Talparo",
+        "population": -1,
+        "latitude": 10.421546,
+        "longitude": -61.453159
+    },
+    {
+        "name": "Esperance",
+        "country": "Trinidad and Tobago",
+        "province": "Penal/Debe",
+        "population": -1,
+        "latitude": 10.246505,
+        "longitude": -61.452796
+    },
+    {
+        "name": "Eckel Village",
+        "country": "Trinidad and Tobago",
+        "province": "Princes Town",
+        "population": -1,
+        "latitude": 10.322148,
+        "longitude": -61.380761
+    },
+    {
+        "name": "Ecclesville",
+        "country": "Trinidad and Tobago",
+        "province": "Mayaro",
+        "population": -1,
+        "latitude": 10.323655,
+        "longitude": -61.13737
+    },
+    {
+        "name": "Earthigg",
+        "country": "Trinidad and Tobago",
+        "province": "San Juan/Laventille",
+        "population": -1,
+        "latitude": 10.666667,
+        "longitude": -61.5
+    },
+    {
+        "name": "Diamond",
+        "country": "Trinidad and Tobago",
+        "province": "Penal/Debe",
+        "population": -1,
+        "latitude": 10.23654,
+        "longitude": -61.44273
+    },
+    {
+        "name": "Golconda",
+        "country": "Trinidad and Tobago",
+        "province": "Penal/Debe",
+        "population": -1,
+        "latitude": 10.25,
+        "longitude": -61.433333
+    },
+    {
+        "name": "Centeno",
+        "country": "Trinidad and Tobago",
+        "province": "Tunapuna/Piarco",
+        "population": -1,
+        "latitude": 10.588864,
+        "longitude": -61.319954
+    },
+    {
+        "name": "Caroni",
+        "country": "Trinidad and Tobago",
+        "province": "Tunapuna/Piarco",
+        "population": -1,
+        "latitude": 10.605738,
+        "longitude": -61.381743
+    },
+    {
+        "name": "Cap-de-Ville",
+        "country": "Trinidad and Tobago",
+        "province": "Point Fortin",
+        "population": -1,
+        "latitude": 10.152642,
+        "longitude": -61.707527
+    },
+    {
+        "name": "Cantaro",
+        "country": "Trinidad and Tobago",
+        "province": "San Juan/Laventille",
+        "population": -1,
+        "latitude": 10.711199,
+        "longitude": -61.471821
+    },
+    {
+        "name": "Cambleton",
+        "country": "Trinidad and Tobago",
+        "province": "Tobago",
+        "population": -1,
+        "latitude": 11.317215,
+        "longitude": -60.551516
+    },
+    {
+        "name": "Busy Corner",
+        "country": "Trinidad and Tobago",
+        "province": "Princes Town",
+        "population": -1,
+        "latitude": 10.314085,
+        "longitude": -61.293627
+    },
+    {
+        "name": "Buen Intento",
+        "country": "Trinidad and Tobago",
+        "province": "Princes Town",
+        "population": -1,
+        "latitude": 10.279261,
+        "longitude": -61.369439
+    },
+    {
+        "name": "Bonne Terre",
+        "country": "Trinidad and Tobago",
+        "province": "Princes Town",
+        "population": -1,
+        "latitude": 10.314093,
+        "longitude": -61.308227
+    },
+    {
+        "name": "Boissiere Village",
+        "country": "Trinidad and Tobago",
+        "province": "Port of Spain",
+        "population": -1,
+        "latitude": 10.6666667,
+        "longitude": -61.5166667
+    },
+    {
+        "name": "Basse Terre",
+        "country": "Trinidad and Tobago",
+        "province": "Princes Town",
+        "population": -1,
+        "latitude": 10.127281,
+        "longitude": -61.296161
+    },
+    {
+        "name": "Bamboo",
+        "country": "Trinidad and Tobago",
+        "province": "Siparia",
+        "population": -1,
+        "latitude": 10.096184,
+        "longitude": -61.845926
+    },
+    {
+        "name": "Zion Hill",
+        "country": "Trinidad and Tobago",
+        "province": "Tobago",
+        "population": -1,
+        "latitude": 11.2333333,
+        "longitude": -60.6166667
+    },
+    {
+        "name": "Woodlands",
+        "country": "Trinidad and Tobago",
+        "province": "Tobago",
+        "population": -1,
+        "latitude": 11.249734,
+        "longitude": -60.722625
+    },
+    {
+        "name": "Woodland",
+        "country": "Trinidad and Tobago",
+        "province": "Siparia",
+        "population": -1,
+        "latitude": 10.215239,
+        "longitude": -61.484108
+    },
+    {
+        "name": "Woodbrook",
+        "country": "Trinidad and Tobago",
+        "province": "Port of Spain",
+        "population": -1,
+        "latitude": 10.66398,
+        "longitude": -61.52837
+    },
+    {
+        "name": "Windsor",
+        "country": "Trinidad and Tobago",
+        "province": "Tobago",
+        "population": -1,
+        "latitude": 11.212799,
+        "longitude": -60.652064
+    },
+    {
+        "name": "Waterloo",
+        "country": "Trinidad and Tobago",
+        "province": "Couva-Tabaquite-Talparo",
+        "population": -1,
+        "latitude": 10.47771,
+        "longitude": -61.468658
+    },
+    {
+        "name": "Warren",
+        "country": "Trinidad and Tobago",
+        "province": "Tunapuna/Piarco",
+        "population": -1,
+        "latitude": 10.582117,
+        "longitude": -61.400702
+    },
+    {
+        "name": "Vessigny",
+        "country": "Trinidad and Tobago",
+        "province": "Siparia",
+        "population": -1,
+        "latitude": 10.224264,
+        "longitude": -61.629104
+    },
+    {
+        "name": "Verdant Vale",
+        "country": "Trinidad and Tobago",
+        "province": "Tunapuna/Piarco",
+        "population": -1,
+        "latitude": 10.690326,
+        "longitude": -61.293816
+    },
+    {
+        "name": "Vance River",
+        "country": "Trinidad and Tobago",
+        "province": "Siparia",
+        "population": -1,
+        "latitude": 10.201726,
+        "longitude": -61.631167
+    },
+    {
+        "name": "Usine",
+        "country": "Trinidad and Tobago",
+        "province": "Penal/Debe",
+        "population": -1,
+        "latitude": 10.220903,
+        "longitude": -61.486343
+    },
+    {
+        "name": "Upper Manzanilla",
+        "country": "Trinidad and Tobago",
+        "province": "Sangre Grande",
+        "population": -1,
+        "latitude": 10.52291,
+        "longitude": -61.062141
+    },
+    {
+        "name": "Upper Fishing Pond",
+        "country": "Trinidad and Tobago",
+        "province": "Sangre Grande",
+        "population": -1,
+        "latitude": 10.587899,
+        "longitude": -61.055009
+    },
+    {
+        "name": "Unis",
+        "country": "Trinidad and Tobago",
+        "province": "Couva-Tabaquite-Talparo",
+        "population": -1,
+        "latitude": 10.333904,
+        "longitude": -61.278034
+    },
+    {
+        "name": "Union",
+        "country": "Trinidad and Tobago",
+        "province": "Tobago",
+        "population": -1,
+        "latitude": 11.1833333,
+        "longitude": -60.75
+    },
+    {
+        "name": "Union",
+        "country": "Trinidad and Tobago",
+        "province": "San Fernando",
+        "population": -1,
+        "latitude": 10.301438,
+        "longitude": -61.436126
+    },
+    {
+        "name": "Tyson Hall",
+        "country": "Trinidad and Tobago",
+        "province": "Tobago",
+        "population": -1,
+        "latitude": 11.15108,
+        "longitude": -60.80903
+    },
+    {
+        "name": "Tulls",
+        "country": "Trinidad and Tobago",
+        "province": "Tunapuna/Piarco",
+        "population": -1,
+        "latitude": 10.616667,
+        "longitude": -61.4
+    },
+    {
+        "name": "Trois Rivieres",
+        "country": "Trinidad and Tobago",
+        "province": "Tobago",
+        "population": -1,
+        "latitude": 11.289768,
+        "longitude": -60.537216
+    },
+    {
+        "name": "Tortuga",
+        "country": "Trinidad and Tobago",
+        "province": "Couva-Tabaquite-Talparo",
+        "population": -1,
+        "latitude": 10.371503,
+        "longitude": -61.392811
+    },
+    {
+        "name": "Third Company",
+        "country": "Trinidad and Tobago",
+        "province": "Princes Town",
+        "population": -1,
+        "latitude": 10.250536,
+        "longitude": -61.336357
+    },
+    {
+        "name": "Thick",
+        "country": "Trinidad and Tobago",
+        "province": "Siparia",
+        "population": -1,
+        "latitude": 10.175655,
+        "longitude": -61.520875
+    },
+    {
+        "name": "The Whim",
+        "country": "Trinidad and Tobago",
+        "province": "Tobago",
+        "population": -1,
+        "latitude": 11.206291,
+        "longitude": -60.743556
+    },
+    {
+        "name": "The Mission",
+        "country": "Trinidad and Tobago",
+        "province": "Sangre Grande",
+        "population": -1,
+        "latitude": 10.831034,
+        "longitude": -60.958329
+    },
+    {
+        "name": "Sum Sum Hill",
+        "country": "Trinidad and Tobago",
+        "province": "Couva-Tabaquite-Talparo",
+        "population": -1,
+        "latitude": 10.366667,
+        "longitude": -61.433333
+    },
+    {
+        "name": "Success",
+        "country": "Trinidad and Tobago",
+        "province": "San Juan/Laventille",
+        "population": -1,
+        "latitude": 10.65,
+        "longitude": -61.483333
+    },
+    {
+        "name": "Studley Park",
+        "country": "Trinidad and Tobago",
+        "province": "Tobago",
+        "population": -1,
+        "latitude": 11.197722,
+        "longitude": -60.661745
+    },
+    {
+        "name": "Starwood",
+        "country": "Trinidad and Tobago",
+        "province": "Tobago",
+        "population": -1,
+        "latitude": 11.328585,
+        "longitude": -60.527041
+    },
+    {
+        "name": "Spring Vale",
+        "country": "Trinidad and Tobago",
+        "province": "Couva-Tabaquite-Talparo",
+        "population": -1,
+        "latitude": 10.373904,
+        "longitude": -61.425178
+    },
+    {
+        "name": "Sierra Leone",
+        "country": "Trinidad and Tobago",
+        "province": "Diego Martin",
+        "population": -1,
+        "latitude": 10.70723,
+        "longitude": -61.5529
+    },
+    {
+        "name": "Shore Park",
+        "country": "Trinidad and Tobago",
+        "province": "Tobago",
+        "population": -1,
+        "latitude": 11.257888,
+        "longitude": -60.537838
+    },
+    {
+        "name": "Sans Souci",
+        "country": "Trinidad and Tobago",
+        "province": "Sangre Grande",
+        "population": -1,
+        "latitude": 10.83415,
+        "longitude": -61.001535
+    },
+    {
+        "name": "Sangre Grande Oropuche",
+        "country": "Trinidad and Tobago",
+        "province": "Sangre Grande",
+        "population": -1,
+        "latitude": 10.594448,
+        "longitude": -61.078379
+    },
+    {
+        "name": "San Francisco Settlement",
+        "country": "Trinidad and Tobago",
+        "province": "Couva-Tabaquite-Talparo",
+        "population": -1,
+        "latitude": 10.432469,
+        "longitude": -61.39451
+    },
+    {
+        "name": "Saint Marys",
+        "country": "Trinidad and Tobago",
+        "province": "Couva-Tabaquite-Talparo",
+        "population": -1,
+        "latitude": 10.462476,
+        "longitude": -61.426769
+    },
+    {
+        "name": "Saint Margaret",
+        "country": "Trinidad and Tobago",
+        "province": "Mayaro",
+        "population": -1,
+        "latitude": 10.255556,
+        "longitude": -61.003495
+    },
+    {
+        "name": "Saint Joseph",
+        "country": "Trinidad and Tobago",
+        "province": "Mayaro",
+        "population": -1,
+        "latitude": 10.316743,
+        "longitude": -60.993235
+    },
+    {
+        "name": "Saint Helena",
+        "country": "Trinidad and Tobago",
+        "province": "Tunapuna/Piarco",
+        "population": -1,
+        "latitude": 10.57978,
+        "longitude": -61.336451
+    },
+    {
+        "name": "Saint Elizabeth",
+        "country": "Trinidad and Tobago",
+        "province": "San Juan/Laventille",
+        "population": -1,
+        "latitude": 10.683333,
+        "longitude": -61.5
+    },
+    {
+        "name": "Saint Ann’s",
+        "country": "Trinidad and Tobago",
+        "province": "San Juan/Laventille",
+        "population": -1,
+        "latitude": 10.677115,
+        "longitude": -61.513404
+    },
+    {
+        "name": "Saint Andrew",
+        "country": "Trinidad and Tobago",
+        "province": "Couva-Tabaquite-Talparo",
+        "population": -1,
+        "latitude": 10.422499,
+        "longitude": -61.478597
+    },
+    {
+        "name": "Sadhoowa",
+        "country": "Trinidad and Tobago",
+        "province": "Penal/Debe",
+        "population": -1,
+        "latitude": 10.131359,
+        "longitude": -61.433489
+    },
+    {
+        "name": "Rushville",
+        "country": "Trinidad and Tobago",
+        "province": "Mayaro",
+        "population": -1,
+        "latitude": 10.128977,
+        "longitude": -61.055637
+    },
+    {
+        "name": "Rockly Vale",
+        "country": "Trinidad and Tobago",
+        "province": "Tobago",
+        "population": -1,
+        "latitude": 11.190195,
+        "longitude": -60.737724
+    },
+    {
+        "name": "Robert",
+        "country": "Trinidad and Tobago",
+        "province": "Princes Town",
+        "population": -1,
+        "latitude": 10.271094,
+        "longitude": -61.288674
+    },
+    {
+        "name": "Riversdale",
+        "country": "Trinidad and Tobago",
+        "province": "Tobago",
+        "population": -1,
+        "latitude": 11.2833333,
+        "longitude": -60.6833333
+    },
+    {
+        "name": "Richmond",
+        "country": "Trinidad and Tobago",
+        "province": "Tobago",
+        "population": -1,
+        "latitude": 11.231854,
+        "longitude": -60.6121
+    },
+    {
+        "name": "Riche Plaine",
+        "country": "Trinidad and Tobago",
+        "province": "Diego Martin",
+        "population": -1,
+        "latitude": 10.716667,
+        "longitude": -61.566667
+    },
+    {
+        "name": "Reform",
+        "country": "Trinidad and Tobago",
+        "province": "Princes Town",
+        "population": -1,
+        "latitude": 10.305636,
+        "longitude": -61.4165
+    },
+    {
+        "name": "Red Hill",
+        "country": "Trinidad and Tobago",
+        "province": "Tunapuna/Piarco",
+        "population": -1,
+        "latitude": 10.616667,
+        "longitude": -61.316667
+    },
+    {
+        "name": "Ravin Anglais",
+        "country": "Trinidad and Tobago",
+        "province": "Sangre Grande",
+        "population": -1,
+        "latitude": 10.79188,
+        "longitude": -60.953381
+    },
+    {
+        "name": "Quarry Village",
+        "country": "Trinidad and Tobago",
+        "province": "Siparia",
+        "population": -1,
+        "latitude": 10.133333,
+        "longitude": -61.533333
+    },
+    {
+        "name": "Providence",
+        "country": "Trinidad and Tobago",
+        "province": "Tobago",
+        "population": -1,
+        "latitude": 11.204656,
+        "longitude": -60.733895
+    },
+    {
+        "name": "Prospect",
+        "country": "Trinidad and Tobago",
+        "province": "Tobago",
+        "population": -1,
+        "latitude": 11.17721,
+        "longitude": -60.781799
+    },
+    {
+        "name": "Preysal",
+        "country": "Trinidad and Tobago",
+        "province": "Couva-Tabaquite-Talparo",
+        "population": -1,
+        "latitude": 10.42156,
+        "longitude": -61.404052
+    },
+    {
+        "name": "Poole",
+        "country": "Trinidad and Tobago",
+        "province": "Mayaro",
+        "population": -1,
+        "latitude": 10.451097,
+        "longitude": -61.123548
+    },
+    {
+        "name": "Poole",
+        "country": "Trinidad and Tobago",
+        "province": "Mayaro",
+        "population": -1,
+        "latitude": 10.299678,
+        "longitude": -61.228853
+    },
+    {
+        "name": "Point Ligoure",
+        "country": "Trinidad and Tobago",
+        "province": "Point Fortin",
+        "population": -1,
+        "latitude": 10.166667,
+        "longitude": -61.666667
+    },
+    {
+        "name": "Plymouth",
+        "country": "Trinidad and Tobago",
+        "province": "Tobago",
+        "population": -1,
+        "latitude": 11.21621,
+        "longitude": -60.76654
+    },
+    {
+        "name": "Plum",
+        "country": "Trinidad and Tobago",
+        "province": "Sangre Grande",
+        "population": -1,
+        "latitude": 10.5,
+        "longitude": -61.066667
+    },
+    {
+        "name": "Pluck",
+        "country": "Trinidad and Tobago",
+        "province": "Siparia",
+        "population": -1,
+        "latitude": 10.176766,
+        "longitude": -61.50361
+    },
+    {
+        "name": "Platanal",
+        "country": "Trinidad and Tobago",
+        "province": "Sangre Grande",
+        "population": -1,
+        "latitude": 10.740967,
+        "longitude": -61.133422
+    },
+    {
+        "name": "Plaisance",
+        "country": "Trinidad and Tobago",
+        "province": "Mayaro",
+        "population": -1,
+        "latitude": 10.293573,
+        "longitude": -60.999828
+    },
+    {
+        "name": "Plaisance",
+        "country": "Trinidad and Tobago",
+        "province": "Penal/Debe",
+        "population": -1,
+        "latitude": 10.245308,
+        "longitude": -61.484929
+    },
+    {
+        "name": "Pierreville",
+        "country": "Trinidad and Tobago",
+        "province": "Mayaro",
+        "population": -1,
+        "latitude": 10.295309,
+        "longitude": -61.00784
+    },
+    {
+        "name": "Phoenix Park",
+        "country": "Trinidad and Tobago",
+        "province": "Couva-Tabaquite-Talparo",
+        "population": -1,
+        "latitude": 10.384087,
+        "longitude": -61.459647
+    },
+    {
+        "name": "Petit Bourg",
+        "country": "Trinidad and Tobago",
+        "province": "Diego Martin",
+        "population": -1,
+        "latitude": 10.682678,
+        "longitude": -61.618283
+    },
+    {
+        "name": "Petit Bourg",
+        "country": "Trinidad and Tobago",
+        "province": "San Juan/Laventille",
+        "population": -1,
+        "latitude": 10.65,
+        "longitude": -61.45
+    },
+    {
+        "name": "Peters",
+        "country": "Trinidad and Tobago",
+        "province": "Sangre Grande",
+        "population": -1,
+        "latitude": 10.5,
+        "longitude": -61.15
+    },
+    {
+        "name": "Peru",
+        "country": "Trinidad and Tobago",
+        "province": "Port of Spain",
+        "population": -1,
+        "latitude": 10.663639,
+        "longitude": -61.5358
+    },
+    {
+        "name": "Patience Hill",
+        "country": "Trinidad and Tobago",
+        "province": "Tobago",
+        "population": -1,
+        "latitude": 11.19175,
+        "longitude": -60.77302
+    },
+    {
+        "name": "Parry Lands",
+        "country": "Trinidad and Tobago",
+        "province": "Siparia",
+        "population": -1,
+        "latitude": 10.172786,
+        "longitude": -61.639625
+    },
+    {
+        "name": "Parrot Hall",
+        "country": "Trinidad and Tobago",
+        "province": "Tobago",
+        "population": -1,
+        "latitude": 11.292098,
+        "longitude": -60.658657
+    },
+    {
+        "name": "Parlatuvier",
+        "country": "Trinidad and Tobago",
+        "province": "Tobago",
+        "population": -1,
+        "latitude": 11.300336,
+        "longitude": -60.643978
+    },
+    {
+        "name": "Ouplay",
+        "country": "Trinidad and Tobago",
+        "province": "Couva-Tabaquite-Talparo",
+        "population": -1,
+        "latitude": 10.396867,
+        "longitude": -61.456431
+    },
+    {
+        "name": "Ortinola",
+        "country": "Trinidad and Tobago",
+        "province": "Tunapuna/Piarco",
+        "population": -1,
+        "latitude": 10.7,
+        "longitude": -61.316667
+    },
+    {
+        "name": "Oropuche",
+        "country": "Trinidad and Tobago",
+        "province": "Sangre Grande",
+        "population": -1,
+        "latitude": 10.604593,
+        "longitude": -61.095406
+    },
+    {
+        "name": "Ogis",
+        "country": "Trinidad and Tobago",
+        "province": "Sangre Grande",
+        "population": -1,
+        "latitude": 10.565268,
+        "longitude": -61.134882
+    },
+    {
+        "name": "Nutmeg Grove",
+        "country": "Trinidad and Tobago",
+        "province": "Tobago",
+        "population": -1,
+        "latitude": 11.237813,
+        "longitude": -60.702961
+    },
+    {
+        "name": "North Manzanilla",
+        "country": "Trinidad and Tobago",
+        "province": "Sangre Grande",
+        "population": -1,
+        "latitude": 10.516667,
+        "longitude": -61.033333
+    },
+    {
+        "name": "New Jersey",
+        "country": "Trinidad and Tobago",
+        "province": "Siparia",
+        "population": -1,
+        "latitude": 10.233333,
+        "longitude": -61.633333
+    },
+    {
+        "name": "New Grant",
+        "country": "Trinidad and Tobago",
+        "province": "Princes Town",
+        "population": -1,
+        "latitude": 10.285002,
+        "longitude": -61.322077
+    },
+    {
+        "name": "Nestor",
+        "country": "Trinidad and Tobago",
+        "province": "Sangre Grande",
+        "population": -1,
+        "latitude": 10.52783,
+        "longitude": -61.146415
+    },
+    {
+        "name": "Navet",
+        "country": "Trinidad and Tobago",
+        "province": "Mayaro",
+        "population": -1,
+        "latitude": 10.356344,
+        "longitude": -61.18314
+    },
+    {
+        "name": "Naranjo",
+        "country": "Trinidad and Tobago",
+        "province": "Sangre Grande",
+        "population": -1,
+        "latitude": 10.783333,
+        "longitude": -60.983333
+    },
+    {
+        "name": "Nancoo Village",
+        "country": "Trinidad and Tobago",
+        "province": "Couva-Tabaquite-Talparo",
+        "population": -1,
+        "latitude": 10.563579,
+        "longitude": -61.32467
+    },
+    {
+        "name": "Mundo Nuevo",
+        "country": "Trinidad and Tobago",
+        "province": "Couva-Tabaquite-Talparo",
+        "population": -1,
+        "latitude": 10.477547,
+        "longitude": -61.258963
+    },
+    {
+        "name": "Mount Thomas",
+        "country": "Trinidad and Tobago",
+        "province": "Tobago",
+        "population": -1,
+        "latitude": 11.238573,
+        "longitude": -60.737814
+    },
+    {
+        "name": "Mount Pleasant",
+        "country": "Trinidad and Tobago",
+        "province": "Tobago",
+        "population": -1,
+        "latitude": 11.16383,
+        "longitude": -60.79495
+    },
+    {
+        "name": "Mount Pleasant",
+        "country": "Trinidad and Tobago",
+        "province": "Diego Martin",
+        "population": -1,
+        "latitude": 10.713191,
+        "longitude": -61.609989
+    },
+    {
+        "name": "Mount Harris",
+        "country": "Trinidad and Tobago",
+        "province": "Sangre Grande",
+        "population": -1,
+        "latitude": 10.499253,
+        "longitude": -61.116473
+    },
+    {
+        "name": "Mount Grace",
+        "country": "Trinidad and Tobago",
+        "province": "Tobago",
+        "population": -1,
+        "latitude": 11.1833333,
+        "longitude": -60.75
+    },
+    {
+        "name": "Mount Dillon River",
+        "country": "Trinidad and Tobago",
+        "province": "Tobago",
+        "population": -1,
+        "latitude": 11.2666667,
+        "longitude": -60.7
+    },
+    {
+        "name": "Morne Quiton",
+        "country": "Trinidad and Tobago",
+        "province": "Tobago",
+        "population": -1,
+        "latitude": 11.186363,
+        "longitude": -60.726141
+    },
+    {
+        "name": "Morne Diablo",
+        "country": "Trinidad and Tobago",
+        "province": "Penal/Debe",
+        "population": -1,
+        "latitude": 10.109151,
+        "longitude": -61.446118
+    },
+    {
+        "name": "Morne Cabrite",
+        "country": "Trinidad and Tobago",
+        "province": "Sangre Grande",
+        "population": -1,
+        "latitude": 10.803447,
+        "longitude": -60.939731
+    },
+    {
+        "name": "Morichal",
+        "country": "Trinidad and Tobago",
+        "province": "Victoria",
+        "population": -1,
+        "latitude": 10.360346622937344,
+        "longitude": -61.350746154785156
+    },
+    {
+        "name": "Moque Point",
+        "country": "Trinidad and Tobago",
+        "province": "Penal/Debe",
+        "population": -1,
+        "latitude": 10.070335,
+        "longitude": -61.445396
+    },
+    {
+        "name": "Moos",
+        "country": "Trinidad and Tobago",
+        "province": "Princes Town",
+        "population": -1,
+        "latitude": 10.270155,
+        "longitude": -61.2828
+    },
+    {
+        "name": "Montrose",
+        "country": "Trinidad and Tobago",
+        "province": "Chaguanas",
+        "population": -1,
+        "latitude": 10.516963,
+        "longitude": -61.394834
+    },
+    {
+        "name": "Montgomery",
+        "country": "Trinidad and Tobago",
+        "province": "Tobago",
+        "population": -1,
+        "latitude": 11.185215,
+        "longitude": -60.790842
+    },
+    {
+        "name": "Monte Video",
+        "country": "Trinidad and Tobago",
+        "province": "Sangre Grande",
+        "population": -1,
+        "latitude": 10.820575,
+        "longitude": -61.024561
+    },
+    {
+        "name": "Mon Plaisir",
+        "country": "Trinidad and Tobago",
+        "province": "Tunapuna/Piarco",
+        "population": -1,
+        "latitude": 10.575657,
+        "longitude": -61.378446
+    },
+    {
+        "name": "Monkey Town",
+        "country": "Trinidad and Tobago",
+        "province": "Princes Town",
+        "population": -1,
+        "latitude": 10.266667,
+        "longitude": -61.333333
+    },
+    {
+        "name": "Mesopotamia",
+        "country": "Trinidad and Tobago",
+        "province": "Tobago",
+        "population": -1,
+        "latitude": 11.195037,
+        "longitude": -60.691019
+    },
+    {
+        "name": "Merchiston",
+        "country": "Trinidad and Tobago",
+        "province": "Tobago",
+        "population": -1,
+        "latitude": 11.274461,
+        "longitude": -60.532111
+    },
+    {
+        "name": "Maturita",
+        "country": "Trinidad and Tobago",
+        "province": "Tunapuna/Piarco",
+        "population": -1,
+        "latitude": 10.641517,
+        "longitude": -61.269133
+    },
+    {
+        "name": "Matura",
+        "country": "Trinidad and Tobago",
+        "province": "Sangre Grande",
+        "population": -1,
+        "latitude": 10.675732,
+        "longitude": -61.058972
+    },
+    {
+        "name": "Mason Hall",
+        "country": "Trinidad and Tobago",
+        "province": "Tobago",
+        "population": -1,
+        "latitude": 11.221093,
+        "longitude": -60.709526
+    },
+    {
+        "name": "Mary’s Hill",
+        "country": "Trinidad and Tobago",
+        "province": "Tobago",
+        "population": -1,
+        "latitude": 11.204806,
+        "longitude": -60.755567
+    },
+    {
+        "name": "Maracas Bay Village",
+        "country": "Trinidad and Tobago",
+        "province": "San Juan/Laventille",
+        "population": -1,
+        "latitude": 10.753,
+        "longitude": -61.43765
+    },
+    {
+        "name": "Mamon",
+        "country": "Trinidad and Tobago",
+        "province": "Sangre Grande",
+        "population": -1,
+        "latitude": 10.475792,
+        "longitude": -61.162168
+    },
+    {
+        "name": "Madras Settlement",
+        "country": "Trinidad and Tobago",
+        "province": "Couva-Tabaquite-Talparo",
+        "population": -1,
+        "latitude": 10.553439,
+        "longitude": -61.334302
+    },
+    {
+        "name": "Lowlands",
+        "country": "Trinidad and Tobago",
+        "province": "Tobago",
+        "population": -1,
+        "latitude": 11.152593,
+        "longitude": -60.782486
+    },
+    {
+        "name": "Lower Town",
+        "country": "Trinidad and Tobago",
+        "province": "Tobago",
+        "population": -1,
+        "latitude": 11.184307,
+        "longitude": -60.737866
+    },
+    {
+        "name": "Lower Manzanilla",
+        "country": "Trinidad and Tobago",
+        "province": "Sangre Grande",
+        "population": -1,
+        "latitude": 10.516667,
+        "longitude": -61.05
+    },
+    {
+        "name": "Lower Fishing Pond",
+        "country": "Trinidad and Tobago",
+        "province": "Sangre Grande",
+        "population": -1,
+        "latitude": 10.573394,
+        "longitude": -61.043729
+    },
+    {
+        "name": "Los Bajos",
+        "country": "Trinidad and Tobago",
+        "province": "Siparia",
+        "population": -1,
+        "latitude": 10.111931,
+        "longitude": -61.56456
+    },
+    {
+        "name": "Los Atajos",
+        "country": "Trinidad and Tobago",
+        "province": "Couva-Tabaquite-Talparo",
+        "population": -1,
+        "latitude": 10.416667,
+        "longitude": -61.3
+    },
+    {
+        "name": "Loango",
+        "country": "Trinidad and Tobago",
+        "province": "Tunapuna/Piarco",
+        "population": -1,
+        "latitude": 10.724155,
+        "longitude": -61.421922
+    },
+    {
+        "name": "Libertville",
+        "country": "Trinidad and Tobago",
+        "province": "Mayaro",
+        "population": -1,
+        "latitude": 10.304466,
+        "longitude": -61.192783
+    },
+    {
+        "name": "Les Coteaux",
+        "country": "Trinidad and Tobago",
+        "province": "Tobago",
+        "population": -1,
+        "latitude": 11.22888,
+        "longitude": -60.74397
+    },
+    {
+        "name": "Lendor",
+        "country": "Trinidad and Tobago",
+        "province": "Chaguanas",
+        "population": -1,
+        "latitude": 10.516667,
+        "longitude": -61.4
+    },
+    {
+        "name": "Las Lomas",
+        "country": "Trinidad and Tobago",
+        "province": "Couva-Tabaquite-Talparo",
+        "population": -1,
+        "latitude": 10.537996,
+        "longitude": -61.314226
+    },
+    {
+        "name": "Las Cuevas",
+        "country": "Trinidad and Tobago",
+        "province": "San Juan/Laventille",
+        "population": -1,
+        "latitude": 10.785034,
+        "longitude": -61.388904
+    },
+    {
+        "name": "La Retraite",
+        "country": "Trinidad and Tobago",
+        "province": "Diego Martin",
+        "population": -1,
+        "latitude": 10.679899,
+        "longitude": -61.658747
+    },
+    {
+        "name": "La Pastora",
+        "country": "Trinidad and Tobago",
+        "province": "San Juan/Laventille",
+        "population": -1,
+        "latitude": 10.716667,
+        "longitude": -61.466667
+    },
+    {
+        "name": "Lapai Village",
+        "country": "Trinidad and Tobago",
+        "province": "Tunapuna/Piarco",
+        "population": -1,
+        "latitude": 10.615112,
+        "longitude": -61.400363
+    },
+    {
+        "name": "Lambeau",
+        "country": "Trinidad and Tobago",
+        "province": "Tobago",
+        "population": -1,
+        "latitude": 11.168763,
+        "longitude": -60.760866
+    },
+    {
+        "name": "La Lune",
+        "country": "Trinidad and Tobago",
+        "province": "Princes Town",
+        "population": -1,
+        "latitude": 10.076411,
+        "longitude": -61.332863
+    },
+    {
+        "name": "La Finette",
+        "country": "Trinidad and Tobago",
+        "province": "Diego Martin",
+        "population": -1,
+        "latitude": 10.731383,
+        "longitude": -61.51606
+    },
+    {
+        "name": "La Basse",
+        "country": "Trinidad and Tobago",
+        "province": "San Juan/Laventille",
+        "population": -1,
+        "latitude": 10.65,
+        "longitude": -61.5
+    },
+    {
+        "name": "King’s Bay",
+        "country": "Trinidad and Tobago",
+        "province": "Tobago",
+        "population": -1,
+        "latitude": 11.272419,
+        "longitude": -60.551777
+    },
+    {
+        "name": "Kelly Junction",
+        "country": "Trinidad and Tobago",
+        "province": "Couva-Tabaquite-Talparo",
+        "population": -1,
+        "latitude": 10.327448,
+        "longitude": -61.373344
+    },
+    {
+        "name": "Jaraysingh",
+        "country": "Trinidad and Tobago",
+        "province": "Sangre Grande",
+        "population": -1,
+        "latitude": 10.533333,
+        "longitude": -61.133333
+    },
+    {
+        "name": "Irois",
+        "country": "Trinidad and Tobago",
+        "province": "Siparia",
+        "population": -1,
+        "latitude": 10.133673,
+        "longitude": -61.747023
+    },
+    {
+        "name": "Indian Walk",
+        "country": "Trinidad and Tobago",
+        "province": "Princes Town",
+        "population": -1,
+        "latitude": 10.27474,
+        "longitude": -61.330159
+    },
+    {
+        "name": "Indian Chain",
+        "country": "Trinidad and Tobago",
+        "province": "Couva-Tabaquite-Talparo",
+        "population": -1,
+        "latitude": 10.396453,
+        "longitude": -61.411932
+    },
+    {
+        "name": "Icacos",
+        "country": "Trinidad and Tobago",
+        "province": "Siparia",
+        "population": -1,
+        "latitude": 10.047316,
+        "longitude": -61.912268
+    },
+    {
+        "name": "Howson",
+        "country": "Trinidad and Tobago",
+        "province": "Sangre Grande",
+        "population": -1,
+        "latitude": 10.525344,
+        "longitude": -61.178588
+    },
+    {
+        "name": "Hope",
+        "country": "Trinidad and Tobago",
+        "province": "Tobago",
+        "population": -1,
+        "latitude": 11.192321,
+        "longitude": -60.698181
+    },
+    {
+        "name": "Hindustan",
+        "country": "Trinidad and Tobago",
+        "province": "Princes Town",
+        "population": -1,
+        "latitude": 10.270811,
+        "longitude": -61.321755
+    },
+    {
+        "name": "Hillsborough",
+        "country": "Trinidad and Tobago",
+        "province": "Tobago",
+        "population": -1,
+        "latitude": 11.219932,
+        "longitude": -60.664208
+    },
+    {
+        "name": "Hermitage",
+        "country": "Trinidad and Tobago",
+        "province": "Tobago",
+        "population": -1,
+        "latitude": 11.312078,
+        "longitude": -60.582382
+    },
+    {
+        "name": "Hermitage",
+        "country": "Trinidad and Tobago",
+        "province": "Couva-Tabaquite-Talparo",
+        "population": -1,
+        "latitude": 10.35,
+        "longitude": -61.433333
+    },
+    {
+        "name": "Haswaron",
+        "country": "Trinidad and Tobago",
+        "province": "Princes Town",
+        "population": -1,
+        "latitude": 10.299586,
+        "longitude": -61.317553
+    },
+    {
+        "name": "Hart’s Cut",
+        "country": "Trinidad and Tobago",
+        "province": "Diego Martin",
+        "population": -1,
+        "latitude": 10.683333,
+        "longitude": -61.616667
+    },
+    {
+        "name": "Hardbargain",
+        "country": "Trinidad and Tobago",
+        "province": "Princes Town",
+        "population": -1,
+        "latitude": 10.310822,
+        "longitude": -61.362132
+    },
+    {
+        "name": "Guarata",
+        "country": "Trinidad and Tobago",
+        "province": "Tunapuna/Piarco",
+        "population": -1,
+        "latitude": 10.695936,
+        "longitude": -61.410264
+    },
+    {
+        "name": "Guamal",
+        "country": "Trinidad and Tobago",
+        "province": "San Juan/Laventille",
+        "population": -1,
+        "latitude": 10.75,
+        "longitude": -61.366667
+    },
+    {
+        "name": "Guaico Tamana",
+        "country": "Trinidad and Tobago",
+        "province": "Sangre Grande",
+        "population": -1,
+        "latitude": 10.482088,
+        "longitude": -61.149889
+    },
+    {
+        "name": "Green Hill",
+        "country": "Trinidad and Tobago",
+        "province": "Tobago",
+        "population": -1,
+        "latitude": 11.212355,
+        "longitude": -60.675439
+    },
+    {
+        "name": "Granville",
+        "country": "Trinidad and Tobago",
+        "province": "Siparia",
+        "population": -1,
+        "latitude": 10.132562,
+        "longitude": -61.80412
+    },
+    {
+        "name": "Grange",
+        "country": "Trinidad and Tobago",
+        "province": "Tobago",
+        "population": -1,
+        "latitude": 11.191784,
+        "longitude": -60.79028
+    },
+    {
+        "name": "Gran Couva",
+        "country": "Trinidad and Tobago",
+        "province": "Couva-Tabaquite-Talparo",
+        "population": -1,
+        "latitude": 10.403933,
+        "longitude": -61.374498
+    },
+    {
+        "name": "Grafton",
+        "country": "Trinidad and Tobago",
+        "province": "Tobago",
+        "population": -1,
+        "latitude": 11.1833333,
+        "longitude": -60.7833333
+    },
+    {
+        "name": "Gordon Settlement",
+        "country": "Trinidad and Tobago",
+        "province": "Princes Town",
+        "population": -1,
+        "latitude": 10.3,
+        "longitude": -61.4
+    },
+    {
+        "name": "Goodwood",
+        "country": "Trinidad and Tobago",
+        "province": "Tobago",
+        "population": -1,
+        "latitude": 11.204209,
+        "longitude": -60.63678
+    },
+    {
+        "name": "Goldsborough",
+        "country": "Trinidad and Tobago",
+        "province": "Tobago",
+        "population": -1,
+        "latitude": 11.215288,
+        "longitude": -60.629513
+    },
+    {
+        "name": "Golden Lane",
+        "country": "Trinidad and Tobago",
+        "province": "Tobago",
+        "population": -1,
+        "latitude": 11.242538,
+        "longitude": -60.734562
+    },
+    {
+        "name": "George Village",
+        "country": "Trinidad and Tobago",
+        "province": "Princes Town",
+        "population": -1,
+        "latitude": 10.279405,
+        "longitude": -61.319864
+    },
+    {
+        "name": "Fullarton",
+        "country": "Trinidad and Tobago",
+        "province": "Siparia",
+        "population": -1,
+        "latitude": 10.085316,
+        "longitude": -61.88631
+    },
+    {
+        "name": "Friendship",
+        "country": "Trinidad and Tobago",
+        "province": "Tobago",
+        "population": -1,
+        "latitude": 11.14838,
+        "longitude": -60.79598
+    },
+    {
+        "name": "Friendship",
+        "country": "Trinidad and Tobago",
+        "province": "Couva-Tabaquite-Talparo",
+        "population": -1,
+        "latitude": 10.387939,
+        "longitude": -61.473898
+    },
+    {
+        "name": "Friendsfield",
+        "country": "Trinidad and Tobago",
+        "province": "Tobago",
+        "population": -1,
+        "latitude": 11.193896,
+        "longitude": -60.711541
+    },
+    {
+        "name": "Freeport",
+        "country": "Trinidad and Tobago",
+        "province": "Couva-Tabaquite-Talparo",
+        "population": -1,
+        "latitude": 10.45822,
+        "longitude": -61.415547
+    },
+    {
+        "name": "Frederick Village",
+        "country": "Trinidad and Tobago",
+        "province": "Tunapuna/Piarco",
+        "population": -1,
+        "latitude": 10.605472,
+        "longitude": -61.394942
+    },
+    {
+        "name": "Franklyns",
+        "country": "Trinidad and Tobago",
+        "province": "Tobago",
+        "population": -1,
+        "latitude": 11.220605,
+        "longitude": -60.747312
+    },
+    {
+        "name": "Fourth Company",
+        "country": "Trinidad and Tobago",
+        "province": "Princes Town",
+        "population": -1,
+        "latitude": 10.238584,
+        "longitude": -61.33472
+    },
+    {
+        "name": "Four Roads",
+        "country": "Trinidad and Tobago",
+        "province": "Diego Martin",
+        "population": -1,
+        "latitude": 10.688452,
+        "longitude": -61.560168
+    },
+    {
+        "name": "Forres Park",
+        "country": "Trinidad and Tobago",
+        "province": "Couva-Tabaquite-Talparo",
+        "population": -1,
+        "latitude": 10.363646,
+        "longitude": -61.431319
+    },
+    {
+        "name": "Florida",
+        "country": "Trinidad and Tobago",
+        "province": "Tobago",
+        "population": -1,
+        "latitude": 11.25,
+        "longitude": -60.6
+    },
+    {
+        "name": "Fifth Company",
+        "country": "Trinidad and Tobago",
+        "province": "Princes Town",
+        "population": -1,
+        "latitude": 10.232171,
+        "longitude": -61.324678
+    },
+    {
+        "name": "Felicity Hall",
+        "country": "Trinidad and Tobago",
+        "province": "Couva-Tabaquite-Talparo",
+        "population": -1,
+        "latitude": 10.448452,
+        "longitude": -61.477243
+    },
+    {
+        "name": "Fébeau",
+        "country": "Trinidad and Tobago",
+        "province": "San Juan/Laventille",
+        "population": -1,
+        "latitude": 10.65,
+        "longitude": -61.45
+    },
+    {
+        "name": "Enterprise",
+        "country": "Trinidad and Tobago",
+        "province": "Chaguanas",
+        "population": -1,
+        "latitude": 10.522609,
+        "longitude": -61.385608
+    },
+    {
+        "name": "Englishman’s Bay",
+        "country": "Trinidad and Tobago",
+        "province": "Tobago",
+        "population": -1,
+        "latitude": 11.285587,
+        "longitude": -60.674075
+    },
+    {
+        "name": "El Socorro",
+        "country": "Trinidad and Tobago",
+        "province": "San Juan/Laventille",
+        "population": -1,
+        "latitude": 10.637397,
+        "longitude": -61.455418
+    },
+    {
+        "name": "El Quemado",
+        "country": "Trinidad and Tobago",
+        "province": "Couva-Tabaquite-Talparo",
+        "population": -1,
+        "latitude": 10.483333,
+        "longitude": -61.25
+    },
+    {
+        "name": "El Dorado",
+        "country": "Trinidad and Tobago",
+        "province": "Tunapuna/Piarco",
+        "population": -1,
+        "latitude": 10.639815,
+        "longitude": -61.380499
+    },
+    {
+        "name": "Easterfield",
+        "country": "Trinidad and Tobago",
+        "province": "Tobago",
+        "population": -1,
+        "latitude": 11.225773,
+        "longitude": -60.681866
+    },
+    {
+        "name": "East Dry River",
+        "country": "Trinidad and Tobago",
+        "province": "Port of Spain",
+        "population": -1,
+        "latitude": 10.6563889,
+        "longitude": -61.5055556
+    },
+    {
+        "name": "Duncan",
+        "country": "Trinidad and Tobago",
+        "province": "Penal/Debe",
+        "population": -1,
+        "latitude": 10.252865,
+        "longitude": -61.459996
+    },
+    {
+        "name": "Dinsley",
+        "country": "Trinidad and Tobago",
+        "province": "Tunapuna/Piarco",
+        "population": -1,
+        "latitude": 10.638789,
+        "longitude": -61.360282
+    },
+    {
+        "name": "Diamond",
+        "country": "Trinidad and Tobago",
+        "province": "Tobago",
+        "population": -1,
+        "latitude": 11.17159,
+        "longitude": -60.770073
+    },
+    {
+        "name": "Diamond",
+        "country": "Trinidad and Tobago",
+        "province": "Couva-Tabaquite-Talparo",
+        "population": -1,
+        "latitude": 10.367651,
+        "longitude": -61.437155
+    },
+    {
+        "name": "Delhi Settlement",
+        "country": "Trinidad and Tobago",
+        "province": "Siparia",
+        "population": -1,
+        "latitude": 10.184838,
+        "longitude": -61.560926
+    },
+    {
+        "name": "Delaford",
+        "country": "Trinidad and Tobago",
+        "province": "Tobago",
+        "population": -1,
+        "latitude": 11.266011,
+        "longitude": -60.559322
+    },
+    {
+        "name": "Curucaye",
+        "country": "Trinidad and Tobago",
+        "province": "San Juan/Laventille",
+        "population": -1,
+        "latitude": 10.669118,
+        "longitude": -61.450232
+    },
+    {
+        "name": "Cunaripa",
+        "country": "Trinidad and Tobago",
+        "province": "Sangre Grande",
+        "population": -1,
+        "latitude": 10.555949,
+        "longitude": -61.164029
+    },
+    {
+        "name": "Cunapo",
+        "country": "Trinidad and Tobago",
+        "province": "Sangre Grande",
+        "population": -1,
+        "latitude": 10.583094,
+        "longitude": -61.136855
+    },
+    {
+        "name": "Cumberbatch",
+        "country": "Trinidad and Tobago",
+        "province": "Chaguanas",
+        "population": -1,
+        "latitude": 10.506693,
+        "longitude": -61.409205
+    },
+    {
+        "name": "Cumaca",
+        "country": "Trinidad and Tobago",
+        "province": "Sangre Grande",
+        "population": -1,
+        "latitude": 10.709184,
+        "longitude": -61.158709
+    },
+    {
+        "name": "Culloden",
+        "country": "Trinidad and Tobago",
+        "province": "Tobago",
+        "population": -1,
+        "latitude": 11.246611,
+        "longitude": -60.736511
+    },
+    {
+        "name": "Cuche",
+        "country": "Trinidad and Tobago",
+        "province": "Mayaro",
+        "population": -1,
+        "latitude": 10.378778,
+        "longitude": -61.179195
+    },
+    {
+        "name": "Courland",
+        "country": "Trinidad and Tobago",
+        "province": "Tobago",
+        "population": -1,
+        "latitude": 11.210346,
+        "longitude": -60.772885
+    },
+    {
+        "name": "Coryal",
+        "country": "Trinidad and Tobago",
+        "province": "Sangre Grande",
+        "population": -1,
+        "latitude": 10.509921,
+        "longitude": -61.184357
+    },
+    {
+        "name": "Coryal",
+        "country": "Trinidad and Tobago",
+        "province": "Couva-Tabaquite-Talparo",
+        "population": -1,
+        "latitude": 10.484784,
+        "longitude": -61.43425
+    },
+    {
+        "name": "Coromandel Settlement",
+        "country": "Trinidad and Tobago",
+        "province": "Siparia",
+        "population": -1,
+        "latitude": 10.100843,
+        "longitude": -61.800999
+    },
+    {
+        "name": "Corbeaux Town",
+        "country": "Trinidad and Tobago",
+        "province": "Port of Spain",
+        "population": -1,
+        "latitude": 10.65,
+        "longitude": -61.5166667
+    },
+    {
+        "name": "Coolie Block",
+        "country": "Trinidad and Tobago",
+        "province": "Diego Martin",
+        "population": -1,
+        "latitude": 10.733333,
+        "longitude": -61.55
+    },
+    {
+        "name": "Concordia",
+        "country": "Trinidad and Tobago",
+        "province": "Tobago",
+        "population": -1,
+        "latitude": 11.218003,
+        "longitude": -60.725269
+    },
+    {
+        "name": "Concord",
+        "country": "Trinidad and Tobago",
+        "province": "Penal/Debe",
+        "population": -1,
+        "latitude": 10.233965,
+        "longitude": -61.487964
+    },
+    {
+        "name": "Comparo",
+        "country": "Trinidad and Tobago",
+        "province": "Sangre Grande",
+        "population": -1,
+        "latitude": 10.533333,
+        "longitude": -61.066667
+    },
+    {
+        "name": "Coffee",
+        "country": "Trinidad and Tobago",
+        "province": "San Fernando",
+        "population": -1,
+        "latitude": 10.268127,
+        "longitude": -61.460738
+    },
+    {
+        "name": "Cocorite",
+        "country": "Trinidad and Tobago",
+        "province": "Diego Martin",
+        "population": -1,
+        "latitude": 10.681067,
+        "longitude": -61.548776
+    },
+    {
+        "name": "Coco",
+        "country": "Trinidad and Tobago",
+        "province": "Diego Martin",
+        "population": -1,
+        "latitude": 10.683333,
+        "longitude": -61.583333
+    },
+    {
+        "name": "Cochrane",
+        "country": "Trinidad and Tobago",
+        "province": "Point Fortin",
+        "population": -1,
+        "latitude": 10.186039,
+        "longitude": -61.64521
+    },
+    {
+        "name": "Cipero-Sainte Croix",
+        "country": "Trinidad and Tobago",
+        "province": "Penal/Debe",
+        "population": -1,
+        "latitude": 10.228307,
+        "longitude": -61.377395
+    },
+    {
+        "name": "Cinnamon Hill",
+        "country": "Trinidad and Tobago",
+        "province": "Tobago",
+        "population": -1,
+        "latitude": 11.204501,
+        "longitude": -60.725161
+    },
+    {
+        "name": "Chin Chin Savanna Village",
+        "country": "Trinidad and Tobago",
+        "province": "Couva-Tabaquite-Talparo",
+        "population": -1,
+        "latitude": 10.560642,
+        "longitude": -61.342731
+    },
+    {
+        "name": "Cheeyou",
+        "country": "Trinidad and Tobago",
+        "province": "Sangre Grande",
+        "population": -1,
+        "latitude": 10.5497,
+        "longitude": -61.13304
+    },
+    {
+        "name": "Chatham",
+        "country": "Trinidad and Tobago",
+        "province": "Siparia",
+        "population": -1,
+        "latitude": 10.08872,
+        "longitude": -61.73488
+    },
+    {
+        "name": "Charuma",
+        "country": "Trinidad and Tobago",
+        "province": "Mayaro",
+        "population": -1,
+        "latitude": 10.402263,
+        "longitude": -61.155043
+    },
+    {
+        "name": "Chandernagore Settlement",
+        "country": "Trinidad and Tobago",
+        "province": "Chaguanas",
+        "population": -1,
+        "latitude": 10.492888,
+        "longitude": -61.410207
+    },
+    {
+        "name": "Caura",
+        "country": "Trinidad and Tobago",
+        "province": "Tunapuna/Piarco",
+        "population": -1,
+        "latitude": 10.713445,
+        "longitude": -61.356693
+    },
+    {
+        "name": "Carnbee Village",
+        "country": "Trinidad and Tobago",
+        "province": "Tobago",
+        "population": -1,
+        "latitude": 11.16741,
+        "longitude": -60.78375
+    },
+    {
+        "name": "Carmichael",
+        "country": "Trinidad and Tobago",
+        "province": "Sangre Grande",
+        "population": -1,
+        "latitude": 10.497306,
+        "longitude": -61.197978
+    },
+    {
+        "name": "Cardiff",
+        "country": "Trinidad and Tobago",
+        "province": "Tobago",
+        "population": -1,
+        "latitude": 11.233824,
+        "longitude": -60.634062
+    },
+    {
+        "name": "Caratal",
+        "country": "Trinidad and Tobago",
+        "province": "Couva-Tabaquite-Talparo",
+        "population": -1,
+        "latitude": 10.35,
+        "longitude": -61.416667
+    },
+    {
+        "name": "Carapo",
+        "country": "Trinidad and Tobago",
+        "province": "Tunapuna/Piarco",
+        "population": -1,
+        "latitude": 10.593595,
+        "longitude": -61.296254
+    },
+    {
+        "name": "Caparo",
+        "country": "Trinidad and Tobago",
+        "province": "Couva-Tabaquite-Talparo",
+        "population": -1,
+        "latitude": 10.45699,
+        "longitude": -61.321921
+    },
+    {
+        "name": "Canaan",
+        "country": "Trinidad and Tobago",
+        "province": "Penal/Debe",
+        "population": -1,
+        "latitude": 10.253349,
+        "longitude": -61.476304
+    },
+    {
+        "name": "Cameron",
+        "country": "Trinidad and Tobago",
+        "province": "Diego Martin",
+        "population": -1,
+        "latitude": 10.716667,
+        "longitude": -61.55
+    },
+    {
+        "name": "Calder Hall",
+        "country": "Trinidad and Tobago",
+        "province": "Tobago",
+        "population": -1,
+        "latitude": 11.191343,
+        "longitude": -60.734965
+    },
+    {
+        "name": "Calcutta Settlement",
+        "country": "Trinidad and Tobago",
+        "province": "Couva-Tabaquite-Talparo",
+        "population": -1,
+        "latitude": 10.4349,
+        "longitude": -61.448814
+    },
+    {
+        "name": "Caigual",
+        "country": "Trinidad and Tobago",
+        "province": "Sangre Grande",
+        "population": -1,
+        "latitude": 10.556981,
+        "longitude": -61.061306
+    },
+    {
+        "name": "Cacandee Settlement",
+        "country": "Trinidad and Tobago",
+        "province": "Chaguanas",
+        "population": -1,
+        "latitude": 10.55,
+        "longitude": -61.433333
+    },
+    {
+        "name": "Butler",
+        "country": "Trinidad and Tobago",
+        "province": "Couva-Tabaquite-Talparo",
+        "population": -1,
+        "latitude": 10.479987,
+        "longitude": -61.463359
+    },
+    {
+        "name": "Buccoo",
+        "country": "Trinidad and Tobago",
+        "province": "Tobago",
+        "population": -1,
+        "latitude": 11.1832,
+        "longitude": -60.80615
+    },
+    {
+        "name": "Bronte",
+        "country": "Trinidad and Tobago",
+        "province": "Penal/Debe",
+        "population": -1,
+        "latitude": 10.21572,
+        "longitude": -61.398783
+    },
+    {
+        "name": "Brighton",
+        "country": "Trinidad and Tobago",
+        "province": "Siparia",
+        "population": -1,
+        "latitude": 10.245879,
+        "longitude": -61.621891
+    },
+    {
+        "name": "Brickfield",
+        "country": "Trinidad and Tobago",
+        "province": "Couva-Tabaquite-Talparo",
+        "population": -1,
+        "latitude": 10.490205,
+        "longitude": -61.468565
+    },
+    {
+        "name": "Brickfield",
+        "country": "Trinidad and Tobago",
+        "province": "Couva-Tabaquite-Talparo",
+        "population": -1,
+        "latitude": 10.342189,
+        "longitude": -61.274565
+    },
+    {
+        "name": "Brazil",
+        "country": "Trinidad and Tobago",
+        "province": "Couva-Tabaquite-Talparo",
+        "population": -1,
+        "latitude": 10.554713,
+        "longitude": -61.275691
+    },
+    {
+        "name": "Brasso Venado",
+        "country": "Trinidad and Tobago",
+        "province": "Couva-Tabaquite-Talparo",
+        "population": -1,
+        "latitude": 10.425283,
+        "longitude": -61.273066
+    },
+    {
+        "name": "Brasso Seco Village",
+        "country": "Trinidad and Tobago",
+        "province": "Tunapuna/Piarco",
+        "population": -1,
+        "latitude": 10.748118,
+        "longitude": -61.268711
+    },
+    {
+        "name": "Brasso Piedra",
+        "country": "Trinidad and Tobago",
+        "province": "Couva-Tabaquite-Talparo",
+        "population": -1,
+        "latitude": 10.439902,
+        "longitude": -61.31173
+    },
+    {
+        "name": "Brasso",
+        "country": "Trinidad and Tobago",
+        "province": "Couva-Tabaquite-Talparo",
+        "population": -1,
+        "latitude": 10.412014323981822,
+        "longitude": -61.32113456726074
+    },
+    {
+        "name": "Black Rock",
+        "country": "Trinidad and Tobago",
+        "province": "Tobago",
+        "population": -1,
+        "latitude": 11.205976825916625,
+        "longitude": -60.78190326690674
+    },
+    {
+        "name": "Bethel",
+        "country": "Trinidad and Tobago",
+        "province": "Tobago",
+        "population": -1,
+        "latitude": 11.1827,
+        "longitude": -60.78353
+    },
+    {
+        "name": "Belmont",
+        "country": "Trinidad and Tobago",
+        "province": "Tobago",
+        "population": -1,
+        "latitude": 11.315071,
+        "longitude": -60.527495
+    },
+    {
+        "name": "Belle Garden",
+        "country": "Trinidad and Tobago",
+        "province": "Tobago",
+        "population": -1,
+        "latitude": 11.23353,
+        "longitude": -60.598939
+    },
+    {
+        "name": "Bakhen",
+        "country": "Trinidad and Tobago",
+        "province": "Penal/Debe",
+        "population": -1,
+        "latitude": 10.178432,
+        "longitude": -61.450583
+    },
+    {
+        "name": "Avocat",
+        "country": "Trinidad and Tobago",
+        "province": "Siparia",
+        "population": -1,
+        "latitude": 10.199756,
+        "longitude": -61.534952
+    },
+    {
+        "name": "Auchenskeoch",
+        "country": "Trinidad and Tobago",
+        "province": "Tobago",
+        "population": -1,
+        "latitude": 11.1732,
+        "longitude": -60.78499
+    },
+    {
+        "name": "Arden",
+        "country": "Trinidad and Tobago",
+        "province": "Tobago",
+        "population": -1,
+        "latitude": 11.2666667,
+        "longitude": -60.5833333
+    },
+    {
+        "name": "Anse Fourmi",
+        "country": "Trinidad and Tobago",
+        "province": "Tobago",
+        "population": -1,
+        "latitude": 11.309749,
+        "longitude": -60.612188
+    },
+    {
+        "name": "Agostini",
+        "country": "Trinidad and Tobago",
+        "province": "Couva-Tabaquite-Talparo",
+        "population": -1,
+        "latitude": 10.483333,
+        "longitude": -61.4
+    },
+    {
+        "name": "Adventure",
+        "country": "Trinidad and Tobago",
+        "province": "Tobago",
+        "population": -1,
+        "latitude": 11.21368,
+        "longitude": -60.76929
+    },
+    {
+        "name": "Adelphi",
+        "country": "Trinidad and Tobago",
+        "province": "Tobago",
+        "population": -1,
+        "latitude": 11.209694,
+        "longitude": -60.717726
+    },
+    {
+        "name": "Gonzales",
+        "country": "Trinidad and Tobago",
+        "province": "San Juan/Laventille",
+        "population": -1,
+        "latitude": 10.658614,
+        "longitude": -61.503552
+    },
+    {
+        "name": "Batteaux Bay",
+        "country": "Trinidad and Tobago",
+        "province": "Trinidad and Tobago",
+        "population": -1,
+        "latitude": 11.30686606084893,
+        "longitude": -60.52934646606445
+    },
+    {
+        "name": "Goodwood Park",
+        "country": "Trinidad and Tobago",
+        "province": "Diego Martin",
+        "population": -1,
+        "latitude": 10.683258,
+        "longitude": -61.568693
+    },
+    {
+        "name": "Glencoe",
+        "country": "Trinidad and Tobago",
+        "province": "Diego Martin",
+        "population": -1,
+        "latitude": 10.681593,
+        "longitude": -61.573975
+    },
+    {
+        "name": "Bayshore",
+        "country": "Trinidad and Tobago",
+        "province": "Diego Martin",
+        "population": -1,
+        "latitude": 10.678464,
+        "longitude": -61.566224
+    },
+    {
+        "name": "Sea View Gardens",
+        "country": "Trinidad and Tobago",
+        "province": "Diego Martin",
+        "population": -1,
+        "latitude": 10.683746,
+        "longitude": -61.581956
+    },
+    {
+        "name": "El Chorro",
+        "country": "Trinidad and Tobago",
+        "province": "Tunapuna/Piarco",
+        "population": -1,
+        "latitude": 10.706284,
+        "longitude": -61.419034
+    },
+    {
+        "name": "Felicity",
+        "country": "Trinidad and Tobago",
+        "province": "Chaguanas",
+        "population": -1,
+        "latitude": 10.538886,
+        "longitude": -61.438939
+    },
+    {
+        "name": "Edinburgh",
+        "country": "Trinidad and Tobago",
+        "province": "Chaguanas",
+        "population": -1,
+        "latitude": 10.500911,
+        "longitude": -61.409761
+    },
+    {
+        "name": "Wyaby",
+        "country": "Trinidad and Tobago",
+        "province": "Couva-Tabaquite-Talparo",
+        "population": -1,
+        "latitude": 10.481341,
+        "longitude": -61.444712
+    },
+    {
+        "name": "Palmiste",
+        "country": "Trinidad and Tobago",
+        "province": "Couva-Tabaquite-Talparo",
+        "population": -1,
+        "latitude": 10.493229,
+        "longitude": -61.367882
+    },
+    {
+        "name": "Caratal",
+        "country": "Trinidad and Tobago",
+        "province": "Couva-Tabaquite-Talparo",
+        "population": -1,
+        "latitude": 10.528169,
+        "longitude": -61.208758
+    },
+    {
+        "name": "Windsor Park",
+        "country": "Trinidad and Tobago",
+        "province": "Couva-Tabaquite-Talparo",
+        "population": -1,
+        "latitude": 10.384199,
+        "longitude": -61.44424
+    },
+    {
+        "name": "Basterhall",
+        "country": "Trinidad and Tobago",
+        "province": "Couva-Tabaquite-Talparo",
+        "population": -1,
+        "latitude": 10.401144,
+        "longitude": -61.441164
+    },
+    {
+        "name": "Carolina",
+        "country": "Trinidad and Tobago",
+        "province": "Couva-Tabaquite-Talparo",
+        "population": -1,
+        "latitude": 10.396111,
+        "longitude": -61.427015
+    },
+    {
+        "name": "Soledad",
+        "country": "Trinidad and Tobago",
+        "province": "Couva-Tabaquite-Talparo",
+        "population": -1,
+        "latitude": 10.357971,
+        "longitude": -61.451957
+    },
+    {
+        "name": "Jaitoo",
+        "country": "Trinidad and Tobago",
+        "province": "Couva-Tabaquite-Talparo",
+        "population": -1,
+        "latitude": 10.434533,
+        "longitude": -61.389292
+    },
+    {
+        "name": "Gordon Settlement",
+        "country": "Trinidad and Tobago",
+        "province": "Couva-Tabaquite-Talparo",
+        "population": -1,
+        "latitude": 10.389893,
+        "longitude": -61.392334
+    },
+    {
+        "name": "Tarouba",
+        "country": "Trinidad and Tobago",
+        "province": "Princes Town",
+        "population": -1,
+        "latitude": 10.274789,
+        "longitude": -61.434224
+    },
+    {
+        "name": "Plaisance Park",
+        "country": "Trinidad and Tobago",
+        "province": "Princes Town",
+        "population": -1,
+        "latitude": 10.337037,
+        "longitude": -61.457944
+    },
+    {
+        "name": "Spring Vale",
+        "country": "Trinidad and Tobago",
+        "province": "San Fernando",
+        "population": -1,
+        "latitude": 10.28668,
+        "longitude": -61.462524
+    },
+    {
+        "name": "La Pique",
+        "country": "Trinidad and Tobago",
+        "province": "San Fernando",
+        "population": -1,
+        "latitude": 10.279862,
+        "longitude": -61.464269
+    },
+    {
+        "name": "Pleasantville",
+        "country": "Trinidad and Tobago",
+        "province": "San Fernando",
+        "population": -1,
+        "latitude": 10.26871,
+        "longitude": -61.454843
+    },
+    {
+        "name": "Palmiste",
+        "country": "Trinidad and Tobago",
+        "province": "San Fernando",
+        "population": -1,
+        "latitude": 10.262652,
+        "longitude": -61.464824
+    },
+    {
+        "name": "La Romain",
+        "country": "Trinidad and Tobago",
+        "province": "San Fernando",
+        "population": -1,
+        "latitude": 10.249549,
+        "longitude": -61.483513
+    },
+    {
+        "name": "Craignish",
+        "country": "Trinidad and Tobago",
+        "province": "Princes Town",
+        "population": -1,
+        "latitude": 10.268157,
+        "longitude": -61.367372
+    },
+    {
+        "name": "Hubert’s Town",
+        "country": "Trinidad and Tobago",
+        "province": "Point Fortin",
+        "population": -1,
+        "latitude": 10.179332,
+        "longitude": -61.637992
+    },
+    {
+        "name": "Mouville",
+        "country": "Trinidad and Tobago",
+        "province": "Mayaro",
+        "population": -1,
+        "latitude": 10.152584,
+        "longitude": -61.000799
+    },
+    {
+        "name": "Harmony Hall",
+        "country": "Trinidad and Tobago",
+        "province": "Tobago",
+        "population": -1,
+        "latitude": 11.19815,
+        "longitude": -60.732245
+    },
+    {
+        "name": "Crown Point",
+        "country": "Trinidad and Tobago",
+        "province": "Trinidad and Tobago",
+        "population": -1,
+        "latitude": 11.15263,
+        "longitude": -60.83696
+    },
+    {
+        "name": "Golden Grove",
+        "country": "Trinidad and Tobago",
+        "province": "Trinidad and Tobago",
+        "population": -1,
+        "latitude": 11.16994,
+        "longitude": -60.80817
+    },
+    {
+        "name": "Signal Hill",
+        "country": "Trinidad and Tobago",
+        "province": "Trinidad and Tobago",
+        "population": -1,
+        "latitude": 11.18013,
+        "longitude": -60.76113
+    },
+    {
+        "name": "Orange Hill",
+        "country": "Trinidad and Tobago",
+        "province": "Trinidad and Tobago",
+        "population": -1,
+        "latitude": 11.19478,
+        "longitude": -60.75547
+    },
+    {
+        "name": "Riseland",
+        "country": "Trinidad and Tobago",
+        "province": "Tobago",
+        "population": -1,
+        "latitude": 11.17276,
+        "longitude": -60.78128
+    },
+    {
+        "name": "Cove",
+        "country": "Trinidad and Tobago",
+        "province": "Tobago",
+        "population": -1,
+        "latitude": 11.141446,
+        "longitude": -60.796419
+    },
+    {
+        "name": "South Belmont",
+        "country": "Trinidad and Tobago",
+        "province": "Trinidad and Tobago",
+        "population": -1,
+        "latitude": 10.648292711288029,
+        "longitude": -61.50588512420654
+    },
+    {
+        "name": "Coral Gardens",
+        "country": "Trinidad and Tobago",
+        "province": "Trinidad and Tobago",
+        "population": -1,
+        "latitude": 11.18156,
+        "longitude": -60.80413
+    },
+    {
+        "name": "New Grange",
+        "country": "Trinidad and Tobago",
+        "province": "Trinidad and Tobago",
+        "population": -1,
+        "latitude": 11.1739,
+        "longitude": -60.79216
+    },
+    {
+        "name": "Aranguez",
+        "country": "Trinidad and Tobago",
+        "province": "San Juan/Laventille",
+        "population": -1,
+        "latitude": 10.647222,
+        "longitude": -61.446111
+    }
+]

@@ -1,0 +1,1018 @@
+[
+    {
+        "name": "Ḩawallī",
+        "country": "Kuwait",
+        "province": "Hawalli",
+        "population": 164212,
+        "latitude": 29.3327778,
+        "longitude": 48.0286111
+    },
+    {
+        "name": "Al Ahmadi",
+        "country": "Kuwait",
+        "province": "Al Aḩmadī",
+        "population": 637411,
+        "latitude": 29.0769444,
+        "longitude": 48.0838889
+    },
+    {
+        "name": "As Sālimīyah",
+        "country": "Kuwait",
+        "province": "Hawalli",
+        "population": 147649,
+        "latitude": 29.333889,
+        "longitude": 48.076111
+    },
+    {
+        "name": "Kuwait City",
+        "country": "Kuwait",
+        "province": "Al Asimah",
+        "population": 60064,
+        "latitude": 29.369722,
+        "longitude": 47.978333
+    },
+    {
+        "name": "Al Farwānīyah",
+        "country": "Kuwait",
+        "province": "Al Farwaniyah",
+        "population": 86525,
+        "latitude": 29.2775,
+        "longitude": 47.9586111
+    },
+    {
+        "name": "Şabāḩ as Sālim",
+        "country": "Kuwait",
+        "province": "Mubārak al Kabīr",
+        "population": 139163,
+        "latitude": 29.2572222,
+        "longitude": 48.0572222
+    },
+    {
+        "name": "Al Faḩāḩīl",
+        "country": "Kuwait",
+        "province": "Al Aḩmadī",
+        "population": 68290,
+        "latitude": 29.0825,
+        "longitude": 48.130278
+    },
+    {
+        "name": "Ar Rumaythīyah",
+        "country": "Kuwait",
+        "province": "Hawalli",
+        "population": 58135,
+        "latitude": 29.311667,
+        "longitude": 48.074167
+    },
+    {
+        "name": "Ar Riqqah",
+        "country": "Kuwait",
+        "province": "Al Aḩmadī",
+        "population": 52068,
+        "latitude": 29.145833,
+        "longitude": 48.094722
+    },
+    {
+        "name": "Salwá",
+        "country": "Kuwait",
+        "province": "Hawalli",
+        "population": 40945,
+        "latitude": 29.295833,
+        "longitude": 48.078611
+    },
+    {
+        "name": "Al Manqaf",
+        "country": "Kuwait",
+        "province": "Al Aḩmadī",
+        "population": 39025,
+        "latitude": 29.096111,
+        "longitude": 48.132778
+    },
+    {
+        "name": "Al Jahra",
+        "country": "Kuwait",
+        "province": "Al Jahrāʼ",
+        "population": 24281,
+        "latitude": 29.3375,
+        "longitude": 47.658056
+    },
+    {
+        "name": "Al Finţās",
+        "country": "Kuwait",
+        "province": "Al Aḩmadī",
+        "population": 23071,
+        "latitude": 29.173889,
+        "longitude": 48.121111
+    },
+    {
+        "name": "Bayān",
+        "country": "Kuwait",
+        "province": "Hawalli",
+        "population": 30635,
+        "latitude": 29.303198,
+        "longitude": 48.048812
+    },
+    {
+        "name": "Ash Shu‘aybah",
+        "country": "Kuwait",
+        "province": "Al Aḩmadī",
+        "population": -1,
+        "latitude": 29.041111,
+        "longitude": 48.1375
+    },
+    {
+        "name": "Al Shamiya",
+        "country": "Kuwait",
+        "province": "Al Asimah",
+        "population": 13762,
+        "latitude": 29.347222,
+        "longitude": 47.961667
+    },
+    {
+        "name": "Al Mahbūlah",
+        "country": "Kuwait",
+        "province": "Al Aḩmadī",
+        "population": 18178,
+        "latitude": 29.145,
+        "longitude": 48.130278
+    },
+    {
+        "name": "Al Funayţīs",
+        "country": "Kuwait",
+        "province": "Mubārak al Kabīr",
+        "population": 1878,
+        "latitude": 29.225278,
+        "longitude": 48.101667
+    },
+    {
+        "name": "Ad Dasmah",
+        "country": "Kuwait",
+        "province": "Al Asimah",
+        "population": 17585,
+        "latitude": 29.365,
+        "longitude": 48.0013889
+    },
+    {
+        "name": "Abū Ḩulayfah",
+        "country": "Kuwait",
+        "province": "Al Aḩmadī",
+        "population": -1,
+        "latitude": 29.132222,
+        "longitude": 48.126111
+    },
+    {
+        "name": "Mubārak al Kabīr",
+        "country": "Kuwait",
+        "province": "Mubārak al Kabīr",
+        "population": -1,
+        "latitude": 29.189789,
+        "longitude": 48.087156
+    },
+    {
+        "name": "Highway of Death",
+        "country": "Kuwait",
+        "province": "Kuwait",
+        "population": -1,
+        "latitude": 29.3842,
+        "longitude": 47.6518
+    },
+    {
+        "name": "Janūb as Surrah",
+        "country": "Kuwait",
+        "province": "Al Farwaniyah",
+        "population": 18496,
+        "latitude": 29.2691667,
+        "longitude": 47.9780556
+    },
+    {
+        "name": "Az Zawr",
+        "country": "Kuwait",
+        "province": "Al Asimah",
+        "population": 5750,
+        "latitude": 29.4425,
+        "longitude": 48.2747222
+    },
+    {
+        "name": "Ash Shuwaykh",
+        "country": "Kuwait",
+        "province": "Al Asimah",
+        "population": -1,
+        "latitude": 29.3436111,
+        "longitude": 47.9461111
+    },
+    {
+        "name": "Al Ḩujayjah",
+        "country": "Kuwait",
+        "province": "Al Jahrāʼ",
+        "population": -1,
+        "latitude": 29.654722,
+        "longitude": 48.131111
+    },
+    {
+        "name": "Abraq Khayţān",
+        "country": "Kuwait",
+        "province": "Al Farwaniyah",
+        "population": -1,
+        "latitude": 29.2925,
+        "longitude": 47.968889
+    },
+    {
+        "name": "Al ‘Ulaymīyah",
+        "country": "Kuwait",
+        "province": "Al Jahrāʼ",
+        "population": -1,
+        "latitude": 29.688056,
+        "longitude": 48.114167
+    },
+    {
+        "name": "Ar Rābiyah",
+        "country": "Kuwait",
+        "province": "Al Asimah",
+        "population": 36447,
+        "latitude": 29.295,
+        "longitude": 47.9330556
+    },
+    {
+        "name": "Az Zawr",
+        "country": "Kuwait",
+        "province": "Al Aḩmadī",
+        "population": -1,
+        "latitude": 28.7375,
+        "longitude": 48.3727778
+    },
+    {
+        "name": "Aş Şabāḩīyah",
+        "country": "Kuwait",
+        "province": "Al Aḩmadī",
+        "population": -1,
+        "latitude": 29.105833,
+        "longitude": 48.108056
+    },
+    {
+        "name": "An Nuqayyāt",
+        "country": "Kuwait",
+        "province": "Kuwait",
+        "population": -1,
+        "latitude": 28.943056,
+        "longitude": 48.198611
+    },
+    {
+        "name": "An Nijfah",
+        "country": "Kuwait",
+        "province": "Mubārak al Kabīr",
+        "population": -1,
+        "latitude": 29.2463889,
+        "longitude": 48.0758333
+    },
+    {
+        "name": "Al Wafrah",
+        "country": "Kuwait",
+        "province": "Al Aḩmadī",
+        "population": 10017,
+        "latitude": 28.6391667,
+        "longitude": 47.9305556
+    },
+    {
+        "name": "Al Maqwa‘",
+        "country": "Kuwait",
+        "province": "Kuwait",
+        "population": -1,
+        "latitude": 29.166667,
+        "longitude": 47.983333
+    },
+    {
+        "name": "Al Bida‘",
+        "country": "Kuwait",
+        "province": "Kuwait",
+        "population": -1,
+        "latitude": 29.3025,
+        "longitude": 48.086944
+    },
+    {
+        "name": "Bahra",
+        "country": "Kuwait",
+        "province": "Kuwait",
+        "population": -1,
+        "latitude": 29.666667,
+        "longitude": 47.866667
+    },
+    {
+        "name": "Aḑ Ḑibā‘īyah",
+        "country": "Kuwait",
+        "province": "Kuwait",
+        "population": -1,
+        "latitude": 28.933333,
+        "longitude": 48.166667
+    },
+    {
+        "name": "Ad Dawḩah",
+        "country": "Kuwait",
+        "province": "Kuwait",
+        "population": -1,
+        "latitude": 29.367778,
+        "longitude": 47.81
+    },
+    {
+        "name": "Al ‘Arfajīyah",
+        "country": "Kuwait",
+        "province": "Al Jahrāʼ",
+        "population": -1,
+        "latitude": 29.700278,
+        "longitude": 48.095556
+    },
+    {
+        "name": "Al Wafrah",
+        "country": "Kuwait",
+        "province": "Kuwait",
+        "population": -1,
+        "latitude": 28.5541667,
+        "longitude": 48.0530556
+    },
+    {
+        "name": "Ad Da‘īyah",
+        "country": "Kuwait",
+        "province": "Kuwait",
+        "population": -1,
+        "latitude": 29.358056,
+        "longitude": 48.014722
+    },
+    {
+        "name": "Ash Sha‘b",
+        "country": "Kuwait",
+        "province": "Kuwait",
+        "population": -1,
+        "latitude": 29.346944,
+        "longitude": 48.025
+    },
+    {
+        "name": "Maydān Ḩawallī",
+        "country": "Kuwait",
+        "province": "Kuwait",
+        "population": -1,
+        "latitude": 29.336111,
+        "longitude": 48.0425
+    },
+    {
+        "name": "Mishrif",
+        "country": "Kuwait",
+        "province": "Kuwait",
+        "population": -1,
+        "latitude": 29.289167,
+        "longitude": 48.05
+    },
+    {
+        "name": "Al Masīlah",
+        "country": "Kuwait",
+        "province": "Mubārak al Kabīr",
+        "population": -1,
+        "latitude": 29.261944,
+        "longitude": 48.079722
+    },
+    {
+        "name": "Al Murqāb",
+        "country": "Kuwait",
+        "province": "Al Asimah",
+        "population": -1,
+        "latitude": 29.3655556,
+        "longitude": 47.9780556
+    },
+    {
+        "name": "‘Ashīsh al Jahrā’",
+        "country": "Kuwait",
+        "province": "Kuwait",
+        "population": -1,
+        "latitude": 29.317222,
+        "longitude": 47.677778
+    },
+    {
+        "name": "Qurţubah",
+        "country": "Kuwait",
+        "province": "Al Asimah",
+        "population": -1,
+        "latitude": 29.3122222,
+        "longitude": 47.9855556
+    },
+    {
+        "name": "‘Urayfijān",
+        "country": "Kuwait",
+        "province": "Kuwait",
+        "population": -1,
+        "latitude": 28.9,
+        "longitude": 48.183333
+    },
+    {
+        "name": "Umm Qaşbah",
+        "country": "Kuwait",
+        "province": "Kuwait",
+        "population": -1,
+        "latitude": 28.9922222,
+        "longitude": 48.1655556
+    },
+    {
+        "name": "Shumaymah",
+        "country": "Kuwait",
+        "province": "Al Jahrāʼ",
+        "population": -1,
+        "latitude": 29.6177778,
+        "longitude": 48.1505556
+    },
+    {
+        "name": "An Nuqrah",
+        "country": "Kuwait",
+        "province": "Kuwait",
+        "population": -1,
+        "latitude": 29.3375,
+        "longitude": 48.0105556
+    },
+    {
+        "name": "Manīfah",
+        "country": "Kuwait",
+        "province": "Kuwait",
+        "population": -1,
+        "latitude": 29.1608333,
+        "longitude": 48.0811111
+    },
+    {
+        "name": "Kayfān",
+        "country": "Kuwait",
+        "province": "Al Asimah",
+        "population": -1,
+        "latitude": 29.341389,
+        "longitude": 47.963333
+    },
+    {
+        "name": "Ju‘aydān",
+        "country": "Kuwait",
+        "province": "Kuwait",
+        "population": -1,
+        "latitude": 28.966667,
+        "longitude": 47.967222
+    },
+    {
+        "name": "Jalīb ash Shuyūkh",
+        "country": "Kuwait",
+        "province": "Kuwait",
+        "population": -1,
+        "latitude": 29.266667,
+        "longitude": 47.933333
+    },
+    {
+        "name": "Ḑulay‘ Su‘ūd",
+        "country": "Kuwait",
+        "province": "Mubārak al Kabīr",
+        "population": -1,
+        "latitude": 29.201111,
+        "longitude": 48.111111
+    },
+    {
+        "name": "Aş Şulaybīkhāt",
+        "country": "Kuwait",
+        "province": "Kuwait",
+        "population": -1,
+        "latitude": 29.315278,
+        "longitude": 47.835833
+    },
+    {
+        "name": "Al ‘Uqaylah",
+        "country": "Kuwait",
+        "province": "Kuwait",
+        "population": -1,
+        "latitude": 29.177778,
+        "longitude": 48.094722
+    },
+    {
+        "name": "Al Maghāsil",
+        "country": "Kuwait",
+        "province": "Kuwait",
+        "population": -1,
+        "latitude": 29.7419444,
+        "longitude": 48.0944444
+    },
+    {
+        "name": "Al Fayḩā’",
+        "country": "Kuwait",
+        "province": "Kuwait",
+        "population": -1,
+        "latitude": 29.336389,
+        "longitude": 47.975833
+    },
+    {
+        "name": "Al ‘Abdalīyah",
+        "country": "Kuwait",
+        "province": "Kuwait",
+        "population": -1,
+        "latitude": 29.0425,
+        "longitude": 47.706111
+    },
+    {
+        "name": "Al ‘Abdalī Farms",
+        "country": "Kuwait",
+        "province": "Al Jahrāʼ",
+        "population": -1,
+        "latitude": 30.042187,
+        "longitude": 47.722052
+    },
+    {
+        "name": "Al Khuwaysāt",
+        "country": "Kuwait",
+        "province": "Kuwait",
+        "population": -1,
+        "latitude": 29.4033333,
+        "longitude": 47.7111111
+    },
+    {
+        "name": "Qullat Shujayr",
+        "country": "Kuwait",
+        "province": "Al Asimah",
+        "population": -1,
+        "latitude": 29.4591667,
+        "longitude": 48.2997222
+    },
+    {
+        "name": "Al ‘Awāzim",
+        "country": "Kuwait",
+        "province": "Al Asimah",
+        "population": -1,
+        "latitude": 29.420278,
+        "longitude": 48.385
+    },
+    {
+        "name": "‘Ashīsh ad Dawḩah",
+        "country": "Kuwait",
+        "province": "Al Jahrāʼ",
+        "population": -1,
+        "latitude": 29.385278,
+        "longitude": 47.842222
+    },
+    {
+        "name": "Al ‘Adīlīyah",
+        "country": "Kuwait",
+        "province": "Kuwait",
+        "population": -1,
+        "latitude": 29.320556,
+        "longitude": 47.976944
+    },
+    {
+        "name": "Ad Dawḩah",
+        "country": "Kuwait",
+        "province": "Kuwait",
+        "population": -1,
+        "latitude": 29.3144444,
+        "longitude": 47.8119444
+    },
+    {
+        "name": "Al ‘Āriḑīyah",
+        "country": "Kuwait",
+        "province": "Kuwait",
+        "population": -1,
+        "latitude": 29.284167,
+        "longitude": 47.875
+    },
+    {
+        "name": "Al ‘Abbāsīyah",
+        "country": "Kuwait",
+        "province": "Kuwait",
+        "population": -1,
+        "latitude": 29.250278,
+        "longitude": 47.931111
+    },
+    {
+        "name": "Aḑ Ḑubā‘īyah",
+        "country": "Kuwait",
+        "province": "Kuwait",
+        "population": -1,
+        "latitude": 28.923611,
+        "longitude": 48.207222
+    },
+    {
+        "name": "Aţ Ţawīl",
+        "country": "Kuwait",
+        "province": "Kuwait",
+        "population": -1,
+        "latitude": 28.9786111,
+        "longitude": 47.9072222
+    },
+    {
+        "name": "Şubayḩīyah",
+        "country": "Kuwait",
+        "province": "Kuwait",
+        "population": -1,
+        "latitude": 28.8794444,
+        "longitude": 47.9138889
+    },
+    {
+        "name": "Wārah",
+        "country": "Kuwait",
+        "province": "Kuwait",
+        "population": -1,
+        "latitude": 28.9961111,
+        "longitude": 47.9822222
+    },
+    {
+        "name": "‘Ushaysh al Jahrā’",
+        "country": "Kuwait",
+        "province": "Kuwait",
+        "population": -1,
+        "latitude": 29.315833,
+        "longitude": 47.663889
+    },
+    {
+        "name": "Jalīb ash Shuyūkh",
+        "country": "Kuwait",
+        "province": "Kuwait",
+        "population": -1,
+        "latitude": 29.2586111,
+        "longitude": 47.9241667
+    },
+    {
+        "name": "Duwaydāt",
+        "country": "Kuwait",
+        "province": "Al Aḩmadī",
+        "population": -1,
+        "latitude": 28.5827778,
+        "longitude": 48.3991667
+    },
+    {
+        "name": "Dant",
+        "country": "Kuwait",
+        "province": "Kuwait",
+        "population": -1,
+        "latitude": 29.1666667,
+        "longitude": 48.1166667
+    },
+    {
+        "name": "Ar Rawḑah",
+        "country": "Kuwait",
+        "province": "Al Asimah",
+        "population": -1,
+        "latitude": 29.324722,
+        "longitude": 48.001389
+    },
+    {
+        "name": "An Nāmī",
+        "country": "Kuwait",
+        "province": "Kuwait",
+        "population": -1,
+        "latitude": 28.6397222,
+        "longitude": 48.3644444
+    },
+    {
+        "name": "Al ‘Udaylīyah",
+        "country": "Kuwait",
+        "province": "Kuwait",
+        "population": -1,
+        "latitude": 29.3,
+        "longitude": 47.966667
+    },
+    {
+        "name": "Al Qash‘ānīyah",
+        "country": "Kuwait",
+        "province": "Al Jahrāʼ",
+        "population": -1,
+        "latitude": 29.983374,
+        "longitude": 47.758657
+    },
+    {
+        "name": "Al Khīrān",
+        "country": "Kuwait",
+        "province": "Al Aḩmadī",
+        "population": -1,
+        "latitude": 28.6511111,
+        "longitude": 48.3902778
+    },
+    {
+        "name": "Al Ḩadīqah",
+        "country": "Kuwait",
+        "province": "Kuwait",
+        "population": -1,
+        "latitude": 29.333333,
+        "longitude": 47.983333
+    },
+    {
+        "name": "Al Bhar",
+        "country": "Kuwait",
+        "province": "Kuwait",
+        "population": -1,
+        "latitude": 29.3833333,
+        "longitude": 47.8333333
+    },
+    {
+        "name": "Al Ad‘amī",
+        "country": "Kuwait",
+        "province": "Kuwait",
+        "population": -1,
+        "latitude": 28.816667,
+        "longitude": 48.266667
+    },
+    {
+        "name": "Ad Da‘īyah",
+        "country": "Kuwait",
+        "province": "Kuwait",
+        "population": -1,
+        "latitude": 29.333333,
+        "longitude": 47.983333
+    },
+    {
+        "name": "Al ‘Adan",
+        "country": "Kuwait",
+        "province": "Mubārak al Kabīr",
+        "population": -1,
+        "latitude": 29.232739,
+        "longitude": 48.068498
+    },
+    {
+        "name": "Al-Masayel",
+        "country": "Kuwait",
+        "province": "Mubārak al Kabīr",
+        "population": 2458,
+        "latitude": 29.2393,
+        "longitude": 48.08862
+    },
+    {
+        "name": "Abu Fatira",
+        "country": "Kuwait",
+        "province": "Mubārak al Kabīr",
+        "population": 1240,
+        "latitude": 29.19746,
+        "longitude": 48.10278
+    },
+    {
+        "name": "Abu Al Hasaniya",
+        "country": "Kuwait",
+        "province": "Mubārak al Kabīr",
+        "population": 1350,
+        "latitude": 29.19076,
+        "longitude": 48.11355
+    },
+    {
+        "name": "Qaşm Dasmān",
+        "country": "Kuwait",
+        "province": "Kuwait",
+        "population": -1,
+        "latitude": 29.38,
+        "longitude": 47.9961111
+    },
+    {
+        "name": "Al Bid‘",
+        "country": "Kuwait",
+        "province": "Kuwait",
+        "population": -1,
+        "latitude": 29.312222,
+        "longitude": 48.087778
+    },
+    {
+        "name": "Umm Şiddah",
+        "country": "Kuwait",
+        "province": "Al Asimah",
+        "population": -1,
+        "latitude": 29.3619444,
+        "longitude": 47.9925
+    },
+    {
+        "name": "Al Khiḑr",
+        "country": "Kuwait",
+        "province": "Al Asimah",
+        "population": -1,
+        "latitude": 29.4644444,
+        "longitude": 48.2883333
+    },
+    {
+        "name": "Al Bulţ",
+        "country": "Kuwait",
+        "province": "Kuwait",
+        "population": -1,
+        "latitude": 29.4575,
+        "longitude": 48.2813889
+    },
+    {
+        "name": "Ash Shubaykah",
+        "country": "Kuwait",
+        "province": "Al Asimah",
+        "population": -1,
+        "latitude": 29.4316667,
+        "longitude": 48.2991667
+    },
+    {
+        "name": "Ad Dasht",
+        "country": "Kuwait",
+        "province": "Al Asimah",
+        "population": -1,
+        "latitude": 29.4625,
+        "longitude": 48.3138889
+    },
+    {
+        "name": "Bunayd al Qār",
+        "country": "Kuwait",
+        "province": "Al Asimah",
+        "population": -1,
+        "latitude": 29.3755556,
+        "longitude": 48.0025
+    },
+    {
+        "name": "Al Qādisīyah",
+        "country": "Kuwait",
+        "province": "Kuwait",
+        "population": -1,
+        "latitude": 29.3502778,
+        "longitude": 48.0069444
+    },
+    {
+        "name": "Ar Rawḑah",
+        "country": "Kuwait",
+        "province": "Kuwait",
+        "population": -1,
+        "latitude": 29.3158333,
+        "longitude": 48.0063889
+    },
+    {
+        "name": "Al Jābirīyah",
+        "country": "Kuwait",
+        "province": "Kuwait",
+        "population": -1,
+        "latitude": 29.3222222,
+        "longitude": 48.0236111
+    },
+    {
+        "name": "Al Badawīyah",
+        "country": "Kuwait",
+        "province": "Kuwait",
+        "population": -1,
+        "latitude": 29.0813889,
+        "longitude": 48.1177778
+    },
+    {
+        "name": "Ash Sharq",
+        "country": "Kuwait",
+        "province": "Al Asimah",
+        "population": -1,
+        "latitude": 29.3794444,
+        "longitude": 47.9872222
+    },
+    {
+        "name": "Al Qiblah",
+        "country": "Kuwait",
+        "province": "Kuwait",
+        "population": -1,
+        "latitude": 29.3736111,
+        "longitude": 47.9716667
+    },
+    {
+        "name": "Aş Şāliḩīyah",
+        "country": "Kuwait",
+        "province": "Al Asimah",
+        "population": -1,
+        "latitude": 29.3633333,
+        "longitude": 47.9688889
+    },
+    {
+        "name": "Al Manşūrīyah",
+        "country": "Kuwait",
+        "province": "Kuwait",
+        "population": -1,
+        "latitude": 29.3555556,
+        "longitude": 47.9805556
+    },
+    {
+        "name": "Al Khālidīyah",
+        "country": "Kuwait",
+        "province": "Kuwait",
+        "population": -1,
+        "latitude": 29.3280556,
+        "longitude": 47.9655556
+    },
+    {
+        "name": "An Nuzhah",
+        "country": "Kuwait",
+        "province": "Kuwait",
+        "population": -1,
+        "latitude": 29.3416667,
+        "longitude": 47.9897222
+    },
+    {
+        "name": "Al Qādisīyah",
+        "country": "Kuwait",
+        "province": "Kuwait",
+        "population": -1,
+        "latitude": 29.3475,
+        "longitude": 47.985
+    },
+    {
+        "name": "Ḑāhiyat ‘Abd Allāh as Sālim",
+        "country": "Kuwait",
+        "province": "Kuwait",
+        "population": -1,
+        "latitude": 29.351389,
+        "longitude": 47.98
+    },
+    {
+        "name": "Al Mīnā’",
+        "country": "Kuwait",
+        "province": "Kuwait",
+        "population": -1,
+        "latitude": 29.329722,
+        "longitude": 47.936111
+    },
+    {
+        "name": "Al Murayţibah",
+        "country": "Kuwait",
+        "province": "Kuwait",
+        "population": -1,
+        "latitude": 29.3647222,
+        "longitude": 47.6525
+    },
+    {
+        "name": "Ar Rayy",
+        "country": "Kuwait",
+        "province": "Kuwait",
+        "population": -1,
+        "latitude": 29.3091667,
+        "longitude": 47.9341667
+    },
+    {
+        "name": "Al Yarmūk",
+        "country": "Kuwait",
+        "province": "Kuwait",
+        "population": -1,
+        "latitude": 29.3077778,
+        "longitude": 47.9675
+    },
+    {
+        "name": "As Surrah",
+        "country": "Kuwait",
+        "province": "Al Farwaniyah",
+        "population": -1,
+        "latitude": 29.2752778,
+        "longitude": 47.99
+    },
+    {
+        "name": "Janūb Khayţān",
+        "country": "Kuwait",
+        "province": "Kuwait",
+        "population": -1,
+        "latitude": 29.2722222,
+        "longitude": 47.9777778
+    },
+    {
+        "name": "Al ‘Umarīyah",
+        "country": "Kuwait",
+        "province": "Kuwait",
+        "population": -1,
+        "latitude": 29.293333,
+        "longitude": 47.953333
+    },
+    {
+        "name": "Ash Shadādīyah",
+        "country": "Kuwait",
+        "province": "Kuwait",
+        "population": -1,
+        "latitude": 29.2680556,
+        "longitude": 47.8455556
+    },
+    {
+        "name": "Al Qulay‘ah",
+        "country": "Kuwait",
+        "province": "Kuwait",
+        "population": -1,
+        "latitude": 28.865833,
+        "longitude": 48.274722
+    },
+    {
+        "name": "Jaber Al Ali",
+        "country": "Kuwait",
+        "province": "Al Aḩmadī",
+        "population": -1,
+        "latitude": 29.17082,
+        "longitude": 48.0724
+    },
+    {
+        "name": "Al Quşūr",
+        "country": "Kuwait",
+        "province": "Mubārak al Kabīr",
+        "population": -1,
+        "latitude": 29.21748,
+        "longitude": 48.0726
+    },
+    {
+        "name": "Al Qurayn",
+        "country": "Kuwait",
+        "province": "Mubārak al Kabīr",
+        "population": -1,
+        "latitude": 29.204302,
+        "longitude": 48.075701
+    },
+    {
+        "name": "Sawabir",
+        "country": "Kuwait",
+        "province": "Al Asimah",
+        "population": -1,
+        "latitude": 29.37549,
+        "longitude": 47.98254
+    },
+    {
+        "name": "Safat",
+        "country": "Kuwait",
+        "province": "Al Asimah",
+        "population": -1,
+        "latitude": 29.371364,
+        "longitude": 47.97298
+    }
+]

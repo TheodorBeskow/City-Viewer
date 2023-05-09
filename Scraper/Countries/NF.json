@@ -1,0 +1,34 @@
+[
+    {
+        "name": "Kingston",
+        "country": "Norfolk Island",
+        "province": "NF,AU",
+        "population": 880,
+        "latitude": -29.0545940946888,
+        "longitude": 167.966279983521
+    },
+    {
+        "name": "Burnt Pine",
+        "country": "Norfolk Island",
+        "province": "Norfolk Island",
+        "population": -1,
+        "latitude": -29.03216,
+        "longitude": 167.94641
+    },
+    {
+        "name": "Longridge Station",
+        "country": "Norfolk Island",
+        "province": "Norfolk Island",
+        "population": -1,
+        "latitude": -29.05,
+        "longitude": 167.933333
+    },
+    {
+        "name": "Cascade",
+        "country": "Norfolk Island",
+        "province": "Norfolk Island",
+        "population": -1,
+        "latitude": -29.02435,
+        "longitude": 167.97109
+    }
+]

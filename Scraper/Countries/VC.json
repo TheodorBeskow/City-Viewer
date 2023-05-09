@@ -1,0 +1,730 @@
+[
+    {
+        "name": "Kingstown",
+        "country": "St Vincent and Grenadines",
+        "province": "Saint George",
+        "population": 24518,
+        "latitude": 13.15527,
+        "longitude": -61.22742
+    },
+    {
+        "name": "Georgetown",
+        "country": "St Vincent and Grenadines",
+        "province": "Charlotte",
+        "population": 1680,
+        "latitude": 13.28054,
+        "longitude": -61.1185
+    },
+    {
+        "name": "Kingstown Park",
+        "country": "St Vincent and Grenadines",
+        "province": "Saint George",
+        "population": 17994,
+        "latitude": 13.15924,
+        "longitude": -61.23161
+    },
+    {
+        "name": "Byera Village",
+        "country": "St Vincent and Grenadines",
+        "province": "Charlotte",
+        "population": 1365,
+        "latitude": 13.25636,
+        "longitude": -61.11954
+    },
+    {
+        "name": "Biabou",
+        "country": "St Vincent and Grenadines",
+        "province": "Charlotte",
+        "population": 1050,
+        "latitude": 13.1943,
+        "longitude": -61.13904
+    },
+    {
+        "name": "Barrouallie",
+        "country": "St Vincent and Grenadines",
+        "province": "Saint Patrick",
+        "population": 1000,
+        "latitude": 13.23676,
+        "longitude": -61.27275
+    },
+    {
+        "name": "Port Elizabeth",
+        "country": "St Vincent and Grenadines",
+        "province": "Grenadines",
+        "population": 839,
+        "latitude": 13.01102,
+        "longitude": -61.23548
+    },
+    {
+        "name": "Chateaubelair",
+        "country": "St Vincent and Grenadines",
+        "province": "Saint David",
+        "population": 735,
+        "latitude": 13.29069,
+        "longitude": -61.24043
+    },
+    {
+        "name": "Layou",
+        "country": "St Vincent and Grenadines",
+        "province": "Saint Andrew",
+        "population": 140,
+        "latitude": 13.20175,
+        "longitude": -61.27014
+    },
+    {
+        "name": "Dovers",
+        "country": "St Vincent and Grenadines",
+        "province": "Grenadines",
+        "population": 525,
+        "latitude": 12.89186,
+        "longitude": -61.18521
+    },
+    {
+        "name": "Edinboro",
+        "country": "St Vincent and Grenadines",
+        "province": "Saint Andrew",
+        "population": -1,
+        "latitude": 13.15981,
+        "longitude": -61.23644
+    },
+    {
+        "name": "Calliaqua",
+        "country": "St Vincent and Grenadines",
+        "province": "Saint George",
+        "population": -1,
+        "latitude": 13.12867,
+        "longitude": -61.19178
+    },
+    {
+        "name": "Vermont",
+        "country": "St Vincent and Grenadines",
+        "province": "Saint Andrew",
+        "population": -1,
+        "latitude": 13.20423,
+        "longitude": -61.22466
+    },
+    {
+        "name": "Troumaka",
+        "country": "St Vincent and Grenadines",
+        "province": "Saint David",
+        "population": -1,
+        "latitude": 13.28011,
+        "longitude": -61.25762
+    },
+    {
+        "name": "Spring Village",
+        "country": "St Vincent and Grenadines",
+        "province": "Saint Patrick",
+        "population": -1,
+        "latitude": 13.26212,
+        "longitude": -61.25068
+    },
+    {
+        "name": "Rosehall",
+        "country": "St Vincent and Grenadines",
+        "province": "Saint David",
+        "population": -1,
+        "latitude": 13.27255,
+        "longitude": -61.24228
+    },
+    {
+        "name": "Richland Park",
+        "country": "St Vincent and Grenadines",
+        "province": "Charlotte",
+        "population": -1,
+        "latitude": 13.2,
+        "longitude": -61.1666667
+    },
+    {
+        "name": "Questelles",
+        "country": "St Vincent and Grenadines",
+        "province": "Saint Andrew",
+        "population": -1,
+        "latitude": 13.17619,
+        "longitude": -61.24893
+    },
+    {
+        "name": "Peruvian Vale",
+        "country": "St Vincent and Grenadines",
+        "province": "Charlotte",
+        "population": -1,
+        "latitude": 13.17711,
+        "longitude": -61.14356
+    },
+    {
+        "name": "New Sandy Bay Village",
+        "country": "St Vincent and Grenadines",
+        "province": "Charlotte",
+        "population": -1,
+        "latitude": 13.35113,
+        "longitude": -61.13072
+    },
+    {
+        "name": "Mesopotamia",
+        "country": "St Vincent and Grenadines",
+        "province": "Charlotte",
+        "population": -1,
+        "latitude": 13.1666667,
+        "longitude": -61.1666667
+    },
+    {
+        "name": "Lovell Village",
+        "country": "St Vincent and Grenadines",
+        "province": "Grenadines",
+        "population": -1,
+        "latitude": 12.88352,
+        "longitude": -61.18786
+    },
+    {
+        "name": "Greiggs",
+        "country": "St Vincent and Grenadines",
+        "province": "Charlotte",
+        "population": -1,
+        "latitude": 13.2,
+        "longitude": -61.15
+    },
+    {
+        "name": "Fancy",
+        "country": "St Vincent and Grenadines",
+        "province": "Charlotte",
+        "population": -1,
+        "latitude": 13.38132,
+        "longitude": -61.16854
+    },
+    {
+        "name": "Derrick",
+        "country": "St Vincent and Grenadines",
+        "province": "Grenadines",
+        "population": -1,
+        "latitude": 12.99245,
+        "longitude": -61.26204
+    },
+    {
+        "name": "Colonarie",
+        "country": "St Vincent and Grenadines",
+        "province": "Charlotte",
+        "population": -1,
+        "latitude": 13.24041,
+        "longitude": -61.11641
+    },
+    {
+        "name": "Clare Valley",
+        "country": "St Vincent and Grenadines",
+        "province": "Saint Andrew",
+        "population": -1,
+        "latitude": 13.17959,
+        "longitude": -61.25657
+    },
+    {
+        "name": "Rose Bank",
+        "country": "St Vincent and Grenadines",
+        "province": "St Vincent and Grenadines",
+        "population": -1,
+        "latitude": 13.28418,
+        "longitude": -61.25825
+    },
+    {
+        "name": "Owia",
+        "country": "St Vincent and Grenadines",
+        "province": "St Vincent and Grenadines",
+        "population": -1,
+        "latitude": 13.37522,
+        "longitude": -61.144
+    },
+    {
+        "name": "Rabaka",
+        "country": "St Vincent and Grenadines",
+        "province": "Charlotte",
+        "population": -1,
+        "latitude": 13.3,
+        "longitude": -61.15
+    },
+    {
+        "name": "Clifton",
+        "country": "St Vincent and Grenadines",
+        "province": "Grenadines",
+        "population": -1,
+        "latitude": 12.59706,
+        "longitude": -61.41739
+    },
+    {
+        "name": "Wallibou",
+        "country": "St Vincent and Grenadines",
+        "province": "Saint David",
+        "population": -1,
+        "latitude": 13.31151,
+        "longitude": -61.23221
+    },
+    {
+        "name": "Turema",
+        "country": "St Vincent and Grenadines",
+        "province": "Charlotte",
+        "population": -1,
+        "latitude": 13.32114,
+        "longitude": -61.14441
+    },
+    {
+        "name": "Rutland Vale",
+        "country": "St Vincent and Grenadines",
+        "province": "Saint Patrick",
+        "population": -1,
+        "latitude": 13.20993,
+        "longitude": -61.26283
+    },
+    {
+        "name": "Campden Park",
+        "country": "St Vincent and Grenadines",
+        "province": "Saint Andrew",
+        "population": -1,
+        "latitude": 13.17455,
+        "longitude": -61.24447
+    },
+    {
+        "name": "Brighton Village",
+        "country": "St Vincent and Grenadines",
+        "province": "Saint George",
+        "population": -1,
+        "latitude": 13.13572,
+        "longitude": -61.17477
+    },
+    {
+        "name": "Liberty Lodge",
+        "country": "St Vincent and Grenadines",
+        "province": "Saint Andrew",
+        "population": -1,
+        "latitude": 13.1658333,
+        "longitude": -61.2316667
+    },
+    {
+        "name": "Redemption",
+        "country": "St Vincent and Grenadines",
+        "province": "Saint Andrew",
+        "population": -1,
+        "latitude": 13.1644444,
+        "longitude": -61.2294444
+    },
+    {
+        "name": "Greathead",
+        "country": "St Vincent and Grenadines",
+        "province": "Saint George",
+        "population": -1,
+        "latitude": 13.14157,
+        "longitude": -61.22421
+    },
+    {
+        "name": "Waterloo",
+        "country": "St Vincent and Grenadines",
+        "province": "Charlotte",
+        "population": -1,
+        "latitude": 13.30901,
+        "longitude": -61.12362
+    },
+    {
+        "name": "Union",
+        "country": "St Vincent and Grenadines",
+        "province": "Grenadines",
+        "population": -1,
+        "latitude": 13.01422,
+        "longitude": -61.23211
+    },
+    {
+        "name": "Stubbs",
+        "country": "St Vincent and Grenadines",
+        "province": "Saint George",
+        "population": -1,
+        "latitude": 13.14802,
+        "longitude": -61.15891
+    },
+    {
+        "name": "South Rivers",
+        "country": "St Vincent and Grenadines",
+        "province": "Charlotte",
+        "population": -1,
+        "latitude": 13.24642,
+        "longitude": -61.14162
+    },
+    {
+        "name": "Sans Souci",
+        "country": "St Vincent and Grenadines",
+        "province": "Charlotte",
+        "population": -1,
+        "latitude": 13.22378,
+        "longitude": -61.13136
+    },
+    {
+        "name": "Richmond Vale",
+        "country": "St Vincent and Grenadines",
+        "province": "Saint David",
+        "population": -1,
+        "latitude": 13.28364,
+        "longitude": -61.23788
+    },
+    {
+        "name": "Richmond",
+        "country": "St Vincent and Grenadines",
+        "province": "Saint David",
+        "population": -1,
+        "latitude": 13.30313,
+        "longitude": -61.22776
+    },
+    {
+        "name": "Ribishi",
+        "country": "St Vincent and Grenadines",
+        "province": "Saint George",
+        "population": -1,
+        "latitude": 13.1333333,
+        "longitude": -61.1833333
+    },
+    {
+        "name": "Pembroke",
+        "country": "St Vincent and Grenadines",
+        "province": "Saint Andrew",
+        "population": -1,
+        "latitude": 13.18242,
+        "longitude": -61.25131
+    },
+    {
+        "name": "Paget Farm",
+        "country": "St Vincent and Grenadines",
+        "province": "Grenadines",
+        "population": -1,
+        "latitude": 12.98777,
+        "longitude": -61.25371
+    },
+    {
+        "name": "Orange Hill",
+        "country": "St Vincent and Grenadines",
+        "province": "Charlotte",
+        "population": -1,
+        "latitude": 13.3136,
+        "longitude": -61.11999
+    },
+    {
+        "name": "Old Wall",
+        "country": "St Vincent and Grenadines",
+        "province": "Grenadines",
+        "population": -1,
+        "latitude": 12.63854,
+        "longitude": -61.39431
+    },
+    {
+        "name": "O’Briens",
+        "country": "St Vincent and Grenadines",
+        "province": "Charlotte",
+        "population": -1,
+        "latitude": 13.28472,
+        "longitude": -61.14879
+    },
+    {
+        "name": "North Union",
+        "country": "St Vincent and Grenadines",
+        "province": "Charlotte",
+        "population": -1,
+        "latitude": 13.2166667,
+        "longitude": -61.1333333
+    },
+    {
+        "name": "Montrose",
+        "country": "St Vincent and Grenadines",
+        "province": "Saint Andrew",
+        "population": -1,
+        "latitude": 13.1666667,
+        "longitude": -61.2333333
+    },
+    {
+        "name": "Hermitage",
+        "country": "St Vincent and Grenadines",
+        "province": "Saint Patrick",
+        "population": -1,
+        "latitude": 13.24955,
+        "longitude": -61.21685
+    },
+    {
+        "name": "Friendship",
+        "country": "St Vincent and Grenadines",
+        "province": "Grenadines",
+        "population": -1,
+        "latitude": 12.9923,
+        "longitude": -61.23934
+    },
+    {
+        "name": "Friendly",
+        "country": "St Vincent and Grenadines",
+        "province": "Charlotte",
+        "population": -1,
+        "latitude": 13.23811,
+        "longitude": -61.11717
+    },
+    {
+        "name": "Francois",
+        "country": "St Vincent and Grenadines",
+        "province": "Saint Andrew",
+        "population": -1,
+        "latitude": 13.20586,
+        "longitude": -61.22024
+    },
+    {
+        "name": "Dubois",
+        "country": "St Vincent and Grenadines",
+        "province": "Saint Andrew",
+        "population": -1,
+        "latitude": 13.1833333,
+        "longitude": -61.2333333
+    },
+    {
+        "name": "Cheltenham",
+        "country": "St Vincent and Grenadines",
+        "province": "Grenadines",
+        "population": -1,
+        "latitude": 12.89253,
+        "longitude": -61.18404
+    },
+    {
+        "name": "Chauncey",
+        "country": "St Vincent and Grenadines",
+        "province": "Saint Andrew",
+        "population": -1,
+        "latitude": 13.1666667,
+        "longitude": -61.2333333
+    },
+    {
+        "name": "Charlestown",
+        "country": "St Vincent and Grenadines",
+        "province": "Grenadines",
+        "population": -1,
+        "latitude": 12.70042,
+        "longitude": -61.33062
+    },
+    {
+        "name": "Chapmans",
+        "country": "St Vincent and Grenadines",
+        "province": "Charlotte",
+        "population": -1,
+        "latitude": 13.2862,
+        "longitude": -61.1188
+    },
+    {
+        "name": "Chapmans",
+        "country": "St Vincent and Grenadines",
+        "province": "Charlotte",
+        "population": -1,
+        "latitude": 13.29228,
+        "longitude": -61.11724
+    },
+    {
+        "name": "Belmont",
+        "country": "St Vincent and Grenadines",
+        "province": "Saint George",
+        "population": -1,
+        "latitude": 13.15,
+        "longitude": -61.1833333
+    },
+    {
+        "name": "Ashton",
+        "country": "St Vincent and Grenadines",
+        "province": "Grenadines",
+        "population": -1,
+        "latitude": 12.59496,
+        "longitude": -61.43533
+    },
+    {
+        "name": "Arnos Vale",
+        "country": "St Vincent and Grenadines",
+        "province": "Saint George",
+        "population": -1,
+        "latitude": 13.14186,
+        "longitude": -61.20764
+    },
+    {
+        "name": "Adelphi",
+        "country": "St Vincent and Grenadines",
+        "province": "Charlotte",
+        "population": -1,
+        "latitude": 13.18993,
+        "longitude": -61.13922
+    },
+    {
+        "name": "Buccament",
+        "country": "St Vincent and Grenadines",
+        "province": "Saint Andrew",
+        "population": -1,
+        "latitude": 13.19328,
+        "longitude": -61.26681
+    },
+    {
+        "name": "Jerome Village",
+        "country": "St Vincent and Grenadines",
+        "province": "St Vincent and Grenadines",
+        "population": -1,
+        "latitude": 12.59309,
+        "longitude": -61.42736
+    },
+    {
+        "name": "Goat Hill",
+        "country": "St Vincent and Grenadines",
+        "province": "St Vincent and Grenadines",
+        "population": -1,
+        "latitude": 12.59572,
+        "longitude": -61.42142
+    },
+    {
+        "name": "Big Sands",
+        "country": "St Vincent and Grenadines",
+        "province": "St Vincent and Grenadines",
+        "population": -1,
+        "latitude": 12.60381,
+        "longitude": -61.42329
+    },
+    {
+        "name": "Royston Park",
+        "country": "St Vincent and Grenadines",
+        "province": "St Vincent and Grenadines",
+        "population": -1,
+        "latitude": 12.88201,
+        "longitude": -61.18335
+    },
+    {
+        "name": "Hamilton",
+        "country": "St Vincent and Grenadines",
+        "province": "St Vincent and Grenadines",
+        "population": -1,
+        "latitude": 13.01282,
+        "longitude": -61.24313
+    },
+    {
+        "name": "Belmont",
+        "country": "St Vincent and Grenadines",
+        "province": "Grenadines",
+        "population": -1,
+        "latitude": 13.00548,
+        "longitude": -61.23687
+    },
+    {
+        "name": "Retreat",
+        "country": "St Vincent and Grenadines",
+        "province": "St Vincent and Grenadines",
+        "population": -1,
+        "latitude": 12.99918,
+        "longitude": -61.2432
+    },
+    {
+        "name": "Lower Bay",
+        "country": "St Vincent and Grenadines",
+        "province": "St Vincent and Grenadines",
+        "population": -1,
+        "latitude": 12.99611,
+        "longitude": -61.24609
+    },
+    {
+        "name": "Adams",
+        "country": "St Vincent and Grenadines",
+        "province": "St Vincent and Grenadines",
+        "population": -1,
+        "latitude": 12.99201,
+        "longitude": -61.27481
+    },
+    {
+        "name": "Gellizeau",
+        "country": "St Vincent and Grenadines",
+        "province": "St Vincent and Grenadines",
+        "population": -1,
+        "latitude": 12.99262,
+        "longitude": -61.27083
+    },
+    {
+        "name": "La Pompe",
+        "country": "St Vincent and Grenadines",
+        "province": "St Vincent and Grenadines",
+        "population": -1,
+        "latitude": 12.98725,
+        "longitude": -61.24357
+    },
+    {
+        "name": "Prospect",
+        "country": "St Vincent and Grenadines",
+        "province": "St Vincent and Grenadines",
+        "population": -1,
+        "latitude": 13.13082,
+        "longitude": -61.17459
+    },
+    {
+        "name": "Caratal Village",
+        "country": "St Vincent and Grenadines",
+        "province": "St Vincent and Grenadines",
+        "population": -1,
+        "latitude": 13.28387,
+        "longitude": -61.11724
+    },
+    {
+        "name": "Overland",
+        "country": "St Vincent and Grenadines",
+        "province": "St Vincent and Grenadines",
+        "population": -1,
+        "latitude": 13.33371,
+        "longitude": -61.12282
+    },
+    {
+        "name": "London",
+        "country": "St Vincent and Grenadines",
+        "province": "St Vincent and Grenadines",
+        "population": -1,
+        "latitude": 13.34046,
+        "longitude": -61.12514
+    },
+    {
+        "name": "Cumberland",
+        "country": "St Vincent and Grenadines",
+        "province": "St Vincent and Grenadines",
+        "population": -1,
+        "latitude": 13.2666,
+        "longitude": -61.25947
+    },
+    {
+        "name": "Wallilabou",
+        "country": "St Vincent and Grenadines",
+        "province": "St Vincent and Grenadines",
+        "population": -1,
+        "latitude": 13.24821,
+        "longitude": -61.26919
+    },
+    {
+        "name": "Keartons",
+        "country": "St Vincent and Grenadines",
+        "province": "St Vincent and Grenadines",
+        "population": -1,
+        "latitude": 13.2432,
+        "longitude": -61.27268
+    },
+    {
+        "name": "Peter's Hope",
+        "country": "St Vincent and Grenadines",
+        "province": "St Vincent and Grenadines",
+        "population": -1,
+        "latitude": 13.2271,
+        "longitude": -61.26882
+    },
+    {
+        "name": "Villa",
+        "country": "St Vincent and Grenadines",
+        "province": "St Vincent and Grenadines",
+        "population": -1,
+        "latitude": 13.13377,
+        "longitude": -61.20044
+    },
+    {
+        "name": "Mt Grenan",
+        "country": "St Vincent and Grenadines",
+        "province": "St Vincent and Grenadines",
+        "population": -1,
+        "latitude": 13.23289,
+        "longitude": -61.12754
+    },
+    {
+        "name": "Silver Spoon",
+        "country": "St Vincent and Grenadines",
+        "province": "St Vincent and Grenadines",
+        "population": -1,
+        "latitude": 13.25381,
+        "longitude": -61.13686
+    }
+]

@@ -1,0 +1,5890 @@
+[
+    {
+        "name": "Cayenne",
+        "country": "French Guiana",
+        "province": "Guyane",
+        "population": 61550,
+        "latitude": 4.933333,
+        "longitude": -52.333333
+    },
+    {
+        "name": "Kourou",
+        "country": "French Guiana",
+        "province": "Guyane",
+        "population": 24029,
+        "latitude": 5.16281,
+        "longitude": -52.642654
+    },
+    {
+        "name": "Saint-Laurent-du-Maroni",
+        "country": "French Guiana",
+        "province": "Guyane",
+        "population": 24287,
+        "latitude": 5.501527,
+        "longitude": -54.029156
+    },
+    {
+        "name": "Matoury",
+        "country": "French Guiana",
+        "province": "Guyane",
+        "population": 26350,
+        "latitude": 4.849208,
+        "longitude": -52.323549
+    },
+    {
+        "name": "Rémire-Montjoly",
+        "country": "French Guiana",
+        "province": "Guyane",
+        "population": 19029,
+        "latitude": 4.9166667,
+        "longitude": -52.2666667
+    },
+    {
+        "name": "Apatou",
+        "country": "French Guiana",
+        "province": "Guyane",
+        "population": 4752,
+        "latitude": 5.155265,
+        "longitude": -54.343108
+    },
+    {
+        "name": "Mana",
+        "country": "French Guiana",
+        "province": "Guyane",
+        "population": 5885,
+        "latitude": 5.669057,
+        "longitude": -53.778967
+    },
+    {
+        "name": "Macouria",
+        "country": "French Guiana",
+        "province": "Guyane",
+        "population": 8773,
+        "latitude": 4.91216,
+        "longitude": -52.37432
+    },
+    {
+        "name": "Grand-Santi",
+        "country": "French Guiana",
+        "province": "Guyane",
+        "population": 3941,
+        "latitude": 4.272947,
+        "longitude": -54.381456
+    },
+    {
+        "name": "Sinnamary",
+        "country": "French Guiana",
+        "province": "Guyane",
+        "population": 3180,
+        "latitude": 5.376764,
+        "longitude": -52.956792
+    },
+    {
+        "name": "Camopi",
+        "country": "French Guiana",
+        "province": "Guyane",
+        "population": 1295,
+        "latitude": 3.168875,
+        "longitude": -52.335255
+    },
+    {
+        "name": "Saint-Georges",
+        "country": "French Guiana",
+        "province": "Guyane",
+        "population": 2742,
+        "latitude": 3.888575,
+        "longitude": -51.802427
+    },
+    {
+        "name": "Awala-Yalimapo",
+        "country": "French Guiana",
+        "province": "Guyane",
+        "population": -1,
+        "latitude": 5.736358,
+        "longitude": -53.908693
+    },
+    {
+        "name": "Saül",
+        "country": "French Guiana",
+        "province": "Guyane",
+        "population": -1,
+        "latitude": 3.62307,
+        "longitude": -53.20918
+    },
+    {
+        "name": "Roura",
+        "country": "French Guiana",
+        "province": "Guyane",
+        "population": 2229,
+        "latitude": 4.728744,
+        "longitude": -52.324952
+    },
+    {
+        "name": "Régina",
+        "country": "French Guiana",
+        "province": "Guyane",
+        "population": -1,
+        "latitude": 4.313004,
+        "longitude": -52.130833
+    },
+    {
+        "name": "Cacao",
+        "country": "French Guiana",
+        "province": "Guyane",
+        "population": -1,
+        "latitude": 4.571226,
+        "longitude": -52.468269
+    },
+    {
+        "name": "Bellevue",
+        "country": "French Guiana",
+        "province": "Guyane",
+        "population": -1,
+        "latitude": 5.476934,
+        "longitude": -53.260615
+    },
+    {
+        "name": "Vieux Assissi",
+        "country": "French Guiana",
+        "province": "Guyane",
+        "population": -1,
+        "latitude": 3.821731,
+        "longitude": -54.198797
+    },
+    {
+        "name": "Antécume Pata",
+        "country": "French Guiana",
+        "province": "Guyane",
+        "population": -1,
+        "latitude": 3.286358,
+        "longitude": -54.069379
+    },
+    {
+        "name": "Alikoto",
+        "country": "French Guiana",
+        "province": "Guyane",
+        "population": -1,
+        "latitude": 3.115232,
+        "longitude": -52.344446
+    },
+    {
+        "name": "Akouménaï",
+        "country": "French Guiana",
+        "province": "Guyane",
+        "population": -1,
+        "latitude": 3.001022,
+        "longitude": -52.367637
+    },
+    {
+        "name": "Tonnégrande",
+        "country": "French Guiana",
+        "province": "Guyane",
+        "population": -1,
+        "latitude": 4.830854,
+        "longitude": -52.443211
+    },
+    {
+        "name": "Saint-Jean",
+        "country": "French Guiana",
+        "province": "Guyane",
+        "population": -1,
+        "latitude": 5.405376,
+        "longitude": -54.078965
+    },
+    {
+        "name": "Saint-Élie",
+        "country": "French Guiana",
+        "province": "Guyane",
+        "population": -1,
+        "latitude": 4.824257,
+        "longitude": -53.288207
+    },
+    {
+        "name": "Paul Isnard",
+        "country": "French Guiana",
+        "province": "Guyane",
+        "population": -1,
+        "latitude": 4.776129,
+        "longitude": -54.0085
+    },
+    {
+        "name": "Papaïchton",
+        "country": "French Guiana",
+        "province": "Guyane",
+        "population": -1,
+        "latitude": 3.805791,
+        "longitude": -54.144607
+    },
+    {
+        "name": "Palassissi",
+        "country": "French Guiana",
+        "province": "Guyane",
+        "population": -1,
+        "latitude": 3.284063,
+        "longitude": -54.084167
+    },
+    {
+        "name": "Montsinéry-Tonnegrande",
+        "country": "French Guiana",
+        "province": "Guyane",
+        "population": -1,
+        "latitude": 4.9,
+        "longitude": -52.5
+    },
+    {
+        "name": "Maripasoula",
+        "country": "French Guiana",
+        "province": "Guyane",
+        "population": -1,
+        "latitude": 3.641552,
+        "longitude": -54.031672
+    },
+    {
+        "name": "Le Larivot",
+        "country": "French Guiana",
+        "province": "Guyane",
+        "population": -1,
+        "latitude": 4.902548,
+        "longitude": -52.359134
+    },
+    {
+        "name": "Kormontibo",
+        "country": "French Guiana",
+        "province": "Guyane",
+        "population": -1,
+        "latitude": 3.804153,
+        "longitude": -54.141181
+    },
+    {
+        "name": "Kaw",
+        "country": "French Guiana",
+        "province": "Guyane",
+        "population": -1,
+        "latitude": 4.4865,
+        "longitude": -52.037055
+    },
+    {
+        "name": "Javouhey",
+        "country": "French Guiana",
+        "province": "Guyane",
+        "population": -1,
+        "latitude": 5.606594,
+        "longitude": -53.818546
+    },
+    {
+        "name": "Farnous",
+        "country": "French Guiana",
+        "province": "Guyane",
+        "population": -1,
+        "latitude": 4.948132,
+        "longitude": -52.422673
+    },
+    {
+        "name": "Elaé",
+        "country": "French Guiana",
+        "province": "Guyane",
+        "population": -1,
+        "latitude": 3.465711,
+        "longitude": -54.005671
+    },
+    {
+        "name": "Édouard",
+        "country": "French Guiana",
+        "province": "Guyane",
+        "population": -1,
+        "latitude": 3.395689,
+        "longitude": -53.829903
+    },
+    {
+        "name": "Délices",
+        "country": "French Guiana",
+        "province": "Guyane",
+        "population": -1,
+        "latitude": 4.736781,
+        "longitude": -53.765025
+    },
+    {
+        "name": "Pilima Pata",
+        "country": "French Guiana",
+        "province": "Guyane",
+        "population": -1,
+        "latitude": 3.289366,
+        "longitude": -54.10387
+    },
+    {
+        "name": "Aloïké",
+        "country": "French Guiana",
+        "province": "Guyane",
+        "population": -1,
+        "latitude": 3.328284,
+        "longitude": -54.054067
+    },
+    {
+        "name": "Adieu-Vat",
+        "country": "French Guiana",
+        "province": "Guyane",
+        "population": -1,
+        "latitude": 4.872359,
+        "longitude": -53.007585
+    },
+    {
+        "name": "Twenké",
+        "country": "French Guiana",
+        "province": "Guyane",
+        "population": -1,
+        "latitude": 3.379748,
+        "longitude": -54.057497
+    },
+    {
+        "name": "Village Tintin",
+        "country": "French Guiana",
+        "province": "Guyane",
+        "population": -1,
+        "latitude": 4.237958,
+        "longitude": -52.256926
+    },
+    {
+        "name": "Sonnelle",
+        "country": "French Guiana",
+        "province": "Guyane",
+        "population": -1,
+        "latitude": 3.662769,
+        "longitude": -53.964457
+    },
+    {
+        "name": "Sokoumou",
+        "country": "French Guiana",
+        "province": "Guyane",
+        "population": -1,
+        "latitude": 5.055363,
+        "longitude": -52.684743
+    },
+    {
+        "name": "Saint-Paul",
+        "country": "French Guiana",
+        "province": "Guyane",
+        "population": -1,
+        "latitude": 4.395502,
+        "longitude": -54.382759
+    },
+    {
+        "name": "Ouanary",
+        "country": "French Guiana",
+        "province": "Guyane",
+        "population": -1,
+        "latitude": 4.208688,
+        "longitude": -51.674079
+    },
+    {
+        "name": "Iracoubo",
+        "country": "French Guiana",
+        "province": "Guyane",
+        "population": 1536,
+        "latitude": 5.479523,
+        "longitude": -53.205239
+    },
+    {
+        "name": "Guisan Bourg",
+        "country": "French Guiana",
+        "province": "Guyane",
+        "population": -1,
+        "latitude": 4.4085,
+        "longitude": -51.930975
+    },
+    {
+        "name": "Gaa Kaba",
+        "country": "French Guiana",
+        "province": "French Guiana",
+        "population": -1,
+        "latitude": 4.488695,
+        "longitude": -54.442212
+    },
+    {
+        "name": "Mine Espérance",
+        "country": "French Guiana",
+        "province": "Guyane",
+        "population": -1,
+        "latitude": 4.650593,
+        "longitude": -54.313771
+    },
+    {
+        "name": "Balata-Ouest",
+        "country": "French Guiana",
+        "province": "Guyane",
+        "population": -1,
+        "latitude": 4.886707,
+        "longitude": -52.341882
+    },
+    {
+        "name": "Village Indien Arawak",
+        "country": "French Guiana",
+        "province": "Guyane",
+        "population": -1,
+        "latitude": 4.899559,
+        "longitude": -52.342413
+    },
+    {
+        "name": "Camp de Rémire",
+        "country": "French Guiana",
+        "province": "Guyane",
+        "population": -1,
+        "latitude": 4.896993,
+        "longitude": -52.263017
+    },
+    {
+        "name": "Camp Caïman",
+        "country": "French Guiana",
+        "province": "Guyane",
+        "population": -1,
+        "latitude": 4.569369,
+        "longitude": -52.217214
+    },
+    {
+        "name": "Bossoé",
+        "country": "French Guiana",
+        "province": "Guyane",
+        "population": -1,
+        "latitude": 5.027062,
+        "longitude": -54.429718
+    },
+    {
+        "name": "Agodé",
+        "country": "French Guiana",
+        "province": "Guyane",
+        "population": -1,
+        "latitude": 3.836721,
+        "longitude": -54.187782
+    },
+    {
+        "name": "Banane",
+        "country": "French Guiana",
+        "province": "Guyane",
+        "population": -1,
+        "latitude": 4.872307,
+        "longitude": -52.531869
+    },
+    {
+        "name": "Angoulême",
+        "country": "French Guiana",
+        "province": "Guyane",
+        "population": -1,
+        "latitude": 5.41106,
+        "longitude": -53.655267
+    },
+    {
+        "name": "Aéroplane Kondé",
+        "country": "French Guiana",
+        "province": "Guyane",
+        "population": -1,
+        "latitude": 4.427371,
+        "longitude": -54.433756
+    },
+    {
+        "name": "Acarouany",
+        "country": "French Guiana",
+        "province": "Guyane",
+        "population": -1,
+        "latitude": 5.592499,
+        "longitude": -53.814482
+    },
+    {
+        "name": "Village Yofé",
+        "country": "French Guiana",
+        "province": "Guyane",
+        "population": -1,
+        "latitude": 5.432877,
+        "longitude": -53.675445
+    },
+    {
+        "name": "Winiwé",
+        "country": "French Guiana",
+        "province": "Guyane",
+        "population": -1,
+        "latitude": 3.675438,
+        "longitude": -53.960079
+    },
+    {
+        "name": "Acarouany",
+        "country": "French Guiana",
+        "province": "Guyane",
+        "population": -1,
+        "latitude": 5.451789,
+        "longitude": -53.785879
+    },
+    {
+        "name": "Village Inipi",
+        "country": "French Guiana",
+        "province": "Guyane",
+        "population": -1,
+        "latitude": 3.25,
+        "longitude": -52.95
+    },
+    {
+        "name": "Village Galibis",
+        "country": "French Guiana",
+        "province": "Guyane",
+        "population": -1,
+        "latitude": 5.4,
+        "longitude": -54.116667
+    },
+    {
+        "name": "Village Créole",
+        "country": "French Guiana",
+        "province": "Guyane",
+        "population": -1,
+        "latitude": 3.219989,
+        "longitude": -53.706279
+    },
+    {
+        "name": "Vieux Grand-Santi",
+        "country": "French Guiana",
+        "province": "Guyane",
+        "population": -1,
+        "latitude": 4.319038,
+        "longitude": -54.386633
+    },
+    {
+        "name": "Trou Poissons",
+        "country": "French Guiana",
+        "province": "Guyane",
+        "population": -1,
+        "latitude": 5.428274,
+        "longitude": -53.089363
+    },
+    {
+        "name": "Tampak",
+        "country": "French Guiana",
+        "province": "Guyane",
+        "population": -1,
+        "latitude": 3.945475,
+        "longitude": -51.78594
+    },
+    {
+        "name": "Sophie",
+        "country": "French Guiana",
+        "province": "Guyane",
+        "population": -1,
+        "latitude": 3.962158,
+        "longitude": -53.492215
+    },
+    {
+        "name": "Dégrad Saramaka",
+        "country": "French Guiana",
+        "province": "Guyane",
+        "population": -1,
+        "latitude": 5.014851,
+        "longitude": -52.698829
+    },
+    {
+        "name": "Sainte-Anne",
+        "country": "French Guiana",
+        "province": "Guyane",
+        "population": -1,
+        "latitude": 4.804225,
+        "longitude": -53.110127
+    },
+    {
+        "name": "Rococoua",
+        "country": "French Guiana",
+        "province": "Guyane",
+        "population": -1,
+        "latitude": 5.442423,
+        "longitude": -53.30556
+    },
+    {
+        "name": "Rémire",
+        "country": "French Guiana",
+        "province": "Guyane",
+        "population": -1,
+        "latitude": 4.885849,
+        "longitude": -52.278574
+    },
+    {
+        "name": "Portal",
+        "country": "French Guiana",
+        "province": "Guyane",
+        "population": -1,
+        "latitude": 5.419035,
+        "longitude": -54.099353
+    },
+    {
+        "name": "Chantal",
+        "country": "French Guiana",
+        "province": "Guyane",
+        "population": -1,
+        "latitude": 4.403525,
+        "longitude": -54.367417
+    },
+    {
+        "name": "Picard",
+        "country": "French Guiana",
+        "province": "Guyane",
+        "population": -1,
+        "latitude": 4.205079,
+        "longitude": -52.260661
+    },
+    {
+        "name": "Pédima",
+        "country": "French Guiana",
+        "province": "French Guiana",
+        "population": -1,
+        "latitude": 3.309601,
+        "longitude": -54.093857
+    },
+    {
+        "name": "Patawa",
+        "country": "French Guiana",
+        "province": "Guyane",
+        "population": -1,
+        "latitude": 4.838512,
+        "longitude": -52.511265
+    },
+    {
+        "name": "Mofina",
+        "country": "French Guiana",
+        "province": "Guyane",
+        "population": -1,
+        "latitude": 4.18273,
+        "longitude": -54.382834
+    },
+    {
+        "name": "Malaïtawa Patatpe",
+        "country": "French Guiana",
+        "province": "Guyane",
+        "population": -1,
+        "latitude": 3.141896,
+        "longitude": -54.198206
+    },
+    {
+        "name": "Mafi",
+        "country": "French Guiana",
+        "province": "Guyane",
+        "population": -1,
+        "latitude": 4.298825,
+        "longitude": -52.114481
+    },
+    {
+        "name": "Macoua",
+        "country": "French Guiana",
+        "province": "Guyane",
+        "population": -1,
+        "latitude": 5.530709,
+        "longitude": -53.405859
+    },
+    {
+        "name": "Loka",
+        "country": "French Guiana",
+        "province": "Guyane",
+        "population": -1,
+        "latitude": 3.829853,
+        "longitude": -54.19077
+    },
+    {
+        "name": "Lioni",
+        "country": "French Guiana",
+        "province": "Guyane",
+        "population": -1,
+        "latitude": 4.093311,
+        "longitude": -54.33977
+    },
+    {
+        "name": "Les Hattes",
+        "country": "French Guiana",
+        "province": "Guyane",
+        "population": -1,
+        "latitude": 5.744006,
+        "longitude": -53.943654
+    },
+    {
+        "name": "L'Enfant Perdu",
+        "country": "French Guiana",
+        "province": "Guyane",
+        "population": -1,
+        "latitude": 3.857972,
+        "longitude": -54.215641
+    },
+    {
+        "name": "La Mirande",
+        "country": "French Guiana",
+        "province": "Guyane",
+        "population": -1,
+        "latitude": 4.874989,
+        "longitude": -52.337723
+    },
+    {
+        "name": "Kouman-Kouman",
+        "country": "French Guiana",
+        "province": "Guyane",
+        "population": -1,
+        "latitude": 4.035003,
+        "longitude": -51.68774
+    },
+    {
+        "name": "Couachinana",
+        "country": "French Guiana",
+        "province": "Guyane",
+        "population": -1,
+        "latitude": 5.625109,
+        "longitude": -53.697941
+    },
+    {
+        "name": "Couachi",
+        "country": "French Guiana",
+        "province": "Guyane",
+        "population": -1,
+        "latitude": 5.618624,
+        "longitude": -53.698068
+    },
+    {
+        "name": "Cariacou",
+        "country": "French Guiana",
+        "province": "Guyane",
+        "population": -1,
+        "latitude": 4.811728,
+        "longitude": -53.171242
+    },
+    {
+        "name": "Jojo",
+        "country": "French Guiana",
+        "province": "Guyane",
+        "population": -1,
+        "latitude": 5.406378,
+        "longitude": -52.999426
+    },
+    {
+        "name": "Itousanseng",
+        "country": "French Guiana",
+        "province": "Guyane",
+        "population": -1,
+        "latitude": 2.19635,
+        "longitude": -52.918914
+    },
+    {
+        "name": "Grand Siton",
+        "country": "French Guiana",
+        "province": "Guyane",
+        "population": -1,
+        "latitude": 4.280018,
+        "longitude": -54.387609
+    },
+    {
+        "name": "Godebert",
+        "country": "French Guiana",
+        "province": "Guyane",
+        "population": -1,
+        "latitude": 5.520249,
+        "longitude": -53.960031
+    },
+    {
+        "name": "Gaston",
+        "country": "French Guiana",
+        "province": "Guyane",
+        "population": -1,
+        "latitude": 4.286769,
+        "longitude": -52.125728
+    },
+    {
+        "name": "Fourgassié",
+        "country": "French Guiana",
+        "province": "Guyane",
+        "population": -1,
+        "latitude": 4.625092,
+        "longitude": -52.309612
+    },
+    {
+        "name": "Entoucas",
+        "country": "French Guiana",
+        "province": "French Guiana",
+        "population": -1,
+        "latitude": 3.4833333,
+        "longitude": -54.0166667
+    },
+    {
+        "name": "Edmond",
+        "country": "French Guiana",
+        "province": "Guyane",
+        "population": -1,
+        "latitude": 4.601739,
+        "longitude": -52.444296
+    },
+    {
+        "name": "Doglis",
+        "country": "French Guiana",
+        "province": "French Guiana",
+        "population": -1,
+        "latitude": 3.794285,
+        "longitude": -54.125478
+    },
+    {
+        "name": "Patou",
+        "country": "French Guiana",
+        "province": "Guyane",
+        "population": -1,
+        "latitude": 5.310435,
+        "longitude": -54.183596
+    },
+    {
+        "name": "Dégrad des Cannes",
+        "country": "French Guiana",
+        "province": "Guyane",
+        "population": -1,
+        "latitude": 4.856447,
+        "longitude": -52.274808
+    },
+    {
+        "name": "Dadanki",
+        "country": "French Guiana",
+        "province": "Guyane",
+        "population": -1,
+        "latitude": 4.375428,
+        "longitude": -54.368462
+    },
+    {
+        "name": "Counamama",
+        "country": "French Guiana",
+        "province": "Guyane",
+        "population": -1,
+        "latitude": 5.450043,
+        "longitude": -53.136249
+    },
+    {
+        "name": "Coswine",
+        "country": "French Guiana",
+        "province": "Guyane",
+        "population": -1,
+        "latitude": 5.648775,
+        "longitude": -53.863453
+    },
+    {
+        "name": "Coco",
+        "country": "French Guiana",
+        "province": "Guyane",
+        "population": -1,
+        "latitude": 4.3049,
+        "longitude": -52.117054
+    },
+    {
+        "name": "Cité Nzilla",
+        "country": "French Guiana",
+        "province": "Guyane",
+        "population": -1,
+        "latitude": 4.936955,
+        "longitude": -52.323337
+    },
+    {
+        "name": "Charvein",
+        "country": "French Guiana",
+        "province": "Guyane",
+        "population": -1,
+        "latitude": 5.575548,
+        "longitude": -53.896282
+    },
+    {
+        "name": "Central Bief",
+        "country": "French Guiana",
+        "province": "Guyane",
+        "population": -1,
+        "latitude": 4.510354,
+        "longitude": -52.463713
+    },
+    {
+        "name": "Coco",
+        "country": "French Guiana",
+        "province": "Guyane",
+        "population": -1,
+        "latitude": 4.863106,
+        "longitude": -52.521546
+    },
+    {
+        "name": "Village Coco",
+        "country": "French Guiana",
+        "province": "Guyane",
+        "population": -1,
+        "latitude": 5.258652,
+        "longitude": -54.273559
+    },
+    {
+        "name": "Bastien",
+        "country": "French Guiana",
+        "province": "Guyane",
+        "population": -1,
+        "latitude": 5.29208,
+        "longitude": -54.228348
+    },
+    {
+        "name": "Kola Assakio",
+        "country": "French Guiana",
+        "province": "Guyane",
+        "population": -1,
+        "latitude": 5.278065,
+        "longitude": -54.245036
+    },
+    {
+        "name": "Maripa",
+        "country": "French Guiana",
+        "province": "Guyane",
+        "population": -1,
+        "latitude": 5.302446,
+        "longitude": -54.196079
+    },
+    {
+        "name": "Eskol",
+        "country": "French Guiana",
+        "province": "Guyane",
+        "population": -1,
+        "latitude": 4.717418,
+        "longitude": -52.282259
+    },
+    {
+        "name": "Cité Zéphyr",
+        "country": "French Guiana",
+        "province": "Guyane",
+        "population": -1,
+        "latitude": 4.938534,
+        "longitude": -52.294515
+    },
+    {
+        "name": "Village Indien Sainte-Rose de Lima",
+        "country": "French Guiana",
+        "province": "Guyane",
+        "population": -1,
+        "latitude": 4.832732,
+        "longitude": -52.33696
+    },
+    {
+        "name": "Ploërmel",
+        "country": "French Guiana",
+        "province": "Guyane",
+        "population": -1,
+        "latitude": 4.921286,
+        "longitude": -52.312539
+    },
+    {
+        "name": "Aquavilla",
+        "country": "French Guiana",
+        "province": "French Guiana",
+        "population": -1,
+        "latitude": 4.876935,
+        "longitude": -52.316521
+    },
+    {
+        "name": "Caussade",
+        "country": "French Guiana",
+        "province": "Guyane",
+        "population": -1,
+        "latitude": 5.070013,
+        "longitude": -52.59142
+    },
+    {
+        "name": "Carrefour de Mana",
+        "country": "French Guiana",
+        "province": "Guyane",
+        "population": -1,
+        "latitude": 5.5,
+        "longitude": -53.9833333
+    },
+    {
+        "name": "Carbet Toukan",
+        "country": "French Guiana",
+        "province": "Guyane",
+        "population": -1,
+        "latitude": 5.2,
+        "longitude": -52.7666667
+    },
+    {
+        "name": "Carbets",
+        "country": "French Guiana",
+        "province": "Guyane",
+        "population": -1,
+        "latitude": 3.412502,
+        "longitude": -53.884314
+    },
+    {
+        "name": "Carbet Médard",
+        "country": "French Guiana",
+        "province": "Guyane",
+        "population": -1,
+        "latitude": 5.398954,
+        "longitude": -53.673503
+    },
+    {
+        "name": "Capon",
+        "country": "French Guiana",
+        "province": "Guyane",
+        "population": -1,
+        "latitude": 3.915391,
+        "longitude": -51.843078
+    },
+    {
+        "name": "Camp Voltaire",
+        "country": "French Guiana",
+        "province": "Guyane",
+        "population": -1,
+        "latitude": 5.053259,
+        "longitude": -54.089787
+    },
+    {
+        "name": "Camp Rochambeau",
+        "country": "French Guiana",
+        "province": "Guyane",
+        "population": -1,
+        "latitude": 4.8333333,
+        "longitude": -52.3833333
+    },
+    {
+        "name": "Camp Maïpouri",
+        "country": "French Guiana",
+        "province": "Guyane",
+        "population": -1,
+        "latitude": 5.149022,
+        "longitude": -53.980856
+    },
+    {
+        "name": "Camopi",
+        "country": "French Guiana",
+        "province": "Guyane",
+        "population": -1,
+        "latitude": 3.211473,
+        "longitude": -52.460631
+    },
+    {
+        "name": "Camélie",
+        "country": "French Guiana",
+        "province": "Guyane",
+        "population": -1,
+        "latitude": 5.05,
+        "longitude": -54.4166667
+    },
+    {
+        "name": "Dégrad Cambrouze",
+        "country": "French Guiana",
+        "province": "Guyane",
+        "population": -1,
+        "latitude": 4.763632,
+        "longitude": -53.998914
+    },
+    {
+        "name": "Cabassou",
+        "country": "French Guiana",
+        "province": "Guyane",
+        "population": -1,
+        "latitude": 4.88712,
+        "longitude": -52.300117
+    },
+    {
+        "name": "Brigandin",
+        "country": "French Guiana",
+        "province": "Guyane",
+        "population": -1,
+        "latitude": 5.419122,
+        "longitude": -52.983811
+    },
+    {
+        "name": "Boulanger",
+        "country": "French Guiana",
+        "province": "Guyane",
+        "population": -1,
+        "latitude": 4.562195,
+        "longitude": -52.412973
+    },
+    {
+        "name": "Bonidoro",
+        "country": "French Guiana",
+        "province": "Guyane",
+        "population": -1,
+        "latitude": 4.914594,
+        "longitude": -54.45838
+    },
+    {
+        "name": "Bois Martin",
+        "country": "French Guiana",
+        "province": "Guyane",
+        "population": -1,
+        "latitude": 4.988918,
+        "longitude": -54.435745
+    },
+    {
+        "name": "Boeuf Bois",
+        "country": "French Guiana",
+        "province": "Guyane",
+        "population": -1,
+        "latitude": 4.971084,
+        "longitude": -53.060307
+    },
+    {
+        "name": "Biguiston",
+        "country": "French Guiana",
+        "province": "Guyane",
+        "population": -1,
+        "latitude": 5.35678,
+        "longitude": -54.138918
+    },
+    {
+        "name": "Bénéfice",
+        "country": "French Guiana",
+        "province": "Guyane",
+        "population": -1,
+        "latitude": 4.883141,
+        "longitude": -53.31335
+    },
+    {
+        "name": "Bellevue",
+        "country": "French Guiana",
+        "province": "Guyane",
+        "population": -1,
+        "latitude": 3.768161,
+        "longitude": -54.110332
+    },
+    {
+        "name": "Bec de Sable",
+        "country": "French Guiana",
+        "province": "Guyane",
+        "population": -1,
+        "latitude": 4.976598,
+        "longitude": -52.758629
+    },
+    {
+        "name": "Beau Soleil",
+        "country": "French Guiana",
+        "province": "Guyane",
+        "population": -1,
+        "latitude": 4.866627,
+        "longitude": -52.252182
+    },
+    {
+        "name": "Cité Beauregard",
+        "country": "French Guiana",
+        "province": "Guyane",
+        "population": -1,
+        "latitude": 4.884055,
+        "longitude": -52.281792
+    },
+    {
+        "name": "Baticane",
+        "country": "French Guiana",
+        "province": "Guyane",
+        "population": -1,
+        "latitude": 5.482245,
+        "longitude": -53.664044
+    },
+    {
+        "name": "Barkarel",
+        "country": "French Guiana",
+        "province": "Guyane",
+        "population": -1,
+        "latitude": 3.560222,
+        "longitude": -54.001773
+    },
+    {
+        "name": "Balaté",
+        "country": "French Guiana",
+        "province": "Guyane",
+        "population": -1,
+        "latitude": 5.481578,
+        "longitude": -54.041248
+    },
+    {
+        "name": "Baïno",
+        "country": "French Guiana",
+        "province": "Guyane",
+        "population": -1,
+        "latitude": 4.9333333,
+        "longitude": -54.45
+    },
+    {
+        "name": "Babel",
+        "country": "French Guiana",
+        "province": "Guyane",
+        "population": -1,
+        "latitude": 5.0166667,
+        "longitude": -54.4333333
+    },
+    {
+        "name": "Austerlitz",
+        "country": "French Guiana",
+        "province": "Guyane",
+        "population": -1,
+        "latitude": 4.874691,
+        "longitude": -52.367592
+    },
+    {
+        "name": "Anton",
+        "country": "French Guiana",
+        "province": "Guyane",
+        "population": -1,
+        "latitude": 5.541773,
+        "longitude": -53.426424
+    },
+    {
+        "name": "Ankel",
+        "country": "French Guiana",
+        "province": "Guyane",
+        "population": -1,
+        "latitude": 5.294459,
+        "longitude": -54.208583
+    },
+    {
+        "name": "Ana Kondé",
+        "country": "French Guiana",
+        "province": "Guyane",
+        "population": -1,
+        "latitude": 4.246371,
+        "longitude": -54.384167
+    },
+    {
+        "name": "Amékan Tabiki",
+        "country": "French Guiana",
+        "province": "Guyane",
+        "population": -1,
+        "latitude": 4.8166667,
+        "longitude": -54.4666667
+    },
+    {
+        "name": "Aloïké",
+        "country": "French Guiana",
+        "province": "Guyane",
+        "population": -1,
+        "latitude": 3.627596,
+        "longitude": -53.991364
+    },
+    {
+        "name": "Akodo",
+        "country": "French Guiana",
+        "province": "Guyane",
+        "population": -1,
+        "latitude": 5.1666667,
+        "longitude": -54.3333333
+    },
+    {
+        "name": "Akilengui",
+        "country": "French Guiana",
+        "province": "Guyane",
+        "population": -1,
+        "latitude": 5.0833333,
+        "longitude": -54.4
+    },
+    {
+        "name": "Abouna Sounga",
+        "country": "French Guiana",
+        "province": "French Guiana",
+        "population": -1,
+        "latitude": 4.053784,
+        "longitude": -54.357383
+    },
+    {
+        "name": "Saint Georges",
+        "country": "French Guiana",
+        "province": "Guyane",
+        "population": -1,
+        "latitude": 3.8833333,
+        "longitude": -51.8333333
+    },
+    {
+        "name": "Zidok",
+        "country": "French Guiana",
+        "province": "Guyane",
+        "population": -1,
+        "latitude": 2.259284,
+        "longitude": -52.875745
+    },
+    {
+        "name": "Wilfried",
+        "country": "French Guiana",
+        "province": "Guyane",
+        "population": -1,
+        "latitude": 3.709937,
+        "longitude": -54.076124
+    },
+    {
+        "name": "Wakapou",
+        "country": "French Guiana",
+        "province": "Guyane",
+        "population": -1,
+        "latitude": 3.67330901321474,
+        "longitude": -54.07663822174072
+    },
+    {
+        "name": "Village Saramaca",
+        "country": "French Guiana",
+        "province": "Guyane",
+        "population": -1,
+        "latitude": 4.401296,
+        "longitude": -52.392287
+    },
+    {
+        "name": "Trou Caïmans",
+        "country": "French Guiana",
+        "province": "Guyane",
+        "population": -1,
+        "latitude": 5.450697,
+        "longitude": -53.139232
+    },
+    {
+        "name": "Trou Biran",
+        "country": "French Guiana",
+        "province": "Guyane",
+        "population": -1,
+        "latitude": 4.92862,
+        "longitude": -52.29766
+    },
+    {
+        "name": "Trois Sauts",
+        "country": "French Guiana",
+        "province": "Guyane",
+        "population": -1,
+        "latitude": 2.245041,
+        "longitude": -52.877243
+    },
+    {
+        "name": "Trois Rois",
+        "country": "French Guiana",
+        "province": "Guyane",
+        "population": -1,
+        "latitude": 4.948176,
+        "longitude": -52.531018
+    },
+    {
+        "name": "Tonate",
+        "country": "French Guiana",
+        "province": "Guyane",
+        "population": -1,
+        "latitude": 5.011708,
+        "longitude": -52.47241
+    },
+    {
+        "name": "Théophane",
+        "country": "French Guiana",
+        "province": "Guyane",
+        "population": -1,
+        "latitude": 3.715044,
+        "longitude": -54.077904
+    },
+    {
+        "name": "Terre Rouge",
+        "country": "French Guiana",
+        "province": "Guyane",
+        "population": -1,
+        "latitude": 5.637806,
+        "longitude": -53.745392
+    },
+    {
+        "name": "Terre Rouge",
+        "country": "French Guiana",
+        "province": "Guyane",
+        "population": -1,
+        "latitude": 5.450644,
+        "longitude": -54.049943
+    },
+    {
+        "name": "Taponté",
+        "country": "French Guiana",
+        "province": "Guyane",
+        "population": -1,
+        "latitude": 3.270431,
+        "longitude": -54.122617
+    },
+    {
+        "name": "Tampok",
+        "country": "French Guiana",
+        "province": "Guyane",
+        "population": -1,
+        "latitude": 3.323633,
+        "longitude": -53.835315
+    },
+    {
+        "name": "Taconnet",
+        "country": "French Guiana",
+        "province": "Guyane",
+        "population": -1,
+        "latitude": 4.0333333,
+        "longitude": -52.5166667
+    },
+    {
+        "name": "Suzini",
+        "country": "French Guiana",
+        "province": "Guyane",
+        "population": -1,
+        "latitude": 4.928536,
+        "longitude": -52.290167
+    },
+    {
+        "name": "Sursaut",
+        "country": "French Guiana",
+        "province": "Guyane",
+        "population": -1,
+        "latitude": 4.960826,
+        "longitude": -53.150798
+    },
+    {
+        "name": "Stoupan",
+        "country": "French Guiana",
+        "province": "Guyane",
+        "population": -1,
+        "latitude": 4.779076,
+        "longitude": -52.343516
+    },
+    {
+        "name": "Sparouine",
+        "country": "French Guiana",
+        "province": "Guyane",
+        "population": -1,
+        "latitude": 5.271361,
+        "longitude": -54.259452
+    },
+    {
+        "name": "Soula",
+        "country": "French Guiana",
+        "province": "French Guiana",
+        "population": -1,
+        "latitude": 4.930572,
+        "longitude": -52.40791
+    },
+    {
+        "name": "Senkinen",
+        "country": "French Guiana",
+        "province": "Guyane",
+        "population": -1,
+        "latitude": 5.1,
+        "longitude": -54.3666667
+    },
+    {
+        "name": "Savane Manuel",
+        "country": "French Guiana",
+        "province": "Guyane",
+        "population": -1,
+        "latitude": 5.35,
+        "longitude": -52.95
+    },
+    {
+        "name": "Saut Tigre",
+        "country": "French Guiana",
+        "province": "Guyane",
+        "population": -1,
+        "latitude": 5.013138,
+        "longitude": -53.029154
+    },
+    {
+        "name": "Saut Sabbat",
+        "country": "French Guiana",
+        "province": "Guyane",
+        "population": -1,
+        "latitude": 5.390048,
+        "longitude": -53.671993
+    },
+    {
+        "name": "Saulnier",
+        "country": "French Guiana",
+        "province": "Guyane",
+        "population": -1,
+        "latitude": 5.26976,
+        "longitude": -52.964403
+    },
+    {
+        "name": "Santonia",
+        "country": "French Guiana",
+        "province": "Guyane",
+        "population": -1,
+        "latitude": 4.736762,
+        "longitude": -54.459427
+    },
+    {
+        "name": "Sania",
+        "country": "French Guiana",
+        "province": "Guyane",
+        "population": -1,
+        "latitude": 5.191851,
+        "longitude": -54.319361
+    },
+    {
+        "name": "Saint-Maurice",
+        "country": "French Guiana",
+        "province": "Guyane",
+        "population": -1,
+        "latitude": 5.484812,
+        "longitude": -54.029093
+    },
+    {
+        "name": "Saint-Louis",
+        "country": "French Guiana",
+        "province": "Guyane",
+        "population": -1,
+        "latitude": 5.4743,
+        "longitude": -54.046219
+    },
+    {
+        "name": "Saint-Louis",
+        "country": "French Guiana",
+        "province": "Guyane",
+        "population": -1,
+        "latitude": 4.031717,
+        "longitude": -51.688245
+    },
+    {
+        "name": "Saint-Eugène",
+        "country": "French Guiana",
+        "province": "Guyane",
+        "population": -1,
+        "latitude": 4.848969,
+        "longitude": -53.07322
+    },
+    {
+        "name": "Saint-Antoine",
+        "country": "French Guiana",
+        "province": "Guyane",
+        "population": -1,
+        "latitude": 5.595967,
+        "longitude": -53.888469
+    },
+    {
+        "name": "Ruben",
+        "country": "French Guiana",
+        "province": "Guyane",
+        "population": -1,
+        "latitude": 5.3603,
+        "longitude": -54.132811
+    },
+    {
+        "name": "Roche Tablon",
+        "country": "French Guiana",
+        "province": "Guyane",
+        "population": -1,
+        "latitude": 4.6333333,
+        "longitude": -52.3833333
+    },
+    {
+        "name": "Roches Blanches",
+        "country": "French Guiana",
+        "province": "Guyane",
+        "population": -1,
+        "latitude": 5.494449,
+        "longitude": -53.321015
+    },
+    {
+        "name": "Roche Brigandin",
+        "country": "French Guiana",
+        "province": "Guyane",
+        "population": -1,
+        "latitude": 5.45,
+        "longitude": -53
+    },
+    {
+        "name": "Risquetout",
+        "country": "French Guiana",
+        "province": "Guyane",
+        "population": -1,
+        "latitude": 4.916386,
+        "longitude": -52.512458
+    },
+    {
+        "name": "Repentir",
+        "country": "French Guiana",
+        "province": "Guyane",
+        "population": -1,
+        "latitude": 3.838269,
+        "longitude": -53.392079
+    },
+    {
+        "name": "Quesnel",
+        "country": "French Guiana",
+        "province": "Guyane",
+        "population": -1,
+        "latitude": 4.936301,
+        "longitude": -52.497664
+    },
+    {
+        "name": "Providence",
+        "country": "French Guiana",
+        "province": "Guyane",
+        "population": -1,
+        "latitude": 4.620026,
+        "longitude": -54.414793
+    },
+    {
+        "name": "Port Inini",
+        "country": "French Guiana",
+        "province": "Guyane",
+        "population": -1,
+        "latitude": 4.816517,
+        "longitude": -52.482339
+    },
+    {
+        "name": "Populo",
+        "country": "French Guiana",
+        "province": "Guyane",
+        "population": -1,
+        "latitude": 5.6127,
+        "longitude": -53.817123
+    },
+    {
+        "name": "Ponta",
+        "country": "French Guiana",
+        "province": "Guyane",
+        "population": -1,
+        "latitude": 5.216478,
+        "longitude": -54.305273
+    },
+    {
+        "name": "Pointe Isère",
+        "country": "French Guiana",
+        "province": "French Guiana",
+        "population": -1,
+        "latitude": 5.736121,
+        "longitude": -53.857697
+    },
+    {
+        "name": "Pointe Combi",
+        "country": "French Guiana",
+        "province": "Guyane",
+        "population": -1,
+        "latitude": 5.311661,
+        "longitude": -52.954751
+    },
+    {
+        "name": "Pointe Caïman",
+        "country": "French Guiana",
+        "province": "Guyane",
+        "population": -1,
+        "latitude": 4.989929,
+        "longitude": -52.666079
+    },
+    {
+        "name": "Placer Trésor",
+        "country": "French Guiana",
+        "province": "Guyane",
+        "population": -1,
+        "latitude": 4.586277,
+        "longitude": -52.265359
+    },
+    {
+        "name": "Pina",
+        "country": "French Guiana",
+        "province": "Guyane",
+        "population": -1,
+        "latitude": 2.283127,
+        "longitude": -52.859284
+    },
+    {
+        "name": "Piliwa",
+        "country": "French Guiana",
+        "province": "Guyane",
+        "population": -1,
+        "latitude": 5.731573,
+        "longitude": -53.897935
+    },
+    {
+        "name": "Pikinn Tabiki",
+        "country": "French Guiana",
+        "province": "Guyane",
+        "population": -1,
+        "latitude": 3.239904,
+        "longitude": -54.076971
+    },
+    {
+        "name": "Petit Saut",
+        "country": "French Guiana",
+        "province": "Guyane",
+        "population": -1,
+        "latitude": 5.360779,
+        "longitude": -53.679503
+    },
+    {
+        "name": "Petit Placer",
+        "country": "French Guiana",
+        "province": "Guyane",
+        "population": -1,
+        "latitude": 4.509956,
+        "longitude": -52.486161
+    },
+    {
+        "name": "Petit Laussat",
+        "country": "French Guiana",
+        "province": "Guyane",
+        "population": -1,
+        "latitude": 5.45,
+        "longitude": -53.8833333
+    },
+    {
+        "name": "Petit Fouet",
+        "country": "French Guiana",
+        "province": "Guyane",
+        "population": -1,
+        "latitude": 4.899799,
+        "longitude": -54.473642
+    },
+    {
+        "name": "Péléa",
+        "country": "French Guiana",
+        "province": "Guyane",
+        "population": -1,
+        "latitude": 3.272508,
+        "longitude": -54.119275
+    },
+    {
+        "name": "Patience",
+        "country": "French Guiana",
+        "province": "Guyane",
+        "population": -1,
+        "latitude": 5.225967,
+        "longitude": -54.299022
+    },
+    {
+        "name": "Pascaud",
+        "country": "French Guiana",
+        "province": "Guyane",
+        "population": -1,
+        "latitude": 4.865101,
+        "longitude": -52.273462
+    },
+    {
+        "name": "Pascal",
+        "country": "French Guiana",
+        "province": "Guyane",
+        "population": -1,
+        "latitude": 4.255841,
+        "longitude": -54.381143
+    },
+    {
+        "name": "Parcours Noir",
+        "country": "French Guiana",
+        "province": "Guyane",
+        "population": -1,
+        "latitude": 3.411214,
+        "longitude": -52.133939
+    },
+    {
+        "name": "Ouaqui",
+        "country": "French Guiana",
+        "province": "Guyane",
+        "population": -1,
+        "latitude": 3.453576,
+        "longitude": -53.991975
+    },
+    {
+        "name": "Organabo",
+        "country": "French Guiana",
+        "province": "Guyane",
+        "population": -1,
+        "latitude": 5.547387,
+        "longitude": -53.454565
+    },
+    {
+        "name": "Opoya",
+        "country": "French Guiana",
+        "province": "Guyane",
+        "population": -1,
+        "latitude": 3.372173,
+        "longitude": -54.052608
+    },
+    {
+        "name": "Nouvelle Alliance",
+        "country": "French Guiana",
+        "province": "Guyane",
+        "population": -1,
+        "latitude": 4.010851,
+        "longitude": -51.740782
+    },
+    {
+        "name": "Nouveau Camp",
+        "country": "French Guiana",
+        "province": "Guyane",
+        "population": -1,
+        "latitude": 5.563701,
+        "longitude": -53.918287
+    },
+    {
+        "name": "Niewe Rust",
+        "country": "French Guiana",
+        "province": "French Guiana",
+        "population": -1,
+        "latitude": 5.5833333,
+        "longitude": -55.0333333
+    },
+    {
+        "name": "Nasson",
+        "country": "French Guiana",
+        "province": "Guyane",
+        "population": -1,
+        "latitude": 4.81221,
+        "longitude": -54.464471
+    },
+    {
+        "name": "Nancibo",
+        "country": "French Guiana",
+        "province": "Guyane",
+        "population": -1,
+        "latitude": 4.672789,
+        "longitude": -52.455836
+    },
+    {
+        "name": "Moussoué Santi Tabiki",
+        "country": "French Guiana",
+        "province": "French Guiana",
+        "population": -1,
+        "latitude": 4.582059,
+        "longitude": -54.419252
+    },
+    {
+        "name": "Moucaya",
+        "country": "French Guiana",
+        "province": "Guyane",
+        "population": -1,
+        "latitude": 5.524182,
+        "longitude": -53.381615
+    },
+    {
+        "name": "Morpio",
+        "country": "French Guiana",
+        "province": "Guyane",
+        "population": -1,
+        "latitude": 5.487686,
+        "longitude": -53.306427
+    },
+    {
+        "name": "Mont Valérien",
+        "country": "French Guiana",
+        "province": "Guyane",
+        "population": -1,
+        "latitude": 4.933203,
+        "longitude": -53.046136
+    },
+    {
+        "name": "Montagne Sable",
+        "country": "French Guiana",
+        "province": "Guyane",
+        "population": -1,
+        "latitude": 5.578197,
+        "longitude": -53.600283
+    },
+    {
+        "name": "Montabo",
+        "country": "French Guiana",
+        "province": "Guyane",
+        "population": -1,
+        "latitude": 4.943435,
+        "longitude": -52.305155
+    },
+    {
+        "name": "Mompé Soula",
+        "country": "French Guiana",
+        "province": "Guyane",
+        "population": -1,
+        "latitude": 4.555359,
+        "longitude": -54.410458
+    },
+    {
+        "name": "Mogès",
+        "country": "French Guiana",
+        "province": "Guyane",
+        "population": -1,
+        "latitude": 4.793176,
+        "longitude": -52.341464
+    },
+    {
+        "name": "Medeyre",
+        "country": "French Guiana",
+        "province": "Guyane",
+        "population": -1,
+        "latitude": 5.606148,
+        "longitude": -53.656928
+    },
+    {
+        "name": "Mayman",
+        "country": "French Guiana",
+        "province": "Guyane",
+        "population": -1,
+        "latitude": 5.181833,
+        "longitude": -54.32462
+    },
+    {
+        "name": "Matiti",
+        "country": "French Guiana",
+        "province": "Guyane",
+        "population": -1,
+        "latitude": 5.033125,
+        "longitude": -52.574228
+    },
+    {
+        "name": "Mathurin",
+        "country": "French Guiana",
+        "province": "Guyane",
+        "population": -1,
+        "latitude": 4.525832,
+        "longitude": -52.535289
+    },
+    {
+        "name": "Maripa-Village",
+        "country": "French Guiana",
+        "province": "French Guiana",
+        "population": -1,
+        "latitude": 3.6333333,
+        "longitude": -54.05
+    },
+    {
+        "name": "Montagne Maripa",
+        "country": "French Guiana",
+        "province": "Guyane",
+        "population": -1,
+        "latitude": 4.4166667,
+        "longitude": -52.3333333
+    },
+    {
+        "name": "Marignan",
+        "country": "French Guiana",
+        "province": "Guyane",
+        "population": -1,
+        "latitude": 4.6333333,
+        "longitude": -52.45
+    },
+    {
+        "name": "Mariani",
+        "country": "French Guiana",
+        "province": "Guyane",
+        "population": -1,
+        "latitude": 5.152033,
+        "longitude": -53.660304
+    },
+    {
+        "name": "Mamaribo",
+        "country": "French Guiana",
+        "province": "Guyane",
+        "population": -1,
+        "latitude": 5.510914,
+        "longitude": -53.352029
+    },
+    {
+        "name": "Maman Valentin",
+        "country": "French Guiana",
+        "province": "Guyane",
+        "population": -1,
+        "latitude": 5.326814,
+        "longitude": -53.661061
+    },
+    {
+        "name": "Macrabo",
+        "country": "French Guiana",
+        "province": "French Guiana",
+        "population": -1,
+        "latitude": 4.792102,
+        "longitude": -52.354305
+    },
+    {
+        "name": "Loulouïe",
+        "country": "French Guiana",
+        "province": "Guyane",
+        "population": -1,
+        "latitude": 4.8666667,
+        "longitude": -53.0333333
+    },
+    {
+        "name": "Loulette",
+        "country": "French Guiana",
+        "province": "Guyane",
+        "population": -1,
+        "latitude": 5.624372,
+        "longitude": -53.879113
+    },
+    {
+        "name": "Lissa",
+        "country": "French Guiana",
+        "province": "Guyane",
+        "population": -1,
+        "latitude": 4.9789,
+        "longitude": -54.440047
+    },
+    {
+        "name": "Lipo Lipo",
+        "country": "French Guiana",
+        "province": "Guyane",
+        "population": -1,
+        "latitude": 3.298018,
+        "longitude": -54.054694
+    },
+    {
+        "name": "Les Malgaches",
+        "country": "French Guiana",
+        "province": "Guyane",
+        "population": -1,
+        "latitude": 5.493729,
+        "longitude": -54.011793
+    },
+    {
+        "name": "Le Gallion",
+        "country": "French Guiana",
+        "province": "Guyane",
+        "population": -1,
+        "latitude": 4.783144,
+        "longitude": -52.429002
+    },
+    {
+        "name": "Le Dix-Septième",
+        "country": "French Guiana",
+        "province": "Guyane",
+        "population": -1,
+        "latitude": 4.8333333,
+        "longitude": -52.35
+    },
+    {
+        "name": "Le Califourchon",
+        "country": "French Guiana",
+        "province": "Guyane",
+        "population": -1,
+        "latitude": 4.839222,
+        "longitude": -52.340851
+    },
+    {
+        "name": "La Villette",
+        "country": "French Guiana",
+        "province": "Guyane",
+        "population": -1,
+        "latitude": 4.94559,
+        "longitude": -53.161572
+    },
+    {
+        "name": "Lavaud",
+        "country": "French Guiana",
+        "province": "Guyane",
+        "population": -1,
+        "latitude": 3.002911,
+        "longitude": -54.169188
+    },
+    {
+        "name": "La Valère",
+        "country": "French Guiana",
+        "province": "French Guiana",
+        "population": -1,
+        "latitude": 4.8333333,
+        "longitude": -55.3333333
+    },
+    {
+        "name": "La Valère",
+        "country": "French Guiana",
+        "province": "Guyane",
+        "population": -1,
+        "latitude": 4.833614,
+        "longitude": -52.32332
+    },
+    {
+        "name": "Laussat",
+        "country": "French Guiana",
+        "province": "Guyane",
+        "population": -1,
+        "latitude": 5.488348,
+        "longitude": -53.558762
+    },
+    {
+        "name": "Langa Tabiki",
+        "country": "French Guiana",
+        "province": "Guyane",
+        "population": -1,
+        "latitude": 4.986401,
+        "longitude": -54.435827
+    },
+    {
+        "name": "Lamonet",
+        "country": "French Guiana",
+        "province": "Guyane",
+        "population": -1,
+        "latitude": 3.65,
+        "longitude": -54.0166667
+    },
+    {
+        "name": "La Désirée",
+        "country": "French Guiana",
+        "province": "Guyane",
+        "population": -1,
+        "latitude": 4.848937,
+        "longitude": -52.339516
+    },
+    {
+        "name": "La Dame Blanche",
+        "country": "French Guiana",
+        "province": "Guyane",
+        "population": -1,
+        "latitude": 4.919418,
+        "longitude": -52.366181
+    },
+    {
+        "name": "La Chaumière",
+        "country": "French Guiana",
+        "province": "Guyane",
+        "population": -1,
+        "latitude": 4.884412,
+        "longitude": -52.358704
+    },
+    {
+        "name": "La Brande",
+        "country": "French Guiana",
+        "province": "Guyane",
+        "population": -1,
+        "latitude": 4.859525,
+        "longitude": -52.318244
+    },
+    {
+        "name": "Kwassié",
+        "country": "French Guiana",
+        "province": "Guyane",
+        "population": -1,
+        "latitude": 4.950978,
+        "longitude": -54.436332
+    },
+    {
+        "name": "Kofi Kamiza",
+        "country": "French Guiana",
+        "province": "French Guiana",
+        "population": -1,
+        "latitude": 4.1833333,
+        "longitude": -54.4
+    },
+    {
+        "name": "Kepioudou",
+        "country": "French Guiana",
+        "province": "Guyane",
+        "population": -1,
+        "latitude": 4.97869,
+        "longitude": -54.438674
+    },
+    {
+        "name": "Kantali",
+        "country": "French Guiana",
+        "province": "French Guiana",
+        "population": -1,
+        "latitude": 5.4166667,
+        "longitude": -54.3166667
+    },
+    {
+        "name": "Junique",
+        "country": "French Guiana",
+        "province": "Guyane",
+        "population": -1,
+        "latitude": 5.1666667,
+        "longitude": -54.0333333
+    },
+    {
+        "name": "Janvier",
+        "country": "French Guiana",
+        "province": "Guyane",
+        "population": -1,
+        "latitude": 5.1666667,
+        "longitude": -54.15
+    },
+    {
+        "name": "Îlet Tortue",
+        "country": "French Guiana",
+        "province": "Guyane",
+        "population": -1,
+        "latitude": 5.2,
+        "longitude": -52.9666667
+    },
+    {
+        "name": "Îlet Lézard",
+        "country": "French Guiana",
+        "province": "Guyane",
+        "population": -1,
+        "latitude": 5.048632,
+        "longitude": -53.792142
+    },
+    {
+        "name": "Guatemala",
+        "country": "French Guiana",
+        "province": "Guyane",
+        "population": -1,
+        "latitude": 5.144213,
+        "longitude": -52.627628
+    },
+    {
+        "name": "Grosse Roche",
+        "country": "French Guiana",
+        "province": "Guyane",
+        "population": -1,
+        "latitude": 5.250532,
+        "longitude": -53.411582
+    },
+    {
+        "name": "Grand Village",
+        "country": "French Guiana",
+        "province": "Guyane",
+        "population": -1,
+        "latitude": 5.580586,
+        "longitude": -53.72062
+    },
+    {
+        "name": "Grand Marquis",
+        "country": "French Guiana",
+        "province": "Guyane",
+        "population": -1,
+        "latitude": 3.724093,
+        "longitude": -53.579964
+    },
+    {
+        "name": "Grand Carbet",
+        "country": "French Guiana",
+        "province": "Guyane",
+        "population": -1,
+        "latitude": 3.65,
+        "longitude": -53.8333333
+    },
+    {
+        "name": "Grand Bala",
+        "country": "French Guiana",
+        "province": "Guyane",
+        "population": -1,
+        "latitude": 4.393001,
+        "longitude": -54.303371
+    },
+    {
+        "name": "Fracas",
+        "country": "French Guiana",
+        "province": "Guyane",
+        "population": -1,
+        "latitude": 4.759533,
+        "longitude": -53.680904
+    },
+    {
+        "name": "Fortuné",
+        "country": "French Guiana",
+        "province": "Guyane",
+        "population": -1,
+        "latitude": 4.558293,
+        "longitude": -52.298407
+    },
+    {
+        "name": "Florissante",
+        "country": "French Guiana",
+        "province": "Guyane",
+        "population": -1,
+        "latitude": 3.390586,
+        "longitude": -52.899101
+    },
+    {
+        "name": "Flèche",
+        "country": "French Guiana",
+        "province": "Guyane",
+        "population": -1,
+        "latitude": 5.527433,
+        "longitude": -53.38794
+    },
+    {
+        "name": "Filon Doyle",
+        "country": "French Guiana",
+        "province": "Guyane",
+        "population": -1,
+        "latitude": 4.508714,
+        "longitude": -52.461673
+    },
+    {
+        "name": "Enfin",
+        "country": "French Guiana",
+        "province": "Guyane",
+        "population": -1,
+        "latitude": 4.727383,
+        "longitude": -53.945139
+    },
+    {
+        "name": "Eau Blanche",
+        "country": "French Guiana",
+        "province": "Guyane",
+        "population": -1,
+        "latitude": 5.0666667,
+        "longitude": -53.4833333
+    },
+    {
+        "name": "Dorlin",
+        "country": "French Guiana",
+        "province": "Guyane",
+        "population": -1,
+        "latitude": 3.749249,
+        "longitude": -53.557859
+    },
+    {
+        "name": "Dieu Merci",
+        "country": "French Guiana",
+        "province": "Guyane",
+        "population": -1,
+        "latitude": 4.792011,
+        "longitude": -53.266575
+    },
+    {
+        "name": "Devez",
+        "country": "French Guiana",
+        "province": "Guyane",
+        "population": -1,
+        "latitude": 4.5166667,
+        "longitude": -52.4333333
+    },
+    {
+        "name": "Deux Jours",
+        "country": "French Guiana",
+        "province": "Guyane",
+        "population": -1,
+        "latitude": 5.0166667,
+        "longitude": -53.15
+    },
+    {
+        "name": "Deux Branches",
+        "country": "French Guiana",
+        "province": "Guyane",
+        "population": -1,
+        "latitude": 4.8781,
+        "longitude": -52.992385
+    },
+    {
+        "name": "Désirade",
+        "country": "French Guiana",
+        "province": "Guyane",
+        "population": -1,
+        "latitude": 4.730889,
+        "longitude": -53.90752
+    },
+    {
+        "name": "Dégrad Tamanoir",
+        "country": "French Guiana",
+        "province": "Guyane",
+        "population": -1,
+        "latitude": 5.4166667,
+        "longitude": -53.4
+    },
+    {
+        "name": "Dégrad Savane",
+        "country": "French Guiana",
+        "province": "Guyane",
+        "population": -1,
+        "latitude": 5.487069,
+        "longitude": -53.240593
+    },
+    {
+        "name": "Dégrad Saramaka",
+        "country": "French Guiana",
+        "province": "Guyane",
+        "population": -1,
+        "latitude": 5.0166667,
+        "longitude": -52.7
+    },
+    {
+        "name": "Dégrad Saint-Pierre",
+        "country": "French Guiana",
+        "province": "Guyane",
+        "population": -1,
+        "latitude": 3.1166667,
+        "longitude": -52.65
+    },
+    {
+        "name": "Dégrad Pierre",
+        "country": "French Guiana",
+        "province": "Guyane",
+        "population": -1,
+        "latitude": 4.95,
+        "longitude": -53.1833333
+    },
+    {
+        "name": "Dégrad Perdu Temps",
+        "country": "French Guiana",
+        "province": "Guyane",
+        "population": -1,
+        "latitude": 5.05,
+        "longitude": -53.4
+    },
+    {
+        "name": "Dégrad Pascal",
+        "country": "French Guiana",
+        "province": "Guyane",
+        "population": -1,
+        "latitude": 5.4166667,
+        "longitude": -53.35
+    },
+    {
+        "name": "Dégrad Nicole",
+        "country": "French Guiana",
+        "province": "Guyane",
+        "population": -1,
+        "latitude": 3.55,
+        "longitude": -53.75
+    },
+    {
+        "name": "Dégrad Ménado",
+        "country": "French Guiana",
+        "province": "Guyane",
+        "population": -1,
+        "latitude": 4.624197,
+        "longitude": -52.425104
+    },
+    {
+        "name": "Dégrad Maman Piraye",
+        "country": "French Guiana",
+        "province": "Guyane",
+        "population": -1,
+        "latitude": 5.4,
+        "longitude": -53.3166667
+    },
+    {
+        "name": "Dégrad la Boue",
+        "country": "French Guiana",
+        "province": "Guyane",
+        "population": -1,
+        "latitude": 5.3833333,
+        "longitude": -53.4333333
+    },
+    {
+        "name": "Dégrad Jason",
+        "country": "French Guiana",
+        "province": "Guyane",
+        "population": -1,
+        "latitude": 5.0166667,
+        "longitude": -52.7166667
+    },
+    {
+        "name": "Dégrad Janson",
+        "country": "French Guiana",
+        "province": "Guyane",
+        "population": -1,
+        "latitude": 5.0166667,
+        "longitude": -52.7166667
+    },
+    {
+        "name": "Dégrad Jalbot",
+        "country": "French Guiana",
+        "province": "Guyane",
+        "population": -1,
+        "latitude": 4.2,
+        "longitude": -52.6333333
+    },
+    {
+        "name": "Dégrad Henri",
+        "country": "French Guiana",
+        "province": "Guyane",
+        "population": -1,
+        "latitude": 5.4166667,
+        "longitude": -53.1333333
+    },
+    {
+        "name": "Dégrad Génipa",
+        "country": "French Guiana",
+        "province": "Guyane",
+        "population": -1,
+        "latitude": 5.3666667,
+        "longitude": -53.4333333
+    },
+    {
+        "name": "Dégrad Fromager",
+        "country": "French Guiana",
+        "province": "Guyane",
+        "population": -1,
+        "latitude": 5.2333333,
+        "longitude": -52.9833333
+    },
+    {
+        "name": "Dégrad Florian",
+        "country": "French Guiana",
+        "province": "Guyane",
+        "population": -1,
+        "latitude": 5.4166667,
+        "longitude": -53.4333333
+    },
+    {
+        "name": "Dégrad Corrèze",
+        "country": "French Guiana",
+        "province": "Guyane",
+        "population": -1,
+        "latitude": 4.518931,
+        "longitude": -52.321878
+    },
+    {
+        "name": "Dégrad Canard",
+        "country": "French Guiana",
+        "province": "Guyane",
+        "population": -1,
+        "latitude": 5.64127,
+        "longitude": -53.727121
+    },
+    {
+        "name": "Dégrad Brigette",
+        "country": "French Guiana",
+        "province": "Guyane",
+        "population": -1,
+        "latitude": 4.2833333,
+        "longitude": -52.6166667
+    },
+    {
+        "name": "Dégrad Balata",
+        "country": "French Guiana",
+        "province": "Guyane",
+        "population": -1,
+        "latitude": 5,
+        "longitude": -52.6833333
+    },
+    {
+        "name": "Dégourdi",
+        "country": "French Guiana",
+        "province": "Guyane",
+        "population": -1,
+        "latitude": 4.971244,
+        "longitude": -53.091246
+    },
+    {
+        "name": "Dagou Edé",
+        "country": "French Guiana",
+        "province": "Guyane",
+        "population": -1,
+        "latitude": 4.1666667,
+        "longitude": -52.2666667
+    },
+    {
+        "name": "Crique Jacques",
+        "country": "French Guiana",
+        "province": "Guyane",
+        "population": -1,
+        "latitude": 5.652213,
+        "longitude": -53.832239
+    },
+    {
+        "name": "Crique Anguille",
+        "country": "French Guiana",
+        "province": "Guyane",
+        "population": -1,
+        "latitude": 4.832652,
+        "longitude": -52.509658
+    },
+    {
+        "name": "Couriège",
+        "country": "French Guiana",
+        "province": "Guyane",
+        "population": -1,
+        "latitude": 4.805047,
+        "longitude": -53.299226
+    },
+    {
+        "name": "Corossony",
+        "country": "French Guiana",
+        "province": "Guyane",
+        "population": -1,
+        "latitude": 5.416681,
+        "longitude": -53.031793
+    },
+    {
+        "name": "Coralie",
+        "country": "French Guiana",
+        "province": "Guyane",
+        "population": -1,
+        "latitude": 4.510675,
+        "longitude": -52.351192
+    },
+    {
+        "name": "Combo",
+        "country": "French Guiana",
+        "province": "Guyane",
+        "population": -1,
+        "latitude": 4.88336,
+        "longitude": -52.317651
+    },
+    {
+        "name": "Combi",
+        "country": "French Guiana",
+        "province": "Guyane",
+        "population": -1,
+        "latitude": 5.343282,
+        "longitude": -52.939519
+    },
+    {
+        "name": "Cogneau",
+        "country": "French Guiana",
+        "province": "Guyane",
+        "population": -1,
+        "latitude": 4.869894,
+        "longitude": -52.3235
+    },
+    {
+        "name": "Citron",
+        "country": "French Guiana",
+        "province": "Guyane",
+        "population": -1,
+        "latitude": 4.740302,
+        "longitude": -53.962309
+    },
+    {
+        "name": "Cité Thémire",
+        "country": "French Guiana",
+        "province": "Guyane",
+        "population": -1,
+        "latitude": 4.934459,
+        "longitude": -52.320819
+    },
+    {
+        "name": "Cité Quintius",
+        "country": "French Guiana",
+        "province": "Guyane",
+        "population": -1,
+        "latitude": 4.930074,
+        "longitude": -52.318087
+    },
+    {
+        "name": "Cité Laurie",
+        "country": "French Guiana",
+        "province": "Guyane",
+        "population": -1,
+        "latitude": 4.931567,
+        "longitude": -52.315473
+    },
+    {
+        "name": "Cité des Manguiers",
+        "country": "French Guiana",
+        "province": "Guyane",
+        "population": -1,
+        "latitude": 4.933437,
+        "longitude": -52.325419
+    },
+    {
+        "name": "Cité Castor",
+        "country": "French Guiana",
+        "province": "Guyane",
+        "population": -1,
+        "latitude": 4.944098,
+        "longitude": -52.3123
+    },
+    {
+        "name": "Chire",
+        "country": "French Guiana",
+        "province": "Guyane",
+        "population": -1,
+        "latitude": 5.512186,
+        "longitude": -53.539126
+    },
+    {
+        "name": "Chatonnet",
+        "country": "French Guiana",
+        "province": "Guyane",
+        "population": -1,
+        "latitude": 4.881886,
+        "longitude": -53.018888
+    },
+    {
+        "name": "Changement",
+        "country": "French Guiana",
+        "province": "Guyane",
+        "population": -1,
+        "latitude": 4.4833333,
+        "longitude": -52.4166667
+    },
+    {
+        "name": "Hmong Village",
+        "country": "French Guiana",
+        "province": "Guyane",
+        "population": -1,
+        "latitude": 3.62827,
+        "longitude": -53.20643
+    },
+    {
+        "name": "Trois Roches",
+        "country": "French Guiana",
+        "province": "Guyane",
+        "population": -1,
+        "latitude": 3.62422,
+        "longitude": -53.2213
+    },
+    {
+        "name": "La Palmeraie",
+        "country": "French Guiana",
+        "province": "Guyane",
+        "population": -1,
+        "latitude": 3.5943,
+        "longitude": -53.20793
+    },
+    {
+        "name": "Adotian",
+        "country": "French Guiana",
+        "province": "Guyane",
+        "population": -1,
+        "latitude": 4.529265,
+        "longitude": -54.443117
+    },
+    {
+        "name": "Camp Béatrice",
+        "country": "French Guiana",
+        "province": "Guyane",
+        "population": -1,
+        "latitude": 4.948175,
+        "longitude": -54.437115
+    },
+    {
+        "name": "Kader",
+        "country": "French Guiana",
+        "province": "Guyane",
+        "population": -1,
+        "latitude": 4.952652,
+        "longitude": -54.436398
+    },
+    {
+        "name": "Emmanuel",
+        "country": "French Guiana",
+        "province": "Guyane",
+        "population": -1,
+        "latitude": 4.954151,
+        "longitude": -54.436398
+    },
+    {
+        "name": "Lobo",
+        "country": "French Guiana",
+        "province": "Guyane",
+        "population": -1,
+        "latitude": 4.957476,
+        "longitude": -54.436203
+    },
+    {
+        "name": "Kanaa",
+        "country": "French Guiana",
+        "province": "Guyane",
+        "population": -1,
+        "latitude": 4.961256,
+        "longitude": -54.436659
+    },
+    {
+        "name": "Kamadé",
+        "country": "French Guiana",
+        "province": "Guyane",
+        "population": -1,
+        "latitude": 4.964451,
+        "longitude": -54.436333
+    },
+    {
+        "name": "Amékan Kampou",
+        "country": "French Guiana",
+        "province": "Guyane",
+        "population": -1,
+        "latitude": 4.967906,
+        "longitude": -54.436007
+    },
+    {
+        "name": "Penki Avo",
+        "country": "French Guiana",
+        "province": "Guyane",
+        "population": -1,
+        "latitude": 4.976032,
+        "longitude": -54.437311
+    },
+    {
+        "name": "Yédi",
+        "country": "French Guiana",
+        "province": "Guyane",
+        "population": -1,
+        "latitude": 4.978,
+        "longitude": -54.439576
+    },
+    {
+        "name": "Sissilia",
+        "country": "French Guiana",
+        "province": "Guyane",
+        "population": -1,
+        "latitude": 4.98102,
+        "longitude": -54.439035
+    },
+    {
+        "name": "Pilipi Wono",
+        "country": "French Guiana",
+        "province": "Guyane",
+        "population": -1,
+        "latitude": 3.108135,
+        "longitude": -54.172591
+    },
+    {
+        "name": "Palimino Pata",
+        "country": "French Guiana",
+        "province": "Guyane",
+        "population": -1,
+        "latitude": 3.294582,
+        "longitude": -54.100428
+    },
+    {
+        "name": "Boussoussa",
+        "country": "French Guiana",
+        "province": "Guyane",
+        "population": -1,
+        "latitude": 3.652399,
+        "longitude": -54.013559
+    },
+    {
+        "name": "Adala",
+        "country": "French Guiana",
+        "province": "Guyane",
+        "population": -1,
+        "latitude": 3.635523,
+        "longitude": -54.048457
+    },
+    {
+        "name": "Nouveau Wapakou",
+        "country": "French Guiana",
+        "province": "Guyane",
+        "population": -1,
+        "latitude": 3.673956,
+        "longitude": -54.07735
+    },
+    {
+        "name": "Kouiakou",
+        "country": "French Guiana",
+        "province": "Guyane",
+        "population": -1,
+        "latitude": 3.732177,
+        "longitude": -54.090827
+    },
+    {
+        "name": "Paa Chton",
+        "country": "French Guiana",
+        "province": "Guyane",
+        "population": -1,
+        "latitude": 3.723415,
+        "longitude": -54.081231
+    },
+    {
+        "name": "Nouveau Assissi",
+        "country": "French Guiana",
+        "province": "Guyane",
+        "population": -1,
+        "latitude": 3.822044,
+        "longitude": -54.19452
+    },
+    {
+        "name": "Tcha Tcha",
+        "country": "French Guiana",
+        "province": "Guyane",
+        "population": -1,
+        "latitude": 3.905684,
+        "longitude": -54.250635
+    },
+    {
+        "name": "Saleli Condé",
+        "country": "French Guiana",
+        "province": "Guyane",
+        "population": -1,
+        "latitude": 3.571891,
+        "longitude": -53.995142
+    },
+    {
+        "name": "Tolinga",
+        "country": "French Guiana",
+        "province": "Guyane",
+        "population": -1,
+        "latitude": 3.664633,
+        "longitude": -53.930896
+    },
+    {
+        "name": "Piedsaut",
+        "country": "French Guiana",
+        "province": "Guyane",
+        "population": -1,
+        "latitude": 3.807909,
+        "longitude": -51.874456
+    },
+    {
+        "name": "Habitation Rozé",
+        "country": "French Guiana",
+        "province": "Guyane",
+        "population": -1,
+        "latitude": 3.81398,
+        "longitude": -51.87114
+    },
+    {
+        "name": "Labombe",
+        "country": "French Guiana",
+        "province": "Guyane",
+        "population": -1,
+        "latitude": 3.928751,
+        "longitude": -51.820334
+    },
+    {
+        "name": "Trois Palétuviers",
+        "country": "French Guiana",
+        "province": "Guyane",
+        "population": -1,
+        "latitude": 4.056527,
+        "longitude": -51.662076
+    },
+    {
+        "name": "Pays Indien",
+        "country": "French Guiana",
+        "province": "Guyane",
+        "population": -1,
+        "latitude": 4.165332,
+        "longitude": -51.778196
+    },
+    {
+        "name": "La Césarée",
+        "country": "French Guiana",
+        "province": "Guyane",
+        "population": -1,
+        "latitude": 5.021279,
+        "longitude": -52.52501
+    },
+    {
+        "name": "Chemin Pascal",
+        "country": "French Guiana",
+        "province": "Guyane",
+        "population": -1,
+        "latitude": 5.37956,
+        "longitude": -52.975861
+    },
+    {
+        "name": "Savane Nango",
+        "country": "French Guiana",
+        "province": "Guyane",
+        "population": -1,
+        "latitude": 5.36914,
+        "longitude": -52.949367
+    },
+    {
+        "name": "Diane",
+        "country": "French Guiana",
+        "province": "Guyane",
+        "population": -1,
+        "latitude": 5.250532,
+        "longitude": -52.805675
+    },
+    {
+        "name": "Sable Blanc",
+        "country": "French Guiana",
+        "province": "Guyane",
+        "population": -1,
+        "latitude": 5.485114,
+        "longitude": -53.217842
+    },
+    {
+        "name": "Yiyi",
+        "country": "French Guiana",
+        "province": "Guyane",
+        "population": -1,
+        "latitude": 5.423401,
+        "longitude": -53.074499
+    },
+    {
+        "name": "Balalou",
+        "country": "French Guiana",
+        "province": "Guyane",
+        "population": -1,
+        "latitude": 5.396046,
+        "longitude": -53.004273
+    },
+    {
+        "name": "Rabottin",
+        "country": "French Guiana",
+        "province": "Guyane",
+        "population": -1,
+        "latitude": 5.360715,
+        "longitude": -53.010014
+    },
+    {
+        "name": "Petit Saut",
+        "country": "French Guiana",
+        "province": "Guyane",
+        "population": -1,
+        "latitude": 5.071802,
+        "longitude": -53.051192
+    },
+    {
+        "name": "Embouchure",
+        "country": "French Guiana",
+        "province": "Guyane",
+        "population": -1,
+        "latitude": 4.974002,
+        "longitude": -53.032286
+    },
+    {
+        "name": "Pointe Pinot",
+        "country": "French Guiana",
+        "province": "Guyane",
+        "population": -1,
+        "latitude": 4.933425,
+        "longitude": -53.023324
+    },
+    {
+        "name": "Calumet",
+        "country": "French Guiana",
+        "province": "Guyane",
+        "population": -1,
+        "latitude": 4.96559,
+        "longitude": -52.534096
+    },
+    {
+        "name": "Tombe Got",
+        "country": "French Guiana",
+        "province": "Guyane",
+        "population": -1,
+        "latitude": 4.93429,
+        "longitude": -52.506981
+    },
+    {
+        "name": "Maripa",
+        "country": "French Guiana",
+        "province": "French Guiana",
+        "population": -1,
+        "latitude": 4.852647,
+        "longitude": -52.519141
+    },
+    {
+        "name": "Akati",
+        "country": "French Guiana",
+        "province": "French Guiana",
+        "population": -1,
+        "latitude": 5.014453,
+        "longitude": -54.437541
+    },
+    {
+        "name": "Namiwawang",
+        "country": "French Guiana",
+        "province": "French Guiana",
+        "population": -1,
+        "latitude": 5.01743,
+        "longitude": -54.437173
+    },
+    {
+        "name": "Lobimakani",
+        "country": "French Guiana",
+        "province": "Guyane",
+        "population": -1,
+        "latitude": 5.031756,
+        "longitude": -54.426067
+    },
+    {
+        "name": "Midénangalanti",
+        "country": "French Guiana",
+        "province": "Guyane",
+        "population": -1,
+        "latitude": 5.041591,
+        "longitude": -54.421036
+    },
+    {
+        "name": "Rosa",
+        "country": "French Guiana",
+        "province": "Guyane",
+        "population": -1,
+        "latitude": 5.052999,
+        "longitude": -54.416668
+    },
+    {
+        "name": "Mainia Ondo",
+        "country": "French Guiana",
+        "province": "Guyane",
+        "population": -1,
+        "latitude": 5.056389,
+        "longitude": -54.416994
+    },
+    {
+        "name": "Village Jérôme",
+        "country": "French Guiana",
+        "province": "Guyane",
+        "population": -1,
+        "latitude": 5.059974,
+        "longitude": -54.415169
+    },
+    {
+        "name": "Tapoékoé",
+        "country": "French Guiana",
+        "province": "Guyane",
+        "population": -1,
+        "latitude": 5.063234,
+        "longitude": -54.414908
+    },
+    {
+        "name": "Lanti Wani",
+        "country": "French Guiana",
+        "province": "Guyane",
+        "population": -1,
+        "latitude": 5.069035,
+        "longitude": -54.41054
+    },
+    {
+        "name": "Mofiéna",
+        "country": "French Guiana",
+        "province": "Guyane",
+        "population": -1,
+        "latitude": 5.075228,
+        "longitude": -54.406824
+    },
+    {
+        "name": "Papi Kondé",
+        "country": "French Guiana",
+        "province": "Guyane",
+        "population": -1,
+        "latitude": 5.095394,
+        "longitude": -54.386681
+    },
+    {
+        "name": "Wangéa",
+        "country": "French Guiana",
+        "province": "Guyane",
+        "population": -1,
+        "latitude": 5.097871,
+        "longitude": -54.381792
+    },
+    {
+        "name": "Foster",
+        "country": "French Guiana",
+        "province": "Guyane",
+        "population": -1,
+        "latitude": 5.101326,
+        "longitude": -54.377424
+    },
+    {
+        "name": "Jé Vrédé",
+        "country": "French Guiana",
+        "province": "Guyane",
+        "population": -1,
+        "latitude": 5.121636,
+        "longitude": -54.366124
+    },
+    {
+        "name": "Bigui Béligui",
+        "country": "French Guiana",
+        "province": "Guyane",
+        "population": -1,
+        "latitude": 5.188222,
+        "longitude": -54.322467
+    },
+    {
+        "name": "Doudou",
+        "country": "French Guiana",
+        "province": "Guyane",
+        "population": -1,
+        "latitude": 5.190569,
+        "longitude": -54.321033
+    },
+    {
+        "name": "Ayamidé",
+        "country": "French Guiana",
+        "province": "Guyane",
+        "population": -1,
+        "latitude": 5.194785,
+        "longitude": -54.316622
+    },
+    {
+        "name": "Mont Louis",
+        "country": "French Guiana",
+        "province": "Guyane",
+        "population": -1,
+        "latitude": 5.1985,
+        "longitude": -54.314667
+    },
+    {
+        "name": "Kodio",
+        "country": "French Guiana",
+        "province": "Guyane",
+        "population": -1,
+        "latitude": 5.200637,
+        "longitude": -54.31225
+    },
+    {
+        "name": "Maliéti",
+        "country": "French Guiana",
+        "province": "Guyane",
+        "population": -1,
+        "latitude": 5.20331,
+        "longitude": -54.31075
+    },
+    {
+        "name": "Ondiayé",
+        "country": "French Guiana",
+        "province": "Guyane",
+        "population": -1,
+        "latitude": 5.208916,
+        "longitude": -54.308729
+    },
+    {
+        "name": "Petite Patience",
+        "country": "French Guiana",
+        "province": "Guyane",
+        "population": -1,
+        "latitude": 5.220455,
+        "longitude": -54.303514
+    },
+    {
+        "name": "Kialiondo",
+        "country": "French Guiana",
+        "province": "Guyane",
+        "population": -1,
+        "latitude": 5.230726,
+        "longitude": -54.294523
+    },
+    {
+        "name": "Niou Kampou",
+        "country": "French Guiana",
+        "province": "Guyane",
+        "population": -1,
+        "latitude": 5.232355,
+        "longitude": -54.291981
+    },
+    {
+        "name": "Foukatiami",
+        "country": "French Guiana",
+        "province": "Guyane",
+        "population": -1,
+        "latitude": 5.233789,
+        "longitude": -54.291003
+    },
+    {
+        "name": "Mentillé",
+        "country": "French Guiana",
+        "province": "Guyane",
+        "population": -1,
+        "latitude": 5.274525,
+        "longitude": -54.255115
+    },
+    {
+        "name": "Balisié",
+        "country": "French Guiana",
+        "province": "Guyane",
+        "population": -1,
+        "latitude": 5.27347,
+        "longitude": -54.255875
+    },
+    {
+        "name": "Otily",
+        "country": "French Guiana",
+        "province": "Guyane",
+        "population": -1,
+        "latitude": 5.274145,
+        "longitude": -54.256128
+    },
+    {
+        "name": "Abompé",
+        "country": "French Guiana",
+        "province": "Guyane",
+        "population": -1,
+        "latitude": 5.273006,
+        "longitude": -54.258111
+    },
+    {
+        "name": "Assenté",
+        "country": "French Guiana",
+        "province": "Guyane",
+        "population": -1,
+        "latitude": 5.270166,
+        "longitude": -54.260593
+    },
+    {
+        "name": "Baïno",
+        "country": "French Guiana",
+        "province": "Guyane",
+        "population": -1,
+        "latitude": 5.27805,
+        "longitude": -54.242634
+    },
+    {
+        "name": "Wabouli Koulon",
+        "country": "French Guiana",
+        "province": "Guyane",
+        "population": -1,
+        "latitude": 5.286148,
+        "longitude": -54.229782
+    },
+    {
+        "name": "Assouna",
+        "country": "French Guiana",
+        "province": "Guyane",
+        "population": -1,
+        "latitude": 5.289212,
+        "longitude": -54.212311
+    },
+    {
+        "name": "Sendilé",
+        "country": "French Guiana",
+        "province": "Guyane",
+        "population": -1,
+        "latitude": 5.286344,
+        "longitude": -54.21694
+    },
+    {
+        "name": "Soké",
+        "country": "French Guiana",
+        "province": "Guyane",
+        "population": -1,
+        "latitude": 5.325783,
+        "longitude": -54.176979
+    },
+    {
+        "name": "Doling",
+        "country": "French Guiana",
+        "province": "Guyane",
+        "population": -1,
+        "latitude": 5.321481,
+        "longitude": -54.178413
+    },
+    {
+        "name": "Samapaï",
+        "country": "French Guiana",
+        "province": "Guyane",
+        "population": -1,
+        "latitude": 5.313955,
+        "longitude": -54.18275
+    },
+    {
+        "name": "Abagaï",
+        "country": "French Guiana",
+        "province": "Guyane",
+        "population": -1,
+        "latitude": 5.332469,
+        "longitude": -54.173037
+    },
+    {
+        "name": "Gode",
+        "country": "French Guiana",
+        "province": "Guyane",
+        "population": -1,
+        "latitude": 5.339183,
+        "longitude": -54.167235
+    },
+    {
+        "name": "Apatou",
+        "country": "French Guiana",
+        "province": "Guyane",
+        "population": -1,
+        "latitude": 5.042583,
+        "longitude": -54.044267
+    },
+    {
+        "name": "Nataniel",
+        "country": "French Guiana",
+        "province": "Guyane",
+        "population": -1,
+        "latitude": 5.090697,
+        "longitude": -54.393015
+    },
+    {
+        "name": "La Bastide",
+        "country": "French Guiana",
+        "province": "Guyane",
+        "population": -1,
+        "latitude": 5.321361,
+        "longitude": -54.069121
+    },
+    {
+        "name": "Gusomani",
+        "country": "French Guiana",
+        "province": "Guyane",
+        "population": -1,
+        "latitude": 5.329575,
+        "longitude": -54.076357
+    },
+    {
+        "name": "Mamaï",
+        "country": "French Guiana",
+        "province": "Guyane",
+        "population": -1,
+        "latitude": 5.389896,
+        "longitude": -54.121884
+    },
+    {
+        "name": "Koyona",
+        "country": "French Guiana",
+        "province": "Guyane",
+        "population": -1,
+        "latitude": 5.391656,
+        "longitude": -54.11706
+    },
+    {
+        "name": "Tindali",
+        "country": "French Guiana",
+        "province": "Guyane",
+        "population": -1,
+        "latitude": 5.424465,
+        "longitude": -54.057647
+    },
+    {
+        "name": "Espérance",
+        "country": "French Guiana",
+        "province": "Guyane",
+        "population": -1,
+        "latitude": 5.432391,
+        "longitude": -54.05113
+    },
+    {
+        "name": "Village Pierre",
+        "country": "French Guiana",
+        "province": "Guyane",
+        "population": -1,
+        "latitude": 5.46768,
+        "longitude": -54.047296
+    },
+    {
+        "name": "La Charbonnière",
+        "country": "French Guiana",
+        "province": "Guyane",
+        "population": -1,
+        "latitude": 5.490429,
+        "longitude": -54.035935
+    },
+    {
+        "name": "Paddock",
+        "country": "French Guiana",
+        "province": "Guyane",
+        "population": -1,
+        "latitude": 5.507166,
+        "longitude": -54.020043
+    },
+    {
+        "name": "Fatima",
+        "country": "French Guiana",
+        "province": "Guyane",
+        "population": -1,
+        "latitude": 5.499922,
+        "longitude": -54.012873
+    },
+    {
+        "name": "Les Sables Blancs",
+        "country": "French Guiana",
+        "province": "Guyane",
+        "population": -1,
+        "latitude": 5.481963,
+        "longitude": -54.013618
+    },
+    {
+        "name": "Camp Lorrain",
+        "country": "French Guiana",
+        "province": "Guyane",
+        "population": -1,
+        "latitude": 5.494575,
+        "longitude": -54.025439
+    },
+    {
+        "name": "Le Lac Bleu",
+        "country": "French Guiana",
+        "province": "Guyane",
+        "population": -1,
+        "latitude": 5.473757,
+        "longitude": -54.035119
+    },
+    {
+        "name": "La Bouverie",
+        "country": "French Guiana",
+        "province": "Guyane",
+        "population": -1,
+        "latitude": 5.727271,
+        "longitude": -53.894413
+    },
+    {
+        "name": "Romain",
+        "country": "French Guiana",
+        "province": "Guyane",
+        "population": -1,
+        "latitude": 5.692811,
+        "longitude": -53.829554
+    },
+    {
+        "name": "Petit Laussat",
+        "country": "French Guiana",
+        "province": "Guyane",
+        "population": -1,
+        "latitude": 5.4482,
+        "longitude": -53.582649
+    },
+    {
+        "name": "Montagne Lagrue",
+        "country": "French Guiana",
+        "province": "Guyane",
+        "population": -1,
+        "latitude": 5.563948,
+        "longitude": -53.598742
+    },
+    {
+        "name": "Bassin Mine d'Or",
+        "country": "French Guiana",
+        "province": "Guyane",
+        "population": -1,
+        "latitude": 5.59619,
+        "longitude": -53.636481
+    },
+    {
+        "name": "Patient",
+        "country": "French Guiana",
+        "province": "Guyane",
+        "population": -1,
+        "latitude": 5.604943,
+        "longitude": -53.657312
+    },
+    {
+        "name": "Balata-Est",
+        "country": "French Guiana",
+        "province": "Guyane",
+        "population": -1,
+        "latitude": 4.886127,
+        "longitude": -52.333236
+    },
+    {
+        "name": "Sainte-Marie-les-Mines",
+        "country": "French Guiana",
+        "province": "Guyane",
+        "population": -1,
+        "latitude": 4.560265,
+        "longitude": -52.417928
+    },
+    {
+        "name": "Mont Diable",
+        "country": "French Guiana",
+        "province": "Guyane",
+        "population": -1,
+        "latitude": 4.6321,
+        "longitude": -52.391656
+    },
+    {
+        "name": "Mission Saint-Antoine",
+        "country": "French Guiana",
+        "province": "Guyane",
+        "population": -1,
+        "latitude": 4.668408,
+        "longitude": -52.337206
+    },
+    {
+        "name": "Dégrad Saint-Antoine",
+        "country": "French Guiana",
+        "province": "Guyane",
+        "population": -1,
+        "latitude": 4.670543,
+        "longitude": -52.332828
+    },
+    {
+        "name": "Dacca",
+        "country": "French Guiana",
+        "province": "Guyane",
+        "population": -1,
+        "latitude": 4.738656,
+        "longitude": -52.320593
+    },
+    {
+        "name": "Auberge des Orpailleurs",
+        "country": "French Guiana",
+        "province": "Guyane",
+        "population": -1,
+        "latitude": 4.511621,
+        "longitude": -52.351251
+    },
+    {
+        "name": "La Marguerite",
+        "country": "French Guiana",
+        "province": "Guyane",
+        "population": -1,
+        "latitude": 4.995911,
+        "longitude": -52.451057
+    },
+    {
+        "name": "Fazendinha",
+        "country": "French Guiana",
+        "province": "Guyane",
+        "population": -1,
+        "latitude": 4.969153,
+        "longitude": -52.475914
+    },
+    {
+        "name": "La Bordelaise",
+        "country": "French Guiana",
+        "province": "Guyane",
+        "population": -1,
+        "latitude": 4.95935,
+        "longitude": -52.475711
+    },
+    {
+        "name": "La Providence",
+        "country": "French Guiana",
+        "province": "Guyane",
+        "population": -1,
+        "latitude": 4.948278,
+        "longitude": -52.491968
+    },
+    {
+        "name": "Louvrier",
+        "country": "French Guiana",
+        "province": "Guyane",
+        "population": -1,
+        "latitude": 4.928276,
+        "longitude": -52.464444
+    },
+    {
+        "name": "Marignan",
+        "country": "French Guiana",
+        "province": "Guyane",
+        "population": -1,
+        "latitude": 4.797752,
+        "longitude": -52.461456
+    },
+    {
+        "name": "Le Solitaire",
+        "country": "French Guiana",
+        "province": "Guyane",
+        "population": -1,
+        "latitude": 4.798034,
+        "longitude": -52.437353
+    },
+    {
+        "name": "Lotissement Gay",
+        "country": "French Guiana",
+        "province": "Guyane",
+        "population": -1,
+        "latitude": 4.88049,
+        "longitude": -52.363469
+    },
+    {
+        "name": "Les Loussaïs",
+        "country": "French Guiana",
+        "province": "Guyane",
+        "population": -1,
+        "latitude": 4.886912,
+        "longitude": -52.349303
+    },
+    {
+        "name": "Samuel",
+        "country": "French Guiana",
+        "province": "Guyane",
+        "population": -1,
+        "latitude": 4.879777,
+        "longitude": -52.331156
+    },
+    {
+        "name": "Jean-Marie",
+        "country": "French Guiana",
+        "province": "Guyane",
+        "population": -1,
+        "latitude": 4.885278,
+        "longitude": -52.334055
+    },
+    {
+        "name": "Le Quartorzième",
+        "country": "French Guiana",
+        "province": "Guyane",
+        "population": -1,
+        "latitude": 4.837987,
+        "longitude": -52.344426
+    },
+    {
+        "name": "Camp du Tigre",
+        "country": "French Guiana",
+        "province": "Guyane",
+        "population": -1,
+        "latitude": 4.91296,
+        "longitude": -52.308548
+    },
+    {
+        "name": "Les Âmes Claires",
+        "country": "French Guiana",
+        "province": "Guyane",
+        "population": -1,
+        "latitude": 4.912355,
+        "longitude": -52.284017
+    },
+    {
+        "name": "Almaric",
+        "country": "French Guiana",
+        "province": "Guyane",
+        "population": -1,
+        "latitude": 4.927896,
+        "longitude": -52.282589
+    },
+    {
+        "name": "Poupon",
+        "country": "French Guiana",
+        "province": "Guyane",
+        "population": -1,
+        "latitude": 4.922402,
+        "longitude": -52.278394
+    },
+    {
+        "name": "Le Grand Beauregard",
+        "country": "French Guiana",
+        "province": "Guyane",
+        "population": -1,
+        "latitude": 4.89169,
+        "longitude": -52.27956
+    },
+    {
+        "name": "Le Moulin à Vent",
+        "country": "French Guiana",
+        "province": "Guyane",
+        "population": -1,
+        "latitude": 4.903132,
+        "longitude": -52.272901
+    },
+    {
+        "name": "Collery",
+        "country": "French Guiana",
+        "province": "Guyane",
+        "population": -1,
+        "latitude": 4.904125,
+        "longitude": -52.324834
+    },
+    {
+        "name": "Raban",
+        "country": "French Guiana",
+        "province": "Guyane",
+        "population": -1,
+        "latitude": 4.907716,
+        "longitude": -52.297966
+    },
+    {
+        "name": "Poncel",
+        "country": "French Guiana",
+        "province": "Guyane",
+        "population": -1,
+        "latitude": 4.90101,
+        "longitude": -52.298985
+    },
+    {
+        "name": "Ceïde",
+        "country": "French Guiana",
+        "province": "Guyane",
+        "population": -1,
+        "latitude": 4.897569,
+        "longitude": -52.261529
+    },
+    {
+        "name": "Montravel",
+        "country": "French Guiana",
+        "province": "Guyane",
+        "population": -1,
+        "latitude": 4.909137,
+        "longitude": -52.266808
+    },
+    {
+        "name": "Paramana",
+        "country": "French Guiana",
+        "province": "Guyane",
+        "population": -1,
+        "latitude": 4.819277,
+        "longitude": -52.340034
+    },
+    {
+        "name": "Belle Humeur",
+        "country": "French Guiana",
+        "province": "French Guiana",
+        "population": -1,
+        "latitude": 4.916635,
+        "longitude": -52.379069
+    },
+    {
+        "name": "Préfontaine",
+        "country": "French Guiana",
+        "province": "French Guiana",
+        "population": -1,
+        "latitude": 4.977024,
+        "longitude": -52.498691
+    },
+    {
+        "name": "Cigogne",
+        "country": "French Guiana",
+        "province": "French Guiana",
+        "population": -1,
+        "latitude": 4.802092,
+        "longitude": -52.47289
+    },
+    {
+        "name": "Beauséjour",
+        "country": "French Guiana",
+        "province": "Guyane",
+        "population": -1,
+        "latitude": 4.788286,
+        "longitude": -52.43188
+    },
+    {
+        "name": "Basse Terre",
+        "country": "French Guiana",
+        "province": "French Guiana",
+        "population": -1,
+        "latitude": 4.836466,
+        "longitude": -52.482864
+    },
+    {
+        "name": "Domaine de Soula",
+        "country": "French Guiana",
+        "province": "Guyane",
+        "population": -1,
+        "latitude": 4.926062,
+        "longitude": -52.401368
+    },
+    {
+        "name": "Sainte-Rose de Lima",
+        "country": "French Guiana",
+        "province": "Guyane",
+        "population": -1,
+        "latitude": 4.824762,
+        "longitude": -52.338458
+    },
+    {
+        "name": "Bois Diable",
+        "country": "French Guiana",
+        "province": "French Guiana",
+        "population": -1,
+        "latitude": 5.589671,
+        "longitude": -53.832926
+    },
+    {
+        "name": "Les Jardins de Sainte-Agathe",
+        "country": "French Guiana",
+        "province": "French Guiana",
+        "population": -1,
+        "latitude": 5.001079,
+        "longitude": -52.471563
+    },
+    {
+        "name": "Carbet les Maripas",
+        "country": "French Guiana",
+        "province": "French Guiana",
+        "population": -1,
+        "latitude": 5.044931,
+        "longitude": -52.690224
+    },
+    {
+        "name": "Bellevue",
+        "country": "French Guiana",
+        "province": "French Guiana",
+        "population": -1,
+        "latitude": 4.579099,
+        "longitude": -52.434456
+    },
+    {
+        "name": "La Chaumière",
+        "country": "French Guiana",
+        "province": "French Guiana",
+        "population": -1,
+        "latitude": 4.598717,
+        "longitude": -52.404668
+    },
+    {
+        "name": "Matoupan",
+        "country": "French Guiana",
+        "province": "French Guiana",
+        "population": -1,
+        "latitude": 4.766197,
+        "longitude": -52.330978
+    },
+    {
+        "name": "Domaine de Stoupan",
+        "country": "French Guiana",
+        "province": "French Guiana",
+        "population": -1,
+        "latitude": 4.775499,
+        "longitude": -52.335006
+    },
+    {
+        "name": "Les Îlets de Macrabo",
+        "country": "French Guiana",
+        "province": "French Guiana",
+        "population": -1,
+        "latitude": 4.79944,
+        "longitude": -52.352265
+    },
+    {
+        "name": "Pinot",
+        "country": "French Guiana",
+        "province": "French Guiana",
+        "population": -1,
+        "latitude": 4.789034,
+        "longitude": -52.330766
+    },
+    {
+        "name": "Lotissement Yarde",
+        "country": "French Guiana",
+        "province": "French Guiana",
+        "population": -1,
+        "latitude": 4.826604,
+        "longitude": -52.314584
+    },
+    {
+        "name": "Concorde",
+        "country": "French Guiana",
+        "province": "French Guiana",
+        "population": -1,
+        "latitude": 4.836416,
+        "longitude": -52.349127
+    },
+    {
+        "name": "Réséda",
+        "country": "French Guiana",
+        "province": "French Guiana",
+        "population": -1,
+        "latitude": 4.875899,
+        "longitude": -52.278529
+    },
+    {
+        "name": "Morne Coco",
+        "country": "French Guiana",
+        "province": "French Guiana",
+        "population": -1,
+        "latitude": 4.898277,
+        "longitude": -52.277213
+    },
+    {
+        "name": "Résidence Arc-en-Ciel",
+        "country": "French Guiana",
+        "province": "French Guiana",
+        "population": -1,
+        "latitude": 4.893084,
+        "longitude": -52.286587
+    },
+    {
+        "name": "Saint-Martin",
+        "country": "French Guiana",
+        "province": "French Guiana",
+        "population": -1,
+        "latitude": 4.923473,
+        "longitude": -52.286976
+    },
+    {
+        "name": "Maya",
+        "country": "French Guiana",
+        "province": "French Guiana",
+        "population": -1,
+        "latitude": 4.882893,
+        "longitude": -52.327418
+    },
+    {
+        "name": "Résidence Cogneau-Larivot",
+        "country": "French Guiana",
+        "province": "French Guiana",
+        "population": -1,
+        "latitude": 4.893825,
+        "longitude": -52.341217
+    },
+    {
+        "name": "Cogneau-la Mirande",
+        "country": "French Guiana",
+        "province": "French Guiana",
+        "population": -1,
+        "latitude": 4.883913,
+        "longitude": -52.319201
+    },
+    {
+        "name": "La Persévérance",
+        "country": "French Guiana",
+        "province": "French Guiana",
+        "population": -1,
+        "latitude": 4.899425,
+        "longitude": -52.348299
+    },
+    {
+        "name": "Zénith",
+        "country": "French Guiana",
+        "province": "French Guiana",
+        "population": -1,
+        "latitude": 4.900791,
+        "longitude": -52.337098
+    },
+    {
+        "name": "Patawa",
+        "country": "French Guiana",
+        "province": "French Guiana",
+        "population": -1,
+        "latitude": 4.544461,
+        "longitude": -52.152583
+    },
+    {
+        "name": "Méziac",
+        "country": "French Guiana",
+        "province": "French Guiana",
+        "population": -1,
+        "latitude": 4.4864,
+        "longitude": -52.063136
+    },
+    {
+        "name": "Iuéry",
+        "country": "French Guiana",
+        "province": "French Guiana",
+        "population": -1,
+        "latitude": 4.303027,
+        "longitude": -52.141915
+    },
+    {
+        "name": "Auberge de l'Approuague",
+        "country": "French Guiana",
+        "province": "French Guiana",
+        "population": -1,
+        "latitude": 4.2812,
+        "longitude": -52.170101
+    },
+    {
+        "name": "Domaine Boulanger",
+        "country": "French Guiana",
+        "province": "French Guiana",
+        "population": -1,
+        "latitude": 4.604986,
+        "longitude": -52.367138
+    },
+    {
+        "name": "Crique Marguerite",
+        "country": "French Guiana",
+        "province": "French Guiana",
+        "population": -1,
+        "latitude": 4.627468,
+        "longitude": -52.331633
+    },
+    {
+        "name": "Maripa",
+        "country": "French Guiana",
+        "province": "French Guiana",
+        "population": -1,
+        "latitude": 4.677028,
+        "longitude": -52.346705
+    },
+    {
+        "name": "Prospérité",
+        "country": "French Guiana",
+        "province": "French Guiana",
+        "population": -1,
+        "latitude": 5.476064,
+        "longitude": -53.930314
+    },
+    {
+        "name": "Paradis",
+        "country": "French Guiana",
+        "province": "French Guiana",
+        "population": -1,
+        "latitude": 5.509919,
+        "longitude": -54.014477
+    },
+    {
+        "name": "Maryflore",
+        "country": "French Guiana",
+        "province": "French Guiana",
+        "population": -1,
+        "latitude": 5.489439,
+        "longitude": -54.028626
+    },
+    {
+        "name": "Flore",
+        "country": "French Guiana",
+        "province": "French Guiana",
+        "population": -1,
+        "latitude": 5.487964,
+        "longitude": -54.028583
+    },
+    {
+        "name": "Naiman",
+        "country": "French Guiana",
+        "province": "French Guiana",
+        "population": -1,
+        "latitude": 5.489254,
+        "longitude": -54.037739
+    },
+    {
+        "name": "Moucaya",
+        "country": "French Guiana",
+        "province": "French Guiana",
+        "population": -1,
+        "latitude": 5.487407,
+        "longitude": -54.03688
+    },
+    {
+        "name": "Les Écoles",
+        "country": "French Guiana",
+        "province": "French Guiana",
+        "population": -1,
+        "latitude": 5.477697,
+        "longitude": -54.030045
+    },
+    {
+        "name": "Siguy",
+        "country": "French Guiana",
+        "province": "French Guiana",
+        "population": -1,
+        "latitude": 5.473026,
+        "longitude": -54.032841
+    },
+    {
+        "name": "Les Rivages",
+        "country": "French Guiana",
+        "province": "French Guiana",
+        "population": -1,
+        "latitude": 5.47002,
+        "longitude": -54.046689
+    },
+    {
+        "name": "Amapa I",
+        "country": "French Guiana",
+        "province": "French Guiana",
+        "population": -1,
+        "latitude": 5.485841,
+        "longitude": -54.018098
+    },
+    {
+        "name": "Amapa II",
+        "country": "French Guiana",
+        "province": "French Guiana",
+        "population": -1,
+        "latitude": 5.483738,
+        "longitude": -54.015755
+    },
+    {
+        "name": "Les Eucalyptus",
+        "country": "French Guiana",
+        "province": "French Guiana",
+        "population": -1,
+        "latitude": 4.931657,
+        "longitude": -52.416564
+    },
+    {
+        "name": "La Colline Verte",
+        "country": "French Guiana",
+        "province": "French Guiana",
+        "population": -1,
+        "latitude": 4.919685,
+        "longitude": -52.537614
+    },
+    {
+        "name": "Lotissement Maillard",
+        "country": "French Guiana",
+        "province": "French Guiana",
+        "population": -1,
+        "latitude": 4.970809,
+        "longitude": -52.441881
+    },
+    {
+        "name": "Nofrayan",
+        "country": "French Guiana",
+        "province": "French Guiana",
+        "population": -1,
+        "latitude": 4.916518,
+        "longitude": -52.521696
+    },
+    {
+        "name": "Bananes",
+        "country": "French Guiana",
+        "province": "French Guiana",
+        "population": -1,
+        "latitude": 4.974739,
+        "longitude": -52.44661
+    },
+    {
+        "name": "Relais du Galion",
+        "country": "French Guiana",
+        "province": "French Guiana",
+        "population": -1,
+        "latitude": 4.757822,
+        "longitude": -52.427301
+    },
+    {
+        "name": "Simili",
+        "country": "French Guiana",
+        "province": "French Guiana",
+        "population": -1,
+        "latitude": 5.744918,
+        "longitude": -53.934523
+    },
+    {
+        "name": "Ayawande",
+        "country": "French Guiana",
+        "province": "French Guiana",
+        "population": -1,
+        "latitude": 5.67278,
+        "longitude": -53.950305
+    },
+    {
+        "name": "Carrière",
+        "country": "French Guiana",
+        "province": "Guyane",
+        "population": -1,
+        "latitude": 4.276856,
+        "longitude": -52.672582
+    },
+    {
+        "name": "Carbet Mitan",
+        "country": "French Guiana",
+        "province": "Guyane",
+        "population": -1,
+        "latitude": 4.930466,
+        "longitude": -53.462508
+    },
+    {
+        "name": "Bourda",
+        "country": "French Guiana",
+        "province": "Guyane",
+        "population": -1,
+        "latitude": 4.933536,
+        "longitude": -52.290441
+    },
+    {
+        "name": "Bostok",
+        "country": "French Guiana",
+        "province": "Guyane",
+        "population": -1,
+        "latitude": 3.4333333,
+        "longitude": -53.9666667
+    },
+    {
+        "name": "Borie",
+        "country": "French Guiana",
+        "province": "Guyane",
+        "population": -1,
+        "latitude": 4.934286,
+        "longitude": -53.448424
+    },
+    {
+        "name": "Bois Bandé",
+        "country": "French Guiana",
+        "province": "Guyane",
+        "population": -1,
+        "latitude": 4.252992,
+        "longitude": -52.58214
+    },
+    {
+        "name": "Boeuf Mort",
+        "country": "French Guiana",
+        "province": "Guyane",
+        "population": -1,
+        "latitude": 4.933054,
+        "longitude": -53.418998
+    },
+    {
+        "name": "Bernard",
+        "country": "French Guiana",
+        "province": "Guyane",
+        "population": -1,
+        "latitude": 4.730089,
+        "longitude": -53.899404
+    },
+    {
+        "name": "Bellevue",
+        "country": "French Guiana",
+        "province": "Guyane",
+        "population": -1,
+        "latitude": 3.844027,
+        "longitude": -53.347377
+    },
+    {
+        "name": "Belle Étoile",
+        "country": "French Guiana",
+        "province": "Guyane",
+        "population": -1,
+        "latitude": 3.985621,
+        "longitude": -52.971018
+    },
+    {
+        "name": "Banlieue-Sud de Cayenne",
+        "country": "French Guiana",
+        "province": "Guyane",
+        "population": -1,
+        "latitude": 4.9333333,
+        "longitude": -52.3333333
+    },
+    {
+        "name": "Banc de Sable",
+        "country": "French Guiana",
+        "province": "Guyane",
+        "population": -1,
+        "latitude": 5.214956,
+        "longitude": -54.253403
+    },
+    {
+        "name": "Balourou",
+        "country": "French Guiana",
+        "province": "Guyane",
+        "population": -1,
+        "latitude": 3.508835,
+        "longitude": -53.099837
+    },
+    {
+        "name": "Baduel",
+        "country": "French Guiana",
+        "province": "Guyane",
+        "population": -1,
+        "latitude": 4.931084,
+        "longitude": -52.310294
+    },
+    {
+        "name": "Badek",
+        "country": "French Guiana",
+        "province": "Guyane",
+        "population": -1,
+        "latitude": 3.945327,
+        "longitude": -52.994904
+    },
+    {
+        "name": "Ancien Village Poteau Carré",
+        "country": "French Guiana",
+        "province": "Guyane",
+        "population": -1,
+        "latitude": 4.568124,
+        "longitude": -52.403543
+    },
+    {
+        "name": "Ancien Village Hubert",
+        "country": "French Guiana",
+        "province": "Guyane",
+        "population": -1,
+        "latitude": 3.1,
+        "longitude": -53.25
+    },
+    {
+        "name": "Alicia",
+        "country": "French Guiana",
+        "province": "Guyane",
+        "population": -1,
+        "latitude": 3.3833333,
+        "longitude": -52.9166667
+    },
+    {
+        "name": "Zombi",
+        "country": "French Guiana",
+        "province": "Guyane",
+        "population": -1,
+        "latitude": 4.604002,
+        "longitude": -52.392925
+    },
+    {
+        "name": "Wéti-Chiton",
+        "country": "French Guiana",
+        "province": "Guyane",
+        "population": -1,
+        "latitude": 4.755175,
+        "longitude": -54.46225
+    },
+    {
+        "name": "Village Saramaka",
+        "country": "French Guiana",
+        "province": "Guyane",
+        "population": -1,
+        "latitude": 5.156859,
+        "longitude": -52.637552
+    },
+    {
+        "name": "Village Chinois",
+        "country": "French Guiana",
+        "province": "Guyane",
+        "population": -1,
+        "latitude": 4.93332,
+        "longitude": -52.33348
+    },
+    {
+        "name": "Village Brésilien",
+        "country": "French Guiana",
+        "province": "Guyane",
+        "population": -1,
+        "latitude": 5.152963,
+        "longitude": -52.646577
+    },
+    {
+        "name": "Victor",
+        "country": "French Guiana",
+        "province": "Guyane",
+        "population": -1,
+        "latitude": 4.92814,
+        "longitude": -52.312852
+    },
+    {
+        "name": "Vénus",
+        "country": "French Guiana",
+        "province": "Guyane",
+        "population": -1,
+        "latitude": 5.189349,
+        "longitude": -52.975234
+    },
+    {
+        "name": "Toussine",
+        "country": "French Guiana",
+        "province": "Guyane",
+        "population": -1,
+        "latitude": 4.76917,
+        "longitude": -53.893659
+    },
+    {
+        "name": "Spes",
+        "country": "French Guiana",
+        "province": "Guyane",
+        "population": -1,
+        "latitude": 4.516685,
+        "longitude": -52.40255
+    },
+    {
+        "name": "Simon",
+        "country": "French Guiana",
+        "province": "Guyane",
+        "population": -1,
+        "latitude": 4.570891,
+        "longitude": -52.643526
+    },
+    {
+        "name": "Saint-Pierre",
+        "country": "French Guiana",
+        "province": "Guyane",
+        "population": -1,
+        "latitude": 4.854923,
+        "longitude": -52.324782
+    },
+    {
+        "name": "Saint-Paul",
+        "country": "French Guiana",
+        "province": "Guyane",
+        "population": -1,
+        "latitude": 4.825144,
+        "longitude": -53.307104
+    },
+    {
+        "name": "Saint-Lucien",
+        "country": "French Guiana",
+        "province": "Guyane",
+        "population": -1,
+        "latitude": 4.150884,
+        "longitude": -52.535838
+    },
+    {
+        "name": "Saint-Joseph",
+        "country": "French Guiana",
+        "province": "Guyane",
+        "population": -1,
+        "latitude": 4.80169,
+        "longitude": -53.159923
+    },
+    {
+        "name": "Sainte-Thérèse",
+        "country": "French Guiana",
+        "province": "French Guiana",
+        "population": -1,
+        "latitude": 4.763011,
+        "longitude": -52.327015
+    },
+    {
+        "name": "Sainte-Marie-les-Mines",
+        "country": "French Guiana",
+        "province": "Guyane",
+        "population": -1,
+        "latitude": 4.506154,
+        "longitude": -52.447698
+    },
+    {
+        "name": "Sainte-Anne",
+        "country": "French Guiana",
+        "province": "Guyane",
+        "population": -1,
+        "latitude": 4.583611,
+        "longitude": -52.455518
+    },
+    {
+        "name": "Saint-Bernard",
+        "country": "French Guiana",
+        "province": "Guyane",
+        "population": -1,
+        "latitude": 5.170111,
+        "longitude": -52.947832
+    },
+    {
+        "name": "Saint-Auguste",
+        "country": "French Guiana",
+        "province": "Guyane",
+        "population": -1,
+        "latitude": 4.835913,
+        "longitude": -53.300367
+    },
+    {
+        "name": "Quatre Carbets",
+        "country": "French Guiana",
+        "province": "Guyane",
+        "population": -1,
+        "latitude": 3.7666667,
+        "longitude": -52.2
+    },
+    {
+        "name": "Perdu Temps",
+        "country": "French Guiana",
+        "province": "Guyane",
+        "population": -1,
+        "latitude": 4.993418,
+        "longitude": -53.374163
+    },
+    {
+        "name": "Moyoco",
+        "country": "French Guiana",
+        "province": "Guyane",
+        "population": -1,
+        "latitude": 5.168906,
+        "longitude": -52.654626
+    },
+    {
+        "name": "Ménado",
+        "country": "French Guiana",
+        "province": "Guyane",
+        "population": -1,
+        "latitude": 4.608457,
+        "longitude": -52.41377
+    },
+    {
+        "name": "Mango",
+        "country": "French Guiana",
+        "province": "Guyane",
+        "population": -1,
+        "latitude": 4.933402,
+        "longitude": -52.317895
+    },
+    {
+        "name": "Malterre",
+        "country": "French Guiana",
+        "province": "Guyane",
+        "population": -1,
+        "latitude": 4.926233,
+        "longitude": -52.324209
+    },
+    {
+        "name": "Magasin Créole",
+        "country": "French Guiana",
+        "province": "Guyane",
+        "population": -1,
+        "latitude": 4.202835,
+        "longitude": -54.392577
+    },
+    {
+        "name": "L'Horizon",
+        "country": "French Guiana",
+        "province": "Guyane",
+        "population": -1,
+        "latitude": 5.136628,
+        "longitude": -53.648836
+    },
+    {
+        "name": "Les Roches",
+        "country": "French Guiana",
+        "province": "Guyane",
+        "population": -1,
+        "latitude": 5.162165,
+        "longitude": -52.63253
+    },
+    {
+        "name": "Les Roches",
+        "country": "French Guiana",
+        "province": "Guyane",
+        "population": -1,
+        "latitude": 5.15,
+        "longitude": -52.6333333
+    },
+    {
+        "name": "Le Rallye",
+        "country": "French Guiana",
+        "province": "Guyane",
+        "population": -1,
+        "latitude": 4.043705,
+        "longitude": -52.957117
+    },
+    {
+        "name": "Léonce",
+        "country": "French Guiana",
+        "province": "Guyane",
+        "population": -1,
+        "latitude": 4.537881,
+        "longitude": -52.656055
+    },
+    {
+        "name": "Le Bourg",
+        "country": "French Guiana",
+        "province": "Guyane",
+        "population": -1,
+        "latitude": 5.152934,
+        "longitude": -52.644291
+    },
+    {
+        "name": "Lamérique",
+        "country": "French Guiana",
+        "province": "Guyane",
+        "population": -1,
+        "latitude": 3.3333333,
+        "longitude": -53
+    },
+    {
+        "name": "La Madeleine",
+        "country": "French Guiana",
+        "province": "Guyane",
+        "population": -1,
+        "latitude": 4.921516,
+        "longitude": -52.32341
+    },
+    {
+        "name": "La Levée",
+        "country": "French Guiana",
+        "province": "French Guiana",
+        "population": -1,
+        "latitude": 4.831949,
+        "longitude": -52.30826
+    },
+    {
+        "name": "La Boue",
+        "country": "French Guiana",
+        "province": "Guyane",
+        "population": -1,
+        "latitude": 4.144732,
+        "longitude": -52.468608
+    },
+    {
+        "name": "Kagnouma",
+        "country": "French Guiana",
+        "province": "Guyane",
+        "population": -1,
+        "latitude": 2.626361,
+        "longitude": -52.546958
+    },
+    {
+        "name": "John",
+        "country": "French Guiana",
+        "province": "Guyane",
+        "population": -1,
+        "latitude": 4.968574,
+        "longitude": -53.577071
+    },
+    {
+        "name": "Jalbot",
+        "country": "French Guiana",
+        "province": "Guyane",
+        "population": -1,
+        "latitude": 4.199922,
+        "longitude": -52.624553
+    },
+    {
+        "name": "Îlet Malouin",
+        "country": "French Guiana",
+        "province": "Guyane",
+        "population": -1,
+        "latitude": 4.929602,
+        "longitude": -52.333504
+    },
+    {
+        "name": "Grand Lac",
+        "country": "French Guiana",
+        "province": "Guyane",
+        "population": -1,
+        "latitude": 4.817244,
+        "longitude": -53.705112
+    },
+    {
+        "name": "Gibelin",
+        "country": "French Guiana",
+        "province": "Guyane",
+        "population": -1,
+        "latitude": 4.852702,
+        "longitude": -52.324362
+    },
+    {
+        "name": "Franconie",
+        "country": "French Guiana",
+        "province": "Guyane",
+        "population": -1,
+        "latitude": 4.968801,
+        "longitude": -53.125065
+    },
+    {
+        "name": "Faubourg L'Abri",
+        "country": "French Guiana",
+        "province": "Guyane",
+        "population": -1,
+        "latitude": 4.936042,
+        "longitude": -52.321768
+    },
+    {
+        "name": "Edwin",
+        "country": "French Guiana",
+        "province": "Guyane",
+        "population": -1,
+        "latitude": 4.686042,
+        "longitude": -53.889655
+    },
+    {
+        "name": "Eau Coulie",
+        "country": "French Guiana",
+        "province": "Guyane",
+        "population": -1,
+        "latitude": 4.9333333,
+        "longitude": -52.3166667
+    },
+    {
+        "name": "Drague",
+        "country": "French Guiana",
+        "province": "Guyane",
+        "population": -1,
+        "latitude": 4.971607,
+        "longitude": -53.176046
+    },
+    {
+        "name": "Divalon",
+        "country": "French Guiana",
+        "province": "Guyane",
+        "population": -1,
+        "latitude": 4.75,
+        "longitude": -53.8833333
+    },
+    {
+        "name": "Dieudonné",
+        "country": "French Guiana",
+        "province": "Guyane",
+        "population": -1,
+        "latitude": 4.923496,
+        "longitude": -53.387928
+    },
+    {
+        "name": "Diamant",
+        "country": "French Guiana",
+        "province": "Guyane",
+        "population": -1,
+        "latitude": 5.163785,
+        "longitude": -52.640946
+    },
+    {
+        "name": "Déta",
+        "country": "French Guiana",
+        "province": "Guyane",
+        "population": -1,
+        "latitude": 3.660481,
+        "longitude": -53.58096
+    },
+    {
+        "name": "Couasse",
+        "country": "French Guiana",
+        "province": "Guyane",
+        "population": -1,
+        "latitude": 4.776849,
+        "longitude": -53.284524
+    },
+    {
+        "name": "Claude",
+        "country": "French Guiana",
+        "province": "Guyane",
+        "population": -1,
+        "latitude": 4.934815,
+        "longitude": -53.413391
+    },
+    {
+        "name": "Citron",
+        "country": "French Guiana",
+        "province": "Guyane",
+        "population": -1,
+        "latitude": 4.936168,
+        "longitude": -53.421229
+    },
+    {
+        "name": "Cité Rebard",
+        "country": "French Guiana",
+        "province": "Guyane",
+        "population": -1,
+        "latitude": 4.941351,
+        "longitude": -52.318481
+    },
+    {
+        "name": "Cité Pasteur",
+        "country": "French Guiana",
+        "province": "Guyane",
+        "population": -1,
+        "latitude": 4.939813,
+        "longitude": -52.312933
+    },
+    {
+        "name": "Cité Pascaline",
+        "country": "French Guiana",
+        "province": "Guyane",
+        "population": -1,
+        "latitude": 4.92452,
+        "longitude": -52.315627
+    },
+    {
+        "name": "Cité Mirza",
+        "country": "French Guiana",
+        "province": "Guyane",
+        "population": -1,
+        "latitude": 4.935174,
+        "longitude": -52.323571
+    },
+    {
+        "name": "Cité Lafaurie",
+        "country": "French Guiana",
+        "province": "Guyane",
+        "population": -1,
+        "latitude": 4.932841,
+        "longitude": -52.323091
+    },
+    {
+        "name": "Cité Jean-François",
+        "country": "French Guiana",
+        "province": "Guyane",
+        "population": -1,
+        "latitude": 4.9166667,
+        "longitude": -52.3166667
+    },
+    {
+        "name": "Cité Homat",
+        "country": "French Guiana",
+        "province": "Guyane",
+        "population": -1,
+        "latitude": 4.9166667,
+        "longitude": -52.3166667
+    },
+    {
+        "name": "Cité Eau Lisette",
+        "country": "French Guiana",
+        "province": "Guyane",
+        "population": -1,
+        "latitude": 4.927786,
+        "longitude": -52.321005
+    },
+    {
+        "name": "Cité des Palétuviers",
+        "country": "French Guiana",
+        "province": "Guyane",
+        "population": -1,
+        "latitude": 4.928749,
+        "longitude": -52.33197
+    },
+    {
+        "name": "Cité Césaire",
+        "country": "French Guiana",
+        "province": "Guyane",
+        "population": -1,
+        "latitude": 4.931461,
+        "longitude": -52.323081
+    },
+    {
+        "name": "Cité Brutus",
+        "country": "French Guiana",
+        "province": "Guyane",
+        "population": -1,
+        "latitude": 4.9333333,
+        "longitude": -52.3166667
+    },
+    {
+        "name": "Cité Anatole",
+        "country": "French Guiana",
+        "province": "Guyane",
+        "population": -1,
+        "latitude": 4.935142,
+        "longitude": -52.315655
+    },
+    {
+        "name": "Cité Ampigny",
+        "country": "French Guiana",
+        "province": "Guyane",
+        "population": -1,
+        "latitude": 4.9333333,
+        "longitude": -52.3166667
+    },
+    {
+        "name": "Cité Alexandre",
+        "country": "French Guiana",
+        "province": "Guyane",
+        "population": -1,
+        "latitude": 4.93752,
+        "longitude": -52.313747
+    },
+    {
+        "name": "Châton",
+        "country": "French Guiana",
+        "province": "Guyane",
+        "population": -1,
+        "latitude": 4.944326,
+        "longitude": -52.321698
+    },
+    {
+        "name": "Chatenay",
+        "country": "French Guiana",
+        "province": "Guyane",
+        "population": -1,
+        "latitude": 4.942509,
+        "longitude": -52.311755
+    },
+    {
+        "name": "Cité Bonhomme",
+        "country": "French Guiana",
+        "province": "Guyane",
+        "population": -1,
+        "latitude": 4.923018,
+        "longitude": -52.318175
+    },
+    {
+        "name": "Buzaret",
+        "country": "French Guiana",
+        "province": "Guyane",
+        "population": -1,
+        "latitude": 4.942398,
+        "longitude": -52.325108
+    },
+    {
+        "name": "Antonou Condé",
+        "country": "French Guiana",
+        "province": "Guyane",
+        "population": -1,
+        "latitude": 3.632286,
+        "longitude": -53.994307
+    },
+    {
+        "name": "Eldo",
+        "country": "French Guiana",
+        "province": "Guyane",
+        "population": -1,
+        "latitude": 5.169652,
+        "longitude": -52.642905
+    },
+    {
+        "name": "Sainte-Agathe",
+        "country": "French Guiana",
+        "province": "Guyane",
+        "population": -1,
+        "latitude": 5.008695,
+        "longitude": -52.469383
+    },
+    {
+        "name": "Les Flamboyants",
+        "country": "French Guiana",
+        "province": "Guyane",
+        "population": -1,
+        "latitude": 5.009982,
+        "longitude": -52.475422
+    },
+    {
+        "name": "Zac de Cabalou",
+        "country": "French Guiana",
+        "province": "Guyane",
+        "population": -1,
+        "latitude": 5.152296,
+        "longitude": -52.647016
+    },
+    {
+        "name": "Cabalou",
+        "country": "French Guiana",
+        "province": "Guyane",
+        "population": -1,
+        "latitude": 5.15419,
+        "longitude": -52.646959
+    },
+    {
+        "name": "Quartier du lac du Bois-Chaudat",
+        "country": "French Guiana",
+        "province": "Guyane",
+        "population": -1,
+        "latitude": 5.157346,
+        "longitude": -52.65327
+    },
+    {
+        "name": "Cité du Stade",
+        "country": "French Guiana",
+        "province": "Guyane",
+        "population": -1,
+        "latitude": 5.156601,
+        "longitude": -52.640162
+    },
+    {
+        "name": "Jacaranda",
+        "country": "French Guiana",
+        "province": "Guyane",
+        "population": -1,
+        "latitude": 5.159069,
+        "longitude": -52.635914
+    },
+    {
+        "name": "Goupi",
+        "country": "French Guiana",
+        "province": "Guyane",
+        "population": -1,
+        "latitude": 5.157733,
+        "longitude": -52.641229
+    },
+    {
+        "name": "Patawas",
+        "country": "French Guiana",
+        "province": "Guyane",
+        "population": -1,
+        "latitude": 5.160723,
+        "longitude": -52.632569
+    },
+    {
+        "name": "Carapa",
+        "country": "French Guiana",
+        "province": "Guyane",
+        "population": -1,
+        "latitude": 5.158944,
+        "longitude": -52.639055
+    },
+    {
+        "name": "Angélique",
+        "country": "French Guiana",
+        "province": "Guyane",
+        "population": -1,
+        "latitude": 5.159805,
+        "longitude": -52.639285
+    },
+    {
+        "name": "Maripa",
+        "country": "French Guiana",
+        "province": "Guyane",
+        "population": -1,
+        "latitude": 5.160264,
+        "longitude": -52.637964
+    },
+    {
+        "name": "Koualis",
+        "country": "French Guiana",
+        "province": "Guyane",
+        "population": -1,
+        "latitude": 5.161297,
+        "longitude": -52.636931
+    },
+    {
+        "name": "Wakapou",
+        "country": "French Guiana",
+        "province": "Guyane",
+        "population": -1,
+        "latitude": 5.160264,
+        "longitude": -52.642901
+    },
+    {
+        "name": "Manil",
+        "country": "French Guiana",
+        "province": "Guyane",
+        "population": -1,
+        "latitude": 5.16147,
+        "longitude": -52.642786
+    },
+    {
+        "name": "Cariacou",
+        "country": "French Guiana",
+        "province": "Guyane",
+        "population": -1,
+        "latitude": 5.159748,
+        "longitude": -52.647894
+    },
+    {
+        "name": "Quartier des Deux Lacs",
+        "country": "French Guiana",
+        "province": "Guyane",
+        "population": -1,
+        "latitude": 5.161929,
+        "longitude": -52.650649
+    },
+    {
+        "name": "Kikiwis",
+        "country": "French Guiana",
+        "province": "Guyane",
+        "population": -1,
+        "latitude": 5.16434,
+        "longitude": -52.646459
+    },
+    {
+        "name": "Amaryllis",
+        "country": "French Guiana",
+        "province": "Guyane",
+        "population": -1,
+        "latitude": 5.164282,
+        "longitude": -52.639916
+    },
+    {
+        "name": "Balata",
+        "country": "French Guiana",
+        "province": "Guyane",
+        "population": -1,
+        "latitude": 5.16566,
+        "longitude": -52.642671
+    },
+    {
+        "name": "Cité des Deux Cent Cinq",
+        "country": "French Guiana",
+        "province": "Guyane",
+        "population": -1,
+        "latitude": 5.169046,
+        "longitude": -52.642794
+    },
+    {
+        "name": "Oulapa",
+        "country": "French Guiana",
+        "province": "Guyane",
+        "population": -1,
+        "latitude": 5.163594,
+        "longitude": -52.6513
+    },
+    {
+        "name": "Village Indonésien",
+        "country": "French Guiana",
+        "province": "Guyane",
+        "population": -1,
+        "latitude": 5.371216,
+        "longitude": -52.961969
+    },
+    {
+        "name": "Cité Maripa",
+        "country": "French Guiana",
+        "province": "Guyane",
+        "population": -1,
+        "latitude": 5.477113,
+        "longitude": -53.209323
+    },
+    {
+        "name": "Coq",
+        "country": "French Guiana",
+        "province": "Guyane",
+        "population": -1,
+        "latitude": 4.754808,
+        "longitude": -53.105074
+    },
+    {
+        "name": "Ancien Village Central",
+        "country": "French Guiana",
+        "province": "Guyane",
+        "population": -1,
+        "latitude": 4.986697,
+        "longitude": -53.173942
+    },
+    {
+        "name": "Quartier Némo",
+        "country": "French Guiana",
+        "province": "Guyane",
+        "population": -1,
+        "latitude": 5.401038,
+        "longitude": -54.078105
+    },
+    {
+        "name": "Village Chinois",
+        "country": "French Guiana",
+        "province": "Guyane",
+        "population": -1,
+        "latitude": 5.500053,
+        "longitude": -54.031967
+    },
+    {
+        "name": "Les Hibiscus",
+        "country": "French Guiana",
+        "province": "Guyane",
+        "population": -1,
+        "latitude": 5.496415,
+        "longitude": -54.033256
+    },
+    {
+        "name": "Paddock",
+        "country": "French Guiana",
+        "province": "Guyane",
+        "population": -1,
+        "latitude": 5.506783,
+        "longitude": -54.013411
+    },
+    {
+        "name": "Les Cultures",
+        "country": "French Guiana",
+        "province": "Guyane",
+        "population": -1,
+        "latitude": 5.503691,
+        "longitude": -54.025179
+    },
+    {
+        "name": "Village Toto",
+        "country": "French Guiana",
+        "province": "Guyane",
+        "population": -1,
+        "latitude": 5.504464,
+        "longitude": -54.03191
+    },
+    {
+        "name": "La Pépinière",
+        "country": "French Guiana",
+        "province": "Guyane",
+        "population": -1,
+        "latitude": 5.497063,
+        "longitude": -54.028709
+    },
+    {
+        "name": "Cotonnière-Ouest",
+        "country": "French Guiana",
+        "province": "Guyane",
+        "population": -1,
+        "latitude": 4.881467,
+        "longitude": -52.343503
+    },
+    {
+        "name": "Cotonnière-Est",
+        "country": "French Guiana",
+        "province": "Guyane",
+        "population": -1,
+        "latitude": 4.883107,
+        "longitude": -52.331436
+    },
+    {
+        "name": "Les Comous",
+        "country": "French Guiana",
+        "province": "Guyane",
+        "population": -1,
+        "latitude": 4.853067,
+        "longitude": -52.333773
+    },
+    {
+        "name": "Copaya",
+        "country": "French Guiana",
+        "province": "Guyane",
+        "population": -1,
+        "latitude": 4.845452,
+        "longitude": -52.322664
+    },
+    {
+        "name": "Calimbe",
+        "country": "French Guiana",
+        "province": "Guyane",
+        "population": -1,
+        "latitude": 4.917988,
+        "longitude": -52.310488
+    },
+    {
+        "name": "Patawa",
+        "country": "French Guiana",
+        "province": "Guyane",
+        "population": -1,
+        "latitude": 4.913816,
+        "longitude": -52.325029
+    },
+    {
+        "name": "La Roseraie",
+        "country": "French Guiana",
+        "province": "Guyane",
+        "population": -1,
+        "latitude": 4.913014,
+        "longitude": -52.319083
+    },
+    {
+        "name": "Jasmin",
+        "country": "French Guiana",
+        "province": "Guyane",
+        "population": -1,
+        "latitude": 4.916011,
+        "longitude": -52.316579
+    },
+    {
+        "name": "CAB",
+        "country": "French Guiana",
+        "province": "Guyane",
+        "population": -1,
+        "latitude": 4.918279,
+        "longitude": -52.316842
+    },
+    {
+        "name": "Simarouba",
+        "country": "French Guiana",
+        "province": "Guyane",
+        "population": -1,
+        "latitude": 4.926205,
+        "longitude": -52.294691
+    },
+    {
+        "name": "Les Abricots",
+        "country": "French Guiana",
+        "province": "Guyane",
+        "population": -1,
+        "latitude": 4.911235,
+        "longitude": -52.275653
+    },
+    {
+        "name": "Les Amaryllis",
+        "country": "French Guiana",
+        "province": "Guyane",
+        "population": -1,
+        "latitude": 4.918472,
+        "longitude": -52.275433
+    },
+    {
+        "name": "Sainte-Rita",
+        "country": "French Guiana",
+        "province": "Guyane",
+        "population": -1,
+        "latitude": 4.91485,
+        "longitude": -52.271932
+    },
+    {
+        "name": "Cité Grant",
+        "country": "French Guiana",
+        "province": "Guyane",
+        "population": -1,
+        "latitude": 4.948272,
+        "longitude": -52.303102
+    },
+    {
+        "name": "Beauregard",
+        "country": "French Guiana",
+        "province": "Guyane",
+        "population": -1,
+        "latitude": 4.908897,
+        "longitude": -52.289407
+    },
+    {
+        "name": "Sablance",
+        "country": "French Guiana",
+        "province": "Guyane",
+        "population": -1,
+        "latitude": 4.941536,
+        "longitude": -52.404235
+    },
+    {
+        "name": "Boudet",
+        "country": "French Guiana",
+        "province": "French Guiana",
+        "population": -1,
+        "latitude": 4.927599,
+        "longitude": -52.444398
+    },
+    {
+        "name": "Cité Mont Lucas",
+        "country": "French Guiana",
+        "province": "Guyane",
+        "population": -1,
+        "latitude": 4.925844,
+        "longitude": -52.299971
+    },
+    {
+        "name": "Papinabo",
+        "country": "French Guiana",
+        "province": "French Guiana",
+        "population": -1,
+        "latitude": 5.091732,
+        "longitude": -52.692389
+    },
+    {
+        "name": "Village Indien",
+        "country": "French Guiana",
+        "province": "French Guiana",
+        "population": -1,
+        "latitude": 5.172715,
+        "longitude": -52.645087
+    },
+    {
+        "name": "Les Hauts de la Chaumière",
+        "country": "French Guiana",
+        "province": "French Guiana",
+        "population": -1,
+        "latitude": 4.889209,
+        "longitude": -52.352429
+    },
+    {
+        "name": "Vert Pré",
+        "country": "French Guiana",
+        "province": "French Guiana",
+        "population": -1,
+        "latitude": 4.88277,
+        "longitude": -52.363561
+    },
+    {
+        "name": "Lotissement Bois de Rose",
+        "country": "French Guiana",
+        "province": "French Guiana",
+        "population": -1,
+        "latitude": 4.731329,
+        "longitude": -52.322665
+    },
+    {
+        "name": "Sabrina",
+        "country": "French Guiana",
+        "province": "French Guiana",
+        "population": -1,
+        "latitude": 4.787054,
+        "longitude": -52.353355
+    },
+    {
+        "name": "Écarts de la Désriée",
+        "country": "French Guiana",
+        "province": "French Guiana",
+        "population": -1,
+        "latitude": 4.855413,
+        "longitude": -52.339498
+    },
+    {
+        "name": "Lotissement les Toucas",
+        "country": "French Guiana",
+        "province": "French Guiana",
+        "population": -1,
+        "latitude": 4.856454,
+        "longitude": -52.337681
+    },
+    {
+        "name": "Lotissement Sicama",
+        "country": "French Guiana",
+        "province": "French Guiana",
+        "population": -1,
+        "latitude": 4.857122,
+        "longitude": -52.328442
+    },
+    {
+        "name": "Les Moucayas",
+        "country": "French Guiana",
+        "province": "French Guiana",
+        "population": -1,
+        "latitude": 4.85179,
+        "longitude": -52.326559
+    },
+    {
+        "name": "Saint-Michel",
+        "country": "French Guiana",
+        "province": "French Guiana",
+        "population": -1,
+        "latitude": 4.849049,
+        "longitude": -52.326429
+    },
+    {
+        "name": "Elissée",
+        "country": "French Guiana",
+        "province": "French Guiana",
+        "population": -1,
+        "latitude": 4.847603,
+        "longitude": -52.334143
+    },
+    {
+        "name": "Lotissement la Levée",
+        "country": "French Guiana",
+        "province": "French Guiana",
+        "population": -1,
+        "latitude": 4.841454,
+        "longitude": -52.324326
+    },
+    {
+        "name": "Guimanmin",
+        "country": "French Guiana",
+        "province": "French Guiana",
+        "population": -1,
+        "latitude": 4.846298,
+        "longitude": -52.318765
+    },
+    {
+        "name": "Lotissement les Barbadines",
+        "country": "French Guiana",
+        "province": "French Guiana",
+        "population": -1,
+        "latitude": 4.848391,
+        "longitude": -52.317349
+    },
+    {
+        "name": "Les Frangipaniers",
+        "country": "French Guiana",
+        "province": "French Guiana",
+        "population": -1,
+        "latitude": 4.881572,
+        "longitude": -52.278083
+    },
+    {
+        "name": "Les Bougainvilliers",
+        "country": "French Guiana",
+        "province": "French Guiana",
+        "population": -1,
+        "latitude": 4.888278,
+        "longitude": -52.279541
+    },
+    {
+        "name": "Les Alizés",
+        "country": "French Guiana",
+        "province": "French Guiana",
+        "population": -1,
+        "latitude": 4.889414,
+        "longitude": -52.282242
+    },
+    {
+        "name": "Les Olivettes",
+        "country": "French Guiana",
+        "province": "French Guiana",
+        "population": -1,
+        "latitude": 4.891198,
+        "longitude": -52.274836
+    },
+    {
+        "name": "Les Camélias",
+        "country": "French Guiana",
+        "province": "French Guiana",
+        "population": -1,
+        "latitude": 4.893219,
+        "longitude": -52.27686
+    },
+    {
+        "name": "Les Maripas",
+        "country": "French Guiana",
+        "province": "French Guiana",
+        "population": -1,
+        "latitude": 4.896189,
+        "longitude": -52.276182
+    },
+    {
+        "name": "Chennebras",
+        "country": "French Guiana",
+        "province": "French Guiana",
+        "population": -1,
+        "latitude": 4.906741,
+        "longitude": -52.26814
+    },
+    {
+        "name": "La Fontaine",
+        "country": "French Guiana",
+        "province": "French Guiana",
+        "population": -1,
+        "latitude": 4.912235,
+        "longitude": -52.263464
+    },
+    {
+        "name": "Les Mouettes",
+        "country": "French Guiana",
+        "province": "French Guiana",
+        "population": -1,
+        "latitude": 4.914149,
+        "longitude": -52.264302
+    },
+    {
+        "name": "La Palmeraie",
+        "country": "French Guiana",
+        "province": "French Guiana",
+        "population": -1,
+        "latitude": 4.91739,
+        "longitude": -52.278449
+    },
+    {
+        "name": "Parc Lindor",
+        "country": "French Guiana",
+        "province": "French Guiana",
+        "population": -1,
+        "latitude": 4.907496,
+        "longitude": -52.286029
+    },
+    {
+        "name": "Les Grenadilles",
+        "country": "French Guiana",
+        "province": "French Guiana",
+        "population": -1,
+        "latitude": 4.914104,
+        "longitude": -52.286737
+    },
+    {
+        "name": "Les Bambous",
+        "country": "French Guiana",
+        "province": "French Guiana",
+        "population": -1,
+        "latitude": 4.916455,
+        "longitude": -52.283296
+    },
+    {
+        "name": "Eutrope",
+        "country": "French Guiana",
+        "province": "French Guiana",
+        "population": -1,
+        "latitude": 4.922536,
+        "longitude": -52.275973
+    },
+    {
+        "name": "Les Balisiers",
+        "country": "French Guiana",
+        "province": "French Guiana",
+        "population": -1,
+        "latitude": 4.923632,
+        "longitude": -52.279282
+    },
+    {
+        "name": "Les Nénuphars",
+        "country": "French Guiana",
+        "province": "French Guiana",
+        "population": -1,
+        "latitude": 4.925426,
+        "longitude": -52.281415
+    },
+    {
+        "name": "Rattier",
+        "country": "French Guiana",
+        "province": "French Guiana",
+        "population": -1,
+        "latitude": 4.926642,
+        "longitude": -52.292139
+    },
+    {
+        "name": "Zabulon",
+        "country": "French Guiana",
+        "province": "French Guiana",
+        "population": -1,
+        "latitude": 4.930469,
+        "longitude": -52.293793
+    },
+    {
+        "name": "Les Cèdres",
+        "country": "French Guiana",
+        "province": "French Guiana",
+        "population": -1,
+        "latitude": 4.932188,
+        "longitude": -52.295409
+    },
+    {
+        "name": "Les Colibris",
+        "country": "French Guiana",
+        "province": "French Guiana",
+        "population": -1,
+        "latitude": 4.931785,
+        "longitude": -52.287753
+    },
+    {
+        "name": "Les Cigales",
+        "country": "French Guiana",
+        "province": "French Guiana",
+        "population": -1,
+        "latitude": 4.934805,
+        "longitude": -52.290335
+    },
+    {
+        "name": "Pacheco",
+        "country": "French Guiana",
+        "province": "French Guiana",
+        "population": -1,
+        "latitude": 4.937914,
+        "longitude": -52.290793
+    },
+    {
+        "name": "Lotissement Gippet",
+        "country": "French Guiana",
+        "province": "French Guiana",
+        "population": -1,
+        "latitude": 4.940984,
+        "longitude": -52.295836
+    },
+    {
+        "name": "Abchée",
+        "country": "French Guiana",
+        "province": "French Guiana",
+        "population": -1,
+        "latitude": 4.933031,
+        "longitude": -52.292547
+    },
+    {
+        "name": "Vitala",
+        "country": "French Guiana",
+        "province": "French Guiana",
+        "population": -1,
+        "latitude": 4.93636,
+        "longitude": -52.299364
+    },
+    {
+        "name": "Cité Zunève",
+        "country": "French Guiana",
+        "province": "French Guiana",
+        "population": -1,
+        "latitude": 4.940446,
+        "longitude": -52.298647
+    },
+    {
+        "name": "Encre",
+        "country": "French Guiana",
+        "province": "French Guiana",
+        "population": -1,
+        "latitude": 4.94241,
+        "longitude": -52.304399
+    },
+    {
+        "name": "Bernetel",
+        "country": "French Guiana",
+        "province": "French Guiana",
+        "population": -1,
+        "latitude": 4.940147,
+        "longitude": -52.303052
+    },
+    {
+        "name": "Cité de la Coulée d'Or",
+        "country": "French Guiana",
+        "province": "French Guiana",
+        "population": -1,
+        "latitude": 4.941144,
+        "longitude": -52.307418
+    },
+    {
+        "name": "Cité Massel",
+        "country": "French Guiana",
+        "province": "French Guiana",
+        "population": -1,
+        "latitude": 4.944896,
+        "longitude": -52.304383
+    },
+    {
+        "name": "Les Ibis",
+        "country": "French Guiana",
+        "province": "French Guiana",
+        "population": -1,
+        "latitude": 4.935497,
+        "longitude": -52.305018
+    },
+    {
+        "name": "Les Héliconias",
+        "country": "French Guiana",
+        "province": "French Guiana",
+        "population": -1,
+        "latitude": 4.930813,
+        "longitude": -52.304163
+    },
+    {
+        "name": "Le Mont Petit Lucas",
+        "country": "French Guiana",
+        "province": "French Guiana",
+        "population": -1,
+        "latitude": 4.921066,
+        "longitude": -52.301871
+    },
+    {
+        "name": "Palika",
+        "country": "French Guiana",
+        "province": "French Guiana",
+        "population": -1,
+        "latitude": 4.920228,
+        "longitude": -52.300157
+    },
+    {
+        "name": "Résidence Saint-Martin",
+        "country": "French Guiana",
+        "province": "French Guiana",
+        "population": -1,
+        "latitude": 4.917079,
+        "longitude": -52.298562
+    },
+    {
+        "name": "Lotissement la Rhumerie",
+        "country": "French Guiana",
+        "province": "French Guiana",
+        "population": -1,
+        "latitude": 4.868421,
+        "longitude": -52.32101
+    },
+    {
+        "name": "Abriba",
+        "country": "French Guiana",
+        "province": "French Guiana",
+        "population": -1,
+        "latitude": 4.89013,
+        "longitude": -52.338734
+    },
+    {
+        "name": "Les Orchidées",
+        "country": "French Guiana",
+        "province": "French Guiana",
+        "population": -1,
+        "latitude": 4.911896,
+        "longitude": -52.323338
+    },
+    {
+        "name": "Cité Mortins",
+        "country": "French Guiana",
+        "province": "French Guiana",
+        "population": -1,
+        "latitude": 4.915417,
+        "longitude": -52.326206
+    },
+    {
+        "name": "Panel",
+        "country": "French Guiana",
+        "province": "French Guiana",
+        "population": -1,
+        "latitude": 4.917419,
+        "longitude": -52.322068
+    },
+    {
+        "name": "Les Maringouins",
+        "country": "French Guiana",
+        "province": "French Guiana",
+        "population": -1,
+        "latitude": 4.910529,
+        "longitude": -52.320509
+    },
+    {
+        "name": "Mapaou",
+        "country": "French Guiana",
+        "province": "French Guiana",
+        "population": -1,
+        "latitude": 4.928225,
+        "longitude": -52.300783
+    },
+    {
+        "name": "Les Maripas",
+        "country": "French Guiana",
+        "province": "French Guiana",
+        "population": -1,
+        "latitude": 4.925569,
+        "longitude": -52.304767
+    },
+    {
+        "name": "Louise Elmire",
+        "country": "French Guiana",
+        "province": "French Guiana",
+        "population": -1,
+        "latitude": 4.923067,
+        "longitude": -52.305306
+    },
+    {
+        "name": "Bellony",
+        "country": "French Guiana",
+        "province": "French Guiana",
+        "population": -1,
+        "latitude": 4.92759,
+        "longitude": -52.308751
+    },
+    {
+        "name": "Patient",
+        "country": "French Guiana",
+        "province": "French Guiana",
+        "population": -1,
+        "latitude": 4.930342,
+        "longitude": -52.307634
+    },
+    {
+        "name": "Lotissement Cogneau",
+        "country": "French Guiana",
+        "province": "French Guiana",
+        "population": -1,
+        "latitude": 4.876201,
+        "longitude": -52.329687
+    },
+    {
+        "name": "Les Serres",
+        "country": "French Guiana",
+        "province": "French Guiana",
+        "population": -1,
+        "latitude": 4.880348,
+        "longitude": -52.361141
+    },
+    {
+        "name": "La Mescle",
+        "country": "French Guiana",
+        "province": "French Guiana",
+        "population": -1,
+        "latitude": 5.50684,
+        "longitude": -54.02415
+    },
+    {
+        "name": "Cité Aurore",
+        "country": "French Guiana",
+        "province": "French Guiana",
+        "population": -1,
+        "latitude": 5.494781,
+        "longitude": -54.029571
+    },
+    {
+        "name": "Route de Saint-Jean",
+        "country": "French Guiana",
+        "province": "French Guiana",
+        "population": -1,
+        "latitude": 5.437612,
+        "longitude": -54.037453
+    },
+    {
+        "name": "Village Boschs",
+        "country": "French Guiana",
+        "province": "French Guiana",
+        "population": -1,
+        "latitude": 5.4093,
+        "longitude": -54.081943
+    },
+    {
+        "name": "La Cloche",
+        "country": "French Guiana",
+        "province": "French Guiana",
+        "population": -1,
+        "latitude": 5.405032,
+        "longitude": -54.077675
+    },
+    {
+        "name": "Les Cerisiers",
+        "country": "French Guiana",
+        "province": "French Guiana",
+        "population": -1,
+        "latitude": 4.928777,
+        "longitude": -52.414457
+    },
+    {
+        "name": "Les Buissons Ardents",
+        "country": "French Guiana",
+        "province": "French Guiana",
+        "population": -1,
+        "latitude": 4.929494,
+        "longitude": -52.412729
+    },
+    {
+        "name": "Le Palmier",
+        "country": "French Guiana",
+        "province": "French Guiana",
+        "population": -1,
+        "latitude": 4.926575,
+        "longitude": -52.411059
+    },
+    {
+        "name": "Louis Ribal",
+        "country": "French Guiana",
+        "province": "French Guiana",
+        "population": -1,
+        "latitude": 4.930379,
+        "longitude": -52.413846
+    }
+]

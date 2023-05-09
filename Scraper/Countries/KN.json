@@ -1,0 +1,1034 @@
+[
+    {
+        "name": "Basseterre",
+        "country": "St Kitts and Nevis",
+        "province": "Saint George Basseterre",
+        "population": 12920,
+        "latitude": 17.2955,
+        "longitude": -62.72499
+    },
+    {
+        "name": "Market Shop",
+        "country": "St Kitts and Nevis",
+        "province": "Saint George Gingerland",
+        "population": 2568,
+        "latitude": 17.13218,
+        "longitude": -62.57267
+    },
+    {
+        "name": "Fig Tree",
+        "country": "St Kitts and Nevis",
+        "province": "Saint John Figtree",
+        "population": 2922,
+        "latitude": 17.12623,
+        "longitude": -62.60265
+    },
+    {
+        "name": "Trinity",
+        "country": "St Kitts and Nevis",
+        "province": "Trinity Palmetto Point",
+        "population": 1692,
+        "latitude": 17.30037,
+        "longitude": -62.77584
+    },
+    {
+        "name": "Saint Paul’s",
+        "country": "St Kitts and Nevis",
+        "province": "Saint Paul Capesterre",
+        "population": 2460,
+        "latitude": 17.40605,
+        "longitude": -62.83562
+    },
+    {
+        "name": "Nicola Town",
+        "country": "St Kitts and Nevis",
+        "province": "Christ Church Nichola Town",
+        "population": 2059,
+        "latitude": 17.37956,
+        "longitude": -62.75318
+    },
+    {
+        "name": "Middle Island",
+        "country": "St Kitts and Nevis",
+        "province": "Middle Island",
+        "population": 2332,
+        "latitude": 17.3259,
+        "longitude": -62.81055
+    },
+    {
+        "name": "Charlestown",
+        "country": "St Kitts and Nevis",
+        "province": "Saint Paul Charlestown",
+        "population": 1538,
+        "latitude": 17.1333333,
+        "longitude": -62.6166667
+    },
+    {
+        "name": "Sadlers",
+        "country": "St Kitts and Nevis",
+        "province": "Saint John Capesterre",
+        "population": 986,
+        "latitude": 17.40454,
+        "longitude": -62.79296
+    },
+    {
+        "name": "Cayon",
+        "country": "St Kitts and Nevis",
+        "province": "Saint Mary Cayon",
+        "population": 788,
+        "latitude": 17.35,
+        "longitude": -62.7333333
+    },
+    {
+        "name": "Sandy Point Town",
+        "country": "St Kitts and Nevis",
+        "province": "Saint Anne Sandy Point",
+        "population": 780,
+        "latitude": 17.35908,
+        "longitude": -62.84858
+    },
+    {
+        "name": "Newcastle",
+        "country": "St Kitts and Nevis",
+        "province": "Saint James Windwa",
+        "population": 493,
+        "latitude": 17.2,
+        "longitude": -62.5833333
+    },
+    {
+        "name": "Dieppe Bay Town",
+        "country": "St Kitts and Nevis",
+        "province": "Saint John Capesterre",
+        "population": 592,
+        "latitude": 17.41473,
+        "longitude": -62.8139
+    },
+    {
+        "name": "Cotton Ground",
+        "country": "St Kitts and Nevis",
+        "province": "Saint Thomas Lowland",
+        "population": 381,
+        "latitude": 17.1666667,
+        "longitude": -62.6166667
+    },
+    {
+        "name": "Tabernacle",
+        "country": "St Kitts and Nevis",
+        "province": "Saint John Capesterre",
+        "population": -1,
+        "latitude": 17.3866,
+        "longitude": -62.77386
+    },
+    {
+        "name": "Old Road Town",
+        "country": "St Kitts and Nevis",
+        "province": "Middle Island",
+        "population": -1,
+        "latitude": 17.32215,
+        "longitude": -62.80337
+    },
+    {
+        "name": "Newton Ground",
+        "country": "St Kitts and Nevis",
+        "province": "Saint Paul Capesterre",
+        "population": -1,
+        "latitude": 17.387605,
+        "longitude": -62.851966
+    },
+    {
+        "name": "Monkey Hill",
+        "country": "St Kitts and Nevis",
+        "province": "Saint Peter Basseterre",
+        "population": 592,
+        "latitude": 17.32327,
+        "longitude": -62.72914
+    },
+    {
+        "name": "Mannings",
+        "country": "St Kitts and Nevis",
+        "province": "Saint James Windwa",
+        "population": -1,
+        "latitude": 17.165177,
+        "longitude": -62.54899
+    },
+    {
+        "name": "Challengers",
+        "country": "St Kitts and Nevis",
+        "province": "Trinity Palmetto Point",
+        "population": -1,
+        "latitude": 17.30395,
+        "longitude": -62.78487
+    },
+    {
+        "name": "Brick Kiln",
+        "country": "St Kitts and Nevis",
+        "province": "Saint James Windwa",
+        "population": -1,
+        "latitude": 17.17532,
+        "longitude": -62.55345
+    },
+    {
+        "name": "Boyd’s",
+        "country": "St Kitts and Nevis",
+        "province": "Trinity Palmetto Point",
+        "population": 591,
+        "latitude": 17.29779,
+        "longitude": -62.77021
+    },
+    {
+        "name": "Bath",
+        "country": "St Kitts and Nevis",
+        "province": "Saint John Figtree",
+        "population": -1,
+        "latitude": 17.129862,
+        "longitude": -62.627127
+    },
+    {
+        "name": "Zion",
+        "country": "St Kitts and Nevis",
+        "province": "Saint George Gingerland",
+        "population": -1,
+        "latitude": 17.14157,
+        "longitude": -62.56109
+    },
+    {
+        "name": "Parry’s",
+        "country": "St Kitts and Nevis",
+        "province": "Saint Peter Basseterre",
+        "population": -1,
+        "latitude": 17.323386,
+        "longitude": -62.729767
+    },
+    {
+        "name": "Molineux",
+        "country": "St Kitts and Nevis",
+        "province": "Christ Church Nichola Town",
+        "population": -1,
+        "latitude": 17.369879,
+        "longitude": -62.75506
+    },
+    {
+        "name": "Low Ground Settlement",
+        "country": "St Kitts and Nevis",
+        "province": "Saint John Figtree",
+        "population": -1,
+        "latitude": 17.117345,
+        "longitude": -62.603991
+    },
+    {
+        "name": "Kit Stoddart",
+        "country": "St Kitts and Nevis",
+        "province": "Saint George Basseterre",
+        "population": -1,
+        "latitude": 17.29879,
+        "longitude": -62.72207
+    },
+    {
+        "name": "Buck’s Hill",
+        "country": "St Kitts and Nevis",
+        "province": "Saint George Gingerland",
+        "population": -1,
+        "latitude": 17.126249,
+        "longitude": -62.564025
+    },
+    {
+        "name": "Wingfield Manor",
+        "country": "St Kitts and Nevis",
+        "province": "Middle Island",
+        "population": -1,
+        "latitude": 17.3333333,
+        "longitude": -62.7833333
+    },
+    {
+        "name": "Trants",
+        "country": "St Kitts and Nevis",
+        "province": "Saint Paul Capesterre",
+        "population": -1,
+        "latitude": 17.3833333,
+        "longitude": -62.85
+    },
+    {
+        "name": "Stapleton",
+        "country": "St Kitts and Nevis",
+        "province": "Saint Peter Basseterre",
+        "population": -1,
+        "latitude": 17.326922,
+        "longitude": -62.730685
+    },
+    {
+        "name": "Sherriffs",
+        "country": "St Kitts and Nevis",
+        "province": "Saint George Gingerland",
+        "population": -1,
+        "latitude": 17.122023,
+        "longitude": -62.558938
+    },
+    {
+        "name": "Romneys",
+        "country": "St Kitts and Nevis",
+        "province": "Middle Island",
+        "population": -1,
+        "latitude": 17.3333333,
+        "longitude": -62.7833333
+    },
+    {
+        "name": "Phillips",
+        "country": "St Kitts and Nevis",
+        "province": "Christ Church Nichola Town",
+        "population": -1,
+        "latitude": 17.366087,
+        "longitude": -62.760577
+    },
+    {
+        "name": "Parson’s Ground",
+        "country": "St Kitts and Nevis",
+        "province": "Saint John Capesterre",
+        "population": -1,
+        "latitude": 17.40945,
+        "longitude": -62.80515
+    },
+    {
+        "name": "Ottley’s",
+        "country": "St Kitts and Nevis",
+        "province": "Saint Mary Cayon",
+        "population": -1,
+        "latitude": 17.36259,
+        "longitude": -62.743296
+    },
+    {
+        "name": "Ottley’s",
+        "country": "St Kitts and Nevis",
+        "province": "Trinity Palmetto Point",
+        "population": -1,
+        "latitude": 17.305032,
+        "longitude": -62.776336
+    },
+    {
+        "name": "Ogee’s",
+        "country": "St Kitts and Nevis",
+        "province": "Saint Peter Basseterre",
+        "population": -1,
+        "latitude": 17.330089,
+        "longitude": -62.733122
+    },
+    {
+        "name": "Mount Lily",
+        "country": "St Kitts and Nevis",
+        "province": "Saint James Windwa",
+        "population": -1,
+        "latitude": 17.186299,
+        "longitude": -62.584342
+    },
+    {
+        "name": "Maddens",
+        "country": "St Kitts and Nevis",
+        "province": "Saint James Windwa",
+        "population": -1,
+        "latitude": 17.1833333,
+        "longitude": -62.5333333
+    },
+    {
+        "name": "Lodge",
+        "country": "St Kitts and Nevis",
+        "province": "Saint Mary Cayon",
+        "population": -1,
+        "latitude": 17.363969,
+        "longitude": -62.747469
+    },
+    {
+        "name": "La Guérite",
+        "country": "St Kitts and Nevis",
+        "province": "Saint George Basseterre",
+        "population": -1,
+        "latitude": 17.3,
+        "longitude": -62.716667
+    },
+    {
+        "name": "Key",
+        "country": "St Kitts and Nevis",
+        "province": "Saint Mary Cayon",
+        "population": -1,
+        "latitude": 17.342127,
+        "longitude": -62.714159
+    },
+    {
+        "name": "Jessup",
+        "country": "St Kitts and Nevis",
+        "province": "Saint Thomas Lowland",
+        "population": -1,
+        "latitude": 17.162085,
+        "longitude": -62.620611
+    },
+    {
+        "name": "Houstons",
+        "country": "St Kitts and Nevis",
+        "province": "Saint John Capesterre",
+        "population": -1,
+        "latitude": 17.3833333,
+        "longitude": -62.7833333
+    },
+    {
+        "name": "Hick’s",
+        "country": "St Kitts and Nevis",
+        "province": "Saint James Windwa",
+        "population": -1,
+        "latitude": 17.18434,
+        "longitude": -62.55963
+    },
+    {
+        "name": "Hichmans",
+        "country": "St Kitts and Nevis",
+        "province": "Saint George Gingerland",
+        "population": -1,
+        "latitude": 17.137719,
+        "longitude": -62.554434
+    },
+    {
+        "name": "Hardtimes",
+        "country": "St Kitts and Nevis",
+        "province": "Saint George Gingerland",
+        "population": -1,
+        "latitude": 17.1333333,
+        "longitude": -62.55
+    },
+    {
+        "name": "Half Way Tree",
+        "country": "St Kitts and Nevis",
+        "province": "Middle Island",
+        "population": -1,
+        "latitude": 17.33294,
+        "longitude": -62.82472
+    },
+    {
+        "name": "Geagans",
+        "country": "St Kitts and Nevis",
+        "province": "Saint John Capesterre",
+        "population": -1,
+        "latitude": 17.3833333,
+        "longitude": -62.7833333
+    },
+    {
+        "name": "Fountain",
+        "country": "St Kitts and Nevis",
+        "province": "Saint James Windwa",
+        "population": -1,
+        "latitude": 17.181261,
+        "longitude": -62.591554
+    },
+    {
+        "name": "Fothergill",
+        "country": "St Kitts and Nevis",
+        "province": "Saint George Gingerland",
+        "population": -1,
+        "latitude": 17.15,
+        "longitude": -62.55
+    },
+    {
+        "name": "Craddocks",
+        "country": "St Kitts and Nevis",
+        "province": "Saint Anne Sandy Point",
+        "population": -1,
+        "latitude": 17.143541,
+        "longitude": -62.623093
+    },
+    {
+        "name": "Cox",
+        "country": "St Kitts and Nevis",
+        "province": "Saint John Figtree",
+        "population": -1,
+        "latitude": 17.121006,
+        "longitude": -62.583869
+    },
+    {
+        "name": "Cliftons",
+        "country": "St Kitts and Nevis",
+        "province": "Saint Paul Capesterre",
+        "population": -1,
+        "latitude": 17.4,
+        "longitude": -62.8
+    },
+    {
+        "name": "Cliftons",
+        "country": "St Kitts and Nevis",
+        "province": "Saint Thomas Lowland",
+        "population": -1,
+        "latitude": 17.1833333,
+        "longitude": -62.6
+    },
+    {
+        "name": "Canada",
+        "country": "St Kitts and Nevis",
+        "province": "Saint Peter Basseterre",
+        "population": -1,
+        "latitude": 17.3333333,
+        "longitude": -62.7
+    },
+    {
+        "name": "Butlers",
+        "country": "St Kitts and Nevis",
+        "province": "Saint James Windwa",
+        "population": -1,
+        "latitude": 17.166541,
+        "longitude": -62.550836
+    },
+    {
+        "name": "Brown Pasture",
+        "country": "St Kitts and Nevis",
+        "province": "Saint John Figtree",
+        "population": -1,
+        "latitude": 17.132286,
+        "longitude": -62.593304
+    },
+    {
+        "name": "Brownes",
+        "country": "St Kitts and Nevis",
+        "province": "Saint John Capesterre",
+        "population": -1,
+        "latitude": 17.4,
+        "longitude": -62.8
+    },
+    {
+        "name": "Brambles",
+        "country": "St Kitts and Nevis",
+        "province": "Saint John Capesterre",
+        "population": -1,
+        "latitude": 17.3833333,
+        "longitude": -62.7666667
+    },
+    {
+        "name": "Bourryau",
+        "country": "St Kitts and Nevis",
+        "province": "Christ Church Nichola Town",
+        "population": -1,
+        "latitude": 17.3833333,
+        "longitude": -62.7333333
+    },
+    {
+        "name": "Beaumont",
+        "country": "St Kitts and Nevis",
+        "province": "Saint John Figtree",
+        "population": -1,
+        "latitude": 17.124366,
+        "longitude": -62.581308
+    },
+    {
+        "name": "Bayford’s",
+        "country": "St Kitts and Nevis",
+        "province": "Saint Peter Basseterre",
+        "population": -1,
+        "latitude": 17.33433,
+        "longitude": -62.74871
+    },
+    {
+        "name": "Barnes Ghaut",
+        "country": "St Kitts and Nevis",
+        "province": "Saint Thomas Lowland",
+        "population": -1,
+        "latitude": 17.167787,
+        "longitude": -62.61087
+    },
+    {
+        "name": "Bachelors Hall",
+        "country": "St Kitts and Nevis",
+        "province": "Saint George Gingerland",
+        "population": -1,
+        "latitude": 17.1333333,
+        "longitude": -62.5166667
+    },
+    {
+        "name": "Zetlands",
+        "country": "St Kitts and Nevis",
+        "province": "Saint George Gingerland",
+        "population": -1,
+        "latitude": 17.138563,
+        "longitude": -62.575573
+    },
+    {
+        "name": "Whitehall",
+        "country": "St Kitts and Nevis",
+        "province": "Saint James Windwa",
+        "population": -1,
+        "latitude": 17.18055,
+        "longitude": -62.558338
+    },
+    {
+        "name": "Whitegate",
+        "country": "St Kitts and Nevis",
+        "province": "Saint Paul Capesterre",
+        "population": -1,
+        "latitude": 17.4166667,
+        "longitude": -62.8166667
+    },
+    {
+        "name": "Westbury",
+        "country": "St Kitts and Nevis",
+        "province": "Saint Thomas Lowland",
+        "population": -1,
+        "latitude": 17.182499,
+        "longitude": -62.607249
+    },
+    {
+        "name": "Webb’s Ground",
+        "country": "St Kitts and Nevis",
+        "province": "Saint George Gingerland",
+        "population": -1,
+        "latitude": 17.145165,
+        "longitude": -62.56057
+    },
+    {
+        "name": "Vaughans",
+        "country": "St Kitts and Nevis",
+        "province": "Saint Thomas Lowland",
+        "population": -1,
+        "latitude": 17.163654,
+        "longitude": -62.624508
+    },
+    {
+        "name": "Upper Conaree",
+        "country": "St Kitts and Nevis",
+        "province": "Saint Peter Basseterre",
+        "population": -1,
+        "latitude": 17.315029,
+        "longitude": -62.706972
+    },
+    {
+        "name": "Taylors Pasture",
+        "country": "St Kitts and Nevis",
+        "province": "Saint George Gingerland",
+        "population": -1,
+        "latitude": 17.130266,
+        "longitude": -62.574587
+    },
+    {
+        "name": "Stuart’s",
+        "country": "St Kitts and Nevis",
+        "province": "Saint Thomas Lowland",
+        "population": -1,
+        "latitude": 17.157874,
+        "longitude": -62.614896
+    },
+    {
+        "name": "Stonyhill",
+        "country": "St Kitts and Nevis",
+        "province": "Saint George Gingerland",
+        "population": -1,
+        "latitude": 17.14313,
+        "longitude": -62.566754
+    },
+    {
+        "name": "Scarborough",
+        "country": "St Kitts and Nevis",
+        "province": "Saint James Windwa",
+        "population": -1,
+        "latitude": 17.193642,
+        "longitude": -62.579896
+    },
+    {
+        "name": "Saint Peter’s",
+        "country": "St Kitts and Nevis",
+        "province": "Saint Peter Basseterre",
+        "population": -1,
+        "latitude": 17.316072,
+        "longitude": -62.72902
+    },
+    {
+        "name": "Rices",
+        "country": "St Kitts and Nevis",
+        "province": "Saint George Gingerland",
+        "population": -1,
+        "latitude": 17.128278,
+        "longitude": -62.562448
+    },
+    {
+        "name": "Rawlins",
+        "country": "St Kitts and Nevis",
+        "province": "Saint James Windwa",
+        "population": -1,
+        "latitude": 17.195221,
+        "longitude": -62.582875
+    },
+    {
+        "name": "Rawlins",
+        "country": "St Kitts and Nevis",
+        "province": "Saint George Gingerland",
+        "population": -1,
+        "latitude": 17.143887,
+        "longitude": -62.571763
+    },
+    {
+        "name": "Pond Hill",
+        "country": "St Kitts and Nevis",
+        "province": "Saint John Figtree",
+        "population": -1,
+        "latitude": 17.128147,
+        "longitude": -62.581965
+    },
+    {
+        "name": "Pembroke",
+        "country": "St Kitts and Nevis",
+        "province": "Saint John Figtree",
+        "population": -1,
+        "latitude": 17.115911,
+        "longitude": -62.600063
+    },
+    {
+        "name": "Ortons",
+        "country": "St Kitts and Nevis",
+        "province": "Saint Paul Capesterre",
+        "population": -1,
+        "latitude": 17.3833333,
+        "longitude": -62.8333333
+    },
+    {
+        "name": "New River",
+        "country": "St Kitts and Nevis",
+        "province": "Saint George Gingerland",
+        "population": -1,
+        "latitude": 17.14526,
+        "longitude": -62.552656
+    },
+    {
+        "name": "Montpelier",
+        "country": "St Kitts and Nevis",
+        "province": "Saint John Figtree",
+        "population": -1,
+        "latitude": 17.1166667,
+        "longitude": -62.5833333
+    },
+    {
+        "name": "Maynards Ground",
+        "country": "St Kitts and Nevis",
+        "province": "Saint George Gingerland",
+        "population": -1,
+        "latitude": 17.12805,
+        "longitude": -62.572473
+    },
+    {
+        "name": "Mardenbrough",
+        "country": "St Kitts and Nevis",
+        "province": "Saint Peter Basseterre",
+        "population": -1,
+        "latitude": 17.3166667,
+        "longitude": -62.7166667
+    },
+    {
+        "name": "Mansion",
+        "country": "St Kitts and Nevis",
+        "province": "Christ Church Nichola Town",
+        "population": 690,
+        "latitude": 17.38271,
+        "longitude": -62.75747
+    },
+    {
+        "name": "Lucas",
+        "country": "St Kitts and Nevis",
+        "province": "Saint John Capesterre",
+        "population": -1,
+        "latitude": 17.3,
+        "longitude": -62.7
+    },
+    {
+        "name": "Limekiln",
+        "country": "St Kitts and Nevis",
+        "province": "Saint George Basseterre",
+        "population": -1,
+        "latitude": 17.2833333,
+        "longitude": -62.7333333
+    },
+    {
+        "name": "Kittitian Village",
+        "country": "St Kitts and Nevis",
+        "province": "Saint Peter Basseterre",
+        "population": -1,
+        "latitude": 17.29082,
+        "longitude": -62.68687
+    },
+    {
+        "name": "John England Village",
+        "country": "St Kitts and Nevis",
+        "province": "Saint Peter Basseterre",
+        "population": -1,
+        "latitude": 17.320972,
+        "longitude": -62.729008
+    },
+    {
+        "name": "Jack in the Box",
+        "country": "St Kitts and Nevis",
+        "province": "Saint Mary Cayon",
+        "population": -1,
+        "latitude": 17.35,
+        "longitude": -62.7333333
+    },
+    {
+        "name": "Hull Ground",
+        "country": "St Kitts and Nevis",
+        "province": "Saint George Gingerland",
+        "population": -1,
+        "latitude": 17.141371,
+        "longitude": -62.57334
+    },
+    {
+        "name": "Holmes Hill",
+        "country": "St Kitts and Nevis",
+        "province": "Saint George Gingerland",
+        "population": -1,
+        "latitude": 17.119191,
+        "longitude": -62.558141
+    },
+    {
+        "name": "Hermitage",
+        "country": "St Kitts and Nevis",
+        "province": "Saint George Gingerland",
+        "population": -1,
+        "latitude": 17.132885,
+        "longitude": -62.581263
+    },
+    {
+        "name": "Hermitage",
+        "country": "St Kitts and Nevis",
+        "province": "Saint Mary Cayon",
+        "population": -1,
+        "latitude": 17.3666667,
+        "longitude": -62.7166667
+    },
+    {
+        "name": "Heldens",
+        "country": "St Kitts and Nevis",
+        "province": "Saint Paul Capesterre",
+        "population": -1,
+        "latitude": 17.40552,
+        "longitude": -62.83678
+    },
+    {
+        "name": "Harris",
+        "country": "St Kitts and Nevis",
+        "province": "Saint George Gingerland",
+        "population": -1,
+        "latitude": 17.146301,
+        "longitude": -62.55874
+    },
+    {
+        "name": "Harris",
+        "country": "St Kitts and Nevis",
+        "province": "Saint John Capesterre",
+        "population": -1,
+        "latitude": 17.40275,
+        "longitude": -62.78747
+    },
+    {
+        "name": "Greatheeds",
+        "country": "St Kitts and Nevis",
+        "province": "Saint Peter Basseterre",
+        "population": -1,
+        "latitude": 17.3166667,
+        "longitude": -62.7
+    },
+    {
+        "name": "Golden Rock",
+        "country": "St Kitts and Nevis",
+        "province": "Saint Peter Basseterre",
+        "population": -1,
+        "latitude": 17.3166667,
+        "longitude": -62.7166667
+    },
+    {
+        "name": "Gingerland",
+        "country": "St Kitts and Nevis",
+        "province": "Saint George Gingerland",
+        "population": 493,
+        "latitude": 17.13517,
+        "longitude": -62.56928
+    },
+    {
+        "name": "Fig Tree",
+        "country": "St Kitts and Nevis",
+        "province": "Saint Anne Sandy Point",
+        "population": -1,
+        "latitude": 17.36735,
+        "longitude": -62.85755
+    },
+    {
+        "name": "Fenton Hill",
+        "country": "St Kitts and Nevis",
+        "province": "Saint George Gingerland",
+        "population": -1,
+        "latitude": 17.13895,
+        "longitude": -62.564861
+    },
+    {
+        "name": "Douglas",
+        "country": "St Kitts and Nevis",
+        "province": "Saint Peter Basseterre",
+        "population": -1,
+        "latitude": 17.3166667,
+        "longitude": -62.7166667
+    },
+    {
+        "name": "Dalzells",
+        "country": "St Kitts and Nevis",
+        "province": "Saint Mary Cayon",
+        "population": -1,
+        "latitude": 17.35,
+        "longitude": -62.7
+    },
+    {
+        "name": "Crook’s Ground",
+        "country": "St Kitts and Nevis",
+        "province": "Saint George Gingerland",
+        "population": -1,
+        "latitude": 17.128752,
+        "longitude": -62.567929
+    },
+    {
+        "name": "Cole Hill",
+        "country": "St Kitts and Nevis",
+        "province": "Saint John Figtree",
+        "population": -1,
+        "latitude": 17.127332,
+        "longitude": -62.587971
+    },
+    {
+        "name": "Church Ground",
+        "country": "St Kitts and Nevis",
+        "province": "Saint John Figtree",
+        "population": -1,
+        "latitude": 17.132665,
+        "longitude": -62.599527
+    },
+    {
+        "name": "Chicken Stone",
+        "country": "St Kitts and Nevis",
+        "province": "Saint George Gingerland",
+        "population": -1,
+        "latitude": 17.131781,
+        "longitude": -62.579627
+    },
+    {
+        "name": "Camps",
+        "country": "St Kitts and Nevis",
+        "province": "Saint James Windwa",
+        "population": -1,
+        "latitude": 17.196959,
+        "longitude": -62.576375
+    },
+    {
+        "name": "Burts",
+        "country": "St Kitts and Nevis",
+        "province": "Saint Anne Sandy Point",
+        "population": -1,
+        "latitude": 17.3666667,
+        "longitude": -62.8166667
+    },
+    {
+        "name": "Burnaby",
+        "country": "St Kitts and Nevis",
+        "province": "Saint James Windwa",
+        "population": -1,
+        "latitude": 17.19623,
+        "longitude": -62.572687
+    },
+    {
+        "name": "Brumaire",
+        "country": "St Kitts and Nevis",
+        "province": "Saint George Basseterre",
+        "population": -1,
+        "latitude": 17.3,
+        "longitude": -62.7333333
+    },
+    {
+        "name": "Brown Hill",
+        "country": "St Kitts and Nevis",
+        "province": "Saint John Figtree",
+        "population": -1,
+        "latitude": 17.121423,
+        "longitude": -62.602027
+    },
+    {
+        "name": "Barnabys Village",
+        "country": "St Kitts and Nevis",
+        "province": "Saint James Windwa",
+        "population": -1,
+        "latitude": 17.2,
+        "longitude": -62.55
+    },
+    {
+        "name": "Fortlands",
+        "country": "St Kitts and Nevis",
+        "province": "St Kitts and Nevis",
+        "population": -1,
+        "latitude": 17.29156,
+        "longitude": -62.73344
+    },
+    {
+        "name": "Beach Road",
+        "country": "St Kitts and Nevis",
+        "province": "Saint John Figtree",
+        "population": -1,
+        "latitude": 17.130143,
+        "longitude": -62.587854
+    },
+    {
+        "name": "Potwork Settlement",
+        "country": "St Kitts and Nevis",
+        "province": "Saint James Windwa",
+        "population": -1,
+        "latitude": 17.193733,
+        "longitude": -62.567439
+    },
+    {
+        "name": "Nisbett Settlement",
+        "country": "St Kitts and Nevis",
+        "province": "Saint James Windwa",
+        "population": -1,
+        "latitude": 17.203764,
+        "longitude": -62.581566
+    },
+    {
+        "name": "Stoney Hill",
+        "country": "St Kitts and Nevis",
+        "province": "Saint John Figtree",
+        "population": -1,
+        "latitude": 17.13573,
+        "longitude": -62.57596
+    },
+    {
+        "name": "Hermitage Estate",
+        "country": "St Kitts and Nevis",
+        "province": "Saint Mary Cayon",
+        "population": -1,
+        "latitude": 17.35258,
+        "longitude": -62.7333
+    },
+    {
+        "name": "Belle Vue",
+        "country": "St Kitts and Nevis",
+        "province": "Saint John Capesterre",
+        "population": -1,
+        "latitude": 17.40192,
+        "longitude": -62.78056
+    },
+    {
+        "name": "Burdon Pasture",
+        "country": "St Kitts and Nevis",
+        "province": "Saint John Figtree",
+        "population": -1,
+        "latitude": 17.136275,
+        "longitude": -62.593289
+    },
+    {
+        "name": "Bird Rock",
+        "country": "St Kitts and Nevis",
+        "province": "Saint George Basseterre",
+        "population": -1,
+        "latitude": 17.28855,
+        "longitude": -62.705474
+    },
+    {
+        "name": "Grape Tree Bottom",
+        "country": "St Kitts and Nevis",
+        "province": "Saint George Basseterre",
+        "population": -1,
+        "latitude": 17.265897,
+        "longitude": -62.66336
+    }
+]

@@ -1,0 +1,114 @@
+[
+    {
+        "name": "Meyerton pre-WW2",
+        "country": "U.S. Outlying Islands",
+        "province": "Baker Island",
+        "population": -1,
+        "latitude": 0.194041358047076,
+        "longitude": -176.48407459259
+    },
+    {
+        "name": "Itascatown pre-WW2",
+        "country": "U.S. Outlying Islands",
+        "province": "Howland Island",
+        "population": -1,
+        "latitude": 0.807758036819732,
+        "longitude": -176.618496179581
+    },
+    {
+        "name": "Johnston",
+        "country": "U.S. Outlying Islands",
+        "province": "Johnston Atoll",
+        "population": -1,
+        "latitude": 16.7314,
+        "longitude": -169.52775
+    },
+    {
+        "name": "Midway",
+        "country": "U.S. Outlying Islands",
+        "province": "Midway Islands",
+        "population": -1,
+        "latitude": 28.21222,
+        "longitude": -177.37515
+    },
+    {
+        "name": "Wake",
+        "country": "U.S. Outlying Islands",
+        "province": "Wake Island",
+        "population": -1,
+        "latitude": 19.30434,
+        "longitude": 166.63612
+    },
+    {
+        "name": "Baker",
+        "country": "U.S. Outlying Islands",
+        "province": "Baker Island",
+        "population": -1,
+        "latitude": 0.19471,
+        "longitude": -176.47644
+    },
+    {
+        "name": "Jarvis",
+        "country": "U.S. Outlying Islands",
+        "province": "Jarvis Island",
+        "population": -1,
+        "latitude": -0.3719,
+        "longitude": -159.99321
+    },
+    {
+        "name": "Palmyra",
+        "country": "U.S. Outlying Islands",
+        "province": "Palmyra Atoll",
+        "population": -1,
+        "latitude": 5.88977,
+        "longitude": -162.07563
+    },
+    {
+        "name": "Kamakaiwi Field",
+        "country": "U.S. Outlying Islands",
+        "province": "Howland Island",
+        "population": -1,
+        "latitude": 0.80343,
+        "longitude": -176.61698
+    },
+    {
+        "name": "Navassa II",
+        "country": "U.S. Outlying Islands",
+        "province": "Navassa Island",
+        "population": -1,
+        "latitude": 18.39704,
+        "longitude": -75.00839
+    },
+    {
+        "name": "Kingman",
+        "country": "U.S. Outlying Islands",
+        "province": "Kingman Reef",
+        "population": -1,
+        "latitude": 6.38225,
+        "longitude": -162.36726
+    },
+    {
+        "name": "Navassa",
+        "country": "U.S. Outlying Islands",
+        "province": "UM,US,HT",
+        "population": -1,
+        "latitude": 18.39884,
+        "longitude": -75.01117
+    },
+    {
+        "name": "Millersville - pre-WW2 settlement",
+        "country": "U.S. Outlying Islands",
+        "province": "Jarvis Island",
+        "population": -1,
+        "latitude": -0.370265648468887,
+        "longitude": -160.00452876091
+    },
+    {
+        "name": "Kingman Reef",
+        "country": "U.S. Outlying Islands",
+        "province": "Kingman Reef",
+        "population": -1,
+        "latitude": 6.39948,
+        "longitude": -162.40015
+    }
+]

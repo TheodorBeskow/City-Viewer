@@ -1,0 +1,2634 @@
+[
+    {
+        "name": "Praia",
+        "country": "Cabo Verde",
+        "province": "Praia",
+        "population": 113364,
+        "latitude": 14.931516073431668,
+        "longitude": -23.512544631958008
+    },
+    {
+        "name": "Mindelo",
+        "country": "Cabo Verde",
+        "province": "São Vicente",
+        "population": 70611,
+        "latitude": 16.8901381018901,
+        "longitude": -24.9804210662842
+    },
+    {
+        "name": "Santa Maria",
+        "country": "Cabo Verde",
+        "province": "Sal",
+        "population": 17231,
+        "latitude": 16.59796,
+        "longitude": -22.90509
+    },
+    {
+        "name": "Cova Figueira",
+        "country": "Cabo Verde",
+        "province": "Santa Catarina do Fogo",
+        "population": 15350,
+        "latitude": 14.890543480225526,
+        "longitude": -24.293432235717773
+    },
+    {
+        "name": "São Filipe",
+        "country": "Cabo Verde",
+        "province": "São Filipe",
+        "population": 8189,
+        "latitude": 14.8961009490472,
+        "longitude": -24.4955635070801
+    },
+    {
+        "name": "Santa Cruz",
+        "country": "Cabo Verde",
+        "province": "Santa Cruz",
+        "population": 9488,
+        "latitude": 15.133333,
+        "longitude": -23.566667
+    },
+    {
+        "name": "Pedra Badejo",
+        "country": "Cabo Verde",
+        "province": "Santa Cruz",
+        "population": 9343,
+        "latitude": 15.1375,
+        "longitude": -23.530833
+    },
+    {
+        "name": "Tarrafal",
+        "country": "Cabo Verde",
+        "province": "Tarrafal",
+        "population": 6463,
+        "latitude": 15.27881,
+        "longitude": -23.75192
+    },
+    {
+        "name": "Assomada",
+        "country": "Cabo Verde",
+        "province": "Santa Catarina",
+        "population": 7927,
+        "latitude": 15.1,
+        "longitude": -23.683333
+    },
+    {
+        "name": "Espargos",
+        "country": "Cabo Verde",
+        "province": "Sal",
+        "population": 6173,
+        "latitude": 16.75523542151515,
+        "longitude": -22.944602966308594
+    },
+    {
+        "name": "Vila do Maio",
+        "country": "Cabo Verde",
+        "province": "Maio",
+        "population": 3009,
+        "latitude": 15.13823,
+        "longitude": -23.21158
+    },
+    {
+        "name": "Cidade Velha",
+        "country": "Cabo Verde",
+        "province": "Ribeira Grande de Santiago",
+        "population": 2148,
+        "latitude": 14.91531,
+        "longitude": -23.60527
+    },
+    {
+        "name": "Nova Sintra",
+        "country": "Cabo Verde",
+        "province": "Brava",
+        "population": 1813,
+        "latitude": 14.871389,
+        "longitude": -24.695556
+    },
+    {
+        "name": "Ribeira Brava",
+        "country": "Cabo Verde",
+        "province": "Ribeira Brava",
+        "population": 5324,
+        "latitude": 16.615833,
+        "longitude": -24.298333
+    },
+    {
+        "name": "Tarrafal de São Nicolau",
+        "country": "Cabo Verde",
+        "province": "Tarrafal de São Nicolau",
+        "population": 5039,
+        "latitude": 16.56622,
+        "longitude": -24.35793
+    },
+    {
+        "name": "São Domingos",
+        "country": "Cabo Verde",
+        "province": "São Domingos",
+        "population": 1850,
+        "latitude": 15.0243804389107,
+        "longitude": -23.5624980926514
+    },
+    {
+        "name": "Sal Rei",
+        "country": "Cabo Verde",
+        "province": "Boa Vista",
+        "population": 2122,
+        "latitude": 16.176111,
+        "longitude": -22.917222
+    },
+    {
+        "name": "Ribeira Grande",
+        "country": "Cabo Verde",
+        "province": "Ribeira Grande",
+        "population": 2950,
+        "latitude": 17.1825,
+        "longitude": -25.065
+    },
+    {
+        "name": "Pombas",
+        "country": "Cabo Verde",
+        "province": "Paul",
+        "population": 1818,
+        "latitude": 17.150256,
+        "longitude": -25.020066
+    },
+    {
+        "name": "Picos",
+        "country": "Cabo Verde",
+        "province": "São Salvador do Mundo",
+        "population": 3778,
+        "latitude": 15.083601845939768,
+        "longitude": -23.63236427307129
+    },
+    {
+        "name": "Calheta",
+        "country": "Cabo Verde",
+        "province": "São Miguel",
+        "population": 5400,
+        "latitude": 15.186133108874342,
+        "longitude": -23.592281341552734
+    },
+    {
+        "name": "Porto Novo",
+        "country": "Cabo Verde",
+        "province": "Porto Novo",
+        "population": 5580,
+        "latitude": 17.01969189529198,
+        "longitude": -25.064706802368164
+    },
+    {
+        "name": "Ponta do Sol",
+        "country": "Cabo Verde",
+        "province": "Ribeira Grande",
+        "population": 4064,
+        "latitude": 17.20171,
+        "longitude": -25.09217
+    },
+    {
+        "name": "João Teves",
+        "country": "Cabo Verde",
+        "province": "São Lourenço dos Órgãos",
+        "population": -1,
+        "latitude": 15.066944,
+        "longitude": -23.589167
+    },
+    {
+        "name": "Vinagre",
+        "country": "Cabo Verde",
+        "province": "Brava",
+        "population": -1,
+        "latitude": 14.866667,
+        "longitude": -24.7
+    },
+    {
+        "name": "Vila Nova",
+        "country": "Cabo Verde",
+        "province": "Praia",
+        "population": -1,
+        "latitude": 14.933333,
+        "longitude": -23.516667
+    },
+    {
+        "name": "Vicente Dias",
+        "country": "Cabo Verde",
+        "province": "São Filipe",
+        "population": -1,
+        "latitude": 14.883333,
+        "longitude": -24.466667
+    },
+    {
+        "name": "Vale da Gusta",
+        "country": "Cabo Verde",
+        "province": "São Domingos",
+        "population": -1,
+        "latitude": 14.99049,
+        "longitude": -23.47253
+    },
+    {
+        "name": "Tras-os-Montes",
+        "country": "Cabo Verde",
+        "province": "Tarrafal",
+        "population": -1,
+        "latitude": 15.3,
+        "longitude": -23.716667
+    },
+    {
+        "name": "Tarrafal",
+        "country": "Cabo Verde",
+        "province": "Porto Novo",
+        "population": -1,
+        "latitude": 16.95868,
+        "longitude": -25.31036
+    },
+    {
+        "name": "Sinagoga",
+        "country": "Cabo Verde",
+        "province": "Ribeira Grande",
+        "population": -1,
+        "latitude": 17.17618,
+        "longitude": -25.033301
+    },
+    {
+        "name": "Serrado",
+        "country": "Cabo Verde",
+        "province": "São Filipe",
+        "population": -1,
+        "latitude": 14.916667,
+        "longitude": -24.466667
+    },
+    {
+        "name": "São Pedro",
+        "country": "Cabo Verde",
+        "province": "São Vicente",
+        "population": -1,
+        "latitude": 16.8307,
+        "longitude": -25.07049
+    },
+    {
+        "name": "São Jorge",
+        "country": "Cabo Verde",
+        "province": "Boa Vista",
+        "population": -1,
+        "latitude": 16.066667,
+        "longitude": -22.816667
+    },
+    {
+        "name": "São Jorge",
+        "country": "Cabo Verde",
+        "province": "São Filipe",
+        "population": -1,
+        "latitude": 15.016667,
+        "longitude": -24.433333
+    },
+    {
+        "name": "Santo António",
+        "country": "Cabo Verde",
+        "province": "Maio",
+        "population": -1,
+        "latitude": 15.26719,
+        "longitude": -23.11376
+    },
+    {
+        "name": "Santa Bárbara",
+        "country": "Cabo Verde",
+        "province": "Brava",
+        "population": -1,
+        "latitude": 14.883333,
+        "longitude": -24.7
+    },
+    {
+        "name": "Salamansa",
+        "country": "Cabo Verde",
+        "province": "São Vicente",
+        "population": -1,
+        "latitude": 16.90313,
+        "longitude": -24.9436
+    },
+    {
+        "name": "Rui Vaz",
+        "country": "Cabo Verde",
+        "province": "Praia",
+        "population": -1,
+        "latitude": 15.0352396196466,
+        "longitude": -23.5998344421387
+    },
+    {
+        "name": "Ribeira Ilhéu",
+        "country": "Cabo Verde",
+        "province": "Mosteiros",
+        "population": -1,
+        "latitude": 15.033333,
+        "longitude": -24.383333
+    },
+    {
+        "name": "Ribeira Funda",
+        "country": "Cabo Verde",
+        "province": "Tarrafal de São Nicolau",
+        "population": -1,
+        "latitude": 16.67464,
+        "longitude": -24.33539
+    },
+    {
+        "name": "Ribeira dos Calhaus",
+        "country": "Cabo Verde",
+        "province": "Tarrafal de São Nicolau",
+        "population": -1,
+        "latitude": 16.633333,
+        "longitude": -24.366667
+    },
+    {
+        "name": "Ribeira da Prata",
+        "country": "Cabo Verde",
+        "province": "Tarrafal",
+        "population": -1,
+        "latitude": 15.22948,
+        "longitude": -23.74534
+    },
+    {
+        "name": "Ribeira da Cruz",
+        "country": "Cabo Verde",
+        "province": "Porto Novo",
+        "population": -1,
+        "latitude": 17.116667,
+        "longitude": -25.25
+    },
+    {
+        "name": "Ribeira da Barca",
+        "country": "Cabo Verde",
+        "province": "Santa Catarina",
+        "population": -1,
+        "latitude": 15.13737,
+        "longitude": -23.75945
+    },
+    {
+        "name": "Relva",
+        "country": "Cabo Verde",
+        "province": "Mosteiros",
+        "population": -1,
+        "latitude": 14.983333,
+        "longitude": -24.316667
+    },
+    {
+        "name": "Rabil",
+        "country": "Cabo Verde",
+        "province": "Boa Vista",
+        "population": -1,
+        "latitude": 16.12977,
+        "longitude": -22.88667
+    },
+    {
+        "name": "Queimadas",
+        "country": "Cabo Verde",
+        "province": "Ribeira Brava",
+        "population": -1,
+        "latitude": 16.633333,
+        "longitude": -24.316667
+    },
+    {
+        "name": "Preguiça",
+        "country": "Cabo Verde",
+        "province": "Sal",
+        "population": -1,
+        "latitude": 16.780054200323086,
+        "longitude": -22.92945384979248
+    },
+    {
+        "name": "Preguiça",
+        "country": "Cabo Verde",
+        "province": "Ribeira Brava",
+        "population": -1,
+        "latitude": 16.56311,
+        "longitude": -24.28086
+    },
+    {
+        "name": "Praia Branca",
+        "country": "Cabo Verde",
+        "province": "Tarrafal de São Nicolau",
+        "population": -1,
+        "latitude": 16.65,
+        "longitude": -24.4
+    },
+    {
+        "name": "Praia Baixo",
+        "country": "Cabo Verde",
+        "province": "São Domingos",
+        "population": -1,
+        "latitude": 15.066667,
+        "longitude": -23.483333
+    },
+    {
+        "name": "Povoação Velha",
+        "country": "Cabo Verde",
+        "province": "Boa Vista",
+        "population": -1,
+        "latitude": 16.033333,
+        "longitude": -22.916667
+    },
+    {
+        "name": "Porto Rincão",
+        "country": "Cabo Verde",
+        "province": "Santa Catarina",
+        "population": -1,
+        "latitude": 15.06115,
+        "longitude": -23.76475
+    },
+    {
+        "name": "Porto Gouveia",
+        "country": "Cabo Verde",
+        "province": "Ribeira Grande de Santiago",
+        "population": -1,
+        "latitude": 14.93882,
+        "longitude": -23.66504
+    },
+    {
+        "name": "Igreja",
+        "country": "Cabo Verde",
+        "province": "Mosteiros",
+        "population": 477,
+        "latitude": 15.033889,
+        "longitude": -24.325
+    },
+    {
+        "name": "Pedro Vaz",
+        "country": "Cabo Verde",
+        "province": "Maio",
+        "population": -1,
+        "latitude": 15.24777,
+        "longitude": -23.11542
+    },
+    {
+        "name": "Pedra Lume",
+        "country": "Cabo Verde",
+        "province": "Sal",
+        "population": -1,
+        "latitude": 16.76376210562471,
+        "longitude": -22.8934907913208
+    },
+    {
+        "name": "Patim",
+        "country": "Cabo Verde",
+        "province": "São Filipe",
+        "population": -1,
+        "latitude": 14.87308,
+        "longitude": -24.42602
+    },
+    {
+        "name": "Palmeira",
+        "country": "Cabo Verde",
+        "province": "Sal",
+        "population": -1,
+        "latitude": 16.75753663656081,
+        "longitude": -22.983484268188477
+    },
+    {
+        "name": "Palhal",
+        "country": "Cabo Verde",
+        "province": "Tarrafal de São Nicolau",
+        "population": -1,
+        "latitude": 16.616667,
+        "longitude": -24.35
+    },
+    {
+        "name": "Palha Carga",
+        "country": "Cabo Verde",
+        "province": "São Miguel",
+        "population": -1,
+        "latitude": 15.216667,
+        "longitude": -23.666667
+    },
+    {
+        "name": "Nossa Senhora do Monte",
+        "country": "Cabo Verde",
+        "province": "Brava",
+        "population": -1,
+        "latitude": 14.85,
+        "longitude": -24.716667
+    },
+    {
+        "name": "Morro",
+        "country": "Cabo Verde",
+        "province": "Maio",
+        "population": -1,
+        "latitude": 15.17998,
+        "longitude": -23.22251
+    },
+    {
+        "name": "Morrinho",
+        "country": "Cabo Verde",
+        "province": "Maio",
+        "population": -1,
+        "latitude": 15.26591,
+        "longitude": -23.20441
+    },
+    {
+        "name": "Morre Braz",
+        "country": "Cabo Verde",
+        "province": "Ribeira Brava",
+        "population": -1,
+        "latitude": 16.63341,
+        "longitude": -24.19412
+    },
+    {
+        "name": "Montanha",
+        "country": "Cabo Verde",
+        "province": "São Lourenço dos Órgãos",
+        "population": -1,
+        "latitude": 15.083333,
+        "longitude": -23.6
+    },
+    {
+        "name": "Achada Monte",
+        "country": "Cabo Verde",
+        "province": "São Miguel",
+        "population": -1,
+        "latitude": 15.233333,
+        "longitude": -23.65
+    },
+    {
+        "name": "Madeiral",
+        "country": "Cabo Verde",
+        "province": "São Vicente",
+        "population": -1,
+        "latitude": 16.833333,
+        "longitude": -24.95
+    },
+    {
+        "name": "Lazareto",
+        "country": "Cabo Verde",
+        "province": "São Vicente",
+        "population": -1,
+        "latitude": 16.87642,
+        "longitude": -25.02183
+    },
+    {
+        "name": "Lagariça",
+        "country": "Cabo Verde",
+        "province": "São Filipe",
+        "population": -1,
+        "latitude": 14.916667,
+        "longitude": -24.466667
+    },
+    {
+        "name": "Juncalinho",
+        "country": "Cabo Verde",
+        "province": "Ribeira Brava",
+        "population": -1,
+        "latitude": 16.61371,
+        "longitude": -24.13165
+    },
+    {
+        "name": "João Galego",
+        "country": "Cabo Verde",
+        "province": "Boa Vista",
+        "population": -1,
+        "latitude": 16.15,
+        "longitude": -22.75
+    },
+    {
+        "name": "Pontinha da Janela",
+        "country": "Cabo Verde",
+        "province": "Paul",
+        "population": -1,
+        "latitude": 17.1203,
+        "longitude": -24.9864
+    },
+    {
+        "name": "Gata",
+        "country": "Cabo Verde",
+        "province": "Boa Vista",
+        "population": -1,
+        "latitude": 16.2,
+        "longitude": -22.716667
+    },
+    {
+        "name": "Galinheiro",
+        "country": "Cabo Verde",
+        "province": "São Filipe",
+        "population": -1,
+        "latitude": 15,
+        "longitude": -24.45
+    },
+    {
+        "name": "Furna",
+        "country": "Cabo Verde",
+        "province": "Brava",
+        "population": -1,
+        "latitude": 14.887,
+        "longitude": -24.68093
+    },
+    {
+        "name": "Fundo das Figueiras",
+        "country": "Cabo Verde",
+        "province": "Boa Vista",
+        "population": -1,
+        "latitude": 16.15,
+        "longitude": -22.733333
+    },
+    {
+        "name": "Fonte Aleixo",
+        "country": "Cabo Verde",
+        "province": "Santa Catarina do Fogo",
+        "population": -1,
+        "latitude": 14.833333,
+        "longitude": -24.366667
+    },
+    {
+        "name": "Fontainhas",
+        "country": "Cabo Verde",
+        "province": "Ribeira Grande",
+        "population": -1,
+        "latitude": 17.183333,
+        "longitude": -25.1
+    },
+    {
+        "name": "Figueira Pavão",
+        "country": "Cabo Verde",
+        "province": "Santa Catarina do Fogo",
+        "population": -1,
+        "latitude": 14.87113268879198,
+        "longitude": -24.31102752685547
+    },
+    {
+        "name": "Figueira das Naus",
+        "country": "Cabo Verde",
+        "province": "Santa Catarina",
+        "population": -1,
+        "latitude": 15.183333,
+        "longitude": -23.733333
+    },
+    {
+        "name": "Figueira da Horta",
+        "country": "Cabo Verde",
+        "province": "Maio",
+        "population": -1,
+        "latitude": 15.15988,
+        "longitude": -23.15186
+    },
+    {
+        "name": "Feijoal",
+        "country": "Cabo Verde",
+        "province": "Sal",
+        "population": -1,
+        "latitude": 16.7527,
+        "longitude": -22.90244
+    },
+    {
+        "name": "Fajãzinha",
+        "country": "Cabo Verde",
+        "province": "Mosteiros",
+        "population": -1,
+        "latitude": 15.05,
+        "longitude": -24.35
+    },
+    {
+        "name": "Estância Brás",
+        "country": "Cabo Verde",
+        "province": "Ribeira Brava",
+        "population": -1,
+        "latitude": 16.66801,
+        "longitude": -24.31919
+    },
+    {
+        "name": "Espingueira",
+        "country": "Cabo Verde",
+        "province": "Boa Vista",
+        "population": -1,
+        "latitude": 16.216667,
+        "longitude": -22.8
+    },
+    {
+        "name": "Curral Velho",
+        "country": "Cabo Verde",
+        "province": "Boa Vista",
+        "population": -1,
+        "latitude": 15.983333,
+        "longitude": -22.8
+    },
+    {
+        "name": "Curral",
+        "country": "Cabo Verde",
+        "province": "Ribeira Grande",
+        "population": -1,
+        "latitude": 17.166667,
+        "longitude": -25.116667
+    },
+    {
+        "name": "Cruzinha",
+        "country": "Cabo Verde",
+        "province": "Ribeira Grande",
+        "population": -1,
+        "latitude": 17.166667,
+        "longitude": -25.166667
+    },
+    {
+        "name": "Covoada",
+        "country": "Cabo Verde",
+        "province": "Ribeira Brava",
+        "population": -1,
+        "latitude": 16.65,
+        "longitude": -24.35
+    },
+    {
+        "name": "Corvo",
+        "country": "Cabo Verde",
+        "province": "Mosteiros",
+        "population": -1,
+        "latitude": 15,
+        "longitude": -24.316667
+    },
+    {
+        "name": "Chã da Igreja",
+        "country": "Cabo Verde",
+        "province": "Ribeira Grande",
+        "population": -1,
+        "latitude": 17.166667,
+        "longitude": -25.166667
+    },
+    {
+        "name": "Cascabulho",
+        "country": "Cabo Verde",
+        "province": "Maio",
+        "population": -1,
+        "latitude": 15.27004,
+        "longitude": -23.17264
+    },
+    {
+        "name": "Carvoeiros",
+        "country": "Cabo Verde",
+        "province": "Ribeira Brava",
+        "population": -1,
+        "latitude": 16.64927,
+        "longitude": -24.30141
+    },
+    {
+        "name": "Carriçal",
+        "country": "Cabo Verde",
+        "province": "Ribeira Brava",
+        "population": -1,
+        "latitude": 16.55454,
+        "longitude": -24.08148
+    },
+    {
+        "name": "Calheta",
+        "country": "Cabo Verde",
+        "province": "Maio",
+        "population": -1,
+        "latitude": 15.23043,
+        "longitude": -23.21406
+    },
+    {
+        "name": "Calhau",
+        "country": "Cabo Verde",
+        "province": "São Vicente",
+        "population": -1,
+        "latitude": 16.85219,
+        "longitude": -24.86687
+    },
+    {
+        "name": "Calejão",
+        "country": "Cabo Verde",
+        "province": "Tarrafal de São Nicolau",
+        "population": -1,
+        "latitude": 16.6,
+        "longitude": -24.316667
+    },
+    {
+        "name": "Cachaço",
+        "country": "Cabo Verde",
+        "province": "Brava",
+        "population": -1,
+        "latitude": 14.83727,
+        "longitude": -24.69559
+    },
+    {
+        "name": "Cabeço dos Tarafes",
+        "country": "Cabo Verde",
+        "province": "Boa Vista",
+        "population": -1,
+        "latitude": 16.133333,
+        "longitude": -22.733333
+    },
+    {
+        "name": "Cabeçalinho",
+        "country": "Cabo Verde",
+        "province": "Tarrafal de São Nicolau",
+        "population": -1,
+        "latitude": 16.6,
+        "longitude": -24.316667
+    },
+    {
+        "name": "Bofareira",
+        "country": "Cabo Verde",
+        "province": "Boa Vista",
+        "population": -1,
+        "latitude": 16.183333,
+        "longitude": -22.833333
+    },
+    {
+        "name": "Barreiro",
+        "country": "Cabo Verde",
+        "province": "Maio",
+        "population": -1,
+        "latitude": 15.13532,
+        "longitude": -23.16116
+    },
+    {
+        "name": "Atalaia",
+        "country": "Cabo Verde",
+        "province": "Mosteiros",
+        "population": -1,
+        "latitude": 15.033333,
+        "longitude": -24.4
+    },
+    {
+        "name": "Alcatraz",
+        "country": "Cabo Verde",
+        "province": "Maio",
+        "population": -1,
+        "latitude": 15.21736,
+        "longitude": -23.10407
+    },
+    {
+        "name": "Achada Grande",
+        "country": "Cabo Verde",
+        "province": "Mosteiros",
+        "population": -1,
+        "latitude": 14.983333,
+        "longitude": -24.316667
+    },
+    {
+        "name": "Barril",
+        "country": "Cabo Verde",
+        "province": "Tarrafal de São Nicolau",
+        "population": -1,
+        "latitude": 16.60079,
+        "longitude": -24.41129
+    },
+    {
+        "name": "Cachaco",
+        "country": "Cabo Verde",
+        "province": "Cabo Verde",
+        "population": -1,
+        "latitude": 16.620566025575677,
+        "longitude": -24.335403442382812
+    },
+    {
+        "name": "Faja de Baixo",
+        "country": "Cabo Verde",
+        "province": "Cabo Verde",
+        "population": -1,
+        "latitude": 16.648691643971052,
+        "longitude": -24.32373046875
+    },
+    {
+        "name": "Monte Grande",
+        "country": "Cabo Verde",
+        "province": "Cabo Verde",
+        "population": -1,
+        "latitude": 14.88951,
+        "longitude": -24.40636
+    },
+    {
+        "name": "Achada Furna",
+        "country": "Cabo Verde",
+        "province": "Cabo Verde",
+        "population": -1,
+        "latitude": 14.87234,
+        "longitude": -24.35841
+    },
+    {
+        "name": "Cancelo",
+        "country": "Cabo Verde",
+        "province": "Cabo Verde",
+        "population": -1,
+        "latitude": 15.149,
+        "longitude": -23.567
+    },
+    {
+        "name": "Ponta Verde",
+        "country": "Cabo Verde",
+        "province": "Cabo Verde",
+        "population": -1,
+        "latitude": 15.199184,
+        "longitude": -23.600028
+    },
+    {
+        "name": "Tira Chapeu",
+        "country": "Cabo Verde",
+        "province": "Cabo Verde",
+        "population": -1,
+        "latitude": 14.9138889,
+        "longitude": -23.5227778
+    },
+    {
+        "name": "Achada Leitão",
+        "country": "Cabo Verde",
+        "province": "Cabo Verde",
+        "population": -1,
+        "latitude": 15.097,
+        "longitude": -23.618
+    },
+    {
+        "name": "Lameirao",
+        "country": "Cabo Verde",
+        "province": "Cabo Verde",
+        "population": -1,
+        "latitude": 16.879972,
+        "longitude": -24.96182
+    },
+    {
+        "name": "Fazenda",
+        "country": "Cabo Verde",
+        "province": "Cabo Verde",
+        "population": -1,
+        "latitude": 14.9255,
+        "longitude": -23.5078
+    },
+    {
+        "name": "Alto Mira",
+        "country": "Cabo Verde",
+        "province": "Porto Novo",
+        "population": -1,
+        "latitude": 17.1,
+        "longitude": -25.217
+    },
+    {
+        "name": "Campanas de Baixo",
+        "country": "Cabo Verde",
+        "province": "Cabo Verde",
+        "population": -1,
+        "latitude": 15.01613,
+        "longitude": -24.40853
+    },
+    {
+        "name": "Boa Entrada",
+        "country": "Cabo Verde",
+        "province": "Cabo Verde",
+        "population": -1,
+        "latitude": 15.115,
+        "longitude": -23.668
+    },
+    {
+        "name": "Achada Santo Antonio",
+        "country": "Cabo Verde",
+        "province": "Cabo Verde",
+        "population": -1,
+        "latitude": 14.9108025,
+        "longitude": -23.5262025
+    },
+    {
+        "name": "Lomba",
+        "country": "Cabo Verde",
+        "province": "Cabo Verde",
+        "population": -1,
+        "latitude": 14.969,
+        "longitude": -24.45
+    },
+    {
+        "name": "Achada Lem",
+        "country": "Cabo Verde",
+        "province": "Santa Catarina",
+        "population": -1,
+        "latitude": 15.138669,
+        "longitude": -23.677747
+    },
+    {
+        "name": "Eito",
+        "country": "Cabo Verde",
+        "province": "Cabo Verde",
+        "population": -1,
+        "latitude": 17.143,
+        "longitude": -25.024
+    },
+    {
+        "name": "Cha de Tanque",
+        "country": "Cabo Verde",
+        "province": "Cabo Verde",
+        "population": -1,
+        "latitude": 15.0922,
+        "longitude": -23.7024
+    },
+    {
+        "name": "Corda",
+        "country": "Cabo Verde",
+        "province": "Cabo Verde",
+        "population": -1,
+        "latitude": 17.136,
+        "longitude": -25.088
+    },
+    {
+        "name": "Cha das Caldeiras",
+        "country": "Cabo Verde",
+        "province": "Santa Catarina do Fogo",
+        "population": -1,
+        "latitude": 14.93333,
+        "longitude": -24.3666
+    },
+    {
+        "name": "Ribeira Alta",
+        "country": "Cabo Verde",
+        "province": "Cabo Verde",
+        "population": -1,
+        "latitude": 17.15,
+        "longitude": -25.2
+    },
+    {
+        "name": "Ribeirao Manuel",
+        "country": "Cabo Verde",
+        "province": "Cabo Verde",
+        "population": -1,
+        "latitude": 15.1077,
+        "longitude": -23.7053
+    },
+    {
+        "name": "Ribeira Principal",
+        "country": "Cabo Verde",
+        "province": "Cabo Verde",
+        "population": -1,
+        "latitude": 15.20376,
+        "longitude": -23.672113
+    },
+    {
+        "name": "Ribeira Dom João",
+        "country": "Cabo Verde",
+        "province": "Cabo Verde",
+        "population": -1,
+        "latitude": 15.14415,
+        "longitude": -23.12153
+    },
+    {
+        "name": "Pilao Cao",
+        "country": "Cabo Verde",
+        "province": "Cabo Verde",
+        "population": -1,
+        "latitude": 15.20863,
+        "longitude": -23.10493
+    },
+    {
+        "name": "Porto Mosquito",
+        "country": "Cabo Verde",
+        "province": "Ribeira Grande de Santiago",
+        "population": -1,
+        "latitude": 14.95085,
+        "longitude": -23.68457
+    },
+    {
+        "name": "Urzeleiro",
+        "country": "Cabo Verde",
+        "province": "Porto Novo",
+        "population": -1,
+        "latitude": 17.083333,
+        "longitude": -25.2
+    },
+    {
+        "name": "Santiago",
+        "country": "Cabo Verde",
+        "province": "Santa Cruz",
+        "population": -1,
+        "latitude": 15.133333,
+        "longitude": -23.533333
+    },
+    {
+        "name": "Ponta Adiante",
+        "country": "Cabo Verde",
+        "province": "Boa Vista",
+        "population": -1,
+        "latitude": 16.183333,
+        "longitude": -22.85
+    },
+    {
+        "name": "Igreja",
+        "country": "Cabo Verde",
+        "province": "Mosteiros",
+        "population": -1,
+        "latitude": 15.033333,
+        "longitude": -24.333333
+    },
+    {
+        "name": "Garça de Cima",
+        "country": "Cabo Verde",
+        "province": "Cabo Verde",
+        "population": -1,
+        "latitude": 17.114,
+        "longitude": -25.165
+    },
+    {
+        "name": "Palmarejo",
+        "country": "Cabo Verde",
+        "province": "Cabo Verde",
+        "population": -1,
+        "latitude": 14.9097969,
+        "longitude": -23.5305262
+    },
+    {
+        "name": "Achada Grande Frente",
+        "country": "Cabo Verde",
+        "province": "Cabo Verde",
+        "population": -1,
+        "latitude": 14.9192624,
+        "longitude": -23.503039
+    },
+    {
+        "name": "Coculi",
+        "country": "Cabo Verde",
+        "province": "Cabo Verde",
+        "population": -1,
+        "latitude": 17.165,
+        "longitude": -25.098
+    },
+    {
+        "name": "Lem Ferreira",
+        "country": "Cabo Verde",
+        "province": "Cabo Verde",
+        "population": -1,
+        "latitude": 14.92181,
+        "longitude": -23.50224
+    },
+    {
+        "name": "Tongon",
+        "country": "Cabo Verde",
+        "province": "São Filipe",
+        "population": -1,
+        "latitude": 14.916667,
+        "longitude": -24.483333
+    },
+    {
+        "name": "Tarrafal",
+        "country": "Cabo Verde",
+        "province": "Ribeira Grande",
+        "population": -1,
+        "latitude": 17.186347,
+        "longitude": -25.06951
+    },
+    {
+        "name": "Ribeira Prata",
+        "country": "Cabo Verde",
+        "province": "Tarrafal de São Nicolau",
+        "population": -1,
+        "latitude": 16.65,
+        "longitude": -24.366667
+    },
+    {
+        "name": "Pai Amaro",
+        "country": "Cabo Verde",
+        "province": "Boa Vista",
+        "population": -1,
+        "latitude": 16.033333,
+        "longitude": -22.733333
+    },
+    {
+        "name": "Meio de Espanha",
+        "country": "Cabo Verde",
+        "province": "Ribeira Grande",
+        "population": -1,
+        "latitude": 17.133333,
+        "longitude": -25.2
+    },
+    {
+        "name": "Mateuzinho",
+        "country": "Cabo Verde",
+        "province": "São Vicente",
+        "population": -1,
+        "latitude": 16.85988,
+        "longitude": -24.93559
+    },
+    {
+        "name": "Mão para Trás",
+        "country": "Cabo Verde",
+        "province": "Ribeira Grande",
+        "population": -1,
+        "latitude": 17.185416,
+        "longitude": -25.067232
+    },
+    {
+        "name": "Lugar Novo",
+        "country": "Cabo Verde",
+        "province": "São Filipe",
+        "population": -1,
+        "latitude": 14.933333,
+        "longitude": -24.483333
+    },
+    {
+        "name": "Lombo de Galinha",
+        "country": "Cabo Verde",
+        "province": "Ribeira Grande",
+        "population": -1,
+        "latitude": 17.133333,
+        "longitude": -25.216667
+    },
+    {
+        "name": "Lagoa Atrás",
+        "country": "Cabo Verde",
+        "province": "Mosteiros",
+        "population": -1,
+        "latitude": 15.016667,
+        "longitude": -24.333333
+    },
+    {
+        "name": "João Barrosa",
+        "country": "Cabo Verde",
+        "province": "Boa Vista",
+        "population": -1,
+        "latitude": 16.016667,
+        "longitude": -22.75
+    },
+    {
+        "name": "Inhuco",
+        "country": "Cabo Verde",
+        "province": "São Filipe",
+        "population": -1,
+        "latitude": 14.933333,
+        "longitude": -24.45
+    },
+    {
+        "name": "Fajãzinha",
+        "country": "Cabo Verde",
+        "province": "Ribeira Grande",
+        "population": -1,
+        "latitude": 17.15,
+        "longitude": -25.166667
+    },
+    {
+        "name": "Dacabalaio",
+        "country": "Cabo Verde",
+        "province": "Santa Catarina do Fogo",
+        "population": -1,
+        "latitude": 14.85620012230873,
+        "longitude": -24.331884384155273
+    },
+    {
+        "name": "Chão Queimado",
+        "country": "Cabo Verde",
+        "province": "Porto Novo",
+        "population": -1,
+        "latitude": 17.083333,
+        "longitude": -25.2
+    },
+    {
+        "name": "Chã do Morto",
+        "country": "Cabo Verde",
+        "province": "Porto Novo",
+        "population": -1,
+        "latitude": 17.05,
+        "longitude": -25.216667
+    },
+    {
+        "name": "Chã de Vazinha",
+        "country": "Cabo Verde",
+        "province": "Ribeira Grande",
+        "population": -1,
+        "latitude": 17.15,
+        "longitude": -25.2
+    },
+    {
+        "name": "Chã de Queimada",
+        "country": "Cabo Verde",
+        "province": "Ribeira Grande",
+        "population": -1,
+        "latitude": 17.15,
+        "longitude": -25.2
+    },
+    {
+        "name": "Chacha",
+        "country": "Cabo Verde",
+        "province": "São Miguel",
+        "population": -1,
+        "latitude": 15.2,
+        "longitude": -23.666667
+    },
+    {
+        "name": "Água das Fortes",
+        "country": "Cabo Verde",
+        "province": "Porto Novo",
+        "population": -1,
+        "latitude": 16.966667,
+        "longitude": -25.216667
+    },
+    {
+        "name": "Cruz de João d´Évora",
+        "country": "Cabo Verde",
+        "province": "Cabo Verde",
+        "population": -1,
+        "latitude": 16.88979,
+        "longitude": -24.98015
+    },
+    {
+        "name": "Vila Maria Pia",
+        "country": "Cabo Verde",
+        "province": "Ribeira Grande",
+        "population": -1,
+        "latitude": 17.19631,
+        "longitude": -25.09269
+    },
+    {
+        "name": "Trindade",
+        "country": "Cabo Verde",
+        "province": "Praia",
+        "population": -1,
+        "latitude": 14.95,
+        "longitude": -23.566667
+    },
+    {
+        "name": "Torno d’Água",
+        "country": "Cabo Verde",
+        "province": "Tarrafal de São Nicolau",
+        "population": -1,
+        "latitude": 16.616667,
+        "longitude": -24.366667
+    },
+    {
+        "name": "Toril",
+        "country": "Cabo Verde",
+        "province": "Tarrafal",
+        "population": -1,
+        "latitude": 15.3,
+        "longitude": -23.716667
+    },
+    {
+        "name": "Telha",
+        "country": "Cabo Verde",
+        "province": "Tarrafal de São Nicolau",
+        "population": -1,
+        "latitude": 16.56201,
+        "longitude": -24.35592
+    },
+    {
+        "name": "Tabuga",
+        "country": "Cabo Verde",
+        "province": "Porto Novo",
+        "population": -1,
+        "latitude": 17.016667,
+        "longitude": -25.2
+    },
+    {
+        "name": "Tabuadinha",
+        "country": "Cabo Verde",
+        "province": "Porto Novo",
+        "population": -1,
+        "latitude": 17.083333,
+        "longitude": -25.166667
+    },
+    {
+        "name": "Seladinha",
+        "country": "Cabo Verde",
+        "province": "Porto Novo",
+        "population": -1,
+        "latitude": 16.95902,
+        "longitude": -25.30381
+    },
+    {
+        "name": "Selada do Mocho",
+        "country": "Cabo Verde",
+        "province": "Ribeira Grande",
+        "population": -1,
+        "latitude": 17.15,
+        "longitude": -25.166667
+    },
+    {
+        "name": "Selada",
+        "country": "Cabo Verde",
+        "province": "Porto Novo",
+        "population": -1,
+        "latitude": 17.1,
+        "longitude": -25.266667
+    },
+    {
+        "name": "São Martinho",
+        "country": "Cabo Verde",
+        "province": "Ribeira Grande de Santiago",
+        "population": -1,
+        "latitude": 14.916667,
+        "longitude": -23.583333
+    },
+    {
+        "name": "São João",
+        "country": "Cabo Verde",
+        "province": "Ribeira Grande de Santiago",
+        "population": -1,
+        "latitude": 14.94651,
+        "longitude": -23.66008
+    },
+    {
+        "name": "Sambango",
+        "country": "Cabo Verde",
+        "province": "Mosteiros",
+        "population": -1,
+        "latitude": 15.05,
+        "longitude": -24.35
+    },
+    {
+        "name": "Sacramento",
+        "country": "Cabo Verde",
+        "province": "São Domingos",
+        "population": -1,
+        "latitude": 15.05,
+        "longitude": -23.566667
+    },
+    {
+        "name": "Ribeira Vermelha",
+        "country": "Cabo Verde",
+        "province": "Porto Novo",
+        "population": -1,
+        "latitude": 17.083333,
+        "longitude": -25.283333
+    },
+    {
+        "name": "Ribeirão Sal",
+        "country": "Cabo Verde",
+        "province": "Tarrafal",
+        "population": -1,
+        "latitude": 15.233333,
+        "longitude": -23.683333
+    },
+    {
+        "name": "Ribeirão Chiqueiro",
+        "country": "Cabo Verde",
+        "province": "São Domingos",
+        "population": -1,
+        "latitude": 15.016667,
+        "longitude": -23.533333
+    },
+    {
+        "name": "Ribeira Fria",
+        "country": "Cabo Verde",
+        "province": "Porto Novo",
+        "population": -1,
+        "latitude": 17.05,
+        "longitude": -25.166667
+    },
+    {
+        "name": "Reguinho",
+        "country": "Cabo Verde",
+        "province": "Sal",
+        "population": -1,
+        "latitude": 16.84953,
+        "longitude": -22.91595
+    },
+    {
+        "name": "Queimado",
+        "country": "Cabo Verde",
+        "province": "Porto Novo",
+        "population": -1,
+        "latitude": 16.983333,
+        "longitude": -25.233333
+    },
+    {
+        "name": "Prazeres",
+        "country": "Cabo Verde",
+        "province": "Boa Vista",
+        "population": -1,
+        "latitude": 16,
+        "longitude": -22.816667
+    },
+    {
+        "name": "Prainha",
+        "country": "Cabo Verde",
+        "province": "Sal",
+        "population": -1,
+        "latitude": 16.6,
+        "longitude": -22.916667
+    },
+    {
+        "name": "Portal",
+        "country": "Cabo Verde",
+        "province": "Tarrafal",
+        "population": -1,
+        "latitude": 15.25,
+        "longitude": -23.716667
+    },
+    {
+        "name": "Ponta São Francisco",
+        "country": "Cabo Verde",
+        "province": "Praia",
+        "population": -1,
+        "latitude": 14.983333,
+        "longitude": -23.5
+    },
+    {
+        "name": "Ponta da Cruz",
+        "country": "Cabo Verde",
+        "province": "São Vicente",
+        "population": -1,
+        "latitude": 16.74633,
+        "longitude": -24.74546
+    },
+    {
+        "name": "Pinto",
+        "country": "Cabo Verde",
+        "province": "Porto Novo",
+        "population": -1,
+        "latitude": 17.083333,
+        "longitude": -25.166667
+    },
+    {
+        "name": "Pinchossa",
+        "country": "Cabo Verde",
+        "province": "São Miguel",
+        "population": -1,
+        "latitude": 15.166667,
+        "longitude": -23.6
+    },
+    {
+        "name": "Perdia",
+        "country": "Cabo Verde",
+        "province": "Porto Novo",
+        "population": -1,
+        "latitude": 17.1,
+        "longitude": -25.033333
+    },
+    {
+        "name": "Penteada",
+        "country": "Cabo Verde",
+        "province": "São Filipe",
+        "population": -1,
+        "latitude": 14.883333,
+        "longitude": -24.466667
+    },
+    {
+        "name": "Penha de França",
+        "country": "Cabo Verde",
+        "province": "Ribeira Grande",
+        "population": -1,
+        "latitude": 17.18888,
+        "longitude": -25.07323
+    },
+    {
+        "name": "Pedrinha",
+        "country": "Cabo Verde",
+        "province": "Porto Novo",
+        "population": -1,
+        "latitude": 16.95848,
+        "longitude": -25.14919
+    },
+    {
+        "name": "Pau",
+        "country": "Cabo Verde",
+        "province": "Brava",
+        "population": -1,
+        "latitude": 14.85,
+        "longitude": -24.733333
+    },
+    {
+        "name": "Palha Verde",
+        "country": "Cabo Verde",
+        "province": "Sal",
+        "population": -1,
+        "latitude": 16.666667,
+        "longitude": -22.933333
+    },
+    {
+        "name": "Pai Joana",
+        "country": "Cabo Verde",
+        "province": "Maio",
+        "population": -1,
+        "latitude": 15.25801,
+        "longitude": -23.10977
+    },
+    {
+        "name": "Ortelão",
+        "country": "Cabo Verde",
+        "province": "Tarrafal de São Nicolau",
+        "population": -1,
+        "latitude": 16.616667,
+        "longitude": -24.366667
+    },
+    {
+        "name": "Órgãos",
+        "country": "Cabo Verde",
+        "province": "São Lourenço dos Órgãos",
+        "population": -1,
+        "latitude": 15.066667,
+        "longitude": -23.616667
+    },
+    {
+        "name": "Nora",
+        "country": "Cabo Verde",
+        "province": "São Domingos",
+        "population": -1,
+        "latitude": 15.016667,
+        "longitude": -23.55
+    },
+    {
+        "name": "Nhã Marco",
+        "country": "Cabo Verde",
+        "province": "Sal",
+        "population": -1,
+        "latitude": 16.7,
+        "longitude": -22.95
+    },
+    {
+        "name": "Morro Alto",
+        "country": "Cabo Verde",
+        "province": "Ribeira Brava",
+        "population": -1,
+        "latitude": 16.616667,
+        "longitude": -24.183333
+    },
+    {
+        "name": "Morrinho d’Égua",
+        "country": "Cabo Verde",
+        "province": "Porto Novo",
+        "population": -1,
+        "latitude": 17.1,
+        "longitude": -25.266667
+    },
+    {
+        "name": "Morrinho",
+        "country": "Cabo Verde",
+        "province": "Porto Novo",
+        "population": -1,
+        "latitude": 16.966667,
+        "longitude": -25.233333
+    },
+    {
+        "name": "Montinho",
+        "country": "Cabo Verde",
+        "province": "Tarrafal",
+        "population": -1,
+        "latitude": 15.216667,
+        "longitude": -23.716667
+    },
+    {
+        "name": "Monte Vermelho",
+        "country": "Cabo Verde",
+        "province": "Santa Catarina do Fogo",
+        "population": -1,
+        "latitude": 14.833333,
+        "longitude": -24.333333
+    },
+    {
+        "name": "Monte Joana",
+        "country": "Cabo Verde",
+        "province": "Ribeira Grande",
+        "population": -1,
+        "latitude": 17.150522,
+        "longitude": -25.062486
+    },
+    {
+        "name": "Montão",
+        "country": "Cabo Verde",
+        "province": "Tarrafal",
+        "population": -1,
+        "latitude": 15.25,
+        "longitude": -23.716667
+    },
+    {
+        "name": "Montagarro",
+        "country": "Cabo Verde",
+        "province": "Praia",
+        "population": -1,
+        "latitude": 14.95,
+        "longitude": -23.516667
+    },
+    {
+        "name": "Moia Moia",
+        "country": "Cabo Verde",
+        "province": "São Domingos",
+        "population": -1,
+        "latitude": 15.016667,
+        "longitude": -23.466667
+    },
+    {
+        "name": "Moerão",
+        "country": "Cabo Verde",
+        "province": "Tarrafal",
+        "population": -1,
+        "latitude": 15.25,
+        "longitude": -23.716667
+    },
+    {
+        "name": "Mira-Mira",
+        "country": "Cabo Verde",
+        "province": "São Filipe",
+        "population": -1,
+        "latitude": 14.966667,
+        "longitude": -24.45
+    },
+    {
+        "name": "Miguel Pires",
+        "country": "Cabo Verde",
+        "province": "Porto Novo",
+        "population": -1,
+        "latitude": 17.083333,
+        "longitude": -25.233333
+    },
+    {
+        "name": "Mato Correia",
+        "country": "Cabo Verde",
+        "province": "São Miguel",
+        "population": -1,
+        "latitude": 15.2,
+        "longitude": -23.65
+    },
+    {
+        "name": "Massapé",
+        "country": "Cabo Verde",
+        "province": "Tarrafal",
+        "population": -1,
+        "latitude": 15.233333,
+        "longitude": -23.7
+    },
+    {
+        "name": "Martiana",
+        "country": "Cabo Verde",
+        "province": "Porto Novo",
+        "population": -1,
+        "latitude": 17.1,
+        "longitude": -25.25
+    },
+    {
+        "name": "Malveira",
+        "country": "Cabo Verde",
+        "province": "Santa Catarina",
+        "population": -1,
+        "latitude": 15.133333,
+        "longitude": -23.716667
+    },
+    {
+        "name": "Luzia Nunes",
+        "country": "Cabo Verde",
+        "province": "São Filipe",
+        "population": -1,
+        "latitude": 14.87472,
+        "longitude": -24.43984
+    },
+    {
+        "name": "Lombo do Mar",
+        "country": "Cabo Verde",
+        "province": "Ribeira Grande",
+        "population": -1,
+        "latitude": 17.116667,
+        "longitude": -25.166667
+    },
+    {
+        "name": "Lombo de Figueira",
+        "country": "Cabo Verde",
+        "province": "Porto Novo",
+        "population": -1,
+        "latitude": 17.1,
+        "longitude": -25.066667
+    },
+    {
+        "name": "Lombo da Torre",
+        "country": "Cabo Verde",
+        "province": "Porto Novo",
+        "population": -1,
+        "latitude": 17,
+        "longitude": -25.216667
+    },
+    {
+        "name": "Lombo das Danças",
+        "country": "Cabo Verde",
+        "province": "Porto Novo",
+        "population": -1,
+        "latitude": 16.983333,
+        "longitude": -25.216667
+    },
+    {
+        "name": "Leiro",
+        "country": "Cabo Verde",
+        "province": "Porto Novo",
+        "population": -1,
+        "latitude": 17,
+        "longitude": -25.2
+    },
+    {
+        "name": "Lapa Cachorro",
+        "country": "Cabo Verde",
+        "province": "Tarrafal",
+        "population": -1,
+        "latitude": 15.266667,
+        "longitude": -23.7
+    },
+    {
+        "name": "Lagoa",
+        "country": "Cabo Verde",
+        "province": "Maio",
+        "population": -1,
+        "latitude": 15.12905,
+        "longitude": -23.15186
+    },
+    {
+        "name": "João Daninha",
+        "country": "Cabo Verde",
+        "province": "Porto Novo",
+        "population": -1,
+        "latitude": 16.966667,
+        "longitude": -25.233333
+    },
+    {
+        "name": "Italiano",
+        "country": "Cabo Verde",
+        "province": "São Filipe",
+        "population": -1,
+        "latitude": 14.966667,
+        "longitude": -24.466667
+    },
+    {
+        "name": "Ilhéu",
+        "country": "Cabo Verde",
+        "province": "São Miguel",
+        "population": -1,
+        "latitude": 15.2,
+        "longitude": -23.633333
+    },
+    {
+        "name": "Garça",
+        "country": "Cabo Verde",
+        "province": "Brava",
+        "population": -1,
+        "latitude": 14.866667,
+        "longitude": -24.7
+    },
+    {
+        "name": "Fundura",
+        "country": "Cabo Verde",
+        "province": "Santa Catarina",
+        "population": -1,
+        "latitude": 15.166667,
+        "longitude": -23.7
+    },
+    {
+        "name": "Forno",
+        "country": "Cabo Verde",
+        "province": "São Filipe",
+        "population": -1,
+        "latitude": 14.883333,
+        "longitude": -24.45
+    },
+    {
+        "name": "Fontainhas",
+        "country": "Cabo Verde",
+        "province": "Tarrafal de São Nicolau",
+        "population": -1,
+        "latitude": 16.583333,
+        "longitude": -24.333333
+    },
+    {
+        "name": "Fogão",
+        "country": "Cabo Verde",
+        "province": "Boa Vista",
+        "population": -1,
+        "latitude": 16.083333,
+        "longitude": -22.85
+    },
+    {
+        "name": "Fiura",
+        "country": "Cabo Verde",
+        "province": "Sal",
+        "population": -1,
+        "latitude": 16.85116,
+        "longitude": -22.91485
+    },
+    {
+        "name": "Figueira Seca",
+        "country": "Cabo Verde",
+        "province": "Maio",
+        "population": -1,
+        "latitude": 15.15624,
+        "longitude": -23.1448
+    },
+    {
+        "name": "Figueiras de Cimas",
+        "country": "Cabo Verde",
+        "province": "Ribeira Grande",
+        "population": -1,
+        "latitude": 17.133333,
+        "longitude": -25.2
+    },
+    {
+        "name": "Figueiras de Baixo",
+        "country": "Cabo Verde",
+        "province": "Ribeira Grande",
+        "population": -1,
+        "latitude": 17.15,
+        "longitude": -25.216667
+    },
+    {
+        "name": "Figueira de Coxe",
+        "country": "Cabo Verde",
+        "province": "Ribeira Brava",
+        "population": -1,
+        "latitude": 16.633333,
+        "longitude": -24.216667
+    },
+    {
+        "name": "Fazenda Real",
+        "country": "Cabo Verde",
+        "province": "São Vicente",
+        "population": -1,
+        "latitude": 16.866667,
+        "longitude": -24.95
+    },
+    {
+        "name": "Fanade",
+        "country": "Cabo Verde",
+        "province": "Ribeira Grande",
+        "population": -1,
+        "latitude": 17.133333,
+        "longitude": -25.166667
+    },
+    {
+        "name": "Fajã",
+        "country": "Cabo Verde",
+        "province": "Brava",
+        "population": -1,
+        "latitude": 14.866667,
+        "longitude": -24.75
+    },
+    {
+        "name": "Espadanã",
+        "country": "Cabo Verde",
+        "province": "Ribeira Grande",
+        "population": -1,
+        "latitude": 17.1,
+        "longitude": -25.166667
+    },
+    {
+        "name": "Esgamaleiro",
+        "country": "Cabo Verde",
+        "province": "Ribeira Grande",
+        "population": -1,
+        "latitude": 17.116667,
+        "longitude": -25.15
+    },
+    {
+        "name": "Escada",
+        "country": "Cabo Verde",
+        "province": "Tarrafal de São Nicolau",
+        "population": -1,
+        "latitude": 16.57457,
+        "longitude": -24.3612
+    },
+    {
+        "name": "Escabeçada de Baixo",
+        "country": "Cabo Verde",
+        "province": "Ribeira Grande",
+        "population": -1,
+        "latitude": 17.133333,
+        "longitude": -25.15
+    },
+    {
+        "name": "Escabeçada",
+        "country": "Cabo Verde",
+        "province": "Ribeira Grande",
+        "population": -1,
+        "latitude": 17.133333,
+        "longitude": -25.15
+    },
+    {
+        "name": "Endriano",
+        "country": "Cabo Verde",
+        "province": "Ribeira Grande",
+        "population": -1,
+        "latitude": 17.116667,
+        "longitude": -25.183333
+    },
+    {
+        "name": "Derrubado",
+        "country": "Cabo Verde",
+        "province": "Boa Vista",
+        "population": -1,
+        "latitude": 16.233333,
+        "longitude": -22.8
+    },
+    {
+        "name": "Curral das Vacas",
+        "country": "Cabo Verde",
+        "province": "Porto Novo",
+        "population": -1,
+        "latitude": 17.05,
+        "longitude": -25.233333
+    },
+    {
+        "name": "Curral Branco",
+        "country": "Cabo Verde",
+        "province": "Boa Vista",
+        "population": -1,
+        "latitude": 16.033333,
+        "longitude": -22.8
+    },
+    {
+        "name": "Cruz do Pé do Verde",
+        "country": "Cabo Verde",
+        "province": "São Vicente",
+        "population": -1,
+        "latitude": 16.883333,
+        "longitude": -24.95
+    },
+    {
+        "name": "Corvo",
+        "country": "Cabo Verde",
+        "province": "Ribeira Grande",
+        "population": -1,
+        "latitude": 17.2,
+        "longitude": -25.116667
+    },
+    {
+        "name": "Círio",
+        "country": "Cabo Verde",
+        "province": "Porto Novo",
+        "population": -1,
+        "latitude": 17.066667,
+        "longitude": -25.233333
+    },
+    {
+        "name": "Charco",
+        "country": "Cabo Verde",
+        "province": "Santa Catarina",
+        "population": -1,
+        "latitude": 15.133333,
+        "longitude": -23.75
+    },
+    {
+        "name": "Chã do Norte",
+        "country": "Cabo Verde",
+        "province": "Porto Novo",
+        "population": -1,
+        "latitude": 17.116667,
+        "longitude": -25.266667
+    },
+    {
+        "name": "Chã de Paulo",
+        "country": "Cabo Verde",
+        "province": "Ribeira Grande",
+        "population": -1,
+        "latitude": 17.15,
+        "longitude": -25.2
+    },
+    {
+        "name": "Chã de Figueiras",
+        "country": "Cabo Verde",
+        "province": "Santa Catarina",
+        "population": -1,
+        "latitude": 15.183333,
+        "longitude": -23.716667
+    },
+    {
+        "name": "Chã de Dentro",
+        "country": "Cabo Verde",
+        "province": "Tarrafal",
+        "population": -1,
+        "latitude": 15.233333,
+        "longitude": -23.683333
+    },
+    {
+        "name": "Chã da Ribeira",
+        "country": "Cabo Verde",
+        "province": "Porto Novo",
+        "population": -1,
+        "latitude": 17.116667,
+        "longitude": -25.266667
+    },
+    {
+        "name": "Castilhiano",
+        "country": "Cabo Verde",
+        "province": "Ribeira Brava",
+        "population": -1,
+        "latitude": 16.583333,
+        "longitude": -24.05
+    },
+    {
+        "name": "Casa do Cabo Submarino",
+        "country": "Cabo Verde",
+        "province": "São Vicente",
+        "population": -1,
+        "latitude": 16.82406,
+        "longitude": -25.06007
+    },
+    {
+        "name": "Camarões",
+        "country": "Cabo Verde",
+        "province": "Ribeira Brava",
+        "population": -1,
+        "latitude": 16.666667,
+        "longitude": -24.35
+    },
+    {
+        "name": "Caculi",
+        "country": "Cabo Verde",
+        "province": "Ribeira Grande",
+        "population": -1,
+        "latitude": 17.166667,
+        "longitude": -25.1
+    },
+    {
+        "name": "Cachaço",
+        "country": "Cabo Verde",
+        "province": "Porto Novo",
+        "population": -1,
+        "latitude": 17.05,
+        "longitude": -25.2
+    },
+    {
+        "name": "Cachacinho",
+        "country": "Cabo Verde",
+        "province": "Tarrafal de São Nicolau",
+        "population": -1,
+        "latitude": 16.6,
+        "longitude": -24.316667
+    },
+    {
+        "name": "Cabeçadas",
+        "country": "Cabo Verde",
+        "province": "Boa Vista",
+        "population": -1,
+        "latitude": 16.116667,
+        "longitude": -22.9
+    },
+    {
+        "name": "Botija",
+        "country": "Cabo Verde",
+        "province": "Porto Novo",
+        "population": -1,
+        "latitude": 17.05,
+        "longitude": -25.333333
+    },
+    {
+        "name": "Bonita",
+        "country": "Cabo Verde",
+        "province": "Porto Novo",
+        "population": -1,
+        "latitude": 17.083333,
+        "longitude": -25.316667
+    },
+    {
+        "name": "Bomfim",
+        "country": "Cabo Verde",
+        "province": "Sal",
+        "population": -1,
+        "latitude": 16.7,
+        "longitude": -22.9
+    },
+    {
+        "name": "Boa Ventura",
+        "country": "Cabo Verde",
+        "province": "Boa Vista",
+        "population": -1,
+        "latitude": 16.133333,
+        "longitude": -22.9
+    },
+    {
+        "name": "Biscainhos",
+        "country": "Cabo Verde",
+        "province": "Tarrafal",
+        "population": -1,
+        "latitude": 15.25,
+        "longitude": -23.7
+    },
+    {
+        "name": "Bela Vista",
+        "country": "Cabo Verde",
+        "province": "Sal",
+        "population": -1,
+        "latitude": 16.8,
+        "longitude": -22.966667
+    },
+    {
+        "name": "Beirona",
+        "country": "Cabo Verde",
+        "province": "Sal",
+        "population": -1,
+        "latitude": 16.683333,
+        "longitude": -22.933333
+    },
+    {
+        "name": "Barbasco",
+        "country": "Cabo Verde",
+        "province": "Ribeira Grande",
+        "population": -1,
+        "latitude": 17.180541,
+        "longitude": -25.051581
+    },
+    {
+        "name": "Baluarte",
+        "country": "Cabo Verde",
+        "province": "São Filipe",
+        "population": -1,
+        "latitude": 15,
+        "longitude": -24.4
+    },
+    {
+        "name": "Baleia",
+        "country": "Cabo Verde",
+        "province": "Brava",
+        "population": -1,
+        "latitude": 14.85,
+        "longitude": -24.7
+    },
+    {
+        "name": "Baboso",
+        "country": "Cabo Verde",
+        "province": "Porto Novo",
+        "population": -1,
+        "latitude": 16.983333,
+        "longitude": -25.2
+    },
+    {
+        "name": "Areia Branca",
+        "country": "Cabo Verde",
+        "province": "São Vicente",
+        "population": -1,
+        "latitude": 16.9,
+        "longitude": -24.966667
+    },
+    {
+        "name": "Amador",
+        "country": "Cabo Verde",
+        "province": "Boa Vista",
+        "population": -1,
+        "latitude": 16.116667,
+        "longitude": -22.833333
+    },
+    {
+        "name": "Achadinha",
+        "country": "Cabo Verde",
+        "province": "Tarrafal",
+        "population": -1,
+        "latitude": 15.233333,
+        "longitude": -23.716667
+    },
+    {
+        "name": "Achada Baleia",
+        "country": "Cabo Verde",
+        "province": "São Domingos",
+        "population": -1,
+        "latitude": 15.05,
+        "longitude": -23.483333
+    },
+    {
+        "name": "Ribeira Torta",
+        "country": "Cabo Verde",
+        "province": "Porto Novo",
+        "population": -1,
+        "latitude": 16.95006,
+        "longitude": -25.15705
+    },
+    {
+        "name": "Boca de Coruja",
+        "country": "Cabo Verde",
+        "province": "Cabo Verde",
+        "population": -1,
+        "latitude": 17.161068,
+        "longitude": -25.119596
+    },
+    {
+        "name": "Achada Ponta",
+        "country": "Cabo Verde",
+        "province": "Cabo Verde",
+        "population": -1,
+        "latitude": 15.104354,
+        "longitude": -23.50632
+    },
+    {
+        "name": "Achada Longueira",
+        "country": "Cabo Verde",
+        "province": "Cabo Verde",
+        "population": -1,
+        "latitude": 15.224953,
+        "longitude": -23.71835
+    },
+    {
+        "name": "Martiene",
+        "country": "Cabo Verde",
+        "province": "Cabo Verde",
+        "population": -1,
+        "latitude": 17.09001,
+        "longitude": -25.24727
+    },
+    {
+        "name": "Entre Picos",
+        "country": "Cabo Verde",
+        "province": "Cabo Verde",
+        "population": -1,
+        "latitude": 15.11687,
+        "longitude": -23.65631
+    },
+    {
+        "name": "Cha de Ponta",
+        "country": "Cabo Verde",
+        "province": "Cabo Verde",
+        "population": -1,
+        "latitude": 15.2223,
+        "longitude": -23.6628
+    },
+    {
+        "name": "Nhagar",
+        "country": "Cabo Verde",
+        "province": "Cabo Verde",
+        "population": -1,
+        "latitude": 15.10465,
+        "longitude": -23.67258
+    },
+    {
+        "name": "Mato Ingles",
+        "country": "Cabo Verde",
+        "province": "Cabo Verde",
+        "population": -1,
+        "latitude": 16.860833,
+        "longitude": -24.948333
+    },
+    {
+        "name": "Gil Bispo",
+        "country": "Cabo Verde",
+        "province": "Cabo Verde",
+        "population": -1,
+        "latitude": 15.10863,
+        "longitude": -23.65992
+    },
+    {
+        "name": "Veneza",
+        "country": "Cabo Verde",
+        "province": "Cabo Verde",
+        "population": -1,
+        "latitude": 15.1939037,
+        "longitude": -23.601851
+    },
+    {
+        "name": "Pico Leao",
+        "country": "Cabo Verde",
+        "province": "Cabo Verde",
+        "population": -1,
+        "latitude": 15.04394,
+        "longitude": -23.65168
+    },
+    {
+        "name": "Cha de Branquinho",
+        "country": "Cabo Verde",
+        "province": "Cabo Verde",
+        "population": -1,
+        "latitude": 17.124,
+        "longitude": -25.235
+    },
+    {
+        "name": "Santo Gege",
+        "country": "Cabo Verde",
+        "province": "Cabo Verde",
+        "population": -1,
+        "latitude": 15.0679,
+        "longitude": -23.6757
+    },
+    {
+        "name": "Achadinha",
+        "country": "Cabo Verde",
+        "province": "Praia",
+        "population": -1,
+        "latitude": 15.0057168,
+        "longitude": -23.654893
+    },
+    {
+        "name": "Chã do Cemitério",
+        "country": "Cabo Verde",
+        "province": "Cabo Verde",
+        "population": -1,
+        "latitude": 16.8826078,
+        "longitude": -24.9896317
+    },
+    {
+        "name": "Achada Bel Bel",
+        "country": "Cabo Verde",
+        "province": "Cabo Verde",
+        "population": -1,
+        "latitude": 15.1499848,
+        "longitude": -23.67004
+    },
+    {
+        "name": "Caibros de Ribeira de Jorge",
+        "country": "Cabo Verde",
+        "province": "Cabo Verde",
+        "population": -1,
+        "latitude": 17.1332172,
+        "longitude": -25.145881
+    },
+    {
+        "name": "Lombo Tamque",
+        "country": "Cabo Verde",
+        "province": "Cabo Verde",
+        "population": -1,
+        "latitude": 16.882222,
+        "longitude": -24.977778
+    },
+    {
+        "name": "Mato Baixo",
+        "country": "Cabo Verde",
+        "province": "Cabo Verde",
+        "population": -1,
+        "latitude": 15.134107,
+        "longitude": -23.692446
+    },
+    {
+        "name": "Tinteira",
+        "country": "Cabo Verde",
+        "province": "Santa Catarina do Fogo",
+        "population": -1,
+        "latitude": 14.928823,
+        "longitude": -24.329746
+    },
+    {
+        "name": "Vila Nova e Lombo Tanque",
+        "country": "Cabo Verde",
+        "province": "São Vicente",
+        "population": -1,
+        "latitude": 16.888309,
+        "longitude": -24.982882
+    },
+    {
+        "name": "Safende",
+        "country": "Cabo Verde",
+        "province": "Cabo Verde",
+        "population": -1,
+        "latitude": 14.941111,
+        "longitude": -23.515
+    },
+    {
+        "name": "Fonte Ines",
+        "country": "Cabo Verde",
+        "province": "Cabo Verde",
+        "population": -1,
+        "latitude": 16.890556,
+        "longitude": -24.978056
+    },
+    {
+        "name": "Fonte Frances",
+        "country": "Cabo Verde",
+        "province": "Cabo Verde",
+        "population": -1,
+        "latitude": 16.878611,
+        "longitude": -24.980556
+    },
+    {
+        "name": "Chã de Alecrim",
+        "country": "Cabo Verde",
+        "province": "Cabo Verde",
+        "population": -1,
+        "latitude": 16.61851,
+        "longitude": -22.90649
+    },
+    {
+        "name": "Alto Sao Nicolau",
+        "country": "Cabo Verde",
+        "province": "Cabo Verde",
+        "population": -1,
+        "latitude": 16.88944,
+        "longitude": -24.99098
+    },
+    {
+        "name": "Ribeirinha",
+        "country": "Cabo Verde",
+        "province": "Cabo Verde",
+        "population": -1,
+        "latitude": 16.888144,
+        "longitude": -24.975529
+    },
+    {
+        "name": "Monte Tabor",
+        "country": "Cabo Verde",
+        "province": "Cabo Verde",
+        "population": -1,
+        "latitude": 14.89502,
+        "longitude": -24.49994
+    },
+    {
+        "name": "Agua Gatos",
+        "country": "Cabo Verde",
+        "province": "Cabo Verde",
+        "population": -1,
+        "latitude": 15.03507,
+        "longitude": -23.58031
+    },
+    {
+        "name": "Ribeirão Boi",
+        "country": "Cabo Verde",
+        "province": "Cabo Verde",
+        "population": -1,
+        "latitude": 15.131912,
+        "longitude": -23.587818
+    },
+    {
+        "name": "Pai António",
+        "country": "Cabo Verde",
+        "province": "Cabo Verde",
+        "population": -1,
+        "latitude": 15.023833,
+        "longitude": -24.327619
+    },
+    {
+        "name": "Ponta Preta",
+        "country": "Cabo Verde",
+        "province": "Sal",
+        "population": -1,
+        "latitude": 16.60561,
+        "longitude": -22.92975
+    },
+    {
+        "name": "Ribeira do Bras",
+        "country": "Cabo Verde",
+        "province": "Ribeira Grande",
+        "population": -1,
+        "latitude": 17.16425,
+        "longitude": -25.03469
+    },
+    {
+        "name": "Ponta de Achada Baleia",
+        "country": "Cabo Verde",
+        "province": "Cabo Verde",
+        "population": -1,
+        "latitude": 15,
+        "longitude": -23
+    },
+    {
+        "name": "Horta Seca",
+        "country": "Cabo Verde",
+        "province": "Cabo Verde",
+        "population": -1,
+        "latitude": 16.870278,
+        "longitude": -24.978889
+    },
+    {
+        "name": "Ribeira de Craquinha",
+        "country": "Cabo Verde",
+        "province": "Cabo Verde",
+        "population": -1,
+        "latitude": 16.870278,
+        "longitude": -24.978889
+    },
+    {
+        "name": "Varzea",
+        "country": "Cabo Verde",
+        "province": "Cabo Verde",
+        "population": -1,
+        "latitude": 14.915957,
+        "longitude": -23.514213
+    },
+    {
+        "name": "Achada São Filipe",
+        "country": "Cabo Verde",
+        "province": "Cabo Verde",
+        "population": -1,
+        "latitude": 14.9585129,
+        "longitude": -23.5368777
+    },
+    {
+        "name": "Campo Lem Cachorro",
+        "country": "Cabo Verde",
+        "province": "Cabo Verde",
+        "population": -1,
+        "latitude": 14.92799,
+        "longitude": -23.50697
+    },
+    {
+        "name": "Achadinha Pires",
+        "country": "Cabo Verde",
+        "province": "Cabo Verde",
+        "population": -1,
+        "latitude": 14.929,
+        "longitude": -23.505
+    },
+    {
+        "name": "Ponta d'Agua",
+        "country": "Cabo Verde",
+        "province": "Cabo Verde",
+        "population": -1,
+        "latitude": 14.9359037,
+        "longitude": -23.511262
+    },
+    {
+        "name": "Terra Branca",
+        "country": "Cabo Verde",
+        "province": "Cabo Verde",
+        "population": -1,
+        "latitude": 14.92089,
+        "longitude": -23.524614
+    },
+    {
+        "name": "Achada Eugénio Lima",
+        "country": "Cabo Verde",
+        "province": "Cabo Verde",
+        "population": -1,
+        "latitude": 14.9287377,
+        "longitude": -23.520682
+    },
+    {
+        "name": "Chã de Monte Sossego",
+        "country": "Cabo Verde",
+        "province": "Cabo Verde",
+        "population": -1,
+        "latitude": 16.8784242,
+        "longitude": -24.989224
+    },
+    {
+        "name": "Santo André",
+        "country": "Cabo Verde",
+        "province": "Cabo Verde",
+        "population": -1,
+        "latitude": 17.08,
+        "longitude": -25.28
+    },
+    {
+        "name": "Queimada",
+        "country": "Cabo Verde",
+        "province": "Cabo Verde",
+        "population": -1,
+        "latitude": 14.870581,
+        "longitude": -24.3796
+    }
+]

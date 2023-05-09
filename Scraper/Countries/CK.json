@@ -1,0 +1,458 @@
+[
+    {
+        "name": "Avarua",
+        "country": "Cook Islands",
+        "province": "Rarotonga",
+        "population": 13373,
+        "latitude": -21.207502,
+        "longitude": -159.775453
+    },
+    {
+        "name": "Amuri",
+        "country": "Cook Islands",
+        "province": "Aitutaki",
+        "population": 285,
+        "latitude": -18.85195,
+        "longitude": -159.79293
+    },
+    {
+        "name": "Omoka",
+        "country": "Cook Islands",
+        "province": "Penrhyn",
+        "population": 180,
+        "latitude": -8.97982,
+        "longitude": -158.05307
+    },
+    {
+        "name": "Mangarei",
+        "country": "Cook Islands",
+        "province": "Mitiaro",
+        "population": 128,
+        "latitude": -19.85961,
+        "longitude": -157.71801
+    },
+    {
+        "name": "Motu Koe",
+        "country": "Cook Islands",
+        "province": "Pukapuka",
+        "population": 89,
+        "latitude": -10.91229,
+        "longitude": -165.83682
+    },
+    {
+        "name": "Tauhunu",
+        "country": "Cook Islands",
+        "province": "Manihiki",
+        "population": 69,
+        "latitude": -10.42361,
+        "longitude": -161.033981
+    },
+    {
+        "name": "Moto Kavata",
+        "country": "Cook Islands",
+        "province": "Pukapuka",
+        "population": 73,
+        "latitude": -10.89261,
+        "longitude": -165.86772
+    },
+    {
+        "name": "Tengatangi Village",
+        "country": "Cook Islands",
+        "province": "Atiu",
+        "population": -1,
+        "latitude": -19.993467,
+        "longitude": -158.114696
+    },
+    {
+        "name": "Oneroa",
+        "country": "Cook Islands",
+        "province": "Cook Islands",
+        "population": -1,
+        "latitude": -21.92,
+        "longitude": -157.9602778
+    },
+    {
+        "name": "Ngatangiia",
+        "country": "Cook Islands",
+        "province": "Cook Islands",
+        "population": -1,
+        "latitude": -21.237737,
+        "longitude": -159.731576
+    },
+    {
+        "name": "Avatiu",
+        "country": "Cook Islands",
+        "province": "Cook Islands",
+        "population": -1,
+        "latitude": -21.203791,
+        "longitude": -159.786619
+    },
+    {
+        "name": "Arutanga",
+        "country": "Cook Islands",
+        "province": "Aitutaki",
+        "population": -1,
+        "latitude": -18.86509,
+        "longitude": -159.79808
+    },
+    {
+        "name": "Arorangi District",
+        "country": "Cook Islands",
+        "province": "Cook Islands",
+        "population": -1,
+        "latitude": -21.2395,
+        "longitude": -159.81807
+    },
+    {
+        "name": "Matavera",
+        "country": "Cook Islands",
+        "province": "Rarotonga",
+        "population": -1,
+        "latitude": -21.2244444,
+        "longitude": -159.7333333
+    },
+    {
+        "name": "Te Tautua",
+        "country": "Cook Islands",
+        "province": "Penrhyn",
+        "population": -1,
+        "latitude": -8.95873,
+        "longitude": -157.92621
+    },
+    {
+        "name": "Tukao",
+        "country": "Cook Islands",
+        "province": "Manihiki",
+        "population": -1,
+        "latitude": -10.375179,
+        "longitude": -161.010176
+    },
+    {
+        "name": "Teenui Village",
+        "country": "Cook Islands",
+        "province": "Atiu",
+        "population": -1,
+        "latitude": -19.992732,
+        "longitude": -158.122649
+    },
+    {
+        "name": "Palmerston",
+        "country": "Cook Islands",
+        "province": "Palmerston",
+        "population": -1,
+        "latitude": -18.055249,
+        "longitude": -163.208845
+    },
+    {
+        "name": "Titikaveka",
+        "country": "Cook Islands",
+        "province": "Cook Islands",
+        "population": -1,
+        "latitude": -21.271282,
+        "longitude": -159.758674
+    },
+    {
+        "name": "Tamarua Village",
+        "country": "Cook Islands",
+        "province": "Mangaia",
+        "population": -1,
+        "latitude": -21.950453,
+        "longitude": -157.907992
+    },
+    {
+        "name": "Ngatiarua Village",
+        "country": "Cook Islands",
+        "province": "Atiu",
+        "population": -1,
+        "latitude": -19.998134,
+        "longitude": -158.120575
+    },
+    {
+        "name": "Mapumai Village",
+        "country": "Cook Islands",
+        "province": "Atiu",
+        "population": -1,
+        "latitude": -19.989095,
+        "longitude": -158.119415
+    },
+    {
+        "name": "Ivirua Village",
+        "country": "Cook Islands",
+        "province": "Mangaia",
+        "population": -1,
+        "latitude": -21.917696,
+        "longitude": -157.895275
+    },
+    {
+        "name": "Vaipae",
+        "country": "Cook Islands",
+        "province": "Aitutaki",
+        "population": -1,
+        "latitude": -18.87102,
+        "longitude": -159.77818
+    },
+    {
+        "name": "Nukuao",
+        "country": "Cook Islands",
+        "province": "Cook Islands",
+        "population": -1,
+        "latitude": -20.1333333,
+        "longitude": -157.3666667
+    },
+    {
+        "name": "Nukatere",
+        "country": "Cook Islands",
+        "province": "Cook Islands",
+        "population": -1,
+        "latitude": -19.8166667,
+        "longitude": -157.7166667
+    },
+    {
+        "name": "Ngatiarua",
+        "country": "Cook Islands",
+        "province": "Ma'uke",
+        "population": -1,
+        "latitude": -20.1527778,
+        "longitude": -157.3433333
+    },
+    {
+        "name": "Natikitea",
+        "country": "Cook Islands",
+        "province": "Cook Islands",
+        "population": -1,
+        "latitude": -20.0166667,
+        "longitude": -158.1166667
+    },
+    {
+        "name": "Muri",
+        "country": "Cook Islands",
+        "province": "Rarotonga",
+        "population": -1,
+        "latitude": -21.256497,
+        "longitude": -159.73205
+    },
+    {
+        "name": "Areora",
+        "country": "Cook Islands",
+        "province": "Atiu",
+        "population": -1,
+        "latitude": -19.999258,
+        "longitude": -158.116088
+    },
+    {
+        "name": "Areora",
+        "country": "Cook Islands",
+        "province": "Ma'uke",
+        "population": -1,
+        "latitude": -20.1633333,
+        "longitude": -157.3444444
+    },
+    {
+        "name": "Mangarei Village",
+        "country": "Cook Islands",
+        "province": "Cook Islands",
+        "population": -1,
+        "latitude": -19.6972222,
+        "longitude": -157.7166667
+    },
+    {
+        "name": "Kimiangatau Village",
+        "country": "Cook Islands",
+        "province": "Ma'uke",
+        "population": -1,
+        "latitude": -20.143668,
+        "longitude": -157.35648
+    },
+    {
+        "name": "Temakatea Village",
+        "country": "Cook Islands",
+        "province": "Mangaia",
+        "population": -1,
+        "latitude": -21.929237,
+        "longitude": -157.952253
+    },
+    {
+        "name": "Kaumata Village",
+        "country": "Cook Islands",
+        "province": "Mangaia",
+        "population": -1,
+        "latitude": -21.928217,
+        "longitude": -157.958719
+    },
+    {
+        "name": "Karanga Village",
+        "country": "Cook Islands",
+        "province": "Mangaia",
+        "population": -1,
+        "latitude": -21.907839,
+        "longitude": -157.902115
+    },
+    {
+        "name": "Nikao",
+        "country": "Cook Islands",
+        "province": "Cook Islands",
+        "population": -1,
+        "latitude": -21.2066667,
+        "longitude": -159.8094444
+    },
+    {
+        "name": "Pue",
+        "country": "Cook Islands",
+        "province": "Cook Islands",
+        "population": -1,
+        "latitude": -21.204911,
+        "longitude": -159.758229
+    },
+    {
+        "name": "Tautu",
+        "country": "Cook Islands",
+        "province": "Aitutaki",
+        "population": -1,
+        "latitude": -18.87437,
+        "longitude": -159.78537
+    },
+    {
+        "name": "Vaipeka",
+        "country": "Cook Islands",
+        "province": "Cook Islands",
+        "population": -1,
+        "latitude": -18.845346,
+        "longitude": -159.774586
+    },
+    {
+        "name": "Nikaupara",
+        "country": "Cook Islands",
+        "province": "Aitutaki",
+        "population": -1,
+        "latitude": -18.871162,
+        "longitude": -159.800698
+    },
+    {
+        "name": "Reureu",
+        "country": "Cook Islands",
+        "province": "Cook Islands",
+        "population": -1,
+        "latitude": -18.868025,
+        "longitude": -159.799163
+    },
+    {
+        "name": "Vaimaanga Tapere",
+        "country": "Cook Islands",
+        "province": "Rarotonga",
+        "population": -1,
+        "latitude": -21.2571,
+        "longitude": -159.79168
+    },
+    {
+        "name": "Vai Toka",
+        "country": "Cook Islands",
+        "province": "Cook Islands",
+        "population": -1,
+        "latitude": -19.26432,
+        "longitude": -158.96317
+    },
+    {
+        "name": "Arerenga Tepere",
+        "country": "Cook Islands",
+        "province": "Cook Islands",
+        "population": -1,
+        "latitude": -21.22714,
+        "longitude": -159.82232
+    },
+    {
+        "name": "Akaoa Tapere",
+        "country": "Cook Islands",
+        "province": "Cook Islands",
+        "population": -1,
+        "latitude": -21.23574,
+        "longitude": -159.81962
+    },
+    {
+        "name": "Vaiakura Tapere",
+        "country": "Cook Islands",
+        "province": "Cook Islands",
+        "population": -1,
+        "latitude": -21.24026,
+        "longitude": -159.81361
+    },
+    {
+        "name": "Matara",
+        "country": "Cook Islands",
+        "province": "Cook Islands",
+        "population": -1,
+        "latitude": -10.031455,
+        "longitude": -161.101287
+    },
+    {
+        "name": "Auta Village",
+        "country": "Cook Islands",
+        "province": "Cook Islands",
+        "population": -1,
+        "latitude": -19.858902,
+        "longitude": -157.71793
+    },
+    {
+        "name": "Atai Village",
+        "country": "Cook Islands",
+        "province": "Cook Islands",
+        "population": -1,
+        "latitude": -19.857631,
+        "longitude": -157.718627
+    },
+    {
+        "name": "Takaue Village",
+        "country": "Cook Islands",
+        "province": "Cook Islands",
+        "population": -1,
+        "latitude": -19.86237,
+        "longitude": -157.718978
+    },
+    {
+        "name": "Ureia",
+        "country": "Cook Islands",
+        "province": "Cook Islands",
+        "population": -1,
+        "latitude": -18.861558,
+        "longitude": -159.796921
+    },
+    {
+        "name": "Oiretumu Village",
+        "country": "Cook Islands",
+        "province": "Cook Islands",
+        "population": -1,
+        "latitude": -20.152682,
+        "longitude": -157.345644
+    },
+    {
+        "name": "Nivano",
+        "country": "Cook Islands",
+        "province": "Rakahanga",
+        "population": -1,
+        "latitude": -10.03174,
+        "longitude": -161.10176
+    },
+    {
+        "name": "Tava’enga Village",
+        "country": "Cook Islands",
+        "province": "Mangaia",
+        "population": -1,
+        "latitude": -21.916933,
+        "longitude": -157.954136
+    },
+    {
+        "name": "Ruatonga Tapere",
+        "country": "Cook Islands",
+        "province": "Rarotonga",
+        "population": -1,
+        "latitude": -21.21742,
+        "longitude": -159.78649
+    },
+    {
+        "name": "Areanu Tabpere",
+        "country": "Cook Islands",
+        "province": "Cook Islands",
+        "population": -1,
+        "latitude": -21.20122,
+        "longitude": -159.79807
+    }
+]

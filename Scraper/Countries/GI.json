@@ -1,0 +1,42 @@
+[
+    {
+        "name": "Gibraltar",
+        "country": "Gibraltar",
+        "province": "Gibraltar",
+        "population": 26544,
+        "latitude": 36.1447367897655,
+        "longitude": -5.35257339477539
+    },
+    {
+        "name": "Catalan Bay",
+        "country": "Gibraltar",
+        "province": "Gibraltar",
+        "population": -1,
+        "latitude": 36.13960762135572,
+        "longitude": -5.341629981994629
+    },
+    {
+        "name": "Waterport",
+        "country": "Gibraltar",
+        "province": "Gibraltar",
+        "population": -1,
+        "latitude": 36.146045020597576,
+        "longitude": -5.354397296905518
+    },
+    {
+        "name": "Rosia",
+        "country": "Gibraltar",
+        "province": "Gibraltar",
+        "population": -1,
+        "latitude": 36.121167571270696,
+        "longitude": -5.352423191070557
+    },
+    {
+        "name": "Laguna Estate",
+        "country": "Gibraltar",
+        "province": "Gibraltar",
+        "population": -1,
+        "latitude": 36.147109,
+        "longitude": -5.348723
+    }
+]

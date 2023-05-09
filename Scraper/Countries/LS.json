@@ -1,0 +1,3130 @@
+[
+    {
+        "name": "Maseru",
+        "country": "Lesotho",
+        "province": "Maseru",
+        "population": 118355,
+        "latitude": -29.3166667,
+        "longitude": 27.4833333
+    },
+    {
+        "name": "Qacha's Nek",
+        "country": "Lesotho",
+        "province": "Qachaʼs Nek",
+        "population": 25573,
+        "latitude": -30.115374,
+        "longitude": 28.689359
+    },
+    {
+        "name": "Maputsoe",
+        "country": "Lesotho",
+        "province": "Leribe",
+        "population": 32117,
+        "latitude": -28.886597,
+        "longitude": 27.899145
+    },
+    {
+        "name": "Nako",
+        "country": "Lesotho",
+        "province": "Maseru",
+        "population": 13146,
+        "latitude": -29.6166667,
+        "longitude": 27.7666667
+    },
+    {
+        "name": "Mokhotlong",
+        "country": "Lesotho",
+        "province": "Mokhotlong",
+        "population": 8809,
+        "latitude": -29.289393260049124,
+        "longitude": 29.067506790161133
+    },
+    {
+        "name": "Quthing",
+        "country": "Lesotho",
+        "province": "Quthing",
+        "population": 27314,
+        "latitude": -30.400011000456914,
+        "longitude": 27.70026683807373
+    },
+    {
+        "name": "Mohale's Hoek",
+        "country": "Lesotho",
+        "province": "Mohaleʼs Hoek",
+        "population": 40040,
+        "latitude": -30.151367,
+        "longitude": 27.476914
+    },
+    {
+        "name": "Mafeteng",
+        "country": "Lesotho",
+        "province": "Mafeteng",
+        "population": 39754,
+        "latitude": -29.822995,
+        "longitude": 27.237438
+    },
+    {
+        "name": "Hlotse",
+        "country": "Lesotho",
+        "province": "Leribe",
+        "population": 38558,
+        "latitude": -28.871849,
+        "longitude": 28.045009
+    },
+    {
+        "name": "Butha-Buthe",
+        "country": "Lesotho",
+        "province": "Butha-Buthe",
+        "population": 35108,
+        "latitude": -28.766587,
+        "longitude": 28.249365
+    },
+    {
+        "name": "Thaba-Tseka",
+        "country": "Lesotho",
+        "province": "Thaba-Tseka",
+        "population": 15248,
+        "latitude": -29.522036,
+        "longitude": 28.608403
+    },
+    {
+        "name": "Teyateyaneng",
+        "country": "Lesotho",
+        "province": "Berea",
+        "population": 5115,
+        "latitude": -29.147188,
+        "longitude": 27.748946
+    },
+    {
+        "name": "Thaba Bosigo",
+        "country": "Lesotho",
+        "province": "Lesotho",
+        "population": -1,
+        "latitude": -29.345103,
+        "longitude": 27.671342
+    },
+    {
+        "name": "Tajane",
+        "country": "Lesotho",
+        "province": "Lesotho",
+        "population": -1,
+        "latitude": -29.71058,
+        "longitude": 27.483413
+    },
+    {
+        "name": "Sekake",
+        "country": "Lesotho",
+        "province": "Lesotho",
+        "population": -1,
+        "latitude": -30,
+        "longitude": 28.35
+    },
+    {
+        "name": "Sehonghong",
+        "country": "Lesotho",
+        "province": "Lesotho",
+        "population": -1,
+        "latitude": -29.778256,
+        "longitude": 28.797451
+    },
+    {
+        "name": "Seforong",
+        "country": "Lesotho",
+        "province": "Quthing",
+        "population": -1,
+        "latitude": -30.052525,
+        "longitude": 28.247915
+    },
+    {
+        "name": "Sefikeng",
+        "country": "Lesotho",
+        "province": "Lesotho",
+        "population": -1,
+        "latitude": -29.278942,
+        "longitude": 27.807652
+    },
+    {
+        "name": "Roma",
+        "country": "Lesotho",
+        "province": "Lesotho",
+        "population": -1,
+        "latitude": -29.446667,
+        "longitude": 27.708056
+    },
+    {
+        "name": "Ratau",
+        "country": "Lesotho",
+        "province": "Lesotho",
+        "population": -1,
+        "latitude": -29.361096,
+        "longitude": 27.734574
+    },
+    {
+        "name": "Ramatseliso",
+        "country": "Lesotho",
+        "province": "Lesotho",
+        "population": -1,
+        "latitude": -30.049653,
+        "longitude": 28.933148
+    },
+    {
+        "name": "Rafolatsane",
+        "country": "Lesotho",
+        "province": "Lesotho",
+        "population": -1,
+        "latitude": -29.347993,
+        "longitude": 29.006787
+    },
+    {
+        "name": "Qomoqomong",
+        "country": "Lesotho",
+        "province": "Lesotho",
+        "population": -1,
+        "latitude": -30.4333333,
+        "longitude": 27.7333333
+    },
+    {
+        "name": "Qiloane",
+        "country": "Lesotho",
+        "province": "Lesotho",
+        "population": -1,
+        "latitude": -29.351154,
+        "longitude": 27.682911
+    },
+    {
+        "name": "Pitseng",
+        "country": "Lesotho",
+        "province": "Lesotho",
+        "population": -1,
+        "latitude": -29.006985,
+        "longitude": 28.213285
+    },
+    {
+        "name": "Phamong",
+        "country": "Lesotho",
+        "province": "Lesotho",
+        "population": -1,
+        "latitude": -30.248089,
+        "longitude": 27.801404
+    },
+    {
+        "name": "Peka",
+        "country": "Lesotho",
+        "province": "Leribe",
+        "population": -1,
+        "latitude": -28.9688256,
+        "longitude": 27.7625797
+    },
+    {
+        "name": "Nyakosoba",
+        "country": "Lesotho",
+        "province": "Lesotho",
+        "population": -1,
+        "latitude": -29.52522,
+        "longitude": 27.773243
+    },
+    {
+        "name": "Mount Moorosi",
+        "country": "Lesotho",
+        "province": "Lesotho",
+        "population": -1,
+        "latitude": -30.273096,
+        "longitude": 27.87076
+    },
+    {
+        "name": "Motsekuoa",
+        "country": "Lesotho",
+        "province": "Lesotho",
+        "population": -1,
+        "latitude": -29.701023,
+        "longitude": 27.43436
+    },
+    {
+        "name": "Morija",
+        "country": "Lesotho",
+        "province": "Lesotho",
+        "population": -1,
+        "latitude": -29.629819968984812,
+        "longitude": 27.51350998878479
+    },
+    {
+        "name": "Monyake",
+        "country": "Lesotho",
+        "province": "Lesotho",
+        "population": -1,
+        "latitude": -29.977155,
+        "longitude": 27.339493
+    },
+    {
+        "name": "Mohlanapeng",
+        "country": "Lesotho",
+        "province": "Lesotho",
+        "population": -1,
+        "latitude": -29.59308,
+        "longitude": 28.669628
+    },
+    {
+        "name": "Mazenod",
+        "country": "Lesotho",
+        "province": "Lesotho",
+        "population": -1,
+        "latitude": -29.418958,
+        "longitude": 27.568925
+    },
+    {
+        "name": "Marakabeis",
+        "country": "Lesotho",
+        "province": "Lesotho",
+        "population": -1,
+        "latitude": -29.544975,
+        "longitude": 28.141481
+    },
+    {
+        "name": "Mapoteng",
+        "country": "Lesotho",
+        "province": "Lesotho",
+        "population": -1,
+        "latitude": -29.109786976887793,
+        "longitude": 27.974104285240173
+    },
+    {
+        "name": "Malealea",
+        "country": "Lesotho",
+        "province": "Lesotho",
+        "population": -1,
+        "latitude": -29.85,
+        "longitude": 27.5666667
+    },
+    {
+        "name": "Makhaleng",
+        "country": "Lesotho",
+        "province": "Lesotho",
+        "population": -1,
+        "latitude": -29.5166667,
+        "longitude": 27.9
+    },
+    {
+        "name": "Kueneng",
+        "country": "Lesotho",
+        "province": "Lesotho",
+        "population": -1,
+        "latitude": -29.074724,
+        "longitude": 28.007866
+    },
+    {
+        "name": "Joels Drift",
+        "country": "Lesotho",
+        "province": "Lesotho",
+        "population": -1,
+        "latitude": -28.7,
+        "longitude": 28.2833333
+    },
+    {
+        "name": "Mantsonyane",
+        "country": "Lesotho",
+        "province": "Thaba-Tseka",
+        "population": -1,
+        "latitude": -29.533175,
+        "longitude": 28.269913
+    },
+    {
+        "name": "Lesobeng",
+        "country": "Lesotho",
+        "province": "Thaba-Tseka",
+        "population": -1,
+        "latitude": -29.757783252198145,
+        "longitude": 28.358899354934692
+    },
+    {
+        "name": "Makhunoane",
+        "country": "Lesotho",
+        "province": "Butha-Buthe",
+        "population": -1,
+        "latitude": -28.627247244785377,
+        "longitude": 28.45609188079834
+    },
+    {
+        "name": "Ha Lejone",
+        "country": "Lesotho",
+        "province": "Leribe",
+        "population": -1,
+        "latitude": -28.8652,
+        "longitude": 28.0991
+    },
+    {
+        "name": "Tsoilitsoili",
+        "country": "Lesotho",
+        "province": "Leribe",
+        "population": -1,
+        "latitude": -29.0425,
+        "longitude": 27.743611
+    },
+    {
+        "name": "Mabote",
+        "country": "Lesotho",
+        "province": "Berea",
+        "population": -1,
+        "latitude": -29.278611,
+        "longitude": 27.524167
+    },
+    {
+        "name": "Tsupane Gate",
+        "country": "Lesotho",
+        "province": "Lesotho",
+        "population": -1,
+        "latitude": -29.707104,
+        "longitude": 27.098541
+    },
+    {
+        "name": "Tsiame",
+        "country": "Lesotho",
+        "province": "Lesotho",
+        "population": -1,
+        "latitude": -29.388491,
+        "longitude": 27.458329
+    },
+    {
+        "name": "Tsehlo",
+        "country": "Lesotho",
+        "province": "Lesotho",
+        "population": -1,
+        "latitude": -29.3166667,
+        "longitude": 27.7833333
+    },
+    {
+        "name": "Teba",
+        "country": "Lesotho",
+        "province": "Lesotho",
+        "population": -1,
+        "latitude": -29.96845,
+        "longitude": 27.881026
+    },
+    {
+        "name": "Seutloali",
+        "country": "Lesotho",
+        "province": "Lesotho",
+        "population": -1,
+        "latitude": -29.168454,
+        "longitude": 27.951743
+    },
+    {
+        "name": "Seshophe",
+        "country": "Lesotho",
+        "province": "Lesotho",
+        "population": -1,
+        "latitude": -29.0333333,
+        "longitude": 27.9666667
+    },
+    {
+        "name": "Sephapos Gate",
+        "country": "Lesotho",
+        "province": "Lesotho",
+        "population": -1,
+        "latitude": -29.954061,
+        "longitude": 27.213077
+    },
+    {
+        "name": "Selomas",
+        "country": "Lesotho",
+        "province": "Lesotho",
+        "population": -1,
+        "latitude": -28.775495,
+        "longitude": 28.343291
+    },
+    {
+        "name": "Sekoala",
+        "country": "Lesotho",
+        "province": "Lesotho",
+        "population": -1,
+        "latitude": -29.4333333,
+        "longitude": 27.4666667
+    },
+    {
+        "name": "Ramahleas",
+        "country": "Lesotho",
+        "province": "Lesotho",
+        "population": -1,
+        "latitude": -29.75,
+        "longitude": 27.15
+    },
+    {
+        "name": "Phoofolo",
+        "country": "Lesotho",
+        "province": "Lesotho",
+        "population": -1,
+        "latitude": -29.0623,
+        "longitude": 27.810974
+    },
+    {
+        "name": "Morunyaneng",
+        "country": "Lesotho",
+        "province": "Lesotho",
+        "population": -1,
+        "latitude": -29.831097,
+        "longitude": 27.533267
+    },
+    {
+        "name": "Morifi",
+        "country": "Lesotho",
+        "province": "Lesotho",
+        "population": -1,
+        "latitude": -30.302493,
+        "longitude": 27.403833
+    },
+    {
+        "name": "Moletsanes",
+        "country": "Lesotho",
+        "province": "Lesotho",
+        "population": -1,
+        "latitude": -29.1666667,
+        "longitude": 28.05
+    },
+    {
+        "name": "Mokoeng",
+        "country": "Lesotho",
+        "province": "Lesotho",
+        "population": -1,
+        "latitude": -29.240772,
+        "longitude": 28.90116
+    },
+    {
+        "name": "Mohlakoanas",
+        "country": "Lesotho",
+        "province": "Lesotho",
+        "population": -1,
+        "latitude": -30.21788,
+        "longitude": 27.939389
+    },
+    {
+        "name": "Mekaling",
+        "country": "Lesotho",
+        "province": "Lesotho",
+        "population": -1,
+        "latitude": -30.291348,
+        "longitude": 27.487808
+    },
+    {
+        "name": "Matsaile",
+        "country": "Lesotho",
+        "province": "Lesotho",
+        "population": -1,
+        "latitude": -29.818673,
+        "longitude": 28.775797
+    },
+    {
+        "name": "Matela",
+        "country": "Lesotho",
+        "province": "Lesotho",
+        "population": -1,
+        "latitude": -29.375015,
+        "longitude": 27.767637
+    },
+    {
+        "name": "Massabiella",
+        "country": "Lesotho",
+        "province": "Lesotho",
+        "population": -1,
+        "latitude": -29.530672,
+        "longitude": 27.577157
+    },
+    {
+        "name": "Mamathes",
+        "country": "Lesotho",
+        "province": "Lesotho",
+        "population": -1,
+        "latitude": -29.126357,
+        "longitude": 27.833627
+    },
+    {
+        "name": "Mahloenyeng",
+        "country": "Lesotho",
+        "province": "Lesotho",
+        "population": -1,
+        "latitude": -29.568898,
+        "longitude": 27.551255
+    },
+    {
+        "name": "Mahatlanes",
+        "country": "Lesotho",
+        "province": "Lesotho",
+        "population": -1,
+        "latitude": -29.20855,
+        "longitude": 27.841783
+    },
+    {
+        "name": "Libono",
+        "country": "Lesotho",
+        "province": "Lesotho",
+        "population": -1,
+        "latitude": -28.624405,
+        "longitude": 28.570965
+    },
+    {
+        "name": "Letseng-la-Terae",
+        "country": "Lesotho",
+        "province": "Lesotho",
+        "population": -1,
+        "latitude": -28.9166667,
+        "longitude": 28.8166667
+    },
+    {
+        "name": "Koali",
+        "country": "Lesotho",
+        "province": "Lesotho",
+        "population": -1,
+        "latitude": -29.204756,
+        "longitude": 27.766695
+    },
+    {
+        "name": "Khotsi",
+        "country": "Lesotho",
+        "province": "Lesotho",
+        "population": -1,
+        "latitude": -29.061072,
+        "longitude": 27.935394
+    },
+    {
+        "name": "Hlakametsas",
+        "country": "Lesotho",
+        "province": "Lesotho",
+        "population": -1,
+        "latitude": -28.712336,
+        "longitude": 28.436787
+    },
+    {
+        "name": "Helspoort",
+        "country": "Lesotho",
+        "province": "Lesotho",
+        "population": -1,
+        "latitude": -29.8666667,
+        "longitude": 27.4
+    },
+    {
+        "name": "Fako",
+        "country": "Lesotho",
+        "province": "Lesotho",
+        "population": -1,
+        "latitude": -29.282405,
+        "longitude": 27.805985
+    },
+    {
+        "name": "Abele",
+        "country": "Lesotho",
+        "province": "Lesotho",
+        "population": -1,
+        "latitude": -29.639845,
+        "longitude": 27.676902
+    },
+    {
+        "name": "White Hill",
+        "country": "Lesotho",
+        "province": "Lesotho",
+        "population": -1,
+        "latitude": -30.05,
+        "longitude": 28.4833333
+    },
+    {
+        "name": "Van Rooyens Gate",
+        "country": "Lesotho",
+        "province": "Lesotho",
+        "population": -1,
+        "latitude": -29.755521,
+        "longitude": 27.109293
+    },
+    {
+        "name": "Upper Qeme",
+        "country": "Lesotho",
+        "province": "Lesotho",
+        "population": -1,
+        "latitude": -29.508951,
+        "longitude": 27.51199
+    },
+    {
+        "name": "Tsoloane",
+        "country": "Lesotho",
+        "province": "Lesotho",
+        "population": -1,
+        "latitude": -30.013352,
+        "longitude": 27.359884
+    },
+    {
+        "name": "Toloane",
+        "country": "Lesotho",
+        "province": "Lesotho",
+        "population": -1,
+        "latitude": -29.644516,
+        "longitude": 27.468092
+    },
+    {
+        "name": "Tlhakanelo",
+        "country": "Lesotho",
+        "province": "Lesotho",
+        "population": -1,
+        "latitude": -29.7166667,
+        "longitude": 28.8
+    },
+    {
+        "name": "Tlalis",
+        "country": "Lesotho",
+        "province": "Lesotho",
+        "population": -1,
+        "latitude": -29.58803,
+        "longitude": 27.719489
+    },
+    {
+        "name": "Tikoe",
+        "country": "Lesotho",
+        "province": "Lesotho",
+        "population": -1,
+        "latitude": -29.356561,
+        "longitude": 27.462282
+    },
+    {
+        "name": "Thulo",
+        "country": "Lesotho",
+        "province": "Lesotho",
+        "population": -1,
+        "latitude": -29.589069,
+        "longitude": 27.260075
+    },
+    {
+        "name": "Theko",
+        "country": "Lesotho",
+        "province": "Lesotho",
+        "population": -1,
+        "latitude": -29.4166667,
+        "longitude": 27.7666667
+    },
+    {
+        "name": "Thakabannas",
+        "country": "Lesotho",
+        "province": "Lesotho",
+        "population": -1,
+        "latitude": -28.61571,
+        "longitude": 28.464429
+    },
+    {
+        "name": "Sinxondo",
+        "country": "Lesotho",
+        "province": "Lesotho",
+        "population": -1,
+        "latitude": -30.5666667,
+        "longitude": 27.7333333
+    },
+    {
+        "name": "Setleketseng",
+        "country": "Lesotho",
+        "province": "Lesotho",
+        "population": -1,
+        "latitude": -29.663996,
+        "longitude": 27.787504
+    },
+    {
+        "name": "Setleketseng",
+        "country": "Lesotho",
+        "province": "Lesotho",
+        "population": -1,
+        "latitude": -29.6,
+        "longitude": 28
+    },
+    {
+        "name": "Serutle",
+        "country": "Lesotho",
+        "province": "Lesotho",
+        "population": -1,
+        "latitude": -28.729065,
+        "longitude": 28.299417
+    },
+    {
+        "name": "Ha Senekane",
+        "country": "Lesotho",
+        "province": "Lesotho",
+        "population": -1,
+        "latitude": -29.2554020389297,
+        "longitude": 27.7276468276978
+    },
+    {
+        "name": "Roma",
+        "country": "Lesotho",
+        "province": "Lesotho",
+        "population": -1,
+        "latitude": -29.461336,
+        "longitude": 27.72494
+    },
+    {
+        "name": "Riet Vlei",
+        "country": "Lesotho",
+        "province": "Lesotho",
+        "population": -1,
+        "latitude": -30.0166667,
+        "longitude": 27.3333333
+    },
+    {
+        "name": "Ribaneng",
+        "country": "Lesotho",
+        "province": "Lesotho",
+        "population": -1,
+        "latitude": -29.844245,
+        "longitude": 27.662703
+    },
+    {
+        "name": "Rasebetsane",
+        "country": "Lesotho",
+        "province": "Lesotho",
+        "population": -1,
+        "latitude": -29.85,
+        "longitude": 27.75
+    },
+    {
+        "name": "Ranko",
+        "country": "Lesotho",
+        "province": "Lesotho",
+        "population": -1,
+        "latitude": -29.567126,
+        "longitude": 27.238674
+    },
+    {
+        "name": "Ramosoeu",
+        "country": "Lesotho",
+        "province": "Lesotho",
+        "population": -1,
+        "latitude": -29.907762,
+        "longitude": 27.524456
+    },
+    {
+        "name": "Ramabitsa",
+        "country": "Lesotho",
+        "province": "Lesotho",
+        "population": -1,
+        "latitude": -29.7333333,
+        "longitude": 27.7166667
+    },
+    {
+        "name": "Raleqheka",
+        "country": "Lesotho",
+        "province": "Lesotho",
+        "population": -1,
+        "latitude": -29.679587,
+        "longitude": 27.700248
+    },
+    {
+        "name": "Qamako",
+        "country": "Lesotho",
+        "province": "Lesotho",
+        "population": -1,
+        "latitude": -29.784675,
+        "longitude": 27.408983
+    },
+    {
+        "name": "Qaba",
+        "country": "Lesotho",
+        "province": "Lesotho",
+        "population": -1,
+        "latitude": -29.858966,
+        "longitude": 27.591494
+    },
+    {
+        "name": "Phafoli",
+        "country": "Lesotho",
+        "province": "Lesotho",
+        "population": -1,
+        "latitude": -29.805763,
+        "longitude": 27.677457
+    },
+    {
+        "name": "Patrick",
+        "country": "Lesotho",
+        "province": "Lesotho",
+        "population": -1,
+        "latitude": -29.526062,
+        "longitude": 27.744088
+    },
+    {
+        "name": "Old Mohales Hoek",
+        "country": "Lesotho",
+        "province": "Lesotho",
+        "population": -1,
+        "latitude": -30.107286,
+        "longitude": 27.475488
+    },
+    {
+        "name": "Nyane",
+        "country": "Lesotho",
+        "province": "Lesotho",
+        "population": -1,
+        "latitude": -29.580958,
+        "longitude": 28.239911
+    },
+    {
+        "name": "Ntsane",
+        "country": "Lesotho",
+        "province": "Lesotho",
+        "population": -1,
+        "latitude": -29.514208,
+        "longitude": 27.808217
+    },
+    {
+        "name": "Ntlamas",
+        "country": "Lesotho",
+        "province": "Lesotho",
+        "population": -1,
+        "latitude": -29.174424,
+        "longitude": 27.875413
+    },
+    {
+        "name": "Nthamaha",
+        "country": "Lesotho",
+        "province": "Lesotho",
+        "population": -1,
+        "latitude": -29.9833333,
+        "longitude": 27.9166667
+    },
+    {
+        "name": "Mpite",
+        "country": "Lesotho",
+        "province": "Lesotho",
+        "population": -1,
+        "latitude": -30.07465,
+        "longitude": 28.620823
+    },
+    {
+        "name": "Motloang",
+        "country": "Lesotho",
+        "province": "Lesotho",
+        "population": -1,
+        "latitude": -29.322359,
+        "longitude": 27.64998
+    },
+    {
+        "name": "Mosetlas",
+        "country": "Lesotho",
+        "province": "Lesotho",
+        "population": -1,
+        "latitude": -30.3333333,
+        "longitude": 27.75
+    },
+    {
+        "name": "Mosala",
+        "country": "Lesotho",
+        "province": "Lesotho",
+        "population": -1,
+        "latitude": -29.72984,
+        "longitude": 27.557067
+    },
+    {
+        "name": "Moliboeas",
+        "country": "Lesotho",
+        "province": "Lesotho",
+        "population": -1,
+        "latitude": -28.9,
+        "longitude": 28.1
+    },
+    {
+        "name": "Moletsane",
+        "country": "Lesotho",
+        "province": "Lesotho",
+        "population": -1,
+        "latitude": -29.927435,
+        "longitude": 27.314245
+    },
+    {
+        "name": "Mokonyane",
+        "country": "Lesotho",
+        "province": "Lesotho",
+        "population": -1,
+        "latitude": -29.288315,
+        "longitude": 27.858666
+    },
+    {
+        "name": "Mokhathis",
+        "country": "Lesotho",
+        "province": "Lesotho",
+        "population": -1,
+        "latitude": -29.1166667,
+        "longitude": 27.95
+    },
+    {
+        "name": "Mokhalinyane",
+        "country": "Lesotho",
+        "province": "Lesotho",
+        "population": -1,
+        "latitude": -29.4833333,
+        "longitude": 27.3666667
+    },
+    {
+        "name": "Mokema",
+        "country": "Lesotho",
+        "province": "Lesotho",
+        "population": -1,
+        "latitude": -29.4666667,
+        "longitude": 27.65
+    },
+    {
+        "name": "Mojela",
+        "country": "Lesotho",
+        "province": "Lesotho",
+        "population": -1,
+        "latitude": -29.548747,
+        "longitude": 27.888142
+    },
+    {
+        "name": "Mohlehli",
+        "country": "Lesotho",
+        "province": "Lesotho",
+        "population": -1,
+        "latitude": -29.738847,
+        "longitude": 27.207818
+    },
+    {
+        "name": "Mofokas",
+        "country": "Lesotho",
+        "province": "Lesotho",
+        "population": -1,
+        "latitude": -29.50601,
+        "longitude": 27.596826
+    },
+    {
+        "name": "Metolong",
+        "country": "Lesotho",
+        "province": "Lesotho",
+        "population": -1,
+        "latitude": -29.34379,
+        "longitude": 27.783377
+    },
+    {
+        "name": "Matsaba",
+        "country": "Lesotho",
+        "province": "Lesotho",
+        "population": -1,
+        "latitude": -29.659742,
+        "longitude": 27.752627
+    },
+    {
+        "name": "Mathokoane",
+        "country": "Lesotho",
+        "province": "Lesotho",
+        "population": -1,
+        "latitude": -28.972465,
+        "longitude": 28.027776
+    },
+    {
+        "name": "Mateka",
+        "country": "Lesotho",
+        "province": "Lesotho",
+        "population": -1,
+        "latitude": -29.2333333,
+        "longitude": 27.8833333
+    },
+    {
+        "name": "Masite Nek",
+        "country": "Lesotho",
+        "province": "Lesotho",
+        "population": -1,
+        "latitude": -29.588382,
+        "longitude": 27.489136
+    },
+    {
+        "name": "Mapotu",
+        "country": "Lesotho",
+        "province": "Lesotho",
+        "population": -1,
+        "latitude": -29.63973,
+        "longitude": 27.225122
+    },
+    {
+        "name": "Maphutseng",
+        "country": "Lesotho",
+        "province": "Lesotho",
+        "population": -1,
+        "latitude": -30.2166667,
+        "longitude": 27.5166667
+    },
+    {
+        "name": "Malibe",
+        "country": "Lesotho",
+        "province": "Lesotho",
+        "population": -1,
+        "latitude": -30.248863,
+        "longitude": 27.935769
+    },
+    {
+        "name": "Makojang",
+        "country": "Lesotho",
+        "province": "Lesotho",
+        "population": -1,
+        "latitude": -29.9333333,
+        "longitude": 27.7333333
+    },
+    {
+        "name": "Makhoathi",
+        "country": "Lesotho",
+        "province": "Lesotho",
+        "population": -1,
+        "latitude": -29.349871,
+        "longitude": 27.599799
+    },
+    {
+        "name": "Makhalanyane",
+        "country": "Lesotho",
+        "province": "Lesotho",
+        "population": -1,
+        "latitude": -29.40874,
+        "longitude": 27.617392
+    },
+    {
+        "name": "Makhaketsa",
+        "country": "Lesotho",
+        "province": "Lesotho",
+        "population": -1,
+        "latitude": -29.001836,
+        "longitude": 27.757447
+    },
+    {
+        "name": "Maghalleen",
+        "country": "Lesotho",
+        "province": "Lesotho",
+        "population": -1,
+        "latitude": -30.157645,
+        "longitude": 27.395654
+    },
+    {
+        "name": "Machekoaneng",
+        "country": "Lesotho",
+        "province": "Lesotho",
+        "population": -1,
+        "latitude": -29.435317,
+        "longitude": 27.544999
+    },
+    {
+        "name": "Mabotse",
+        "country": "Lesotho",
+        "province": "Lesotho",
+        "population": -1,
+        "latitude": -29.643534,
+        "longitude": 27.067231
+    },
+    {
+        "name": "Litsilong",
+        "country": "Lesotho",
+        "province": "Lesotho",
+        "population": -1,
+        "latitude": -29.222569,
+        "longitude": 27.703557
+    },
+    {
+        "name": "Liphateng",
+        "country": "Lesotho",
+        "province": "Lesotho",
+        "population": -1,
+        "latitude": -30.039416,
+        "longitude": 27.433489
+    },
+    {
+        "name": "Likupa",
+        "country": "Lesotho",
+        "province": "Lesotho",
+        "population": -1,
+        "latitude": -29.764898,
+        "longitude": 27.287934
+    },
+    {
+        "name": "Likhakeng",
+        "country": "Lesotho",
+        "province": "Lesotho",
+        "population": -1,
+        "latitude": -29.621399,
+        "longitude": 27.31949
+    },
+    {
+        "name": "Leutsoa",
+        "country": "Lesotho",
+        "province": "Lesotho",
+        "population": -1,
+        "latitude": -29.536885,
+        "longitude": 27.516259
+    },
+    {
+        "name": "Letsikas",
+        "country": "Lesotho",
+        "province": "Lesotho",
+        "population": -1,
+        "latitude": -28.66502,
+        "longitude": 28.422903
+    },
+    {
+        "name": "Lekokoaneng",
+        "country": "Lesotho",
+        "province": "Lesotho",
+        "population": -1,
+        "latitude": -29.164329,
+        "longitude": 27.690032
+    },
+    {
+        "name": "Lekoatsa",
+        "country": "Lesotho",
+        "province": "Lesotho",
+        "population": -1,
+        "latitude": -29.90857,
+        "longitude": 27.427606
+    },
+    {
+        "name": "Lekhooa",
+        "country": "Lesotho",
+        "province": "Lesotho",
+        "population": -1,
+        "latitude": -29.9,
+        "longitude": 27.9166667
+    },
+    {
+        "name": "Lebingwanas Cattle Post",
+        "country": "Lesotho",
+        "province": "Lesotho",
+        "population": -1,
+        "latitude": -28.9166667,
+        "longitude": 28.9
+    },
+    {
+        "name": "Koro-Koro",
+        "country": "Lesotho",
+        "province": "Lesotho",
+        "population": -1,
+        "latitude": -29.5,
+        "longitude": 27.6333333
+    },
+    {
+        "name": "Kolonyama",
+        "country": "Lesotho",
+        "province": "Lesotho",
+        "population": -1,
+        "latitude": -29.065060182708216,
+        "longitude": 27.733075618743896
+    },
+    {
+        "name": "Kokolia",
+        "country": "Lesotho",
+        "province": "Lesotho",
+        "population": -1,
+        "latitude": -29.305223,
+        "longitude": 27.90831
+    },
+    {
+        "name": "Koeneng",
+        "country": "Lesotho",
+        "province": "Lesotho",
+        "population": -1,
+        "latitude": -29.0666667,
+        "longitude": 28.0166667
+    },
+    {
+        "name": "Khukuhune",
+        "country": "Lesotho",
+        "province": "Lesotho",
+        "population": -1,
+        "latitude": -28.7166667,
+        "longitude": 28.4166667
+    },
+    {
+        "name": "Kelechane",
+        "country": "Lesotho",
+        "province": "Lesotho",
+        "population": -1,
+        "latitude": -29.744814,
+        "longitude": 27.804668
+    },
+    {
+        "name": "Kaphe",
+        "country": "Lesotho",
+        "province": "Lesotho",
+        "population": -1,
+        "latitude": -29.955652,
+        "longitude": 27.640882
+    },
+    {
+        "name": "Kala",
+        "country": "Lesotho",
+        "province": "Lesotho",
+        "population": -1,
+        "latitude": -28.7166667,
+        "longitude": 28.3333333
+    },
+    {
+        "name": "Jonathans",
+        "country": "Lesotho",
+        "province": "Lesotho",
+        "population": -1,
+        "latitude": -28.801602,
+        "longitude": 28.106648
+    },
+    {
+        "name": "Joel",
+        "country": "Lesotho",
+        "province": "Lesotho",
+        "population": -1,
+        "latitude": -28.6833333,
+        "longitude": 28.2833333
+    },
+    {
+        "name": "Jaele",
+        "country": "Lesotho",
+        "province": "Lesotho",
+        "population": -1,
+        "latitude": -29.456882,
+        "longitude": 27.873867
+    },
+    {
+        "name": "Hendriks",
+        "country": "Lesotho",
+        "province": "Lesotho",
+        "population": -1,
+        "latitude": -28.629294,
+        "longitude": 28.404476
+    },
+    {
+        "name": "Ha Nohana",
+        "country": "Lesotho",
+        "province": "Lesotho",
+        "population": -1,
+        "latitude": -30.053709,
+        "longitude": 27.853784
+    },
+    {
+        "name": "Emmaus",
+        "country": "Lesotho",
+        "province": "Lesotho",
+        "population": -1,
+        "latitude": -29.7666667,
+        "longitude": 27.55
+    },
+    {
+        "name": "Dinkung",
+        "country": "Lesotho",
+        "province": "Lesotho",
+        "population": -1,
+        "latitude": -28.6166667,
+        "longitude": 28.5166667
+    },
+    {
+        "name": "Chere",
+        "country": "Lesotho",
+        "province": "Lesotho",
+        "population": -1,
+        "latitude": -29.602345,
+        "longitude": 27.170027
+    },
+    {
+        "name": "Botsabelo",
+        "country": "Lesotho",
+        "province": "Lesotho",
+        "population": -1,
+        "latitude": -29.2666667,
+        "longitude": 27.5166667
+    },
+    {
+        "name": "Boqate",
+        "country": "Lesotho",
+        "province": "Lesotho",
+        "population": -1,
+        "latitude": -29.354905,
+        "longitude": 27.588504
+    },
+    {
+        "name": "Bolepeletsa",
+        "country": "Lesotho",
+        "province": "Lesotho",
+        "population": -1,
+        "latitude": -30.441789,
+        "longitude": 27.602559
+    },
+    {
+        "name": "Blue Gums",
+        "country": "Lesotho",
+        "province": "Lesotho",
+        "population": -1,
+        "latitude": -30.33952,
+        "longitude": 27.528837
+    },
+    {
+        "name": "Berente",
+        "country": "Lesotho",
+        "province": "Lesotho",
+        "population": -1,
+        "latitude": -29.895612,
+        "longitude": 27.654056
+    },
+    {
+        "name": "Tsoelike",
+        "country": "Lesotho",
+        "province": "Lesotho",
+        "population": -1,
+        "latitude": -30.032594,
+        "longitude": 28.697227
+    },
+    {
+        "name": "Tsoelike",
+        "country": "Lesotho",
+        "province": "Lesotho",
+        "population": -1,
+        "latitude": -30.0166667,
+        "longitude": 28.6666667
+    },
+    {
+        "name": "Tsime",
+        "country": "Lesotho",
+        "province": "Lesotho",
+        "population": -1,
+        "latitude": -28.788312,
+        "longitude": 28.416128
+    },
+    {
+        "name": "Tsikoane",
+        "country": "Lesotho",
+        "province": "Lesotho",
+        "population": -1,
+        "latitude": -28.893791,
+        "longitude": 27.996202
+    },
+    {
+        "name": "Tseka",
+        "country": "Lesotho",
+        "province": "Lesotho",
+        "population": -1,
+        "latitude": -29.412253,
+        "longitude": 27.50984
+    },
+    {
+        "name": "Tsa Kholo",
+        "country": "Lesotho",
+        "province": "Lesotho",
+        "population": -1,
+        "latitude": -29.669178,
+        "longitude": 27.151639
+    },
+    {
+        "name": "Tosing",
+        "country": "Lesotho",
+        "province": "Lesotho",
+        "population": -1,
+        "latitude": -30.335849,
+        "longitude": 27.914709
+    },
+    {
+        "name": "Tholo",
+        "country": "Lesotho",
+        "province": "Lesotho",
+        "population": -1,
+        "latitude": -29.041891,
+        "longitude": 28.515074
+    },
+    {
+        "name": "Thokoa",
+        "country": "Lesotho",
+        "province": "Lesotho",
+        "population": -1,
+        "latitude": -29.029749,
+        "longitude": 27.7731
+    },
+    {
+        "name": "Theetsoa",
+        "country": "Lesotho",
+        "province": "Lesotho",
+        "population": -1,
+        "latitude": -29.7166667,
+        "longitude": 27.9
+    },
+    {
+        "name": "Thakabannas Cattle Post",
+        "country": "Lesotho",
+        "province": "Lesotho",
+        "population": -1,
+        "latitude": -28.75,
+        "longitude": 28.65
+    },
+    {
+        "name": "Thaba Putsoa",
+        "country": "Lesotho",
+        "province": "Lesotho",
+        "population": -1,
+        "latitude": -29.593667,
+        "longitude": 28.060949
+    },
+    {
+        "name": "Thabaneng",
+        "country": "Lesotho",
+        "province": "Lesotho",
+        "population": -1,
+        "latitude": -29.8166667,
+        "longitude": 27.5
+    },
+    {
+        "name": "Thabana Morena",
+        "country": "Lesotho",
+        "province": "Lesotho",
+        "population": -1,
+        "latitude": -29.960076,
+        "longitude": 27.420435
+    },
+    {
+        "name": "Tau",
+        "country": "Lesotho",
+        "province": "Lesotho",
+        "population": -1,
+        "latitude": -29.0166667,
+        "longitude": 28.1833333
+    },
+    {
+        "name": "Tabola",
+        "country": "Lesotho",
+        "province": "Lesotho",
+        "population": -1,
+        "latitude": -28.96189,
+        "longitude": 27.819283
+    },
+    {
+        "name": "Siloe",
+        "country": "Lesotho",
+        "province": "Lesotho",
+        "population": -1,
+        "latitude": -29.954098,
+        "longitude": 27.28294
+    },
+    {
+        "name": "Sibi Sibi",
+        "country": "Lesotho",
+        "province": "Lesotho",
+        "population": -1,
+        "latitude": -29.896284,
+        "longitude": 27.820058
+    },
+    {
+        "name": "Sepechele",
+        "country": "Lesotho",
+        "province": "Lesotho",
+        "population": -1,
+        "latitude": -29.796284,
+        "longitude": 27.365262
+    },
+    {
+        "name": "Sehlabathebe",
+        "country": "Lesotho",
+        "province": "Lesotho",
+        "population": -1,
+        "latitude": -29.87509,
+        "longitude": 29.051864
+    },
+    {
+        "name": "Seetsas",
+        "country": "Lesotho",
+        "province": "Lesotho",
+        "population": -1,
+        "latitude": -28.900346,
+        "longitude": 28.175155
+    },
+    {
+        "name": "Schoolplaats",
+        "country": "Lesotho",
+        "province": "Lesotho",
+        "population": -1,
+        "latitude": -30.3,
+        "longitude": 27.5
+    },
+    {
+        "name": "Richard",
+        "country": "Lesotho",
+        "province": "Lesotho",
+        "population": -1,
+        "latitude": -29.8833333,
+        "longitude": 27.6166667
+    },
+    {
+        "name": "Reisi",
+        "country": "Lesotho",
+        "province": "Lesotho",
+        "population": -1,
+        "latitude": -29.631968,
+        "longitude": 27.415232
+    },
+    {
+        "name": "Rasekilas",
+        "country": "Lesotho",
+        "province": "Lesotho",
+        "population": -1,
+        "latitude": -28.75,
+        "longitude": 28.35
+    },
+    {
+        "name": "Ramapepe",
+        "country": "Lesotho",
+        "province": "Lesotho",
+        "population": -1,
+        "latitude": -28.989992,
+        "longitude": 28.149149
+    },
+    {
+        "name": "Rakotoane",
+        "country": "Lesotho",
+        "province": "Lesotho",
+        "population": -1,
+        "latitude": -29.027426,
+        "longitude": 28.551464
+    },
+    {
+        "name": "Qalaheng",
+        "country": "Lesotho",
+        "province": "Lesotho",
+        "population": -1,
+        "latitude": -29.212951,
+        "longitude": 27.662122
+    },
+    {
+        "name": "Peka",
+        "country": "Lesotho",
+        "province": "Lesotho",
+        "population": -1,
+        "latitude": -28.968083,
+        "longitude": 27.750038
+    },
+    {
+        "name": "Numolani",
+        "country": "Lesotho",
+        "province": "Lesotho",
+        "population": -1,
+        "latitude": -29.05,
+        "longitude": 28.9666667
+    },
+    {
+        "name": "Ntsi",
+        "country": "Lesotho",
+        "province": "Lesotho",
+        "population": -1,
+        "latitude": -29.400196,
+        "longitude": 27.763658
+    },
+    {
+        "name": "Ntilane",
+        "country": "Lesotho",
+        "province": "Lesotho",
+        "population": -1,
+        "latitude": -29.9666667,
+        "longitude": 27.2833333
+    },
+    {
+        "name": "Nthodimonate",
+        "country": "Lesotho",
+        "province": "Lesotho",
+        "population": -1,
+        "latitude": -30.4833333,
+        "longitude": 27.75
+    },
+    {
+        "name": "Neni",
+        "country": "Lesotho",
+        "province": "Lesotho",
+        "population": -1,
+        "latitude": -30.2,
+        "longitude": 28.35
+    },
+    {
+        "name": "Mutlanyane",
+        "country": "Lesotho",
+        "province": "Lesotho",
+        "population": -1,
+        "latitude": -28.8166667,
+        "longitude": 28.45
+    },
+    {
+        "name": "Mpobong",
+        "country": "Lesotho",
+        "province": "Lesotho",
+        "population": -1,
+        "latitude": -29.778175,
+        "longitude": 27.803397
+    },
+    {
+        "name": "Mphoto",
+        "country": "Lesotho",
+        "province": "Lesotho",
+        "population": -1,
+        "latitude": -29.445363,
+        "longitude": 27.589156
+    },
+    {
+        "name": "Mpharane",
+        "country": "Lesotho",
+        "province": "Lesotho",
+        "population": -1,
+        "latitude": -30.0166667,
+        "longitude": 27.55
+    },
+    {
+        "name": "Moyeni Camp",
+        "country": "Lesotho",
+        "province": "Lesotho",
+        "population": -1,
+        "latitude": -30.4166667,
+        "longitude": 27.6833333
+    },
+    {
+        "name": "Moyeni Camp",
+        "country": "Lesotho",
+        "province": "Lesotho",
+        "population": -1,
+        "latitude": -30.3666667,
+        "longitude": 27.7333333
+    },
+    {
+        "name": "Motsie",
+        "country": "Lesotho",
+        "province": "Lesotho",
+        "population": -1,
+        "latitude": -29.92015,
+        "longitude": 28.283109
+    },
+    {
+        "name": "Morameng",
+        "country": "Lesotho",
+        "province": "Lesotho",
+        "population": -1,
+        "latitude": -29.080042,
+        "longitude": 27.725661
+    },
+    {
+        "name": "Monantsa",
+        "country": "Lesotho",
+        "province": "Lesotho",
+        "population": -1,
+        "latitude": -28.5666667,
+        "longitude": 28.6333333
+    },
+    {
+        "name": "Monaheng",
+        "country": "Lesotho",
+        "province": "Lesotho",
+        "population": -1,
+        "latitude": -29.8666667,
+        "longitude": 27.7166667
+    },
+    {
+        "name": "Molumong",
+        "country": "Lesotho",
+        "province": "Lesotho",
+        "population": -1,
+        "latitude": -29.32551,
+        "longitude": 28.989313
+    },
+    {
+        "name": "Molomos Hoek",
+        "country": "Lesotho",
+        "province": "Lesotho",
+        "population": -1,
+        "latitude": -29.716033,
+        "longitude": 27.484073
+    },
+    {
+        "name": "Moliboeas",
+        "country": "Lesotho",
+        "province": "Lesotho",
+        "population": -1,
+        "latitude": -28.95,
+        "longitude": 28.05
+    },
+    {
+        "name": "Molefis",
+        "country": "Lesotho",
+        "province": "Lesotho",
+        "population": -1,
+        "latitude": -28.7666667,
+        "longitude": 28.2833333
+    },
+    {
+        "name": "Mokoroane",
+        "country": "Lesotho",
+        "province": "Lesotho",
+        "population": -1,
+        "latitude": -29.923694,
+        "longitude": 27.214813
+    },
+    {
+        "name": "Mokomane",
+        "country": "Lesotho",
+        "province": "Lesotho",
+        "population": -1,
+        "latitude": -28.99637,
+        "longitude": 28.545083
+    },
+    {
+        "name": "Moitsupelis",
+        "country": "Lesotho",
+        "province": "Lesotho",
+        "population": -1,
+        "latitude": -29.5833333,
+        "longitude": 27.7666667
+    },
+    {
+        "name": "Mohlafateng",
+        "country": "Lesotho",
+        "province": "Lesotho",
+        "population": -1,
+        "latitude": -29.0333333,
+        "longitude": 27.8666667
+    },
+    {
+        "name": "Matsieng",
+        "country": "Lesotho",
+        "province": "Lesotho",
+        "population": -1,
+        "latitude": -29.617151,
+        "longitude": 27.566446
+    },
+    {
+        "name": "Matsieng",
+        "country": "Lesotho",
+        "province": "Lesotho",
+        "population": -1,
+        "latitude": -29.6,
+        "longitude": 27.5333333
+    },
+    {
+        "name": "Masitise",
+        "country": "Lesotho",
+        "province": "Lesotho",
+        "population": -1,
+        "latitude": -30.404041,
+        "longitude": 27.645555
+    },
+    {
+        "name": "Mashai",
+        "country": "Lesotho",
+        "province": "Lesotho",
+        "population": -1,
+        "latitude": -29.64512,
+        "longitude": 28.809225
+    },
+    {
+        "name": "Mantsebo",
+        "country": "Lesotho",
+        "province": "Lesotho",
+        "population": -1,
+        "latitude": -29.4833333,
+        "longitude": 27.5166667
+    },
+    {
+        "name": "Mantsa",
+        "country": "Lesotho",
+        "province": "Lesotho",
+        "population": -1,
+        "latitude": -29.655803,
+        "longitude": 27.837995
+    },
+    {
+        "name": "Mantoetsi",
+        "country": "Lesotho",
+        "province": "Lesotho",
+        "population": -1,
+        "latitude": -29.15,
+        "longitude": 27.9
+    },
+    {
+        "name": "Mankimane",
+        "country": "Lesotho",
+        "province": "Lesotho",
+        "population": -1,
+        "latitude": -29.85,
+        "longitude": 27.35
+    },
+    {
+        "name": "Malaleng",
+        "country": "Lesotho",
+        "province": "Lesotho",
+        "population": -1,
+        "latitude": -29.652537,
+        "longitude": 27.335809
+    },
+    {
+        "name": "Makuaes",
+        "country": "Lesotho",
+        "province": "Lesotho",
+        "population": -1,
+        "latitude": -30.287992,
+        "longitude": 28.057566
+    },
+    {
+        "name": "Makhoas",
+        "country": "Lesotho",
+        "province": "Lesotho",
+        "population": -1,
+        "latitude": -28.963858,
+        "longitude": 28.133537
+    },
+    {
+        "name": "Makhinas",
+        "country": "Lesotho",
+        "province": "Lesotho",
+        "population": -1,
+        "latitude": -30.15,
+        "longitude": 27.35
+    },
+    {
+        "name": "Mahlatsas Nek",
+        "country": "Lesotho",
+        "province": "Lesotho",
+        "population": -1,
+        "latitude": -29.2166667,
+        "longitude": 27.9833333
+    },
+    {
+        "name": "Lower Qeme",
+        "country": "Lesotho",
+        "province": "Lesotho",
+        "population": -1,
+        "latitude": -29.532425,
+        "longitude": 27.495446
+    },
+    {
+        "name": "Lirahalibonoe",
+        "country": "Lesotho",
+        "province": "Lesotho",
+        "population": -1,
+        "latitude": -29.45,
+        "longitude": 27.9333333
+    },
+    {
+        "name": "Liphakoeng",
+        "country": "Lesotho",
+        "province": "Lesotho",
+        "population": -1,
+        "latitude": -28.727945,
+        "longitude": 28.364837
+    },
+    {
+        "name": "Likhoele",
+        "country": "Lesotho",
+        "province": "Lesotho",
+        "population": -1,
+        "latitude": -29.806933,
+        "longitude": 27.294919
+    },
+    {
+        "name": "Letsikas",
+        "country": "Lesotho",
+        "province": "Lesotho",
+        "population": -1,
+        "latitude": -28.6333333,
+        "longitude": 28.3833333
+    },
+    {
+        "name": "Letsie",
+        "country": "Lesotho",
+        "province": "Lesotho",
+        "population": -1,
+        "latitude": -29.8333333,
+        "longitude": 27.3166667
+    },
+    {
+        "name": "Lersuelas",
+        "country": "Lesotho",
+        "province": "Lesotho",
+        "population": -1,
+        "latitude": -29.0333333,
+        "longitude": 28.1
+    },
+    {
+        "name": "Lejone",
+        "country": "Lesotho",
+        "province": "Lesotho",
+        "population": -1,
+        "latitude": -29.108526,
+        "longitude": 28.488072
+    },
+    {
+        "name": "Laoti",
+        "country": "Lesotho",
+        "province": "Lesotho",
+        "population": -1,
+        "latitude": -29.0333333,
+        "longitude": 28.5166667
+    },
+    {
+        "name": "Kubung",
+        "country": "Lesotho",
+        "province": "Lesotho",
+        "population": -1,
+        "latitude": -30.094038,
+        "longitude": 28.019776
+    },
+    {
+        "name": "Kolo",
+        "country": "Lesotho",
+        "province": "Lesotho",
+        "population": -1,
+        "latitude": -29.593152,
+        "longitude": 27.34835
+    },
+    {
+        "name": "Koeneng",
+        "country": "Lesotho",
+        "province": "Lesotho",
+        "population": -1,
+        "latitude": -29.0333333,
+        "longitude": 28
+    },
+    {
+        "name": "Khitsane",
+        "country": "Lesotho",
+        "province": "Lesotho",
+        "population": -1,
+        "latitude": -30.092145,
+        "longitude": 27.413874
+    },
+    {
+        "name": "Khetisas",
+        "country": "Lesotho",
+        "province": "Lesotho",
+        "population": -1,
+        "latitude": -28.9166667,
+        "longitude": 28.1666667
+    },
+    {
+        "name": "Khamolane",
+        "country": "Lesotho",
+        "province": "Lesotho",
+        "population": -1,
+        "latitude": -29.35,
+        "longitude": 27.7333333
+    },
+    {
+        "name": "Khabos",
+        "country": "Lesotho",
+        "province": "Lesotho",
+        "population": -1,
+        "latitude": -28.8333333,
+        "longitude": 28.2333333
+    },
+    {
+        "name": "Kepi",
+        "country": "Lesotho",
+        "province": "Lesotho",
+        "population": -1,
+        "latitude": -29.156476,
+        "longitude": 27.771993
+    },
+    {
+        "name": "Kena",
+        "country": "Lesotho",
+        "province": "Lesotho",
+        "population": -1,
+        "latitude": -29.7666667,
+        "longitude": 27.65
+    },
+    {
+        "name": "Hobsons",
+        "country": "Lesotho",
+        "province": "Lesotho",
+        "population": -1,
+        "latitude": -29.1166667,
+        "longitude": 27.9666667
+    },
+    {
+        "name": "Hlotse Camp",
+        "country": "Lesotho",
+        "province": "Lesotho",
+        "population": -1,
+        "latitude": -28.882913,
+        "longitude": 28.075118
+    },
+    {
+        "name": "Hill Top",
+        "country": "Lesotho",
+        "province": "Lesotho",
+        "population": -1,
+        "latitude": -30.053626,
+        "longitude": 28.8062
+    },
+    {
+        "name": "Hermon",
+        "country": "Lesotho",
+        "province": "Lesotho",
+        "population": -1,
+        "latitude": -29.725294,
+        "longitude": 27.111907
+    },
+    {
+        "name": "Helehehle",
+        "country": "Lesotho",
+        "province": "Lesotho",
+        "population": -1,
+        "latitude": -29.9833333,
+        "longitude": 27.5
+    },
+    {
+        "name": "Hangers Drift",
+        "country": "Lesotho",
+        "province": "Lesotho",
+        "population": -1,
+        "latitude": -29.2,
+        "longitude": 27.5666667
+    },
+    {
+        "name": "George",
+        "country": "Lesotho",
+        "province": "Lesotho",
+        "population": -1,
+        "latitude": -29.25,
+        "longitude": 27.95
+    },
+    {
+        "name": "Foso",
+        "country": "Lesotho",
+        "province": "Lesotho",
+        "population": -1,
+        "latitude": -29.2666667,
+        "longitude": 27.5666667
+    },
+    {
+        "name": "Fosi",
+        "country": "Lesotho",
+        "province": "Lesotho",
+        "population": -1,
+        "latitude": -29.4333333,
+        "longitude": 27.8666667
+    },
+    {
+        "name": "Fort Hartley",
+        "country": "Lesotho",
+        "province": "Lesotho",
+        "population": -1,
+        "latitude": -30.3333333,
+        "longitude": 27.75
+    },
+    {
+        "name": "Dilli Dilli",
+        "country": "Lesotho",
+        "province": "Lesotho",
+        "population": -1,
+        "latitude": -30.526976,
+        "longitude": 27.670183
+    },
+    {
+        "name": "Cutting Camp",
+        "country": "Lesotho",
+        "province": "Lesotho",
+        "population": -1,
+        "latitude": -30.2666667,
+        "longitude": 27.75
+    },
+    {
+        "name": "Corn Exchange",
+        "country": "Lesotho",
+        "province": "Lesotho",
+        "population": -1,
+        "latitude": -28.9833333,
+        "longitude": 27.9833333
+    },
+    {
+        "name": "Cana",
+        "country": "Lesotho",
+        "province": "Lesotho",
+        "population": -1,
+        "latitude": -29.109106,
+        "longitude": 27.835073
+    },
+    {
+        "name": "Brakfontein",
+        "country": "Lesotho",
+        "province": "Lesotho",
+        "population": -1,
+        "latitude": -30.241778,
+        "longitude": 27.434517
+    },
+    {
+        "name": "Bokong",
+        "country": "Lesotho",
+        "province": "Lesotho",
+        "population": -1,
+        "latitude": -29.335866,
+        "longitude": 28.460914
+    },
+    {
+        "name": "Berea Hills",
+        "country": "Lesotho",
+        "province": "Lesotho",
+        "population": -1,
+        "latitude": -29.269128,
+        "longitude": 27.610296
+    },
+    {
+        "name": "Baroaneng",
+        "country": "Lesotho",
+        "province": "Lesotho",
+        "population": -1,
+        "latitude": -29.7166667,
+        "longitude": 27.35
+    },
+    {
+        "name": "Alwyns Kop",
+        "country": "Lesotho",
+        "province": "Lesotho",
+        "population": -1,
+        "latitude": -30.394425,
+        "longitude": 27.620721
+    },
+    {
+        "name": "Kao",
+        "country": "Lesotho",
+        "province": "Butha-Buthe",
+        "population": -1,
+        "latitude": -29.01578715356645,
+        "longitude": 28.62735629081726
+    },
+    {
+        "name": "Liqhobong",
+        "country": "Lesotho",
+        "province": "Mokhotlong",
+        "population": -1,
+        "latitude": -28.98760381919957,
+        "longitude": 28.59865665435791
+    },
+    {
+        "name": "Hleoheng",
+        "country": "Lesotho",
+        "province": "Leribe",
+        "population": -1,
+        "latitude": -28.928993374669922,
+        "longitude": 27.870383262634277
+    },
+    {
+        "name": "Ha Nyenye",
+        "country": "Lesotho",
+        "province": "Leribe",
+        "population": -1,
+        "latitude": -28.904050295117745,
+        "longitude": 27.91677474975586
+    },
+    {
+        "name": "ha Makhoroana",
+        "country": "Lesotho",
+        "province": "Berea",
+        "population": -1,
+        "latitude": -29.158806,
+        "longitude": 28.035628
+    },
+    {
+        "name": "Ramabanta",
+        "country": "Lesotho",
+        "province": "Maseru",
+        "population": -1,
+        "latitude": -29.66732,
+        "longitude": 27.786954
+    },
+    {
+        "name": "Ha Tsolo",
+        "country": "Lesotho",
+        "province": "Maseru",
+        "population": -1,
+        "latitude": -29.353478,
+        "longitude": 27.463421
+    },
+    {
+        "name": "Mokopung",
+        "country": "Lesotho",
+        "province": "Mohaleʼs Hoek",
+        "population": -1,
+        "latitude": -30.0212,
+        "longitude": 28.1716
+    },
+    {
+        "name": "Ha Thoso",
+        "country": "Lesotho",
+        "province": "Thaba-Tseka",
+        "population": -1,
+        "latitude": -29.405,
+        "longitude": 28.744
+    },
+    {
+        "name": "Ha Mpesi",
+        "country": "Lesotho",
+        "province": "Maseru",
+        "population": -1,
+        "latitude": -29.384444,
+        "longitude": 27.566944
+    },
+    {
+        "name": "Qalakheng",
+        "country": "Lesotho",
+        "province": "Mohaleʼs Hoek",
+        "population": -1,
+        "latitude": -30.134722,
+        "longitude": 27.476944
+    },
+    {
+        "name": "Koalabata",
+        "country": "Lesotho",
+        "province": "Berea",
+        "population": -1,
+        "latitude": -29.296762,
+        "longitude": 27.556978
+    },
+    {
+        "name": "Taung",
+        "country": "Lesotho",
+        "province": "Quthing",
+        "population": -1,
+        "latitude": -30.365,
+        "longitude": 27.613333
+    },
+    {
+        "name": "Phahameng",
+        "country": "Lesotho",
+        "province": "Mohaleʼs Hoek",
+        "population": -1,
+        "latitude": -30.221956,
+        "longitude": 27.4153
+    },
+    {
+        "name": "Motse-Mocha",
+        "country": "Lesotho",
+        "province": "Maseru",
+        "population": -1,
+        "latitude": -29.430231,
+        "longitude": 27.55235
+    },
+    {
+        "name": "Tuke",
+        "country": "Lesotho",
+        "province": "Berea",
+        "population": -1,
+        "latitude": -29.0174,
+        "longitude": 27.9999
+    },
+    {
+        "name": "Ha Matala",
+        "country": "Lesotho",
+        "province": "Maseru",
+        "population": -1,
+        "latitude": -29.375496,
+        "longitude": 27.543155
+    },
+    {
+        "name": "Lower Seoli",
+        "country": "Lesotho",
+        "province": "Maseru",
+        "population": -1,
+        "latitude": -29.36246,
+        "longitude": 27.52112
+    },
+    {
+        "name": "Ha Makuka",
+        "country": "Lesotho",
+        "province": "Leribe",
+        "population": -1,
+        "latitude": -28.9337,
+        "longitude": 28.264231
+    },
+    {
+        "name": "Ha Hoki",
+        "country": "Lesotho",
+        "province": "Leribe",
+        "population": -1,
+        "latitude": -28.936,
+        "longitude": 28.076
+    },
+    {
+        "name": "Ha Moima",
+        "country": "Lesotho",
+        "province": "Maseru",
+        "population": -1,
+        "latitude": -29.679958,
+        "longitude": 27.608082
+    },
+    {
+        "name": "Phelandaba",
+        "country": "Lesotho",
+        "province": "Butha-Buthe",
+        "population": -1,
+        "latitude": -28.76322,
+        "longitude": 28.50266
+    },
+    {
+        "name": "Ha Ramalapi",
+        "country": "Lesotho",
+        "province": "Thaba-Tseka",
+        "population": -1,
+        "latitude": -29.57196,
+        "longitude": 28.6169
+    },
+    {
+        "name": "Ha Mohau",
+        "country": "Lesotho",
+        "province": "Thaba-Tseka",
+        "population": -1,
+        "latitude": -29.695,
+        "longitude": 28.505
+    },
+    {
+        "name": "Ha Sejakhosi",
+        "country": "Lesotho",
+        "province": "Quthing",
+        "population": -1,
+        "latitude": -30.407,
+        "longitude": 27.854
+    },
+    {
+        "name": "Mangaung",
+        "country": "Lesotho",
+        "province": "Mokhotlong",
+        "population": -1,
+        "latitude": -29.2895,
+        "longitude": 29.0412
+    },
+    {
+        "name": "Ha Phohleli",
+        "country": "Lesotho",
+        "province": "Maseru",
+        "population": -1,
+        "latitude": -29.515221,
+        "longitude": 27.630079
+    },
+    {
+        "name": "Ha Sebaki",
+        "country": "Lesotho",
+        "province": "Mafeteng",
+        "population": -1,
+        "latitude": -29.919,
+        "longitude": 27.465
+    },
+    {
+        "name": "Likhutlong",
+        "country": "Lesotho",
+        "province": "Mohaleʼs Hoek",
+        "population": -1,
+        "latitude": -30.148,
+        "longitude": 27.482
+    },
+    {
+        "name": "Ha Motsapi",
+        "country": "Lesotho",
+        "province": "Quthing",
+        "population": -1,
+        "latitude": -30.572,
+        "longitude": 27.769
+    },
+    {
+        "name": "Ha Raphera",
+        "country": "Lesotho",
+        "province": "Quthing",
+        "population": -1,
+        "latitude": -30.43444444,
+        "longitude": 27.81833333
+    },
+    {
+        "name": "Ha Macheli",
+        "country": "Lesotho",
+        "province": "Maseru",
+        "population": -1,
+        "latitude": -29.549976,
+        "longitude": 27.777045
+    },
+    {
+        "name": "Ha Leoka",
+        "country": "Lesotho",
+        "province": "Thaba-Tseka",
+        "population": -1,
+        "latitude": -29.424,
+        "longitude": 28.62
+    },
+    {
+        "name": "Ha Putsoane",
+        "country": "Lesotho",
+        "province": "Mohaleʼs Hoek",
+        "population": -1,
+        "latitude": -30.2359,
+        "longitude": 27.8
+    },
+    {
+        "name": "Ha Kamoho",
+        "country": "Lesotho",
+        "province": "Butha-Buthe",
+        "population": -1,
+        "latitude": -28.7768,
+        "longitude": 28.2493
+    },
+    {
+        "name": "Ha Nchoba",
+        "country": "Lesotho",
+        "province": "Mohaleʼs Hoek",
+        "population": -1,
+        "latitude": -30.101714,
+        "longitude": 27.441744
+    },
+    {
+        "name": "Ha Nelese",
+        "country": "Lesotho",
+        "province": "Maseru",
+        "population": -1,
+        "latitude": -29.3779,
+        "longitude": 27.560525
+    },
+    {
+        "name": "Lisemeng 1",
+        "country": "Lesotho",
+        "province": "Leribe",
+        "population": -1,
+        "latitude": -28.878414,
+        "longitude": 28.042022
+    },
+    {
+        "name": "Mafikeng",
+        "country": "Lesotho",
+        "province": "Maseru",
+        "population": -1,
+        "latitude": -29.453492,
+        "longitude": 27.713756
+    },
+    {
+        "name": "Ha Lehloara",
+        "country": "Lesotho",
+        "province": "Butha-Buthe",
+        "population": -1,
+        "latitude": -28.95,
+        "longitude": 28.5579
+    },
+    {
+        "name": "Ha Ramonaheng",
+        "country": "Lesotho",
+        "province": "Berea",
+        "population": -1,
+        "latitude": -29.15139,
+        "longitude": 27.74166
+    },
+    {
+        "name": "Ha Maqotoane",
+        "country": "Lesotho",
+        "province": "Berea",
+        "population": -1,
+        "latitude": -29.1139,
+        "longitude": 28.0863
+    },
+    {
+        "name": "Boinyatso",
+        "country": "Lesotho",
+        "province": "Butha-Buthe",
+        "population": -1,
+        "latitude": -28.782,
+        "longitude": 28.465
+    },
+    {
+        "name": "Ha Setala",
+        "country": "Lesotho",
+        "province": "Thaba-Tseka",
+        "population": -1,
+        "latitude": -29.67801,
+        "longitude": 28.81315
+    },
+    {
+        "name": "Ha-Ramokoatsi",
+        "country": "Lesotho",
+        "province": "Mafeteng",
+        "population": -1,
+        "latitude": -29.747703,
+        "longitude": 27.347238
+    },
+    {
+        "name": "Katlehong",
+        "country": "Lesotho",
+        "province": "Maseru",
+        "population": -1,
+        "latitude": -29.331,
+        "longitude": 27.489
+    },
+    {
+        "name": "Matlapaneng",
+        "country": "Lesotho",
+        "province": "Mafeteng",
+        "population": -1,
+        "latitude": -29.821,
+        "longitude": 27.236
+    },
+    {
+        "name": "Ha Mafeto",
+        "country": "Lesotho",
+        "province": "Mafeteng",
+        "population": -1,
+        "latitude": -29.69195,
+        "longitude": 27.34022
+    },
+    {
+        "name": "Ha Majake",
+        "country": "Lesotho",
+        "province": "Mafeteng",
+        "population": -1,
+        "latitude": -29.67838,
+        "longitude": 27.24018
+    },
+    {
+        "name": "Ha Nepe",
+        "country": "Lesotho",
+        "province": "Berea",
+        "population": -1,
+        "latitude": -29.119,
+        "longitude": 27.66
+    },
+    {
+        "name": "Ha Malibe",
+        "country": "Lesotho",
+        "province": "Quthing",
+        "population": -1,
+        "latitude": -30.388358,
+        "longitude": 27.643836
+    },
+    {
+        "name": "Upper Thamae",
+        "country": "Lesotho",
+        "province": "Maseru",
+        "population": -1,
+        "latitude": -29.33051,
+        "longitude": 27.5128
+    },
+    {
+        "name": "Linakeng Ha Mphosi",
+        "country": "Lesotho",
+        "province": "Mokhotlong",
+        "population": -1,
+        "latitude": -29.5297,
+        "longitude": 28.784914
+    },
+    {
+        "name": "Qalo",
+        "country": "Lesotho",
+        "province": "Butha-Buthe",
+        "population": -1,
+        "latitude": -28.71895,
+        "longitude": 28.31308
+    },
+    {
+        "name": "Sekamaneng",
+        "country": "Lesotho",
+        "province": "Berea",
+        "population": -1,
+        "latitude": -29.280278,
+        "longitude": 27.544444
+    },
+    {
+        "name": "Ha Motjoka",
+        "country": "Lesotho",
+        "province": "Berea",
+        "population": -1,
+        "latitude": -29.143294,
+        "longitude": 27.7483228
+    },
+    {
+        "name": "Ha Kotsane",
+        "country": "Lesotho",
+        "province": "Leribe",
+        "population": -1,
+        "latitude": -28.8925,
+        "longitude": 28.0815
+    },
+    {
+        "name": "Phahameng",
+        "country": "Lesotho",
+        "province": "Mafeteng",
+        "population": -1,
+        "latitude": -29.82922,
+        "longitude": 27.23262
+    },
+    {
+        "name": "Ha Keiso",
+        "country": "Lesotho",
+        "province": "Maseru",
+        "population": -1,
+        "latitude": -29.35674,
+        "longitude": 27.5326
+    },
+    {
+        "name": "Ha Tlhakanenlo",
+        "country": "Lesotho",
+        "province": "Maseru",
+        "population": -1,
+        "latitude": -29.595443,
+        "longitude": 27.470556
+    },
+    {
+        "name": "Manekoleng",
+        "country": "Lesotho",
+        "province": "Quthing",
+        "population": -1,
+        "latitude": -30.383803,
+        "longitude": 27.769331
+    },
+    {
+        "name": "Nkaus",
+        "country": "Lesotho",
+        "province": "Quthing",
+        "population": -1,
+        "latitude": -30.03315,
+        "longitude": 28.20005
+    },
+    {
+        "name": "Ha Katu",
+        "country": "Lesotho",
+        "province": "Maseru",
+        "population": -1,
+        "latitude": -29.4629,
+        "longitude": 27.6039
+    },
+    {
+        "name": "Ha Lethokonyana",
+        "country": "Lesotho",
+        "province": "Berea",
+        "population": -1,
+        "latitude": -29.1624,
+        "longitude": 27.8168
+    },
+    {
+        "name": "Ha Khohlooa",
+        "country": "Lesotho",
+        "province": "Berea",
+        "population": -1,
+        "latitude": -29.31567,
+        "longitude": 27.71718
+    },
+    {
+        "name": "Ha Sankatana",
+        "country": "Lesotho",
+        "province": "Mohaleʼs Hoek",
+        "population": -1,
+        "latitude": -30.168971,
+        "longitude": 27.405853
+    },
+    {
+        "name": "Ha Petje",
+        "country": "Lesotho",
+        "province": "Maseru",
+        "population": -1,
+        "latitude": -29.334553,
+        "longitude": 27.33575
+    },
+    {
+        "name": "Ha Leaoa",
+        "country": "Lesotho",
+        "province": "Thaba-Tseka",
+        "population": -1,
+        "latitude": -29.35558,
+        "longitude": 28.57239
+    },
+    {
+        "name": "Ha Seleitara",
+        "country": "Lesotho",
+        "province": "Mohaleʼs Hoek",
+        "population": -1,
+        "latitude": -30.29298,
+        "longitude": 27.76685
+    },
+    {
+        "name": "Ha Mokati",
+        "country": "Lesotho",
+        "province": "Leribe",
+        "population": -1,
+        "latitude": -28.9628,
+        "longitude": 27.901
+    },
+    {
+        "name": "Ha Molemane",
+        "country": "Lesotho",
+        "province": "Berea",
+        "population": -1,
+        "latitude": -29.1536,
+        "longitude": 27.729
+    },
+    {
+        "name": "Ha-Seoli",
+        "country": "Lesotho",
+        "province": "Maseru",
+        "population": -1,
+        "latitude": -29.371347,
+        "longitude": 27.508133
+    },
+    {
+        "name": "Hills View",
+        "country": "Lesotho",
+        "province": "Maseru",
+        "population": -1,
+        "latitude": -29.326992,
+        "longitude": 27.4753261
+    },
+    {
+        "name": "Letlapeng",
+        "country": "Lesotho",
+        "province": "Thaba-Tseka",
+        "population": -1,
+        "latitude": -29.373333,
+        "longitude": 28.495278
+    },
+    {
+        "name": "Tikathole",
+        "country": "Lesotho",
+        "province": "Maseru",
+        "population": -1,
+        "latitude": -29.473783,
+        "longitude": 27.397036
+    },
+    {
+        "name": "Ha Majara",
+        "country": "Lesotho",
+        "province": "Quthing",
+        "population": -1,
+        "latitude": -30.118792,
+        "longitude": 27.994714
+    },
+    {
+        "name": "Ha Tsautse",
+        "country": "Lesotho",
+        "province": "Maseru",
+        "population": -1,
+        "latitude": -29.45344,
+        "longitude": 27.43486
+    },
+    {
+        "name": "Ha Malephane",
+        "country": "Lesotho",
+        "province": "Mohaleʼs Hoek",
+        "population": -1,
+        "latitude": -30.2078517,
+        "longitude": 27.8317956
+    },
+    {
+        "name": "Ha Fou",
+        "country": "Lesotho",
+        "province": "Qachaʼs Nek",
+        "population": -1,
+        "latitude": -29.943949,
+        "longitude": 28.511776
+    },
+    {
+        "name": "Ha Qacha",
+        "country": "Lesotho",
+        "province": "Mohaleʼs Hoek",
+        "population": -1,
+        "latitude": -30.218689,
+        "longitude": 27.814075
+    },
+    {
+        "name": "Ha Makhalanyane",
+        "country": "Lesotho",
+        "province": "Maseru",
+        "population": -1,
+        "latitude": -29.405716,
+        "longitude": 27.615145
+    },
+    {
+        "name": "Mankoaneng",
+        "country": "Lesotho",
+        "province": "Leribe",
+        "population": -1,
+        "latitude": -28.868698,
+        "longitude": 28.040392
+    },
+    {
+        "name": "Ha Foso",
+        "country": "Lesotho",
+        "province": "Berea",
+        "population": -1,
+        "latitude": -29.261211,
+        "longitude": 27.569695
+    },
+    {
+        "name": "Ts'enola",
+        "country": "Lesotho",
+        "province": "Berea",
+        "population": -1,
+        "latitude": -29.30923,
+        "longitude": 27.53869
+    },
+    {
+        "name": "Ha Thibeli",
+        "country": "Lesotho",
+        "province": "Leribe",
+        "population": -1,
+        "latitude": -29.170253,
+        "longitude": 28.480708
+    },
+    {
+        "name": "Ha Khojane",
+        "country": "Lesotho",
+        "province": "Leribe",
+        "population": -1,
+        "latitude": -28.95397,
+        "longitude": 28.16186
+    },
+    {
+        "name": "Ha Ntjabane",
+        "country": "Lesotho",
+        "province": "Berea",
+        "population": -1,
+        "latitude": -29.137594,
+        "longitude": 27.741347
+    },
+    {
+        "name": "Ha Mafethe",
+        "country": "Lesotho",
+        "province": "Mohaleʼs Hoek",
+        "population": -1,
+        "latitude": -30.174,
+        "longitude": 27.544
+    },
+    {
+        "name": "Ha Ntsooa",
+        "country": "Lesotho",
+        "province": "Leribe",
+        "population": -1,
+        "latitude": -29.251,
+        "longitude": 28.545
+    },
+    {
+        "name": "Ha Ratsoana",
+        "country": "Lesotho",
+        "province": "Maseru",
+        "population": -1,
+        "latitude": -29.3552,
+        "longitude": 27.4936
+    },
+    {
+        "name": "Ha Khabele",
+        "country": "Lesotho",
+        "province": "Berea",
+        "population": -1,
+        "latitude": -29.33471,
+        "longitude": 27.75357
+    },
+    {
+        "name": "Ha Sekhebetlele",
+        "country": "Lesotho",
+        "province": "Mohaleʼs Hoek",
+        "population": -1,
+        "latitude": -29.9581,
+        "longitude": 28.1068
+    },
+    {
+        "name": "Ha Mphobe",
+        "country": "Lesotho",
+        "province": "Mafeteng",
+        "population": -1,
+        "latitude": -29.6846,
+        "longitude": 27.10645
+    },
+    {
+        "name": "Live-Stock",
+        "country": "Lesotho",
+        "province": "Thaba-Tseka",
+        "population": -1,
+        "latitude": -29.529153,
+        "longitude": 28.601614
+    },
+    {
+        "name": "Ha Sikara",
+        "country": "Lesotho",
+        "province": "Quthing",
+        "population": -1,
+        "latitude": -30.399066,
+        "longitude": 27.700604
+    },
+    {
+        "name": "Phopholetsa",
+        "country": "Lesotho",
+        "province": "Berea",
+        "population": -1,
+        "latitude": -29.306973,
+        "longitude": 27.524539
+    },
+    {
+        "name": "Ha Mosi",
+        "country": "Lesotho",
+        "province": "Quthing",
+        "population": -1,
+        "latitude": -30.05279,
+        "longitude": 28.284069
+    },
+    {
+        "name": "Ha Lekhema",
+        "country": "Lesotho",
+        "province": "Mohaleʼs Hoek",
+        "population": -1,
+        "latitude": -30.1282,
+        "longitude": 27.479564
+    },
+    {
+        "name": "Ha Matjotjo",
+        "country": "Lesotho",
+        "province": "Berea",
+        "population": -1,
+        "latitude": -29.228,
+        "longitude": 27.869
+    },
+    {
+        "name": "Ha Ramosoeu",
+        "country": "Lesotho",
+        "province": "Mafeteng",
+        "population": -1,
+        "latitude": -29.908,
+        "longitude": 27.525
+    },
+    {
+        "name": "Ha Ntsabane",
+        "country": "Lesotho",
+        "province": "Berea",
+        "population": -1,
+        "latitude": -29.0919,
+        "longitude": 27.871
+    },
+    {
+        "name": "Ha Apeal Makhoareng",
+        "country": "Lesotho",
+        "province": "Qachaʼs Nek",
+        "population": -1,
+        "latitude": -30.03169,
+        "longitude": 28.88453
+    },
+    {
+        "name": "Ha Jimisi",
+        "country": "Lesotho",
+        "province": "Maseru",
+        "population": -1,
+        "latitude": -29.405715,
+        "longitude": 27.541754
+    },
+    {
+        "name": "Thabong I",
+        "country": "Lesotho",
+        "province": "Thaba-Tseka",
+        "population": -1,
+        "latitude": -29.509111,
+        "longitude": 28.593095
+    },
+    {
+        "name": "Ha-Nkhetheleng",
+        "country": "Lesotho",
+        "province": "Mohaleʼs Hoek",
+        "population": -1,
+        "latitude": -30.294461,
+        "longitude": 27.541967
+    },
+    {
+        "name": "Makeneng",
+        "country": "Lesotho",
+        "province": "Mafeteng",
+        "population": -1,
+        "latitude": -29.821,
+        "longitude": 27.313
+    },
+    {
+        "name": "Ha Thetsane",
+        "country": "Lesotho",
+        "province": "Maseru",
+        "population": -1,
+        "latitude": -29.339744,
+        "longitude": 27.462621
+    },
+    {
+        "name": "Ha Molapo",
+        "country": "Lesotho",
+        "province": "Butha-Buthe",
+        "population": -1,
+        "latitude": -28.746182,
+        "longitude": 28.471231
+    },
+    {
+        "name": "Ha Machakela",
+        "country": "Lesotho",
+        "province": "Quthing",
+        "population": -1,
+        "latitude": -30.15158,
+        "longitude": 27.91368
+    },
+    {
+        "name": "Ha Khotlela",
+        "country": "Lesotho",
+        "province": "Mafeteng",
+        "population": -1,
+        "latitude": -29.78506,
+        "longitude": 27.52827
+    },
+    {
+        "name": "Leribe Moreneng",
+        "country": "Lesotho",
+        "province": "Leribe",
+        "population": -1,
+        "latitude": -28.799892,
+        "longitude": 28.108873
+    },
+    {
+        "name": "Taung",
+        "country": "Lesotho",
+        "province": "Maseru",
+        "population": -1,
+        "latitude": -29.41744,
+        "longitude": 27.5451167
+    },
+    {
+        "name": "Lower Thamae",
+        "country": "Lesotho",
+        "province": "Maseru",
+        "population": -1,
+        "latitude": -29.31986,
+        "longitude": 27.5135
+    },
+    {
+        "name": "Sea-Point",
+        "country": "Lesotho",
+        "province": "Maseru",
+        "population": -1,
+        "latitude": -29.30766,
+        "longitude": 27.49895
+    },
+    {
+        "name": "Borokhoaneng",
+        "country": "Lesotho",
+        "province": "Maseru",
+        "population": -1,
+        "latitude": -29.342984,
+        "longitude": 27.514466
+    },
+    {
+        "name": "Ha Paki",
+        "country": "Lesotho",
+        "province": "Maseru",
+        "population": -1,
+        "latitude": -29.4103,
+        "longitude": 27.5559
+    },
+    {
+        "name": "Maseru West",
+        "country": "Lesotho",
+        "province": "Maseru",
+        "population": -1,
+        "latitude": -29.30468,
+        "longitude": 27.47631
+    },
+    {
+        "name": "Thetsane West",
+        "country": "Lesotho",
+        "province": "Maseru",
+        "population": -1,
+        "latitude": -29.344483,
+        "longitude": 27.44698
+    },
+    {
+        "name": "Mohalalitoe",
+        "country": "Lesotho",
+        "province": "Maseru",
+        "population": -1,
+        "latitude": -29.31537,
+        "longitude": 27.50693
+    },
+    {
+        "name": "Ha Takalimane",
+        "country": "Lesotho",
+        "province": "Maseru",
+        "population": -1,
+        "latitude": -29.443086,
+        "longitude": 27.56488
+    }
+]

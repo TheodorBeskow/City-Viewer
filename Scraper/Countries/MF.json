@@ -1,0 +1,490 @@
+[
+    {
+        "name": "Marigot",
+        "country": "Saint Martin",
+        "province": "MF,FR",
+        "population": 5700,
+        "latitude": 18.06819,
+        "longitude": -63.08302
+    },
+    {
+        "name": "Grand-Case",
+        "country": "Saint Martin",
+        "province": "MF,FR",
+        "population": 1000,
+        "latitude": 18.104761,
+        "longitude": -63.05358
+    },
+    {
+        "name": "Colombier",
+        "country": "Saint Martin",
+        "province": "MF,FR",
+        "population": -1,
+        "latitude": 18.07193,
+        "longitude": -63.060097
+    },
+    {
+        "name": "Quartier de Grand’ Case",
+        "country": "Saint Martin",
+        "province": "MF,FR",
+        "population": -1,
+        "latitude": 18.083333,
+        "longitude": -63.066667
+    },
+    {
+        "name": "Cul-de-Sac",
+        "country": "Saint Martin",
+        "province": "MF,FR",
+        "population": -1,
+        "latitude": 18.101557,
+        "longitude": -63.030321
+    },
+    {
+        "name": "Les Terres Basses",
+        "country": "Saint Martin",
+        "province": "MF,FR",
+        "population": -1,
+        "latitude": 18.069587,
+        "longitude": -63.142332
+    },
+    {
+        "name": "Sandy Ground",
+        "country": "Saint Martin",
+        "province": "MF,FR",
+        "population": -1,
+        "latitude": 18.058506,
+        "longitude": -63.099438
+    },
+    {
+        "name": "Galisbay",
+        "country": "Saint Martin",
+        "province": "MF,FR",
+        "population": -1,
+        "latitude": 18.072078,
+        "longitude": -63.081542
+    },
+    {
+        "name": "Agrément",
+        "country": "Saint Martin",
+        "province": "MF,FR",
+        "population": -1,
+        "latitude": 18.075138,
+        "longitude": -63.078256
+    },
+    {
+        "name": "Saint-Louis",
+        "country": "Saint Martin",
+        "province": "MF,FR",
+        "population": -1,
+        "latitude": 18.084413,
+        "longitude": -63.070287
+    },
+    {
+        "name": "Espérance",
+        "country": "Saint Martin",
+        "province": "MF,FR",
+        "population": -1,
+        "latitude": 18.095405,
+        "longitude": -63.036181
+    },
+    {
+        "name": "Saint-James",
+        "country": "Saint Martin",
+        "province": "MF,FR",
+        "population": -1,
+        "latitude": 18.064542,
+        "longitude": -63.085544
+    },
+    {
+        "name": "Rambaud",
+        "country": "Saint Martin",
+        "province": "MF,FR",
+        "population": -1,
+        "latitude": 18.082239,
+        "longitude": -63.066313
+    },
+    {
+        "name": "Quartier d’Orléans",
+        "country": "Saint Martin",
+        "province": "MF,FR",
+        "population": -1,
+        "latitude": 18.069115651334428,
+        "longitude": -63.035420179367065
+    },
+    {
+        "name": "Hameau du Pont",
+        "country": "Saint Martin",
+        "province": "MF,FR",
+        "population": -1,
+        "latitude": 18.072125,
+        "longitude": -63.078039
+    },
+    {
+        "name": "Orient Bay",
+        "country": "Saint Martin",
+        "province": "MF,FR",
+        "population": -1,
+        "latitude": 18.0899320510551,
+        "longitude": -63.0187368392944
+    },
+    {
+        "name": "Baie Nettle",
+        "country": "Saint Martin",
+        "province": "MF,FR",
+        "population": -1,
+        "latitude": 18.06191,
+        "longitude": -63.111785
+    },
+    {
+        "name": "Lacolombe",
+        "country": "Saint Martin",
+        "province": "MF,FR",
+        "population": -1,
+        "latitude": 18.05986,
+        "longitude": -63.071905
+    },
+    {
+        "name": "Concordia",
+        "country": "Saint Martin",
+        "province": "MF,FR",
+        "population": -1,
+        "latitude": 18.064894,
+        "longitude": -63.077944
+    },
+    {
+        "name": "Valois",
+        "country": "Saint Martin",
+        "province": "MF,FR",
+        "population": -1,
+        "latitude": 18.081682,
+        "longitude": -63.074365
+    },
+    {
+        "name": "Cripple Gate",
+        "country": "Saint Martin",
+        "province": "MF,FR",
+        "population": -1,
+        "latitude": 18.080716,
+        "longitude": -63.070991
+    },
+    {
+        "name": "Bienvenue",
+        "country": "Saint Martin",
+        "province": "MF,FR",
+        "population": -1,
+        "latitude": 18.085023,
+        "longitude": -63.078635
+    },
+    {
+        "name": "La Batterie",
+        "country": "Saint Martin",
+        "province": "MF,FR",
+        "population": -1,
+        "latitude": 18.08934,
+        "longitude": -63.077921
+    },
+    {
+        "name": "La Savane",
+        "country": "Saint Martin",
+        "province": "MF,FR",
+        "population": -1,
+        "latitude": 18.096951,
+        "longitude": -63.066198
+    },
+    {
+        "name": "Industrie",
+        "country": "Saint Martin",
+        "province": "MF,FR",
+        "population": -1,
+        "latitude": 18.103239,
+        "longitude": -63.047201
+    },
+    {
+        "name": "Anse Marcel",
+        "country": "Saint Martin",
+        "province": "MF,FR",
+        "population": -1,
+        "latitude": 18.110491,
+        "longitude": -63.037513
+    },
+    {
+        "name": "Parc de la Baie Orientale",
+        "country": "Saint Martin",
+        "province": "MF,FR",
+        "population": -1,
+        "latitude": 18.086431,
+        "longitude": -63.025518
+    },
+    {
+        "name": "Spring",
+        "country": "Saint Martin",
+        "province": "MF,FR",
+        "population": -1,
+        "latitude": 18.077053,
+        "longitude": -63.026525
+    },
+    {
+        "name": "Mont Saline",
+        "country": "Saint Martin",
+        "province": "MF,FR",
+        "population": -1,
+        "latitude": 18.066867,
+        "longitude": -63.031107
+    },
+    {
+        "name": "Belle Plaine",
+        "country": "Saint Martin",
+        "province": "MF,FR",
+        "population": -1,
+        "latitude": 18.06004,
+        "longitude": -63.044598
+    },
+    {
+        "name": "Petit Fond",
+        "country": "Saint Martin",
+        "province": "MF,FR",
+        "population": -1,
+        "latitude": 18.08277,
+        "longitude": -63.036301
+    },
+    {
+        "name": "La Belle Créole",
+        "country": "Saint Martin",
+        "province": "MF,FR",
+        "population": -1,
+        "latitude": 18.071587,
+        "longitude": -63.114194
+    },
+    {
+        "name": "La Samana",
+        "country": "Saint Martin",
+        "province": "MF,FR",
+        "population": -1,
+        "latitude": 18.056692,
+        "longitude": -63.139357
+    },
+    {
+        "name": "Le Morne Rond",
+        "country": "Saint Martin",
+        "province": "MF,FR",
+        "population": -1,
+        "latitude": 18.062099,
+        "longitude": -63.094647
+    },
+    {
+        "name": "Sur l'Étang",
+        "country": "Saint Martin",
+        "province": "MF,FR",
+        "population": -1,
+        "latitude": 18.074381,
+        "longitude": -63.026245
+    },
+    {
+        "name": "Norman",
+        "country": "Saint Martin",
+        "province": "MF,FR",
+        "population": -1,
+        "latitude": 18.097273,
+        "longitude": -63.038495
+    },
+    {
+        "name": "Mornes de Lake",
+        "country": "Saint Martin",
+        "province": "MF,FR",
+        "population": -1,
+        "latitude": 18.066888,
+        "longitude": -63.132049
+    },
+    {
+        "name": "Bellevue",
+        "country": "Saint Martin",
+        "province": "MF,FR",
+        "population": -1,
+        "latitude": 18.056713,
+        "longitude": -63.083964
+    },
+    {
+        "name": "Les Village de St. Martin",
+        "country": "Saint Martin",
+        "province": "MF,FR",
+        "population": -1,
+        "latitude": 18.06954,
+        "longitude": -63.079315
+    },
+    {
+        "name": "Morne Valois",
+        "country": "Saint Martin",
+        "province": "MF,FR",
+        "population": -1,
+        "latitude": 18.079086,
+        "longitude": -63.074418
+    },
+    {
+        "name": "Helligard",
+        "country": "Saint Martin",
+        "province": "MF,FR",
+        "population": -1,
+        "latitude": 18.074295,
+        "longitude": -63.068137
+    },
+    {
+        "name": "Friar’s Bay",
+        "country": "Saint Martin",
+        "province": "MF,FR",
+        "population": -1,
+        "latitude": 18.091151,
+        "longitude": -63.074986
+    },
+    {
+        "name": "Morne Emile",
+        "country": "Saint Martin",
+        "province": "MF,FR",
+        "population": -1,
+        "latitude": 18.086183,
+        "longitude": -63.061005
+    },
+    {
+        "name": "Jardin des Dains",
+        "country": "Saint Martin",
+        "province": "MF,FR",
+        "population": -1,
+        "latitude": 18.081637,
+        "longitude": -63.06015
+    },
+    {
+        "name": "Paradis",
+        "country": "Saint Martin",
+        "province": "MF,FR",
+        "population": -1,
+        "latitude": 18.078553,
+        "longitude": -63.053694
+    },
+    {
+        "name": "Belle Hill",
+        "country": "Saint Martin",
+        "province": "MF,FR",
+        "population": -1,
+        "latitude": 18.110314,
+        "longitude": -63.052169
+    },
+    {
+        "name": "Cocksies",
+        "country": "Saint Martin",
+        "province": "MF,FR",
+        "population": -1,
+        "latitude": 18.104241,
+        "longitude": -63.043663
+    },
+    {
+        "name": "Mont Vernon",
+        "country": "Saint Martin",
+        "province": "MF,FR",
+        "population": -1,
+        "latitude": 18.09658135548131,
+        "longitude": -63.025474548339844
+    },
+    {
+        "name": "Hope Hill",
+        "country": "Saint Martin",
+        "province": "MF,FR",
+        "population": -1,
+        "latitude": 18.086573,
+        "longitude": -63.035242
+    },
+    {
+        "name": "Les Jardins D’Orient Bay",
+        "country": "Saint Martin",
+        "province": "MF,FR",
+        "population": -1,
+        "latitude": 18.08668,
+        "longitude": -63.030593
+    },
+    {
+        "name": "Griselle",
+        "country": "Saint Martin",
+        "province": "MF,FR",
+        "population": -1,
+        "latitude": 18.089554,
+        "longitude": -63.026122
+    },
+    {
+        "name": "Quartier D’Orleans Ouest",
+        "country": "Saint Martin",
+        "province": "MF,FR",
+        "population": -1,
+        "latitude": 18.070143,
+        "longitude": -63.036058
+    },
+    {
+        "name": "Quartier D’Orleans Sud",
+        "country": "Saint Martin",
+        "province": "MF,FR",
+        "population": -1,
+        "latitude": 18.069114,
+        "longitude": -63.033538
+    },
+    {
+        "name": "Quartier D’Orleans Est",
+        "country": "Saint Martin",
+        "province": "MF,FR",
+        "population": -1,
+        "latitude": 18.075182,
+        "longitude": -63.029209
+    },
+    {
+        "name": "Fond Mahaut",
+        "country": "Saint Martin",
+        "province": "MF,FR",
+        "population": -1,
+        "latitude": 18.070746,
+        "longitude": -63.046454
+    },
+    {
+        "name": "Grand Fond Nord",
+        "country": "Saint Martin",
+        "province": "MF,FR",
+        "population": -1,
+        "latitude": 18.066062,
+        "longitude": -63.039641
+    },
+    {
+        "name": "Grand Fond",
+        "country": "Saint Martin",
+        "province": "MF,FR",
+        "population": -1,
+        "latitude": 18.060988,
+        "longitude": -63.043332
+    },
+    {
+        "name": "Embouchure",
+        "country": "Saint Martin",
+        "province": "MF,FR",
+        "population": -1,
+        "latitude": 18.06386,
+        "longitude": -63.017323
+    },
+    {
+        "name": "Flagstaff",
+        "country": "Saint Martin",
+        "province": "MF,FR",
+        "population": -1,
+        "latitude": 18.06482,
+        "longitude": -63.052984
+    },
+    {
+        "name": "Les Deux Frères",
+        "country": "Saint Martin",
+        "province": "MF,FR",
+        "population": -1,
+        "latitude": 18.058011,
+        "longitude": -63.028935
+    },
+    {
+        "name": "Espérance",
+        "country": "Saint Martin",
+        "province": "MF,FR",
+        "population": -1,
+        "latitude": 18.091026,
+        "longitude": -63.063088
+    }
+]

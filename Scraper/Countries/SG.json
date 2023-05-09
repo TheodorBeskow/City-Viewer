@@ -1,0 +1,2954 @@
+[
+    {
+        "name": "Singapore",
+        "country": "Singapore",
+        "province": "SG.01",
+        "population": 5638700,
+        "latitude": 1.28966883937733,
+        "longitude": 103.850069046021
+    },
+    {
+        "name": "Woodlands",
+        "country": "Singapore",
+        "province": "SG.03",
+        "population": 252530,
+        "latitude": 1.43801,
+        "longitude": 103.78877
+    },
+    {
+        "name": "Marine Parade",
+        "country": "Singapore",
+        "province": "SG.03",
+        "population": 46390,
+        "latitude": 1.303056,
+        "longitude": 103.907778
+    },
+    {
+        "name": "Geylang",
+        "country": "Singapore",
+        "province": "Singapore",
+        "population": 110200,
+        "latitude": 1.31953017,
+        "longitude": 103.88689
+    },
+    {
+        "name": "Queenstown Estate",
+        "country": "Singapore",
+        "province": "Singapore",
+        "population": 95930,
+        "latitude": 1.2941667,
+        "longitude": 103.8025
+    },
+    {
+        "name": "Punggol",
+        "country": "Singapore",
+        "province": "SG.02",
+        "population": -1,
+        "latitude": 1.4144444,
+        "longitude": 103.9069444
+    },
+    {
+        "name": "Kampong Pasir Ris",
+        "country": "Singapore",
+        "province": "Singapore",
+        "population": -1,
+        "latitude": 1.3783333,
+        "longitude": 103.9319444
+    },
+    {
+        "name": "Jurong Town",
+        "country": "Singapore",
+        "province": "SG.05",
+        "population": -1,
+        "latitude": 1.3341667,
+        "longitude": 103.7227778
+    },
+    {
+        "name": "Bukit Panjang New Town",
+        "country": "Singapore",
+        "province": "SG.05",
+        "population": -1,
+        "latitude": 1.3797222,
+        "longitude": 103.7647222
+    },
+    {
+        "name": "Choa Chu Kang New Town",
+        "country": "Singapore",
+        "province": "SG.03",
+        "population": -1,
+        "latitude": 1.3825,
+        "longitude": 103.7497222
+    },
+    {
+        "name": "Bugis",
+        "country": "Singapore",
+        "province": "Singapore",
+        "population": -1,
+        "latitude": 1.300564,
+        "longitude": 103.854932
+    },
+    {
+        "name": "Tanjong Pagar",
+        "country": "Singapore",
+        "province": "SG.01",
+        "population": -1,
+        "latitude": 1.2833333,
+        "longitude": 103.8333333
+    },
+    {
+        "name": "Yew Tee",
+        "country": "Singapore",
+        "province": "SG.03",
+        "population": -1,
+        "latitude": 1.3944444,
+        "longitude": 103.7538889
+    },
+    {
+        "name": "Sungai Simpang",
+        "country": "Singapore",
+        "province": "SG.03",
+        "population": -1,
+        "latitude": 1.4380556,
+        "longitude": 103.8266667
+    },
+    {
+        "name": "Seletar",
+        "country": "Singapore",
+        "province": "SG.02",
+        "population": 250,
+        "latitude": 1.41,
+        "longitude": 103.8741667
+    },
+    {
+        "name": "Marsiling",
+        "country": "Singapore",
+        "province": "SG.03",
+        "population": -1,
+        "latitude": 1.4411111,
+        "longitude": 103.7708333
+    },
+    {
+        "name": "Tengah",
+        "country": "Singapore",
+        "province": "SG.05",
+        "population": -1,
+        "latitude": 1.3719444,
+        "longitude": 103.7038889
+    },
+    {
+        "name": "Kampong Kranji",
+        "country": "Singapore",
+        "province": "Singapore",
+        "population": -1,
+        "latitude": 1.4333333,
+        "longitude": 103.75
+    },
+    {
+        "name": "Jalan Kayu",
+        "country": "Singapore",
+        "province": "SG.02",
+        "population": -1,
+        "latitude": 1.3972222,
+        "longitude": 103.8719444
+    },
+    {
+        "name": "Changi Village",
+        "country": "Singapore",
+        "province": "SG.04",
+        "population": -1,
+        "latitude": 1.39037,
+        "longitude": 103.98674
+    },
+    {
+        "name": "Bukit Mandai Village",
+        "country": "Singapore",
+        "province": "Singapore",
+        "population": -1,
+        "latitude": 1.4122222,
+        "longitude": 103.7566667
+    },
+    {
+        "name": "Boon Lay",
+        "country": "Singapore",
+        "province": "Singapore",
+        "population": -1,
+        "latitude": 1.3333333,
+        "longitude": 103.7
+    },
+    {
+        "name": "MacPherson",
+        "country": "Singapore",
+        "province": "SG.01",
+        "population": -1,
+        "latitude": 1.327134,
+        "longitude": 103.884134
+    },
+    {
+        "name": "Yishun New Town",
+        "country": "Singapore",
+        "province": "SG.03",
+        "population": -1,
+        "latitude": 1.4333333,
+        "longitude": 103.8311111
+    },
+    {
+        "name": "Lim Chu Kang",
+        "country": "Singapore",
+        "province": "Singapore",
+        "population": -1,
+        "latitude": 1.4366667,
+        "longitude": 103.7094444
+    },
+    {
+        "name": "Ang Mo Kio New Town",
+        "country": "Singapore",
+        "province": "SG.02",
+        "population": -1,
+        "latitude": 1.3802778,
+        "longitude": 103.8397222
+    },
+    {
+        "name": "Bedok New Town",
+        "country": "Singapore",
+        "province": "SG.04",
+        "population": -1,
+        "latitude": 1.3263889,
+        "longitude": 103.9416667
+    },
+    {
+        "name": "Novena",
+        "country": "Singapore",
+        "province": "SG.02",
+        "population": -1,
+        "latitude": 1.31697,
+        "longitude": 103.843796
+    },
+    {
+        "name": "Eunos",
+        "country": "Singapore",
+        "province": "Singapore",
+        "population": -1,
+        "latitude": 1.32252,
+        "longitude": 103.898219
+    },
+    {
+        "name": "Orchard",
+        "country": "Singapore",
+        "province": "SG.01",
+        "population": -1,
+        "latitude": 1.302565,
+        "longitude": 103.834694
+    },
+    {
+        "name": "Newton",
+        "country": "Singapore",
+        "province": "SG.01",
+        "population": -1,
+        "latitude": 1.309018,
+        "longitude": 103.837567
+    },
+    {
+        "name": "Sengkang",
+        "country": "Singapore",
+        "province": "SG.02",
+        "population": -1,
+        "latitude": 1.391667,
+        "longitude": 103.894444
+    },
+    {
+        "name": "HarbourFront",
+        "country": "Singapore",
+        "province": "SG.01",
+        "population": -1,
+        "latitude": 1.2652,
+        "longitude": 103.8201
+    },
+    {
+        "name": "Night Safari",
+        "country": "Singapore",
+        "province": "SG.03",
+        "population": -1,
+        "latitude": 1.40226,
+        "longitude": 103.787886
+    },
+    {
+        "name": "Marina Bay",
+        "country": "Singapore",
+        "province": "Singapore",
+        "population": -1,
+        "latitude": 1.2810450257079975,
+        "longitude": 103.85972499847412
+    },
+    {
+        "name": "Mount Vernon",
+        "country": "Singapore",
+        "province": "Singapore",
+        "population": -1,
+        "latitude": 1.3358333,
+        "longitude": 103.8975
+    },
+    {
+        "name": "Tyersall Park",
+        "country": "Singapore",
+        "province": "Singapore",
+        "population": -1,
+        "latitude": 1.3105556,
+        "longitude": 103.8136111
+    },
+    {
+        "name": "Tuas",
+        "country": "Singapore",
+        "province": "Singapore",
+        "population": -1,
+        "latitude": 1.3213889,
+        "longitude": 103.6566667
+    },
+    {
+        "name": "Toa Payoh New Town",
+        "country": "Singapore",
+        "province": "Singapore",
+        "population": -1,
+        "latitude": 1.3361111,
+        "longitude": 103.85
+    },
+    {
+        "name": "Tiong Bahru Estate",
+        "country": "Singapore",
+        "province": "SG.01",
+        "population": -1,
+        "latitude": 1.2833333,
+        "longitude": 103.8327778
+    },
+    {
+        "name": "Thomson",
+        "country": "Singapore",
+        "province": "Singapore",
+        "population": -1,
+        "latitude": 1.3491667,
+        "longitude": 103.8436111
+    },
+    {
+        "name": "Tanglin",
+        "country": "Singapore",
+        "province": "Singapore",
+        "population": -1,
+        "latitude": 1.3166667,
+        "longitude": 103.8166667
+    },
+    {
+        "name": "Tai Seng",
+        "country": "Singapore",
+        "province": "Singapore",
+        "population": -1,
+        "latitude": 1.3361111,
+        "longitude": 103.9036111
+    },
+    {
+        "name": "Serangoon",
+        "country": "Singapore",
+        "province": "Singapore",
+        "population": -1,
+        "latitude": 1.3627778,
+        "longitude": 103.8975
+    },
+    {
+        "name": "Sembawang Estate",
+        "country": "Singapore",
+        "province": "Singapore",
+        "population": -1,
+        "latitude": 1.4508333,
+        "longitude": 103.8286111
+    },
+    {
+        "name": "Pulau Ubin Village",
+        "country": "Singapore",
+        "province": "SG.02",
+        "population": -1,
+        "latitude": 1.4033333,
+        "longitude": 103.9713889
+    },
+    {
+        "name": "Paya Lebar",
+        "country": "Singapore",
+        "province": "Singapore",
+        "population": -1,
+        "latitude": 1.3538889,
+        "longitude": 103.8905556
+    },
+    {
+        "name": "Pasir Panjang",
+        "country": "Singapore",
+        "province": "Singapore",
+        "population": -1,
+        "latitude": 1.2927778,
+        "longitude": 103.7708333
+    },
+    {
+        "name": "Nee Soon Estate",
+        "country": "Singapore",
+        "province": "Singapore",
+        "population": -1,
+        "latitude": 1.4027778,
+        "longitude": 103.8177778
+    },
+    {
+        "name": "Lokyang",
+        "country": "Singapore",
+        "province": "Singapore",
+        "population": -1,
+        "latitude": 1.33,
+        "longitude": 103.6813889
+    },
+    {
+        "name": "Kent Ridge",
+        "country": "Singapore",
+        "province": "Singapore",
+        "population": -1,
+        "latitude": 1.2930556,
+        "longitude": 103.7844444
+    },
+    {
+        "name": "Kampong Tanjong Penjuru",
+        "country": "Singapore",
+        "province": "Singapore",
+        "population": -1,
+        "latitude": 1.3,
+        "longitude": 103.75
+    },
+    {
+        "name": "Radin Mas",
+        "country": "Singapore",
+        "province": "Singapore",
+        "population": -1,
+        "latitude": 1.2738889,
+        "longitude": 103.8241667
+    },
+    {
+        "name": "Kembangan",
+        "country": "Singapore",
+        "province": "Singapore",
+        "population": -1,
+        "latitude": 1.3222760282808932,
+        "longitude": 103.91135215759277
+    },
+    {
+        "name": "Kalang",
+        "country": "Singapore",
+        "province": "Singapore",
+        "population": -1,
+        "latitude": 1.3333333,
+        "longitude": 103.8666667
+    },
+    {
+        "name": "Hong Kah",
+        "country": "Singapore",
+        "province": "Singapore",
+        "population": -1,
+        "latitude": 1.3594444,
+        "longitude": 103.7227778
+    },
+    {
+        "name": "Holland Village",
+        "country": "Singapore",
+        "province": "Singapore",
+        "population": -1,
+        "latitude": 1.3119444,
+        "longitude": 103.7933333
+    },
+    {
+        "name": "Chia Keng",
+        "country": "Singapore",
+        "province": "Singapore",
+        "population": -1,
+        "latitude": 1.36,
+        "longitude": 103.8916667
+    },
+    {
+        "name": "Buona Vista",
+        "country": "Singapore",
+        "province": "Singapore",
+        "population": -1,
+        "latitude": 1.2805556,
+        "longitude": 103.7880556
+    },
+    {
+        "name": "Bulim",
+        "country": "Singapore",
+        "province": "Singapore",
+        "population": -1,
+        "latitude": 1.3744444,
+        "longitude": 103.7177778
+    },
+    {
+        "name": "Bukit Timah Estate",
+        "country": "Singapore",
+        "province": "Singapore",
+        "population": -1,
+        "latitude": 1.3402778,
+        "longitude": 103.7758333
+    },
+    {
+        "name": "Bishan",
+        "country": "Singapore",
+        "province": "Singapore",
+        "population": -1,
+        "latitude": 1.350397,
+        "longitude": 103.848755
+    },
+    {
+        "name": "Bukit Batok New Town",
+        "country": "Singapore",
+        "province": "Singapore",
+        "population": -1,
+        "latitude": 1.3516667,
+        "longitude": 103.7627778
+    },
+    {
+        "name": "Hougang",
+        "country": "Singapore",
+        "province": "Singapore",
+        "population": -1,
+        "latitude": 1.3566667,
+        "longitude": 103.8908333
+    },
+    {
+        "name": "Jurong East",
+        "country": "Singapore",
+        "province": "SG.04",
+        "population": -1,
+        "latitude": 1.341389,
+        "longitude": 103.739167
+    },
+    {
+        "name": "Jurong West",
+        "country": "Singapore",
+        "province": "Singapore",
+        "population": -1,
+        "latitude": 1.350278,
+        "longitude": 103.722778
+    },
+    {
+        "name": "Serangoon New Town",
+        "country": "Singapore",
+        "province": "Singapore",
+        "population": -1,
+        "latitude": 1.3508333,
+        "longitude": 103.8708333
+    },
+    {
+        "name": "Simei New Town",
+        "country": "Singapore",
+        "province": "Singapore",
+        "population": -1,
+        "latitude": 1.3411111,
+        "longitude": 103.9561111
+    },
+    {
+        "name": "Tampines New Town",
+        "country": "Singapore",
+        "province": "Singapore",
+        "population": -1,
+        "latitude": 1.3491667,
+        "longitude": 103.9497222
+    },
+    {
+        "name": "Pandan Valley",
+        "country": "Singapore",
+        "province": "Singapore",
+        "population": -1,
+        "latitude": 1.3183333,
+        "longitude": 103.7758333
+    },
+    {
+        "name": "Ghim Moh",
+        "country": "Singapore",
+        "province": "Singapore",
+        "population": -1,
+        "latitude": 1.3111111,
+        "longitude": 103.7877778
+    },
+    {
+        "name": "Mount Emily Park",
+        "country": "Singapore",
+        "province": "Singapore",
+        "population": -1,
+        "latitude": 1.3047222,
+        "longitude": 103.8472222
+    },
+    {
+        "name": "Clementi Housing Estate",
+        "country": "Singapore",
+        "province": "Singapore",
+        "population": -1,
+        "latitude": 1.315833,
+        "longitude": 103.764722
+    },
+    {
+        "name": "Pasir Ris New Town",
+        "country": "Singapore",
+        "province": "SG.04",
+        "population": -1,
+        "latitude": 1.3722222,
+        "longitude": 103.9477778
+    },
+    {
+        "name": "Telok Blangah New Town",
+        "country": "Singapore",
+        "province": "Singapore",
+        "population": -1,
+        "latitude": 1.2747222,
+        "longitude": 103.8116667
+    },
+    {
+        "name": "Admiralty",
+        "country": "Singapore",
+        "province": "Singapore",
+        "population": -1,
+        "latitude": 1.440689,
+        "longitude": 103.800933
+    },
+    {
+        "name": "Lavender",
+        "country": "Singapore",
+        "province": "Singapore",
+        "population": -1,
+        "latitude": 1.307167,
+        "longitude": 103.863008
+    },
+    {
+        "name": "Raffles Place",
+        "country": "Singapore",
+        "province": "Singapore",
+        "population": -1,
+        "latitude": 1.28494934,
+        "longitude": 103.851485
+    },
+    {
+        "name": "River Valley",
+        "country": "Singapore",
+        "province": "Singapore",
+        "population": -1,
+        "latitude": 1.29606,
+        "longitude": 103.83608
+    },
+    {
+        "name": "Yio Chu Kang",
+        "country": "Singapore",
+        "province": "Singapore",
+        "population": -1,
+        "latitude": 1.3911111,
+        "longitude": 103.8513889
+    },
+    {
+        "name": "Ulu Bedok",
+        "country": "Singapore",
+        "province": "Singapore",
+        "population": -1,
+        "latitude": 1.3333333,
+        "longitude": 103.9333333
+    },
+    {
+        "name": "Thong Hoe Village",
+        "country": "Singapore",
+        "province": "Singapore",
+        "population": -1,
+        "latitude": 1.4180556,
+        "longitude": 103.7019444
+    },
+    {
+        "name": "Somapah Changi",
+        "country": "Singapore",
+        "province": "Singapore",
+        "population": -1,
+        "latitude": 1.3416667,
+        "longitude": 103.9636111
+    },
+    {
+        "name": "Saga",
+        "country": "Singapore",
+        "province": "Singapore",
+        "population": -1,
+        "latitude": 1.2666667,
+        "longitude": 103.8333333
+    },
+    {
+        "name": "Ong Lee",
+        "country": "Singapore",
+        "province": "Singapore",
+        "population": -1,
+        "latitude": 1.35,
+        "longitude": 103.75
+    },
+    {
+        "name": "Lam San Village",
+        "country": "Singapore",
+        "province": "Singapore",
+        "population": -1,
+        "latitude": 1.3769444,
+        "longitude": 103.7313889
+    },
+    {
+        "name": "Keat Hong Village",
+        "country": "Singapore",
+        "province": "Singapore",
+        "population": -1,
+        "latitude": 1.3777778,
+        "longitude": 103.7441667
+    },
+    {
+        "name": "Kampong Wak Dulah",
+        "country": "Singapore",
+        "province": "Singapore",
+        "population": -1,
+        "latitude": 1.3833333,
+        "longitude": 103.6666667
+    },
+    {
+        "name": "Kampong Unum",
+        "country": "Singapore",
+        "province": "Singapore",
+        "population": -1,
+        "latitude": 1.4313889,
+        "longitude": 104.0597222
+    },
+    {
+        "name": "Kampong Tanjong Irau",
+        "country": "Singapore",
+        "province": "Singapore",
+        "population": -1,
+        "latitude": 1.4566667,
+        "longitude": 103.8466667
+    },
+    {
+        "name": "Kampong Seminei",
+        "country": "Singapore",
+        "province": "Singapore",
+        "population": -1,
+        "latitude": 1.4069444,
+        "longitude": 104.0394444
+    },
+    {
+        "name": "Kampong Sanyonkong Parit",
+        "country": "Singapore",
+        "province": "Singapore",
+        "population": -1,
+        "latitude": 1.4061111,
+        "longitude": 104.0658333
+    },
+    {
+        "name": "Kampong Pinang",
+        "country": "Singapore",
+        "province": "Singapore",
+        "population": -1,
+        "latitude": 1.3811111,
+        "longitude": 103.8941667
+    },
+    {
+        "name": "Kampong Melayu",
+        "country": "Singapore",
+        "province": "Singapore",
+        "population": -1,
+        "latitude": 1.4086111,
+        "longitude": 103.9794444
+    },
+    {
+        "name": "Kampong Loyang",
+        "country": "Singapore",
+        "province": "Singapore",
+        "population": -1,
+        "latitude": 1.3777778,
+        "longitude": 103.9594444
+    },
+    {
+        "name": "Kampong Bahru",
+        "country": "Singapore",
+        "province": "Singapore",
+        "population": -1,
+        "latitude": 1.4186111,
+        "longitude": 103.9702778
+    },
+    {
+        "name": "Chong Pang",
+        "country": "Singapore",
+        "province": "Singapore",
+        "population": -1,
+        "latitude": 1.4444444,
+        "longitude": 103.8238889
+    },
+    {
+        "name": "Ama Keng",
+        "country": "Singapore",
+        "province": "Singapore",
+        "population": -1,
+        "latitude": 1.4044444,
+        "longitude": 103.7066667
+    },
+    {
+        "name": "Sungai Mandai Village",
+        "country": "Singapore",
+        "province": "Singapore",
+        "population": -1,
+        "latitude": 1.4105556,
+        "longitude": 103.7769444
+    },
+    {
+        "name": "Delta Estate",
+        "country": "Singapore",
+        "province": "Singapore",
+        "population": -1,
+        "latitude": 1.2911111,
+        "longitude": 103.8294444
+    },
+    {
+        "name": "Gamat-eMas Network (Singapore) Blk 34, Whampoa West",
+        "country": "Singapore",
+        "province": "Singapore",
+        "population": -1,
+        "latitude": 1.31989485977668,
+        "longitude": 103.862450122833
+    },
+    {
+        "name": "Blk 822 Jurong West Street 81",
+        "country": "Singapore",
+        "province": "Singapore",
+        "population": -1,
+        "latitude": 1.3470046491789354,
+        "longitude": 103.69356751441956
+    },
+    {
+        "name": "Johor, Pasir Gudang",
+        "country": "Singapore",
+        "province": "Singapore",
+        "population": -1,
+        "latitude": 1.48264547787471,
+        "longitude": 103.91040802002
+    },
+    {
+        "name": "Yan Kit",
+        "country": "Singapore",
+        "province": "Singapore",
+        "population": -1,
+        "latitude": 1.3572222,
+        "longitude": 103.9719444
+    },
+    {
+        "name": "West Coast Village",
+        "country": "Singapore",
+        "province": "Singapore",
+        "population": -1,
+        "latitude": 1.3166667,
+        "longitude": 103.75
+    },
+    {
+        "name": "Teck Hock",
+        "country": "Singapore",
+        "province": "Singapore",
+        "population": -1,
+        "latitude": 1.3675,
+        "longitude": 103.9161111
+    },
+    {
+        "name": "Somapah Serangoon",
+        "country": "Singapore",
+        "province": "Singapore",
+        "population": -1,
+        "latitude": 1.3666667,
+        "longitude": 103.8833333
+    },
+    {
+        "name": "Simpang Bedok Village",
+        "country": "Singapore",
+        "province": "Singapore",
+        "population": -1,
+        "latitude": 1.3341667,
+        "longitude": 103.9522222
+    },
+    {
+        "name": "Sarang Rimau",
+        "country": "Singapore",
+        "province": "SG.05",
+        "population": -1,
+        "latitude": 1.2597222,
+        "longitude": 103.8088889
+    },
+    {
+        "name": "Sam Heng Estate",
+        "country": "Singapore",
+        "province": "Singapore",
+        "population": -1,
+        "latitude": 1.4136111,
+        "longitude": 103.9755556
+    },
+    {
+        "name": "Mata Ikan",
+        "country": "Singapore",
+        "province": "Singapore",
+        "population": -1,
+        "latitude": 1.3361111,
+        "longitude": 103.975
+    },
+    {
+        "name": "Kian Hong Estate",
+        "country": "Singapore",
+        "province": "Singapore",
+        "population": -1,
+        "latitude": 1.3572222,
+        "longitude": 103.7261111
+    },
+    {
+        "name": "Kampong Wak Sekak",
+        "country": "Singapore",
+        "province": "Singapore",
+        "population": -1,
+        "latitude": 1.2666667,
+        "longitude": 103.7
+    },
+    {
+        "name": "Kampong Wak Hassan",
+        "country": "Singapore",
+        "province": "Singapore",
+        "population": -1,
+        "latitude": 1.4613889,
+        "longitude": 103.8363889
+    },
+    {
+        "name": "Kampong Wak Bechik",
+        "country": "Singapore",
+        "province": "Singapore",
+        "population": -1,
+        "latitude": 1.2833333,
+        "longitude": 103.7166667
+    },
+    {
+        "name": "Kampong Ulu Jurong",
+        "country": "Singapore",
+        "province": "Singapore",
+        "population": -1,
+        "latitude": 1.35,
+        "longitude": 103.7166667
+    },
+    {
+        "name": "Kampong Ubi",
+        "country": "Singapore",
+        "province": "Singapore",
+        "population": -1,
+        "latitude": 1.3166667,
+        "longitude": 103.9
+    },
+    {
+        "name": "Kampong Tongkang Pechah",
+        "country": "Singapore",
+        "province": "Singapore",
+        "population": -1,
+        "latitude": 1.39,
+        "longitude": 103.8763889
+    },
+    {
+        "name": "Kampong Todak",
+        "country": "Singapore",
+        "province": "Singapore",
+        "population": -1,
+        "latitude": 1.4213889,
+        "longitude": 104.0216667
+    },
+    {
+        "name": "Kampong Telok",
+        "country": "Singapore",
+        "province": "Singapore",
+        "population": -1,
+        "latitude": 1.3833333,
+        "longitude": 103.65
+    },
+    {
+        "name": "Kampong Tebing Terjun",
+        "country": "Singapore",
+        "province": "Singapore",
+        "population": -1,
+        "latitude": 1.3333333,
+        "longitude": 103.75
+    },
+    {
+        "name": "Kampong Teban",
+        "country": "Singapore",
+        "province": "Singapore",
+        "population": -1,
+        "latitude": 1.3786111,
+        "longitude": 103.9077778
+    },
+    {
+        "name": "Kampong Sungai Tengah",
+        "country": "Singapore",
+        "province": "Singapore",
+        "population": -1,
+        "latitude": 1.3833333,
+        "longitude": 103.9
+    },
+    {
+        "name": "Kampong Sungai Pandan",
+        "country": "Singapore",
+        "province": "Singapore",
+        "population": -1,
+        "latitude": 1.3166667,
+        "longitude": 103.75
+    },
+    {
+        "name": "Kampong Sungai Jurong",
+        "country": "Singapore",
+        "province": "Singapore",
+        "population": -1,
+        "latitude": 1.3516667,
+        "longitude": 103.7336111
+    },
+    {
+        "name": "Kampong Sungai Blukar",
+        "country": "Singapore",
+        "province": "Singapore",
+        "population": -1,
+        "latitude": 1.3880556,
+        "longitude": 103.9183333
+    },
+    {
+        "name": "Kampong Sungai Belang",
+        "country": "Singapore",
+        "province": "Singapore",
+        "population": -1,
+        "latitude": 1.4233333,
+        "longitude": 104.0666667
+    },
+    {
+        "name": "Kampong Sudong",
+        "country": "Singapore",
+        "province": "Singapore",
+        "population": -1,
+        "latitude": 1.2063889,
+        "longitude": 103.7286111
+    },
+    {
+        "name": "Kampong Sireh",
+        "country": "Singapore",
+        "province": "Singapore",
+        "population": -1,
+        "latitude": 1.35,
+        "longitude": 103.8833333
+    },
+    {
+        "name": "Kampong Seraya",
+        "country": "Singapore",
+        "province": "Singapore",
+        "population": -1,
+        "latitude": 1.2833333,
+        "longitude": 103.7333333
+    },
+    {
+        "name": "Kampong Serangoon Kechil",
+        "country": "Singapore",
+        "province": "Singapore",
+        "population": -1,
+        "latitude": 1.39,
+        "longitude": 103.9072222
+    },
+    {
+        "name": "Kampong Sanyongkong",
+        "country": "Singapore",
+        "province": "Singapore",
+        "population": -1,
+        "latitude": 1.3983333,
+        "longitude": 104.0577778
+    },
+    {
+        "name": "Kampong Salabin",
+        "country": "Singapore",
+        "province": "Singapore",
+        "population": -1,
+        "latitude": 1.4161111,
+        "longitude": 104.0333333
+    },
+    {
+        "name": "Kampong Saigon",
+        "country": "Singapore",
+        "province": "Singapore",
+        "population": -1,
+        "latitude": 1.2166667,
+        "longitude": 103.7666667
+    },
+    {
+        "name": "Kampong Reteh",
+        "country": "Singapore",
+        "province": "Singapore",
+        "population": -1,
+        "latitude": 1.3333333,
+        "longitude": 103.9
+    },
+    {
+        "name": "Kampong Punggol",
+        "country": "Singapore",
+        "province": "Singapore",
+        "population": -1,
+        "latitude": 1.4125,
+        "longitude": 103.9102778
+    },
+    {
+        "name": "Kampong Pulau Kechil",
+        "country": "Singapore",
+        "province": "Singapore",
+        "population": -1,
+        "latitude": 1.2833333,
+        "longitude": 103.7333333
+    },
+    {
+        "name": "Kampong Pesek",
+        "country": "Singapore",
+        "province": "Singapore",
+        "population": -1,
+        "latitude": 1.2833333,
+        "longitude": 103.6833333
+    },
+    {
+        "name": "Kampong Permatang",
+        "country": "Singapore",
+        "province": "Singapore",
+        "population": -1,
+        "latitude": 1.4241667,
+        "longitude": 104.0388889
+    },
+    {
+        "name": "Kampong Perigi Piau",
+        "country": "Singapore",
+        "province": "Singapore",
+        "population": -1,
+        "latitude": 1.2333333,
+        "longitude": 103.7666667
+    },
+    {
+        "name": "Kampong Pengkalan Petai",
+        "country": "Singapore",
+        "province": "Singapore",
+        "population": -1,
+        "latitude": 1.4033333,
+        "longitude": 103.85
+    },
+    {
+        "name": "Kampong Pengkalan Pakau",
+        "country": "Singapore",
+        "province": "Singapore",
+        "population": -1,
+        "latitude": 1.4094444,
+        "longitude": 104.0725
+    },
+    {
+        "name": "Kampong Pengkalan Kundor",
+        "country": "Singapore",
+        "province": "Singapore",
+        "population": -1,
+        "latitude": 1.41,
+        "longitude": 103.8444444
+    },
+    {
+        "name": "Kampong Pasir Merah",
+        "country": "Singapore",
+        "province": "Singapore",
+        "population": -1,
+        "latitude": 1.4291667,
+        "longitude": 104.0469444
+    },
+    {
+        "name": "Kampong Pasir",
+        "country": "Singapore",
+        "province": "Singapore",
+        "population": -1,
+        "latitude": 1.4083333,
+        "longitude": 104.0841667
+    },
+    {
+        "name": "Kampong Pahang",
+        "country": "Singapore",
+        "province": "Singapore",
+        "population": -1,
+        "latitude": 1.4091667,
+        "longitude": 104.0327778
+    },
+    {
+        "name": "Kampong Padang Terbakar",
+        "country": "Singapore",
+        "province": "Singapore",
+        "population": -1,
+        "latitude": 1.33,
+        "longitude": 103.9666667
+    },
+    {
+        "name": "Kampong Pachitan",
+        "country": "Singapore",
+        "province": "Singapore",
+        "population": -1,
+        "latitude": 1.3166667,
+        "longitude": 103.9166667
+    },
+    {
+        "name": "Kampong Noordin",
+        "country": "Singapore",
+        "province": "Singapore",
+        "population": -1,
+        "latitude": 1.4177778,
+        "longitude": 103.965
+    },
+    {
+        "name": "Kampong Mandai Kechil",
+        "country": "Singapore",
+        "province": "Singapore",
+        "population": -1,
+        "latitude": 1.4408333,
+        "longitude": 103.7652778
+    },
+    {
+        "name": "Kampong Mamam",
+        "country": "Singapore",
+        "province": "Singapore",
+        "population": -1,
+        "latitude": 1.4172222,
+        "longitude": 103.9761111
+    },
+    {
+        "name": "Kampong Mak Baok",
+        "country": "Singapore",
+        "province": "Singapore",
+        "population": -1,
+        "latitude": 1.2666667,
+        "longitude": 103.7166667
+    },
+    {
+        "name": "Kampong Lew Lian",
+        "country": "Singapore",
+        "province": "Singapore",
+        "population": -1,
+        "latitude": 1.35,
+        "longitude": 103.8666667
+    },
+    {
+        "name": "Kampong Ladang",
+        "country": "Singapore",
+        "province": "Singapore",
+        "population": -1,
+        "latitude": 1.4044444,
+        "longitude": 104.0333333
+    },
+    {
+        "name": "Kampong Ladang",
+        "country": "Singapore",
+        "province": "Singapore",
+        "population": -1,
+        "latitude": 1.3333333,
+        "longitude": 103.9
+    },
+    {
+        "name": "Kampong Kopit",
+        "country": "Singapore",
+        "province": "Singapore",
+        "population": -1,
+        "latitude": 1.2666667,
+        "longitude": 103.8333333
+    },
+    {
+        "name": "Kampong Kitin",
+        "country": "Singapore",
+        "province": "Singapore",
+        "population": -1,
+        "latitude": 1.435,
+        "longitude": 103.8591667
+    },
+    {
+        "name": "Kampong Kebun Baharu",
+        "country": "Singapore",
+        "province": "Singapore",
+        "population": -1,
+        "latitude": 1.3666667,
+        "longitude": 103.8666667
+    },
+    {
+        "name": "Kampong Jelutong",
+        "country": "Singapore",
+        "province": "Singapore",
+        "population": -1,
+        "latitude": 1.4011111,
+        "longitude": 103.9588889
+    },
+    {
+        "name": "Kampong Java Teban",
+        "country": "Singapore",
+        "province": "Singapore",
+        "population": -1,
+        "latitude": 1.3333333,
+        "longitude": 103.7333333
+    },
+    {
+        "name": "Kampong Cutforth",
+        "country": "Singapore",
+        "province": "Singapore",
+        "population": -1,
+        "latitude": 1.3819444,
+        "longitude": 103.7363889
+    },
+    {
+        "name": "Kampong Che Jevah",
+        "country": "Singapore",
+        "province": "Singapore",
+        "population": -1,
+        "latitude": 1.4144444,
+        "longitude": 103.9897222
+    },
+    {
+        "name": "Kampong Changi",
+        "country": "Singapore",
+        "province": "Singapore",
+        "population": -1,
+        "latitude": 1.3833333,
+        "longitude": 104
+    },
+    {
+        "name": "Kampong Chai Chee",
+        "country": "Singapore",
+        "province": "Singapore",
+        "population": -1,
+        "latitude": 1.3333333,
+        "longitude": 103.9333333
+    },
+    {
+        "name": "Kampong Bukit Panjang",
+        "country": "Singapore",
+        "province": "Singapore",
+        "population": -1,
+        "latitude": 1.3836111,
+        "longitude": 103.76
+    },
+    {
+        "name": "Kampong Bugis",
+        "country": "Singapore",
+        "province": "Singapore",
+        "population": -1,
+        "latitude": 1.2166667,
+        "longitude": 103.7666667
+    },
+    {
+        "name": "Kampong Blukang",
+        "country": "Singapore",
+        "province": "Singapore",
+        "population": -1,
+        "latitude": 1.35,
+        "longitude": 103.65
+    },
+    {
+        "name": "Kampong Beremban",
+        "country": "Singapore",
+        "province": "Singapore",
+        "population": -1,
+        "latitude": 1.3813889,
+        "longitude": 103.9158333
+    },
+    {
+        "name": "Kampong Batu Koyok",
+        "country": "Singapore",
+        "province": "Singapore",
+        "population": -1,
+        "latitude": 1.3969444,
+        "longitude": 104.0477778
+    },
+    {
+        "name": "Kampong Baharu",
+        "country": "Singapore",
+        "province": "Singapore",
+        "population": -1,
+        "latitude": 1.2666667,
+        "longitude": 103.7333333
+    },
+    {
+        "name": "Kampong Ayer Samak Darat",
+        "country": "Singapore",
+        "province": "Singapore",
+        "population": -1,
+        "latitude": 1.4138889,
+        "longitude": 104.0722222
+    },
+    {
+        "name": "Kampong Ayer Samak",
+        "country": "Singapore",
+        "province": "Singapore",
+        "population": -1,
+        "latitude": 1.4205556,
+        "longitude": 104.0794444
+    },
+    {
+        "name": "Kampong Ayer Merbau",
+        "country": "Singapore",
+        "province": "Singapore",
+        "population": -1,
+        "latitude": 1.2666667,
+        "longitude": 103.7166667
+    },
+    {
+        "name": "Kampong Ayer Limau",
+        "country": "Singapore",
+        "province": "Singapore",
+        "population": -1,
+        "latitude": 1.2833333,
+        "longitude": 103.7166667
+    },
+    {
+        "name": "Kampong Ayer Gemuruh",
+        "country": "Singapore",
+        "province": "Singapore",
+        "population": -1,
+        "latitude": 1.35,
+        "longitude": 103.9833333
+    },
+    {
+        "name": "Kampong Ayer Bajau",
+        "country": "Singapore",
+        "province": "Singapore",
+        "population": -1,
+        "latitude": 1.3666667,
+        "longitude": 103.65
+    },
+    {
+        "name": "Kampong Amoy Quee",
+        "country": "Singapore",
+        "province": "Singapore",
+        "population": -1,
+        "latitude": 1.3833333,
+        "longitude": 103.85
+    },
+    {
+        "name": "Hun Yeang",
+        "country": "Singapore",
+        "province": "Singapore",
+        "population": -1,
+        "latitude": 1.3686111,
+        "longitude": 103.9319444
+    },
+    {
+        "name": "Huat Choe",
+        "country": "Singapore",
+        "province": "Singapore",
+        "population": -1,
+        "latitude": 1.34,
+        "longitude": 103.6936111
+    },
+    {
+        "name": "Heap Guan Village",
+        "country": "Singapore",
+        "province": "Singapore",
+        "population": -1,
+        "latitude": 1.2666667,
+        "longitude": 103.8
+    },
+    {
+        "name": "Chye Kay",
+        "country": "Singapore",
+        "province": "Singapore",
+        "population": -1,
+        "latitude": 1.4261111,
+        "longitude": 103.8241667
+    },
+    {
+        "name": "Caldecott Hill Estate",
+        "country": "Singapore",
+        "province": "Singapore",
+        "population": -1,
+        "latitude": 1.3366667,
+        "longitude": 103.835
+    },
+    {
+        "name": "Bukit Merah Estate",
+        "country": "Singapore",
+        "province": "Singapore",
+        "population": -1,
+        "latitude": 1.2841667,
+        "longitude": 103.8230556
+    },
+    {
+        "name": "Bright Hill Crescent",
+        "country": "Singapore",
+        "province": "Singapore",
+        "population": -1,
+        "latitude": 1.35,
+        "longitude": 103.8333333
+    },
+    {
+        "name": "Banta Tengeh",
+        "country": "Singapore",
+        "province": "Singapore",
+        "population": -1,
+        "latitude": 1.35,
+        "longitude": 103.65
+    },
+    {
+        "name": "Alexandra Estate",
+        "country": "Singapore",
+        "province": "Singapore",
+        "population": -1,
+        "latitude": 1.2938889,
+        "longitude": 103.8197222
+    },
+    {
+        "name": "Aik Hong and Aik Chiang Estate",
+        "country": "Singapore",
+        "province": "Singapore",
+        "population": -1,
+        "latitude": 1.3908333,
+        "longitude": 103.7286111
+    },
+    {
+        "name": "Ayer Raja New Town",
+        "country": "Singapore",
+        "province": "SG.04",
+        "population": -1,
+        "latitude": 1.305,
+        "longitude": 103.7833333
+    },
+    {
+        "name": "Saint Michael’s Estate",
+        "country": "Singapore",
+        "province": "Singapore",
+        "population": -1,
+        "latitude": 1.327778,
+        "longitude": 103.860833
+    },
+    {
+        "name": "Tanglin Halt",
+        "country": "Singapore",
+        "province": "Singapore",
+        "population": -1,
+        "latitude": 1.3013889,
+        "longitude": 103.7975
+    },
+    {
+        "name": "Kangkar",
+        "country": "Singapore",
+        "province": "Singapore",
+        "population": -1,
+        "latitude": 1.3761111,
+        "longitude": 103.9016667
+    },
+    {
+        "name": "Kampong Siren",
+        "country": "Singapore",
+        "province": "Singapore",
+        "population": -1,
+        "latitude": 1.3522222,
+        "longitude": 103.8980556
+    },
+    {
+        "name": "Bedok Village",
+        "country": "Singapore",
+        "province": "Singapore",
+        "population": -1,
+        "latitude": 1.3225,
+        "longitude": 103.9613889
+    },
+    {
+        "name": "Kampong Sakeng",
+        "country": "Singapore",
+        "province": "Singapore",
+        "population": -1,
+        "latitude": 1.2077778,
+        "longitude": 103.7777778
+    },
+    {
+        "name": "Kam Wak Hassan",
+        "country": "Singapore",
+        "province": "Singapore",
+        "population": -1,
+        "latitude": 1.4375,
+        "longitude": 103.8305556
+    },
+    {
+        "name": "Delta Road",
+        "country": "Singapore",
+        "province": "Singapore",
+        "population": -1,
+        "latitude": 1.29176,
+        "longitude": 103.825937
+    },
+    {
+        "name": "Lower Delta Road",
+        "country": "Singapore",
+        "province": "Singapore",
+        "population": -1,
+        "latitude": 1.28125954,
+        "longitude": 103.823804
+    },
+    {
+        "name": "Yio Chu Kang Estate",
+        "country": "Singapore",
+        "province": "Singapore",
+        "population": -1,
+        "latitude": 1.3897222,
+        "longitude": 103.8538889
+    },
+    {
+        "name": "Woollerton Park",
+        "country": "Singapore",
+        "province": "Singapore",
+        "population": -1,
+        "latitude": 1.3161111,
+        "longitude": 103.8091667
+    },
+    {
+        "name": "Woodleigh Park",
+        "country": "Singapore",
+        "province": "Singapore",
+        "population": -1,
+        "latitude": 1.3416667,
+        "longitude": 103.8677778
+    },
+    {
+        "name": "Windsor Park Estate",
+        "country": "Singapore",
+        "province": "Singapore",
+        "population": -1,
+        "latitude": 1.3569444,
+        "longitude": 103.8247222
+    },
+    {
+        "name": "Wessex Estate",
+        "country": "Singapore",
+        "province": "Singapore",
+        "population": -1,
+        "latitude": 1.2969444,
+        "longitude": 103.7952778
+    },
+    {
+        "name": "Watten Park",
+        "country": "Singapore",
+        "province": "Singapore",
+        "population": -1,
+        "latitude": 1.3330556,
+        "longitude": 103.81
+    },
+    {
+        "name": "Victoria Park",
+        "country": "Singapore",
+        "province": "Singapore",
+        "population": -1,
+        "latitude": 1.3202778,
+        "longitude": 103.8022222
+    },
+    {
+        "name": "Tua Kang Lye",
+        "country": "Singapore",
+        "province": "Singapore",
+        "population": -1,
+        "latitude": 1.3141667,
+        "longitude": 103.7766667
+    },
+    {
+        "name": "Teck Chong Estate",
+        "country": "Singapore",
+        "province": "Singapore",
+        "population": -1,
+        "latitude": 1.4155556,
+        "longitude": 103.7616667
+    },
+    {
+        "name": "Tay Keng Loon Estate",
+        "country": "Singapore",
+        "province": "Singapore",
+        "population": -1,
+        "latitude": 1.4533333,
+        "longitude": 103.7988889
+    },
+    {
+        "name": "Tan Hua Gek Estate",
+        "country": "Singapore",
+        "province": "Singapore",
+        "population": -1,
+        "latitude": 1.4091667,
+        "longitude": 103.6958333
+    },
+    {
+        "name": "Tanglin Hill",
+        "country": "Singapore",
+        "province": "Singapore",
+        "population": -1,
+        "latitude": 1.3022222,
+        "longitude": 103.8147222
+    },
+    {
+        "name": "Tampines Estate",
+        "country": "Singapore",
+        "province": "Singapore",
+        "population": -1,
+        "latitude": 1.3580556,
+        "longitude": 103.9402778
+    },
+    {
+        "name": "Sungai Unum Estate",
+        "country": "Singapore",
+        "province": "Singapore",
+        "population": -1,
+        "latitude": 1.4213889,
+        "longitude": 104.0502778
+    },
+    {
+        "name": "Spring Park Estate",
+        "country": "Singapore",
+        "province": "Singapore",
+        "population": -1,
+        "latitude": 1.3158333,
+        "longitude": 103.9444444
+    },
+    {
+        "name": "Song Hah Estate",
+        "country": "Singapore",
+        "province": "Singapore",
+        "population": -1,
+        "latitude": 1.3588889,
+        "longitude": 103.6647222
+    },
+    {
+        "name": "Sin Watt Estate",
+        "country": "Singapore",
+        "province": "Singapore",
+        "population": -1,
+        "latitude": 1.4141667,
+        "longitude": 103.9505556
+    },
+    {
+        "name": "Singapore United Plantation",
+        "country": "Singapore",
+        "province": "Singapore",
+        "population": -1,
+        "latitude": 1.3791667,
+        "longitude": 103.8577778
+    },
+    {
+        "name": "Serangoon Garden Estate",
+        "country": "Singapore",
+        "province": "Singapore",
+        "population": -1,
+        "latitude": 1.3638889,
+        "longitude": 103.8575
+    },
+    {
+        "name": "Sennett Estate",
+        "country": "Singapore",
+        "province": "Singapore",
+        "population": -1,
+        "latitude": 1.3319444,
+        "longitude": 103.8716667
+    },
+    {
+        "name": "Sembawang Hills Estate",
+        "country": "Singapore",
+        "province": "Singapore",
+        "population": -1,
+        "latitude": 1.3727778,
+        "longitude": 103.8302778
+    },
+    {
+        "name": "Seletar Hills Estate",
+        "country": "Singapore",
+        "province": "Singapore",
+        "population": -1,
+        "latitude": 1.3844444,
+        "longitude": 103.8680556
+    },
+    {
+        "name": "Sea View Estate",
+        "country": "Singapore",
+        "province": "Singapore",
+        "population": -1,
+        "latitude": 1.3,
+        "longitude": 103.9088889
+    },
+    {
+        "name": "Mount Rosie",
+        "country": "Singapore",
+        "province": "Singapore",
+        "population": -1,
+        "latitude": 1.3233333,
+        "longitude": 103.8341667
+    },
+    {
+        "name": "Rochester Park",
+        "country": "Singapore",
+        "province": "Singapore",
+        "population": -1,
+        "latitude": 1.3061111,
+        "longitude": 103.7866667
+    },
+    {
+        "name": "Raffles Park",
+        "country": "Singapore",
+        "province": "Singapore",
+        "population": -1,
+        "latitude": 1.3322222,
+        "longitude": 103.8044444
+    },
+    {
+        "name": "Race Course Village",
+        "country": "Singapore",
+        "province": "Singapore",
+        "population": -1,
+        "latitude": 1.3333333,
+        "longitude": 103.8
+    },
+    {
+        "name": "Queen Astrid Park",
+        "country": "Singapore",
+        "province": "Singapore",
+        "population": -1,
+        "latitude": 1.3188889,
+        "longitude": 103.7908333
+    },
+    {
+        "name": "Pulau Minyak",
+        "country": "Singapore",
+        "province": "Singapore",
+        "population": -1,
+        "latitude": 1.3166667,
+        "longitude": 103.8666667
+    },
+    {
+        "name": "Princess Elizabeth Estate",
+        "country": "Singapore",
+        "province": "Singapore",
+        "population": -1,
+        "latitude": 1.3622222,
+        "longitude": 103.7594444
+    },
+    {
+        "name": "Prince Edward Point",
+        "country": "Singapore",
+        "province": "Singapore",
+        "population": -1,
+        "latitude": 1.3,
+        "longitude": 103.7666667
+    },
+    {
+        "name": "Prince Edward Park",
+        "country": "Singapore",
+        "province": "Singapore",
+        "population": -1,
+        "latitude": 1.2963889,
+        "longitude": 103.7736111
+    },
+    {
+        "name": "Mount Pleasant",
+        "country": "Singapore",
+        "province": "Singapore",
+        "population": -1,
+        "latitude": 1.3316667,
+        "longitude": 103.8327778
+    },
+    {
+        "name": "Playfair Estate",
+        "country": "Singapore",
+        "province": "Singapore",
+        "population": -1,
+        "latitude": 1.3333333,
+        "longitude": 103.8833333
+    },
+    {
+        "name": "Phoenix Park",
+        "country": "Singapore",
+        "province": "Singapore",
+        "population": -1,
+        "latitude": 1.2988889,
+        "longitude": 103.8122222
+    },
+    {
+        "name": "Perseverance Estate",
+        "country": "Singapore",
+        "province": "Singapore",
+        "population": -1,
+        "latitude": 1.3302778,
+        "longitude": 103.9113889
+    },
+    {
+        "name": "Opera Estate",
+        "country": "Singapore",
+        "province": "Singapore",
+        "population": -1,
+        "latitude": 1.3180556,
+        "longitude": 103.9369444
+    },
+    {
+        "name": "Old Kallang Airport Estate",
+        "country": "Singapore",
+        "province": "Singapore",
+        "population": -1,
+        "latitude": 1.3088889,
+        "longitude": 103.9013889
+    },
+    {
+        "name": "Oei Tiong Ham Park",
+        "country": "Singapore",
+        "province": "Singapore",
+        "population": -1,
+        "latitude": 1.3152778,
+        "longitude": 103.7938889
+    },
+    {
+        "name": "Ng Kay Boon Estate",
+        "country": "Singapore",
+        "province": "Singapore",
+        "population": -1,
+        "latitude": 1.4394444,
+        "longitude": 103.7311111
+    },
+    {
+        "name": "Nepal Park",
+        "country": "Singapore",
+        "province": "Singapore",
+        "population": -1,
+        "latitude": 1.3016667,
+        "longitude": 103.7880556
+    },
+    {
+        "name": "Namazie Estate",
+        "country": "Singapore",
+        "province": "Singapore",
+        "population": -1,
+        "latitude": 1.4219444,
+        "longitude": 103.7069444
+    },
+    {
+        "name": "Mok Peng Hiang Estate",
+        "country": "Singapore",
+        "province": "Singapore",
+        "population": -1,
+        "latitude": 1.4455556,
+        "longitude": 103.7969444
+    },
+    {
+        "name": "Medway Park",
+        "country": "Singapore",
+        "province": "Singapore",
+        "population": -1,
+        "latitude": 1.3055556,
+        "longitude": 103.7755556
+    },
+    {
+        "name": "McMahon Park",
+        "country": "Singapore",
+        "province": "Singapore",
+        "population": -1,
+        "latitude": 1.3144444,
+        "longitude": 103.785
+    },
+    {
+        "name": "Matilda Estate",
+        "country": "Singapore",
+        "province": "Singapore",
+        "population": -1,
+        "latitude": 1.3994444,
+        "longitude": 103.9027778
+    },
+    {
+        "name": "Maryland Estate",
+        "country": "Singapore",
+        "province": "Singapore",
+        "population": -1,
+        "latitude": 1.3202778,
+        "longitude": 103.7869444
+    },
+    {
+        "name": "Marsiling Estate",
+        "country": "Singapore",
+        "province": "Singapore",
+        "population": -1,
+        "latitude": 1.4297222,
+        "longitude": 103.7675
+    },
+    {
+        "name": "Lorong Tiga Estate",
+        "country": "Singapore",
+        "province": "Singapore",
+        "population": -1,
+        "latitude": 1.3166667,
+        "longitude": 103.8666667
+    },
+    {
+        "name": "Lim Chu Kang Estate",
+        "country": "Singapore",
+        "province": "Singapore",
+        "population": -1,
+        "latitude": 1.4152778,
+        "longitude": 103.6766667
+    },
+    {
+        "name": "Leedon Park",
+        "country": "Singapore",
+        "province": "Singapore",
+        "population": -1,
+        "latitude": 1.3169444,
+        "longitude": 103.7941667
+    },
+    {
+        "name": "Lam Kiong Estate",
+        "country": "Singapore",
+        "province": "Singapore",
+        "population": -1,
+        "latitude": 1.3491667,
+        "longitude": 103.6527778
+    },
+    {
+        "name": "Kingsmead Hall",
+        "country": "Singapore",
+        "province": "Singapore",
+        "population": -1,
+        "latitude": 1.3183333,
+        "longitude": 103.805
+    },
+    {
+        "name": "King Albert Park",
+        "country": "Singapore",
+        "province": "Singapore",
+        "population": -1,
+        "latitude": 1.3344444,
+        "longitude": 103.7797222
+    },
+    {
+        "name": "Kilburn Estate",
+        "country": "Singapore",
+        "province": "Singapore",
+        "population": -1,
+        "latitude": 1.3402778,
+        "longitude": 103.7813889
+    },
+    {
+        "name": "Kian Teck San Estate",
+        "country": "Singapore",
+        "province": "Singapore",
+        "population": -1,
+        "latitude": 1.3616667,
+        "longitude": 103.6652778
+    },
+    {
+        "name": "Kampong Woodleigh",
+        "country": "Singapore",
+        "province": "Singapore",
+        "population": -1,
+        "latitude": 1.3419444,
+        "longitude": 103.8719444
+    },
+    {
+        "name": "Kampong Wak Tanjong",
+        "country": "Singapore",
+        "province": "Singapore",
+        "population": -1,
+        "latitude": 1.3166667,
+        "longitude": 103.9
+    },
+    {
+        "name": "Kampong Ulu Pandan",
+        "country": "Singapore",
+        "province": "Singapore",
+        "population": -1,
+        "latitude": 1.3461111,
+        "longitude": 103.745
+    },
+    {
+        "name": "Kampong Tulloch",
+        "country": "Singapore",
+        "province": "Singapore",
+        "population": -1,
+        "latitude": 1.3,
+        "longitude": 103.7833333
+    },
+    {
+        "name": "Kampong Tanah Merah",
+        "country": "Singapore",
+        "province": "Singapore",
+        "population": -1,
+        "latitude": 1.2625,
+        "longitude": 103.7
+    },
+    {
+        "name": "Kampong Tampines",
+        "country": "Singapore",
+        "province": "Singapore",
+        "population": -1,
+        "latitude": 1.37,
+        "longitude": 103.9511111
+    },
+    {
+        "name": "Kampong Sultan",
+        "country": "Singapore",
+        "province": "Singapore",
+        "population": -1,
+        "latitude": 1.2833333,
+        "longitude": 103.7833333
+    },
+    {
+        "name": "Kampong Soopoo",
+        "country": "Singapore",
+        "province": "Singapore",
+        "population": -1,
+        "latitude": 1.3166667,
+        "longitude": 103.8666667
+    },
+    {
+        "name": "Kampong San Teng",
+        "country": "Singapore",
+        "province": "Singapore",
+        "population": -1,
+        "latitude": 1.3469444,
+        "longitude": 103.8408333
+    },
+    {
+        "name": "Kampong Potong Pasir",
+        "country": "Singapore",
+        "province": "Singapore",
+        "population": -1,
+        "latitude": 1.3333333,
+        "longitude": 103.8666667
+    },
+    {
+        "name": "Kampong O’Carroll Scott",
+        "country": "Singapore",
+        "province": "Singapore",
+        "population": -1,
+        "latitude": 1.3,
+        "longitude": 103.783333
+    },
+    {
+        "name": "Kampong Kuchai",
+        "country": "Singapore",
+        "province": "Singapore",
+        "population": -1,
+        "latitude": 1.3166667,
+        "longitude": 103.8666667
+    },
+    {
+        "name": "Kampong Jagoh",
+        "country": "Singapore",
+        "province": "Singapore",
+        "population": -1,
+        "latitude": 1.2666667,
+        "longitude": 103.8166667
+    },
+    {
+        "name": "Kampong Hock Soon",
+        "country": "Singapore",
+        "province": "Singapore",
+        "population": -1,
+        "latitude": 1.3166667,
+        "longitude": 103.8666667
+    },
+    {
+        "name": "Kampong Eunos",
+        "country": "Singapore",
+        "province": "Singapore",
+        "population": -1,
+        "latitude": 1.3208333,
+        "longitude": 103.9177778
+    },
+    {
+        "name": "Kampong Chantek Baharu",
+        "country": "Singapore",
+        "province": "Singapore",
+        "population": -1,
+        "latitude": 1.35,
+        "longitude": 103.7883333
+    },
+    {
+        "name": "Kampong Bugis",
+        "country": "Singapore",
+        "province": "Singapore",
+        "population": -1,
+        "latitude": 1.3,
+        "longitude": 103.8666667
+    },
+    {
+        "name": "Kampong Bugis",
+        "country": "Singapore",
+        "province": "Singapore",
+        "population": -1,
+        "latitude": 1.3469444,
+        "longitude": 103.9658333
+    },
+    {
+        "name": "Kampong Bereh",
+        "country": "Singapore",
+        "province": "Singapore",
+        "population": -1,
+        "latitude": 1.3741667,
+        "longitude": 103.6844444
+    },
+    {
+        "name": "Kampong Belimbing",
+        "country": "Singapore",
+        "province": "Singapore",
+        "population": -1,
+        "latitude": 1.3711111,
+        "longitude": 103.6919444
+    },
+    {
+        "name": "Kampong Amber",
+        "country": "Singapore",
+        "province": "Singapore",
+        "population": -1,
+        "latitude": 1.3002778,
+        "longitude": 103.9116667
+    },
+    {
+        "name": "Island View Estate",
+        "country": "Singapore",
+        "province": "Singapore",
+        "population": -1,
+        "latitude": 1.2947222,
+        "longitude": 103.7727778
+    },
+    {
+        "name": "Hume Heights",
+        "country": "Singapore",
+        "province": "Singapore",
+        "population": -1,
+        "latitude": 1.355,
+        "longitude": 103.765
+    },
+    {
+        "name": "Hong Kong Park",
+        "country": "Singapore",
+        "province": "Singapore",
+        "population": -1,
+        "latitude": 1.3397222,
+        "longitude": 103.7855556
+    },
+    {
+        "name": "Holland Grove Park",
+        "country": "Singapore",
+        "province": "Singapore",
+        "population": -1,
+        "latitude": 1.3136111,
+        "longitude": 103.7802778
+    },
+    {
+        "name": "Fuyong Estate",
+        "country": "Singapore",
+        "province": "Singapore",
+        "population": -1,
+        "latitude": 1.3594444,
+        "longitude": 103.7680556
+    },
+    {
+        "name": "Frankel Estate",
+        "country": "Singapore",
+        "province": "Singapore",
+        "population": -1,
+        "latitude": 1.3136111,
+        "longitude": 103.9294444
+    },
+    {
+        "name": "Ewart Park",
+        "country": "Singapore",
+        "province": "Singapore",
+        "population": -1,
+        "latitude": 1.3247222,
+        "longitude": 103.7825
+    },
+    {
+        "name": "Eden Park",
+        "country": "Singapore",
+        "province": "Singapore",
+        "population": -1,
+        "latitude": 1.3313889,
+        "longitude": 103.7925
+    },
+    {
+        "name": "Dunearn Estate",
+        "country": "Singapore",
+        "province": "Singapore",
+        "population": -1,
+        "latitude": 1.3252778,
+        "longitude": 103.8230556
+    },
+    {
+        "name": "Chia Tong Quah Estate",
+        "country": "Singapore",
+        "province": "Singapore",
+        "population": -1,
+        "latitude": 1.4086111,
+        "longitude": 104.0508333
+    },
+    {
+        "name": "Camden Park",
+        "country": "Singapore",
+        "province": "Singapore",
+        "population": -1,
+        "latitude": 1.3277778,
+        "longitude": 103.8163889
+    },
+    {
+        "name": "Bukit Sembawang Estate",
+        "country": "Singapore",
+        "province": "Singapore",
+        "population": -1,
+        "latitude": 1.4444444,
+        "longitude": 103.8511111
+    },
+    {
+        "name": "Bukit Sembawang Estate",
+        "country": "Singapore",
+        "province": "Singapore",
+        "population": -1,
+        "latitude": 1.4544444,
+        "longitude": 103.8408333
+    },
+    {
+        "name": "Bukit Sembawang Estate",
+        "country": "Singapore",
+        "province": "Singapore",
+        "population": -1,
+        "latitude": 1.3955556,
+        "longitude": 103.8691667
+    },
+    {
+        "name": "Bukit Sembawang Estate",
+        "country": "Singapore",
+        "province": "Singapore",
+        "population": -1,
+        "latitude": 1.3597222,
+        "longitude": 103.9702778
+    },
+    {
+        "name": "Brickworks Estate",
+        "country": "Singapore",
+        "province": "Singapore",
+        "population": -1,
+        "latitude": 1.2872222,
+        "longitude": 103.8083333
+    },
+    {
+        "name": "Braddell Heights Estate",
+        "country": "Singapore",
+        "province": "Singapore",
+        "population": -1,
+        "latitude": 1.3452778,
+        "longitude": 103.8652778
+    },
+    {
+        "name": "Bin Tong Park",
+        "country": "Singapore",
+        "province": "Singapore",
+        "population": -1,
+        "latitude": 1.3205556,
+        "longitude": 103.7975
+    },
+    {
+        "name": "Bajau Estate",
+        "country": "Singapore",
+        "province": "Singapore",
+        "population": -1,
+        "latitude": 1.3369444,
+        "longitude": 103.6633333
+    },
+    {
+        "name": "Ardmore Flats",
+        "country": "Singapore",
+        "province": "Singapore",
+        "population": -1,
+        "latitude": 1.3094444,
+        "longitude": 103.83
+    },
+    {
+        "name": "Adelphi Park Estate",
+        "country": "Singapore",
+        "province": "Singapore",
+        "population": -1,
+        "latitude": 1.355,
+        "longitude": 103.8288889
+    },
+    {
+        "name": "Adam Park",
+        "country": "Singapore",
+        "province": "Singapore",
+        "population": -1,
+        "latitude": 1.3316667,
+        "longitude": 103.8122222
+    },
+    {
+        "name": "Bukit Ho Swee Estate",
+        "country": "Singapore",
+        "province": "Singapore",
+        "population": -1,
+        "latitude": 1.2877778,
+        "longitude": 103.83
+    },
+    {
+        "name": "Henderson Estate",
+        "country": "Singapore",
+        "province": "Singapore",
+        "population": -1,
+        "latitude": 1.2891667,
+        "longitude": 103.8233333
+    },
+    {
+        "name": "Kaki Bukit Estate",
+        "country": "Singapore",
+        "province": "Singapore",
+        "population": -1,
+        "latitude": 1.3375,
+        "longitude": 103.9091667
+    },
+    {
+        "name": "Outram Park",
+        "country": "Singapore",
+        "province": "Singapore",
+        "population": -1,
+        "latitude": 1.2825,
+        "longitude": 103.8380556
+    },
+    {
+        "name": "Xilin Estate",
+        "country": "Singapore",
+        "province": "Singapore",
+        "population": -1,
+        "latitude": 1.3322222,
+        "longitude": 103.9658333
+    },
+    {
+        "name": "Bukit Panjang Estate",
+        "country": "Singapore",
+        "province": "Singapore",
+        "population": -1,
+        "latitude": 1.3816667,
+        "longitude": 103.7525
+    },
+    {
+        "name": "Springleaf Park",
+        "country": "Singapore",
+        "province": "Singapore",
+        "population": -1,
+        "latitude": 1.3952778,
+        "longitude": 103.8213889
+    },
+    {
+        "name": "Teacher’s Housing Estate",
+        "country": "Singapore",
+        "province": "Singapore",
+        "population": -1,
+        "latitude": 1.383333,
+        "longitude": 103.828611
+    },
+    {
+        "name": "Bukit Sembawang Estate",
+        "country": "Singapore",
+        "province": "Singapore",
+        "population": -1,
+        "latitude": 1.3988889,
+        "longitude": 103.8286111
+    },
+    {
+        "name": "Bukit Sembawang Estate",
+        "country": "Singapore",
+        "province": "Singapore",
+        "population": -1,
+        "latitude": 1.3861111,
+        "longitude": 103.895
+    },
+    {
+        "name": "Boon Lay Resettlement Area",
+        "country": "Singapore",
+        "province": "Singapore",
+        "population": -1,
+        "latitude": 1.3352778,
+        "longitude": 103.6988889
+    },
+    {
+        "name": "Bamboo Grove Park",
+        "country": "Singapore",
+        "province": "Singapore",
+        "population": -1,
+        "latitude": 1.3577778,
+        "longitude": 103.7577778
+    },
+    {
+        "name": "Soo Chow Garden",
+        "country": "Singapore",
+        "province": "Singapore",
+        "population": -1,
+        "latitude": 1.3533333,
+        "longitude": 103.8308333
+    },
+    {
+        "name": "Thomson Garden Estate",
+        "country": "Singapore",
+        "province": "Singapore",
+        "population": -1,
+        "latitude": 1.3536111,
+        "longitude": 103.8386111
+    },
+    {
+        "name": "Mayflower Estate",
+        "country": "Singapore",
+        "province": "Singapore",
+        "population": -1,
+        "latitude": 1.3719444,
+        "longitude": 103.8394444
+    },
+    {
+        "name": "Thomson Ridge Estate",
+        "country": "Singapore",
+        "province": "Singapore",
+        "population": -1,
+        "latitude": 1.3513889,
+        "longitude": 103.8327778
+    },
+    {
+        "name": "Thomson Park",
+        "country": "Singapore",
+        "province": "Singapore",
+        "population": -1,
+        "latitude": 1.3572222,
+        "longitude": 103.8363889
+    },
+    {
+        "name": "Tai Hwan Gardens",
+        "country": "Singapore",
+        "province": "Singapore",
+        "population": -1,
+        "latitude": 1.3552778,
+        "longitude": 103.8608333
+    },
+    {
+        "name": "Goldhill Gardens",
+        "country": "Singapore",
+        "province": "Singapore",
+        "population": -1,
+        "latitude": 1.3222222,
+        "longitude": 103.8319444
+    },
+    {
+        "name": "Watten Estate",
+        "country": "Singapore",
+        "province": "Singapore",
+        "population": -1,
+        "latitude": 1.3266667,
+        "longitude": 103.8113889
+    },
+    {
+        "name": "Hillcrest Park",
+        "country": "Singapore",
+        "province": "Singapore",
+        "population": -1,
+        "latitude": 1.3347222,
+        "longitude": 103.8091667
+    },
+    {
+        "name": "Lucky Park",
+        "country": "Singapore",
+        "province": "Singapore",
+        "population": -1,
+        "latitude": 1.3286111,
+        "longitude": 103.7913889
+    },
+    {
+        "name": "Brizay Park",
+        "country": "Singapore",
+        "province": "Singapore",
+        "population": -1,
+        "latitude": 1.3302778,
+        "longitude": 103.7866667
+    },
+    {
+        "name": "Ban Guan Park",
+        "country": "Singapore",
+        "province": "Singapore",
+        "population": -1,
+        "latitude": 1.3236111,
+        "longitude": 103.7891667
+    },
+    {
+        "name": "Shamrock Park",
+        "country": "Singapore",
+        "province": "Singapore",
+        "population": -1,
+        "latitude": 1.3277778,
+        "longitude": 103.7969444
+    },
+    {
+        "name": "Coronation Gardens",
+        "country": "Singapore",
+        "province": "Singapore",
+        "population": -1,
+        "latitude": 1.3233333,
+        "longitude": 103.8036111
+    },
+    {
+        "name": "Rebecca Park",
+        "country": "Singapore",
+        "province": "Singapore",
+        "population": -1,
+        "latitude": 1.3219444,
+        "longitude": 103.8008333
+    },
+    {
+        "name": "Eng Khong Gardens",
+        "country": "Singapore",
+        "province": "Singapore",
+        "population": -1,
+        "latitude": 1.3361111,
+        "longitude": 103.7705556
+    },
+    {
+        "name": "Hong Leong Garden",
+        "country": "Singapore",
+        "province": "Singapore",
+        "population": -1,
+        "latitude": 1.3194444,
+        "longitude": 103.7547222
+    },
+    {
+        "name": "Faber Hills",
+        "country": "Singapore",
+        "province": "Singapore",
+        "population": -1,
+        "latitude": 1.3208333,
+        "longitude": 103.7597222
+    },
+    {
+        "name": "Sussex Estate",
+        "country": "Singapore",
+        "province": "Singapore",
+        "population": -1,
+        "latitude": 1.3088889,
+        "longitude": 103.7688889
+    },
+    {
+        "name": "Chinese Gardens",
+        "country": "Singapore",
+        "province": "Singapore",
+        "population": -1,
+        "latitude": 1.3113889,
+        "longitude": 103.7977778
+    },
+    {
+        "name": "Chip Hock Garden",
+        "country": "Singapore",
+        "province": "Singapore",
+        "population": -1,
+        "latitude": 1.3202778,
+        "longitude": 103.8136111
+    },
+    {
+        "name": "Sommerville Estate",
+        "country": "Singapore",
+        "province": "Singapore",
+        "population": -1,
+        "latitude": 1.3138889,
+        "longitude": 103.8069444
+    },
+    {
+        "name": "Kimlin Park",
+        "country": "Singapore",
+        "province": "Singapore",
+        "population": -1,
+        "latitude": 1.3016667,
+        "longitude": 103.8269444
+    },
+    {
+        "name": "Dragon View Park",
+        "country": "Singapore",
+        "province": "Singapore",
+        "population": -1,
+        "latitude": 1.2955556,
+        "longitude": 103.8238889
+    },
+    {
+        "name": "York Hill Estate",
+        "country": "Singapore",
+        "province": "Singapore",
+        "population": -1,
+        "latitude": 1.2872222,
+        "longitude": 103.8375
+    },
+    {
+        "name": "Kampong Silat Estate",
+        "country": "Singapore",
+        "province": "Singapore",
+        "population": -1,
+        "latitude": 1.2788889,
+        "longitude": 103.8263889
+    },
+    {
+        "name": "People’s Park",
+        "country": "Singapore",
+        "province": "Singapore",
+        "population": -1,
+        "latitude": 1.284444,
+        "longitude": 103.841944
+    },
+    {
+        "name": "Somapah Serangoon",
+        "country": "Singapore",
+        "province": "Singapore",
+        "population": -1,
+        "latitude": 1.3594444,
+        "longitude": 103.9019444
+    },
+    {
+        "name": "Charlton Park",
+        "country": "Singapore",
+        "province": "Singapore",
+        "population": -1,
+        "latitude": 1.3563889,
+        "longitude": 103.9013889
+    },
+    {
+        "name": "Kampong Lew Lian",
+        "country": "Singapore",
+        "province": "Singapore",
+        "population": -1,
+        "latitude": 1.3519444,
+        "longitude": 103.8908333
+    },
+    {
+        "name": "Peoples Garden",
+        "country": "Singapore",
+        "province": "Singapore",
+        "population": -1,
+        "latitude": 1.3694444,
+        "longitude": 103.9047222
+    },
+    {
+        "name": "Hai Sing Park",
+        "country": "Singapore",
+        "province": "Singapore",
+        "population": -1,
+        "latitude": 1.3636111,
+        "longitude": 103.905
+    },
+    {
+        "name": "Fish Farming Estate",
+        "country": "Singapore",
+        "province": "Singapore",
+        "population": -1,
+        "latitude": 1.3636111,
+        "longitude": 103.9136111
+    },
+    {
+        "name": "Punggol Estate",
+        "country": "Singapore",
+        "province": "Singapore",
+        "population": -1,
+        "latitude": 1.3627778,
+        "longitude": 103.9083333
+    },
+    {
+        "name": "Bena Park",
+        "country": "Singapore",
+        "province": "Singapore",
+        "population": -1,
+        "latitude": 1.3516667,
+        "longitude": 103.975
+    },
+    {
+        "name": "Kampong Wing Loong",
+        "country": "Singapore",
+        "province": "Singapore",
+        "population": -1,
+        "latitude": 1.35,
+        "longitude": 103.9719444
+    },
+    {
+        "name": "Kampong Darat Nanas",
+        "country": "Singapore",
+        "province": "Singapore",
+        "population": -1,
+        "latitude": 1.3580556,
+        "longitude": 103.9794444
+    },
+    {
+        "name": "East View Garden",
+        "country": "Singapore",
+        "province": "Singapore",
+        "population": -1,
+        "latitude": 1.3458333,
+        "longitude": 103.9652778
+    },
+    {
+        "name": "Kampong Harvey",
+        "country": "Singapore",
+        "province": "Singapore",
+        "population": -1,
+        "latitude": 1.3436111,
+        "longitude": 103.9586111
+    },
+    {
+        "name": "Kim Chuan",
+        "country": "Singapore",
+        "province": "Singapore",
+        "population": -1,
+        "latitude": 1.3413889,
+        "longitude": 103.9033333
+    },
+    {
+        "name": "Tai Kheng Gardens",
+        "country": "Singapore",
+        "province": "Singapore",
+        "population": -1,
+        "latitude": 1.3475,
+        "longitude": 103.8997222
+    },
+    {
+        "name": "Ah Soo Garden",
+        "country": "Singapore",
+        "province": "Singapore",
+        "population": -1,
+        "latitude": 1.3502778,
+        "longitude": 103.9002778
+    },
+    {
+        "name": "Raya Garden",
+        "country": "Singapore",
+        "province": "Singapore",
+        "population": -1,
+        "latitude": 1.3480556,
+        "longitude": 103.8972222
+    },
+    {
+        "name": "Quemoy Park",
+        "country": "Singapore",
+        "province": "Singapore",
+        "population": -1,
+        "latitude": 1.3441667,
+        "longitude": 103.8972222
+    },
+    {
+        "name": "Happy Gardens",
+        "country": "Singapore",
+        "province": "Singapore",
+        "population": -1,
+        "latitude": 1.3305556,
+        "longitude": 103.8963889
+    },
+    {
+        "name": "Chai Chee Estate",
+        "country": "Singapore",
+        "province": "Singapore",
+        "population": -1,
+        "latitude": 1.3266667,
+        "longitude": 103.9333333
+    },
+    {
+        "name": "Siew Lim Park",
+        "country": "Singapore",
+        "province": "Singapore",
+        "population": -1,
+        "latitude": 1.3280556,
+        "longitude": 103.9533333
+    },
+    {
+        "name": "Bedok Garden",
+        "country": "Singapore",
+        "province": "Singapore",
+        "population": -1,
+        "latitude": 1.3227778,
+        "longitude": 103.9577778
+    },
+    {
+        "name": "Kampong Tanah Merah Kechil",
+        "country": "Singapore",
+        "province": "Singapore",
+        "population": -1,
+        "latitude": 1.3205556,
+        "longitude": 103.9555556
+    },
+    {
+        "name": "Lucky Hills",
+        "country": "Singapore",
+        "province": "Singapore",
+        "population": -1,
+        "latitude": 1.3255556,
+        "longitude": 103.9527778
+    },
+    {
+        "name": "Kampong Sek Lim",
+        "country": "Singapore",
+        "province": "Singapore",
+        "population": -1,
+        "latitude": 1.3325,
+        "longitude": 103.9616667
+    },
+    {
+        "name": "Eastern Gardens",
+        "country": "Singapore",
+        "province": "Singapore",
+        "population": -1,
+        "latitude": 1.3180556,
+        "longitude": 103.945
+    },
+    {
+        "name": "Rose Garden",
+        "country": "Singapore",
+        "province": "Singapore",
+        "population": -1,
+        "latitude": 1.3027778,
+        "longitude": 103.9147222
+    },
+    {
+        "name": "Gay World Park",
+        "country": "Singapore",
+        "province": "Singapore",
+        "population": -1,
+        "latitude": 1.3111111,
+        "longitude": 103.8911111
+    },
+    {
+        "name": "Fernhill Gardens",
+        "country": "Singapore",
+        "province": "Singapore",
+        "population": -1,
+        "latitude": 1.3144444,
+        "longitude": 103.8222222
+    },
+    {
+        "name": "Tian Guan Estate",
+        "country": "Singapore",
+        "province": "Singapore",
+        "population": -1,
+        "latitude": 1.3597222,
+        "longitude": 103.8261111
+    },
+    {
+        "name": "Tiong Guan Estate",
+        "country": "Singapore",
+        "province": "Singapore",
+        "population": -1,
+        "latitude": 1.3561111,
+        "longitude": 103.8258333
+    },
+    {
+        "name": "Bedok Ville",
+        "country": "Singapore",
+        "province": "Singapore",
+        "population": -1,
+        "latitude": 1.3244444,
+        "longitude": 103.9544444
+    },
+    {
+        "name": "Faber Garden",
+        "country": "Singapore",
+        "province": "Singapore",
+        "population": -1,
+        "latitude": 1.3630556,
+        "longitude": 103.8297222
+    },
+    {
+        "name": "Sentosa",
+        "country": "Singapore",
+        "province": "Singapore",
+        "population": -1,
+        "latitude": 1.24969,
+        "longitude": 103.83119
+    },
+    {
+        "name": "Central Water Catchment",
+        "country": "Singapore",
+        "province": "Singapore",
+        "population": -1,
+        "latitude": 1.3557,
+        "longitude": 103.79501
+    }
+]

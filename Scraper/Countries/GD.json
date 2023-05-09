@@ -1,0 +1,2250 @@
+[
+    {
+        "name": "St. George's",
+        "country": "Grenada",
+        "province": "Saint George",
+        "population": 7500,
+        "latitude": 12.05288,
+        "longitude": -61.75226
+    },
+    {
+        "name": "Grenville",
+        "country": "Grenada",
+        "province": "Saint Andrew",
+        "population": 2476,
+        "latitude": 12.122783,
+        "longitude": -61.624978
+    },
+    {
+        "name": "Gouyave",
+        "country": "Grenada",
+        "province": "Saint John",
+        "population": 3378,
+        "latitude": 12.16461785292274,
+        "longitude": -61.72964572906494
+    },
+    {
+        "name": "Victoria",
+        "country": "Grenada",
+        "province": "Saint Mark",
+        "population": 2256,
+        "latitude": 12.19020717674992,
+        "longitude": -61.70677185058594
+    },
+    {
+        "name": "Sauteurs",
+        "country": "Grenada",
+        "province": "Saint Patrick",
+        "population": 1320,
+        "latitude": 12.218333,
+        "longitude": -61.639167
+    },
+    {
+        "name": "Saint David’s",
+        "country": "Grenada",
+        "province": "Saint David",
+        "population": 1321,
+        "latitude": 12.049028,
+        "longitude": -61.668745
+    },
+    {
+        "name": "Hillsborough",
+        "country": "Grenada",
+        "province": "Carriacou and Petite Martinique",
+        "population": 1000,
+        "latitude": 12.482923018070593,
+        "longitude": -61.45597457885742
+    },
+    {
+        "name": "Willis",
+        "country": "Grenada",
+        "province": "Saint George",
+        "population": -1,
+        "latitude": 12.085601,
+        "longitude": -61.719565
+    },
+    {
+        "name": "Upper Pearls",
+        "country": "Grenada",
+        "province": "Saint Andrew",
+        "population": -1,
+        "latitude": 12.157949,
+        "longitude": -61.619979
+    },
+    {
+        "name": "Upper La Taste",
+        "country": "Grenada",
+        "province": "Saint Patrick",
+        "population": -1,
+        "latitude": 12.193021,
+        "longitude": -61.618126
+    },
+    {
+        "name": "Upper La Tante",
+        "country": "Grenada",
+        "province": "Saint David",
+        "population": -1,
+        "latitude": 12.05,
+        "longitude": -61.65
+    },
+    {
+        "name": "Upper Capitol",
+        "country": "Grenada",
+        "province": "Saint Andrew",
+        "population": -1,
+        "latitude": 12.114846,
+        "longitude": -61.663092
+    },
+    {
+        "name": "Union Village",
+        "country": "Grenada",
+        "province": "Saint Andrew",
+        "population": -1,
+        "latitude": 12.104907,
+        "longitude": -61.634751
+    },
+    {
+        "name": "Union",
+        "country": "Grenada",
+        "province": "Saint Patrick",
+        "population": -1,
+        "latitude": 12.208972,
+        "longitude": -61.657832
+    },
+    {
+        "name": "Tivoli",
+        "country": "Grenada",
+        "province": "Saint Andrew",
+        "population": -1,
+        "latitude": 12.172685,
+        "longitude": -61.616409
+    },
+    {
+        "name": "Paradise",
+        "country": "Grenada",
+        "province": "Saint Andrew",
+        "population": -1,
+        "latitude": 12.13716,
+        "longitude": -61.62304
+    },
+    {
+        "name": "Paraclete",
+        "country": "Grenada",
+        "province": "Saint Andrew",
+        "population": -1,
+        "latitude": 12.150829,
+        "longitude": -61.643245
+    },
+    {
+        "name": "Mount Craven",
+        "country": "Grenada",
+        "province": "Saint Patrick",
+        "population": -1,
+        "latitude": 12.221057,
+        "longitude": -61.649666
+    },
+    {
+        "name": "Morne Tranquille",
+        "country": "Grenada",
+        "province": "Saint David",
+        "population": -1,
+        "latitude": 12.060093,
+        "longitude": -61.690591
+    },
+    {
+        "name": "Morne Rouge",
+        "country": "Grenada",
+        "province": "Saint George",
+        "population": -1,
+        "latitude": 12.017621,
+        "longitude": -61.771574
+    },
+    {
+        "name": "Morne Longue",
+        "country": "Grenada",
+        "province": "Saint Andrew",
+        "population": -1,
+        "latitude": 12.121662,
+        "longitude": -61.686981
+    },
+    {
+        "name": "Morne Jaloux Ridge",
+        "country": "Grenada",
+        "province": "Saint George",
+        "population": -1,
+        "latitude": 12.039662,
+        "longitude": -61.734999
+    },
+    {
+        "name": "Morne Jaloux",
+        "country": "Grenada",
+        "province": "Saint George",
+        "population": -1,
+        "latitude": 12.03066,
+        "longitude": -61.734696
+    },
+    {
+        "name": "Morne Fendue",
+        "country": "Grenada",
+        "province": "Saint Patrick",
+        "population": -1,
+        "latitude": 12.209909,
+        "longitude": -61.632713
+    },
+    {
+        "name": "Morne Docteur",
+        "country": "Grenada",
+        "province": "Saint George",
+        "population": -1,
+        "latitude": 12.1,
+        "longitude": -61.75
+    },
+    {
+        "name": "Maulti",
+        "country": "Grenada",
+        "province": "Saint David",
+        "population": -1,
+        "latitude": 12.041329,
+        "longitude": -61.670146
+    },
+    {
+        "name": "Marquis",
+        "country": "Grenada",
+        "province": "Saint Andrew",
+        "population": -1,
+        "latitude": 12.10498,
+        "longitude": -61.62809
+    },
+    {
+        "name": "Mamma Cannes",
+        "country": "Grenada",
+        "province": "Saint Andrew",
+        "population": -1,
+        "latitude": 12.0654,
+        "longitude": -61.65126
+    },
+    {
+        "name": "Lance aux Épines",
+        "country": "Grenada",
+        "province": "Saint George",
+        "population": -1,
+        "latitude": 11.99848,
+        "longitude": -61.75634
+    },
+    {
+        "name": "Ka-fe Beau",
+        "country": "Grenada",
+        "province": "Saint George",
+        "population": -1,
+        "latitude": 12.028056,
+        "longitude": -61.75408
+    },
+    {
+        "name": "Hermitage",
+        "country": "Grenada",
+        "province": "Carriacou and Petite Martinique",
+        "population": -1,
+        "latitude": 12.45157,
+        "longitude": -61.48856
+    },
+    {
+        "name": "Grand Roy",
+        "country": "Grenada",
+        "province": "Saint John",
+        "population": -1,
+        "latitude": 12.1322,
+        "longitude": -61.74537
+    },
+    {
+        "name": "Elie Hall",
+        "country": "Grenada",
+        "province": "Saint Patrick",
+        "population": -1,
+        "latitude": 12.199542,
+        "longitude": -61.641181
+    },
+    {
+        "name": "Diego Piece",
+        "country": "Grenada",
+        "province": "Saint Mark",
+        "population": -1,
+        "latitude": 12.205234,
+        "longitude": -61.674502
+    },
+    {
+        "name": "Deblando",
+        "country": "Grenada",
+        "province": "Saint Andrew",
+        "population": -1,
+        "latitude": 12.102687,
+        "longitude": -61.644148
+    },
+    {
+        "name": "Crochu",
+        "country": "Grenada",
+        "province": "Saint Andrew",
+        "population": -1,
+        "latitude": 12.060984,
+        "longitude": -61.645355
+    },
+    {
+        "name": "Conference",
+        "country": "Grenada",
+        "province": "Saint Andrew",
+        "population": -1,
+        "latitude": 12.160979,
+        "longitude": -61.61797
+    },
+    {
+        "name": "Clabony",
+        "country": "Grenada",
+        "province": "Saint Andrew",
+        "population": -1,
+        "latitude": 12.13475,
+        "longitude": -61.66029
+    },
+    {
+        "name": "Chutz",
+        "country": "Grenada",
+        "province": "Saint Andrew",
+        "population": -1,
+        "latitude": 12.108228,
+        "longitude": -61.652181
+    },
+    {
+        "name": "Chantimelle",
+        "country": "Grenada",
+        "province": "Saint Patrick",
+        "population": -1,
+        "latitude": 12.211286,
+        "longitude": -61.66193
+    },
+    {
+        "name": "Calivigny",
+        "country": "Grenada",
+        "province": "Saint George",
+        "population": -1,
+        "latitude": 12.018707,
+        "longitude": -61.727886
+    },
+    {
+        "name": "Bois de Gannes",
+        "country": "Grenada",
+        "province": "Saint David",
+        "population": -1,
+        "latitude": 12.039803,
+        "longitude": -61.707072
+    },
+    {
+        "name": "Bogles",
+        "country": "Grenada",
+        "province": "Carriacou and Petite Martinique",
+        "population": -1,
+        "latitude": 12.5,
+        "longitude": -61.4333333
+    },
+    {
+        "name": "Belmont",
+        "country": "Grenada",
+        "province": "Saint Patrick",
+        "population": -1,
+        "latitude": 12.174669,
+        "longitude": -61.626331
+    },
+    {
+        "name": "Becke Moui",
+        "country": "Grenada",
+        "province": "Saint David",
+        "population": -1,
+        "latitude": 12.01725,
+        "longitude": -61.69717
+    },
+    {
+        "name": "Barique",
+        "country": "Grenada",
+        "province": "Saint Patrick",
+        "population": -1,
+        "latitude": 12.177025,
+        "longitude": -61.651999
+    },
+    {
+        "name": "Baillies Bacolet",
+        "country": "Grenada",
+        "province": "Saint David",
+        "population": -1,
+        "latitude": 12.032568,
+        "longitude": -61.683267
+    },
+    {
+        "name": "Amber Belair",
+        "country": "Grenada",
+        "province": "Saint George",
+        "population": -1,
+        "latitude": 11.99365,
+        "longitude": -61.7555
+    },
+    {
+        "name": "Tempé",
+        "country": "Grenada",
+        "province": "Saint George",
+        "population": -1,
+        "latitude": 12.056446,
+        "longitude": -61.736731
+    },
+    {
+        "name": "Mount Moritz",
+        "country": "Grenada",
+        "province": "Saint George",
+        "population": -1,
+        "latitude": 12.081269,
+        "longitude": -61.746866
+    },
+    {
+        "name": "Grand Anse",
+        "country": "Grenada",
+        "province": "Saint George",
+        "population": -1,
+        "latitude": 12.030166,
+        "longitude": -61.751571
+    },
+    {
+        "name": "Woburn",
+        "country": "Grenada",
+        "province": "Saint George",
+        "population": -1,
+        "latitude": 12.021206,
+        "longitude": -61.735099
+    },
+    {
+        "name": "Westerhall Point",
+        "country": "Grenada",
+        "province": "Saint David",
+        "population": -1,
+        "latitude": 12.00956,
+        "longitude": -61.70076
+    },
+    {
+        "name": "Thebaide",
+        "country": "Grenada",
+        "province": "Saint David",
+        "population": -1,
+        "latitude": 12.053044,
+        "longitude": -61.670665
+    },
+    {
+        "name": "River Sallee",
+        "country": "Grenada",
+        "province": "Saint Patrick",
+        "population": -1,
+        "latitude": 12.198529,
+        "longitude": -61.614562
+    },
+    {
+        "name": "Prospect",
+        "country": "Grenada",
+        "province": "Saint Patrick",
+        "population": -1,
+        "latitude": 12.22355,
+        "longitude": -61.663051
+    },
+    {
+        "name": "Peggy’s Whim",
+        "country": "Grenada",
+        "province": "Saint Patrick",
+        "population": -1,
+        "latitude": 12.174366,
+        "longitude": -61.64033
+    },
+    {
+        "name": "Nonpareil",
+        "country": "Grenada",
+        "province": "Saint Mark",
+        "population": -1,
+        "latitude": 12.21174,
+        "longitude": -61.690311
+    },
+    {
+        "name": "Mount Carmel",
+        "country": "Grenada",
+        "province": "Saint Andrew",
+        "population": -1,
+        "latitude": 12.091775,
+        "longitude": -61.639774
+    },
+    {
+        "name": "Molinière",
+        "country": "Grenada",
+        "province": "Saint George",
+        "population": -1,
+        "latitude": 12.086194,
+        "longitude": -61.757878
+    },
+    {
+        "name": "Mirabeau",
+        "country": "Grenada",
+        "province": "Saint Andrew",
+        "population": -1,
+        "latitude": 12.12745,
+        "longitude": -61.646153
+    },
+    {
+        "name": "Lower Woburn",
+        "country": "Grenada",
+        "province": "Saint George",
+        "population": -1,
+        "latitude": 12.013746,
+        "longitude": -61.735523
+    },
+    {
+        "name": "Lower Pearls",
+        "country": "Grenada",
+        "province": "Saint Andrew",
+        "population": -1,
+        "latitude": 12.14151,
+        "longitude": -61.6264
+    },
+    {
+        "name": "Lower La Taste",
+        "country": "Grenada",
+        "province": "Saint Patrick",
+        "population": -1,
+        "latitude": 12.194817,
+        "longitude": -61.622659
+    },
+    {
+        "name": "L’Étage",
+        "country": "Grenada",
+        "province": "Saint Patrick",
+        "population": -1,
+        "latitude": 12.186221,
+        "longitude": -61.634515
+    },
+    {
+        "name": "L’Espérance",
+        "country": "Grenada",
+        "province": "Saint Mark",
+        "population": -1,
+        "latitude": 12.180975,
+        "longitude": -61.710164
+    },
+    {
+        "name": "La Digue",
+        "country": "Grenada",
+        "province": "Saint Andrew",
+        "population": -1,
+        "latitude": 12.112721,
+        "longitude": -61.646243
+    },
+    {
+        "name": "Grand Bras",
+        "country": "Grenada",
+        "province": "Saint Andrew",
+        "population": -1,
+        "latitude": 12.134065,
+        "longitude": -61.631103
+    },
+    {
+        "name": "Falege",
+        "country": "Grenada",
+        "province": "Saint George",
+        "population": -1,
+        "latitude": 12.036519,
+        "longitude": -61.754503
+    },
+    {
+        "name": "Dunfermline",
+        "country": "Grenada",
+        "province": "Saint Andrew",
+        "population": -1,
+        "latitude": 12.137187,
+        "longitude": -61.627402
+    },
+    {
+        "name": "Confer",
+        "country": "Grenada",
+        "province": "Saint George",
+        "population": -1,
+        "latitude": 12.018015,
+        "longitude": -61.724171
+    },
+    {
+        "name": "Céleste",
+        "country": "Grenada",
+        "province": "Saint Patrick",
+        "population": -1,
+        "latitude": 12.2142,
+        "longitude": -61.643392
+    },
+    {
+        "name": "Carrière",
+        "country": "Grenada",
+        "province": "Saint Andrew",
+        "population": -1,
+        "latitude": 12.166518,
+        "longitude": -61.634965
+    },
+    {
+        "name": "Calliste",
+        "country": "Grenada",
+        "province": "Saint George",
+        "population": -1,
+        "latitude": 12.01015,
+        "longitude": -61.77438
+    },
+    {
+        "name": "Brizan",
+        "country": "Grenada",
+        "province": "Saint George",
+        "population": -1,
+        "latitude": 12.102898,
+        "longitude": -61.752119
+    },
+    {
+        "name": "Adelphi",
+        "country": "Grenada",
+        "province": "Saint Andrew",
+        "population": -1,
+        "latitude": 12.109908,
+        "longitude": -61.676588
+    },
+    {
+        "name": "Windward",
+        "country": "Grenada",
+        "province": "Carriacou and Petite Martinique",
+        "population": -1,
+        "latitude": 12.51239,
+        "longitude": -61.43033
+    },
+    {
+        "name": "Windsor Forest",
+        "country": "Grenada",
+        "province": "Saint David",
+        "population": -1,
+        "latitude": 12.056143,
+        "longitude": -61.693393
+    },
+    {
+        "name": "Windsor Castle",
+        "country": "Grenada",
+        "province": "Saint David",
+        "population": -1,
+        "latitude": 12.045209,
+        "longitude": -61.698759
+    },
+    {
+        "name": "White Gun",
+        "country": "Grenada",
+        "province": "Saint George",
+        "population": -1,
+        "latitude": 12.051999,
+        "longitude": -61.73883
+    },
+    {
+        "name": "Welcome Hall",
+        "country": "Grenada",
+        "province": "Saint Patrick",
+        "population": -1,
+        "latitude": 12.209752,
+        "longitude": -61.65472
+    },
+    {
+        "name": "Waltham",
+        "country": "Grenada",
+        "province": "Saint Mark",
+        "population": -1,
+        "latitude": 12.200493,
+        "longitude": -61.701122
+    },
+    {
+        "name": "Vineyard",
+        "country": "Grenada",
+        "province": "Saint David",
+        "population": -1,
+        "latitude": 12.053565,
+        "longitude": -61.699577
+    },
+    {
+        "name": "Vincennes",
+        "country": "Grenada",
+        "province": "Saint David",
+        "population": -1,
+        "latitude": 12.053041,
+        "longitude": -61.689261
+    },
+    {
+        "name": "Vendôme",
+        "country": "Grenada",
+        "province": "Saint George",
+        "population": -1,
+        "latitude": 12.080204,
+        "longitude": -61.716288
+    },
+    {
+        "name": "Union",
+        "country": "Grenada",
+        "province": "Saint Mark",
+        "population": -1,
+        "latitude": 12.207148,
+        "longitude": -61.670795
+    },
+    {
+        "name": "True Blue",
+        "country": "Grenada",
+        "province": "Saint George",
+        "population": -1,
+        "latitude": 12.00409,
+        "longitude": -61.76851
+    },
+    {
+        "name": "Tricolar",
+        "country": "Grenada",
+        "province": "Saint Patrick",
+        "population": -1,
+        "latitude": 12.186407,
+        "longitude": -61.652818
+    },
+    {
+        "name": "Trevellan",
+        "country": "Grenada",
+        "province": "Saint Patrick",
+        "population": -1,
+        "latitude": 12.217013,
+        "longitude": -61.637636
+    },
+    {
+        "name": "The Park",
+        "country": "Grenada",
+        "province": "Saint George",
+        "population": -1,
+        "latitude": 12.052779,
+        "longitude": -61.717167
+    },
+    {
+        "name": "The Lime",
+        "country": "Grenada",
+        "province": "Saint George",
+        "population": -1,
+        "latitude": 12.016692,
+        "longitude": -61.760708
+    },
+    {
+        "name": "The Lance",
+        "country": "Grenada",
+        "province": "Saint John",
+        "population": -1,
+        "latitude": 12.167423,
+        "longitude": -61.729525
+    },
+    {
+        "name": "The Cliff",
+        "country": "Grenada",
+        "province": "Saint George",
+        "population": -1,
+        "latitude": 12.026323,
+        "longitude": -61.734495
+    },
+    {
+        "name": "The Bocas",
+        "country": "Grenada",
+        "province": "Saint George",
+        "population": -1,
+        "latitude": 12.044236,
+        "longitude": -61.734052
+    },
+    {
+        "name": "Terre Cannes",
+        "country": "Grenada",
+        "province": "Saint David",
+        "population": -1,
+        "latitude": 12.068595,
+        "longitude": -61.673767
+    },
+    {
+        "name": "Telescope",
+        "country": "Grenada",
+        "province": "Saint Andrew",
+        "population": -1,
+        "latitude": 12.12726,
+        "longitude": -61.61038
+    },
+    {
+        "name": "Syracuse",
+        "country": "Grenada",
+        "province": "Saint David",
+        "population": -1,
+        "latitude": 12.034528,
+        "longitude": -61.681585
+    },
+    {
+        "name": "Springs",
+        "country": "Grenada",
+        "province": "Saint George",
+        "population": -1,
+        "latitude": 12.04086,
+        "longitude": -61.744197
+    },
+    {
+        "name": "Soubise",
+        "country": "Grenada",
+        "province": "Saint Andrew",
+        "population": -1,
+        "latitude": 12.112157,
+        "longitude": -61.628593
+    },
+    {
+        "name": "Snug Corner",
+        "country": "Grenada",
+        "province": "Saint George",
+        "population": -1,
+        "latitude": 12.07601,
+        "longitude": -61.72978
+    },
+    {
+        "name": "Six Roads",
+        "country": "Grenada",
+        "province": "Carriacou and Petite Martinique",
+        "population": -1,
+        "latitude": 12.46798,
+        "longitude": -61.46098
+    },
+    {
+        "name": "Simon",
+        "country": "Grenada",
+        "province": "Saint Andrew",
+        "population": -1,
+        "latitude": 12.13784,
+        "longitude": -61.61479
+    },
+    {
+        "name": "Sans Souci",
+        "country": "Grenada",
+        "province": "Saint George",
+        "population": -1,
+        "latitude": 12.056813,
+        "longitude": -61.745503
+    },
+    {
+        "name": "Saint Paul’s",
+        "country": "Grenada",
+        "province": "Saint George",
+        "population": -1,
+        "latitude": 12.049333,
+        "longitude": -61.715978
+    },
+    {
+        "name": "Saint Paul’s",
+        "country": "Grenada",
+        "province": "Saint George",
+        "population": -1,
+        "latitude": 12.046781,
+        "longitude": -61.729115
+    },
+    {
+        "name": "Saint Omer",
+        "country": "Grenada",
+        "province": "Saint Andrew",
+        "population": -1,
+        "latitude": 12.140633,
+        "longitude": -61.679535
+    },
+    {
+        "name": "Saint Mary",
+        "country": "Grenada",
+        "province": "Saint John",
+        "population": -1,
+        "latitude": 12.150475,
+        "longitude": -61.701526
+    },
+    {
+        "name": "Saint Margaret",
+        "country": "Grenada",
+        "province": "Saint Andrew",
+        "population": -1,
+        "latitude": 12.101438,
+        "longitude": -61.683317
+    },
+    {
+        "name": "Saint John",
+        "country": "Grenada",
+        "province": "Saint Patrick",
+        "population": -1,
+        "latitude": 12.17081,
+        "longitude": -61.638229
+    },
+    {
+        "name": "Saint John",
+        "country": "Grenada",
+        "province": "Saint Andrew",
+        "population": -1,
+        "latitude": 12.1166667,
+        "longitude": -61.6333333
+    },
+    {
+        "name": "Saint James",
+        "country": "Grenada",
+        "province": "Saint Andrew",
+        "population": -1,
+        "latitude": 12.114696,
+        "longitude": -61.658292
+    },
+    {
+        "name": "Saint Cyr",
+        "country": "Grenada",
+        "province": "Saint Andrew",
+        "population": -1,
+        "latitude": 12.127747,
+        "longitude": -61.649604
+    },
+    {
+        "name": "Saint Cyr",
+        "country": "Grenada",
+        "province": "Saint Andrew",
+        "population": -1,
+        "latitude": 12.114401,
+        "longitude": -61.683208
+    },
+    {
+        "name": "Saint Cloud",
+        "country": "Grenada",
+        "province": "Saint Andrew",
+        "population": -1,
+        "latitude": 12.125121,
+        "longitude": -61.635914
+    },
+    {
+        "name": "Ruth Howard",
+        "country": "Grenada",
+        "province": "Saint George",
+        "population": -1,
+        "latitude": 12.016676,
+        "longitude": -61.75559
+    },
+    {
+        "name": "Rosemont",
+        "country": "Grenada",
+        "province": "Saint John",
+        "population": -1,
+        "latitude": 12.154815,
+        "longitude": -61.707194
+    },
+    {
+        "name": "Rose Hill",
+        "country": "Grenada",
+        "province": "Saint Patrick",
+        "population": -1,
+        "latitude": 12.210859,
+        "longitude": -61.624659
+    },
+    {
+        "name": "Richmond Hill",
+        "country": "Grenada",
+        "province": "Saint George",
+        "population": -1,
+        "latitude": 12.050065,
+        "longitude": -61.739552
+    },
+    {
+        "name": "Richmond",
+        "country": "Grenada",
+        "province": "Saint George",
+        "population": -1,
+        "latitude": 12.102558,
+        "longitude": -61.732407
+    },
+    {
+        "name": "Richmond",
+        "country": "Grenada",
+        "province": "Saint Andrew",
+        "population": -1,
+        "latitude": 12.106032,
+        "longitude": -61.646888
+    },
+    {
+        "name": "Retreat",
+        "country": "Grenada",
+        "province": "Saint George",
+        "population": -1,
+        "latitude": 12.076736,
+        "longitude": -61.717771
+    },
+    {
+        "name": "Retreat",
+        "country": "Grenada",
+        "province": "Saint David",
+        "population": -1,
+        "latitude": 12.065956,
+        "longitude": -61.660005
+    },
+    {
+        "name": "Ravine",
+        "country": "Grenada",
+        "province": "Saint George",
+        "population": -1,
+        "latitude": 12.062631,
+        "longitude": -61.735966
+    },
+    {
+        "name": "Radix",
+        "country": "Grenada",
+        "province": "Saint George",
+        "population": -1,
+        "latitude": 12.061684,
+        "longitude": -61.726093
+    },
+    {
+        "name": "Pyrénées",
+        "country": "Grenada",
+        "province": "Saint Andrew",
+        "population": -1,
+        "latitude": 12.137458,
+        "longitude": -61.673941
+    },
+    {
+        "name": "Providence",
+        "country": "Grenada",
+        "province": "Saint David",
+        "population": -1,
+        "latitude": 12.052154,
+        "longitude": -61.674472
+    },
+    {
+        "name": "Post Royal",
+        "country": "Grenada",
+        "province": "Saint Andrew",
+        "population": -1,
+        "latitude": 12.09983,
+        "longitude": -61.636512
+    },
+    {
+        "name": "Pomme Rose",
+        "country": "Grenada",
+        "province": "Saint David",
+        "population": -1,
+        "latitude": 12.056377,
+        "longitude": -61.654606
+    },
+    {
+        "name": "Plaisance",
+        "country": "Grenada",
+        "province": "Saint Andrew",
+        "population": -1,
+        "latitude": 12.098187,
+        "longitude": -61.643488
+    },
+    {
+        "name": "Pierre Marie",
+        "country": "Grenada",
+        "province": "Saint Andrew",
+        "population": -1,
+        "latitude": 12.065834,
+        "longitude": -61.651082
+    },
+    {
+        "name": "Petit Étang",
+        "country": "Grenada",
+        "province": "Saint David",
+        "population": -1,
+        "latitude": 12.064423,
+        "longitude": -61.686978
+    },
+    {
+        "name": "Petit Calivigny",
+        "country": "Grenada",
+        "province": "Saint George",
+        "population": -1,
+        "latitude": 12.00641,
+        "longitude": -61.71145
+    },
+    {
+        "name": "Petit Bouc",
+        "country": "Grenada",
+        "province": "Saint George",
+        "population": -1,
+        "latitude": 12.019162,
+        "longitude": -61.750745
+    },
+    {
+        "name": "Petit Balthazar",
+        "country": "Grenada",
+        "province": "Saint Andrew",
+        "population": -1,
+        "latitude": 12.10176,
+        "longitude": -61.667017
+    },
+    {
+        "name": "Petit Bacaye",
+        "country": "Grenada",
+        "province": "Saint David",
+        "population": -1,
+        "latitude": 12.01827,
+        "longitude": -61.69463
+    },
+    {
+        "name": "Perdmontemps",
+        "country": "Grenada",
+        "province": "Saint David",
+        "population": -1,
+        "latitude": 12.047656,
+        "longitude": -61.700899
+    },
+    {
+        "name": "Pêcher",
+        "country": "Grenada",
+        "province": "Saint Andrew",
+        "population": -1,
+        "latitude": 12.119874,
+        "longitude": -61.683881
+    },
+    {
+        "name": "Pearls",
+        "country": "Grenada",
+        "province": "Saint Andrew",
+        "population": -1,
+        "latitude": 12.149532,
+        "longitude": -61.623438
+    },
+    {
+        "name": "Paradise",
+        "country": "Grenada",
+        "province": "Saint John",
+        "population": -1,
+        "latitude": 12.144394,
+        "longitude": -61.693292
+    },
+    {
+        "name": "Parade",
+        "country": "Grenada",
+        "province": "Saint George",
+        "population": -1,
+        "latitude": 12.048885,
+        "longitude": -61.735835
+    },
+    {
+        "name": "Panorama",
+        "country": "Grenada",
+        "province": "Saint Patrick",
+        "population": -1,
+        "latitude": 12.220153,
+        "longitude": -61.650153
+    },
+    {
+        "name": "Paddock",
+        "country": "Grenada",
+        "province": "Saint George",
+        "population": -1,
+        "latitude": 12.045179,
+        "longitude": -61.743664
+    },
+    {
+        "name": "Nianganfoix",
+        "country": "Grenada",
+        "province": "Saint Andrew",
+        "population": -1,
+        "latitude": 12.121909,
+        "longitude": -61.675096
+    },
+    {
+        "name": "New Hampshire",
+        "country": "Grenada",
+        "province": "Saint George",
+        "population": -1,
+        "latitude": 12.083768,
+        "longitude": -61.725549
+    },
+    {
+        "name": "Munich",
+        "country": "Grenada",
+        "province": "Saint Andrew",
+        "population": -1,
+        "latitude": 12.083223,
+        "longitude": -61.644773
+    },
+    {
+        "name": "Moya",
+        "country": "Grenada",
+        "province": "Saint Andrew",
+        "population": -1,
+        "latitude": 12.153472,
+        "longitude": -61.623248
+    },
+    {
+        "name": "Mount William",
+        "country": "Grenada",
+        "province": "Saint Patrick",
+        "population": -1,
+        "latitude": 12.219882,
+        "longitude": -61.671863
+    },
+    {
+        "name": "Mount Stanhope",
+        "country": "Grenada",
+        "province": "Saint Mark",
+        "population": -1,
+        "latitude": 12.185771,
+        "longitude": -61.684637
+    },
+    {
+        "name": "Mount Rose",
+        "country": "Grenada",
+        "province": "Saint Patrick",
+        "population": -1,
+        "latitude": 12.188293,
+        "longitude": -61.627691
+    },
+    {
+        "name": "Mount Rose",
+        "country": "Grenada",
+        "province": "Saint David",
+        "population": -1,
+        "latitude": 12.046049,
+        "longitude": -61.709047
+    },
+    {
+        "name": "Mount Rich",
+        "country": "Grenada",
+        "province": "Saint Patrick",
+        "population": -1,
+        "latitude": 12.19404,
+        "longitude": -61.646328
+    },
+    {
+        "name": "Mount Pleasant",
+        "country": "Grenada",
+        "province": "Carriacou and Petite Martinique",
+        "population": -1,
+        "latitude": 12.47869,
+        "longitude": -61.43469
+    },
+    {
+        "name": "Mount Pleasant",
+        "country": "Grenada",
+        "province": "Saint David",
+        "population": -1,
+        "latitude": 12.049818,
+        "longitude": -61.713509
+    },
+    {
+        "name": "Mount Nesbit",
+        "country": "Grenada",
+        "province": "Saint John",
+        "population": -1,
+        "latitude": 12.148238,
+        "longitude": -61.728518
+    },
+    {
+        "name": "Mount Horne",
+        "country": "Grenada",
+        "province": "Saint Andrew",
+        "population": -1,
+        "latitude": 12.144385,
+        "longitude": -61.643896
+    },
+    {
+        "name": "Mount Helicon",
+        "country": "Grenada",
+        "province": "Saint George",
+        "population": -1,
+        "latitude": 12.054665,
+        "longitude": -61.739172
+    },
+    {
+        "name": "Mount Gay",
+        "country": "Grenada",
+        "province": "Saint George",
+        "population": -1,
+        "latitude": 12.060093,
+        "longitude": -61.73921
+    },
+    {
+        "name": "Mount Fann",
+        "country": "Grenada",
+        "province": "Saint Andrew",
+        "population": -1,
+        "latitude": 12.09094,
+        "longitude": -61.625671
+    },
+    {
+        "name": "Mount Alexander",
+        "country": "Grenada",
+        "province": "Saint Patrick",
+        "population": -1,
+        "latitude": 12.2166667,
+        "longitude": -61.65
+    },
+    {
+        "name": "Mount Airy",
+        "country": "Grenada",
+        "province": "Saint George",
+        "population": -1,
+        "latitude": 12.04364,
+        "longitude": -61.719739
+    },
+    {
+        "name": "Mount Agnes",
+        "country": "Grenada",
+        "province": "Saint David",
+        "population": -1,
+        "latitude": 12.069361,
+        "longitude": -61.66744
+    },
+    {
+        "name": "Morne Jaloux",
+        "country": "Grenada",
+        "province": "Saint John",
+        "population": -1,
+        "latitude": 12.139418,
+        "longitude": -61.69453
+    },
+    {
+        "name": "Mont Tout",
+        "country": "Grenada",
+        "province": "Saint George",
+        "population": -1,
+        "latitude": 12.023535,
+        "longitude": -61.754655
+    },
+    {
+        "name": "Montreuil",
+        "country": "Grenada",
+        "province": "Saint Patrick",
+        "population": -1,
+        "latitude": 12.189391,
+        "longitude": -61.646529
+    },
+    {
+        "name": "Mon Repos",
+        "country": "Grenada",
+        "province": "Saint David",
+        "population": -1,
+        "latitude": 12.046226,
+        "longitude": -61.678144
+    },
+    {
+        "name": "Mon Plaisir",
+        "country": "Grenada",
+        "province": "Saint John",
+        "population": -1,
+        "latitude": 12.130932,
+        "longitude": -61.729115
+    },
+    {
+        "name": "Marlmount",
+        "country": "Grenada",
+        "province": "Saint David",
+        "population": -1,
+        "latitude": 12.051385,
+        "longitude": -61.654044
+    },
+    {
+        "name": "Marli",
+        "country": "Grenada",
+        "province": "Saint Patrick",
+        "population": -1,
+        "latitude": 12.220362,
+        "longitude": -61.641422
+    },
+    {
+        "name": "Marigot",
+        "country": "Grenada",
+        "province": "Saint John",
+        "population": -1,
+        "latitude": 12.12294,
+        "longitude": -61.74422
+    },
+    {
+        "name": "Marian",
+        "country": "Grenada",
+        "province": "Saint George",
+        "population": -1,
+        "latitude": 12.022173,
+        "longitude": -61.726113
+    },
+    {
+        "name": "Mardigras",
+        "country": "Grenada",
+        "province": "Saint George",
+        "population": -1,
+        "latitude": 12.050724,
+        "longitude": -61.723957
+    },
+    {
+        "name": "Mardigras",
+        "country": "Grenada",
+        "province": "Saint David",
+        "population": -1,
+        "latitude": 12.05577,
+        "longitude": -61.715084
+    },
+    {
+        "name": "Maran",
+        "country": "Grenada",
+        "province": "Saint John",
+        "population": -1,
+        "latitude": 12.174446,
+        "longitude": -61.723572
+    },
+    {
+        "name": "Mango",
+        "country": "Grenada",
+        "province": "Saint George",
+        "population": -1,
+        "latitude": 12.088442,
+        "longitude": -61.723071
+    },
+    {
+        "name": "Mahot",
+        "country": "Grenada",
+        "province": "Saint Andrew",
+        "population": -1,
+        "latitude": 12.05927,
+        "longitude": -61.63711
+    },
+    {
+        "name": "Mabouya",
+        "country": "Grenada",
+        "province": "Saint John",
+        "population": -1,
+        "latitude": 12.14844,
+        "longitude": -61.72988
+    },
+    {
+        "name": "Lower La Tante",
+        "country": "Grenada",
+        "province": "Saint Andrew",
+        "population": -1,
+        "latitude": 12.05252,
+        "longitude": -61.64643
+    },
+    {
+        "name": "Lower Capitol",
+        "country": "Grenada",
+        "province": "Saint Andrew",
+        "population": -1,
+        "latitude": 12.119744,
+        "longitude": -61.669388
+    },
+    {
+        "name": "Levera",
+        "country": "Grenada",
+        "province": "Saint Patrick",
+        "population": -1,
+        "latitude": 12.22232,
+        "longitude": -61.632173
+    },
+    {
+        "name": "L’Esterre",
+        "country": "Grenada",
+        "province": "Carriacou and Petite Martinique",
+        "population": -1,
+        "latitude": 12.46936,
+        "longitude": -61.48422
+    },
+    {
+        "name": "L’Esterre",
+        "country": "Grenada",
+        "province": "Saint Andrew",
+        "population": -1,
+        "latitude": 12.118685,
+        "longitude": -61.641579
+    },
+    {
+        "name": "Laura",
+        "country": "Grenada",
+        "province": "Saint David",
+        "population": -1,
+        "latitude": 12.038008,
+        "longitude": -61.697565
+    },
+    {
+        "name": "L’Appelle",
+        "country": "Grenada",
+        "province": "Carriacou and Petite Martinique",
+        "population": -1,
+        "latitude": 12.52272,
+        "longitude": -61.43347
+    },
+    {
+        "name": "La Poterie",
+        "country": "Grenada",
+        "province": "Saint Andrew",
+        "population": -1,
+        "latitude": 12.17204,
+        "longitude": -61.60924
+    },
+    {
+        "name": "La Mode",
+        "country": "Grenada",
+        "province": "Saint Patrick",
+        "population": -1,
+        "latitude": 12.216188,
+        "longitude": -61.640513
+    },
+    {
+        "name": "La Mode",
+        "country": "Grenada",
+        "province": "Saint George",
+        "population": -1,
+        "latitude": 12.067044,
+        "longitude": -61.734072
+    },
+    {
+        "name": "La Fortune",
+        "country": "Grenada",
+        "province": "Saint Patrick",
+        "population": -1,
+        "latitude": 12.219354,
+        "longitude": -61.634738
+    },
+    {
+        "name": "La Filette",
+        "country": "Grenada",
+        "province": "Saint Andrew",
+        "population": -1,
+        "latitude": 12.140516,
+        "longitude": -61.639685
+    },
+    {
+        "name": "La Femme",
+        "country": "Grenada",
+        "province": "Saint David",
+        "population": -1,
+        "latitude": 12.041092,
+        "longitude": -61.704232
+    },
+    {
+        "name": "Laborie",
+        "country": "Grenada",
+        "province": "Saint George",
+        "population": -1,
+        "latitude": 12.041187,
+        "longitude": -61.727973
+    },
+    {
+        "name": "Industry",
+        "country": "Grenada",
+        "province": "Saint Mark",
+        "population": -1,
+        "latitude": 12.218109,
+        "longitude": -61.679197
+    },
+    {
+        "name": "Horne",
+        "country": "Grenada",
+        "province": "Saint George",
+        "population": -1,
+        "latitude": 12.00448,
+        "longitude": -61.75636
+    },
+    {
+        "name": "Hope Bacolet",
+        "country": "Grenada",
+        "province": "Saint Andrew",
+        "population": -1,
+        "latitude": 12.07883,
+        "longitude": -61.62238
+    },
+    {
+        "name": "Hermon",
+        "country": "Grenada",
+        "province": "Saint Andrew",
+        "population": -1,
+        "latitude": 12.156507,
+        "longitude": -61.627029
+    },
+    {
+        "name": "Hermitage",
+        "country": "Grenada",
+        "province": "Saint Patrick",
+        "population": -1,
+        "latitude": 12.176494,
+        "longitude": -61.633565
+    },
+    {
+        "name": "Hermitage",
+        "country": "Grenada",
+        "province": "Saint George",
+        "population": -1,
+        "latitude": 12.082256,
+        "longitude": -61.740116
+    },
+    {
+        "name": "Harford Village",
+        "country": "Grenada",
+        "province": "Saint Andrew",
+        "population": -1,
+        "latitude": 12.117627,
+        "longitude": -61.635237
+    },
+    {
+        "name": "Happy Hill",
+        "country": "Grenada",
+        "province": "Saint George",
+        "population": -1,
+        "latitude": 12.089406,
+        "longitude": -61.755952
+    },
+    {
+        "name": "Gwa Kay",
+        "country": "Grenada",
+        "province": "Saint George",
+        "population": -1,
+        "latitude": 12.020171,
+        "longitude": -61.77112
+    },
+    {
+        "name": "Gretna Green",
+        "country": "Grenada",
+        "province": "Saint George",
+        "population": -1,
+        "latitude": 12.057856,
+        "longitude": -61.749889
+    },
+    {
+        "name": "Granton",
+        "country": "Grenada",
+        "province": "Saint George",
+        "population": -1,
+        "latitude": 12.092512,
+        "longitude": -61.724804
+    },
+    {
+        "name": "Grand Mal",
+        "country": "Grenada",
+        "province": "Saint George",
+        "population": -1,
+        "latitude": 12.077421,
+        "longitude": -61.752589
+    },
+    {
+        "name": "Grand Bras",
+        "country": "Grenada",
+        "province": "Saint Andrew",
+        "population": -1,
+        "latitude": 12.122383,
+        "longitude": -61.636627
+    },
+    {
+        "name": "Grand Bay",
+        "country": "Grenada",
+        "province": "Carriacou and Petite Martinique",
+        "population": -1,
+        "latitude": 12.47427,
+        "longitude": -61.4348
+    },
+    {
+        "name": "Golflands",
+        "country": "Grenada",
+        "province": "Saint George",
+        "population": -1,
+        "latitude": 12.0166667,
+        "longitude": -61.75
+    },
+    {
+        "name": "Frequente",
+        "country": "Grenada",
+        "province": "Saint George",
+        "population": -1,
+        "latitude": 12.01385,
+        "longitude": -61.76726
+    },
+    {
+        "name": "Fort Jeudy",
+        "country": "Grenada",
+        "province": "Saint George",
+        "population": -1,
+        "latitude": 11.99993,
+        "longitude": -61.70911
+    },
+    {
+        "name": "Ford",
+        "country": "Grenada",
+        "province": "Saint Andrew",
+        "population": -1,
+        "latitude": 12.11801,
+        "longitude": -61.62506
+    },
+    {
+        "name": "Fontenoy",
+        "country": "Grenada",
+        "province": "Saint George",
+        "population": -1,
+        "latitude": 12.068978,
+        "longitude": -61.752568
+    },
+    {
+        "name": "Florida",
+        "country": "Grenada",
+        "province": "Saint John",
+        "population": -1,
+        "latitude": 12.159425,
+        "longitude": -61.703088
+    },
+    {
+        "name": "Felix Park",
+        "country": "Grenada",
+        "province": "Saint Andrew",
+        "population": -1,
+        "latitude": 12.063849,
+        "longitude": -61.648785
+    },
+    {
+        "name": "Fairfield",
+        "country": "Grenada",
+        "province": "Saint David",
+        "population": -1,
+        "latitude": 12.055889,
+        "longitude": -61.66096
+    },
+    {
+        "name": "Epping Forest",
+        "country": "Grenada",
+        "province": "Saint David",
+        "population": -1,
+        "latitude": 12.045767,
+        "longitude": -61.70266
+    },
+    {
+        "name": "Helvellyn",
+        "country": "Grenada",
+        "province": "Saint Patrick",
+        "population": -1,
+        "latitude": 12.224114,
+        "longitude": -61.631303
+    },
+    {
+        "name": "Egmont",
+        "country": "Grenada",
+        "province": "Saint George",
+        "population": -1,
+        "latitude": 12.00589,
+        "longitude": -61.7216
+    },
+    {
+        "name": "Duquesne",
+        "country": "Grenada",
+        "province": "Saint Mark",
+        "population": -1,
+        "latitude": 12.209543,
+        "longitude": -61.670146
+    },
+    {
+        "name": "Dumfries",
+        "country": "Grenada",
+        "province": "Carriacou and Petite Martinique",
+        "population": -1,
+        "latitude": 12.46311,
+        "longitude": -61.45736
+    },
+    {
+        "name": "Dover",
+        "country": "Grenada",
+        "province": "Carriacou and Petite Martinique",
+        "population": -1,
+        "latitude": 12.5,
+        "longitude": -61.4333333
+    },
+    {
+        "name": "Dothan",
+        "country": "Grenada",
+        "province": "Saint John",
+        "population": -1,
+        "latitude": 12.137575,
+        "longitude": -61.742993
+    },
+    {
+        "name": "Des Isles",
+        "country": "Grenada",
+        "province": "Saint Patrick",
+        "population": -1,
+        "latitude": 12.2166667,
+        "longitude": -61.6666667
+    },
+    {
+        "name": "D’Arbeau",
+        "country": "Grenada",
+        "province": "Saint George",
+        "population": -1,
+        "latitude": 12.061221,
+        "longitude": -61.750896
+    },
+    {
+        "name": "Corinth",
+        "country": "Grenada",
+        "province": "Saint David",
+        "population": -1,
+        "latitude": 12.036,
+        "longitude": -61.677482
+    },
+    {
+        "name": "Corbeau Town",
+        "country": "Grenada",
+        "province": "Saint George",
+        "population": -1,
+        "latitude": 12.046035,
+        "longitude": -61.719537
+    },
+    {
+        "name": "Content",
+        "country": "Grenada",
+        "province": "Saint David",
+        "population": -1,
+        "latitude": 12.03597,
+        "longitude": -61.665803
+    },
+    {
+        "name": "Constantine",
+        "country": "Grenada",
+        "province": "Saint George",
+        "population": -1,
+        "latitude": 12.07935,
+        "longitude": -61.720421
+    },
+    {
+        "name": "Concord",
+        "country": "Grenada",
+        "province": "Saint John",
+        "population": -1,
+        "latitude": 12.118564,
+        "longitude": -61.739562
+    },
+    {
+        "name": "Clozier",
+        "country": "Grenada",
+        "province": "Saint John",
+        "population": -1,
+        "latitude": 12.142086,
+        "longitude": -61.697256
+    },
+    {
+        "name": "Clarkes Court",
+        "country": "Grenada",
+        "province": "Saint George",
+        "population": -1,
+        "latitude": 12.0333333,
+        "longitude": -61.7333333
+    },
+    {
+        "name": "Charlotte Vale",
+        "country": "Grenada",
+        "province": "Saint David",
+        "population": -1,
+        "latitude": 12.04341,
+        "longitude": -61.705299
+    },
+    {
+        "name": "Champs Fleurs",
+        "country": "Grenada",
+        "province": "Saint David",
+        "population": -1,
+        "latitude": 12.056642,
+        "longitude": -61.686939
+    },
+    {
+        "name": "Chadeau",
+        "country": "Grenada",
+        "province": "Saint John",
+        "population": -1,
+        "latitude": 12.138401,
+        "longitude": -61.687564
+    },
+    {
+        "name": "Castle Hill",
+        "country": "Grenada",
+        "province": "Saint Mark",
+        "population": -1,
+        "latitude": 12.199562,
+        "longitude": -61.673157
+    },
+    {
+        "name": "Castaigne",
+        "country": "Grenada",
+        "province": "Saint Andrew",
+        "population": -1,
+        "latitude": 12.125093,
+        "longitude": -61.672255
+    },
+    {
+        "name": "Café",
+        "country": "Grenada",
+        "province": "Saint George",
+        "population": -1,
+        "latitude": 12.037365,
+        "longitude": -61.744932
+    },
+    {
+        "name": "Bylands",
+        "country": "Grenada",
+        "province": "Saint Andrew",
+        "population": -1,
+        "latitude": 12.135091,
+        "longitude": -61.659956
+    },
+    {
+        "name": "Brandon Hall",
+        "country": "Grenada",
+        "province": "Saint Andrew",
+        "population": -1,
+        "latitude": 12.114716,
+        "longitude": -61.641952
+    },
+    {
+        "name": "Boca",
+        "country": "Grenada",
+        "province": "Saint George",
+        "population": -1,
+        "latitude": 12.075325,
+        "longitude": -61.72301
+    },
+    {
+        "name": "Blow Hole",
+        "country": "Grenada",
+        "province": "Saint George",
+        "population": -1,
+        "latitude": 11.99697,
+        "longitude": -61.76645
+    },
+    {
+        "name": "Blaize",
+        "country": "Grenada",
+        "province": "Saint Andrew",
+        "population": -1,
+        "latitude": 12.158756,
+        "longitude": -61.646062
+    },
+    {
+        "name": "Birch Grove",
+        "country": "Grenada",
+        "province": "Saint Andrew",
+        "population": -1,
+        "latitude": 12.114007,
+        "longitude": -61.672217
+    },
+    {
+        "name": "Belvidere",
+        "country": "Grenada",
+        "province": "Saint John",
+        "population": -1,
+        "latitude": 12.135368,
+        "longitude": -61.696968
+    },
+    {
+        "name": "Belvedere",
+        "country": "Grenada",
+        "province": "Carriacou and Petite Martinique",
+        "population": -1,
+        "latitude": 12.5,
+        "longitude": -61.4333333
+    },
+    {
+        "name": "Belmont",
+        "country": "Grenada",
+        "province": "Saint Mark",
+        "population": -1,
+        "latitude": 12.187463,
+        "longitude": -61.690883
+    },
+    {
+        "name": "Belmont",
+        "country": "Grenada",
+        "province": "Saint George",
+        "population": -1,
+        "latitude": 12.04124,
+        "longitude": -61.74966
+    },
+    {
+        "name": "Bellevue",
+        "country": "Grenada",
+        "province": "Saint Mark",
+        "population": -1,
+        "latitude": 12.1833333,
+        "longitude": -61.6833333
+    },
+    {
+        "name": "Bellevue",
+        "country": "Grenada",
+        "province": "Saint Andrew",
+        "population": -1,
+        "latitude": 12.110635,
+        "longitude": -61.652338
+    },
+    {
+        "name": "Bellevue",
+        "country": "Grenada",
+        "province": "Saint David",
+        "population": -1,
+        "latitude": 12.052656,
+        "longitude": -61.662543
+    },
+    {
+        "name": "Belle Plain",
+        "country": "Grenada",
+        "province": "Saint David",
+        "population": -1,
+        "latitude": 12.043756,
+        "longitude": -61.714024
+    },
+    {
+        "name": "Belle Isle",
+        "country": "Grenada",
+        "province": "Saint David",
+        "population": -1,
+        "latitude": 12.03443,
+        "longitude": -61.65075
+    },
+    {
+        "name": "Belair",
+        "country": "Grenada",
+        "province": "Carriacou and Petite Martinique",
+        "population": -1,
+        "latitude": 12.49227,
+        "longitude": -61.44061
+    },
+    {
+        "name": "Belair",
+        "country": "Grenada",
+        "province": "Saint Andrew",
+        "population": -1,
+        "latitude": 12.160227,
+        "longitude": -61.625991
+    },
+    {
+        "name": "Beauregard",
+        "country": "Grenada",
+        "province": "Saint Andrew",
+        "population": -1,
+        "latitude": 12.112344,
+        "longitude": -61.67493
+    },
+    {
+        "name": "Beaulieu",
+        "country": "Grenada",
+        "province": "Saint George",
+        "population": -1,
+        "latitude": 12.07059,
+        "longitude": -61.736228
+    },
+    {
+        "name": "Beaton",
+        "country": "Grenada",
+        "province": "Saint David",
+        "population": -1,
+        "latitude": 12.034848,
+        "longitude": -61.69591
+    },
+    {
+        "name": "Battle Hill",
+        "country": "Grenada",
+        "province": "Saint Andrew",
+        "population": -1,
+        "latitude": 12.102284,
+        "longitude": -61.62553
+    },
+    {
+        "name": "Barrow",
+        "country": "Grenada",
+        "province": "Saint David",
+        "population": -1,
+        "latitude": 12.049749,
+        "longitude": -61.704761
+    },
+    {
+        "name": "Bamboo",
+        "country": "Grenada",
+        "province": "Saint George",
+        "population": -1,
+        "latitude": 12.00861,
+        "longitude": -61.78783
+    },
+    {
+        "name": "Arthur Seat",
+        "country": "Grenada",
+        "province": "Saint Patrick",
+        "population": -1,
+        "latitude": 12.177454,
+        "longitude": -61.645618
+    },
+    {
+        "name": "Argyle",
+        "country": "Grenada",
+        "province": "Carriacou and Petite Martinique",
+        "population": -1,
+        "latitude": 12.456011,
+        "longitude": -61.478525
+    },
+    {
+        "name": "Après Tout",
+        "country": "Grenada",
+        "province": "Saint David",
+        "population": -1,
+        "latitude": 12.059722,
+        "longitude": -61.6723
+    },
+    {
+        "name": "Magazine Beach",
+        "country": "Grenada",
+        "province": "Grenada",
+        "population": -1,
+        "latitude": 12.012387555022098,
+        "longitude": -61.781959533691406
+    },
+    {
+        "name": "Lauriston",
+        "country": "Grenada",
+        "province": "Carriacou and Petite Martinique",
+        "population": -1,
+        "latitude": 12.47358,
+        "longitude": -61.47256
+    },
+    {
+        "name": "Kendace",
+        "country": "Grenada",
+        "province": "Carriacou and Petite Martinique",
+        "population": -1,
+        "latitude": 12.51513,
+        "longitude": -61.38779
+    },
+    {
+        "name": "Citern Village",
+        "country": "Grenada",
+        "province": "Carriacou and Petite Martinique",
+        "population": -1,
+        "latitude": 12.5178,
+        "longitude": -61.39096
+    },
+    {
+        "name": "Windsor",
+        "country": "Grenada",
+        "province": "Saint Andrew",
+        "population": -1,
+        "latitude": 12.13246,
+        "longitude": -61.66838
+    },
+    {
+        "name": "Westerhall Land Settlement",
+        "country": "Grenada",
+        "province": "Saint David",
+        "population": -1,
+        "latitude": 12.01906,
+        "longitude": -61.70094
+    },
+    {
+        "name": "Tanteen",
+        "country": "Grenada",
+        "province": "Saint George",
+        "population": -1,
+        "latitude": 12.048377,
+        "longitude": -61.747523
+    },
+    {
+        "name": "Plaisance Land Settlement",
+        "country": "Grenada",
+        "province": "Saint John",
+        "population": -1,
+        "latitude": 12.147648,
+        "longitude": -61.690622
+    },
+    {
+        "name": "Mount William",
+        "country": "Grenada",
+        "province": "Saint David",
+        "population": -1,
+        "latitude": 12.068716,
+        "longitude": -61.68104
+    },
+    {
+        "name": "Mount Weldale",
+        "country": "Grenada",
+        "province": "Saint George",
+        "population": -1,
+        "latitude": 12.054125,
+        "longitude": -61.745496
+    },
+    {
+        "name": "Mount Royal",
+        "country": "Grenada",
+        "province": "Saint George",
+        "population": -1,
+        "latitude": 12.055508,
+        "longitude": -61.741527
+    },
+    {
+        "name": "Mount Nesbit Land Settlement",
+        "country": "Grenada",
+        "province": "Saint John",
+        "population": -1,
+        "latitude": 12.13967,
+        "longitude": -61.719469
+    },
+    {
+        "name": "Mount Moritz Land Settlement",
+        "country": "Grenada",
+        "province": "Saint George",
+        "population": -1,
+        "latitude": 12.083944,
+        "longitude": -61.746463
+    },
+    {
+        "name": "Mount Cenis",
+        "country": "Grenada",
+        "province": "Saint Mark",
+        "population": -1,
+        "latitude": 12.172891,
+        "longitude": -61.707042
+    },
+    {
+        "name": "Mount Cassell Land Settlement",
+        "country": "Grenada",
+        "province": "Saint Andrew",
+        "population": -1,
+        "latitude": 12.068636,
+        "longitude": -61.65529
+    },
+    {
+        "name": "Meldrum",
+        "country": "Grenada",
+        "province": "Grenada",
+        "population": -1,
+        "latitude": 12.5,
+        "longitude": -61.4333333
+    },
+    {
+        "name": "Levera Development",
+        "country": "Grenada",
+        "province": "Saint Patrick",
+        "population": -1,
+        "latitude": 12.210167,
+        "longitude": -61.61467
+    },
+    {
+        "name": "Hyde Park",
+        "country": "Grenada",
+        "province": "Saint George",
+        "population": -1,
+        "latitude": 12.050699,
+        "longitude": -61.744234
+    },
+    {
+        "name": "Nahoo",
+        "country": "Grenada",
+        "province": "Grenada",
+        "population": -1,
+        "latitude": 12.51455,
+        "longitude": -61.38333
+    },
+    {
+        "name": "Ballast Ground",
+        "country": "Grenada",
+        "province": "Saint George",
+        "population": -1,
+        "latitude": 12.042978,
+        "longitude": -61.751579
+    },
+    {
+        "name": "Observatory",
+        "country": "Grenada",
+        "province": "Saint George",
+        "population": -1,
+        "latitude": 12.054986,
+        "longitude": -61.748013
+    }
+]

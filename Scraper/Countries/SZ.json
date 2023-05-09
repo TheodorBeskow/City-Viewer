@@ -1,0 +1,914 @@
+[
+    {
+        "name": "Mbabane",
+        "country": "Eswatini",
+        "province": "Hhohho",
+        "population": 76218,
+        "latitude": -26.3166667,
+        "longitude": 31.1333333
+    },
+    {
+        "name": "Manzini",
+        "country": "Eswatini",
+        "province": "Manzini",
+        "population": 110537,
+        "latitude": -26.49884390463397,
+        "longitude": 31.380043029785156
+    },
+    {
+        "name": "Big Bend",
+        "country": "Eswatini",
+        "province": "Lubombo",
+        "population": 10342,
+        "latitude": -26.8166667,
+        "longitude": 31.9333333
+    },
+    {
+        "name": "Nhlangano",
+        "country": "Eswatini",
+        "province": "Shiselweni",
+        "population": 9016,
+        "latitude": -27.112222,
+        "longitude": 31.198333
+    },
+    {
+        "name": "Mhlume",
+        "country": "Eswatini",
+        "province": "Lubombo",
+        "population": 8652,
+        "latitude": -26.0333333,
+        "longitude": 31.85
+    },
+    {
+        "name": "Malkerns",
+        "country": "Eswatini",
+        "province": "Manzini",
+        "population": 9724,
+        "latitude": -26.5666667,
+        "longitude": 31.1833333
+    },
+    {
+        "name": "Siteki",
+        "country": "Eswatini",
+        "province": "Lubombo",
+        "population": 6152,
+        "latitude": -26.4525,
+        "longitude": 31.947222
+    },
+    {
+        "name": "Piggs Peak",
+        "country": "Eswatini",
+        "province": "Hhohho",
+        "population": 5750,
+        "latitude": -25.96082,
+        "longitude": 31.24666
+    },
+    {
+        "name": "Lobamba",
+        "country": "Eswatini",
+        "province": "Hhohho",
+        "population": 4557,
+        "latitude": -26.4666667,
+        "longitude": 31.2
+    },
+    {
+        "name": "Hluti",
+        "country": "Eswatini",
+        "province": "Shiselweni",
+        "population": 6763,
+        "latitude": -27.2166667,
+        "longitude": 31.6166667
+    },
+    {
+        "name": "Tshaneni",
+        "country": "Eswatini",
+        "province": "Lubombo",
+        "population": 1899,
+        "latitude": -25.9833333,
+        "longitude": 31.7166667
+    },
+    {
+        "name": "Sidvokodvo",
+        "country": "Eswatini",
+        "province": "Manzini",
+        "population": 1746,
+        "latitude": -26.62820186177648,
+        "longitude": 31.420211791992188
+    },
+    {
+        "name": "Nsoko",
+        "country": "Eswatini",
+        "province": "Lubombo",
+        "population": 1175,
+        "latitude": -27.0333333,
+        "longitude": 31.95
+    },
+    {
+        "name": "Mhlambanyatsi",
+        "country": "Eswatini",
+        "province": "Manzini",
+        "population": 2886,
+        "latitude": -26.45,
+        "longitude": 31.0166667
+    },
+    {
+        "name": "Lavumisa",
+        "country": "Eswatini",
+        "province": "Shiselweni",
+        "population": 2000,
+        "latitude": -27.310048999188115,
+        "longitude": 31.891980171203613
+    },
+    {
+        "name": "Kwaluseni",
+        "country": "Eswatini",
+        "province": "Manzini",
+        "population": 3395,
+        "latitude": -26.4833333,
+        "longitude": 31.3333333
+    },
+    {
+        "name": "Kubuta",
+        "country": "Eswatini",
+        "province": "Shiselweni",
+        "population": 2038,
+        "latitude": -26.8833333,
+        "longitude": 31.4833333
+    },
+    {
+        "name": "Hlatikulu",
+        "country": "Eswatini",
+        "province": "Shiselweni",
+        "population": 2748,
+        "latitude": -26.979167,
+        "longitude": 31.324444
+    },
+    {
+        "name": "Bulembu",
+        "country": "Eswatini",
+        "province": "Hhohho",
+        "population": 2260,
+        "latitude": -25.9666667,
+        "longitude": 31.1333333
+    },
+    {
+        "name": "Siphofaneni",
+        "country": "Eswatini",
+        "province": "Eswatini",
+        "population": -1,
+        "latitude": -26.6833333,
+        "longitude": 31.6833333
+    },
+    {
+        "name": "Sicunusa",
+        "country": "Eswatini",
+        "province": "Eswatini",
+        "population": -1,
+        "latitude": -26.8666667,
+        "longitude": 30.95
+    },
+    {
+        "name": "Sandlane",
+        "country": "Eswatini",
+        "province": "Manzini",
+        "population": -1,
+        "latitude": -26.5666667,
+        "longitude": 30.7833333
+    },
+    {
+        "name": "Ngonini",
+        "country": "Eswatini",
+        "province": "Eswatini",
+        "population": -1,
+        "latitude": -25.7666667,
+        "longitude": 31.3833333
+    },
+    {
+        "name": "Mliba",
+        "country": "Eswatini",
+        "province": "Eswatini",
+        "population": -1,
+        "latitude": -26.25,
+        "longitude": 31.5833333
+    },
+    {
+        "name": "Mlawula",
+        "country": "Eswatini",
+        "province": "Eswatini",
+        "population": -1,
+        "latitude": -26.1833333,
+        "longitude": 31.9833333
+    },
+    {
+        "name": "Mhlumeni",
+        "country": "Eswatini",
+        "province": "Eswatini",
+        "population": -1,
+        "latitude": -26.25,
+        "longitude": 32.1
+    },
+    {
+        "name": "Mhlosheni",
+        "country": "Eswatini",
+        "province": "Eswatini",
+        "population": -1,
+        "latitude": -27.1833333,
+        "longitude": 31.3833333
+    },
+    {
+        "name": "Matsapha",
+        "country": "Eswatini",
+        "province": "Manzini",
+        "population": -1,
+        "latitude": -26.502530898533244,
+        "longitude": 31.307945251464844
+    },
+    {
+        "name": "Mankayane",
+        "country": "Eswatini",
+        "province": "Eswatini",
+        "population": -1,
+        "latitude": -26.668399707529414,
+        "longitude": 31.06487274169922
+    },
+    {
+        "name": "Maloma",
+        "country": "Eswatini",
+        "province": "Eswatini",
+        "population": -1,
+        "latitude": -27.0166667,
+        "longitude": 31.65
+    },
+    {
+        "name": "Mahamba",
+        "country": "Eswatini",
+        "province": "Eswatini",
+        "population": -1,
+        "latitude": -27.1,
+        "longitude": 31.0833333
+    },
+    {
+        "name": "Madlangampisi",
+        "country": "Eswatini",
+        "province": "Hhohho",
+        "population": -1,
+        "latitude": -26.0833333,
+        "longitude": 31.55
+    },
+    {
+        "name": "Lubuli",
+        "country": "Eswatini",
+        "province": "Eswatini",
+        "population": -1,
+        "latitude": -27.0166667,
+        "longitude": 31.9
+    },
+    {
+        "name": "Lomahasha",
+        "country": "Eswatini",
+        "province": "Lubombo",
+        "population": -1,
+        "latitude": -25.9833333,
+        "longitude": 32
+    },
+    {
+        "name": "Herefords",
+        "country": "Eswatini",
+        "province": "Eswatini",
+        "population": -1,
+        "latitude": -25.8333333,
+        "longitude": 31.5
+    },
+    {
+        "name": "Gege",
+        "country": "Eswatini",
+        "province": "Shiselweni",
+        "population": -1,
+        "latitude": -26.95,
+        "longitude": 31.0166667
+    },
+    {
+        "name": "Darkton",
+        "country": "Eswatini",
+        "province": "Hhohho",
+        "population": 1281,
+        "latitude": -26.2333333,
+        "longitude": 31.0333333
+    },
+    {
+        "name": "Bhunya",
+        "country": "Eswatini",
+        "province": "Manzini",
+        "population": 3046,
+        "latitude": -26.55,
+        "longitude": 31.0166667
+    },
+    {
+        "name": "Ngwenya",
+        "country": "Eswatini",
+        "province": "Lubombo",
+        "population": -1,
+        "latitude": -26.227904,
+        "longitude": 31.039264
+    },
+    {
+        "name": "Mpolonjeni",
+        "country": "Eswatini",
+        "province": "Lubombo",
+        "population": -1,
+        "latitude": -26.554966,
+        "longitude": 31.8690121
+    },
+    {
+        "name": "Ekukhanyeni",
+        "country": "Eswatini",
+        "province": "Manzini",
+        "population": -1,
+        "latitude": -26.3875,
+        "longitude": 31.528056
+    },
+    {
+        "name": "Simunye",
+        "country": "Eswatini",
+        "province": "Lubombo",
+        "population": -1,
+        "latitude": -26.208889,
+        "longitude": 31.918889
+    },
+    {
+        "name": "Hluthi",
+        "country": "Eswatini",
+        "province": "Shiselweni",
+        "population": -1,
+        "latitude": -27.21,
+        "longitude": 31.57
+    },
+    {
+        "name": "Mafutseni",
+        "country": "Eswatini",
+        "province": "Manzini",
+        "population": -1,
+        "latitude": -26.44,
+        "longitude": 31.52
+    },
+    {
+        "name": "Ndzingeni",
+        "country": "Eswatini",
+        "province": "Hhohho",
+        "population": -1,
+        "latitude": -25.97518,
+        "longitude": 31.29344
+    },
+    {
+        "name": "Mahlangatja",
+        "country": "Eswatini",
+        "province": "Manzini",
+        "population": -1,
+        "latitude": -26.781389,
+        "longitude": 31.248056
+    },
+    {
+        "name": "Mpaka",
+        "country": "Eswatini",
+        "province": "Lubombo",
+        "population": -1,
+        "latitude": -26.412,
+        "longitude": 31.78
+    },
+    {
+        "name": "Lundzi",
+        "country": "Eswatini",
+        "province": "Manzini",
+        "population": -1,
+        "latitude": -26.4547976,
+        "longitude": 30.8579754
+    },
+    {
+        "name": "Mthongwaneni",
+        "country": "Eswatini",
+        "province": "Manzini",
+        "population": -1,
+        "latitude": -26.49785,
+        "longitude": 31.471729
+    },
+    {
+        "name": "Hhelehhele",
+        "country": "Eswatini",
+        "province": "Manzini",
+        "population": -1,
+        "latitude": -26.488,
+        "longitude": 31.456
+    },
+    {
+        "name": "Macnab",
+        "country": "Eswatini",
+        "province": "Eswatini",
+        "population": -1,
+        "latitude": -26.4166667,
+        "longitude": 31.5833333
+    },
+    {
+        "name": "Ezulwini",
+        "country": "Eswatini",
+        "province": "Lubombo",
+        "population": -1,
+        "latitude": -26.4,
+        "longitude": 31.1666667
+    },
+    {
+        "name": "Balegane",
+        "country": "Eswatini",
+        "province": "Eswatini",
+        "population": -1,
+        "latitude": -26.1,
+        "longitude": 31.5666667
+    },
+    {
+        "name": "Abercorn",
+        "country": "Eswatini",
+        "province": "Eswatini",
+        "population": -1,
+        "latitude": -26.833333,
+        "longitude": 32.133333
+    },
+    {
+        "name": "Ntfonjeni",
+        "country": "Eswatini",
+        "province": "Hhohho",
+        "population": -1,
+        "latitude": -25.82659,
+        "longitude": 31.3273
+    },
+    {
+        "name": "Usutu",
+        "country": "Eswatini",
+        "province": "Eswatini",
+        "population": -1,
+        "latitude": -26.5833333,
+        "longitude": 31.1833333
+    },
+    {
+        "name": "Sitobela",
+        "country": "Eswatini",
+        "province": "Eswatini",
+        "population": -1,
+        "latitude": -26.8833333,
+        "longitude": 31.6
+    },
+    {
+        "name": "Singceni",
+        "country": "Eswatini",
+        "province": "Eswatini",
+        "population": -1,
+        "latitude": -26.7666667,
+        "longitude": 31.5833333
+    },
+    {
+        "name": "Mvangatini",
+        "country": "Eswatini",
+        "province": "Eswatini",
+        "population": -1,
+        "latitude": -26.75,
+        "longitude": 31.6
+    },
+    {
+        "name": "Mahlanya",
+        "country": "Eswatini",
+        "province": "Eswatini",
+        "population": -1,
+        "latitude": -26.5,
+        "longitude": 31.2833333
+    },
+    {
+        "name": "Lomati",
+        "country": "Eswatini",
+        "province": "Eswatini",
+        "population": -1,
+        "latitude": -25.8166667,
+        "longitude": 31.35
+    },
+    {
+        "name": "Inyetane",
+        "country": "Eswatini",
+        "province": "Eswatini",
+        "population": -1,
+        "latitude": -26.5333333,
+        "longitude": 32.0166667
+    },
+    {
+        "name": "Havelock",
+        "country": "Eswatini",
+        "province": "Eswatini",
+        "population": -1,
+        "latitude": -25.95,
+        "longitude": 31.1333333
+    },
+    {
+        "name": "Granvalley",
+        "country": "Eswatini",
+        "province": "Eswatini",
+        "population": -1,
+        "latitude": -26.9166667,
+        "longitude": 31.2833333
+    },
+    {
+        "name": "Vuvulane",
+        "country": "Eswatini",
+        "province": "Lubombo",
+        "population": 4155,
+        "latitude": -26.074271,
+        "longitude": 31.87672
+    },
+    {
+        "name": "Von Wissel",
+        "country": "Eswatini",
+        "province": "Eswatini",
+        "population": -1,
+        "latitude": -26.8666667,
+        "longitude": 31.9333333
+    },
+    {
+        "name": "Verdun",
+        "country": "Eswatini",
+        "province": "Eswatini",
+        "population": -1,
+        "latitude": -26.85,
+        "longitude": 31.4
+    },
+    {
+        "name": "Stylkloof",
+        "country": "Eswatini",
+        "province": "Eswatini",
+        "population": -1,
+        "latitude": -26.7833333,
+        "longitude": 31.1333333
+    },
+    {
+        "name": "Skombeni",
+        "country": "Eswatini",
+        "province": "Eswatini",
+        "population": -1,
+        "latitude": -26.4,
+        "longitude": 31.35
+    },
+    {
+        "name": "Rondspring",
+        "country": "Eswatini",
+        "province": "Eswatini",
+        "population": -1,
+        "latitude": -26.8833333,
+        "longitude": 31.7
+    },
+    {
+        "name": "Rocklands",
+        "country": "Eswatini",
+        "province": "Hhohho",
+        "population": -1,
+        "latitude": -25.95,
+        "longitude": 31.2833333
+    },
+    {
+        "name": "Nyabe",
+        "country": "Eswatini",
+        "province": "Eswatini",
+        "population": -1,
+        "latitude": -26.75,
+        "longitude": 31.0833333
+    },
+    {
+        "name": "Nokwane",
+        "country": "Eswatini",
+        "province": "Eswatini",
+        "population": -1,
+        "latitude": -26.1333333,
+        "longitude": 31.9166667
+    },
+    {
+        "name": "Nkonjane",
+        "country": "Eswatini",
+        "province": "Eswatini",
+        "population": -1,
+        "latitude": -26.7666667,
+        "longitude": 32.0833333
+    },
+    {
+        "name": "Nkanni",
+        "country": "Eswatini",
+        "province": "Hhohho",
+        "population": -1,
+        "latitude": -26.45,
+        "longitude": 31.2166667
+    },
+    {
+        "name": "Mooihoek",
+        "country": "Eswatini",
+        "province": "Eswatini",
+        "population": -1,
+        "latitude": -26.9666667,
+        "longitude": 31.4666667
+    },
+    {
+        "name": "Mgamane",
+        "country": "Eswatini",
+        "province": "Eswatini",
+        "population": -1,
+        "latitude": -26.8166667,
+        "longitude": 31.1
+    },
+    {
+        "name": "Mbuluzana",
+        "country": "Eswatini",
+        "province": "Eswatini",
+        "population": -1,
+        "latitude": -26.35,
+        "longitude": 31.5166667
+    },
+    {
+        "name": "Magomba",
+        "country": "Eswatini",
+        "province": "Lubombo",
+        "population": -1,
+        "latitude": -26.5666667,
+        "longitude": 31.8333333
+    },
+    {
+        "name": "Luyengo",
+        "country": "Eswatini",
+        "province": "Eswatini",
+        "population": -1,
+        "latitude": -26.5333333,
+        "longitude": 31.2333333
+    },
+    {
+        "name": "Lismore",
+        "country": "Eswatini",
+        "province": "Eswatini",
+        "population": -1,
+        "latitude": -27.1166667,
+        "longitude": 31.9333333
+    },
+    {
+        "name": "Kobolondo Heights",
+        "country": "Eswatini",
+        "province": "Eswatini",
+        "population": -1,
+        "latitude": -25.9,
+        "longitude": 31.2166667
+    },
+    {
+        "name": "Inyetane",
+        "country": "Eswatini",
+        "province": "Eswatini",
+        "population": -1,
+        "latitude": -26.55,
+        "longitude": 31.9333333
+    },
+    {
+        "name": "Horo",
+        "country": "Eswatini",
+        "province": "Eswatini",
+        "population": -1,
+        "latitude": -25.75,
+        "longitude": 31.4166667
+    },
+    {
+        "name": "Holobela",
+        "country": "Eswatini",
+        "province": "Eswatini",
+        "population": -1,
+        "latitude": -26.7,
+        "longitude": 31.8333333
+    },
+    {
+        "name": "Forbes Reef",
+        "country": "Eswatini",
+        "province": "Eswatini",
+        "population": -1,
+        "latitude": -26.1666667,
+        "longitude": 31.1
+    },
+    {
+        "name": "Etjanine",
+        "country": "Eswatini",
+        "province": "Eswatini",
+        "population": -1,
+        "latitude": -26.3833333,
+        "longitude": 30.9
+    },
+    {
+        "name": "Dwaleni",
+        "country": "Eswatini",
+        "province": "Eswatini",
+        "population": -1,
+        "latitude": -27.1666667,
+        "longitude": 31.2666667
+    },
+    {
+        "name": "Croydon",
+        "country": "Eswatini",
+        "province": "Eswatini",
+        "population": -1,
+        "latitude": -26.2,
+        "longitude": 31.5666667
+    },
+    {
+        "name": "Commissie Nek",
+        "country": "Eswatini",
+        "province": "Eswatini",
+        "population": -1,
+        "latitude": -26.3333333,
+        "longitude": 31.2333333
+    },
+    {
+        "name": "Bennets",
+        "country": "Eswatini",
+        "province": "Eswatini",
+        "population": -1,
+        "latitude": -25.95,
+        "longitude": 31.5166667
+    },
+    {
+        "name": "Mbangweni",
+        "country": "Eswatini",
+        "province": "Hhohho",
+        "population": -1,
+        "latitude": -26.2932128,
+        "longitude": 31.1116397
+    },
+    {
+        "name": "Mgazini",
+        "country": "Eswatini",
+        "province": "Shiselweni",
+        "population": -1,
+        "latitude": -26.796,
+        "longitude": 30.949
+    },
+    {
+        "name": "Nkambeni",
+        "country": "Eswatini",
+        "province": "Hhohho",
+        "population": -1,
+        "latitude": -26.05,
+        "longitude": 31.6666666667
+    },
+    {
+        "name": "Mhlangatane",
+        "country": "Eswatini",
+        "province": "Hhohho",
+        "population": -1,
+        "latitude": -26.305,
+        "longitude": 31.114722
+    },
+    {
+        "name": "Mhlangatane",
+        "country": "Eswatini",
+        "province": "Hhohho",
+        "population": -1,
+        "latitude": -25.93333,
+        "longitude": 31.633333
+    },
+    {
+        "name": "Mathendele",
+        "country": "Eswatini",
+        "province": "Shiselweni",
+        "population": -1,
+        "latitude": -27.095385,
+        "longitude": 31.19652
+    },
+    {
+        "name": "Mahlalini",
+        "country": "Eswatini",
+        "province": "Shiselweni",
+        "population": -1,
+        "latitude": -27.07567,
+        "longitude": 31.311361
+    },
+    {
+        "name": "Buhleni",
+        "country": "Eswatini",
+        "province": "Hhohho",
+        "population": -1,
+        "latitude": -25.921379,
+        "longitude": 31.509672
+    },
+    {
+        "name": "Vusweni",
+        "country": "Eswatini",
+        "province": "Hhohho",
+        "population": -1,
+        "latitude": -25.867114,
+        "longitude": 31.3756436
+    },
+    {
+        "name": "Dvokolwako",
+        "country": "Eswatini",
+        "province": "Hhohho",
+        "population": -1,
+        "latitude": -26.16037,
+        "longitude": 31.58878
+    },
+    {
+        "name": "Mkhulamini",
+        "country": "Eswatini",
+        "province": "Manzini",
+        "population": -1,
+        "latitude": -26.42765,
+        "longitude": 31.38627
+    },
+    {
+        "name": "Ndzevane",
+        "country": "Eswatini",
+        "province": "Lubombo",
+        "population": -1,
+        "latitude": -26.946464,
+        "longitude": 31.953943
+    },
+    {
+        "name": "Mambane",
+        "country": "Eswatini",
+        "province": "Lubombo",
+        "population": -1,
+        "latitude": -26.768,
+        "longitude": 32.034
+    },
+    {
+        "name": "Hlatsi",
+        "country": "Eswatini",
+        "province": "Shiselweni",
+        "population": -1,
+        "latitude": -26.97479,
+        "longitude": 31.3252
+    },
+    {
+        "name": "Nsongweni",
+        "country": "Eswatini",
+        "province": "Shiselweni",
+        "population": -1,
+        "latitude": -27.0874787,
+        "longitude": 31.1932446
+    },
+    {
+        "name": "Ngculwini",
+        "country": "Eswatini",
+        "province": "Manzini",
+        "population": -1,
+        "latitude": -26.546978,
+        "longitude": 31.482507
+    },
+    {
+        "name": "Malindza",
+        "country": "Eswatini",
+        "province": "Lubombo",
+        "population": -1,
+        "latitude": -26.4029371,
+        "longitude": 31.7531747
+    },
+    {
+        "name": "Nyonyane",
+        "country": "Eswatini",
+        "province": "Hhohho",
+        "population": -1,
+        "latitude": -26.114046,
+        "longitude": 31.449159
+    },
+    {
+        "name": "Mangwaneni",
+        "country": "Eswatini",
+        "province": "Hhohho",
+        "population": -1,
+        "latitude": -26.33858,
+        "longitude": 31.14403
+    },
+    {
+        "name": "Mbasheni",
+        "country": "Eswatini",
+        "province": "Hhohho",
+        "population": -1,
+        "latitude": -25.828401,
+        "longitude": 31.390922
+    },
+    {
+        "name": "Maphiveni",
+        "country": "Eswatini",
+        "province": "Lubombo",
+        "population": -1,
+        "latitude": -26.14126,
+        "longitude": 31.98841
+    },
+    {
+        "name": "Fairview North",
+        "country": "Eswatini",
+        "province": "Manzini",
+        "population": -1,
+        "latitude": -26.486611,
+        "longitude": 31.361213
+    },
+    {
+        "name": "Msunduza",
+        "country": "Eswatini",
+        "province": "Hhohho",
+        "population": -1,
+        "latitude": -26.331131,
+        "longitude": 31.150656
+    }
+]

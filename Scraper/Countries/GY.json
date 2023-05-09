@@ -1,0 +1,4954 @@
+[
+    {
+        "name": "Georgetown",
+        "country": "Guyana",
+        "province": "Demerara-Mahaica",
+        "population": 235017,
+        "latitude": 6.804483851419782,
+        "longitude": -58.155269622802734
+    },
+    {
+        "name": "Linden",
+        "country": "Guyana",
+        "province": "Upper Demerara-Berbice",
+        "population": 44690,
+        "latitude": 6.008087,
+        "longitude": -58.307135
+    },
+    {
+        "name": "New Amsterdam",
+        "country": "Guyana",
+        "province": "East Berbice-Corentyne",
+        "population": 35039,
+        "latitude": 6.247927,
+        "longitude": -57.517102
+    },
+    {
+        "name": "Anna Regina",
+        "country": "Guyana",
+        "province": "Pomeroon-Supenaam",
+        "population": 12448,
+        "latitude": 7.26439432533978,
+        "longitude": -58.5076904296875
+    },
+    {
+        "name": "Bartica",
+        "country": "Guyana",
+        "province": "Cuyuni-Mazaruni",
+        "population": 11157,
+        "latitude": 6.407992,
+        "longitude": -58.621918
+    },
+    {
+        "name": "Skeldon",
+        "country": "Guyana",
+        "province": "East Berbice-Corentyne",
+        "population": 5859,
+        "latitude": 5.87035,
+        "longitude": -57.14681
+    },
+    {
+        "name": "Mahdia",
+        "country": "Guyana",
+        "province": "Potaro-Siparuni",
+        "population": 4200,
+        "latitude": 5.2666667,
+        "longitude": -59.15
+    },
+    {
+        "name": "Rosignol",
+        "country": "Guyana",
+        "province": "Mahaica-Berbice",
+        "population": 5782,
+        "latitude": 6.270953,
+        "longitude": -57.536973
+    },
+    {
+        "name": "Parika",
+        "country": "Guyana",
+        "province": "Essequibo Islands-West Demerara",
+        "population": 4081,
+        "latitude": 6.837124343269006,
+        "longitude": -58.429412841796875
+    },
+    {
+        "name": "Mahaica Village",
+        "country": "Guyana",
+        "province": "Demerara-Mahaica",
+        "population": 4867,
+        "latitude": 6.684048,
+        "longitude": -57.921808
+    },
+    {
+        "name": "Vreed-en-Hoop",
+        "country": "Guyana",
+        "province": "Essequibo Islands-West Demerara",
+        "population": 3073,
+        "latitude": 6.809266,
+        "longitude": -58.19798
+    },
+    {
+        "name": "Mahaicony Village",
+        "country": "Guyana",
+        "province": "Mahaica-Berbice",
+        "population": 2130,
+        "latitude": 6.576334,
+        "longitude": -57.80486
+    },
+    {
+        "name": "Mabaruma",
+        "country": "Guyana",
+        "province": "Barima-Waini",
+        "population": 717,
+        "latitude": 8.2,
+        "longitude": -59.7833333
+    },
+    {
+        "name": "Lethem",
+        "country": "Guyana",
+        "province": "Upper Takutu-Upper Essequibo",
+        "population": 716,
+        "latitude": 3.3833333,
+        "longitude": -59.8
+    },
+    {
+        "name": "Orinduik",
+        "country": "Guyana",
+        "province": "Potaro-Siparuni",
+        "population": -1,
+        "latitude": 4.7,
+        "longitude": -60.0166667
+    },
+    {
+        "name": "Matthews Ridge",
+        "country": "Guyana",
+        "province": "Barima-Waini",
+        "population": -1,
+        "latitude": 7.494259,
+        "longitude": -60.150677
+    },
+    {
+        "name": "Kamarang",
+        "country": "Guyana",
+        "province": "Cuyuni-Mazaruni",
+        "population": -1,
+        "latitude": 5.8666667,
+        "longitude": -60.6166667
+    },
+    {
+        "name": "Imbaimadai",
+        "country": "Guyana",
+        "province": "Cuyuni-Mazaruni",
+        "population": -1,
+        "latitude": 5.7,
+        "longitude": -60.2833333
+    },
+    {
+        "name": "Baramita",
+        "country": "Guyana",
+        "province": "Barima-Waini",
+        "population": -1,
+        "latitude": 7.35,
+        "longitude": -60.4833333
+    },
+    {
+        "name": "Arakaka",
+        "country": "Guyana",
+        "province": "Barima-Waini",
+        "population": -1,
+        "latitude": 7.5833333,
+        "longitude": -60.0166667
+    },
+    {
+        "name": "Number Seventy-eight Mary and Eliza",
+        "country": "Guyana",
+        "province": "East Berbice-Corentyne",
+        "population": -1,
+        "latitude": 5.898712,
+        "longitude": -57.146741
+    },
+    {
+        "name": "La Jalousie",
+        "country": "Guyana",
+        "province": "Essequibo Islands-West Demerara",
+        "population": -1,
+        "latitude": 6.849739,
+        "longitude": -58.249671
+    },
+    {
+        "name": "Kwakwani",
+        "country": "Guyana",
+        "province": "Upper Demerara-Berbice",
+        "population": -1,
+        "latitude": 5.2833333,
+        "longitude": -58.05
+    },
+    {
+        "name": "Kwabanna",
+        "country": "Guyana",
+        "province": "Barima-Waini",
+        "population": -1,
+        "latitude": 7.5666667,
+        "longitude": -59.15
+    },
+    {
+        "name": "Kumaka",
+        "country": "Guyana",
+        "province": "Barima-Waini",
+        "population": -1,
+        "latitude": 8.191536,
+        "longitude": -59.797441
+    },
+    {
+        "name": "Kumaka",
+        "country": "Guyana",
+        "province": "Barima-Waini",
+        "population": -1,
+        "latitude": 7.65,
+        "longitude": -58.95
+    },
+    {
+        "name": "Kumaka",
+        "country": "Guyana",
+        "province": "Upper Takutu-Upper Essequibo",
+        "population": -1,
+        "latitude": 3.9,
+        "longitude": -58.3833333
+    },
+    {
+        "name": "Koriabo",
+        "country": "Guyana",
+        "province": "Barima-Waini",
+        "population": -1,
+        "latitude": 7.615913,
+        "longitude": -59.64243
+    },
+    {
+        "name": "Kato Village",
+        "country": "Guyana",
+        "province": "Potaro-Siparuni",
+        "population": -1,
+        "latitude": 4.6666667,
+        "longitude": -59.8166667
+    },
+    {
+        "name": "Karanambo",
+        "country": "Guyana",
+        "province": "Upper Takutu-Upper Essequibo",
+        "population": -1,
+        "latitude": 3.75,
+        "longitude": -59.3
+    },
+    {
+        "name": "Kamwatta Hill",
+        "country": "Guyana",
+        "province": "Barima-Waini",
+        "population": -1,
+        "latitude": 8.131847,
+        "longitude": -59.861933
+    },
+    {
+        "name": "Ituni",
+        "country": "Guyana",
+        "province": "Upper Demerara-Berbice",
+        "population": -1,
+        "latitude": 5.536706,
+        "longitude": -58.256324
+    },
+    {
+        "name": "Hosororo",
+        "country": "Guyana",
+        "province": "Barima-Waini",
+        "population": -1,
+        "latitude": 8.173335,
+        "longitude": -59.808087
+    },
+    {
+        "name": "Enterprise",
+        "country": "Guyana",
+        "province": "Essequibo Islands-West Demerara",
+        "population": -1,
+        "latitude": 6.923381,
+        "longitude": -58.402499
+    },
+    {
+        "name": "Enmore",
+        "country": "Guyana",
+        "province": "Demerara-Mahaica",
+        "population": -1,
+        "latitude": 6.766991,
+        "longitude": -57.982977
+    },
+    {
+        "name": "Den Amstel",
+        "country": "Guyana",
+        "province": "Essequibo Islands-West Demerara",
+        "population": -1,
+        "latitude": 6.857423,
+        "longitude": -58.252002
+    },
+    {
+        "name": "Dadanawa",
+        "country": "Guyana",
+        "province": "Upper Takutu-Upper Essequibo",
+        "population": -1,
+        "latitude": 2.8333333,
+        "longitude": -59.5166667
+    },
+    {
+        "name": "Crabwood Creek",
+        "country": "Guyana",
+        "province": "East Berbice-Corentyne",
+        "population": -1,
+        "latitude": 5.85,
+        "longitude": -57.15
+    },
+    {
+        "name": "Clonbrook",
+        "country": "Guyana",
+        "province": "Demerara-Mahaica",
+        "population": -1,
+        "latitude": 6.733777,
+        "longitude": -57.947008
+    },
+    {
+        "name": "Number Seventy-three Clonbrook",
+        "country": "Guyana",
+        "province": "East Berbice-Corentyne",
+        "population": -1,
+        "latitude": 5.923521,
+        "longitude": -57.163041
+    },
+    {
+        "name": "Charity",
+        "country": "Guyana",
+        "province": "Pomeroon-Supenaam",
+        "population": -1,
+        "latitude": 7.396951,
+        "longitude": -58.594668
+    },
+    {
+        "name": "Cane Grove",
+        "country": "Guyana",
+        "province": "Demerara-Mahaica",
+        "population": -1,
+        "latitude": 6.627973,
+        "longitude": -57.917669
+    },
+    {
+        "name": "Canefield",
+        "country": "Guyana",
+        "province": "East Berbice-Corentyne",
+        "population": -1,
+        "latitude": 6.246243,
+        "longitude": -57.483584
+    },
+    {
+        "name": "Buxton",
+        "country": "Guyana",
+        "province": "Demerara-Mahaica",
+        "population": -1,
+        "latitude": 6.774405,
+        "longitude": -58.030238
+    },
+    {
+        "name": "Bush Lot",
+        "country": "Guyana",
+        "province": "Mahaica-Berbice",
+        "population": -1,
+        "latitude": 6.406294,
+        "longitude": -57.618464
+    },
+    {
+        "name": "Bush Lot",
+        "country": "Guyana",
+        "province": "East Berbice-Corentyne",
+        "population": -1,
+        "latitude": 6.207194,
+        "longitude": -57.264826
+    },
+    {
+        "name": "Big Baiabu",
+        "country": "Guyana",
+        "province": "Mahaica-Berbice",
+        "population": -1,
+        "latitude": 6.55,
+        "longitude": -57.8833333
+    },
+    {
+        "name": "Beribisiballi",
+        "country": "Guyana",
+        "province": "Essequibo Islands-West Demerara",
+        "population": -1,
+        "latitude": 6.660861,
+        "longitude": -58.565778
+    },
+    {
+        "name": "Belladrum",
+        "country": "Guyana",
+        "province": "Mahaica-Berbice",
+        "population": -1,
+        "latitude": 6.501915,
+        "longitude": -57.701481
+    },
+    {
+        "name": "Bartica",
+        "country": "Guyana",
+        "province": "East Berbice-Corentyne",
+        "population": -1,
+        "latitude": 5.787651,
+        "longitude": -57.628008
+    },
+    {
+        "name": "Apoteri",
+        "country": "Guyana",
+        "province": "Upper Takutu-Upper Essequibo",
+        "population": -1,
+        "latitude": 4.037676,
+        "longitude": -58.586426
+    },
+    {
+        "name": "Annandale",
+        "country": "Guyana",
+        "province": "Pomeroon-Supenaam",
+        "population": -1,
+        "latitude": 7.1687,
+        "longitude": -58.485859
+    },
+    {
+        "name": "Annai",
+        "country": "Guyana",
+        "province": "Upper Takutu-Upper Essequibo",
+        "population": -1,
+        "latitude": 3.95,
+        "longitude": -59.1333333
+    },
+    {
+        "name": "Aishalton",
+        "country": "Guyana",
+        "province": "Upper Takutu-Upper Essequibo",
+        "population": -1,
+        "latitude": 2.5166667,
+        "longitude": -59.25
+    },
+    {
+        "name": "Adventure",
+        "country": "Guyana",
+        "province": "Pomeroon-Supenaam",
+        "population": -1,
+        "latitude": 7.0835,
+        "longitude": -58.480238
+    },
+    {
+        "name": "Achiwib",
+        "country": "Guyana",
+        "province": "Upper Takutu-Upper Essequibo",
+        "population": -1,
+        "latitude": 2.3,
+        "longitude": -59.5833333
+    },
+    {
+        "name": "Zeelandia",
+        "country": "Guyana",
+        "province": "Essequibo Islands-West Demerara",
+        "population": -1,
+        "latitude": 7.011463,
+        "longitude": -58.444628
+    },
+    {
+        "name": "Woweta Village",
+        "country": "Guyana",
+        "province": "Upper Takutu-Upper Essequibo",
+        "population": -1,
+        "latitude": 3.9833333,
+        "longitude": -59.0833333
+    },
+    {
+        "name": "Wichabai",
+        "country": "Guyana",
+        "province": "Upper Takutu-Upper Essequibo",
+        "population": -1,
+        "latitude": 2.8666667,
+        "longitude": -59.5333333
+    },
+    {
+        "name": "Wel te Vreeden",
+        "country": "Guyana",
+        "province": "East Berbice-Corentyne",
+        "population": -1,
+        "latitude": 5.858256,
+        "longitude": -57.459123
+    },
+    {
+        "name": "Weldaad",
+        "country": "Guyana",
+        "province": "Mahaica-Berbice",
+        "population": -1,
+        "latitude": 6.496477,
+        "longitude": -57.688004
+    },
+    {
+        "name": "Wakapau Village",
+        "country": "Guyana",
+        "province": "Pomeroon-Supenaam",
+        "population": -1,
+        "latitude": 7.5166667,
+        "longitude": -58.8
+    },
+    {
+        "name": "Victoria",
+        "country": "Guyana",
+        "province": "Demerara-Mahaica",
+        "population": -1,
+        "latitude": 6.754237,
+        "longitude": -57.964811
+    },
+    {
+        "name": "Vergenoegen",
+        "country": "Guyana",
+        "province": "Essequibo Islands-West Demerara",
+        "population": -1,
+        "latitude": 6.87824,
+        "longitude": -58.357944
+    },
+    {
+        "name": "Uitvlugt",
+        "country": "Guyana",
+        "province": "Essequibo Islands-West Demerara",
+        "population": -1,
+        "latitude": 6.882383,
+        "longitude": -58.307561
+    },
+    {
+        "name": "Surama Village",
+        "country": "Guyana",
+        "province": "Upper Takutu-Upper Essequibo",
+        "population": -1,
+        "latitude": 4.1666667,
+        "longitude": -59.0833333
+    },
+    {
+        "name": "Suddie",
+        "country": "Guyana",
+        "province": "Pomeroon-Supenaam",
+        "population": -1,
+        "latitude": 7.109214,
+        "longitude": -58.477295
+    },
+    {
+        "name": "Number Seventy-four Stockholm",
+        "country": "Guyana",
+        "province": "East Berbice-Corentyne",
+        "population": -1,
+        "latitude": 5.921283,
+        "longitude": -57.15396
+    },
+    {
+        "name": "Soesdyke",
+        "country": "Guyana",
+        "province": "Essequibo Islands-West Demerara",
+        "population": -1,
+        "latitude": 6.542761,
+        "longitude": -58.202092
+    },
+    {
+        "name": "Saxakalli",
+        "country": "Guyana",
+        "province": "Essequibo Islands-West Demerara",
+        "population": -1,
+        "latitude": 6.577817,
+        "longitude": -58.610907
+    },
+    {
+        "name": "Santa Rosa Mission",
+        "country": "Guyana",
+        "province": "Barima-Waini",
+        "population": -1,
+        "latitude": 7.65,
+        "longitude": -58.95
+    },
+    {
+        "name": "Rose Hall",
+        "country": "Guyana",
+        "province": "East Berbice-Corentyne",
+        "population": -1,
+        "latitude": 6.255775,
+        "longitude": -57.355016
+    },
+    {
+        "name": "Rockstone",
+        "country": "Guyana",
+        "province": "Upper Demerara-Berbice",
+        "population": -1,
+        "latitude": 5.98888,
+        "longitude": -58.552484
+    },
+    {
+        "name": "Providence",
+        "country": "Guyana",
+        "province": "Demerara-Mahaica",
+        "population": -1,
+        "latitude": 6.763371,
+        "longitude": -58.176079
+    },
+    {
+        "name": "Port Mourant",
+        "country": "Guyana",
+        "province": "East Berbice-Corentyne",
+        "population": -1,
+        "latitude": 6.24604,
+        "longitude": -57.333603
+    },
+    {
+        "name": "Port Kaituma",
+        "country": "Guyana",
+        "province": "Barima-Waini",
+        "population": -1,
+        "latitude": 7.729873346703993,
+        "longitude": -59.875144958496094
+    },
+    {
+        "name": "Plaisance",
+        "country": "Guyana",
+        "province": "Demerara-Mahaica",
+        "population": -1,
+        "latitude": 6.80227,
+        "longitude": -58.094843
+    },
+    {
+        "name": "Paramakatoi",
+        "country": "Guyana",
+        "province": "Potaro-Siparuni",
+        "population": -1,
+        "latitude": 4.7166667,
+        "longitude": -59.7
+    },
+    {
+        "name": "Orealla",
+        "country": "Guyana",
+        "province": "East Berbice-Corentyne",
+        "population": -1,
+        "latitude": 5.3166667,
+        "longitude": -57.3333333
+    },
+    {
+        "name": "Fort Nassau",
+        "country": "Guyana",
+        "province": "Upper Demerara-Berbice",
+        "population": -1,
+        "latitude": 5.758302,
+        "longitude": -57.657433
+    },
+    {
+        "name": "Kabakaburi",
+        "country": "Guyana",
+        "province": "Pomeroon-Supenaam",
+        "population": -1,
+        "latitude": 7.248169,
+        "longitude": -58.72626
+    },
+    {
+        "name": "Fort Wellington",
+        "country": "Guyana",
+        "province": "Mahaica-Berbice",
+        "population": -1,
+        "latitude": 6.390872,
+        "longitude": -57.603809
+    },
+    {
+        "name": "Burma",
+        "country": "Guyana",
+        "province": "Mahaica-Berbice",
+        "population": -1,
+        "latitude": 6.473803,
+        "longitude": -57.759084
+    },
+    {
+        "name": "Beterverwagting",
+        "country": "Guyana",
+        "province": "Demerara-Mahaica",
+        "population": -1,
+        "latitude": 6.818662,
+        "longitude": -58.086429
+    },
+    {
+        "name": "Lusignan",
+        "country": "Guyana",
+        "province": "Demerara-Mahaica",
+        "population": -1,
+        "latitude": 6.791706,
+        "longitude": -58.039002
+    },
+    {
+        "name": "Tumareng",
+        "country": "Guyana",
+        "province": "Cuyuni-Mazaruni",
+        "population": -1,
+        "latitude": 6.1666667,
+        "longitude": -60.05
+    },
+    {
+        "name": "Pipillipai",
+        "country": "Guyana",
+        "province": "Cuyuni-Mazaruni",
+        "population": -1,
+        "latitude": 5.5166667,
+        "longitude": -60.4333333
+    },
+    {
+        "name": "Paruima Mission",
+        "country": "Guyana",
+        "province": "Cuyuni-Mazaruni",
+        "population": -1,
+        "latitude": 5.8,
+        "longitude": -61.05
+    },
+    {
+        "name": "Keweigek",
+        "country": "Guyana",
+        "province": "Cuyuni-Mazaruni",
+        "population": -1,
+        "latitude": 5.9333333,
+        "longitude": -60.6333333
+    },
+    {
+        "name": "Ipisiau Village",
+        "country": "Guyana",
+        "province": "Potaro-Siparuni",
+        "population": -1,
+        "latitude": 4.8833333,
+        "longitude": -60.0166667
+    },
+    {
+        "name": "Enachu Landing",
+        "country": "Guyana",
+        "province": "Cuyuni-Mazaruni",
+        "population": -1,
+        "latitude": 6.152989,
+        "longitude": -60.03376
+    },
+    {
+        "name": "Ekereku",
+        "country": "Guyana",
+        "province": "Cuyuni-Mazaruni",
+        "population": -1,
+        "latitude": 6.4666667,
+        "longitude": -60.8333333
+    },
+    {
+        "name": "Number Seventy Massiah",
+        "country": "Guyana",
+        "province": "East Berbice-Corentyne",
+        "population": -1,
+        "latitude": 5.94025,
+        "longitude": -57.166107
+    },
+    {
+        "name": "Marurawaunawa Village",
+        "country": "Guyana",
+        "province": "Upper Takutu-Upper Essequibo",
+        "population": -1,
+        "latitude": 2.75,
+        "longitude": -59.1666667
+    },
+    {
+        "name": "Marias Delight",
+        "country": "Guyana",
+        "province": "Pomeroon-Supenaam",
+        "population": -1,
+        "latitude": 7.392063,
+        "longitude": -58.539149
+    },
+    {
+        "name": "Number Seventy-one Little Massiah",
+        "country": "Guyana",
+        "province": "East Berbice-Corentyne",
+        "population": -1,
+        "latitude": 5.935594,
+        "longitude": -57.158205
+    },
+    {
+        "name": "Alliance",
+        "country": "Guyana",
+        "province": "Pomeroon-Supenaam",
+        "population": -1,
+        "latitude": 7.203026,
+        "longitude": -58.489105
+    },
+    {
+        "name": "Kwaimatta Village",
+        "country": "Guyana",
+        "province": "Upper Takutu-Upper Essequibo",
+        "population": -1,
+        "latitude": 3.8166667,
+        "longitude": -59.3333333
+    },
+    {
+        "name": "Kurukabaru Village",
+        "country": "Guyana",
+        "province": "Potaro-Siparuni",
+        "population": -1,
+        "latitude": 4.75,
+        "longitude": -59.8833333
+    },
+    {
+        "name": "Kokerite",
+        "country": "Guyana",
+        "province": "Barima-Waini",
+        "population": -1,
+        "latitude": 7.333798,
+        "longitude": -59.589977
+    },
+    {
+        "name": "Karasabai Village",
+        "country": "Guyana",
+        "province": "Upper Takutu-Upper Essequibo",
+        "population": -1,
+        "latitude": 4.0333333,
+        "longitude": -59.5333333
+    },
+    {
+        "name": "Kalakun",
+        "country": "Guyana",
+        "province": "Cuyuni-Mazaruni",
+        "population": -1,
+        "latitude": 6.388422,
+        "longitude": -58.65306
+    },
+    {
+        "name": "Hyde Park",
+        "country": "Guyana",
+        "province": "Demerara-Mahaica",
+        "population": -1,
+        "latitude": 6.510235,
+        "longitude": -58.268637
+    },
+    {
+        "name": "Number Seventy-two Hong Kong",
+        "country": "Guyana",
+        "province": "East Berbice-Corentyne",
+        "population": -1,
+        "latitude": 5.931056,
+        "longitude": -57.156756
+    },
+    {
+        "name": "Hitia",
+        "country": "Guyana",
+        "province": "Upper Demerara-Berbice",
+        "population": -1,
+        "latitude": 5.8,
+        "longitude": -57.75
+    },
+    {
+        "name": "Number Seventy-six Harriet",
+        "country": "Guyana",
+        "province": "East Berbice-Corentyne",
+        "population": -1,
+        "latitude": 5.91007,
+        "longitude": -57.14927
+    },
+    {
+        "name": "Hampton Court",
+        "country": "Guyana",
+        "province": "Pomeroon-Supenaam",
+        "population": -1,
+        "latitude": 7.314513,
+        "longitude": -58.482801
+    },
+    {
+        "name": "Governor Light",
+        "country": "Guyana",
+        "province": "Mahaica-Berbice",
+        "population": -1,
+        "latitude": 6.464559,
+        "longitude": -57.782421
+    },
+    {
+        "name": "Number Three Fyrish",
+        "country": "Guyana",
+        "province": "East Berbice-Corentyne",
+        "population": -1,
+        "latitude": 6.275028,
+        "longitude": -57.386832
+    },
+    {
+        "name": "Number Sixty-nine Friendship",
+        "country": "Guyana",
+        "province": "East Berbice-Corentyne",
+        "population": -1,
+        "latitude": 5.945923,
+        "longitude": -57.167946
+    },
+    {
+        "name": "Essau and Jacob",
+        "country": "Guyana",
+        "province": "Mahaica-Berbice",
+        "population": -1,
+        "latitude": 6.481811,
+        "longitude": -57.790035
+    },
+    {
+        "name": "Epira",
+        "country": "Guyana",
+        "province": "East Berbice-Corentyne",
+        "population": -1,
+        "latitude": 5.1333333,
+        "longitude": -57.3333333
+    },
+    {
+        "name": "Bourda",
+        "country": "Guyana",
+        "province": "Demerara-Mahaica",
+        "population": -1,
+        "latitude": 6.81102,
+        "longitude": -58.156502
+    },
+    {
+        "name": "Baramanni",
+        "country": "Guyana",
+        "province": "Barima-Waini",
+        "population": -1,
+        "latitude": 7.838412,
+        "longitude": -59.216114
+    },
+    {
+        "name": "Number Sixty-four Babylon",
+        "country": "Guyana",
+        "province": "East Berbice-Corentyne",
+        "population": -1,
+        "latitude": 5.979299,
+        "longitude": -57.157851
+    },
+    {
+        "name": "Akwero",
+        "country": "Guyana",
+        "province": "Barima-Waini",
+        "population": -1,
+        "latitude": 7.65,
+        "longitude": -58.9333333
+    },
+    {
+        "name": "Yupukarri",
+        "country": "Guyana",
+        "province": "Upper Takutu-Upper Essequibo",
+        "population": -1,
+        "latitude": 3.6666667,
+        "longitude": -59.35
+    },
+    {
+        "name": "Wandapa Village",
+        "country": "Guyana",
+        "province": "Potaro-Siparuni",
+        "population": -1,
+        "latitude": 4.55,
+        "longitude": -59.7166667
+    },
+    {
+        "name": "Wandaik Village",
+        "country": "Guyana",
+        "province": "Potaro-Siparuni",
+        "population": -1,
+        "latitude": 4.45,
+        "longitude": -59.5833333
+    },
+    {
+        "name": "Towakaima",
+        "country": "Guyana",
+        "province": "Barima-Waini",
+        "population": -1,
+        "latitude": 7.3166667,
+        "longitude": -60
+    },
+    {
+        "name": "Toka Village",
+        "country": "Guyana",
+        "province": "Upper Takutu-Upper Essequibo",
+        "population": -1,
+        "latitude": 3.9166667,
+        "longitude": -59.3833333
+    },
+    {
+        "name": "Takama",
+        "country": "Guyana",
+        "province": "Upper Demerara-Berbice",
+        "population": -1,
+        "latitude": 5.5666667,
+        "longitude": -57.9166667
+    },
+    {
+        "name": "Stabroek",
+        "country": "Guyana",
+        "province": "Demerara-Mahaica",
+        "population": -1,
+        "latitude": 6.8094,
+        "longitude": -58.161465
+    },
+    {
+        "name": "Spring Garden",
+        "country": "Guyana",
+        "province": "Essequibo Islands-West Demerara",
+        "population": -1,
+        "latitude": 6.297343,
+        "longitude": -58.269019
+    },
+    {
+        "name": "Number Seventy-five Spring Garden",
+        "country": "Guyana",
+        "province": "East Berbice-Corentyne",
+        "population": -1,
+        "latitude": 5.912941,
+        "longitude": -57.16056
+    },
+    {
+        "name": "Shulinab",
+        "country": "Guyana",
+        "province": "Upper Takutu-Upper Essequibo",
+        "population": -1,
+        "latitude": 3.0833333,
+        "longitude": -59.7833333
+    },
+    {
+        "name": "Shea Village",
+        "country": "Guyana",
+        "province": "Upper Takutu-Upper Essequibo",
+        "population": -1,
+        "latitude": 2.8166667,
+        "longitude": -59.1333333
+    },
+    {
+        "name": "Saint Cuthberts Mission",
+        "country": "Guyana",
+        "province": "Demerara-Mahaica",
+        "population": -1,
+        "latitude": 6.36873,
+        "longitude": -58.08666
+    },
+    {
+        "name": "Queenstown Village District",
+        "country": "Guyana",
+        "province": "Pomeroon-Supenaam",
+        "population": -1,
+        "latitude": 7.193902,
+        "longitude": -58.492415
+    },
+    {
+        "name": "Oranapai Landing",
+        "country": "Guyana",
+        "province": "Cuyuni-Mazaruni",
+        "population": -1,
+        "latitude": 6.072076,
+        "longitude": -59.917759
+    },
+    {
+        "name": "Noitgedacht",
+        "country": "Guyana",
+        "province": "Upper Demerara-Berbice",
+        "population": -1,
+        "latitude": 6,
+        "longitude": -58.3
+    },
+    {
+        "name": "Number Sixty-five New Market",
+        "country": "Guyana",
+        "province": "East Berbice-Corentyne",
+        "population": -1,
+        "latitude": 5.973876,
+        "longitude": -57.156282
+    },
+    {
+        "name": "Mora Point",
+        "country": "Guyana",
+        "province": "Mahaica-Berbice",
+        "population": -1,
+        "latitude": 6.437295,
+        "longitude": -57.777645
+    },
+    {
+        "name": "Monkey Mountain",
+        "country": "Guyana",
+        "province": "Potaro-Siparuni",
+        "population": -1,
+        "latitude": 4.4833333,
+        "longitude": -59.6833333
+    },
+    {
+        "name": "Bachelors Adventure",
+        "country": "Guyana",
+        "province": "Essequibo Islands-West Demerara",
+        "population": -1,
+        "latitude": 6.912682,
+        "longitude": -58.421642
+    },
+    {
+        "name": "Unity Village",
+        "country": "Guyana",
+        "province": "Demerara-Mahaica",
+        "population": -1,
+        "latitude": 6.781111,
+        "longitude": -58.128333
+    },
+    {
+        "name": "Waramadon Village",
+        "country": "Guyana",
+        "province": "Cuyuni-Mazaruni",
+        "population": -1,
+        "latitude": 5.8166667,
+        "longitude": -60.75
+    },
+    {
+        "name": "Waioklepaluta Village",
+        "country": "Guyana",
+        "province": "Cuyuni-Mazaruni",
+        "population": -1,
+        "latitude": 5.453131,
+        "longitude": -60.157214
+    },
+    {
+        "name": "Muruakundi",
+        "country": "Guyana",
+        "province": "Cuyuni-Mazaruni",
+        "population": -1,
+        "latitude": 7.1666667,
+        "longitude": -60.1333333
+    },
+    {
+        "name": "La Juanita",
+        "country": "Guyana",
+        "province": "Barima-Waini",
+        "population": -1,
+        "latitude": 7.95,
+        "longitude": -60.2166667
+    },
+    {
+        "name": "Kowaeng Village",
+        "country": "Guyana",
+        "province": "Cuyuni-Mazaruni",
+        "population": -1,
+        "latitude": 5.65,
+        "longitude": -60.3
+    },
+    {
+        "name": "Konoro Village",
+        "country": "Guyana",
+        "province": "Barima-Waini",
+        "population": -1,
+        "latitude": 7.25,
+        "longitude": -60.0166667
+    },
+    {
+        "name": "Kamuda Village",
+        "country": "Guyana",
+        "province": "Cuyuni-Mazaruni",
+        "population": -1,
+        "latitude": 5.6333333,
+        "longitude": -60.3
+    },
+    {
+        "name": "Aunama Village",
+        "country": "Guyana",
+        "province": "Cuyuni-Mazaruni",
+        "population": -1,
+        "latitude": 7.15,
+        "longitude": -60.0833333
+    },
+    {
+        "name": "Amamuri Village",
+        "country": "Guyana",
+        "province": "Cuyuni-Mazaruni",
+        "population": -1,
+        "latitude": 6.8,
+        "longitude": -60.0166667
+    },
+    {
+        "name": "Akar Village",
+        "country": "Guyana",
+        "province": "Cuyuni-Mazaruni",
+        "population": -1,
+        "latitude": 5.6833333,
+        "longitude": -60.3166667
+    },
+    {
+        "name": "Meritizero",
+        "country": "Guyana",
+        "province": "Upper Takutu-Upper Essequibo",
+        "population": -1,
+        "latitude": 3.75,
+        "longitude": -59.5833333
+    },
+    {
+        "name": "Massara",
+        "country": "Guyana",
+        "province": "Upper Takutu-Upper Essequibo",
+        "population": -1,
+        "latitude": 3.9,
+        "longitude": -59.3
+    },
+    {
+        "name": "Mariwa Village",
+        "country": "Guyana",
+        "province": "Upper Takutu-Upper Essequibo",
+        "population": -1,
+        "latitude": 3.05,
+        "longitude": -59.6666667
+    },
+    {
+        "name": "Marias Lodge",
+        "country": "Guyana",
+        "province": "Pomeroon-Supenaam",
+        "population": -1,
+        "latitude": 7.114075,
+        "longitude": -58.478031
+    },
+    {
+        "name": "Manari Village",
+        "country": "Guyana",
+        "province": "Barima-Waini",
+        "population": -1,
+        "latitude": 7.5166667,
+        "longitude": -59.8333333
+    },
+    {
+        "name": "Mackenzie",
+        "country": "Guyana",
+        "province": "Upper Demerara-Berbice",
+        "population": -1,
+        "latitude": 6.005355,
+        "longitude": -58.304566
+    },
+    {
+        "name": "Mashabo",
+        "country": "Guyana",
+        "province": "Pomeroon-Supenaam",
+        "population": -1,
+        "latitude": 7.052785,
+        "longitude": -58.553021
+    },
+    {
+        "name": "Lumidpau",
+        "country": "Guyana",
+        "province": "Upper Takutu-Upper Essequibo",
+        "population": -1,
+        "latitude": 2.4,
+        "longitude": -59.4833333
+    },
+    {
+        "name": "Low Wood",
+        "country": "Guyana",
+        "province": "Demerara-Mahaica",
+        "population": -1,
+        "latitude": 6.425257,
+        "longitude": -58.287638
+    },
+    {
+        "name": "Loo Lands",
+        "country": "Guyana",
+        "province": "Demerara-Mahaica",
+        "population": -1,
+        "latitude": 6.254278,
+        "longitude": -58.273572
+    },
+    {
+        "name": "La Bagatelle",
+        "country": "Guyana",
+        "province": "Demerara-Mahaica",
+        "population": -1,
+        "latitude": 6.649153,
+        "longitude": -57.921979
+    },
+    {
+        "name": "Kwatata",
+        "country": "Guyana",
+        "province": "Upper Takutu-Upper Essequibo",
+        "population": -1,
+        "latitude": 3.6333333,
+        "longitude": -59.5
+    },
+    {
+        "name": "Kukui-Eng Village",
+        "country": "Guyana",
+        "province": "Potaro-Siparuni",
+        "population": -1,
+        "latitude": 4.5833333,
+        "longitude": -59.6666667
+    },
+    {
+        "name": "Kariaku",
+        "country": "Guyana",
+        "province": "Barima-Waini",
+        "population": -1,
+        "latitude": 7.378233,
+        "longitude": -59.714797
+    },
+    {
+        "name": "Kariakaria",
+        "country": "Guyana",
+        "province": "Essequibo Islands-West Demerara",
+        "population": -1,
+        "latitude": 6.8333333,
+        "longitude": -58.5833333
+    },
+    {
+        "name": "Johi Village",
+        "country": "Guyana",
+        "province": "Upper Takutu-Upper Essequibo",
+        "population": -1,
+        "latitude": 1.85,
+        "longitude": -58.5333333
+    },
+    {
+        "name": "Johanna Cecelia",
+        "country": "Guyana",
+        "province": "Pomeroon-Supenaam",
+        "population": -1,
+        "latitude": 7.12215,
+        "longitude": -58.477295
+    },
+    {
+        "name": "Jakaretinga",
+        "country": "Guyana",
+        "province": "Upper Takutu-Upper Essequibo",
+        "population": -1,
+        "latitude": 3.5166667,
+        "longitude": -59.6666667
+    },
+    {
+        "name": "Issano Terminus",
+        "country": "Guyana",
+        "province": "Cuyuni-Mazaruni",
+        "population": -1,
+        "latitude": 5.813773,
+        "longitude": -59.42388
+    },
+    {
+        "name": "Igupa Village",
+        "country": "Guyana",
+        "province": "Barima-Waini",
+        "population": -1,
+        "latitude": 7.4,
+        "longitude": -59.2666667
+    },
+    {
+        "name": "Hubu",
+        "country": "Guyana",
+        "province": "Essequibo Islands-West Demerara",
+        "population": -1,
+        "latitude": 6.819371,
+        "longitude": -58.467432
+    },
+    {
+        "name": "Hotoquai",
+        "country": "Guyana",
+        "province": "Barima-Waini",
+        "population": -1,
+        "latitude": 8.008729,
+        "longitude": -59.82163
+    },
+    {
+        "name": "Hopetown",
+        "country": "Guyana",
+        "province": "Mahaica-Berbice",
+        "population": -1,
+        "latitude": 6.387395,
+        "longitude": -57.615285
+    },
+    {
+        "name": "Henrietta",
+        "country": "Guyana",
+        "province": "Pomeroon-Supenaam",
+        "population": -1,
+        "latitude": 7.268339,
+        "longitude": -58.48153
+    },
+    {
+        "name": "Helena Number Two",
+        "country": "Guyana",
+        "province": "Demerara-Mahaica",
+        "population": -1,
+        "latitude": 6.68219,
+        "longitude": -57.933169
+    },
+    {
+        "name": "Helena Number One",
+        "country": "Guyana",
+        "province": "Demerara-Mahaica",
+        "population": -1,
+        "latitude": 6.678731,
+        "longitude": -57.934724
+    },
+    {
+        "name": "Good Hope",
+        "country": "Guyana",
+        "province": "East Berbice-Corentyne",
+        "population": -1,
+        "latitude": 6.1,
+        "longitude": -57.2
+    },
+    {
+        "name": "Golden Fleece",
+        "country": "Guyana",
+        "province": "Pomeroon-Supenaam",
+        "population": -1,
+        "latitude": 7.138397,
+        "longitude": -58.481357
+    },
+    {
+        "name": "Glasgow Village",
+        "country": "Guyana",
+        "province": "Demerara-Mahaica",
+        "population": -1,
+        "latitude": 6.5166667,
+        "longitude": -58.2833333
+    },
+    {
+        "name": "Eldorado",
+        "country": "Guyana",
+        "province": "Mahaica-Berbice",
+        "population": -1,
+        "latitude": 6.509259,
+        "longitude": -57.702208
+    },
+    {
+        "name": "Ebini",
+        "country": "Guyana",
+        "province": "Upper Demerara-Berbice",
+        "population": -1,
+        "latitude": 5.6666667,
+        "longitude": -57.7833333
+    },
+    {
+        "name": "Durung Bang",
+        "country": "Guyana",
+        "province": "Pomeroon-Supenaam",
+        "population": -1,
+        "latitude": 7.254743,
+        "longitude": -58.880829
+    },
+    {
+        "name": "Diamond Place",
+        "country": "Guyana",
+        "province": "Demerara-Mahaica",
+        "population": -1,
+        "latitude": 6.722736,
+        "longitude": -58.177121
+    },
+    {
+        "name": "De Kinderen",
+        "country": "Guyana",
+        "province": "Mahaica-Berbice",
+        "population": -1,
+        "latitude": 6.632335,
+        "longitude": -57.844662
+    },
+    {
+        "name": "Danielstown",
+        "country": "Guyana",
+        "province": "Pomeroon-Supenaam",
+        "population": -1,
+        "latitude": 7.29617,
+        "longitude": -58.479992
+    },
+    {
+        "name": "Number Two Courtland",
+        "country": "Guyana",
+        "province": "East Berbice-Corentyne",
+        "population": -1,
+        "latitude": 6.278485,
+        "longitude": -57.391553
+    },
+    {
+        "name": "Cajueiro",
+        "country": "Guyana",
+        "province": "Upper Takutu-Upper Essequibo",
+        "population": -1,
+        "latitude": 3.8,
+        "longitude": -59.4
+    },
+    {
+        "name": "Butukari",
+        "country": "Guyana",
+        "province": "Cuyuni-Mazaruni",
+        "population": -1,
+        "latitude": 5.741364,
+        "longitude": -58.61311
+    },
+    {
+        "name": "Bush Lot",
+        "country": "Guyana",
+        "province": "Pomeroon-Supenaam",
+        "population": -1,
+        "latitude": 7.25347,
+        "longitude": -58.483545
+    },
+    {
+        "name": "Burisanawa Village",
+        "country": "Guyana",
+        "province": "Upper Takutu-Upper Essequibo",
+        "population": -1,
+        "latitude": 2.35,
+        "longitude": -59.35
+    },
+    {
+        "name": "Bon Success",
+        "country": "Guyana",
+        "province": "Upper Takutu-Upper Essequibo",
+        "population": -1,
+        "latitude": 3.383333,
+        "longitude": -59.8
+    },
+    {
+        "name": "Blairmont",
+        "country": "Guyana",
+        "province": "Mahaica-Berbice",
+        "population": -1,
+        "latitude": 6.257044,
+        "longitude": -57.539791
+    },
+    {
+        "name": "Number Sixty-three Benab",
+        "country": "Guyana",
+        "province": "East Berbice-Corentyne",
+        "population": -1,
+        "latitude": 5.984689,
+        "longitude": -57.159059
+    },
+    {
+        "name": "Basha Village",
+        "country": "Guyana",
+        "province": "Upper Takutu-Upper Essequibo",
+        "population": -1,
+        "latitude": 3.3333333,
+        "longitude": -59.8
+    },
+    {
+        "name": "Bagotstown",
+        "country": "Guyana",
+        "province": "Demerara-Mahaica",
+        "population": -1,
+        "latitude": 6.77247,
+        "longitude": -58.175617
+    },
+    {
+        "name": "Awaruwaunawa",
+        "country": "Guyana",
+        "province": "Upper Takutu-Upper Essequibo",
+        "population": -1,
+        "latitude": 2.6666667,
+        "longitude": -59.2
+    },
+    {
+        "name": "Attai Village",
+        "country": "Guyana",
+        "province": "Upper Demerara-Berbice",
+        "population": -1,
+        "latitude": 5.0833333,
+        "longitude": -58.5166667
+    },
+    {
+        "name": "Ampa",
+        "country": "Guyana",
+        "province": "Essequibo Islands-West Demerara",
+        "population": -1,
+        "latitude": 6.520368,
+        "longitude": -58.574051
+    },
+    {
+        "name": "Ambrose Village",
+        "country": "Guyana",
+        "province": "Upper Takutu-Upper Essequibo",
+        "population": -1,
+        "latitude": 3.0333333,
+        "longitude": -59.7666667
+    },
+    {
+        "name": "Alness",
+        "country": "Guyana",
+        "province": "East Berbice-Corentyne",
+        "population": -1,
+        "latitude": 6.22451,
+        "longitude": -57.28862
+    },
+    {
+        "name": "Akawini Amerindian Village",
+        "country": "Guyana",
+        "province": "Pomeroon-Supenaam",
+        "population": -1,
+        "latitude": 7.372042,
+        "longitude": -58.732807
+    },
+    {
+        "name": "Abrams Zuil",
+        "country": "Guyana",
+        "province": "Pomeroon-Supenaam",
+        "population": -1,
+        "latitude": 7.163215,
+        "longitude": -58.482572
+    },
+    {
+        "name": "Barakara",
+        "country": "Guyana",
+        "province": "East Berbice-Corentyne",
+        "population": -1,
+        "latitude": 5.85,
+        "longitude": -57.4666667
+    },
+    {
+        "name": "Zorg en Vlygt",
+        "country": "Guyana",
+        "province": "Pomeroon-Supenaam",
+        "population": -1,
+        "latitude": 7.174521,
+        "longitude": -58.488225
+    },
+    {
+        "name": "Zion",
+        "country": "Guyana",
+        "province": "Upper Demerara-Berbice",
+        "population": -1,
+        "latitude": 5.6833333,
+        "longitude": -57.85
+    },
+    {
+        "name": "Wauna-Yarikita",
+        "country": "Guyana",
+        "province": "Barima-Waini",
+        "population": -1,
+        "latitude": 8.0833333,
+        "longitude": -59.9166667
+    },
+    {
+        "name": "Waruma",
+        "country": "Guyana",
+        "province": "Upper Takutu-Upper Essequibo",
+        "population": -1,
+        "latitude": 3.1,
+        "longitude": -59.9
+    },
+    {
+        "name": "Wariwau",
+        "country": "Guyana",
+        "province": "Upper Takutu-Upper Essequibo",
+        "population": -1,
+        "latitude": 2.7166667,
+        "longitude": -59.2
+    },
+    {
+        "name": "Waramuri Mission",
+        "country": "Guyana",
+        "province": "Barima-Waini",
+        "population": -1,
+        "latitude": 7.6166667,
+        "longitude": -58.8666667
+    },
+    {
+        "name": "Wales",
+        "country": "Guyana",
+        "province": "Essequibo Islands-West Demerara",
+        "population": -1,
+        "latitude": 6.7,
+        "longitude": -58.2
+    },
+    {
+        "name": "Wakakulud Village",
+        "country": "Guyana",
+        "province": "Upper Takutu-Upper Essequibo",
+        "population": -1,
+        "latitude": 1.3833333,
+        "longitude": -58.75
+    },
+    {
+        "name": "Urisirima Point",
+        "country": "Guyana",
+        "province": "Upper Demerara-Berbice",
+        "population": -1,
+        "latitude": 6.434179,
+        "longitude": -58.593885
+    },
+    {
+        "name": "Tipuru Village",
+        "country": "Guyana",
+        "province": "Upper Takutu-Upper Essequibo",
+        "population": -1,
+        "latitude": 4.2166667,
+        "longitude": -59.5666667
+    },
+    {
+        "name": "The Clip",
+        "country": "Guyana",
+        "province": "Cuyuni-Mazaruni",
+        "population": -1,
+        "latitude": 6.3833333,
+        "longitude": -58.6666667
+    },
+    {
+        "name": "Taymouth Manor",
+        "country": "Guyana",
+        "province": "Pomeroon-Supenaam",
+        "population": -1,
+        "latitude": 7.210126,
+        "longitude": -58.486439
+    },
+    {
+        "name": "Taruma Village",
+        "country": "Guyana",
+        "province": "Upper Takutu-Upper Essequibo",
+        "population": -1,
+        "latitude": 2.0833333,
+        "longitude": -58.3833333
+    },
+    {
+        "name": "Tarlogie",
+        "country": "Guyana",
+        "province": "East Berbice-Corentyne",
+        "population": -1,
+        "latitude": 6.181611,
+        "longitude": -57.238845
+    },
+    {
+        "name": "Tamton",
+        "country": "Guyana",
+        "province": "Upper Takutu-Upper Essequibo",
+        "population": -1,
+        "latitude": 2.35,
+        "longitude": -59.7166667
+    },
+    {
+        "name": "Springlands",
+        "country": "Guyana",
+        "province": "East Berbice-Corentyne",
+        "population": -1,
+        "latitude": 5.89298,
+        "longitude": -57.14063
+    },
+    {
+        "name": "Sisipelin Village",
+        "country": "Guyana",
+        "province": "Potaro-Siparuni",
+        "population": -1,
+        "latitude": 4.65,
+        "longitude": -59.55
+    },
+    {
+        "name": "Siriki",
+        "country": "Guyana",
+        "province": "Pomeroon-Supenaam",
+        "population": -1,
+        "latitude": 7.327446,
+        "longitude": -58.659236
+    },
+    {
+        "name": "Schoonord",
+        "country": "Guyana",
+        "province": "Essequibo Islands-West Demerara",
+        "population": -1,
+        "latitude": 6.784997,
+        "longitude": -58.19533
+    },
+    {
+        "name": "Sawariwaunawa",
+        "country": "Guyana",
+        "province": "Upper Takutu-Upper Essequibo",
+        "population": -1,
+        "latitude": 2.6833333,
+        "longitude": -59.65
+    },
+    {
+        "name": "Santa Fe",
+        "country": "Guyana",
+        "province": "Upper Takutu-Upper Essequibo",
+        "population": -1,
+        "latitude": 3.7833333,
+        "longitude": -59.6
+    },
+    {
+        "name": "Sandhills",
+        "country": "Guyana",
+        "province": "Upper Demerara-Berbice",
+        "population": -1,
+        "latitude": 5.811965,
+        "longitude": -57.740319
+    },
+    {
+        "name": "Saint Nicholas Mission",
+        "country": "Guyana",
+        "province": "Pomeroon-Supenaam",
+        "population": -1,
+        "latitude": 7.5,
+        "longitude": -58.95
+    },
+    {
+        "name": "Saint Mary’s",
+        "country": "Guyana",
+        "province": "Potaro-Siparuni",
+        "population": -1,
+        "latitude": 5.2,
+        "longitude": -59.016667
+    },
+    {
+        "name": "Saint Ignatius",
+        "country": "Guyana",
+        "province": "Upper Takutu-Upper Essequibo",
+        "population": -1,
+        "latitude": 3.3333333,
+        "longitude": -59.8
+    },
+    {
+        "name": "Saint Bede’s Mission",
+        "country": "Guyana",
+        "province": "Barima-Waini",
+        "population": -1,
+        "latitude": 7.566667,
+        "longitude": -59.466667
+    },
+    {
+        "name": "Rising Sun",
+        "country": "Guyana",
+        "province": "East Berbice-Corentyne",
+        "population": -1,
+        "latitude": 6.0833333,
+        "longitude": -57.2
+    },
+    {
+        "name": "Puwa Village",
+        "country": "Guyana",
+        "province": "Potaro-Siparuni",
+        "population": -1,
+        "latitude": 4.5166667,
+        "longitude": -59.9833333
+    },
+    {
+        "name": "Pilinawa",
+        "country": "Guyana",
+        "province": "Upper Takutu-Upper Essequibo",
+        "population": -1,
+        "latitude": 2.7666667,
+        "longitude": -59.6833333
+    },
+    {
+        "name": "Pickersgill",
+        "country": "Guyana",
+        "province": "Pomeroon-Supenaam",
+        "population": -1,
+        "latitude": 7.256244,
+        "longitude": -58.722515
+    },
+    {
+        "name": "Perth",
+        "country": "Guyana",
+        "province": "Mahaica-Berbice",
+        "population": -1,
+        "latitude": 6.55872,
+        "longitude": -57.801428
+    },
+    {
+        "name": "Perseverance",
+        "country": "Guyana",
+        "province": "Pomeroon-Supenaam",
+        "population": -1,
+        "latitude": 7.145913,
+        "longitude": -58.47576
+    },
+    {
+        "name": "Parishara",
+        "country": "Guyana",
+        "province": "Upper Takutu-Upper Essequibo",
+        "population": -1,
+        "latitude": 3.454224,
+        "longitude": -59.572998
+    },
+    {
+        "name": "Parikaranal",
+        "country": "Guyana",
+        "province": "Upper Takutu-Upper Essequibo",
+        "population": -1,
+        "latitude": 3.5666667,
+        "longitude": -59.5833333
+    },
+    {
+        "name": "Ogle",
+        "country": "Guyana",
+        "province": "Demerara-Mahaica",
+        "population": -1,
+        "latitude": 6.813295,
+        "longitude": -58.101976
+    },
+    {
+        "name": "Number Twelve",
+        "country": "Guyana",
+        "province": "Mahaica-Berbice",
+        "population": -1,
+        "latitude": 6.537388,
+        "longitude": -57.79268
+    },
+    {
+        "name": "Number Twelve",
+        "country": "Guyana",
+        "province": "Mahaica-Berbice",
+        "population": -1,
+        "latitude": 6.356581,
+        "longitude": -57.583141
+    },
+    {
+        "name": "Number Ten",
+        "country": "Guyana",
+        "province": "Mahaica-Berbice",
+        "population": -1,
+        "latitude": 6.568507,
+        "longitude": -57.886258
+    },
+    {
+        "name": "Number Sixty-six",
+        "country": "Guyana",
+        "province": "East Berbice-Corentyne",
+        "population": -1,
+        "latitude": 5.966202,
+        "longitude": -57.161416
+    },
+    {
+        "name": "Number Sixty-seven",
+        "country": "Guyana",
+        "province": "East Berbice-Corentyne",
+        "population": -1,
+        "latitude": 5.963281,
+        "longitude": -57.15489
+    },
+    {
+        "name": "Number Forty-one",
+        "country": "Guyana",
+        "province": "Mahaica-Berbice",
+        "population": -1,
+        "latitude": 6.473904,
+        "longitude": -57.67273
+    },
+    {
+        "name": "Number Forty",
+        "country": "Guyana",
+        "province": "Mahaica-Berbice",
+        "population": -1,
+        "latitude": 6.470026,
+        "longitude": -57.669289
+    },
+    {
+        "name": "Nappi Village",
+        "country": "Guyana",
+        "province": "Upper Takutu-Upper Essequibo",
+        "population": -1,
+        "latitude": 3.414664,
+        "longitude": -59.575975
+    },
+    {
+        "name": "Mountain View",
+        "country": "Guyana",
+        "province": "Upper Takutu-Upper Essequibo",
+        "population": -1,
+        "latitude": 3.5166667,
+        "longitude": -59.55
+    },
+    {
+        "name": "Moreiru",
+        "country": "Guyana",
+        "province": "Upper Takutu-Upper Essequibo",
+        "population": -1,
+        "latitude": 3.9,
+        "longitude": -59.55
+    },
+    {
+        "name": "Saint Francis Mission",
+        "country": "Guyana",
+        "province": "Mahaica-Berbice",
+        "population": -1,
+        "latitude": 6.098549,
+        "longitude": -57.950842
+    },
+    {
+        "name": "Moco-Moco Village",
+        "country": "Guyana",
+        "province": "Upper Takutu-Upper Essequibo",
+        "population": -1,
+        "latitude": 3.3333333,
+        "longitude": -59.6666667
+    },
+    {
+        "name": "Agricola",
+        "country": "Guyana",
+        "province": "Demerara-Mahaica",
+        "population": -1,
+        "latitude": 6.779961,
+        "longitude": -58.167738
+    },
+    {
+        "name": "Cozier",
+        "country": "Guyana",
+        "province": "Pomeroon-Supenaam",
+        "population": -1,
+        "latitude": 7.416611,
+        "longitude": -58.609778
+    },
+    {
+        "name": "Pathawaru",
+        "country": "Guyana",
+        "province": "Cuyuni-Mazaruni",
+        "population": -1,
+        "latitude": 6.4333333,
+        "longitude": -61.1333333
+    },
+    {
+        "name": "Pakera",
+        "country": "Guyana",
+        "province": "Barima-Waini",
+        "population": -1,
+        "latitude": 7.490736,
+        "longitude": -60.150572
+    },
+    {
+        "name": "Opadai",
+        "country": "Guyana",
+        "province": "Cuyuni-Mazaruni",
+        "population": -1,
+        "latitude": 5.4333333,
+        "longitude": -60.5833333
+    },
+    {
+        "name": "Muruwawe Village",
+        "country": "Guyana",
+        "province": "Cuyuni-Mazaruni",
+        "population": -1,
+        "latitude": 6.4666667,
+        "longitude": -61.15
+    },
+    {
+        "name": "Morowta",
+        "country": "Guyana",
+        "province": "Cuyuni-Mazaruni",
+        "population": -1,
+        "latitude": 5.75,
+        "longitude": -60.5833333
+    },
+    {
+        "name": "Minata",
+        "country": "Guyana",
+        "province": "Cuyuni-Mazaruni",
+        "population": -1,
+        "latitude": 5.95,
+        "longitude": -60.6
+    },
+    {
+        "name": "Meruwang",
+        "country": "Guyana",
+        "province": "Cuyuni-Mazaruni",
+        "population": -1,
+        "latitude": 5.8166667,
+        "longitude": -61
+    },
+    {
+        "name": "Kwiokrebaru",
+        "country": "Guyana",
+        "province": "Cuyuni-Mazaruni",
+        "population": -1,
+        "latitude": 6.0166667,
+        "longitude": -60.65
+    },
+    {
+        "name": "Kurutuku Village",
+        "country": "Guyana",
+        "province": "Cuyuni-Mazaruni",
+        "population": -1,
+        "latitude": 6.9,
+        "longitude": -60.3
+    },
+    {
+        "name": "Kurachi",
+        "country": "Guyana",
+        "province": "Cuyuni-Mazaruni",
+        "population": -1,
+        "latitude": 6.8833333,
+        "longitude": -60.2666667
+    },
+    {
+        "name": "Kokadai",
+        "country": "Guyana",
+        "province": "Cuyuni-Mazaruni",
+        "population": -1,
+        "latitude": 5.75,
+        "longitude": -60.5666667
+    },
+    {
+        "name": "Kanapang Village",
+        "country": "Guyana",
+        "province": "Potaro-Siparuni",
+        "population": -1,
+        "latitude": 4.5333333,
+        "longitude": -60.1333333
+    },
+    {
+        "name": "Kaikan",
+        "country": "Guyana",
+        "province": "Cuyuni-Mazaruni",
+        "population": -1,
+        "latitude": 6.1833333,
+        "longitude": -61.1333333
+    },
+    {
+        "name": "Itabac",
+        "country": "Guyana",
+        "province": "Potaro-Siparuni",
+        "population": -1,
+        "latitude": 4.6,
+        "longitude": -60.1
+    },
+    {
+        "name": "Isseneru Village",
+        "country": "Guyana",
+        "province": "Cuyuni-Mazaruni",
+        "population": -1,
+        "latitude": 6.4666667,
+        "longitude": -60.3333333
+    },
+    {
+        "name": "Awarabati",
+        "country": "Guyana",
+        "province": "Cuyuni-Mazaruni",
+        "population": -1,
+        "latitude": 6.8,
+        "longitude": -60.8
+    },
+    {
+        "name": "Arawai Village",
+        "country": "Guyana",
+        "province": "Cuyuni-Mazaruni",
+        "population": -1,
+        "latitude": 6.3166667,
+        "longitude": -61.1666667
+    },
+    {
+        "name": "Arau Village",
+        "country": "Guyana",
+        "province": "Cuyuni-Mazaruni",
+        "population": -1,
+        "latitude": 6.4166667,
+        "longitude": -61.1333333
+    },
+    {
+        "name": "Amokokopai Village",
+        "country": "Guyana",
+        "province": "Cuyuni-Mazaruni",
+        "population": -1,
+        "latitude": 5.3833333,
+        "longitude": -60.3
+    },
+    {
+        "name": "Ajimipepai",
+        "country": "Guyana",
+        "province": "Cuyuni-Mazaruni",
+        "population": -1,
+        "latitude": 5.9,
+        "longitude": -60.5666667
+    },
+    {
+        "name": "Middlesex",
+        "country": "Guyana",
+        "province": "Pomeroon-Supenaam",
+        "population": -1,
+        "latitude": 7.0413,
+        "longitude": -58.48719
+    },
+    {
+        "name": "Mibikuri",
+        "country": "Guyana",
+        "province": "East Berbice-Corentyne",
+        "population": -1,
+        "latitude": 6.105459,
+        "longitude": -57.2824
+    },
+    {
+        "name": "Melville",
+        "country": "Guyana",
+        "province": "Essequibo Islands-West Demerara",
+        "population": -1,
+        "latitude": 6.9666667,
+        "longitude": -58.4666667
+    },
+    {
+        "name": "Mc Doom",
+        "country": "Guyana",
+        "province": "Demerara-Mahaica",
+        "population": -1,
+        "latitude": 6.783705,
+        "longitude": -58.168269
+    },
+    {
+        "name": "Masabona",
+        "country": "Guyana",
+        "province": "Upper Demerara-Berbice",
+        "population": -1,
+        "latitude": 5.6,
+        "longitude": -58.3833333
+    },
+    {
+        "name": "Marlborough",
+        "country": "Guyana",
+        "province": "Pomeroon-Supenaam",
+        "population": -1,
+        "latitude": 7.491848,
+        "longitude": -58.643523
+    },
+    {
+        "name": "Maria Johanna",
+        "country": "Guyana",
+        "province": "Essequibo Islands-West Demerara",
+        "population": -1,
+        "latitude": 6.941537,
+        "longitude": -58.462332
+    },
+    {
+        "name": "Marakanata",
+        "country": "Guyana",
+        "province": "Upper Takutu-Upper Essequibo",
+        "population": -1,
+        "latitude": 3.6,
+        "longitude": -59.55
+    },
+    {
+        "name": "Manawarin",
+        "country": "Guyana",
+        "province": "Barima-Waini",
+        "population": -1,
+        "latitude": 7.5833333,
+        "longitude": -58.8666667
+    },
+    {
+        "name": "Manari",
+        "country": "Guyana",
+        "province": "Upper Takutu-Upper Essequibo",
+        "population": -1,
+        "latitude": 3.4333333,
+        "longitude": -59.7666667
+    },
+    {
+        "name": "Manaka",
+        "country": "Guyana",
+        "province": "Essequibo Islands-West Demerara",
+        "population": -1,
+        "latitude": 6.713602,
+        "longitude": -58.601512
+    },
+    {
+        "name": "Mamir Pawa",
+        "country": "Guyana",
+        "province": "Upper Takutu-Upper Essequibo",
+        "population": -1,
+        "latitude": 1.9666667,
+        "longitude": -59.7333333
+    },
+    {
+        "name": "Malali",
+        "country": "Guyana",
+        "province": "Upper Demerara-Berbice",
+        "population": -1,
+        "latitude": 5.6166667,
+        "longitude": -58.35
+    },
+    {
+        "name": "Makouria",
+        "country": "Guyana",
+        "province": "Essequibo Islands-West Demerara",
+        "population": -1,
+        "latitude": 6.475567,
+        "longitude": -58.584133
+    },
+    {
+        "name": "Makeshift",
+        "country": "Guyana",
+        "province": "Pomeroon-Supenaam",
+        "population": -1,
+        "latitude": 7.008966,
+        "longitude": -58.490308
+    },
+    {
+        "name": "Makasima",
+        "country": "Guyana",
+        "province": "Pomeroon-Supenaam",
+        "population": -1,
+        "latitude": 7.241373,
+        "longitude": -58.745007
+    },
+    {
+        "name": "Makari",
+        "country": "Guyana",
+        "province": "Potaro-Siparuni",
+        "population": -1,
+        "latitude": 4.545468,
+        "longitude": -58.553846
+    },
+    {
+        "name": "Mainstay",
+        "country": "Guyana",
+        "province": "Pomeroon-Supenaam",
+        "population": -1,
+        "latitude": 7.240027,
+        "longitude": -58.483652
+    },
+    {
+        "name": "Macusi Village",
+        "country": "Guyana",
+        "province": "Upper Takutu-Upper Essequibo",
+        "population": -1,
+        "latitude": 3.0666667,
+        "longitude": -59.7166667
+    },
+    {
+        "name": "Macaw",
+        "country": "Guyana",
+        "province": "East Berbice-Corentyne",
+        "population": -1,
+        "latitude": 6.0833333,
+        "longitude": -57.5833333
+    },
+    {
+        "name": "L’Union",
+        "country": "Guyana",
+        "province": "Pomeroon-Supenaam",
+        "population": -1,
+        "latitude": 7.188081,
+        "longitude": -58.490208
+    },
+    {
+        "name": "Lucky Spot",
+        "country": "Guyana",
+        "province": "Upper Demerara-Berbice",
+        "population": -1,
+        "latitude": 5.965246,
+        "longitude": -58.317253
+    },
+    {
+        "name": "Lower Kamaria",
+        "country": "Guyana",
+        "province": "Cuyuni-Mazaruni",
+        "population": -1,
+        "latitude": 6.4116,
+        "longitude": -58.762855
+    },
+    {
+        "name": "Louisiana",
+        "country": "Guyana",
+        "province": "Essequibo Islands-West Demerara",
+        "population": -1,
+        "latitude": 6.9,
+        "longitude": -58.4333333
+    },
+    {
+        "name": "Lorenza",
+        "country": "Guyana",
+        "province": "Essequibo Islands-West Demerara",
+        "population": -1,
+        "latitude": 6.7,
+        "longitude": -58.2
+    },
+    {
+        "name": "Lodge",
+        "country": "Guyana",
+        "province": "Demerara-Mahaica",
+        "population": -1,
+        "latitude": 6.803053,
+        "longitude": -58.146336
+    },
+    {
+        "name": "Lima",
+        "country": "Guyana",
+        "province": "Pomeroon-Supenaam",
+        "population": -1,
+        "latitude": 7.288111,
+        "longitude": -58.479347
+    },
+    {
+        "name": "Lichfield",
+        "country": "Guyana",
+        "province": "Mahaica-Berbice",
+        "population": -1,
+        "latitude": 6.467606,
+        "longitude": -57.661466
+    },
+    {
+        "name": "Lesbeholden",
+        "country": "Guyana",
+        "province": "East Berbice-Corentyne",
+        "population": -1,
+        "latitude": 6.146334,
+        "longitude": -57.301873
+    },
+    {
+        "name": "Leeds",
+        "country": "Guyana",
+        "province": "East Berbice-Corentyne",
+        "population": -1,
+        "latitude": 6.054902,
+        "longitude": -57.176101
+    },
+    {
+        "name": "La Resource",
+        "country": "Guyana",
+        "province": "Pomeroon-Supenaam",
+        "population": -1,
+        "latitude": 7.390445,
+        "longitude": -58.530365
+    },
+    {
+        "name": "Land of Plenty",
+        "country": "Guyana",
+        "province": "Pomeroon-Supenaam",
+        "population": -1,
+        "latitude": 7.234964,
+        "longitude": -58.484521
+    },
+    {
+        "name": "Land of Canaan",
+        "country": "Guyana",
+        "province": "Demerara-Mahaica",
+        "population": -1,
+        "latitude": 6.601982,
+        "longitude": -58.200023
+    },
+    {
+        "name": "Lancaster",
+        "country": "Guyana",
+        "province": "Upper Demerara-Berbice",
+        "population": -1,
+        "latitude": 5.8333333,
+        "longitude": -58.25
+    },
+    {
+        "name": "Lanaballi",
+        "country": "Guyana",
+        "province": "Essequibo Islands-West Demerara",
+        "population": -1,
+        "latitude": 6.617929,
+        "longitude": -58.572632
+    },
+    {
+        "name": "La Grange",
+        "country": "Guyana",
+        "province": "Essequibo Islands-West Demerara",
+        "population": -1,
+        "latitude": 6.77473,
+        "longitude": -58.207661
+    },
+    {
+        "name": "La Belle Alliance",
+        "country": "Guyana",
+        "province": "Pomeroon-Supenaam",
+        "population": -1,
+        "latitude": 7.281282,
+        "longitude": -58.47758
+    },
+    {
+        "name": "Kurukuru-Baibari",
+        "country": "Guyana",
+        "province": "Upper Takutu-Upper Essequibo",
+        "population": -1,
+        "latitude": 1.7333333,
+        "longitude": -58.6166667
+    },
+    {
+        "name": "Kumaka",
+        "country": "Guyana",
+        "province": "Upper Demerara-Berbice",
+        "population": -1,
+        "latitude": 5.5833333,
+        "longitude": -57.9333333
+    },
+    {
+        "name": "Kotoewau",
+        "country": "Guyana",
+        "province": "Upper Takutu-Upper Essequibo",
+        "population": -1,
+        "latitude": 2.3,
+        "longitude": -59.15
+    },
+    {
+        "name": "Kopinang Mission",
+        "country": "Guyana",
+        "province": "Potaro-Siparuni",
+        "population": -1,
+        "latitude": 4.9333333,
+        "longitude": -59.8
+    },
+    {
+        "name": "Konashen",
+        "country": "Guyana",
+        "province": "Upper Takutu-Upper Essequibo",
+        "population": -1,
+        "latitude": 1.5666667,
+        "longitude": -58.6833333
+    },
+    {
+        "name": "Kokatara Village",
+        "country": "Guyana",
+        "province": "Upper Demerara-Berbice",
+        "population": -1,
+        "latitude": 6,
+        "longitude": -58.3
+    },
+    {
+        "name": "Kitty",
+        "country": "Guyana",
+        "province": "Demerara-Mahaica",
+        "population": -1,
+        "latitude": 6.822182,
+        "longitude": -58.141982
+    },
+    {
+        "name": "Kitty",
+        "country": "Guyana",
+        "province": "Pomeroon-Supenaam",
+        "population": -1,
+        "latitude": 7.536974,
+        "longitude": -58.672416
+    },
+    {
+        "name": "Kataliriwau Outstation",
+        "country": "Guyana",
+        "province": "Upper Takutu-Upper Essequibo",
+        "population": -1,
+        "latitude": 2.8166667,
+        "longitude": -59.25
+    },
+    {
+        "name": "Karisparu Village",
+        "country": "Guyana",
+        "province": "Potaro-Siparuni",
+        "population": -1,
+        "latitude": 4.9166667,
+        "longitude": -59.45
+    },
+    {
+        "name": "Karaudanawa",
+        "country": "Guyana",
+        "province": "East Berbice-Corentyne",
+        "population": -1,
+        "latitude": 2.4666667,
+        "longitude": -59.4333333
+    },
+    {
+        "name": "Kamaria",
+        "country": "Guyana",
+        "province": "Cuyuni-Mazaruni",
+        "population": -1,
+        "latitude": 6.4166667,
+        "longitude": -58.7666667
+    },
+    {
+        "name": "Kamana Village",
+        "country": "Guyana",
+        "province": "Potaro-Siparuni",
+        "population": -1,
+        "latitude": 4.8333333,
+        "longitude": -59.9333333
+    },
+    {
+        "name": "Kalkuni",
+        "country": "Guyana",
+        "province": "Upper Demerara-Berbice",
+        "population": -1,
+        "latitude": 5.55,
+        "longitude": -57.9166667
+    },
+    {
+        "name": "Kaibarupai Village",
+        "country": "Guyana",
+        "province": "Upper Takutu-Upper Essequibo",
+        "population": -1,
+        "latitude": 3.5666667,
+        "longitude": -59.8666667
+    },
+    {
+        "name": "Joanna",
+        "country": "Guyana",
+        "province": "East Berbice-Corentyne",
+        "population": -1,
+        "latitude": 6.078988,
+        "longitude": -57.264955
+    },
+    {
+        "name": "Java",
+        "country": "Guyana",
+        "province": "East Berbice-Corentyne",
+        "population": -1,
+        "latitude": 6.1333333,
+        "longitude": -57.2
+    },
+    {
+        "name": "Jacoba",
+        "country": "Guyana",
+        "province": "Mahaica-Berbice",
+        "population": -1,
+        "latitude": 6.460879,
+        "longitude": -57.658985
+    },
+    {
+        "name": "Jackson",
+        "country": "Guyana",
+        "province": "Pomeroon-Supenaam",
+        "population": -1,
+        "latitude": 7.471564,
+        "longitude": -58.621382
+    },
+    {
+        "name": "Islington",
+        "country": "Guyana",
+        "province": "East Berbice-Corentyne",
+        "population": -1,
+        "latitude": 6.2166667,
+        "longitude": -57.5166667
+    },
+    {
+        "name": "Isherton",
+        "country": "Guyana",
+        "province": "Upper Takutu-Upper Essequibo",
+        "population": -1,
+        "latitude": 2.3166667,
+        "longitude": -59.3666667
+    },
+    {
+        "name": "Ipotaikuru",
+        "country": "Guyana",
+        "province": "Barima-Waini",
+        "population": -1,
+        "latitude": 7.4333333,
+        "longitude": -59.6
+    },
+    {
+        "name": "Imprenza",
+        "country": "Guyana",
+        "province": "Upper Takutu-Upper Essequibo",
+        "population": -1,
+        "latitude": 3.1333333,
+        "longitude": -59.8333333
+    },
+    {
+        "name": "Illimir Village",
+        "country": "Guyana",
+        "province": "Upper Takutu-Upper Essequibo",
+        "population": -1,
+        "latitude": 2.2666667,
+        "longitude": -59.45
+    },
+    {
+        "name": "Hyde Park",
+        "country": "Guyana",
+        "province": "Essequibo Islands-West Demerara",
+        "population": -1,
+        "latitude": 6.846282,
+        "longitude": -58.428849
+    },
+    {
+        "name": "Hururu",
+        "country": "Guyana",
+        "province": "Upper Demerara-Berbice",
+        "population": -1,
+        "latitude": 5.3666667,
+        "longitude": -58
+    },
+    {
+        "name": "Houston",
+        "country": "Guyana",
+        "province": "Demerara-Mahaica",
+        "population": -1,
+        "latitude": 6.788109,
+        "longitude": -58.171236
+    },
+    {
+        "name": "Hororabo",
+        "country": "Guyana",
+        "province": "Cuyuni-Mazaruni",
+        "population": -1,
+        "latitude": 6.2833333,
+        "longitude": -58.7333333
+    },
+    {
+        "name": "Holmia",
+        "country": "Guyana",
+        "province": "Potaro-Siparuni",
+        "population": -1,
+        "latitude": 4.9666667,
+        "longitude": -59.5833333
+    },
+    {
+        "name": "Hoff Van Aurich",
+        "country": "Guyana",
+        "province": "Pomeroon-Supenaam",
+        "population": -1,
+        "latitude": 7.180246,
+        "longitude": -58.489856
+    },
+    {
+        "name": "Hobediah",
+        "country": "Guyana",
+        "province": "Barima-Waini",
+        "population": -1,
+        "latitude": 7.9666667,
+        "longitude": -59.8166667
+    },
+    {
+        "name": "Hibernia",
+        "country": "Guyana",
+        "province": "Pomeroon-Supenaam",
+        "population": -1,
+        "latitude": 7.02064,
+        "longitude": -58.488597
+    },
+    {
+        "name": "Hiawa",
+        "country": "Guyana",
+        "province": "Upper Takutu-Upper Essequibo",
+        "population": -1,
+        "latitude": 3.4,
+        "longitude": -59.6333333
+    },
+    {
+        "name": "Hawkins Mission",
+        "country": "Guyana",
+        "province": "Upper Takutu-Upper Essequibo",
+        "population": -1,
+        "latitude": 3.4833333,
+        "longitude": -59.55
+    },
+    {
+        "name": "Hamburg",
+        "country": "Guyana",
+        "province": "Essequibo Islands-West Demerara",
+        "population": -1,
+        "latitude": 7.05,
+        "longitude": -58.466667
+    },
+    {
+        "name": "Grahams Hall",
+        "country": "Guyana",
+        "province": "Demerara-Mahaica",
+        "population": -1,
+        "latitude": 6.816667,
+        "longitude": -58.116667
+    },
+    {
+        "name": "Good Success",
+        "country": "Guyana",
+        "province": "Demerara-Mahaica",
+        "population": -1,
+        "latitude": 6.694533,
+        "longitude": -58.181499
+    },
+    {
+        "name": "Good Intent",
+        "country": "Guyana",
+        "province": "Demerara-Mahaica",
+        "population": -1,
+        "latitude": 6.717138,
+        "longitude": -58.205497
+    },
+    {
+        "name": "Good Hope",
+        "country": "Guyana",
+        "province": "Upper Takutu-Upper Essequibo",
+        "population": -1,
+        "latitude": 3.8666667,
+        "longitude": -59.5833333
+    },
+    {
+        "name": "Golden Grove",
+        "country": "Guyana",
+        "province": "Demerara-Mahaica",
+        "population": -1,
+        "latitude": 6.703475,
+        "longitude": -58.183071
+    },
+    {
+        "name": "Golden Fleece",
+        "country": "Guyana",
+        "province": "Mahaica-Berbice",
+        "population": -1,
+        "latitude": 6.5,
+        "longitude": -57.692182
+    },
+    {
+        "name": "GNS Kimbia",
+        "country": "Guyana",
+        "province": "Upper Demerara-Berbice",
+        "population": -1,
+        "latitude": 5.618948,
+        "longitude": -57.730536
+    },
+    {
+        "name": "Fear Not",
+        "country": "Guyana",
+        "province": "Pomeroon-Supenaam",
+        "population": -1,
+        "latitude": 7.298304,
+        "longitude": -58.480637
+    },
+    {
+        "name": "Fairfield",
+        "country": "Guyana",
+        "province": "Pomeroon-Supenaam",
+        "population": -1,
+        "latitude": 7.031002,
+        "longitude": -58.485751
+    },
+    {
+        "name": "Exmouth",
+        "country": "Guyana",
+        "province": "Pomeroon-Supenaam",
+        "population": -1,
+        "latitude": 7.345839,
+        "longitude": -58.487645
+    },
+    {
+        "name": "Evergreen",
+        "country": "Guyana",
+        "province": "Pomeroon-Supenaam",
+        "population": -1,
+        "latitude": 7.393343,
+        "longitude": -58.546544
+    },
+    {
+        "name": "Eurowa",
+        "country": "Guyana",
+        "province": "Pomeroon-Supenaam",
+        "population": -1,
+        "latitude": 7.390201,
+        "longitude": -58.595819
+    },
+    {
+        "name": "Enaruko Village",
+        "country": "Guyana",
+        "province": "Potaro-Siparuni",
+        "population": -1,
+        "latitude": 4.5666667,
+        "longitude": -59.6666667
+    },
+    {
+        "name": "Elizabeth",
+        "country": "Guyana",
+        "province": "Essequibo Islands-West Demerara",
+        "population": -1,
+        "latitude": 6.924458,
+        "longitude": -58.431466
+    },
+    {
+        "name": "Buabanna",
+        "country": "Guyana",
+        "province": "Demerara-Mahaica",
+        "population": -1,
+        "latitude": 6.29914,
+        "longitude": -58.266092
+    },
+    {
+        "name": "Dunkeld",
+        "country": "Guyana",
+        "province": "Pomeroon-Supenaam",
+        "population": -1,
+        "latitude": 7.359,
+        "longitude": -58.495814
+    },
+    {
+        "name": "Dukestown",
+        "country": "Guyana",
+        "province": "East Berbice-Corentyne",
+        "population": -1,
+        "latitude": 5.90387,
+        "longitude": -57.14007
+    },
+    {
+        "name": "Devonshire Castle",
+        "country": "Guyana",
+        "province": "Pomeroon-Supenaam",
+        "population": -1,
+        "latitude": 7.325809,
+        "longitude": -58.48153
+    },
+    {
+        "name": "De Gezusters",
+        "country": "Guyana",
+        "province": "Essequibo Islands-West Demerara",
+        "population": -1,
+        "latitude": 6.711105,
+        "longitude": -58.206206
+    },
+    {
+        "name": "Dawa",
+        "country": "Guyana",
+        "province": "Pomeroon-Supenaam",
+        "population": -1,
+        "latitude": 7.209459,
+        "longitude": -58.611768
+    },
+    {
+        "name": "Dartmouth",
+        "country": "Guyana",
+        "province": "Pomeroon-Supenaam",
+        "population": -1,
+        "latitude": 7.36279,
+        "longitude": -58.499932
+    },
+    {
+        "name": "Dalli",
+        "country": "Guyana",
+        "province": "Essequibo Islands-West Demerara",
+        "population": -1,
+        "latitude": 6.485641,
+        "longitude": -58.585743
+    },
+    {
+        "name": "Dageraad",
+        "country": "Guyana",
+        "province": "Pomeroon-Supenaam",
+        "population": -1,
+        "latitude": 7.192831,
+        "longitude": -58.500218
+    },
+    {
+        "name": "Cullen",
+        "country": "Guyana",
+        "province": "Pomeroon-Supenaam",
+        "population": -1,
+        "latitude": 7.160401,
+        "longitude": -58.479886
+    },
+    {
+        "name": "Craig",
+        "country": "Guyana",
+        "province": "Demerara-Mahaica",
+        "population": -1,
+        "latitude": 6.687651,
+        "longitude": -58.171261
+    },
+    {
+        "name": "Courida Park",
+        "country": "Guyana",
+        "province": "Demerara-Mahaica",
+        "population": -1,
+        "latitude": 6.816424,
+        "longitude": -58.107387
+    },
+    {
+        "name": "Columbia",
+        "country": "Guyana",
+        "province": "Pomeroon-Supenaam",
+        "population": -1,
+        "latitude": 7.223459,
+        "longitude": -58.48557
+    },
+    {
+        "name": "Coffee Grove",
+        "country": "Guyana",
+        "province": "Pomeroon-Supenaam",
+        "population": -1,
+        "latitude": 7.292657,
+        "longitude": -58.480955
+    },
+    {
+        "name": "Chinese Landing",
+        "country": "Guyana",
+        "province": "Barima-Waini",
+        "population": -1,
+        "latitude": 7.5166667,
+        "longitude": -59.55
+    },
+    {
+        "name": "Chenapowu Village",
+        "country": "Guyana",
+        "province": "Potaro-Siparuni",
+        "population": -1,
+        "latitude": 4.9166667,
+        "longitude": -59.5666667
+    },
+    {
+        "name": "Catherine",
+        "country": "Guyana",
+        "province": "Mahaica-Berbice",
+        "population": -1,
+        "latitude": 6.548607,
+        "longitude": -57.747339
+    },
+    {
+        "name": "Capoey",
+        "country": "Guyana",
+        "province": "Pomeroon-Supenaam",
+        "population": -1,
+        "latitude": 7.208378,
+        "longitude": -58.486415
+    },
+    {
+        "name": "Caledonia",
+        "country": "Guyana",
+        "province": "Essequibo Islands-West Demerara",
+        "population": -1,
+        "latitude": 7.003385,
+        "longitude": -58.447078
+    },
+    {
+        "name": "Buxton",
+        "country": "Guyana",
+        "province": "Pomeroon-Supenaam",
+        "population": -1,
+        "latitude": 7.402769,
+        "longitude": -58.611186
+    },
+    {
+        "name": "Brighton",
+        "country": "Guyana",
+        "province": "East Berbice-Corentyne",
+        "population": -1,
+        "latitude": 6.143084,
+        "longitude": -57.216137
+    },
+    {
+        "name": "Bremen",
+        "country": "Guyana",
+        "province": "Pomeroon-Supenaam",
+        "population": -1,
+        "latitude": 7.156179,
+        "longitude": -58.479822
+    },
+    {
+        "name": "Brandwagt-Sari",
+        "country": "Guyana",
+        "province": "East Berbice-Corentyne",
+        "population": -1,
+        "latitude": 5.9833333,
+        "longitude": -57.6333333
+    },
+    {
+        "name": "Bounty Hall",
+        "country": "Guyana",
+        "province": "Pomeroon-Supenaam",
+        "population": -1,
+        "latitude": 7.371001,
+        "longitude": -58.507943
+    },
+    {
+        "name": "Biloku",
+        "country": "Guyana",
+        "province": "Upper Takutu-Upper Essequibo",
+        "population": -1,
+        "latitude": 1.7666667,
+        "longitude": -58.55
+    },
+    {
+        "name": "Better Success",
+        "country": "Guyana",
+        "province": "Pomeroon-Supenaam",
+        "population": -1,
+        "latitude": 7.376311,
+        "longitude": -58.512856
+    },
+    {
+        "name": "Better Hope",
+        "country": "Guyana",
+        "province": "Pomeroon-Supenaam",
+        "population": -1,
+        "latitude": 7.386753,
+        "longitude": -58.522464
+    },
+    {
+        "name": "Bethany",
+        "country": "Guyana",
+        "province": "Pomeroon-Supenaam",
+        "population": -1,
+        "latitude": 6.9666667,
+        "longitude": -58.5833333
+    },
+    {
+        "name": "Bethany",
+        "country": "Guyana",
+        "province": "Essequibo Islands-West Demerara",
+        "population": -1,
+        "latitude": 6.796403,
+        "longitude": -58.603338
+    },
+    {
+        "name": "Berks",
+        "country": "Guyana",
+        "province": "Pomeroon-Supenaam",
+        "population": -1,
+        "latitude": 7.397329,
+        "longitude": -58.570499
+    },
+    {
+        "name": "Belfield",
+        "country": "Guyana",
+        "province": "Pomeroon-Supenaam",
+        "population": -1,
+        "latitude": 7.10939,
+        "longitude": -58.480318
+    },
+    {
+        "name": "Bel Air",
+        "country": "Guyana",
+        "province": "Mahaica-Berbice",
+        "population": -1,
+        "latitude": 6.316913,
+        "longitude": -57.556407
+    },
+    {
+        "name": "Barakara",
+        "country": "Guyana",
+        "province": "Cuyuni-Mazaruni",
+        "population": -1,
+        "latitude": 6.3833333,
+        "longitude": -58.6666667
+    },
+    {
+        "name": "Barabina Hill",
+        "country": "Guyana",
+        "province": "Barima-Waini",
+        "population": -1,
+        "latitude": 8.212883,
+        "longitude": -59.800925
+    },
+    {
+        "name": "Barabara",
+        "country": "Guyana",
+        "province": "Mahaica-Berbice",
+        "population": -1,
+        "latitude": 6.55,
+        "longitude": -57.8833333
+    },
+    {
+        "name": "Banakari",
+        "country": "Guyana",
+        "province": "Essequibo Islands-West Demerara",
+        "population": -1,
+        "latitude": 6.613881,
+        "longitude": -58.627564
+    },
+    {
+        "name": "Aurora",
+        "country": "Guyana",
+        "province": "Cuyuni-Mazaruni",
+        "population": -1,
+        "latitude": 6.8,
+        "longitude": -59.75
+    },
+    {
+        "name": "Aurora",
+        "country": "Guyana",
+        "province": "Essequibo Islands-West Demerara",
+        "population": -1,
+        "latitude": 6.430033,
+        "longitude": -58.292353
+    },
+    {
+        "name": "Atamadpau",
+        "country": "Guyana",
+        "province": "Upper Takutu-Upper Essequibo",
+        "population": -1,
+        "latitude": 3,
+        "longitude": -59.7166667
+    },
+    {
+        "name": "Assura Village",
+        "country": "Guyana",
+        "province": "Cuyuni-Mazaruni",
+        "population": -1,
+        "latitude": 5.8166667,
+        "longitude": -59.65
+    },
+    {
+        "name": "Arthurville",
+        "country": "Guyana",
+        "province": "Essequibo Islands-West Demerara",
+        "population": -1,
+        "latitude": 6.953658,
+        "longitude": -58.451668
+    },
+    {
+        "name": "Arnik Village",
+        "country": "Guyana",
+        "province": "Potaro-Siparuni",
+        "population": -1,
+        "latitude": 5.0166667,
+        "longitude": -59.5333333
+    },
+    {
+        "name": "Arakwai Outstation",
+        "country": "Guyana",
+        "province": "Upper Takutu-Upper Essequibo",
+        "population": -1,
+        "latitude": 2.7666667,
+        "longitude": -59.4833333
+    },
+    {
+        "name": "Apanachi",
+        "country": "Guyana",
+        "province": "Cuyuni-Mazaruni",
+        "population": -1,
+        "latitude": 5.65,
+        "longitude": -59.2166667
+    },
+    {
+        "name": "Anna Regina",
+        "country": "Guyana",
+        "province": "Pomeroon-Supenaam",
+        "population": -1,
+        "latitude": 7.262954,
+        "longitude": -58.482975
+    },
+    {
+        "name": "Anna Catherina",
+        "country": "Guyana",
+        "province": "Essequibo Islands-West Demerara",
+        "population": -1,
+        "latitude": 6.85639,
+        "longitude": -58.274022
+    },
+    {
+        "name": "Ankerville",
+        "country": "Guyana",
+        "province": "East Berbice-Corentyne",
+        "population": -1,
+        "latitude": 6.241228,
+        "longitude": -57.348718
+    },
+    {
+        "name": "Andrews",
+        "country": "Guyana",
+        "province": "Pomeroon-Supenaam",
+        "population": -1,
+        "latitude": 7.381691,
+        "longitude": -58.517799
+    },
+    {
+        "name": "Amazon",
+        "country": "Guyana",
+        "province": "Pomeroon-Supenaam",
+        "population": -1,
+        "latitude": 7.396357,
+        "longitude": -58.606362
+    },
+    {
+        "name": "Altora Village",
+        "country": "Guyana",
+        "province": "Upper Takutu-Upper Essequibo",
+        "population": -1,
+        "latitude": 2.4833333,
+        "longitude": -59.1666667
+    },
+    {
+        "name": "Agricola Village",
+        "country": "Guyana",
+        "province": "Demerara-Mahaica",
+        "population": -1,
+        "latitude": 6.4666667,
+        "longitude": -58.1666667
+    },
+    {
+        "name": "Affiance",
+        "country": "Guyana",
+        "province": "Pomeroon-Supenaam",
+        "population": -1,
+        "latitude": 7.215549,
+        "longitude": -58.487068
+    },
+    {
+        "name": "Adelair",
+        "country": "Guyana",
+        "province": "Upper Takutu-Upper Essequibo",
+        "population": -1,
+        "latitude": 2.1333333,
+        "longitude": -59.6333333
+    },
+    {
+        "name": "Aberdeen",
+        "country": "Guyana",
+        "province": "Pomeroon-Supenaam",
+        "population": -1,
+        "latitude": 7.227384,
+        "longitude": -58.48524
+    },
+    {
+        "name": "Zorg",
+        "country": "Guyana",
+        "province": "Pomeroon-Supenaam",
+        "population": -1,
+        "latitude": 7.131777,
+        "longitude": -58.47624
+    },
+    {
+        "name": "Yepu Village",
+        "country": "Guyana",
+        "province": "Upper Takutu-Upper Essequibo",
+        "population": -1,
+        "latitude": 1.3666667,
+        "longitude": -58.6333333
+    },
+    {
+        "name": "Yepi Village",
+        "country": "Guyana",
+        "province": "Upper Takutu-Upper Essequibo",
+        "population": -1,
+        "latitude": 1.35,
+        "longitude": -58.6666667
+    },
+    {
+        "name": "Yakusari",
+        "country": "Guyana",
+        "province": "East Berbice-Corentyne",
+        "population": -1,
+        "latitude": 6.049085,
+        "longitude": -57.267155
+    },
+    {
+        "name": "Yakarinta",
+        "country": "Guyana",
+        "province": "Upper Takutu-Upper Essequibo",
+        "population": -1,
+        "latitude": 3.9,
+        "longitude": -59.25
+    },
+    {
+        "name": "Wolga",
+        "country": "Guyana",
+        "province": "Cuyuni-Mazaruni",
+        "population": -1,
+        "latitude": 6.472402,
+        "longitude": -58.616368
+    },
+    {
+        "name": "Wismar",
+        "country": "Guyana",
+        "province": "Upper Demerara-Berbice",
+        "population": -1,
+        "latitude": 6.01065,
+        "longitude": -58.310358
+    },
+    {
+        "name": "Wiribisirikanali",
+        "country": "Guyana",
+        "province": "Upper Demerara-Berbice",
+        "population": -1,
+        "latitude": 5.5,
+        "longitude": -58.3833333
+    },
+    {
+        "name": "Wineperu",
+        "country": "Guyana",
+        "province": "Cuyuni-Mazaruni",
+        "population": -1,
+        "latitude": 6.176002,
+        "longitude": -58.584845
+    },
+    {
+        "name": "Windsor Forest",
+        "country": "Guyana",
+        "province": "Essequibo Islands-West Demerara",
+        "population": -1,
+        "latitude": 6.848748,
+        "longitude": -58.235207
+    },
+    {
+        "name": "Windsor Castle",
+        "country": "Guyana",
+        "province": "Pomeroon-Supenaam",
+        "population": -1,
+        "latitude": 7.307565,
+        "longitude": -58.479684
+    },
+    {
+        "name": "Wiapri",
+        "country": "Guyana",
+        "province": "Potaro-Siparuni",
+        "population": -1,
+        "latitude": 4.95,
+        "longitude": -59.9833333
+    },
+    {
+        "name": "Whim",
+        "country": "Guyana",
+        "province": "East Berbice-Corentyne",
+        "population": -1,
+        "latitude": 6.232363,
+        "longitude": -57.312287
+    },
+    {
+        "name": "Westfield",
+        "country": "Guyana",
+        "province": "Pomeroon-Supenaam",
+        "population": -1,
+        "latitude": 7.1994,
+        "longitude": -58.491622
+    },
+    {
+        "name": "Westbury",
+        "country": "Guyana",
+        "province": "Pomeroon-Supenaam",
+        "population": -1,
+        "latitude": 7.366901,
+        "longitude": -58.502811
+    },
+    {
+        "name": "Werk-en-Rust",
+        "country": "Guyana",
+        "province": "Demerara-Mahaica",
+        "population": -1,
+        "latitude": 6.807254,
+        "longitude": -58.163747
+    },
+    {
+        "name": "Watuka",
+        "country": "Guyana",
+        "province": "Upper Demerara-Berbice",
+        "population": -1,
+        "latitude": 6,
+        "longitude": -58.3
+    },
+    {
+        "name": "Wastelands",
+        "country": "Guyana",
+        "province": "Pomeroon-Supenaam",
+        "population": -1,
+        "latitude": 7.152117,
+        "longitude": -58.478799
+    },
+    {
+        "name": "Warimure",
+        "country": "Guyana",
+        "province": "Upper Takutu-Upper Essequibo",
+        "population": -1,
+        "latitude": 2.9333333,
+        "longitude": -59.4833333
+    },
+    {
+        "name": "Ward village",
+        "country": "Guyana",
+        "province": "East Berbice-Corentyne",
+        "population": -1,
+        "latitude": 6.0666667,
+        "longitude": -57.1833333
+    },
+    {
+        "name": "Walton Hall",
+        "country": "Guyana",
+        "province": "Essequibo Islands-West Demerara",
+        "population": -1,
+        "latitude": 7.33037,
+        "longitude": -58.481436
+    },
+    {
+        "name": "Wakadanawa",
+        "country": "Guyana",
+        "province": "Upper Takutu-Upper Essequibo",
+        "population": -1,
+        "latitude": 1.9833333,
+        "longitude": -59.7166667
+    },
+    {
+        "name": "Waiwoi Village",
+        "country": "Guyana",
+        "province": "Upper Takutu-Upper Essequibo",
+        "population": -1,
+        "latitude": 1.4333333,
+        "longitude": -58.8
+    },
+    {
+        "name": "Wai-Wai",
+        "country": "Guyana",
+        "province": "Upper Takutu-Upper Essequibo",
+        "population": -1,
+        "latitude": 1.5833333,
+        "longitude": -58.65
+    },
+    {
+        "name": "Waipa Village",
+        "country": "Guyana",
+        "province": "Potaro-Siparuni",
+        "population": -1,
+        "latitude": 4.9333333,
+        "longitude": -60
+    },
+    {
+        "name": "Waikerebi Mission",
+        "country": "Guyana",
+        "province": "Barima-Waini",
+        "population": -1,
+        "latitude": 7.5333333,
+        "longitude": -59.4
+    },
+    {
+        "name": "Vilvoorden",
+        "country": "Guyana",
+        "province": "Pomeroon-Supenaam",
+        "population": -1,
+        "latitude": 7.035031,
+        "longitude": -58.489333
+    },
+    {
+        "name": "Velgrad",
+        "country": "Guyana",
+        "province": "Potaro-Siparuni",
+        "population": -1,
+        "latitude": 4.8666667,
+        "longitude": -59.8
+    },
+    {
+        "name": "Urisirima",
+        "country": "Guyana",
+        "province": "Upper Demerara-Berbice",
+        "population": -1,
+        "latitude": 6.4333333,
+        "longitude": -58.6
+    },
+    {
+        "name": "Upper Kamaria",
+        "country": "Guyana",
+        "province": "Cuyuni-Mazaruni",
+        "population": -1,
+        "latitude": 6.430926,
+        "longitude": -58.800871
+    },
+    {
+        "name": "Tuschen",
+        "country": "Guyana",
+        "province": "Essequibo Islands-West Demerara",
+        "population": -1,
+        "latitude": 6.8833333,
+        "longitude": -58.35
+    },
+    {
+        "name": "Tiger Pond Village",
+        "country": "Guyana",
+        "province": "Upper Takutu-Upper Essequibo",
+        "population": -1,
+        "latitude": 4.05,
+        "longitude": -59.4333333
+    },
+    {
+        "name": "Three Friends",
+        "country": "Guyana",
+        "province": "Pomeroon-Supenaam",
+        "population": -1,
+        "latitude": 7.231039,
+        "longitude": -58.48497
+    },
+    {
+        "name": "The Jib",
+        "country": "Guyana",
+        "province": "Pomeroon-Supenaam",
+        "population": -1,
+        "latitude": 7.337864,
+        "longitude": -58.483828
+    },
+    {
+        "name": "Taruka",
+        "country": "Guyana",
+        "province": "Potaro-Siparuni",
+        "population": -1,
+        "latitude": 4.8,
+        "longitude": -59.6333333
+    },
+    {
+        "name": "Takama Battle School",
+        "country": "Guyana",
+        "province": "Upper Demerara-Berbice",
+        "population": -1,
+        "latitude": 5.6,
+        "longitude": -57.9666667
+    },
+    {
+        "name": "Surumatra",
+        "country": "Guyana",
+        "province": "Upper Takutu-Upper Essequibo",
+        "population": -1,
+        "latitude": 4.1666667,
+        "longitude": -59.0666667
+    },
+    {
+        "name": "Surprise Hill",
+        "country": "Guyana",
+        "province": "Barima-Waini",
+        "population": -1,
+        "latitude": 7.8166667,
+        "longitude": -59.8
+    },
+    {
+        "name": "Sunnyside",
+        "country": "Guyana",
+        "province": "Upper Takutu-Upper Essequibo",
+        "population": -1,
+        "latitude": 3.7,
+        "longitude": -59.65
+    },
+    {
+        "name": "Stanleytown",
+        "country": "Guyana",
+        "province": "Essequibo Islands-West Demerara",
+        "population": -1,
+        "latitude": 6.732988,
+        "longitude": -58.205083
+    },
+    {
+        "name": "Stanleytown",
+        "country": "Guyana",
+        "province": "East Berbice-Corentyne",
+        "population": -1,
+        "latitude": 6.23474,
+        "longitude": -57.512584
+    },
+    {
+        "name": "Sparta",
+        "country": "Guyana",
+        "province": "Pomeroon-Supenaam",
+        "population": -1,
+        "latitude": 7.302185,
+        "longitude": -58.479446
+    },
+    {
+        "name": "Somerset",
+        "country": "Guyana",
+        "province": "Pomeroon-Supenaam",
+        "population": -1,
+        "latitude": 7.396594,
+        "longitude": -58.565178
+    },
+    {
+        "name": "Sir James",
+        "country": "Guyana",
+        "province": "Mahaica-Berbice",
+        "population": -1,
+        "latitude": 6.2833333,
+        "longitude": -57.5333333
+    },
+    {
+        "name": "Sinclair Landing",
+        "country": "Guyana",
+        "province": "Barima-Waini",
+        "population": -1,
+        "latitude": 7.773974,
+        "longitude": -59.831339
+    },
+    {
+        "name": "Simirie",
+        "country": "Guyana",
+        "province": "Essequibo Islands-West Demerara",
+        "population": -1,
+        "latitude": 6.5166667,
+        "longitude": -58.5833333
+    },
+    {
+        "name": "Simeri",
+        "country": "Guyana",
+        "province": "Pomeroon-Supenaam",
+        "population": -1,
+        "latitude": 7.215346,
+        "longitude": -58.669998
+    },
+    {
+        "name": "Seafield",
+        "country": "Guyana",
+        "province": "Mahaica-Berbice",
+        "population": -1,
+        "latitude": 6.480794,
+        "longitude": -57.673913
+    },
+    {
+        "name": "Scottsburg",
+        "country": "Guyana",
+        "province": "East Berbice-Corentyne",
+        "population": -1,
+        "latitude": 5.90676,
+        "longitude": -57.14204
+    },
+    {
+        "name": "Sarah Johanna",
+        "country": "Guyana",
+        "province": "Demerara-Mahaica",
+        "population": -1,
+        "latitude": 6.593581,
+        "longitude": -58.208782
+    },
+    {
+        "name": "Sarah",
+        "country": "Guyana",
+        "province": "Essequibo Islands-West Demerara",
+        "population": -1,
+        "latitude": 6.967798,
+        "longitude": -58.457787
+    },
+    {
+        "name": "Santa Cruz",
+        "country": "Guyana",
+        "province": "Barima-Waini",
+        "population": -1,
+        "latitude": 7.65,
+        "longitude": -59.2333333
+    },
+    {
+        "name": "Sand Creek Village",
+        "country": "Guyana",
+        "province": "Upper Takutu-Upper Essequibo",
+        "population": -1,
+        "latitude": 3,
+        "longitude": -59.5166667
+    },
+    {
+        "name": "Saint Marys",
+        "country": "Guyana",
+        "province": "Cuyuni-Mazaruni",
+        "population": -1,
+        "latitude": 6.243851,
+        "longitude": -58.583485
+    },
+    {
+        "name": "Saint Edwards Mission",
+        "country": "Guyana",
+        "province": "Cuyuni-Mazaruni",
+        "population": -1,
+        "latitude": 6.371297,
+        "longitude": -58.698079
+    },
+    {
+        "name": "Saint Benedict Mission",
+        "country": "Guyana",
+        "province": "Barima-Waini",
+        "population": -1,
+        "latitude": 7.8166667,
+        "longitude": -59.8333333
+    },
+    {
+        "name": "Sabernawau Village",
+        "country": "Guyana",
+        "province": "Upper Takutu-Upper Essequibo",
+        "population": -1,
+        "latitude": 2.3333333,
+        "longitude": -59.2333333
+    },
+    {
+        "name": "Riverstown",
+        "country": "Guyana",
+        "province": "Pomeroon-Supenaam",
+        "population": -1,
+        "latitude": 7.066881,
+        "longitude": -58.48216
+    },
+    {
+        "name": "Ridge",
+        "country": "Guyana",
+        "province": "Essequibo Islands-West Demerara",
+        "population": -1,
+        "latitude": 6.917494,
+        "longitude": -58.49168
+    },
+    {
+        "name": "Richmond",
+        "country": "Guyana",
+        "province": "Pomeroon-Supenaam",
+        "population": -1,
+        "latitude": 7.273063,
+        "longitude": -58.481411
+    },
+    {
+        "name": "Reliance",
+        "country": "Guyana",
+        "province": "Pomeroon-Supenaam",
+        "population": -1,
+        "latitude": 7.243563,
+        "longitude": -58.483652
+    },
+    {
+        "name": "Red Hill Settlement",
+        "country": "Guyana",
+        "province": "Barima-Waini",
+        "population": -1,
+        "latitude": 7.8666667,
+        "longitude": -59.4333333
+    },
+    {
+        "name": "Queenstown",
+        "country": "Guyana",
+        "province": "East Berbice-Corentyne",
+        "population": -1,
+        "latitude": 5.88645,
+        "longitude": -57.14091
+    },
+    {
+        "name": "Pukasanta Village",
+        "country": "Guyana",
+        "province": "Upper Takutu-Upper Essequibo",
+        "population": -1,
+        "latitude": 3.0666667,
+        "longitude": -58.9
+    },
+    {
+        "name": "Pubu",
+        "country": "Guyana",
+        "province": "Upper Demerara-Berbice",
+        "population": -1,
+        "latitude": 5.2333333,
+        "longitude": -58.6166667
+    },
+    {
+        "name": "Providence Place",
+        "country": "Guyana",
+        "province": "East Berbice-Corentyne",
+        "population": -1,
+        "latitude": 6.226046,
+        "longitude": -57.524302
+    },
+    {
+        "name": "Providence",
+        "country": "Guyana",
+        "province": "Pomeroon-Supenaam",
+        "population": -1,
+        "latitude": 7.483758,
+        "longitude": -58.634205
+    },
+    {
+        "name": "Princetown",
+        "country": "Guyana",
+        "province": "East Berbice-Corentyne",
+        "population": -1,
+        "latitude": 5.90486,
+        "longitude": -57.139147
+    },
+    {
+        "name": "Powisanau Village",
+        "country": "Guyana",
+        "province": "Upper Takutu-Upper Essequibo",
+        "population": -1,
+        "latitude": 2.5333333,
+        "longitude": -59.45
+    },
+    {
+        "name": "Poterima",
+        "country": "Guyana",
+        "province": "Cuyuni-Mazaruni",
+        "population": -1,
+        "latitude": 6.285085,
+        "longitude": -58.58513
+    },
+    {
+        "name": "Pomona",
+        "country": "Guyana",
+        "province": "Pomeroon-Supenaam",
+        "population": -1,
+        "latitude": 7.05883,
+        "longitude": -58.482414
+    },
+    {
+        "name": "Pirara",
+        "country": "Guyana",
+        "province": "Upper Takutu-Upper Essequibo",
+        "population": -1,
+        "latitude": 3.6166667,
+        "longitude": -59.6666667
+    },
+    {
+        "name": "Phoenix Town",
+        "country": "Guyana",
+        "province": "Essequibo Islands-West Demerara",
+        "population": -1,
+        "latitude": 6.8,
+        "longitude": -58.2
+    },
+    {
+        "name": "Perth",
+        "country": "Guyana",
+        "province": "Pomeroon-Supenaam",
+        "population": -1,
+        "latitude": 7.356179,
+        "longitude": -58.493242
+    },
+    {
+        "name": "Peropo",
+        "country": "Guyana",
+        "province": "Upper Takutu-Upper Essequibo",
+        "population": -1,
+        "latitude": 4.1333333,
+        "longitude": -59.1166667
+    },
+    {
+        "name": "Pearl",
+        "country": "Guyana",
+        "province": "Demerara-Mahaica",
+        "population": -1,
+        "latitude": 6.589081,
+        "longitude": -58.208499
+    },
+    {
+        "name": "Patientia",
+        "country": "Guyana",
+        "province": "Essequibo Islands-West Demerara",
+        "population": -1,
+        "latitude": 6.539914,
+        "longitude": -58.618526
+    },
+    {
+        "name": "Patentia",
+        "country": "Guyana",
+        "province": "Essequibo Islands-West Demerara",
+        "population": -1,
+        "latitude": 6.698469,
+        "longitude": -58.20011
+    },
+    {
+        "name": "Parapimai",
+        "country": "Guyana",
+        "province": "Barima-Waini",
+        "population": -1,
+        "latitude": 7.3666667,
+        "longitude": -59.6666667
+    },
+    {
+        "name": "Paradise",
+        "country": "Guyana",
+        "province": "Upper Demerara-Berbice",
+        "population": -1,
+        "latitude": 5.5666667,
+        "longitude": -57.9166667
+    },
+    {
+        "name": "Paradise",
+        "country": "Guyana",
+        "province": "Pomeroon-Supenaam",
+        "population": -1,
+        "latitude": 7.334742,
+        "longitude": -58.484508
+    },
+    {
+        "name": "Paradise",
+        "country": "Guyana",
+        "province": "Mahaica-Berbice",
+        "population": -1,
+        "latitude": 6.503086,
+        "longitude": -57.695541
+    },
+    {
+        "name": "Parabara",
+        "country": "Guyana",
+        "province": "Upper Takutu-Upper Essequibo",
+        "population": -1,
+        "latitude": 2.2166667,
+        "longitude": -59.3
+    },
+    {
+        "name": "Opposite",
+        "country": "Guyana",
+        "province": "Pomeroon-Supenaam",
+        "population": -1,
+        "latitude": 7.392976,
+        "longitude": -58.544271
+    },
+    {
+        "name": "Onderneeming",
+        "country": "Guyana",
+        "province": "Pomeroon-Supenaam",
+        "population": -1,
+        "latitude": 7.106337,
+        "longitude": -58.485316
+    },
+    {
+        "name": "Old England",
+        "country": "Guyana",
+        "province": "Upper Demerara-Berbice",
+        "population": -1,
+        "latitude": 5.972234,
+        "longitude": -58.274644
+    },
+    {
+        "name": "Number Sixty-two",
+        "country": "Guyana",
+        "province": "East Berbice-Corentyne",
+        "population": -1,
+        "latitude": 5.990689,
+        "longitude": -57.161583
+    },
+    {
+        "name": "Number Sixty-one",
+        "country": "Guyana",
+        "province": "East Berbice-Corentyne",
+        "population": -1,
+        "latitude": 5.995761,
+        "longitude": -57.161258
+    },
+    {
+        "name": "Number Sixty",
+        "country": "Guyana",
+        "province": "East Berbice-Corentyne",
+        "population": -1,
+        "latitude": 5.998099,
+        "longitude": -57.167071
+    },
+    {
+        "name": "Number Seventy-seven",
+        "country": "Guyana",
+        "province": "East Berbice-Corentyne",
+        "population": -1,
+        "latitude": 5.89998,
+        "longitude": -57.1445
+    },
+    {
+        "name": "Number Forty-six",
+        "country": "Guyana",
+        "province": "East Berbice-Corentyne",
+        "population": -1,
+        "latitude": 6.0833333,
+        "longitude": -57.2
+    },
+    {
+        "name": "Number Forty-five",
+        "country": "Guyana",
+        "province": "East Berbice-Corentyne",
+        "population": -1,
+        "latitude": 6.1,
+        "longitude": -57.2
+    },
+    {
+        "name": "Nismes",
+        "country": "Guyana",
+        "province": "Essequibo Islands-West Demerara",
+        "population": -1,
+        "latitude": 6.754221,
+        "longitude": -58.204068
+    },
+    {
+        "name": "Nile",
+        "country": "Guyana",
+        "province": "Pomeroon-Supenaam",
+        "population": -1,
+        "latitude": 7.478845,
+        "longitude": -58.628962
+    },
+    {
+        "name": "Newburg",
+        "country": "Guyana",
+        "province": "Demerara-Mahaica",
+        "population": -1,
+        "latitude": 6.805774,
+        "longitude": -58.160205
+    },
+    {
+        "name": "New Aanlegt",
+        "country": "Guyana",
+        "province": "Essequibo Islands-West Demerara",
+        "population": -1,
+        "latitude": 6.736138,
+        "longitude": -58.265868
+    },
+    {
+        "name": "Mubohina",
+        "country": "Guyana",
+        "province": "Barima-Waini",
+        "population": -1,
+        "latitude": 7.5833333,
+        "longitude": -59.1333333
+    },
+    {
+        "name": "Mount Everard",
+        "country": "Guyana",
+        "province": "Barima-Waini",
+        "population": -1,
+        "latitude": 7.8166667,
+        "longitude": -59.4666667
+    },
+    {
+        "name": "Mountain Point",
+        "country": "Guyana",
+        "province": "Upper Takutu-Upper Essequibo",
+        "population": -1,
+        "latitude": 3,
+        "longitude": -59.6333333
+    },
+    {
+        "name": "Mortice",
+        "country": "Guyana",
+        "province": "Mahaica-Berbice",
+        "population": -1,
+        "latitude": 6.517631,
+        "longitude": -57.816009
+    },
+    {
+        "name": "Morawhanna",
+        "country": "Guyana",
+        "province": "Barima-Waini",
+        "population": -1,
+        "latitude": 8.268674,
+        "longitude": -59.756098
+    },
+    {
+        "name": "Morasi",
+        "country": "Guyana",
+        "province": "Essequibo Islands-West Demerara",
+        "population": -1,
+        "latitude": 6.764334,
+        "longitude": -58.491156
+    },
+    {
+        "name": "Mongreppo",
+        "country": "Guyana",
+        "province": "Cuyuni-Mazaruni",
+        "population": -1,
+        "latitude": 6.397682,
+        "longitude": -58.620805
+    },
+    {
+        "name": "Moca Moca",
+        "country": "Guyana",
+        "province": "Mahaica-Berbice",
+        "population": -1,
+        "latitude": 6.474504,
+        "longitude": -57.786822
+    },
+    {
+        "name": "Mocha",
+        "country": "Guyana",
+        "province": "Pomeroon-Supenaam",
+        "population": -1,
+        "latitude": 7.193742,
+        "longitude": -58.489249
+    },
+    {
+        "name": "Mission Landing",
+        "country": "Guyana",
+        "province": "Barima-Waini",
+        "population": -1,
+        "latitude": 7.758921,
+        "longitude": -59.86031
+    },
+    {
+        "name": "Bonfim",
+        "country": "Guyana",
+        "province": "Upper Takutu-Upper Essequibo",
+        "population": -1,
+        "latitude": 3.0833333,
+        "longitude": -59.95
+    },
+    {
+        "name": "North East La Penitence",
+        "country": "Guyana",
+        "province": "Demerara-Mahaica",
+        "population": -1,
+        "latitude": 6.796563,
+        "longitude": -58.147343
+    },
+    {
+        "name": "Tuschen",
+        "country": "Guyana",
+        "province": "Pomeroon-Supenaam",
+        "population": -1,
+        "latitude": 7.602096,
+        "longitude": -58.741383
+    },
+    {
+        "name": "Dublin",
+        "country": "Guyana",
+        "province": "Pomeroon-Supenaam",
+        "population": -1,
+        "latitude": 7.449498,
+        "longitude": -58.614236
+    },
+    {
+        "name": "Belle Vue",
+        "country": "Guyana",
+        "province": "Pomeroon-Supenaam",
+        "population": -1,
+        "latitude": 7.455041,
+        "longitude": -58.614851
+    },
+    {
+        "name": "Grant Calvin",
+        "country": "Guyana",
+        "province": "Pomeroon-Supenaam",
+        "population": -1,
+        "latitude": 7.488163,
+        "longitude": -58.63822
+    },
+    {
+        "name": "Adventure",
+        "country": "Guyana",
+        "province": "Pomeroon-Supenaam",
+        "population": -1,
+        "latitude": 7.486994,
+        "longitude": -58.640018
+    },
+    {
+        "name": "Opposition",
+        "country": "Guyana",
+        "province": "Pomeroon-Supenaam",
+        "population": -1,
+        "latitude": 7.392297,
+        "longitude": -58.600265
+    },
+    {
+        "name": "Eliza",
+        "country": "Guyana",
+        "province": "Pomeroon-Supenaam",
+        "population": -1,
+        "latitude": 7.354176,
+        "longitude": -58.491436
+    },
+    {
+        "name": "Three Friends",
+        "country": "Guyana",
+        "province": "Upper Demerara-Berbice",
+        "population": -1,
+        "latitude": 5.917671,
+        "longitude": -58.310426
+    },
+    {
+        "name": "Yarowkabra",
+        "country": "Guyana",
+        "province": "Demerara-Mahaica",
+        "population": -1,
+        "latitude": 6.469699,
+        "longitude": -58.224772
+    },
+    {
+        "name": "Harlem",
+        "country": "Guyana",
+        "province": "Essequibo Islands-West Demerara",
+        "population": -1,
+        "latitude": 6.836106,
+        "longitude": -58.220947
+    },
+    {
+        "name": "Margot",
+        "country": "Guyana",
+        "province": "Demerara-Mahaica",
+        "population": -1,
+        "latitude": 6.814177,
+        "longitude": -58.06271
+    },
+    {
+        "name": "Success",
+        "country": "Guyana",
+        "province": "Demerara-Mahaica",
+        "population": -1,
+        "latitude": 6.813009,
+        "longitude": -58.091679
+    },
+    {
+        "name": "Dora",
+        "country": "Guyana",
+        "province": "Demerara-Mahaica",
+        "population": -1,
+        "latitude": 6.336229,
+        "longitude": -58.230594
+    },
+    {
+        "name": "Ann's Grove",
+        "country": "Guyana",
+        "province": "Demerara-Mahaica",
+        "population": -1,
+        "latitude": 6.7167,
+        "longitude": -57.95
+    },
+    {
+        "name": "Herstelling",
+        "country": "Guyana",
+        "province": "Essequibo Islands-West Demerara",
+        "population": -1,
+        "latitude": 6.747176,
+        "longitude": -58.187156
+    },
+    {
+        "name": "St. Cuthbert's",
+        "country": "Guyana",
+        "province": "Demerara-Mahaica",
+        "population": -1,
+        "latitude": 6.366667,
+        "longitude": -58.066667
+    },
+    {
+        "name": "Tobago & Wauna Hill",
+        "country": "Guyana",
+        "province": "Barima-Waini",
+        "population": -1,
+        "latitude": 8.159512,
+        "longitude": -59.834331
+    },
+    {
+        "name": "Meadow Bank",
+        "country": "Guyana",
+        "province": "Demerara-Mahaica",
+        "population": -1,
+        "latitude": 6.792095,
+        "longitude": -58.170114
+    },
+    {
+        "name": "Martins Burial Ground",
+        "country": "Guyana",
+        "province": "Mahaica-Berbice",
+        "population": -1,
+        "latitude": 6.53156,
+        "longitude": -57.89222
+    },
+    {
+        "name": "Macouba",
+        "country": "Guyana",
+        "province": "Mahaica-Berbice",
+        "population": -1,
+        "latitude": 6.381106,
+        "longitude": -57.788115
+    },
+    {
+        "name": "Loo Lands",
+        "country": "Guyana",
+        "province": "Demerara-Mahaica",
+        "population": -1,
+        "latitude": 6.293372,
+        "longitude": -58.264604
+    },
+    {
+        "name": "La Penitence",
+        "country": "Guyana",
+        "province": "Demerara-Mahaica",
+        "population": -1,
+        "latitude": 6.7958333,
+        "longitude": -58.1552778
+    },
+    {
+        "name": "Lana",
+        "country": "Guyana",
+        "province": "Demerara-Mahaica",
+        "population": -1,
+        "latitude": 6.493949,
+        "longitude": -58.287843
+    },
+    {
+        "name": "Lamaha Gardens",
+        "country": "Guyana",
+        "province": "Demerara-Mahaica",
+        "population": -1,
+        "latitude": 6.811048,
+        "longitude": -58.133615
+    },
+    {
+        "name": "Lacytown",
+        "country": "Guyana",
+        "province": "Demerara-Mahaica",
+        "population": -1,
+        "latitude": 6.812843,
+        "longitude": -58.164107
+    },
+    {
+        "name": "Kingston",
+        "country": "Guyana",
+        "province": "Demerara-Mahaica",
+        "population": -1,
+        "latitude": 6.822732,
+        "longitude": -58.163193
+    },
+    {
+        "name": "Kartabu Point",
+        "country": "Guyana",
+        "province": "Cuyuni-Mazaruni",
+        "population": -1,
+        "latitude": 6.386392,
+        "longitude": -58.69423
+    },
+    {
+        "name": "Haswell",
+        "country": "Guyana",
+        "province": "East Berbice-Corentyne",
+        "population": -1,
+        "latitude": 6.240736,
+        "longitude": -57.344442
+    },
+    {
+        "name": "Hampshire",
+        "country": "Guyana",
+        "province": "East Berbice-Corentyne",
+        "population": -1,
+        "latitude": 6.250118,
+        "longitude": -57.366268
+    },
+    {
+        "name": "Gordon Table",
+        "country": "Guyana",
+        "province": "Mahaica-Berbice",
+        "population": -1,
+        "latitude": 6.392238,
+        "longitude": -57.792174
+    },
+    {
+        "name": "Good Hope",
+        "country": "Guyana",
+        "province": "Essequibo Islands-West Demerara",
+        "population": -1,
+        "latitude": 6.416747,
+        "longitude": -58.292243
+    },
+    {
+        "name": "Gold Hill",
+        "country": "Guyana",
+        "province": "Upper Demerara-Berbice",
+        "population": -1,
+        "latitude": 6.081312,
+        "longitude": -58.302812
+    },
+    {
+        "name": "Glasgow",
+        "country": "Guyana",
+        "province": "Essequibo Islands-West Demerara",
+        "population": -1,
+        "latitude": 6.496292,
+        "longitude": -58.294683
+    },
+    {
+        "name": "First Savannah",
+        "country": "Guyana",
+        "province": "Mahaica-Berbice",
+        "population": -1,
+        "latitude": 6.362168,
+        "longitude": -57.794814
+    },
+    {
+        "name": "Experience",
+        "country": "Guyana",
+        "province": "Essequibo Islands-West Demerara",
+        "population": -1,
+        "latitude": 6.401226,
+        "longitude": -58.296885
+    },
+    {
+        "name": "Elizabeth Ann",
+        "country": "Guyana",
+        "province": "Demerara-Mahaica",
+        "population": -1,
+        "latitude": 6.448077,
+        "longitude": -58.298279
+    },
+    {
+        "name": "Dora",
+        "country": "Guyana",
+        "province": "Demerara-Mahaica",
+        "population": -1,
+        "latitude": 6.289239,
+        "longitude": -58.264232
+    },
+    {
+        "name": "Cummingsburg",
+        "country": "Guyana",
+        "province": "Demerara-Mahaica",
+        "population": -1,
+        "latitude": 6.817571,
+        "longitude": -58.161209
+    },
+    {
+        "name": "Cove",
+        "country": "Guyana",
+        "province": "Demerara-Mahaica",
+        "population": -1,
+        "latitude": 6.739629,
+        "longitude": -57.974229
+    },
+    {
+        "name": "Christianburg",
+        "country": "Guyana",
+        "province": "Upper Demerara-Berbice",
+        "population": -1,
+        "latitude": 6.021283,
+        "longitude": -58.303808
+    },
+    {
+        "name": "Charlestown",
+        "country": "Guyana",
+        "province": "Demerara-Mahaica",
+        "population": -1,
+        "latitude": 6.803794,
+        "longitude": -58.165965
+    },
+    {
+        "name": "Campbellville",
+        "country": "Guyana",
+        "province": "Demerara-Mahaica",
+        "population": -1,
+        "latitude": 6.816653,
+        "longitude": -58.138964
+    },
+    {
+        "name": "Blygezight Gardens",
+        "country": "Guyana",
+        "province": "Demerara-Mahaica",
+        "population": -1,
+        "latitude": 6.823358,
+        "longitude": -58.1333
+    },
+    {
+        "name": "Blygezight",
+        "country": "Guyana",
+        "province": "Demerara-Mahaica",
+        "population": -1,
+        "latitude": 6.81669,
+        "longitude": -58.132717
+    },
+    {
+        "name": "Blenheim",
+        "country": "Guyana",
+        "province": "Mahaica-Berbice",
+        "population": -1,
+        "latitude": 6.574747,
+        "longitude": -57.801408
+    },
+    {
+        "name": "Belvidere",
+        "country": "Guyana",
+        "province": "East Berbice-Corentyne",
+        "population": -1,
+        "latitude": 6.25024,
+        "longitude": -57.370769
+    },
+    {
+        "name": "Belle Plaine",
+        "country": "Guyana",
+        "province": "Essequibo Islands-West Demerara",
+        "population": -1,
+        "latitude": 6.95955,
+        "longitude": -58.46517
+    },
+    {
+        "name": "Bel Air Springs",
+        "country": "Guyana",
+        "province": "Demerara-Mahaica",
+        "population": -1,
+        "latitude": 6.826424,
+        "longitude": -58.12936
+    },
+    {
+        "name": "Bel Air Park",
+        "country": "Guyana",
+        "province": "Demerara-Mahaica",
+        "population": -1,
+        "latitude": 6.812096,
+        "longitude": -58.144891
+    },
+    {
+        "name": "Bel Air Gardens",
+        "country": "Guyana",
+        "province": "Demerara-Mahaica",
+        "population": -1,
+        "latitude": 6.825676,
+        "longitude": -58.133218
+    },
+    {
+        "name": "Bel Air",
+        "country": "Guyana",
+        "province": "Demerara-Mahaica",
+        "population": -1,
+        "latitude": 6.823308,
+        "longitude": -58.130015
+    },
+    {
+        "name": "Alexanderville",
+        "country": "Guyana",
+        "province": "Demerara-Mahaica",
+        "population": -1,
+        "latitude": 6.816667,
+        "longitude": -58.133333
+    },
+    {
+        "name": "Alexander Village",
+        "country": "Guyana",
+        "province": "Demerara-Mahaica",
+        "population": -1,
+        "latitude": 6.797115,
+        "longitude": -58.166094
+    },
+    {
+        "name": "Albouystown",
+        "country": "Guyana",
+        "province": "Demerara-Mahaica",
+        "population": -1,
+        "latitude": 6.800614,
+        "longitude": -58.16371
+    },
+    {
+        "name": "Alberttown",
+        "country": "Guyana",
+        "province": "Demerara-Mahaica",
+        "population": -1,
+        "latitude": 6.81527,
+        "longitude": -58.154432
+    },
+    {
+        "name": "Wortmanville",
+        "country": "Guyana",
+        "province": "Demerara-Mahaica",
+        "population": -1,
+        "latitude": 6.805491,
+        "longitude": -58.155705
+    },
+    {
+        "name": "Williamsburg",
+        "country": "Guyana",
+        "province": "East Berbice-Corentyne",
+        "population": -1,
+        "latitude": 6.244827,
+        "longitude": -57.36268
+    },
+    {
+        "name": "Wash Clothes",
+        "country": "Guyana",
+        "province": "Mahaica-Berbice",
+        "population": -1,
+        "latitude": 6.501501,
+        "longitude": -57.814502
+    },
+    {
+        "name": "Warida",
+        "country": "Guyana",
+        "province": "Demerara-Mahaica",
+        "population": -1,
+        "latitude": 6.315613,
+        "longitude": -58.286113
+    },
+    {
+        "name": "Uit",
+        "country": "Guyana",
+        "province": "Demerara-Mahaica",
+        "population": -1,
+        "latitude": 6.452288,
+        "longitude": -58.302818
+    },
+    {
+        "name": "Tain",
+        "country": "Guyana",
+        "province": "East Berbice-Corentyne",
+        "population": -1,
+        "latitude": 6.238978,
+        "longitude": -57.336317
+    },
+    {
+        "name": "Susannahs Rust",
+        "country": "Guyana",
+        "province": "Demerara-Mahaica",
+        "population": -1,
+        "latitude": 6.362019,
+        "longitude": -58.307562
+    },
+    {
+        "name": "Subryanville",
+        "country": "Guyana",
+        "province": "Demerara-Mahaica",
+        "population": -1,
+        "latitude": 6.825072,
+        "longitude": -58.137078
+    },
+    {
+        "name": "Stena",
+        "country": "Guyana",
+        "province": "Essequibo Islands-West Demerara",
+        "population": -1,
+        "latitude": 6.376293,
+        "longitude": -58.314383
+    },
+    {
+        "name": "Smythfield",
+        "country": "Guyana",
+        "province": "East Berbice-Corentyne",
+        "population": -1,
+        "latitude": 6.249881,
+        "longitude": -57.508474
+    },
+    {
+        "name": "Sans Souci",
+        "country": "Guyana",
+        "province": "Demerara-Mahaica",
+        "population": -1,
+        "latitude": 6.441461,
+        "longitude": -58.292264
+    },
+    {
+        "name": "Sand Hills",
+        "country": "Guyana",
+        "province": "Essequibo Islands-West Demerara",
+        "population": -1,
+        "latitude": 6.478603,
+        "longitude": -58.31408
+    },
+    {
+        "name": "Robbstown",
+        "country": "Guyana",
+        "province": "Demerara-Mahaica",
+        "population": -1,
+        "latitude": 6.813174,
+        "longitude": -58.16686
+    },
+    {
+        "name": "Riverview",
+        "country": "Guyana",
+        "province": "Upper Demerara-Berbice",
+        "population": -1,
+        "latitude": 6.438428,
+        "longitude": -58.592541
+    },
+    {
+        "name": "Resource",
+        "country": "Guyana",
+        "province": "East Berbice-Corentyne",
+        "population": -1,
+        "latitude": 6.239979,
+        "longitude": -57.340906
+    },
+    {
+        "name": "Queenstown",
+        "country": "Guyana",
+        "province": "Demerara-Mahaica",
+        "population": -1,
+        "latitude": 6.815476,
+        "longitude": -58.150261
+    },
+    {
+        "name": "Princess Carolina",
+        "country": "Guyana",
+        "province": "Essequibo Islands-West Demerara",
+        "population": -1,
+        "latitude": 6.489308,
+        "longitude": -58.303638
+    },
+    {
+        "name": "Prashad Nagar",
+        "country": "Guyana",
+        "province": "Demerara-Mahaica",
+        "population": -1,
+        "latitude": 6.818173,
+        "longitude": -58.131475
+    },
+    {
+        "name": "Pine Ground",
+        "country": "Guyana",
+        "province": "Mahaica-Berbice",
+        "population": -1,
+        "latitude": 6.415055,
+        "longitude": -57.783134
+    },
+    {
+        "name": "Novar",
+        "country": "Guyana",
+        "province": "Mahaica-Berbice",
+        "population": -1,
+        "latitude": 6.554011,
+        "longitude": -57.763325
+    },
+    {
+        "name": "Newtown",
+        "country": "Guyana",
+        "province": "Demerara-Mahaica",
+        "population": -1,
+        "latitude": 6.813765,
+        "longitude": -58.144441
+    },
+    {
+        "name": "New Haven",
+        "country": "Guyana",
+        "province": "Demerara-Mahaica",
+        "population": -1,
+        "latitude": 6.0833333,
+        "longitude": -58.1333333
+    },
+    {
+        "name": "Monkey Jump",
+        "country": "Guyana",
+        "province": "Upper Demerara-Berbice",
+        "population": -1,
+        "latitude": 6.25,
+        "longitude": -58.566667
+    },
+    {
+        "name": "Mon Desir",
+        "country": "Guyana",
+        "province": "Essequibo Islands-West Demerara",
+        "population": -1,
+        "latitude": 6.720913,
+        "longitude": -58.256795
+    },
+    {
+        "name": "Bara Bara",
+        "country": "Guyana",
+        "province": "Mahaica-Berbice",
+        "population": -1,
+        "latitude": 6.453257,
+        "longitude": -57.780139
+    },
+    {
+        "name": "Yarow Creek",
+        "country": "Guyana",
+        "province": "Mahaica-Berbice",
+        "population": -1,
+        "latitude": 6.443958,
+        "longitude": -57.777699
+    },
+    {
+        "name": "Amsterdam",
+        "country": "Guyana",
+        "province": "East Berbice-Corentyne",
+        "population": -1,
+        "latitude": 6.255717,
+        "longitude": -57.516441
+    },
+    {
+        "name": "New Haven",
+        "country": "Guyana",
+        "province": "Demerara-Mahaica",
+        "population": -1,
+        "latitude": 6.821789,
+        "longitude": -58.129779
+    },
+    {
+        "name": "Riverview",
+        "country": "Guyana",
+        "province": "Demerara-Mahaica",
+        "population": -1,
+        "latitude": 6.798391,
+        "longitude": -58.169155
+    },
+    {
+        "name": "Thomas Lands",
+        "country": "Guyana",
+        "province": "Demerara-Mahaica",
+        "population": -1,
+        "latitude": 6.821925,
+        "longitude": -58.152979
+    },
+    {
+        "name": "Tucville",
+        "country": "Guyana",
+        "province": "Demerara-Mahaica",
+        "population": -1,
+        "latitude": 6.793018,
+        "longitude": -58.141339
+    },
+    {
+        "name": "Festival City",
+        "country": "Guyana",
+        "province": "Demerara-Mahaica",
+        "population": -1,
+        "latitude": 6.788596,
+        "longitude": -58.134243
+    },
+    {
+        "name": "West Ruimveldt",
+        "country": "Guyana",
+        "province": "Demerara-Mahaica",
+        "population": -1,
+        "latitude": 6.795197,
+        "longitude": -58.159883
+    },
+    {
+        "name": "South Ruimveldt Park",
+        "country": "Guyana",
+        "province": "Demerara-Mahaica",
+        "population": -1,
+        "latitude": 6.78539,
+        "longitude": -58.135912
+    },
+    {
+        "name": "South Ruimveldt Gardens",
+        "country": "Guyana",
+        "province": "Demerara-Mahaica",
+        "population": -1,
+        "latitude": 6.787726,
+        "longitude": -58.144711
+    },
+    {
+        "name": "East Ruimveldt",
+        "country": "Guyana",
+        "province": "Demerara-Mahaica",
+        "population": -1,
+        "latitude": 6.793021,
+        "longitude": -58.149434
+    },
+    {
+        "name": "Roxanne Burnham Gardens",
+        "country": "Guyana",
+        "province": "Demerara-Mahaica",
+        "population": -1,
+        "latitude": 6.789988,
+        "longitude": -58.153287
+    },
+    {
+        "name": "Meadow Brook Gardens",
+        "country": "Guyana",
+        "province": "Demerara-Mahaica",
+        "population": -1,
+        "latitude": 6.79749,
+        "longitude": -58.138914
+    },
+    {
+        "name": "Greenfield Park",
+        "country": "Guyana",
+        "province": "Demerara-Mahaica",
+        "population": -1,
+        "latitude": 6.759692,
+        "longitude": -58.175501
+    },
+    {
+        "name": "Nandy Park",
+        "country": "Guyana",
+        "province": "Demerara-Mahaica",
+        "population": -1,
+        "latitude": 6.764102,
+        "longitude": -58.17486
+    },
+    {
+        "name": "Republic Park",
+        "country": "Guyana",
+        "province": "Demerara-Mahaica",
+        "population": -1,
+        "latitude": 6.764864,
+        "longitude": -58.167402
+    },
+    {
+        "name": "New Providence",
+        "country": "Guyana",
+        "province": "Demerara-Mahaica",
+        "population": -1,
+        "latitude": 6.755121,
+        "longitude": -58.179751
+    },
+    {
+        "name": "Melanie Damishana",
+        "country": "Guyana",
+        "province": "Demerara-Mahaica",
+        "population": -1,
+        "latitude": 6.78353,
+        "longitude": -58.001623
+    },
+    {
+        "name": "Fort Canje",
+        "country": "Guyana",
+        "province": "East Berbice-Corentyne",
+        "population": -1,
+        "latitude": 6.262298,
+        "longitude": -57.50986
+    },
+    {
+        "name": "Santa Mission",
+        "country": "Guyana",
+        "province": "Essequibo Islands-West Demerara",
+        "population": -1,
+        "latitude": 6.564111,
+        "longitude": -58.330999
+    },
+    {
+        "name": "Goodmans Freetown",
+        "country": "Guyana",
+        "province": "Essequibo Islands-West Demerara",
+        "population": -1,
+        "latitude": 6.881251,
+        "longitude": -58.468491
+    },
+    {
+        "name": "Alliance",
+        "country": "Guyana",
+        "province": "Demerara-Mahaica",
+        "population": -1,
+        "latitude": 6.502695,
+        "longitude": -58.279235
+    },
+    {
+        "name": "Sophia",
+        "country": "Guyana",
+        "province": "Demerara-Mahaica",
+        "population": -1,
+        "latitude": 6.8146,
+        "longitude": -58.1173
+    }
+]

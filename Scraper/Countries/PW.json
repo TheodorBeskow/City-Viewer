@@ -1,0 +1,690 @@
+[
+    {
+        "name": "Koror",
+        "country": "Palau",
+        "province": "Koror",
+        "population": 14000,
+        "latitude": 7.33978099515575,
+        "longitude": 134.473259747028
+    },
+    {
+        "name": "Ulimang",
+        "country": "Palau",
+        "province": "Ngaraard",
+        "population": 581,
+        "latitude": 7.62415801994586,
+        "longitude": 134.642080664635
+    },
+    {
+        "name": "Angaur",
+        "country": "Palau",
+        "province": "Angaur",
+        "population": 320,
+        "latitude": 6.90331462016765,
+        "longitude": 134.131329059601
+    },
+    {
+        "name": "Melekeok Village",
+        "country": "Palau",
+        "province": "Melekeok",
+        "population": 271,
+        "latitude": 7.495674934303826,
+        "longitude": 134.63670551776886
+    },
+    {
+        "name": "Ngchesar Hamlet",
+        "country": "Palau",
+        "province": "Ngchesar",
+        "population": 300,
+        "latitude": 7.46931526720954,
+        "longitude": 134.60991024971
+    },
+    {
+        "name": "Mengellang",
+        "country": "Palau",
+        "province": "Ngarchelong",
+        "population": 488,
+        "latitude": 7.69570282180834,
+        "longitude": 134.630541801453
+    },
+    {
+        "name": "Koror Town",
+        "country": "Palau",
+        "province": "Koror",
+        "population": 12676,
+        "latitude": 7.34256890844742,
+        "longitude": 134.478884339333
+    },
+    {
+        "name": "Kloulklubed",
+        "country": "Palau",
+        "province": "Peleliu",
+        "population": 702,
+        "latitude": 7.04191767998956,
+        "longitude": 134.255606532097
+    },
+    {
+        "name": "Ngerkeai",
+        "country": "Palau",
+        "province": "Ngiwal",
+        "population": 223,
+        "latitude": 7.55455823285399,
+        "longitude": 134.636120796204
+    },
+    {
+        "name": "Ngchemiangel",
+        "country": "Palau",
+        "province": "Aimeliik",
+        "population": 270,
+        "latitude": 7.44613489160599,
+        "longitude": 134.476776123047
+    },
+    {
+        "name": "Ngerulmud",
+        "country": "Palau",
+        "province": "Melekeok",
+        "population": -1,
+        "latitude": 7.5007701017623765,
+        "longitude": 134.62380409240723
+    },
+    {
+        "name": "Ngetkib Hamlet",
+        "country": "Palau",
+        "province": "Airai",
+        "population": -1,
+        "latitude": 7.36438212984342,
+        "longitude": 134.514391422272
+    },
+    {
+        "name": "Chelab Hamlet",
+        "country": "Palau",
+        "province": "Ngaraard",
+        "population": -1,
+        "latitude": 7.63575422866118,
+        "longitude": 134.638845920563
+    },
+    {
+        "name": "Ngchesechang Hamlet",
+        "country": "Palau",
+        "province": "Airai",
+        "population": -1,
+        "latitude": 7.38472066182845,
+        "longitude": 134.580271840096
+    },
+    {
+        "name": "Ngerkeai Hamlet",
+        "country": "Palau",
+        "province": "Aimeliik",
+        "population": -1,
+        "latitude": 7.42071911076273,
+        "longitude": 134.497858285904
+    },
+    {
+        "name": "Ngerchemai Hamlet",
+        "country": "Palau",
+        "province": "Koror",
+        "population": -1,
+        "latitude": 7.35,
+        "longitude": 134.4889
+    },
+    {
+        "name": "Ngerbau Hamlet",
+        "country": "Palau",
+        "province": "Ngarchelong",
+        "population": -1,
+        "latitude": 7.70291139487231,
+        "longitude": 134.641056060791
+    },
+    {
+        "name": "Ngeburch Hamlet",
+        "country": "Palau",
+        "province": "Melekeok",
+        "population": -1,
+        "latitude": 7.50762029550661,
+        "longitude": 134.629318714142
+    },
+    {
+        "name": "Ngereklmadel",
+        "country": "Palau",
+        "province": "Ngatpang",
+        "population": -1,
+        "latitude": 7.48826077413096,
+        "longitude": 134.48561668396
+    },
+    {
+        "name": "Imeong Hamlet",
+        "country": "Palau",
+        "province": "Ngaremlengui",
+        "population": 132,
+        "latitude": 7.53133985232523,
+        "longitude": 134.527126550674
+    },
+    {
+        "name": "Chol Hamlet",
+        "country": "Palau",
+        "province": "Ngaraard",
+        "population": -1,
+        "latitude": 7.67063134420331,
+        "longitude": 134.635874032974
+    },
+    {
+        "name": "Ngerkeseuaol Hamlet",
+        "country": "Palau",
+        "province": "Koror",
+        "population": -1,
+        "latitude": 7.34300518337332,
+        "longitude": 134.489489793777
+    },
+    {
+        "name": "Ngerusar Hamlet",
+        "country": "Palau",
+        "province": "Airai",
+        "population": -1,
+        "latitude": 7.35987060515611,
+        "longitude": 134.529647827148
+    },
+    {
+        "name": "Ngkeklau Hamlet",
+        "country": "Palau",
+        "province": "Ngaraard",
+        "population": -1,
+        "latitude": 7.59296207565385,
+        "longitude": 134.640197753906
+    },
+    {
+        "name": "Angaur State",
+        "country": "Palau",
+        "province": "Angaur",
+        "population": 188,
+        "latitude": 6.90601199245814,
+        "longitude": 134.129971861839
+    },
+    {
+        "name": "Ngetkib",
+        "country": "Palau",
+        "province": "Airai",
+        "population": 62,
+        "latitude": 7.36450981383641,
+        "longitude": 134.514842033386
+    },
+    {
+        "name": "Ngardmau",
+        "country": "Palau",
+        "province": "Ngardmau",
+        "population": 221,
+        "latitude": 7.6098603820205,
+        "longitude": 134.574397802353
+    },
+    {
+        "name": "Tobi Village",
+        "country": "Palau",
+        "province": "Hatohobei",
+        "population": 44,
+        "latitude": 3.00488434663599,
+        "longitude": 131.12167596817
+    },
+    {
+        "name": "Sonsorol Village",
+        "country": "Palau",
+        "province": "Sonsorol",
+        "population": 30,
+        "latitude": 5.3260785884033,
+        "longitude": 132.219429016113
+    },
+    {
+        "name": "Ngermid Hamlet",
+        "country": "Palau",
+        "province": "Koror",
+        "population": -1,
+        "latitude": 7.33983419977145,
+        "longitude": 134.501634836197
+    },
+    {
+        "name": "Ngerbeched Hamlet",
+        "country": "Palau",
+        "province": "Koror",
+        "population": -1,
+        "latitude": 7.33249190266607,
+        "longitude": 134.476228952408
+    },
+    {
+        "name": "Oikull Hamlet",
+        "country": "Palau",
+        "province": "Airai",
+        "population": -1,
+        "latitude": 7.37191542248489,
+        "longitude": 134.587733745575
+    },
+    {
+        "name": "Ngchemiangel Hamlet",
+        "country": "Palau",
+        "province": "Aimeliik",
+        "population": -1,
+        "latitude": 7.44599659288828,
+        "longitude": 134.475960731506
+    },
+    {
+        "name": "Echol Hamlet",
+        "country": "Palau",
+        "province": "Koror",
+        "population": -1,
+        "latitude": 7.35133156786653,
+        "longitude": 134.446928501129
+    },
+    {
+        "name": "Chollei Hamlet",
+        "country": "Palau",
+        "province": "Ngarchelong",
+        "population": -1,
+        "latitude": 7.71984786904621,
+        "longitude": 134.614142775536
+    },
+    {
+        "name": "Ngeruikl Hamlet",
+        "country": "Palau",
+        "province": "Ngchesar",
+        "population": -1,
+        "latitude": 7.483622870931481,
+        "longitude": 134.61663722991943
+    },
+    {
+        "name": "Ngerngesang Hamlet",
+        "country": "Palau",
+        "province": "Ngchesar",
+        "population": -1,
+        "latitude": 7.45303913365411,
+        "longitude": 134.603751897812
+    },
+    {
+        "name": "Ngermetengel Hamlet",
+        "country": "Palau",
+        "province": "Ngaremlengui",
+        "population": -1,
+        "latitude": 7.52253292154757,
+        "longitude": 134.502675533295
+    },
+    {
+        "name": "Meyungs Hamlet",
+        "country": "Palau",
+        "province": "Koror",
+        "population": -1,
+        "latitude": 7.35380551145955,
+        "longitude": 134.459631443024
+    },
+    {
+        "name": "Medorm Hamlet",
+        "country": "Palau",
+        "province": "Aimeliik",
+        "population": -1,
+        "latitude": 7.45649653292567,
+        "longitude": 134.479007720947
+    },
+    {
+        "name": "Iyebukel Hamlet",
+        "country": "Palau",
+        "province": "Koror",
+        "population": -1,
+        "latitude": 7.34929387924477,
+        "longitude": 134.485938549042
+    },
+    {
+        "name": "Ngebei Hamlet",
+        "country": "Palau",
+        "province": "Ngarchelong",
+        "population": -1,
+        "latitude": 7.69887120678205,
+        "longitude": 134.636721611023
+    },
+    {
+        "name": "Ngereklmadel",
+        "country": "Palau",
+        "province": "Ngatpang",
+        "population": -1,
+        "latitude": 7.48821822478456,
+        "longitude": 134.484801292419
+    },
+    {
+        "name": "Ngerkesou Hamlet",
+        "country": "Palau",
+        "province": "Ngchesar",
+        "population": -1,
+        "latitude": 7.46363464625488,
+        "longitude": 134.604781866074
+    },
+    {
+        "name": "Ngersuul Hamlet",
+        "country": "Palau",
+        "province": "Ngchesar",
+        "population": -1,
+        "latitude": 7.43479425193467,
+        "longitude": 134.594954252243
+    },
+    {
+        "name": "Ngebuked Hamlet",
+        "country": "Palau",
+        "province": "Ngaraard",
+        "population": -1,
+        "latitude": 7.64190578068908,
+        "longitude": 134.630488157272
+    },
+    {
+        "name": "Kayangel",
+        "country": "Palau",
+        "province": "Kayangel",
+        "population": 188,
+        "latitude": 8.08227529657865,
+        "longitude": 134.717249572277
+    },
+    {
+        "name": "Echang Hamlet",
+        "country": "Palau",
+        "province": "Koror",
+        "population": -1,
+        "latitude": 7.34661241574553,
+        "longitude": 134.452893733978
+    },
+    {
+        "name": "Ngermelech Hamlet",
+        "country": "Palau",
+        "province": "Melekeok",
+        "population": -1,
+        "latitude": 7.4996638491784395,
+        "longitude": 134.63470458984375
+    },
+    {
+        "name": "Urdmang Hamlet",
+        "country": "Palau",
+        "province": "Ngardmau",
+        "population": -1,
+        "latitude": 7.61174797404608,
+        "longitude": 134.578651785851
+    },
+    {
+        "name": "Ngriil Hamlet",
+        "country": "Palau",
+        "province": "Ngarchelong",
+        "population": -1,
+        "latitude": 7.69032289242552,
+        "longitude": 134.636088609695
+    },
+    {
+        "name": "Ngerkeai",
+        "country": "Palau",
+        "province": "Ngiwal",
+        "population": -1,
+        "latitude": 7.55457950427562,
+        "longitude": 134.635820388794
+    },
+    {
+        "name": "Ngerbodel Hamlet",
+        "country": "Palau",
+        "province": "Koror",
+        "population": -1,
+        "latitude": 7.35,
+        "longitude": 134.4939
+    },
+    {
+        "name": "Medalaii Hamlet",
+        "country": "Palau",
+        "province": "Koror",
+        "population": -1,
+        "latitude": 7.34390965441687,
+        "longitude": 134.46587562561
+    },
+    {
+        "name": "Airai Hamlet",
+        "country": "Palau",
+        "province": "Airai",
+        "population": -1,
+        "latitude": 7.359849324270527,
+        "longitude": 134.55946326255798
+    },
+    {
+        "name": "Imelechol Hamlet",
+        "country": "Palau",
+        "province": "Peleliu",
+        "population": -1,
+        "latitude": 7.03966031852859,
+        "longitude": 134.265600442886
+    },
+    {
+        "name": "Ngersung Hamlet",
+        "country": "Palau",
+        "province": "Airai",
+        "population": -1,
+        "latitude": 7.3541247289836,
+        "longitude": 134.535763263702
+    },
+    {
+        "name": "Tngeronger Hamlet",
+        "country": "Palau",
+        "province": "Koror",
+        "population": -1,
+        "latitude": 7.3444948994057,
+        "longitude": 134.479115009308
+    },
+    {
+        "name": "Ngetbong Hamlet",
+        "country": "Palau",
+        "province": "Ngardmau",
+        "population": -1,
+        "latitude": 7.60827586173664,
+        "longitude": 134.574333429337
+    },
+    {
+        "name": "Ngeruluobel Hamlet",
+        "country": "Palau",
+        "province": "Airai",
+        "population": -1,
+        "latitude": 7.36447789284161,
+        "longitude": 134.524122476578
+    },
+    {
+        "name": "Meketii Hamlet",
+        "country": "Palau",
+        "province": "Koror",
+        "population": -1,
+        "latitude": 7.34708060895116,
+        "longitude": 134.482993483543
+    },
+    {
+        "name": "Ngerekebesang Hamlet",
+        "country": "Palau",
+        "province": "Koror",
+        "population": -1,
+        "latitude": 7.35443862599175,
+        "longitude": 134.446477890015
+    },
+    {
+        "name": "Ngerutoi Hamlet",
+        "country": "Palau",
+        "province": "Ngardmau",
+        "population": -1,
+        "latitude": 7.61092381516957,
+        "longitude": 134.576409459114
+    },
+    {
+        "name": "Iebukel Hamlet",
+        "country": "Palau",
+        "province": "Ngarchelong",
+        "population": -1,
+        "latitude": 7.70006200306503,
+        "longitude": 134.640970230103
+    },
+    {
+        "name": "Kloulklubed Hamlet",
+        "country": "Palau",
+        "province": "Peleliu",
+        "population": -1,
+        "latitude": 7.04193365184754,
+        "longitude": 134.2554885149
+    },
+    {
+        "name": "Idid Hamlet",
+        "country": "Palau",
+        "province": "Koror",
+        "population": -1,
+        "latitude": 7.34299454252656,
+        "longitude": 134.483728408813
+    },
+    {
+        "name": "Ertong Hamlet",
+        "country": "Palau",
+        "province": "Melekeok",
+        "population": -1,
+        "latitude": 7.50441858794575,
+        "longitude": 134.614802598953
+    },
+    {
+        "name": "Elechui Hamlet",
+        "country": "Palau",
+        "province": "Aimeliik",
+        "population": -1,
+        "latitude": 7.43161328818479,
+        "longitude": 134.479973316193
+    },
+    {
+        "name": "Eimelik Hamlet",
+        "country": "Palau",
+        "province": "Aimeliik",
+        "population": -1,
+        "latitude": 7.39730209993091,
+        "longitude": 134.510335922241
+    },
+    {
+        "name": "Elauesachel Hamlet",
+        "country": "Palau",
+        "province": "Aimeliik",
+        "population": -1,
+        "latitude": 7.45743268556974,
+        "longitude": 134.506162405014
+    },
+    {
+        "name": "Ngerubesang Hamlet",
+        "country": "Palau",
+        "province": "Melekeok",
+        "population": -1,
+        "latitude": 7.489686174835037,
+        "longitude": 134.63092803955078
+    },
+    {
+        "name": "Ngeruling Hamlet",
+        "country": "Palau",
+        "province": "Melekeok",
+        "population": -1,
+        "latitude": 7.50535463777737,
+        "longitude": 134.632494449615
+    },
+    {
+        "name": "Ngesang",
+        "country": "Palau",
+        "province": "Ngaraard",
+        "population": -1,
+        "latitude": 7.62694943316543,
+        "longitude": 134.64372754097
+    },
+    {
+        "name": "Ngardmau Village",
+        "country": "Palau",
+        "province": "Ngardmau",
+        "population": -1,
+        "latitude": 7.60988165070931,
+        "longitude": 134.574183225632
+    },
+    {
+        "name": "Yelch - New Village",
+        "country": "Palau",
+        "province": "Airai",
+        "population": -1,
+        "latitude": 7.36050903124874,
+        "longitude": 134.545698165894
+    },
+    {
+        "name": "Ordomel Hamlet",
+        "country": "Palau",
+        "province": "Airai",
+        "population": -1,
+        "latitude": 7.38110841954396,
+        "longitude": 134.555203914642
+    },
+    {
+        "name": "Ngeremecheluch Hamlet",
+        "country": "Palau",
+        "province": "Melekeok",
+        "population": -1,
+        "latitude": 7.49199446310194,
+        "longitude": 134.635959863663
+    },
+    {
+        "name": "Ngeraus Hamlet",
+        "country": "Palau",
+        "province": "Ngchesar",
+        "population": -1,
+        "latitude": 7.47666592367273,
+        "longitude": 134.613461494446
+    },
+    {
+        "name": "Pulo Anna Village",
+        "country": "Palau",
+        "province": "Sonsorol",
+        "population": -1,
+        "latitude": 4.65403698367676,
+        "longitude": 131.949008703232
+    },
+    {
+        "name": "Koska",
+        "country": "Palau",
+        "province": "Palau",
+        "population": -1,
+        "latitude": 7.03526,
+        "longitude": 134.25199
+    },
+    {
+        "name": "Ikelau Hamlet",
+        "country": "Palau",
+        "province": "Koror",
+        "population": -1,
+        "latitude": 7.34138777174384,
+        "longitude": 134.482011795044
+    },
+    {
+        "name": "Dilong Hamlet",
+        "country": "Palau",
+        "province": "Kayangel",
+        "population": -1,
+        "latitude": 8.08115464567842,
+        "longitude": 134.717574119568
+    },
+    {
+        "name": "Dimes Hamlet",
+        "country": "Palau",
+        "province": "Kayangel",
+        "population": -1,
+        "latitude": 8.07805292269531,
+        "longitude": 134.717745780945
+    },
+    {
+        "name": "Kesebalau",
+        "country": "Palau",
+        "province": "Palau",
+        "population": -1,
+        "latitude": 7.361769,
+        "longitude": 134.542669
+    },
+    {
+        "name": "former Eastern Village",
+        "country": "Palau",
+        "province": "Hatohobei",
+        "population": -1,
+        "latitude": 3.00507720014278,
+        "longitude": 131.125495433807
+    },
+    {
+        "name": "former Northern Village",
+        "country": "Palau",
+        "province": "Hatohobei",
+        "population": -1,
+        "latitude": 3.00970567407736,
+        "longitude": 131.12167596817
+    }
+]

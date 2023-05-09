@@ -1,0 +1,2682 @@
+[
+    {
+        "name": "Castries",
+        "country": "Saint Lucia",
+        "province": "Castries",
+        "population": 20000,
+        "latitude": 13.9957046356486,
+        "longitude": -61.0061359405518
+    },
+    {
+        "name": "Vieux Fort",
+        "country": "Saint Lucia",
+        "province": "Vieux-Fort",
+        "population": 4574,
+        "latitude": 13.7166667,
+        "longitude": -60.95
+    },
+    {
+        "name": "Soufrière",
+        "country": "Saint Lucia",
+        "province": "Soufrière",
+        "population": 2918,
+        "latitude": 13.856163904235814,
+        "longitude": -61.05660438537598
+    },
+    {
+        "name": "Micoud",
+        "country": "Saint Lucia",
+        "province": "Micoud",
+        "population": 3406,
+        "latitude": 13.8166667,
+        "longitude": -60.9
+    },
+    {
+        "name": "Gros Islet",
+        "country": "Saint Lucia",
+        "province": "Gros-Islet",
+        "population": 2362,
+        "latitude": 14.0666667,
+        "longitude": -60.95
+    },
+    {
+        "name": "Dennery",
+        "country": "Saint Lucia",
+        "province": "Dennery",
+        "population": 2870,
+        "latitude": 13.91409,
+        "longitude": -60.89132
+    },
+    {
+        "name": "Bisee",
+        "country": "Saint Lucia",
+        "province": "Castries",
+        "population": 12980,
+        "latitude": 14.02429,
+        "longitude": -60.974454
+    },
+    {
+        "name": "Praslin",
+        "country": "Saint Lucia",
+        "province": "Micoud",
+        "population": 1906,
+        "latitude": 13.87545,
+        "longitude": -60.89717
+    },
+    {
+        "name": "Canaries",
+        "country": "Saint Lucia",
+        "province": "Anse-la-Raye",
+        "population": 1862,
+        "latitude": 13.90224248547419,
+        "longitude": -61.0645866394043
+    },
+    {
+        "name": "Anse La Raye",
+        "country": "Saint Lucia",
+        "province": "Anse-la-Raye",
+        "population": 1256,
+        "latitude": 13.94619,
+        "longitude": -61.03879
+    },
+    {
+        "name": "Laborie",
+        "country": "Saint Lucia",
+        "province": "Laborie",
+        "population": 1131,
+        "latitude": 13.75,
+        "longitude": -60.9833333
+    },
+    {
+        "name": "Choiseul",
+        "country": "Saint Lucia",
+        "province": "Choiseul",
+        "population": 346,
+        "latitude": 13.772732606134637,
+        "longitude": -61.04930877685547
+    },
+    {
+        "name": "Vigie",
+        "country": "Saint Lucia",
+        "province": "Castries",
+        "population": -1,
+        "latitude": 14.01858,
+        "longitude": -60.99537
+    },
+    {
+        "name": "Soucis",
+        "country": "Saint Lucia",
+        "province": "Castries",
+        "population": -1,
+        "latitude": 13.977514,
+        "longitude": -60.999222
+    },
+    {
+        "name": "Mon Repos",
+        "country": "Saint Lucia",
+        "province": "Micoud",
+        "population": -1,
+        "latitude": 13.859773,
+        "longitude": -60.902248
+    },
+    {
+        "name": "Monchy",
+        "country": "Saint Lucia",
+        "province": "Gros-Islet",
+        "population": -1,
+        "latitude": 14.053192,
+        "longitude": -60.929868
+    },
+    {
+        "name": "Marc Marc",
+        "country": "Saint Lucia",
+        "province": "Castries",
+        "population": -1,
+        "latitude": 13.951310671256357,
+        "longitude": -60.959014892578125
+    },
+    {
+        "name": "La Tourney",
+        "country": "Saint Lucia",
+        "province": "Vieux-Fort",
+        "population": -1,
+        "latitude": 13.737176,
+        "longitude": -60.957059
+    },
+    {
+        "name": "Chassin",
+        "country": "Saint Lucia",
+        "province": "Castries",
+        "population": -1,
+        "latitude": 13.992377,
+        "longitude": -60.926362
+    },
+    {
+        "name": "Babonneau",
+        "country": "Saint Lucia",
+        "province": "Castries",
+        "population": -1,
+        "latitude": 14.003739,
+        "longitude": -60.943236
+    },
+    {
+        "name": "Au Tabor",
+        "country": "Saint Lucia",
+        "province": "Anse-la-Raye",
+        "population": -1,
+        "latitude": 13.9461,
+        "longitude": -61.04128
+    },
+    {
+        "name": "Roseau",
+        "country": "Saint Lucia",
+        "province": "Anse-la-Raye",
+        "population": -1,
+        "latitude": 13.95368,
+        "longitude": -61.02442
+    },
+    {
+        "name": "River Dorée",
+        "country": "Saint Lucia",
+        "province": "Choiseul",
+        "population": -1,
+        "latitude": 13.763725,
+        "longitude": -61.036473
+    },
+    {
+        "name": "Morne Fortune",
+        "country": "Saint Lucia",
+        "province": "Castries",
+        "population": -1,
+        "latitude": 13.995018,
+        "longitude": -60.997723
+    },
+    {
+        "name": "Malgrétoute",
+        "country": "Saint Lucia",
+        "province": "Soufrière",
+        "population": -1,
+        "latitude": 13.841302,
+        "longitude": -61.060872
+    },
+    {
+        "name": "Fond Saint Jacques",
+        "country": "Saint Lucia",
+        "province": "Soufrière",
+        "population": -1,
+        "latitude": 13.8333,
+        "longitude": -61.0167
+    },
+    {
+        "name": "Troumasse",
+        "country": "Saint Lucia",
+        "province": "Micoud",
+        "population": -1,
+        "latitude": 13.8166667,
+        "longitude": -60.9166667
+    },
+    {
+        "name": "Savannes Estate",
+        "country": "Saint Lucia",
+        "province": "Micoud",
+        "population": -1,
+        "latitude": 13.769054,
+        "longitude": -60.929829
+    },
+    {
+        "name": "Saint Urbain",
+        "country": "Saint Lucia",
+        "province": "Vieux-Fort",
+        "population": -1,
+        "latitude": 13.760812,
+        "longitude": -60.94386
+    },
+    {
+        "name": "Réduit",
+        "country": "Saint Lucia",
+        "province": "Gros-Islet",
+        "population": -1,
+        "latitude": 14.068665,
+        "longitude": -60.954854
+    },
+    {
+        "name": "Pointe Sable",
+        "country": "Saint Lucia",
+        "province": "Vieux-Fort",
+        "population": -1,
+        "latitude": 13.75,
+        "longitude": -60.95
+    },
+    {
+        "name": "Piaye",
+        "country": "Saint Lucia",
+        "province": "Laborie",
+        "population": -1,
+        "latitude": 13.753808,
+        "longitude": -61.020674
+    },
+    {
+        "name": "Massacré",
+        "country": "Saint Lucia",
+        "province": "Anse-la-Raye",
+        "population": -1,
+        "latitude": 13.950075,
+        "longitude": -61.036924
+    },
+    {
+        "name": "L’Ivrogne",
+        "country": "Saint Lucia",
+        "province": "Soufrière",
+        "population": -1,
+        "latitude": 13.800559,
+        "longitude": -61.066952
+    },
+    {
+        "name": "La Resource",
+        "country": "Saint Lucia",
+        "province": "Vieux-Fort",
+        "population": -1,
+        "latitude": 13.744609,
+        "longitude": -60.957687
+    },
+    {
+        "name": "La Point",
+        "country": "Saint Lucia",
+        "province": "Castries",
+        "population": -1,
+        "latitude": 13.9833333,
+        "longitude": -61.0333333
+    },
+    {
+        "name": "La Pearle",
+        "country": "Saint Lucia",
+        "province": "Soufrière",
+        "population": -1,
+        "latitude": 13.855996,
+        "longitude": -61.050386
+    },
+    {
+        "name": "La Fargue",
+        "country": "Saint Lucia",
+        "province": "Choiseul",
+        "population": -1,
+        "latitude": 13.773319,
+        "longitude": -61.039559
+    },
+    {
+        "name": "Grand Anse",
+        "country": "Saint Lucia",
+        "province": "Gros-Islet",
+        "population": -1,
+        "latitude": 14.000861,
+        "longitude": -60.899361
+    },
+    {
+        "name": "Desruisseaux",
+        "country": "Saint Lucia",
+        "province": "Micoud",
+        "population": -1,
+        "latitude": 13.798237,
+        "longitude": -60.935088
+    },
+    {
+        "name": "Ciceron",
+        "country": "Saint Lucia",
+        "province": "Castries",
+        "population": -1,
+        "latitude": 13.990088,
+        "longitude": -61.008064
+    },
+    {
+        "name": "Cap Estate",
+        "country": "Saint Lucia",
+        "province": "Gros-Islet",
+        "population": 677,
+        "latitude": 14.099555,
+        "longitude": -60.943461
+    },
+    {
+        "name": "Cafeière",
+        "country": "Saint Lucia",
+        "province": "Choiseul",
+        "population": -1,
+        "latitude": 13.785857,
+        "longitude": -61.0355
+    },
+    {
+        "name": "Belle Plaine",
+        "country": "Saint Lucia",
+        "province": "Soufrière",
+        "population": -1,
+        "latitude": 13.81833,
+        "longitude": -61.02742
+    },
+    {
+        "name": "Balembouche",
+        "country": "Saint Lucia",
+        "province": "Laborie",
+        "population": -1,
+        "latitude": 13.756894,
+        "longitude": -61.027296
+    },
+    {
+        "name": "Anse La Verdure",
+        "country": "Saint Lucia",
+        "province": "Canaries",
+        "population": -1,
+        "latitude": 13.911402,
+        "longitude": -61.056156
+    },
+    {
+        "name": "Morne Ciseaux",
+        "country": "Saint Lucia",
+        "province": "Castries",
+        "population": -1,
+        "latitude": 13.94434,
+        "longitude": -61.003124
+    },
+    {
+        "name": "Ti Rocher",
+        "country": "Saint Lucia",
+        "province": "Micoud",
+        "population": -1,
+        "latitude": 13.816607,
+        "longitude": -60.93019
+    },
+    {
+        "name": "Vige",
+        "country": "Saint Lucia",
+        "province": "Micoud",
+        "population": -1,
+        "latitude": 13.786677,
+        "longitude": -60.930446
+    },
+    {
+        "name": "Union Vale",
+        "country": "Saint Lucia",
+        "province": "Soufrière",
+        "population": -1,
+        "latitude": 13.811194,
+        "longitude": -61.056087
+    },
+    {
+        "name": "Union",
+        "country": "Saint Lucia",
+        "province": "Gros-Islet",
+        "population": -1,
+        "latitude": 14.0333333,
+        "longitude": -60.9666667
+    },
+    {
+        "name": "Trois Piton",
+        "country": "Saint Lucia",
+        "province": "Castries",
+        "population": -1,
+        "latitude": 13.9886,
+        "longitude": -60.972265
+    },
+    {
+        "name": "Theodorine",
+        "country": "Saint Lucia",
+        "province": "Canaries",
+        "population": -1,
+        "latitude": 13.92585,
+        "longitude": -61.047777
+    },
+    {
+        "name": "Sapphire",
+        "country": "Saint Lucia",
+        "province": "Laborie",
+        "population": -1,
+        "latitude": 13.752456,
+        "longitude": -61.006643
+    },
+    {
+        "name": "Saltibus",
+        "country": "Saint Lucia",
+        "province": "Laborie",
+        "population": -1,
+        "latitude": 13.80946,
+        "longitude": -61.011046
+    },
+    {
+        "name": "Saint Phillip",
+        "country": "Saint Lucia",
+        "province": "Soufrière",
+        "population": -1,
+        "latitude": 13.839817,
+        "longitude": -61.029877
+    },
+    {
+        "name": "Ruby",
+        "country": "Saint Lucia",
+        "province": "Soufrière",
+        "population": -1,
+        "latitude": 13.858871,
+        "longitude": -61.049603
+    },
+    {
+        "name": "Roblot",
+        "country": "Saint Lucia",
+        "province": "Choiseul",
+        "population": -1,
+        "latitude": 13.802213,
+        "longitude": -61.022824
+    },
+    {
+        "name": "Riche Fond",
+        "country": "Saint Lucia",
+        "province": "Dennery",
+        "population": -1,
+        "latitude": 13.936177,
+        "longitude": -60.920273
+    },
+    {
+        "name": "Pomme",
+        "country": "Saint Lucia",
+        "province": "Vieux-Fort",
+        "population": -1,
+        "latitude": 13.759356,
+        "longitude": -60.980695
+    },
+    {
+        "name": "Planard",
+        "country": "Saint Lucia",
+        "province": "Micoud",
+        "population": -1,
+        "latitude": 13.809327,
+        "longitude": -60.915603
+    },
+    {
+        "name": "Perou",
+        "country": "Saint Lucia",
+        "province": "Castries",
+        "population": -1,
+        "latitude": 13.95069,
+        "longitude": -61.01176
+    },
+    {
+        "name": "Patience",
+        "country": "Saint Lucia",
+        "province": "Micoud",
+        "population": -1,
+        "latitude": 13.851139,
+        "longitude": -60.909495
+    },
+    {
+        "name": "Old Settlement",
+        "country": "Saint Lucia",
+        "province": "Micoud",
+        "population": -1,
+        "latitude": 13.8833333,
+        "longitude": -60.9
+    },
+    {
+        "name": "Motête",
+        "country": "Saint Lucia",
+        "province": "Choiseul",
+        "population": -1,
+        "latitude": 13.813275,
+        "longitude": -61.023552
+    },
+    {
+        "name": "Morne Sion",
+        "country": "Saint Lucia",
+        "province": "Choiseul",
+        "population": -1,
+        "latitude": 13.787072,
+        "longitude": -61.056399
+    },
+    {
+        "name": "Morne Paul",
+        "country": "Saint Lucia",
+        "province": "Laborie",
+        "population": -1,
+        "latitude": 13.769018,
+        "longitude": -61.002799
+    },
+    {
+        "name": "Morne Panache",
+        "country": "Saint Lucia",
+        "province": "Dennery",
+        "population": -1,
+        "latitude": 13.928959,
+        "longitude": -60.933651
+    },
+    {
+        "name": "Monier",
+        "country": "Saint Lucia",
+        "province": "Gros-Islet",
+        "population": -1,
+        "latitude": 14.023354,
+        "longitude": -60.937688
+    },
+    {
+        "name": "Mongouge",
+        "country": "Saint Lucia",
+        "province": "Choiseul",
+        "population": -1,
+        "latitude": 13.802283,
+        "longitude": -61.044275
+    },
+    {
+        "name": "Mondesir",
+        "country": "Saint Lucia",
+        "province": "Choiseul",
+        "population": -1,
+        "latitude": 13.8,
+        "longitude": -61.0166667
+    },
+    {
+        "name": "Millet",
+        "country": "Saint Lucia",
+        "province": "Anse-la-Raye",
+        "population": -1,
+        "latitude": 13.902941,
+        "longitude": -60.9949
+    },
+    {
+        "name": "Migny",
+        "country": "Saint Lucia",
+        "province": "Soufrière",
+        "population": -1,
+        "latitude": 13.83675,
+        "longitude": -61.02021
+    },
+    {
+        "name": "Marquis",
+        "country": "Saint Lucia",
+        "province": "Gros-Islet",
+        "population": -1,
+        "latitude": 14.025954,
+        "longitude": -60.911013
+    },
+    {
+        "name": "Marisule Estate",
+        "country": "Saint Lucia",
+        "province": "Gros-Islet",
+        "population": -1,
+        "latitude": 14.045463,
+        "longitude": -60.968837
+    },
+    {
+        "name": "Marigot Bay",
+        "country": "Saint Lucia",
+        "province": "Castries",
+        "population": -1,
+        "latitude": 13.96376,
+        "longitude": -61.025979
+    },
+    {
+        "name": "Marigot",
+        "country": "Saint Lucia",
+        "province": "Castries",
+        "population": -1,
+        "latitude": 13.967355,
+        "longitude": -61.013681
+    },
+    {
+        "name": "Mamin",
+        "country": "Saint Lucia",
+        "province": "Soufrière",
+        "population": -1,
+        "latitude": 13.86416,
+        "longitude": -61.06939
+    },
+    {
+        "name": "Mal Mason",
+        "country": "Saint Lucia",
+        "province": "Soufrière",
+        "population": -1,
+        "latitude": 13.872868,
+        "longitude": -61.048251
+    },
+    {
+        "name": "Mahaut",
+        "country": "Saint Lucia",
+        "province": "Soufrière",
+        "population": -1,
+        "latitude": 13.8802,
+        "longitude": -61.07265
+    },
+    {
+        "name": "Lumière",
+        "country": "Saint Lucia",
+        "province": "Dennery",
+        "population": -1,
+        "latitude": 13.940372,
+        "longitude": -60.896153
+    },
+    {
+        "name": "Londonderry",
+        "country": "Saint Lucia",
+        "province": "Laborie",
+        "population": -1,
+        "latitude": 13.78008,
+        "longitude": -61.00692
+    },
+    {
+        "name": "L’Hermitage",
+        "country": "Saint Lucia",
+        "province": "Gros-Islet",
+        "population": -1,
+        "latitude": 14.016667,
+        "longitude": -60.916667
+    },
+    {
+        "name": "La Ressource",
+        "country": "Saint Lucia",
+        "province": "Dennery",
+        "population": -1,
+        "latitude": 13.946718,
+        "longitude": -60.916252
+    },
+    {
+        "name": "La Pointe",
+        "country": "Saint Lucia",
+        "province": "Micoud",
+        "population": -1,
+        "latitude": 13.846005,
+        "longitude": -60.902361
+    },
+    {
+        "name": "La Pointe",
+        "country": "Saint Lucia",
+        "province": "Choiseul",
+        "population": -1,
+        "latitude": 13.794561,
+        "longitude": -61.065588
+    },
+    {
+        "name": "La Haut",
+        "country": "Saint Lucia",
+        "province": "Laborie",
+        "population": -1,
+        "latitude": 13.790539,
+        "longitude": -60.998043
+    },
+    {
+        "name": "La Croix Maingot",
+        "country": "Saint Lucia",
+        "province": "Castries",
+        "population": -1,
+        "latitude": 13.965771,
+        "longitude": -61.003002
+    },
+    {
+        "name": "La Borne",
+        "country": "Saint Lucia",
+        "province": "Gros-Islet",
+        "population": -1,
+        "latitude": 14.047925,
+        "longitude": -60.926466
+    },
+    {
+        "name": "L’Abbayée",
+        "country": "Saint Lucia",
+        "province": "Castries",
+        "population": -1,
+        "latitude": 13.92715,
+        "longitude": -60.97193
+    },
+    {
+        "name": "Jean Baptiste",
+        "country": "Saint Lucia",
+        "province": "Castries",
+        "population": -1,
+        "latitude": 13.947925,
+        "longitude": -61.014167
+    },
+    {
+        "name": "Jalousie",
+        "country": "Saint Lucia",
+        "province": "Soufrière",
+        "population": -1,
+        "latitude": 13.828311,
+        "longitude": -61.059936
+    },
+    {
+        "name": "H’Erelle",
+        "country": "Saint Lucia",
+        "province": "Laborie",
+        "population": -1,
+        "latitude": 13.756513,
+        "longitude": -60.988242
+    },
+    {
+        "name": "Hellene",
+        "country": "Saint Lucia",
+        "province": "Micoud",
+        "population": -1,
+        "latitude": 13.7833333,
+        "longitude": -60.9166667
+    },
+    {
+        "name": "Guesneau",
+        "country": "Saint Lucia",
+        "province": "Castries",
+        "population": -1,
+        "latitude": 13.99092,
+        "longitude": -60.963231
+    },
+    {
+        "name": "Grande Rivière",
+        "country": "Saint Lucia",
+        "province": "Dennery",
+        "population": -1,
+        "latitude": 13.932577,
+        "longitude": -60.933886
+    },
+    {
+        "name": "Grande Ravine",
+        "country": "Saint Lucia",
+        "province": "Dennery",
+        "population": -1,
+        "latitude": 13.941657,
+        "longitude": -60.926236
+    },
+    {
+        "name": "Grace",
+        "country": "Saint Lucia",
+        "province": "Vieux-Fort",
+        "population": -1,
+        "latitude": 13.781641,
+        "longitude": -60.968629
+    },
+    {
+        "name": "Girard",
+        "country": "Saint Lucia",
+        "province": "Castries",
+        "population": -1,
+        "latitude": 13.977881445793797,
+        "longitude": -60.957040786743164
+    },
+    {
+        "name": "Gentil",
+        "country": "Saint Lucia",
+        "province": "Laborie",
+        "population": -1,
+        "latitude": 13.769297,
+        "longitude": -60.989768
+    },
+    {
+        "name": "Garrand",
+        "country": "Saint Lucia",
+        "province": "Gros-Islet",
+        "population": -1,
+        "latitude": 14.00679,
+        "longitude": -60.931459
+    },
+    {
+        "name": "Forestière",
+        "country": "Saint Lucia",
+        "province": "Castries",
+        "population": -1,
+        "latitude": 13.959473805774623,
+        "longitude": -60.962533950805664
+    },
+    {
+        "name": "Fond Devaux",
+        "country": "Saint Lucia",
+        "province": "Micoud",
+        "population": -1,
+        "latitude": 13.85,
+        "longitude": -60.9166667
+    },
+    {
+        "name": "Fond Assor",
+        "country": "Saint Lucia",
+        "province": "Castries",
+        "population": -1,
+        "latitude": 13.995532,
+        "longitude": -60.93503
+    },
+    {
+        "name": "Fiette",
+        "country": "Saint Lucia",
+        "province": "Choiseul",
+        "population": -1,
+        "latitude": 13.794631,
+        "longitude": -61.053452
+    },
+    {
+        "name": "Durandeau",
+        "country": "Saint Lucia",
+        "province": "Anse-la-Raye",
+        "population": -1,
+        "latitude": 13.926301,
+        "longitude": -60.993513
+    },
+    {
+        "name": "Dugard",
+        "country": "Saint Lucia",
+        "province": "Choiseul",
+        "population": -1,
+        "latitude": 13.804398,
+        "longitude": -61.029122
+    },
+    {
+        "name": "Dugard",
+        "country": "Saint Lucia",
+        "province": "Micoud",
+        "population": -1,
+        "latitude": 13.811773,
+        "longitude": -60.912885
+    },
+    {
+        "name": "Diamond",
+        "country": "Saint Lucia",
+        "province": "Soufrière",
+        "population": -1,
+        "latitude": 13.851312,
+        "longitude": -61.046829
+    },
+    {
+        "name": "Despinoze",
+        "country": "Saint Lucia",
+        "province": "Dennery",
+        "population": -1,
+        "latitude": 13.94911,
+        "longitude": -60.911201
+    },
+    {
+        "name": "Descatieres",
+        "country": "Saint Lucia",
+        "province": "Choiseul",
+        "population": -1,
+        "latitude": 13.7666667,
+        "longitude": -61.05
+    },
+    {
+        "name": "Desbarra",
+        "country": "Saint Lucia",
+        "province": "Gros-Islet",
+        "population": -1,
+        "latitude": 13.993452,
+        "longitude": -60.908967
+    },
+    {
+        "name": "Derrière Morne",
+        "country": "Saint Lucia",
+        "province": "Vieux-Fort",
+        "population": -1,
+        "latitude": 13.743001,
+        "longitude": -60.960874
+    },
+    {
+        "name": "Derrière Lagoon",
+        "country": "Saint Lucia",
+        "province": "Anse-la-Raye",
+        "population": -1,
+        "latitude": 13.942863,
+        "longitude": -61.015727
+    },
+    {
+        "name": "Dernière Rivière",
+        "country": "Saint Lucia",
+        "province": "Dennery",
+        "population": -1,
+        "latitude": 13.953769,
+        "longitude": -60.924334
+    },
+    {
+        "name": "De Mailly",
+        "country": "Saint Lucia",
+        "province": "Micoud",
+        "population": -1,
+        "latitude": 13.796503,
+        "longitude": -60.951546
+    },
+    {
+        "name": "Delcer",
+        "country": "Saint Lucia",
+        "province": "Choiseul",
+        "population": -1,
+        "latitude": 13.796468,
+        "longitude": -61.061184
+    },
+    {
+        "name": "Deglos",
+        "country": "Saint Lucia",
+        "province": "Castries",
+        "population": -1,
+        "latitude": 13.961389601587546,
+        "longitude": -60.97506523132324
+    },
+    {
+        "name": "Debreuil",
+        "country": "Saint Lucia",
+        "province": "Choiseul",
+        "population": -1,
+        "latitude": 13.788216,
+        "longitude": -61.028545
+    },
+    {
+        "name": "Dauphin",
+        "country": "Saint Lucia",
+        "province": "Gros-Islet",
+        "population": -1,
+        "latitude": 14.039083,
+        "longitude": -60.905334
+    },
+    {
+        "name": "D’Aubaigon",
+        "country": "Saint Lucia",
+        "province": "Micoud",
+        "population": -1,
+        "latitude": 13.833333,
+        "longitude": -60.916667
+    },
+    {
+        "name": "Dame de Traversay",
+        "country": "Saint Lucia",
+        "province": "Anse-la-Raye",
+        "population": -1,
+        "latitude": 13.92207,
+        "longitude": -60.99185
+    },
+    {
+        "name": "Crown Lands",
+        "country": "Saint Lucia",
+        "province": "Castries",
+        "population": -1,
+        "latitude": 13.959009,
+        "longitude": -60.969288
+    },
+    {
+        "name": "Colombette",
+        "country": "Saint Lucia",
+        "province": "Soufrière",
+        "population": -1,
+        "latitude": 13.86643,
+        "longitude": -61.054735
+    },
+    {
+        "name": "Choc",
+        "country": "Saint Lucia",
+        "province": "Gros-Islet",
+        "population": 36,
+        "latitude": 14.031513407819228,
+        "longitude": -60.96940040588379
+    },
+    {
+        "name": "Château Belair",
+        "country": "Saint Lucia",
+        "province": "Soufrière",
+        "population": -1,
+        "latitude": 13.816777,
+        "longitude": -61.051579
+    },
+    {
+        "name": "Charlotte",
+        "country": "Saint Lucia",
+        "province": "Castries",
+        "population": -1,
+        "latitude": 14.000757,
+        "longitude": -60.996495
+    },
+    {
+        "name": "Carrière",
+        "country": "Saint Lucia",
+        "province": "Vieux-Fort",
+        "population": -1,
+        "latitude": 13.781502,
+        "longitude": -60.964098
+    },
+    {
+        "name": "Cabiche",
+        "country": "Saint Lucia",
+        "province": "Castries",
+        "population": -1,
+        "latitude": 14.004016,
+        "longitude": -60.947779
+    },
+    {
+        "name": "Bouton",
+        "country": "Saint Lucia",
+        "province": "Soufrière",
+        "population": -1,
+        "latitude": 13.8725,
+        "longitude": -61.07274
+    },
+    {
+        "name": "Bongalo",
+        "country": "Saint Lucia",
+        "province": "Laborie",
+        "population": -1,
+        "latitude": 13.765355,
+        "longitude": -61.02962
+    },
+    {
+        "name": "Bon Air",
+        "country": "Saint Lucia",
+        "province": "Gros-Islet",
+        "population": -1,
+        "latitude": 14.048448,
+        "longitude": -60.969496
+    },
+    {
+        "name": "Bois d’Orange",
+        "country": "Saint Lucia",
+        "province": "Gros-Islet",
+        "population": -1,
+        "latitude": 14.053802,
+        "longitude": -60.966555
+    },
+    {
+        "name": "Blanchard",
+        "country": "Saint Lucia",
+        "province": "Micoud",
+        "population": -1,
+        "latitude": 13.806097,
+        "longitude": -60.946322
+    },
+    {
+        "name": "Bexon",
+        "country": "Saint Lucia",
+        "province": "Castries",
+        "population": -1,
+        "latitude": 13.95256,
+        "longitude": -60.977817
+    },
+    {
+        "name": "Berre Denis",
+        "country": "Saint Lucia",
+        "province": "Castries",
+        "population": -1,
+        "latitude": 13.970337,
+        "longitude": -60.994726
+    },
+    {
+        "name": "Belvedere",
+        "country": "Saint Lucia",
+        "province": "Soufrière",
+        "population": -1,
+        "latitude": 13.87983,
+        "longitude": -61.04987
+    },
+    {
+        "name": "Belmont",
+        "country": "Saint Lucia",
+        "province": "Dennery",
+        "population": -1,
+        "latitude": 13.949692,
+        "longitude": -60.926653
+    },
+    {
+        "name": "Belle Vue",
+        "country": "Saint Lucia",
+        "province": "Soufrière",
+        "population": -1,
+        "latitude": 13.807327,
+        "longitude": -61.03643
+    },
+    {
+        "name": "Belle Vue",
+        "country": "Saint Lucia",
+        "province": "Vieux-Fort",
+        "population": -1,
+        "latitude": 13.791267,
+        "longitude": -60.956713
+    },
+    {
+        "name": "Belair",
+        "country": "Saint Lucia",
+        "province": "Castries",
+        "population": -1,
+        "latitude": 13.9471,
+        "longitude": -60.97888
+    },
+    {
+        "name": "Beauséjour",
+        "country": "Saint Lucia",
+        "province": "Soufrière",
+        "population": -1,
+        "latitude": 13.818707,
+        "longitude": -61.064651
+    },
+    {
+        "name": "Beauséjour",
+        "country": "Saint Lucia",
+        "province": "Vieux-Fort",
+        "population": -1,
+        "latitude": 13.75,
+        "longitude": -60.9666667
+    },
+    {
+        "name": "Banse",
+        "country": "Saint Lucia",
+        "province": "Laborie",
+        "population": -1,
+        "latitude": 13.783721,
+        "longitude": -60.994935
+    },
+    {
+        "name": "Balca",
+        "country": "Saint Lucia",
+        "province": "Laborie",
+        "population": -1,
+        "latitude": 13.771169,
+        "longitude": -61.022581
+    },
+    {
+        "name": "Balata",
+        "country": "Saint Lucia",
+        "province": "Castries",
+        "population": -1,
+        "latitude": 14.013968,
+        "longitude": -60.955985
+    },
+    {
+        "name": "Augier",
+        "country": "Saint Lucia",
+        "province": "Vieux-Fort",
+        "population": -1,
+        "latitude": 13.76324,
+        "longitude": -60.978927
+    },
+    {
+        "name": "Anse Noir",
+        "country": "Saint Lucia",
+        "province": "Laborie",
+        "population": -1,
+        "latitude": 13.7333333,
+        "longitude": -60.9833333
+    },
+    {
+        "name": "Anse Ger",
+        "country": "Saint Lucia",
+        "province": "Micoud",
+        "population": -1,
+        "latitude": 13.797751,
+        "longitude": -60.916395
+    },
+    {
+        "name": "Anse Canot",
+        "country": "Saint Lucia",
+        "province": "Dennery",
+        "population": -1,
+        "latitude": 13.905596,
+        "longitude": -60.896729
+    },
+    {
+        "name": "Annus",
+        "country": "Saint Lucia",
+        "province": "Laborie",
+        "population": -1,
+        "latitude": 13.772868,
+        "longitude": -61.002447
+    },
+    {
+        "name": "Angere",
+        "country": "Saint Lucia",
+        "province": "Micoud",
+        "population": -1,
+        "latitude": 13.7833333,
+        "longitude": -60.9166667
+    },
+    {
+        "name": "Anbre",
+        "country": "Saint Lucia",
+        "province": "Micoud",
+        "population": -1,
+        "latitude": 13.830184,
+        "longitude": -60.929691
+    },
+    {
+        "name": "Jacmel",
+        "country": "Saint Lucia",
+        "province": "Anse-la-Raye",
+        "population": -1,
+        "latitude": 13.9506,
+        "longitude": -61.01708
+    },
+    {
+        "name": "Cresslands",
+        "country": "Saint Lucia",
+        "province": "Soufrière",
+        "population": -1,
+        "latitude": 13.855219,
+        "longitude": -61.036426
+    },
+    {
+        "name": "Santa Lucia di Roverbella",
+        "country": "Saint Lucia",
+        "province": "Dennery",
+        "population": -1,
+        "latitude": 13.904,
+        "longitude": -60.974178
+    },
+    {
+        "name": "Cas en Bas",
+        "country": "Saint Lucia",
+        "province": "Gros-Islet",
+        "population": -1,
+        "latitude": 14.083282,
+        "longitude": -60.936373
+    },
+    {
+        "name": "Bocage",
+        "country": "Saint Lucia",
+        "province": "Castries",
+        "population": -1,
+        "latitude": 13.98892,
+        "longitude": -60.97202
+    },
+    {
+        "name": "Upper Bonne Terre",
+        "country": "Saint Lucia",
+        "province": "Gros-Islet",
+        "population": -1,
+        "latitude": 14.042764,
+        "longitude": -60.96793
+    },
+    {
+        "name": "Rodney Bay",
+        "country": "Saint Lucia",
+        "province": "Gros-Islet",
+        "population": -1,
+        "latitude": 14.06865,
+        "longitude": -60.94734
+    },
+    {
+        "name": "Bois d'Inde",
+        "country": "Saint Lucia",
+        "province": "Anse-la-Raye",
+        "population": -1,
+        "latitude": 13.94277,
+        "longitude": -61.01283
+    },
+    {
+        "name": "La Caye",
+        "country": "Saint Lucia",
+        "province": "Dennery",
+        "population": -1,
+        "latitude": 13.932414,
+        "longitude": -60.905855
+    },
+    {
+        "name": "La Treille",
+        "country": "Saint Lucia",
+        "province": "Castries",
+        "population": -1,
+        "latitude": 13.938632,
+        "longitude": -60.997084
+    },
+    {
+        "name": "Odsan",
+        "country": "Saint Lucia",
+        "province": "Castries",
+        "population": -1,
+        "latitude": 13.974177,
+        "longitude": -60.984642
+    },
+    {
+        "name": "Dubrassay",
+        "country": "Saint Lucia",
+        "province": "Castries",
+        "population": -1,
+        "latitude": 13.983267,
+        "longitude": -60.973317
+    },
+    {
+        "name": "Tourat",
+        "country": "Saint Lucia",
+        "province": "Castries",
+        "population": -1,
+        "latitude": 13.973634,
+        "longitude": -60.996692
+    },
+    {
+        "name": "Morne Saint Joseph",
+        "country": "Saint Lucia",
+        "province": "Castries",
+        "population": -1,
+        "latitude": 13.973543,
+        "longitude": -61.005782
+    },
+    {
+        "name": "Barre Duchaussée",
+        "country": "Saint Lucia",
+        "province": "Castries",
+        "population": -1,
+        "latitude": 13.962963,
+        "longitude": -61.000553
+    },
+    {
+        "name": "Fond Manger",
+        "country": "Saint Lucia",
+        "province": "Castries",
+        "population": -1,
+        "latitude": 13.965319,
+        "longitude": -61.008012
+    },
+    {
+        "name": "Coolietown",
+        "country": "Saint Lucia",
+        "province": "Castries",
+        "population": -1,
+        "latitude": 13.958041,
+        "longitude": -61.013991
+    },
+    {
+        "name": "Zenon",
+        "country": "Saint Lucia",
+        "province": "Soufrière",
+        "population": -1,
+        "latitude": 13.857657,
+        "longitude": -61.035635
+    },
+    {
+        "name": "Ravine Claire",
+        "country": "Saint Lucia",
+        "province": "Soufrière",
+        "population": -1,
+        "latitude": 13.848348,
+        "longitude": -61.028062
+    },
+    {
+        "name": "Saphire",
+        "country": "Saint Lucia",
+        "province": "Soufrière",
+        "population": -1,
+        "latitude": 13.848658,
+        "longitude": -61.047307
+    },
+    {
+        "name": "Plat Pays",
+        "country": "Saint Lucia",
+        "province": "Soufrière",
+        "population": -1,
+        "latitude": 13.839128,
+        "longitude": -61.056039
+    },
+    {
+        "name": "Bois d’Inde",
+        "country": "Saint Lucia",
+        "province": "Soufrière",
+        "population": -1,
+        "latitude": 13.833722,
+        "longitude": -61.034809
+    },
+    {
+        "name": "Mocha",
+        "country": "Saint Lucia",
+        "province": "Soufrière",
+        "population": -1,
+        "latitude": 13.83506,
+        "longitude": -61.028892
+    },
+    {
+        "name": "Morne Fond Saint Jacques",
+        "country": "Saint Lucia",
+        "province": "Soufrière",
+        "population": -1,
+        "latitude": 13.842148,
+        "longitude": -61.003915
+    },
+    {
+        "name": "Morne Bonin",
+        "country": "Saint Lucia",
+        "province": "Soufrière",
+        "population": -1,
+        "latitude": 13.831008,
+        "longitude": -61.031305
+    },
+    {
+        "name": "Etangs",
+        "country": "Saint Lucia",
+        "province": "Soufrière",
+        "population": -1,
+        "latitude": 13.81926,
+        "longitude": -61.039279
+    },
+    {
+        "name": "Saint Rémy",
+        "country": "Saint Lucia",
+        "province": "Soufrière",
+        "population": -1,
+        "latitude": 13.818626,
+        "longitude": -61.044926
+    },
+    {
+        "name": "Raveneau",
+        "country": "Saint Lucia",
+        "province": "Choiseul",
+        "population": -1,
+        "latitude": 13.810649,
+        "longitude": -61.045822
+    },
+    {
+        "name": "Victoria De Ville",
+        "country": "Saint Lucia",
+        "province": "Choiseul",
+        "population": -1,
+        "latitude": 13.810015,
+        "longitude": -61.042984
+    },
+    {
+        "name": "Espérance",
+        "country": "Saint Lucia",
+        "province": "Choiseul",
+        "population": -1,
+        "latitude": 13.80778,
+        "longitude": -61.04697
+    },
+    {
+        "name": "Derrière Morne",
+        "country": "Saint Lucia",
+        "province": "Choiseul",
+        "population": -1,
+        "latitude": 13.804851,
+        "longitude": -61.050201
+    },
+    {
+        "name": "Bois d’Inde Franciou",
+        "country": "Saint Lucia",
+        "province": "Choiseul",
+        "population": -1,
+        "latitude": 13.804096,
+        "longitude": -61.054913
+    },
+    {
+        "name": "Ponyon",
+        "country": "Saint Lucia",
+        "province": "Choiseul",
+        "population": -1,
+        "latitude": 13.79558,
+        "longitude": -61.044886
+    },
+    {
+        "name": "Martin",
+        "country": "Saint Lucia",
+        "province": "Choiseul",
+        "population": -1,
+        "latitude": 13.789207,
+        "longitude": -61.045641
+    },
+    {
+        "name": "Dacretin",
+        "country": "Saint Lucia",
+        "province": "Choiseul",
+        "population": -1,
+        "latitude": 13.800291,
+        "longitude": -61.037759
+    },
+    {
+        "name": "Morne Jacques",
+        "country": "Saint Lucia",
+        "province": "Choiseul",
+        "population": -1,
+        "latitude": 13.811283,
+        "longitude": -61.0319
+    },
+    {
+        "name": "Mavay",
+        "country": "Saint Lucia",
+        "province": "Choiseul",
+        "population": -1,
+        "latitude": 13.80923,
+        "longitude": -61.032897
+    },
+    {
+        "name": "Monzie",
+        "country": "Saint Lucia",
+        "province": "Choiseul",
+        "population": -1,
+        "latitude": 13.808596,
+        "longitude": -61.021965
+    },
+    {
+        "name": "Lamaze",
+        "country": "Saint Lucia",
+        "province": "Choiseul",
+        "population": -1,
+        "latitude": 13.806059,
+        "longitude": -61.01979
+    },
+    {
+        "name": "Dupré",
+        "country": "Saint Lucia",
+        "province": "Choiseul",
+        "population": -1,
+        "latitude": 13.793073,
+        "longitude": -61.026072
+    },
+    {
+        "name": "Newfield",
+        "country": "Saint Lucia",
+        "province": "Choiseul",
+        "population": -1,
+        "latitude": 13.784043,
+        "longitude": -61.054913
+    },
+    {
+        "name": "La Riche",
+        "country": "Saint Lucia",
+        "province": "Choiseul",
+        "population": -1,
+        "latitude": 13.78359,
+        "longitude": -61.047453
+    },
+    {
+        "name": "Sauzay",
+        "country": "Saint Lucia",
+        "province": "Choiseul",
+        "population": -1,
+        "latitude": 13.77595,
+        "longitude": -61.032957
+    },
+    {
+        "name": "Coolie Town",
+        "country": "Saint Lucia",
+        "province": "Vieux-Fort",
+        "population": -1,
+        "latitude": 13.772408,
+        "longitude": -60.968002
+    },
+    {
+        "name": "Morne Vert",
+        "country": "Saint Lucia",
+        "province": "Vieux-Fort",
+        "population": -1,
+        "latitude": 13.778116,
+        "longitude": -60.975854
+    },
+    {
+        "name": "Joyeux",
+        "country": "Saint Lucia",
+        "province": "Vieux-Fort",
+        "population": -1,
+        "latitude": 13.784095,
+        "longitude": -60.96166
+    },
+    {
+        "name": "Pierrot",
+        "country": "Saint Lucia",
+        "province": "Vieux-Fort",
+        "population": -1,
+        "latitude": 13.771109,
+        "longitude": -60.943933
+    },
+    {
+        "name": "Cacao",
+        "country": "Saint Lucia",
+        "province": "Vieux-Fort",
+        "population": -1,
+        "latitude": 13.779231,
+        "longitude": -60.942914
+    },
+    {
+        "name": "Daban",
+        "country": "Saint Lucia",
+        "province": "Laborie",
+        "population": -1,
+        "latitude": 13.807799,
+        "longitude": -61.005913
+    },
+    {
+        "name": "Fond Berange",
+        "country": "Saint Lucia",
+        "province": "Laborie",
+        "population": -1,
+        "latitude": 13.785844,
+        "longitude": -61.002229
+    },
+    {
+        "name": "Giraud",
+        "country": "Saint Lucia",
+        "province": "Laborie",
+        "population": -1,
+        "latitude": 13.792306,
+        "longitude": -61.007454
+    },
+    {
+        "name": "Gertrine",
+        "country": "Saint Lucia",
+        "province": "Laborie",
+        "population": -1,
+        "latitude": 13.783911,
+        "longitude": -61.007635
+    },
+    {
+        "name": "La Grace",
+        "country": "Saint Lucia",
+        "province": "Laborie",
+        "population": -1,
+        "latitude": 13.778656,
+        "longitude": -61.000628
+    },
+    {
+        "name": "Olibo",
+        "country": "Saint Lucia",
+        "province": "Laborie",
+        "population": -1,
+        "latitude": 13.777025,
+        "longitude": -60.995797
+    },
+    {
+        "name": "Macdomel",
+        "country": "Saint Lucia",
+        "province": "Laborie",
+        "population": -1,
+        "latitude": 13.779743,
+        "longitude": -60.985438
+    },
+    {
+        "name": "Gayabois",
+        "country": "Saint Lucia",
+        "province": "Laborie",
+        "population": -1,
+        "latitude": 13.785421,
+        "longitude": -61.017993
+    },
+    {
+        "name": "Malgrétoute",
+        "country": "Saint Lucia",
+        "province": "Micoud",
+        "population": -1,
+        "latitude": 13.841231,
+        "longitude": -60.903863
+    },
+    {
+        "name": "Mamiku",
+        "country": "Saint Lucia",
+        "province": "Micoud",
+        "population": -1,
+        "latitude": 13.865583,
+        "longitude": -60.902716
+    },
+    {
+        "name": "Caille Des",
+        "country": "Saint Lucia",
+        "province": "Gros-Islet",
+        "population": -1,
+        "latitude": 13.982247,
+        "longitude": -60.889833
+    },
+    {
+        "name": "Au Leon",
+        "country": "Saint Lucia",
+        "province": "Dennery",
+        "population": -1,
+        "latitude": 13.945832,
+        "longitude": -60.907802
+    },
+    {
+        "name": "Industry",
+        "country": "Saint Lucia",
+        "province": "Choiseul",
+        "population": -1,
+        "latitude": 13.79026,
+        "longitude": -61.061813
+    },
+    {
+        "name": "Des Bollières",
+        "country": "Saint Lucia",
+        "province": "Gros-Islet",
+        "population": -1,
+        "latitude": 13.99542,
+        "longitude": -60.929039
+    },
+    {
+        "name": "Plateau",
+        "country": "Saint Lucia",
+        "province": "Gros-Islet",
+        "population": -1,
+        "latitude": 14.02776,
+        "longitude": -60.934636
+    },
+    {
+        "name": "Massade Estate",
+        "country": "Saint Lucia",
+        "province": "Gros-Islet",
+        "population": -1,
+        "latitude": 14.079753,
+        "longitude": -60.944744
+    },
+    {
+        "name": "Moulin à Vent",
+        "country": "Saint Lucia",
+        "province": "Gros-Islet",
+        "population": -1,
+        "latitude": 14.060746,
+        "longitude": -60.947887
+    },
+    {
+        "name": "Careffe",
+        "country": "Saint Lucia",
+        "province": "Gros-Islet",
+        "population": -1,
+        "latitude": 14.056518,
+        "longitude": -60.949397
+    },
+    {
+        "name": "La Rivière Mitan",
+        "country": "Saint Lucia",
+        "province": "Gros-Islet",
+        "population": -1,
+        "latitude": 14.053218,
+        "longitude": -60.938823
+    },
+    {
+        "name": "Bois Verrelle",
+        "country": "Saint Lucia",
+        "province": "Gros-Islet",
+        "population": -1,
+        "latitude": 14.049391,
+        "longitude": -60.937619
+    },
+    {
+        "name": "Grande Rivière",
+        "country": "Saint Lucia",
+        "province": "Gros-Islet",
+        "population": -1,
+        "latitude": 14.03252,
+        "longitude": -60.953312
+    },
+    {
+        "name": "Americ",
+        "country": "Saint Lucia",
+        "province": "Gros-Islet",
+        "population": -1,
+        "latitude": 14.021623,
+        "longitude": -60.931224
+    },
+    {
+        "name": "La Gare",
+        "country": "Saint Lucia",
+        "province": "Gros-Islet",
+        "population": -1,
+        "latitude": 14.021412,
+        "longitude": -60.928325
+    },
+    {
+        "name": "Paix Bouche",
+        "country": "Saint Lucia",
+        "province": "Gros-Islet",
+        "population": -1,
+        "latitude": 14.018845,
+        "longitude": -60.938744
+    },
+    {
+        "name": "La Croix Chaubourg",
+        "country": "Saint Lucia",
+        "province": "Castries",
+        "population": -1,
+        "latitude": 14.012291,
+        "longitude": -60.942187
+    },
+    {
+        "name": "Theatiste",
+        "country": "Saint Lucia",
+        "province": "Gros-Islet",
+        "population": -1,
+        "latitude": 14.01516,
+        "longitude": -60.922587
+    },
+    {
+        "name": "Pays Perdu",
+        "country": "Saint Lucia",
+        "province": "Gros-Islet",
+        "population": -1,
+        "latitude": 14.003715,
+        "longitude": -60.933821
+    },
+    {
+        "name": "En Poix Doux",
+        "country": "Saint Lucia",
+        "province": "Castries",
+        "population": -1,
+        "latitude": 13.991001,
+        "longitude": -60.941462
+    },
+    {
+        "name": "Four Roads Junction",
+        "country": "Saint Lucia",
+        "province": "Castries",
+        "population": -1,
+        "latitude": 13.993433,
+        "longitude": -60.976626
+    },
+    {
+        "name": "Ti Rocher",
+        "country": "Saint Lucia",
+        "province": "Castries",
+        "population": -1,
+        "latitude": 13.995608,
+        "longitude": -60.970103
+    },
+    {
+        "name": "La Pelle",
+        "country": "Saint Lucia",
+        "province": "Dennery",
+        "population": -1,
+        "latitude": 13.939799,
+        "longitude": -60.908232
+    },
+    {
+        "name": "Thomazo",
+        "country": "Saint Lucia",
+        "province": "Dennery",
+        "population": -1,
+        "latitude": 13.930615,
+        "longitude": -60.942077
+    },
+    {
+        "name": "La Belle Vie",
+        "country": "Saint Lucia",
+        "province": "Dennery",
+        "population": -1,
+        "latitude": 13.933817,
+        "longitude": -60.92432
+    },
+    {
+        "name": "Vieux Sucreic",
+        "country": "Saint Lucia",
+        "province": "Gros-Islet",
+        "population": -1,
+        "latitude": 14.04952,
+        "longitude": -60.946114
+    },
+    {
+        "name": "Vanard",
+        "country": "Saint Lucia",
+        "province": "Castries",
+        "population": -1,
+        "latitude": 13.943487,
+        "longitude": -60.994518
+    },
+    {
+        "name": "Savannes",
+        "country": "Saint Lucia",
+        "province": "Vieux-Fort",
+        "population": -1,
+        "latitude": 13.774082,
+        "longitude": -60.93963
+    },
+    {
+        "name": "Sarot",
+        "country": "Saint Lucia",
+        "province": "Castries",
+        "population": -1,
+        "latitude": 13.943938,
+        "longitude": -60.98689
+    },
+    {
+        "name": "Rouarné",
+        "country": "Saint Lucia",
+        "province": "Micoud",
+        "population": -1,
+        "latitude": 13.774845,
+        "longitude": -60.918387
+    },
+    {
+        "name": "Resinard",
+        "country": "Saint Lucia",
+        "province": "Castries",
+        "population": -1,
+        "latitude": 13.999797,
+        "longitude": -60.940982
+    },
+    {
+        "name": "Palmiste",
+        "country": "Saint Lucia",
+        "province": "Soufrière",
+        "population": -1,
+        "latitude": 13.86458,
+        "longitude": -61.0527
+    },
+    {
+        "name": "Moule à Chique",
+        "country": "Saint Lucia",
+        "province": "Vieux-Fort",
+        "population": -1,
+        "latitude": 13.713309,
+        "longitude": -60.947362
+    },
+    {
+        "name": "Morne Serpent",
+        "country": "Saint Lucia",
+        "province": "Gros-Islet",
+        "population": -1,
+        "latitude": 14.031329,
+        "longitude": -60.957718
+    },
+    {
+        "name": "Morne Doudon",
+        "country": "Saint Lucia",
+        "province": "Castries",
+        "population": -1,
+        "latitude": 14.009876,
+        "longitude": -60.972408
+    },
+    {
+        "name": "Morne d’Or",
+        "country": "Saint Lucia",
+        "province": "Castries",
+        "population": -1,
+        "latitude": 13.950167,
+        "longitude": -61.006573
+    },
+    {
+        "name": "Morne Caillandre",
+        "country": "Saint Lucia",
+        "province": "Vieux-Fort",
+        "population": -1,
+        "latitude": 13.774324,
+        "longitude": -60.947039
+    },
+    {
+        "name": "Mongiraud",
+        "country": "Saint Lucia",
+        "province": "Gros-Islet",
+        "population": -1,
+        "latitude": 14.062011,
+        "longitude": -60.959353
+    },
+    {
+        "name": "Marchand",
+        "country": "Saint Lucia",
+        "province": "Castries",
+        "population": -1,
+        "latitude": 14.006062,
+        "longitude": -60.991675
+    },
+    {
+        "name": "Mahaut",
+        "country": "Saint Lucia",
+        "province": "Micoud",
+        "population": -1,
+        "latitude": 13.843452,
+        "longitude": -60.959487
+    },
+    {
+        "name": "L’Orangerie",
+        "country": "Saint Lucia",
+        "province": "Micoud",
+        "population": -1,
+        "latitude": 13.84841,
+        "longitude": -60.914018
+    },
+    {
+        "name": "La Retraite",
+        "country": "Saint Lucia",
+        "province": "Vieux-Fort",
+        "population": -1,
+        "latitude": 13.756789,
+        "longitude": -60.966832
+    },
+    {
+        "name": "La Feuillet",
+        "country": "Saint Lucia",
+        "province": "Gros-Islet",
+        "population": -1,
+        "latitude": 14.05133,
+        "longitude": -60.93824
+    },
+    {
+        "name": "La Cour Ville",
+        "country": "Saint Lucia",
+        "province": "Micoud",
+        "population": -1,
+        "latitude": 13.812498,
+        "longitude": -60.930341
+    },
+    {
+        "name": "Incommode",
+        "country": "Saint Lucia",
+        "province": "Castries",
+        "population": -1,
+        "latitude": 13.987869,
+        "longitude": -60.995905
+    },
+    {
+        "name": "Fond d’Or",
+        "country": "Saint Lucia",
+        "province": "Micoud",
+        "population": -1,
+        "latitude": 13.814099,
+        "longitude": -60.926143
+    },
+    {
+        "name": "Floissac",
+        "country": "Saint Lucia",
+        "province": "Castries",
+        "population": -1,
+        "latitude": 13.959911,
+        "longitude": -60.961983
+    },
+    {
+        "name": "Ferrand",
+        "country": "Saint Lucia",
+        "province": "Castries",
+        "population": -1,
+        "latitude": 13.964471500564821,
+        "longitude": -60.99334716796875
+    },
+    {
+        "name": "Eau Piquant",
+        "country": "Saint Lucia",
+        "province": "Vieux-Fort",
+        "population": -1,
+        "latitude": 13.758385,
+        "longitude": -60.931933
+    },
+    {
+        "name": "Corinthe",
+        "country": "Saint Lucia",
+        "province": "Gros-Islet",
+        "population": -1,
+        "latitude": 14.045313,
+        "longitude": -60.960702
+    },
+    {
+        "name": "Cantonement",
+        "country": "Saint Lucia",
+        "province": "Vieux-Fort",
+        "population": -1,
+        "latitude": 13.752629,
+        "longitude": -60.975286
+    },
+    {
+        "name": "Bosquet d’Or",
+        "country": "Saint Lucia",
+        "province": "Dennery",
+        "population": -1,
+        "latitude": 13.932548,
+        "longitude": -60.914183
+    },
+    {
+        "name": "Bois Joli",
+        "country": "Saint Lucia",
+        "province": "Dennery",
+        "population": -1,
+        "latitude": 13.917918,
+        "longitude": -60.898095
+    },
+    {
+        "name": "Black Bay",
+        "country": "Saint Lucia",
+        "province": "Vieux-Fort",
+        "population": -1,
+        "latitude": 13.745428,
+        "longitude": -60.976765
+    },
+    {
+        "name": "Beauchamp",
+        "country": "Saint Lucia",
+        "province": "Micoud",
+        "population": -1,
+        "latitude": 13.820926,
+        "longitude": -60.931216
+    },
+    {
+        "name": "Sans Souci",
+        "country": "Saint Lucia",
+        "province": "Castries",
+        "population": -1,
+        "latitude": 14.017357119042932,
+        "longitude": -60.989484786987305
+    },
+    {
+        "name": "Ravine Poisson",
+        "country": "Saint Lucia",
+        "province": "Castries",
+        "population": -1,
+        "latitude": 13.92999,
+        "longitude": -60.97498
+    },
+    {
+        "name": "Bazile",
+        "country": "Saint Lucia",
+        "province": "Dennery",
+        "population": -1,
+        "latitude": 13.907996,
+        "longitude": -60.923625
+    },
+    {
+        "name": "Mole",
+        "country": "Saint Lucia",
+        "province": "Dennery",
+        "population": -1,
+        "latitude": 13.908857,
+        "longitude": -60.892202
+    },
+    {
+        "name": "Athens",
+        "country": "Saint Lucia",
+        "province": "Dennery",
+        "population": -1,
+        "latitude": 13.905416,
+        "longitude": -60.892477
+    },
+    {
+        "name": "Ticolon",
+        "country": "Saint Lucia",
+        "province": "Castries",
+        "population": -1,
+        "latitude": 13.971218,
+        "longitude": -61.003003
+    },
+    {
+        "name": "Sibieux",
+        "country": "Saint Lucia",
+        "province": "Soufrière",
+        "population": -1,
+        "latitude": 13.892961,
+        "longitude": -61.049437
+    },
+    {
+        "name": "Ravine Duval",
+        "country": "Saint Lucia",
+        "province": "Soufrière",
+        "population": -1,
+        "latitude": 13.887223,
+        "longitude": -61.042914
+    },
+    {
+        "name": "Anse Chastanet",
+        "country": "Saint Lucia",
+        "province": "Soufrière",
+        "population": -1,
+        "latitude": 13.861372,
+        "longitude": -61.069942
+    },
+    {
+        "name": "Fond Bernier",
+        "country": "Saint Lucia",
+        "province": "Soufrière",
+        "population": -1,
+        "latitude": 13.858926,
+        "longitude": -61.059976
+    },
+    {
+        "name": "Calvaire",
+        "country": "Saint Lucia",
+        "province": "Soufrière",
+        "population": -1,
+        "latitude": 13.850772,
+        "longitude": -61.058541
+    },
+    {
+        "name": "Stonefield",
+        "country": "Saint Lucia",
+        "province": "Soufrière",
+        "population": -1,
+        "latitude": 13.844059,
+        "longitude": -61.059686
+    },
+    {
+        "name": "Sulphur Springs",
+        "country": "Saint Lucia",
+        "province": "Soufrière",
+        "population": -1,
+        "latitude": 13.835836,
+        "longitude": -61.043416
+    },
+    {
+        "name": "Fond Lloyd",
+        "country": "Saint Lucia",
+        "province": "Soufrière",
+        "population": -1,
+        "latitude": 13.830555,
+        "longitude": -61.041211
+    },
+    {
+        "name": "Belfond",
+        "country": "Saint Lucia",
+        "province": "Soufrière",
+        "population": -1,
+        "latitude": 13.828048,
+        "longitude": -61.04097
+    },
+    {
+        "name": "Mailly Motête",
+        "country": "Saint Lucia",
+        "province": "Choiseul",
+        "population": -1,
+        "latitude": 13.817927,
+        "longitude": -61.023052
+    },
+    {
+        "name": "Fond Sabot",
+        "country": "Saint Lucia",
+        "province": "Vieux-Fort",
+        "population": -1,
+        "latitude": 13.77609,
+        "longitude": -60.95445
+    },
+    {
+        "name": "Plut",
+        "country": "Saint Lucia",
+        "province": "Vieux-Fort",
+        "population": -1,
+        "latitude": 13.77603,
+        "longitude": -60.961064
+    },
+    {
+        "name": "Gouette",
+        "country": "Saint Lucia",
+        "province": "Micoud",
+        "population": -1,
+        "latitude": 13.810528,
+        "longitude": -60.940736
+    },
+    {
+        "name": "Delomel",
+        "country": "Saint Lucia",
+        "province": "Micoud",
+        "population": -1,
+        "latitude": 13.805183,
+        "longitude": -60.932401
+    },
+    {
+        "name": "Des Blanchard",
+        "country": "Saint Lucia",
+        "province": "Micoud",
+        "population": -1,
+        "latitude": 13.813255,
+        "longitude": -60.935445
+    },
+    {
+        "name": "Moreau",
+        "country": "Saint Lucia",
+        "province": "Micoud",
+        "population": -1,
+        "latitude": 13.818389,
+        "longitude": -60.936291
+    },
+    {
+        "name": "L’Eau Mineur",
+        "country": "Saint Lucia",
+        "province": "Micoud",
+        "population": -1,
+        "latitude": 13.808755,
+        "longitude": -60.922701
+    },
+    {
+        "name": "Calypso",
+        "country": "Saint Lucia",
+        "province": "Micoud",
+        "population": -1,
+        "latitude": 13.823293,
+        "longitude": -60.95635
+    },
+    {
+        "name": "La Tille",
+        "country": "Saint Lucia",
+        "province": "Micoud",
+        "population": -1,
+        "latitude": 13.828638,
+        "longitude": -60.921862
+    },
+    {
+        "name": "Rameau",
+        "country": "Saint Lucia",
+        "province": "Micoud",
+        "population": -1,
+        "latitude": 13.831386,
+        "longitude": -60.926452
+    },
+    {
+        "name": "La Fille",
+        "country": "Saint Lucia",
+        "province": "Micoud",
+        "population": -1,
+        "latitude": 13.834648,
+        "longitude": -60.934576
+    },
+    {
+        "name": "Ti Riviere",
+        "country": "Saint Lucia",
+        "province": "Micoud",
+        "population": -1,
+        "latitude": 13.832806,
+        "longitude": -60.936026
+    },
+    {
+        "name": "Galba",
+        "country": "Saint Lucia",
+        "province": "Micoud",
+        "population": -1,
+        "latitude": 13.8364,
+        "longitude": -60.939227
+    },
+    {
+        "name": "Carrière",
+        "country": "Saint Lucia",
+        "province": "Micoud",
+        "population": -1,
+        "latitude": 13.836098,
+        "longitude": -60.946082
+    },
+    {
+        "name": "Des Marinières",
+        "country": "Saint Lucia",
+        "province": "Micoud",
+        "population": -1,
+        "latitude": 13.859966,
+        "longitude": -60.907759
+    },
+    {
+        "name": "Mont Eole",
+        "country": "Saint Lucia",
+        "province": "Micoud",
+        "population": -1,
+        "latitude": 13.859,
+        "longitude": -60.914252
+    },
+    {
+        "name": "Lombard",
+        "country": "Saint Lucia",
+        "province": "Micoud",
+        "population": -1,
+        "latitude": 13.854591,
+        "longitude": -60.910628
+    },
+    {
+        "name": "Pélouze",
+        "country": "Saint Lucia",
+        "province": "Micoud",
+        "population": -1,
+        "latitude": 13.879708,
+        "longitude": -60.909671
+    },
+    {
+        "name": "Miné",
+        "country": "Saint Lucia",
+        "province": "Micoud",
+        "population": -1,
+        "latitude": 13.874181,
+        "longitude": -60.91097
+    },
+    {
+        "name": "Sunny Acres",
+        "country": "Saint Lucia",
+        "province": "Castries",
+        "population": -1,
+        "latitude": 14.030436,
+        "longitude": -60.973228
+    },
+    {
+        "name": "Portalese",
+        "country": "Saint Lucia",
+        "province": "Choiseul",
+        "population": -1,
+        "latitude": 13.780026,
+        "longitude": -61.05265
+    },
+    {
+        "name": "Redoubt",
+        "country": "Saint Lucia",
+        "province": "Castries",
+        "population": -1,
+        "latitude": 14.000105,
+        "longitude": -60.998485
+    },
+    {
+        "name": "Beauséjour",
+        "country": "Saint Lucia",
+        "province": "Gros-Islet",
+        "population": -1,
+        "latitude": 14.075405,
+        "longitude": -60.94423
+    },
+    {
+        "name": "Bonne Terre",
+        "country": "Saint Lucia",
+        "province": "Gros-Islet",
+        "population": -1,
+        "latitude": 14.069546,
+        "longitude": -60.943475
+    },
+    {
+        "name": "Bois d’Inde",
+        "country": "Saint Lucia",
+        "province": "Gros-Islet",
+        "population": -1,
+        "latitude": 14.053317,
+        "longitude": -60.953444
+    },
+    {
+        "name": "Des Rameaux",
+        "country": "Saint Lucia",
+        "province": "Gros-Islet",
+        "population": -1,
+        "latitude": 14.041841,
+        "longitude": -60.93173
+    },
+    {
+        "name": "Piat",
+        "country": "Saint Lucia",
+        "province": "Gros-Islet",
+        "population": -1,
+        "latitude": 14.036614,
+        "longitude": -60.943675
+    },
+    {
+        "name": "La Vaccance",
+        "country": "Saint Lucia",
+        "province": "Gros-Islet",
+        "population": -1,
+        "latitude": 14.035285,
+        "longitude": -60.939115
+    },
+    {
+        "name": "Christopher",
+        "country": "Saint Lucia",
+        "province": "Castries",
+        "population": -1,
+        "latitude": 14.008788,
+        "longitude": -60.946384
+    },
+    {
+        "name": "Ti Morne",
+        "country": "Saint Lucia",
+        "province": "Gros-Islet",
+        "population": -1,
+        "latitude": 14.023596,
+        "longitude": -60.951707
+    },
+    {
+        "name": "Almondale",
+        "country": "Saint Lucia",
+        "province": "Castries",
+        "population": -1,
+        "latitude": 14.017803,
+        "longitude": -60.96236
+    },
+    {
+        "name": "Talvern",
+        "country": "Saint Lucia",
+        "province": "Castries",
+        "population": -1,
+        "latitude": 13.994594,
+        "longitude": -60.943546
+    },
+    {
+        "name": "Fond Cacao",
+        "country": "Saint Lucia",
+        "province": "Castries",
+        "population": -1,
+        "latitude": 13.996225,
+        "longitude": -60.950945
+    },
+    {
+        "name": "Combat",
+        "country": "Saint Lucia",
+        "province": "Castries",
+        "population": -1,
+        "latitude": 13.988373,
+        "longitude": -60.946596
+    },
+    {
+        "name": "Summersdale",
+        "country": "Saint Lucia",
+        "province": "Castries",
+        "population": -1,
+        "latitude": 14.025664,
+        "longitude": -60.975404
+    },
+    {
+        "name": "La Carrière",
+        "country": "Saint Lucia",
+        "province": "Castries",
+        "population": -1,
+        "latitude": 14.019122,
+        "longitude": -60.986161
+    },
+    {
+        "name": "La Clery",
+        "country": "Saint Lucia",
+        "province": "Castries",
+        "population": -1,
+        "latitude": 14.016827,
+        "longitude": -60.978974
+    },
+    {
+        "name": "La Pensée",
+        "country": "Saint Lucia",
+        "province": "Castries",
+        "population": -1,
+        "latitude": 14.013837,
+        "longitude": -60.983473
+    },
+    {
+        "name": "Rosehill",
+        "country": "Saint Lucia",
+        "province": "Castries",
+        "population": -1,
+        "latitude": 14.009277,
+        "longitude": -60.983866
+    },
+    {
+        "name": "Cedars",
+        "country": "Saint Lucia",
+        "province": "Castries",
+        "population": -1,
+        "latitude": 14.006046,
+        "longitude": -60.983836
+    },
+    {
+        "name": "Ravine Chabot",
+        "country": "Saint Lucia",
+        "province": "Castries",
+        "population": -1,
+        "latitude": 14.004324,
+        "longitude": -60.973265
+    },
+    {
+        "name": "Entrepôt",
+        "country": "Saint Lucia",
+        "province": "Castries",
+        "population": -1,
+        "latitude": 14.002512,
+        "longitude": -60.976164
+    },
+    {
+        "name": "Bagatelle",
+        "country": "Saint Lucia",
+        "province": "Castries",
+        "population": -1,
+        "latitude": 14.000776,
+        "longitude": -60.981072
+    },
+    {
+        "name": "Arundel Hill",
+        "country": "Saint Lucia",
+        "province": "Castries",
+        "population": -1,
+        "latitude": 14.002165,
+        "longitude": -60.985028
+    },
+    {
+        "name": "Bishops Gap",
+        "country": "Saint Lucia",
+        "province": "Castries",
+        "population": -1,
+        "latitude": 13.999326,
+        "longitude": -60.985254
+    },
+    {
+        "name": "Derrière Fort",
+        "country": "Saint Lucia",
+        "province": "Castries",
+        "population": -1,
+        "latitude": 13.996563,
+        "longitude": -60.988184
+    },
+    {
+        "name": "Maynard Hill",
+        "country": "Saint Lucia",
+        "province": "Castries",
+        "population": -1,
+        "latitude": 14.002845,
+        "longitude": -60.989452
+    },
+    {
+        "name": "Pavée",
+        "country": "Saint Lucia",
+        "province": "Castries",
+        "population": -1,
+        "latitude": 14.00437,
+        "longitude": -60.991385
+    },
+    {
+        "name": "Bella Rosa",
+        "country": "Saint Lucia",
+        "province": "Castries",
+        "population": -1,
+        "latitude": 14.007421,
+        "longitude": -60.995104
+    },
+    {
+        "name": "La Belle Vie",
+        "country": "Saint Lucia",
+        "province": "Castries",
+        "population": -1,
+        "latitude": 13.991041,
+        "longitude": -61.011658
+    },
+    {
+        "name": "Goodland",
+        "country": "Saint Lucia",
+        "province": "Castries",
+        "population": -1,
+        "latitude": 13.994066,
+        "longitude": -60.995345
+    },
+    {
+        "name": "La Fitte",
+        "country": "Saint Lucia",
+        "province": "Castries",
+        "population": -1,
+        "latitude": 13.999262,
+        "longitude": -60.965724
+    },
+    {
+        "name": "Fond Cannie",
+        "country": "Saint Lucia",
+        "province": "Castries",
+        "population": -1,
+        "latitude": 13.992709,
+        "longitude": -60.958808
+    },
+    {
+        "name": "Mabouya",
+        "country": "Saint Lucia",
+        "province": "Dennery",
+        "population": -1,
+        "latitude": 13.934511,
+        "longitude": -60.931175
+    },
+    {
+        "name": "Dubonnet",
+        "country": "Saint Lucia",
+        "province": "Dennery",
+        "population": -1,
+        "latitude": 13.92379,
+        "longitude": -60.932655
+    }
+]

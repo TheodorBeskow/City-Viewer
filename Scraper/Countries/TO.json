@@ -1,0 +1,1154 @@
+[
+    {
+        "name": "Nuku'alofa",
+        "country": "Tonga",
+        "province": "Tongatapu",
+        "population": 22400,
+        "latitude": -21.13683,
+        "longitude": -175.20114
+    },
+    {
+        "name": "Neiafu",
+        "country": "Tonga",
+        "province": "Vava‘u",
+        "population": 4320,
+        "latitude": -18.65144,
+        "longitude": -173.98354
+    },
+    {
+        "name": "Pangai",
+        "country": "Tonga",
+        "province": "Ha‘apai",
+        "population": 1738,
+        "latitude": -19.81467568348227,
+        "longitude": -174.35422897338867
+    },
+    {
+        "name": "Lapaha",
+        "country": "Tonga",
+        "province": "Tongatapu",
+        "population": 8000,
+        "latitude": -21.177348,
+        "longitude": -175.1172
+    },
+    {
+        "name": "Haveluloto",
+        "country": "Tonga",
+        "province": "Tongatapu",
+        "population": 3417,
+        "latitude": -21.152161,
+        "longitude": -175.213328
+    },
+    {
+        "name": "Tatakamotonga",
+        "country": "Tonga",
+        "province": "Tongatapu",
+        "population": 3000,
+        "latitude": -21.186269,
+        "longitude": -175.124529
+    },
+    {
+        "name": "Vaini",
+        "country": "Tonga",
+        "province": "Tongatapu",
+        "population": 2976,
+        "latitude": -21.192921,
+        "longitude": -175.176776
+    },
+    {
+        "name": "‘Ohonua",
+        "country": "Tonga",
+        "province": "ʻEua",
+        "population": 1241,
+        "latitude": -21.34135,
+        "longitude": -174.95656
+    },
+    {
+        "name": "Kolonga",
+        "country": "Tonga",
+        "province": "Tongatapu",
+        "population": 1100,
+        "latitude": -21.1333333,
+        "longitude": -175.0666667
+    },
+    {
+        "name": "Hihifo",
+        "country": "Tonga",
+        "province": "Niuas",
+        "population": 815,
+        "latitude": -15.954397138706414,
+        "longitude": -173.79615783691406
+    },
+    {
+        "name": "Houma",
+        "country": "Tonga",
+        "province": "Tongatapu",
+        "population": 2086,
+        "latitude": -21.170054,
+        "longitude": -175.302126
+    },
+    {
+        "name": "Fangale’ounga",
+        "country": "Tonga",
+        "province": "Ha‘apai",
+        "population": 2016,
+        "latitude": -19.752846,
+        "longitude": -174.322573
+    },
+    {
+        "name": "Vaipoa",
+        "country": "Tonga",
+        "province": "Niuas",
+        "population": 172,
+        "latitude": -15.947547483441355,
+        "longitude": -173.7824249267578
+    },
+    {
+        "name": "Vaimalo",
+        "country": "Tonga",
+        "province": "Vava‘u",
+        "population": 114,
+        "latitude": -18.638211,
+        "longitude": -174.005596
+    },
+    {
+        "name": "Utulau",
+        "country": "Tonga",
+        "province": "Tongatapu",
+        "population": -1,
+        "latitude": -21.183333,
+        "longitude": -175.266667
+    },
+    {
+        "name": "Pukutala",
+        "country": "Tonga",
+        "province": "Ha‘apai",
+        "population": 89,
+        "latitude": -19.678889,
+        "longitude": -174.280167
+    },
+    {
+        "name": "Nukuleka",
+        "country": "Tonga",
+        "province": "Tongatapu",
+        "population": -1,
+        "latitude": -21.151912,
+        "longitude": -175.126743
+    },
+    {
+        "name": "Niutoua",
+        "country": "Tonga",
+        "province": "Tongatapu",
+        "population": 671,
+        "latitude": -21.1333333,
+        "longitude": -175.05
+    },
+    {
+        "name": "Muitoa",
+        "country": "Tonga",
+        "province": "Ha‘apai",
+        "population": 53,
+        "latitude": -19.652292,
+        "longitude": -174.294415
+    },
+    {
+        "name": "Malapo",
+        "country": "Tonga",
+        "province": "Tongatapu",
+        "population": 647,
+        "latitude": -21.201117,
+        "longitude": -175.154564
+    },
+    {
+        "name": "Lotofoa",
+        "country": "Tonga",
+        "province": "Ha‘apai",
+        "population": 413,
+        "latitude": -19.741786,
+        "longitude": -174.305
+    },
+    {
+        "name": "Koulo",
+        "country": "Tonga",
+        "province": "Ha‘apai",
+        "population": -1,
+        "latitude": -19.788349333189288,
+        "longitude": -174.34487342834473
+    },
+    {
+        "name": "Kolovai",
+        "country": "Tonga",
+        "province": "Tongatapu",
+        "population": -1,
+        "latitude": -21.10101,
+        "longitude": -175.337659
+    },
+    {
+        "name": "Kanokupolu",
+        "country": "Tonga",
+        "province": "Tongatapu",
+        "population": 354,
+        "latitude": -21.080702,
+        "longitude": -175.334736
+    },
+    {
+        "name": "Holopeka",
+        "country": "Tonga",
+        "province": "Ha‘apai",
+        "population": -1,
+        "latitude": -19.78366504773975,
+        "longitude": -174.3431568145752
+    },
+    {
+        "name": "Holonga",
+        "country": "Tonga",
+        "province": "Tongatapu",
+        "population": 488,
+        "latitude": -21.192578,
+        "longitude": -175.142821
+    },
+    {
+        "name": "Falevai",
+        "country": "Tonga",
+        "province": "Vava‘u",
+        "population": -1,
+        "latitude": -18.70505,
+        "longitude": -174.035274
+    },
+    {
+        "name": "Faleloa",
+        "country": "Tonga",
+        "province": "Ha‘apai",
+        "population": 380,
+        "latitude": -19.733916,
+        "longitude": -174.287291
+    },
+    {
+        "name": "Falehau",
+        "country": "Tonga",
+        "province": "Niuas",
+        "population": 218,
+        "latitude": -15.945649344788675,
+        "longitude": -173.76568794250488
+    },
+    {
+        "name": "Fotua",
+        "country": "Tonga",
+        "province": "Ha‘apai",
+        "population": 259,
+        "latitude": -19.74925,
+        "longitude": -174.317484
+    },
+    {
+        "name": "Veitongo",
+        "country": "Tonga",
+        "province": "Tongatapu",
+        "population": -1,
+        "latitude": -21.184777,
+        "longitude": -175.212514
+    },
+    {
+        "name": "Tufurai",
+        "country": "Tonga",
+        "province": "ʻEua",
+        "population": -1,
+        "latitude": -21.366667,
+        "longitude": -174.966667
+    },
+    {
+        "name": "Pea",
+        "country": "Tonga",
+        "province": "Tongatapu",
+        "population": -1,
+        "latitude": -21.171775,
+        "longitude": -175.235018
+    },
+    {
+        "name": "Nopapu",
+        "country": "Tonga",
+        "province": "Vava‘u",
+        "population": -1,
+        "latitude": -18.699293,
+        "longitude": -174.075069
+    },
+    {
+        "name": "Tu‘anekivale",
+        "country": "Tonga",
+        "province": "Vava‘u",
+        "population": -1,
+        "latitude": -18.628752,
+        "longitude": -173.920952
+    },
+    {
+        "name": "Tefisi",
+        "country": "Tonga",
+        "province": "Vava‘u",
+        "population": -1,
+        "latitude": -18.629762,
+        "longitude": -174.014476
+    },
+    {
+        "name": "Talafo‘ou",
+        "country": "Tonga",
+        "province": "Tongatapu",
+        "population": -1,
+        "latitude": -21.133333,
+        "longitude": -175.1
+    },
+    {
+        "name": "Puleieia",
+        "country": "Tonga",
+        "province": "Ha‘apai",
+        "population": -1,
+        "latitude": -19.6,
+        "longitude": -174.45
+    },
+    {
+        "name": "Puke",
+        "country": "Tonga",
+        "province": "Tongatapu",
+        "population": -1,
+        "latitude": -21.131783,
+        "longitude": -175.238717
+    },
+    {
+        "name": "Pangaimotu",
+        "country": "Tonga",
+        "province": "Vava‘u",
+        "population": -1,
+        "latitude": -18.6855,
+        "longitude": -173.997388
+    },
+    {
+        "name": "Nukuhetulu",
+        "country": "Tonga",
+        "province": "Tongatapu",
+        "population": -1,
+        "latitude": -21.167045,
+        "longitude": -175.189281
+    },
+    {
+        "name": "Mu‘a",
+        "country": "Tonga",
+        "province": "Tongatapu",
+        "population": -1,
+        "latitude": -21.181951,
+        "longitude": -175.118316
+    },
+    {
+        "name": "Masilamea",
+        "country": "Tonga",
+        "province": "Tongatapu",
+        "population": -1,
+        "latitude": -21.125355,
+        "longitude": -175.324239
+    },
+    {
+        "name": "Makaunga",
+        "country": "Tonga",
+        "province": "Tongatapu",
+        "population": -1,
+        "latitude": -21.142454,
+        "longitude": -175.12111
+    },
+    {
+        "name": "Longoteme",
+        "country": "Tonga",
+        "province": "Tongatapu",
+        "population": -1,
+        "latitude": -21.1807,
+        "longitude": -175.169823
+    },
+    {
+        "name": "Longomapu",
+        "country": "Tonga",
+        "province": "Vava‘u",
+        "population": -1,
+        "latitude": -18.644627,
+        "longitude": -174.057895
+    },
+    {
+        "name": "Huma",
+        "country": "Tonga",
+        "province": "ʻEua",
+        "population": -1,
+        "latitude": -21.316667,
+        "longitude": -174.933333
+    },
+    {
+        "name": "Ha‘avakatolo",
+        "country": "Tonga",
+        "province": "Tongatapu",
+        "population": -1,
+        "latitude": -21.108608,
+        "longitude": -175.338535
+    },
+    {
+        "name": "Fatumu",
+        "country": "Tonga",
+        "province": "Tongatapu",
+        "population": -1,
+        "latitude": -21.213869,
+        "longitude": -175.109442
+    },
+    {
+        "name": "Hā‘utu",
+        "country": "Tonga",
+        "province": "Tongatapu",
+        "population": -1,
+        "latitude": -21.144592,
+        "longitude": -175.329843
+    },
+    {
+        "name": "Vaotu‘u",
+        "country": "Tonga",
+        "province": "Tongatapu",
+        "population": -1,
+        "latitude": -21.160696,
+        "longitude": -175.311155
+    },
+    {
+        "name": "Utungake",
+        "country": "Tonga",
+        "province": "Vava‘u",
+        "population": -1,
+        "latitude": -18.666243,
+        "longitude": -174.021498
+    },
+    {
+        "name": "Utulei",
+        "country": "Tonga",
+        "province": "Vava‘u",
+        "population": -1,
+        "latitude": -18.653456,
+        "longitude": -173.996595
+    },
+    {
+        "name": "Utui",
+        "country": "Tonga",
+        "province": "Vava‘u",
+        "population": -1,
+        "latitude": -18.63848,
+        "longitude": -173.95709
+    },
+    {
+        "name": "Tu‘anuku",
+        "country": "Tonga",
+        "province": "Vava‘u",
+        "population": -1,
+        "latitude": -18.662712,
+        "longitude": -174.032909
+    },
+    {
+        "name": "Tongamama‘o",
+        "country": "Tonga",
+        "province": "Vava‘u",
+        "population": -1,
+        "latitude": -15.615354,
+        "longitude": -175.60851
+    },
+    {
+        "name": "Tokomololo",
+        "country": "Tonga",
+        "province": "Tongatapu",
+        "population": -1,
+        "latitude": -21.176555,
+        "longitude": -175.245119
+    },
+    {
+        "name": "Tofoa",
+        "country": "Tonga",
+        "province": "Tongatapu",
+        "population": -1,
+        "latitude": -21.157898,
+        "longitude": -175.226303
+    },
+    {
+        "name": "Te‘ekiu",
+        "country": "Tonga",
+        "province": "Tongatapu",
+        "population": -1,
+        "latitude": -21.128221,
+        "longitude": -175.318676
+    },
+    {
+        "name": "Ta‘anea",
+        "country": "Tonga",
+        "province": "Vava‘u",
+        "population": -1,
+        "latitude": -18.60769,
+        "longitude": -173.93739
+    },
+    {
+        "name": "Sapa‘ata",
+        "country": "Tonga",
+        "province": "Vava‘u",
+        "population": -1,
+        "latitude": -15.568392,
+        "longitude": -175.624656
+    },
+    {
+        "name": "Petani",
+        "country": "Tonga",
+        "province": "Vava‘u",
+        "population": -1,
+        "latitude": -15.618475,
+        "longitude": -175.61414
+    },
+    {
+        "name": "Pangai",
+        "country": "Tonga",
+        "province": "ʻEua",
+        "population": -1,
+        "latitude": -21.36229,
+        "longitude": -174.95294
+    },
+    {
+        "name": "Nukunuku",
+        "country": "Tonga",
+        "province": "Tongatapu",
+        "population": -1,
+        "latitude": -21.1333333,
+        "longitude": -175.3
+    },
+    {
+        "name": "Neiafu",
+        "country": "Tonga",
+        "province": "Tongatapu",
+        "population": -1,
+        "latitude": -21.077381,
+        "longitude": -175.333116
+    },
+    {
+        "name": "Navutoka",
+        "country": "Tonga",
+        "province": "Tongatapu",
+        "population": -1,
+        "latitude": -21.1166667,
+        "longitude": -175.1
+    },
+    {
+        "name": "Navea",
+        "country": "Tonga",
+        "province": "Ha‘apai",
+        "population": -1,
+        "latitude": -19.8,
+        "longitude": -174.35
+    },
+    {
+        "name": "Nakolo",
+        "country": "Tonga",
+        "province": "Tongatapu",
+        "population": -1,
+        "latitude": -21.267588,
+        "longitude": -175.123045
+    },
+    {
+        "name": "Mu‘a",
+        "country": "Tonga",
+        "province": "Vava‘u",
+        "population": -1,
+        "latitude": -15.597405,
+        "longitude": -175.604781
+    },
+    {
+        "name": "Matavai",
+        "country": "Tonga",
+        "province": "Niuas",
+        "population": -1,
+        "latitude": -15.9666667,
+        "longitude": -173.75
+    },
+    {
+        "name": "Mataika",
+        "country": "Tonga",
+        "province": "Vava‘u",
+        "population": -1,
+        "latitude": -18.61733,
+        "longitude": -173.96632
+    },
+    {
+        "name": "Matahau",
+        "country": "Tonga",
+        "province": "Tongatapu",
+        "population": -1,
+        "latitude": -21.142503,
+        "longitude": -175.312902
+    },
+    {
+        "name": "Mata‘aho",
+        "country": "Tonga",
+        "province": "Vava‘u",
+        "population": -1,
+        "latitude": -15.577694,
+        "longitude": -175.612731
+    },
+    {
+        "name": "Manuka",
+        "country": "Tonga",
+        "province": "Tongatapu",
+        "population": -1,
+        "latitude": -21.1166667,
+        "longitude": -175.1
+    },
+    {
+        "name": "Mangia",
+        "country": "Tonga",
+        "province": "Vava‘u",
+        "population": -1,
+        "latitude": -18.625238,
+        "longitude": -173.956156
+    },
+    {
+        "name": "Makave",
+        "country": "Tonga",
+        "province": "Vava‘u",
+        "population": -1,
+        "latitude": -18.65194,
+        "longitude": -173.96567
+    },
+    {
+        "name": "Liahona",
+        "country": "Tonga",
+        "province": "Tongatapu",
+        "population": -1,
+        "latitude": -21.165003,
+        "longitude": -175.271431
+    },
+    {
+        "name": "Leimatu‘a",
+        "country": "Tonga",
+        "province": "Vava‘u",
+        "population": -1,
+        "latitude": -18.599639245736178,
+        "longitude": -173.98120880126953
+    },
+    {
+        "name": "Lavengatonga",
+        "country": "Tonga",
+        "province": "Tongatapu",
+        "population": -1,
+        "latitude": -21.234928,
+        "longitude": -175.107104
+    },
+    {
+        "name": "Lakepa",
+        "country": "Tonga",
+        "province": "Tongatapu",
+        "population": -1,
+        "latitude": -21.14211,
+        "longitude": -175.279391
+    },
+    {
+        "name": "Kolofuu",
+        "country": "Tonga",
+        "province": "Tongatapu",
+        "population": -1,
+        "latitude": -21.2,
+        "longitude": -175.1666667
+    },
+    {
+        "name": "Koloa",
+        "country": "Tonga",
+        "province": "Vava‘u",
+        "population": -1,
+        "latitude": -18.645993,
+        "longitude": -173.936719
+    },
+    {
+        "name": "Kala‘au",
+        "country": "Tonga",
+        "province": "Tongatapu",
+        "population": -1,
+        "latitude": -21.13941,
+        "longitude": -175.335498
+    },
+    {
+        "name": "Hunga",
+        "country": "Tonga",
+        "province": "Vava‘u",
+        "population": -1,
+        "latitude": -18.683544,
+        "longitude": -174.122441
+    },
+    {
+        "name": "Holonga",
+        "country": "Tonga",
+        "province": "Vava‘u",
+        "population": -1,
+        "latitude": -18.589470468687065,
+        "longitude": -173.95048141479492
+    },
+    {
+        "name": "Hoi",
+        "country": "Tonga",
+        "province": "Tongatapu",
+        "population": -1,
+        "latitude": -21.165977,
+        "longitude": -175.111727
+    },
+    {
+        "name": "Hofoa",
+        "country": "Tonga",
+        "province": "Tongatapu",
+        "population": -1,
+        "latitude": -21.131355,
+        "longitude": -175.227327
+    },
+    {
+        "name": "Hihifo",
+        "country": "Tonga",
+        "province": "Ha‘apai",
+        "population": -1,
+        "latitude": -19.82097398030796,
+        "longitude": -174.36633110046387
+    },
+    {
+        "name": "Haveluliku",
+        "country": "Tonga",
+        "province": "Tongatapu",
+        "population": -1,
+        "latitude": -21.2,
+        "longitude": -175.1
+    },
+    {
+        "name": "Hatou",
+        "country": "Tonga",
+        "province": "Ha‘apai",
+        "population": -1,
+        "latitude": -19.8166667,
+        "longitude": -174.35
+    },
+    {
+        "name": "Hamula",
+        "country": "Tonga",
+        "province": "Tongatapu",
+        "population": -1,
+        "latitude": -21.252497,
+        "longitude": -175.111355
+    },
+    {
+        "name": "Haatua",
+        "country": "Tonga",
+        "province": "ʻEua",
+        "population": -1,
+        "latitude": -21.383333,
+        "longitude": -174.966667
+    },
+    {
+        "name": "Ha‘ateiho",
+        "country": "Tonga",
+        "province": "Tongatapu",
+        "population": -1,
+        "latitude": -21.177603,
+        "longitude": -175.232908
+    },
+    {
+        "name": "Ha‘atafu",
+        "country": "Tonga",
+        "province": "Tongatapu",
+        "population": -1,
+        "latitude": -21.071503,
+        "longitude": -175.32751
+    },
+    {
+        "name": "Ha‘asini",
+        "country": "Tonga",
+        "province": "Tongatapu",
+        "population": -1,
+        "latitude": -21.24814,
+        "longitude": -175.11008
+    },
+    {
+        "name": "Ha‘ano",
+        "country": "Tonga",
+        "province": "Ha‘apai",
+        "population": -1,
+        "latitude": -19.662334,
+        "longitude": -174.290276
+    },
+    {
+        "name": "Haalaufuli",
+        "country": "Tonga",
+        "province": "Vava‘u",
+        "population": -1,
+        "latitude": -18.608766,
+        "longitude": -173.934448
+    },
+    {
+        "name": "Ha‘alalo",
+        "country": "Tonga",
+        "province": "Tongatapu",
+        "population": -1,
+        "latitude": -21.184511,
+        "longitude": -175.280883
+    },
+    {
+        "name": "Ha‘akili",
+        "country": "Tonga",
+        "province": "Tongatapu",
+        "population": -1,
+        "latitude": -21.090994,
+        "longitude": -175.337924
+    },
+    {
+        "name": "Ha‘akame",
+        "country": "Tonga",
+        "province": "Tongatapu",
+        "population": -1,
+        "latitude": -21.182878,
+        "longitude": -175.284909
+    },
+    {
+        "name": "Fua‘amotu",
+        "country": "Tonga",
+        "province": "Tongatapu",
+        "population": -1,
+        "latitude": -21.264028,
+        "longitude": -175.139017
+    },
+    {
+        "name": "Fo‘ui",
+        "country": "Tonga",
+        "province": "Tongatapu",
+        "population": -1,
+        "latitude": -21.113293,
+        "longitude": -175.338323
+    },
+    {
+        "name": "Folaha",
+        "country": "Tonga",
+        "province": "Tongatapu",
+        "population": -1,
+        "latitude": -21.168948,
+        "longitude": -175.179611
+    },
+    {
+        "name": "Feletoa",
+        "country": "Tonga",
+        "province": "Vava‘u",
+        "population": -1,
+        "latitude": -18.61066,
+        "longitude": -173.97108
+    },
+    {
+        "name": "Fata‘ulua",
+        "country": "Tonga",
+        "province": "Vava‘u",
+        "population": -1,
+        "latitude": -15.573105,
+        "longitude": -175.617772
+    },
+    {
+        "name": "Fatai",
+        "country": "Tonga",
+        "province": "Tongatapu",
+        "population": -1,
+        "latitude": -21.133849,
+        "longitude": -175.27612
+    },
+    {
+        "name": "Faleono",
+        "country": "Tonga",
+        "province": "Vava‘u",
+        "population": -1,
+        "latitude": -18.633216,
+        "longitude": -173.94213
+    },
+    {
+        "name": "Fakakai",
+        "country": "Tonga",
+        "province": "Ha‘apai",
+        "population": -1,
+        "latitude": -19.684589,
+        "longitude": -174.27406
+    },
+    {
+        "name": "Fahefa",
+        "country": "Tonga",
+        "province": "Tongatapu",
+        "population": -1,
+        "latitude": -21.144364,
+        "longitude": -175.333033
+    },
+    {
+        "name": "Esia",
+        "country": "Tonga",
+        "province": "Vava‘u",
+        "population": -1,
+        "latitude": -15.568023,
+        "longitude": -175.636089
+    },
+    {
+        "name": "Alaki",
+        "country": "Tonga",
+        "province": "Tongatapu",
+        "population": -1,
+        "latitude": -21.192817,
+        "longitude": -175.131578
+    },
+    {
+        "name": "Ahau",
+        "country": "Tonga",
+        "province": "Tongatapu",
+        "population": -1,
+        "latitude": -21.093359,
+        "longitude": -175.338104
+    },
+    {
+        "name": "Afa",
+        "country": "Tonga",
+        "province": "Tongatapu",
+        "population": -1,
+        "latitude": -21.1333333,
+        "longitude": -175.05
+    },
+    {
+        "name": "Ha'afeva",
+        "country": "Tonga",
+        "province": "Tonga",
+        "population": -1,
+        "latitude": -19.945516,
+        "longitude": -174.70804
+    },
+    {
+        "name": "Taoa",
+        "country": "Tonga",
+        "province": "Vava‘u",
+        "population": -1,
+        "latitude": -18.62888,
+        "longitude": -173.98503
+    },
+    {
+        "name": "Kei",
+        "country": "Tonga",
+        "province": "Vava‘u",
+        "population": -1,
+        "latitude": -18.62671,
+        "longitude": -173.923645
+    },
+    {
+        "name": "Ha’akio",
+        "country": "Tonga",
+        "province": "Vava‘u",
+        "population": -1,
+        "latitude": -18.62026,
+        "longitude": -173.94447
+    },
+    {
+        "name": "Houma",
+        "country": "Tonga",
+        "province": "Vava‘u",
+        "population": -1,
+        "latitude": -18.630731,
+        "longitude": -173.945078
+    },
+    {
+        "name": "Toula",
+        "country": "Tonga",
+        "province": "Vava‘u",
+        "population": -1,
+        "latitude": -18.675849,
+        "longitude": -173.982394
+    },
+    {
+        "name": "’Olo’ua",
+        "country": "Tonga",
+        "province": "Vava‘u",
+        "population": -1,
+        "latitude": -18.6719,
+        "longitude": -173.95623
+    },
+    {
+        "name": "Ofu",
+        "country": "Tonga",
+        "province": "Vava‘u",
+        "population": -1,
+        "latitude": -18.696718,
+        "longitude": -173.96257
+    },
+    {
+        "name": "’Otea",
+        "country": "Tonga",
+        "province": "Vava‘u",
+        "population": -1,
+        "latitude": -18.688274,
+        "longitude": -174.035916
+    },
+    {
+        "name": "Kapa",
+        "country": "Tonga",
+        "province": "Vava‘u",
+        "population": -1,
+        "latitude": -18.707053,
+        "longitude": -174.03664
+    },
+    {
+        "name": "Holeva",
+        "country": "Tonga",
+        "province": "Vava‘u",
+        "population": -1,
+        "latitude": -18.64246,
+        "longitude": -173.922051
+    },
+    {
+        "name": "Nga’unoho",
+        "country": "Tonga",
+        "province": "Vava‘u",
+        "population": -1,
+        "latitude": -18.684738,
+        "longitude": -174.021946
+    },
+    {
+        "name": "Ve’elolo",
+        "country": "Tonga",
+        "province": "Niuas",
+        "population": -1,
+        "latitude": -15.948209,
+        "longitude": -173.720379
+    },
+    {
+        "name": "Kotomaka",
+        "country": "Tonga",
+        "province": "Vava‘u",
+        "population": -1,
+        "latitude": -20.2573,
+        "longitude": -174.798579
+    },
+    {
+        "name": "Luahoko",
+        "country": "Tonga",
+        "province": "Ha‘apai",
+        "population": -1,
+        "latitude": -19.671979,
+        "longitude": -174.39229
+    },
+    {
+        "name": "Topuefio",
+        "country": "Tonga",
+        "province": "Vava‘u",
+        "population": -1,
+        "latitude": -19.68801,
+        "longitude": -175.020979
+    },
+    {
+        "name": "Hokula",
+        "country": "Tonga",
+        "province": "Vava‘u",
+        "population": -1,
+        "latitude": -19.715268,
+        "longitude": -175.059192
+    },
+    {
+        "name": "Manaka",
+        "country": "Tonga",
+        "province": "Ha‘apai",
+        "population": -1,
+        "latitude": -19.758558,
+        "longitude": -175.027748
+    },
+    {
+        "name": "Talasiu",
+        "country": "Tonga",
+        "province": "Vava‘u",
+        "population": -1,
+        "latitude": -21.176782,
+        "longitude": -175.111575
+    },
+    {
+        "name": "Pelehake",
+        "country": "Tonga",
+        "province": "Vava‘u",
+        "population": -1,
+        "latitude": -21.212831,
+        "longitude": -175.143279
+    },
+    {
+        "name": "Taliai Camp",
+        "country": "Tonga",
+        "province": "Vava‘u",
+        "population": -1,
+        "latitude": -21.243421,
+        "longitude": -175.134754
+    },
+    {
+        "name": "Houmakelikao",
+        "country": "Tonga",
+        "province": "Tongatapu",
+        "population": -1,
+        "latitude": -21.14779,
+        "longitude": -175.175405
+    },
+    {
+        "name": "Koloua",
+        "country": "Tonga",
+        "province": "Tongatapu",
+        "population": -1,
+        "latitude": -21.159999,
+        "longitude": -175.227049
+    },
+    {
+        "name": "Lotoha’apai",
+        "country": "Tonga",
+        "province": "Vava‘u",
+        "population": -1,
+        "latitude": -21.188109,
+        "longitude": -175.21335
+    },
+    {
+        "name": "Futu",
+        "country": "Tonga",
+        "province": "Ha‘apai",
+        "population": -1,
+        "latitude": -15.587251,
+        "longitude": -175.670002
+    },
+    {
+        "name": "’Alele’uta",
+        "country": "Tonga",
+        "province": "Ha‘apai",
+        "population": -1,
+        "latitude": -15.568406,
+        "longitude": -175.628317
+    },
+    {
+        "name": "Ha'apai",
+        "country": "Tonga",
+        "province": "Tonga",
+        "population": -1,
+        "latitude": -19.748061,
+        "longitude": -175.05589
+    },
+    {
+        "name": "Eua",
+        "country": "Tonga",
+        "province": "ʻEua",
+        "population": -1,
+        "latitude": -21.364072,
+        "longitude": -174.93866
+    },
+    {
+        "name": "Okoa",
+        "country": "Tonga",
+        "province": "Tonga",
+        "population": -1,
+        "latitude": -18.64864,
+        "longitude": -173.95314
+    },
+    {
+        "name": "Fanga O Pilolevu",
+        "country": "Tonga",
+        "province": "Tongatapu",
+        "population": -1,
+        "latitude": -21.14575,
+        "longitude": -175.21086
+    },
+    {
+        "name": "Matangiake",
+        "country": "Tonga",
+        "province": "Tonga",
+        "population": -1,
+        "latitude": -21.16468,
+        "longitude": -175.27627
+    }
+]

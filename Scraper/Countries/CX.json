@@ -1,0 +1,58 @@
+[
+    {
+        "name": "Flying Fish Cove",
+        "country": "Christmas Island",
+        "province": "Christmas Island",
+        "population": 500,
+        "latitude": -10.4217221698677,
+        "longitude": 105.679121017456
+    },
+    {
+        "name": "Drumsite",
+        "country": "Christmas Island",
+        "province": "Christmas Island",
+        "population": -1,
+        "latitude": -10.43249046,
+        "longitude": 105.672178125
+    },
+    {
+        "name": "Silver City",
+        "country": "Christmas Island",
+        "province": "Christmas Island",
+        "population": -1,
+        "latitude": -10.420189857,
+        "longitude": 105.679496765
+    },
+    {
+        "name": "Poon Saan",
+        "country": "Christmas Island",
+        "province": "Christmas Island",
+        "population": -1,
+        "latitude": -10.42434,
+        "longitude": 105.67865
+    },
+    {
+        "name": "Waterfall",
+        "country": "Christmas Island",
+        "province": "Christmas Island",
+        "population": -1,
+        "latitude": -10.457189,
+        "longitude": 105.70481
+    },
+    {
+        "name": "Settlement",
+        "country": "Christmas Island",
+        "province": "Christmas Island",
+        "population": -1,
+        "latitude": -10.415168,
+        "longitude": 105.675898
+    },
+    {
+        "name": "South Point",
+        "country": "Christmas Island",
+        "province": "Christmas Island",
+        "population": -1,
+        "latitude": -10.553541,
+        "longitude": 105.651718
+    }
+]

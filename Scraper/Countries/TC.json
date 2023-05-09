@@ -1,0 +1,346 @@
+[
+    {
+        "name": "Cockburn Town",
+        "country": "Turks and Caicos Islands",
+        "province": "Turks and Caicos Islands",
+        "population": 3720,
+        "latitude": 21.4612165856583,
+        "longitude": -71.141881942749
+    },
+    {
+        "name": "Cockburn Harbour",
+        "country": "Turks and Caicos Islands",
+        "province": "Turks and Caicos Islands",
+        "population": 811,
+        "latitude": 21.492935,
+        "longitude": -71.533036
+    },
+    {
+        "name": "Wheeland",
+        "country": "Turks and Caicos Islands",
+        "province": "Turks and Caicos Islands",
+        "population": -1,
+        "latitude": 21.813996,
+        "longitude": -72.282131
+    },
+    {
+        "name": "Lorimers",
+        "country": "Turks and Caicos Islands",
+        "province": "Turks and Caicos Islands",
+        "population": -1,
+        "latitude": 21.795403,
+        "longitude": -71.687297
+    },
+    {
+        "name": "Whitby",
+        "country": "Turks and Caicos Islands",
+        "province": "Turks and Caicos Islands",
+        "population": -1,
+        "latitude": 21.954002,
+        "longitude": -71.966136
+    },
+    {
+        "name": "The Bight Settlements",
+        "country": "Turks and Caicos Islands",
+        "province": "Turks and Caicos Islands",
+        "population": -1,
+        "latitude": 21.779602,
+        "longitude": -72.204212
+    },
+    {
+        "name": "Sandy Point",
+        "country": "Turks and Caicos Islands",
+        "province": "Turks and Caicos Islands",
+        "population": -1,
+        "latitude": 21.939328,
+        "longitude": -72.038027
+    },
+    {
+        "name": "Kew",
+        "country": "Turks and Caicos Islands",
+        "province": "Turks and Caicos Islands",
+        "population": -1,
+        "latitude": 21.9134,
+        "longitude": -71.992653
+    },
+    {
+        "name": "Greenwich",
+        "country": "Turks and Caicos Islands",
+        "province": "Turks and Caicos Islands",
+        "population": -1,
+        "latitude": 21.95,
+        "longitude": -71.9333333
+    },
+    {
+        "name": "Five Cays Settlement",
+        "country": "Turks and Caicos Islands",
+        "province": "Turks and Caicos Islands",
+        "population": -1,
+        "latitude": 21.75711,
+        "longitude": -72.26772
+    },
+    {
+        "name": "Conch Bar",
+        "country": "Turks and Caicos Islands",
+        "province": "Turks and Caicos Islands",
+        "population": -1,
+        "latitude": 21.829652,
+        "longitude": -71.800947
+    },
+    {
+        "name": "Bottle Creek Settlements",
+        "country": "Turks and Caicos Islands",
+        "province": "Turks and Caicos Islands",
+        "population": -1,
+        "latitude": 21.883616,
+        "longitude": -71.922298
+    },
+    {
+        "name": "Blue Hills Settlements",
+        "country": "Turks and Caicos Islands",
+        "province": "Turks and Caicos Islands",
+        "population": -1,
+        "latitude": 21.806579,
+        "longitude": -72.276593
+    },
+    {
+        "name": "Bambarra",
+        "country": "Turks and Caicos Islands",
+        "province": "Turks and Caicos Islands",
+        "population": -1,
+        "latitude": 21.815782,
+        "longitude": -71.723109
+    },
+    {
+        "name": "Balfour Town",
+        "country": "Turks and Caicos Islands",
+        "province": "Turks and Caicos Islands",
+        "population": -1,
+        "latitude": 21.32406,
+        "longitude": -71.21548
+    },
+    {
+        "name": "Grace Bay",
+        "country": "Turks and Caicos Islands",
+        "province": "Turks and Caicos Islands",
+        "population": -1,
+        "latitude": 21.78139313736932,
+        "longitude": -72.20918655395508
+    },
+    {
+        "name": "Sapodilla Bay Beach",
+        "country": "Turks and Caicos Islands",
+        "province": "Turks and Caicos Islands",
+        "population": -1,
+        "latitude": 21.74259913726533,
+        "longitude": -72.28188514709473
+    },
+    {
+        "name": "The Flat",
+        "country": "Turks and Caicos Islands",
+        "province": "Turks and Caicos Islands",
+        "population": -1,
+        "latitude": 21.499167,
+        "longitude": -71.533546
+    },
+    {
+        "name": "Highland House",
+        "country": "Turks and Caicos Islands",
+        "province": "Turks and Caicos Islands",
+        "population": -1,
+        "latitude": 21.496471,
+        "longitude": -71.498888
+    },
+    {
+        "name": "Fish-hawks Mark",
+        "country": "Turks and Caicos Islands",
+        "province": "Turks and Caicos Islands",
+        "population": -1,
+        "latitude": 21.48726,
+        "longitude": -71.52561
+    },
+    {
+        "name": "The Pillory",
+        "country": "Turks and Caicos Islands",
+        "province": "Turks and Caicos Islands",
+        "population": -1,
+        "latitude": 21.48088,
+        "longitude": -71.148585
+    },
+    {
+        "name": "Palm Grove",
+        "country": "Turks and Caicos Islands",
+        "province": "Turks and Caicos Islands",
+        "population": -1,
+        "latitude": 21.452091,
+        "longitude": -71.14353
+    },
+    {
+        "name": "Corrinice",
+        "country": "Turks and Caicos Islands",
+        "province": "Turks and Caicos Islands",
+        "population": -1,
+        "latitude": 21.819612,
+        "longitude": -72.287186
+    },
+    {
+        "name": "High Rock",
+        "country": "Turks and Caicos Islands",
+        "province": "Turks and Caicos Islands",
+        "population": -1,
+        "latitude": 21.797226,
+        "longitude": -72.267288
+    },
+    {
+        "name": "Lower Bight",
+        "country": "Turks and Caicos Islands",
+        "province": "Turks and Caicos Islands",
+        "population": -1,
+        "latitude": 21.78134,
+        "longitude": -72.210517
+    },
+    {
+        "name": "Kingston",
+        "country": "Turks and Caicos Islands",
+        "province": "Turks and Caicos Islands",
+        "population": -1,
+        "latitude": 21.785874,
+        "longitude": -72.188332
+    },
+    {
+        "name": "Major Hill",
+        "country": "Turks and Caicos Islands",
+        "province": "Turks and Caicos Islands",
+        "population": -1,
+        "latitude": 21.918049,
+        "longitude": -71.922498
+    },
+    {
+        "name": "Belleview",
+        "country": "Turks and Caicos Islands",
+        "province": "Turks and Caicos Islands",
+        "population": -1,
+        "latitude": 21.901973,
+        "longitude": -71.920765
+    },
+    {
+        "name": "Belvedere",
+        "country": "Turks and Caicos Islands",
+        "province": "Turks and Caicos Islands",
+        "population": -1,
+        "latitude": 21.892659,
+        "longitude": -71.919809
+    },
+    {
+        "name": "North Windsor",
+        "country": "Turks and Caicos Islands",
+        "province": "Turks and Caicos Islands",
+        "population": -1,
+        "latitude": 21.888197,
+        "longitude": -71.918924
+    },
+    {
+        "name": "South Windsor",
+        "country": "Turks and Caicos Islands",
+        "province": "Turks and Caicos Islands",
+        "population": -1,
+        "latitude": 21.883735,
+        "longitude": -71.917791
+    },
+    {
+        "name": "Karmont",
+        "country": "Turks and Caicos Islands",
+        "province": "Turks and Caicos Islands",
+        "population": -1,
+        "latitude": 21.87945,
+        "longitude": -71.916976
+    },
+    {
+        "name": "Richmond",
+        "country": "Turks and Caicos Islands",
+        "province": "Turks and Caicos Islands",
+        "population": -1,
+        "latitude": 21.869711,
+        "longitude": -71.91255
+    },
+    {
+        "name": "Laughland",
+        "country": "Turks and Caicos Islands",
+        "province": "Turks and Caicos Islands",
+        "population": -1,
+        "latitude": 21.859583,
+        "longitude": -71.906246
+    },
+    {
+        "name": "Belmont",
+        "country": "Turks and Caicos Islands",
+        "province": "Turks and Caicos Islands",
+        "population": -1,
+        "latitude": 21.851686,
+        "longitude": -71.900155
+    },
+    {
+        "name": "North District",
+        "country": "Turks and Caicos Islands",
+        "province": "Turks and Caicos Islands",
+        "population": -1,
+        "latitude": 21.332496,
+        "longitude": -71.210727
+    },
+    {
+        "name": "South District",
+        "country": "Turks and Caicos Islands",
+        "province": "Turks and Caicos Islands",
+        "population": -1,
+        "latitude": 21.319058,
+        "longitude": -71.213371
+    },
+    {
+        "name": "Providenciales",
+        "country": "Turks and Caicos Islands",
+        "province": "Turks and Caicos Islands",
+        "population": -1,
+        "latitude": 21.78254,
+        "longitude": -72.25206
+    },
+    {
+        "name": "Yankee Town",
+        "country": "Turks and Caicos Islands",
+        "province": "Turks and Caicos Islands",
+        "population": -1,
+        "latitude": 21.662577,
+        "longitude": -72.466308
+    },
+    {
+        "name": "West Road",
+        "country": "Turks and Caicos Islands",
+        "province": "Turks and Caicos Islands",
+        "population": -1,
+        "latitude": 21.475279,
+        "longitude": -71.148525
+    },
+    {
+        "name": "Over Back The Damp",
+        "country": "Turks and Caicos Islands",
+        "province": "Turks and Caicos Islands",
+        "population": -1,
+        "latitude": 21.4666667,
+        "longitude": -71.1333333
+    },
+    {
+        "name": "Back Salina",
+        "country": "Turks and Caicos Islands",
+        "province": "Turks and Caicos Islands",
+        "population": -1,
+        "latitude": 21.461612,
+        "longitude": -71.143042
+    },
+    {
+        "name": "Jacksonville",
+        "country": "Turks and Caicos Islands",
+        "province": "Turks and Caicos Islands",
+        "population": -1,
+        "latitude": 21.754024,
+        "longitude": -71.592814
+    }
+]

@@ -1,0 +1,5274 @@
+[
+    {
+        "name": "Abu Dhabi",
+        "country": "United Arab Emirates",
+        "province": "Abu Dhabi",
+        "population": 603492,
+        "latitude": 24.451185,
+        "longitude": 54.396958
+    },
+    {
+        "name": "Ras al-Khaimah",
+        "country": "United Arab Emirates",
+        "province": "Raʼs al Khaymah",
+        "population": 351943,
+        "latitude": 25.789527,
+        "longitude": 55.943196
+    },
+    {
+        "name": "Al Fujairah City",
+        "country": "United Arab Emirates",
+        "province": "Fujairah",
+        "population": 86512,
+        "latitude": 25.116412,
+        "longitude": 56.341408
+    },
+    {
+        "name": "Ajman",
+        "country": "United Arab Emirates",
+        "province": "Ajman",
+        "population": 490035,
+        "latitude": 25.401771,
+        "longitude": 55.47878
+    },
+    {
+        "name": "Dubai",
+        "country": "United Arab Emirates",
+        "province": "Dubai",
+        "population": 3478300,
+        "latitude": 25.07725,
+        "longitude": 55.309275
+    },
+    {
+        "name": "Sharjah",
+        "country": "United Arab Emirates",
+        "province": "Sharjah",
+        "population": 1274749,
+        "latitude": 25.337374,
+        "longitude": 55.412056
+    },
+    {
+        "name": "Musaffah City",
+        "country": "United Arab Emirates",
+        "province": "Abu Dhabi",
+        "population": 243341,
+        "latitude": 24.35893,
+        "longitude": 54.48267
+    },
+    {
+        "name": "Al Ain City",
+        "country": "United Arab Emirates",
+        "province": "Abu Dhabi",
+        "population": 846747,
+        "latitude": 24.191667,
+        "longitude": 55.760556
+    },
+    {
+        "name": "Khalifah A City",
+        "country": "United Arab Emirates",
+        "province": "Abu Dhabi",
+        "population": 85374,
+        "latitude": 24.4258801,
+        "longitude": 54.60500495
+    },
+    {
+        "name": "Umm al-Quwain",
+        "country": "United Arab Emirates",
+        "province": "Imārat Umm al Qaywayn",
+        "population": 62747,
+        "latitude": 25.56473,
+        "longitude": 55.555166
+    },
+    {
+        "name": "Reef Al Fujairah City",
+        "country": "United Arab Emirates",
+        "province": "Fujairah",
+        "population": 82310,
+        "latitude": 25.1447888,
+        "longitude": 56.24764
+    },
+    {
+        "name": "Bani Yas City",
+        "country": "United Arab Emirates",
+        "province": "Abu Dhabi",
+        "population": 80498,
+        "latitude": 24.30978,
+        "longitude": 54.62944
+    },
+    {
+        "name": "Zayed City",
+        "country": "United Arab Emirates",
+        "province": "Abu Dhabi",
+        "population": 63482,
+        "latitude": 23.65416,
+        "longitude": 53.705219
+    },
+    {
+        "name": "Khor Fakkan City",
+        "country": "United Arab Emirates",
+        "province": "Sharjah",
+        "population": 40677,
+        "latitude": 25.331324,
+        "longitude": 56.341993
+    },
+    {
+        "name": "Dibba Al-Hisn",
+        "country": "United Arab Emirates",
+        "province": "Fujairah",
+        "population": 26395,
+        "latitude": 25.619547,
+        "longitude": 56.272912
+    },
+    {
+        "name": "Dibba Al-Fujairah",
+        "country": "United Arab Emirates",
+        "province": "Fujairah",
+        "population": 30000,
+        "latitude": 25.59246,
+        "longitude": 56.26176
+    },
+    {
+        "name": "Ar Ruways",
+        "country": "United Arab Emirates",
+        "province": "Abu Dhabi",
+        "population": 25000,
+        "latitude": 24.1102778,
+        "longitude": 52.7305556
+    },
+    {
+        "name": "Adh Dhayd",
+        "country": "United Arab Emirates",
+        "province": "Sharjah",
+        "population": 20165,
+        "latitude": 25.288123,
+        "longitude": 55.881571
+    },
+    {
+        "name": "Al Shamkhah City",
+        "country": "United Arab Emirates",
+        "province": "Abu Dhabi",
+        "population": 61710,
+        "latitude": 24.39268,
+        "longitude": 54.70779
+    },
+    {
+        "name": "Mezaira’a",
+        "country": "United Arab Emirates",
+        "province": "Abu Dhabi",
+        "population": 10000,
+        "latitude": 23.143549,
+        "longitude": 53.788097
+    },
+    {
+        "name": "Murbaḩ",
+        "country": "United Arab Emirates",
+        "province": "Sharjah",
+        "population": 2000,
+        "latitude": 25.276233,
+        "longitude": 56.362558
+    },
+    {
+        "name": "Maşfūţ",
+        "country": "United Arab Emirates",
+        "province": "Ajman",
+        "population": 8988,
+        "latitude": 24.810894,
+        "longitude": 56.106573
+    },
+    {
+        "name": "Falaj al Mu‘allā",
+        "country": "United Arab Emirates",
+        "province": "Imārat Umm al Qaywayn",
+        "population": -1,
+        "latitude": 25.354005,
+        "longitude": 55.853315
+    },
+    {
+        "name": "Badīyah",
+        "country": "United Arab Emirates",
+        "province": "Fujairah",
+        "population": -1,
+        "latitude": 25.432273,
+        "longitude": 56.345736
+    },
+    {
+        "name": "Al Manāmah",
+        "country": "United Arab Emirates",
+        "province": "Ajman",
+        "population": 5823,
+        "latitude": 25.329901,
+        "longitude": 56.021884
+    },
+    {
+        "name": "Al Ḩayrah",
+        "country": "United Arab Emirates",
+        "province": "Sharjah",
+        "population": -1,
+        "latitude": 25.38148,
+        "longitude": 55.419551
+    },
+    {
+        "name": "Al Ḩamrīyah",
+        "country": "United Arab Emirates",
+        "province": "Sharjah",
+        "population": -1,
+        "latitude": 25.478194,
+        "longitude": 55.533768
+    },
+    {
+        "name": "Hatta",
+        "country": "United Arab Emirates",
+        "province": "Dubai",
+        "population": -1,
+        "latitude": 24.80073,
+        "longitude": 56.127258
+    },
+    {
+        "name": "Al Barsha",
+        "country": "United Arab Emirates",
+        "province": "Dubai",
+        "population": -1,
+        "latitude": 25.08972,
+        "longitude": 55.22465
+    },
+    {
+        "name": "Ḩaşat al Bidīyah",
+        "country": "United Arab Emirates",
+        "province": "Sharjah",
+        "population": -1,
+        "latitude": 25.327278,
+        "longitude": 55.97992
+    },
+    {
+        "name": "Al Masāfirah",
+        "country": "United Arab Emirates",
+        "province": "Raʼs al Khaymah",
+        "population": -1,
+        "latitude": 25.6833333,
+        "longitude": 55.95
+    },
+    {
+        "name": "Ḩām Ḩām",
+        "country": "United Arab Emirates",
+        "province": "Raʼs al Khaymah",
+        "population": -1,
+        "latitude": 25.6861111,
+        "longitude": 55.9638889
+    },
+    {
+        "name": "Al Ḩamrānīyah",
+        "country": "United Arab Emirates",
+        "province": "Raʼs al Khaymah",
+        "population": -1,
+        "latitude": 25.6113889,
+        "longitude": 55.9002778
+    },
+    {
+        "name": "Margham",
+        "country": "United Arab Emirates",
+        "province": "Dubai",
+        "population": -1,
+        "latitude": 24.898684,
+        "longitude": 55.624018
+    },
+    {
+        "name": "Mawrid",
+        "country": "United Arab Emirates",
+        "province": "Raʼs al Khaymah",
+        "population": -1,
+        "latitude": 25.428708,
+        "longitude": 56.114574
+    },
+    {
+        "name": "Qārat ad Dum",
+        "country": "United Arab Emirates",
+        "province": "Raʼs al Khaymah",
+        "population": -1,
+        "latitude": 25.8602778,
+        "longitude": 56.025
+    },
+    {
+        "name": "Al Ghashbān",
+        "country": "United Arab Emirates",
+        "province": "Raʼs al Khaymah",
+        "population": -1,
+        "latitude": 26.0425,
+        "longitude": 56.1186111
+    },
+    {
+        "name": "Ghubbat Khawrah",
+        "country": "United Arab Emirates",
+        "province": "Raʼs al Khaymah",
+        "population": -1,
+        "latitude": 26.0427778,
+        "longitude": 56.135
+    },
+    {
+        "name": "Ḩārat ‘Awālī",
+        "country": "United Arab Emirates",
+        "province": "Raʼs al Khaymah",
+        "population": -1,
+        "latitude": 26.017274,
+        "longitude": 56.132756
+    },
+    {
+        "name": "Al Ḩulaylah",
+        "country": "United Arab Emirates",
+        "province": "Raʼs al Khaymah",
+        "population": -1,
+        "latitude": 25.8855556,
+        "longitude": 56.0522222
+    },
+    {
+        "name": "Al Khashfah",
+        "country": "United Arab Emirates",
+        "province": "Raʼs al Khaymah",
+        "population": -1,
+        "latitude": 26.0283333,
+        "longitude": 56.1394444
+    },
+    {
+        "name": "Wayb Ḩawf",
+        "country": "United Arab Emirates",
+        "province": "Raʼs al Khaymah",
+        "population": -1,
+        "latitude": 26.0288889,
+        "longitude": 56.1211111
+    },
+    {
+        "name": "Al Ghabām",
+        "country": "United Arab Emirates",
+        "province": "Raʼs al Khaymah",
+        "population": -1,
+        "latitude": 26.0327778,
+        "longitude": 56.1522222
+    },
+    {
+        "name": "Qaf’ah",
+        "country": "United Arab Emirates",
+        "province": "Raʼs al Khaymah",
+        "population": -1,
+        "latitude": 26.038056,
+        "longitude": 56.108611
+    },
+    {
+        "name": "Sharyāt",
+        "country": "United Arab Emirates",
+        "province": "Raʼs al Khaymah",
+        "population": -1,
+        "latitude": 26.0430556,
+        "longitude": 56.1080556
+    },
+    {
+        "name": "Suhaylah",
+        "country": "United Arab Emirates",
+        "province": "Dubai",
+        "population": -1,
+        "latitude": 24.803878,
+        "longitude": 56.194487
+    },
+    {
+        "name": "Zubārah",
+        "country": "United Arab Emirates",
+        "province": "Fujairah",
+        "population": -1,
+        "latitude": 25.404867,
+        "longitude": 56.359707
+    },
+    {
+        "name": "Yinas",
+        "country": "United Arab Emirates",
+        "province": "Raʼs al Khaymah",
+        "population": -1,
+        "latitude": 25.731585,
+        "longitude": 56.134047
+    },
+    {
+        "name": "Warīsān",
+        "country": "United Arab Emirates",
+        "province": "Dubai",
+        "population": -1,
+        "latitude": 25.167443,
+        "longitude": 55.407083
+    },
+    {
+        "name": "Wafd",
+        "country": "United Arab Emirates",
+        "province": "Abu Dhabi",
+        "population": -1,
+        "latitude": 23.102624,
+        "longitude": 53.711588
+    },
+    {
+        "name": "Wad Wid",
+        "country": "United Arab Emirates",
+        "province": "Raʼs al Khaymah",
+        "population": -1,
+        "latitude": 25.625149,
+        "longitude": 56.013964
+    },
+    {
+        "name": "Wādī Shī",
+        "country": "United Arab Emirates",
+        "province": "Sharjah",
+        "population": -1,
+        "latitude": 25.35,
+        "longitude": 56.3166667
+    },
+    {
+        "name": "Ţayyibah",
+        "country": "United Arab Emirates",
+        "province": "Fujairah",
+        "population": -1,
+        "latitude": 25.412279,
+        "longitude": 56.170748
+    },
+    {
+        "name": "Ţarīf Kalbā",
+        "country": "United Arab Emirates",
+        "province": "Fujairah",
+        "population": -1,
+        "latitude": 25.069501,
+        "longitude": 56.331154
+    },
+    {
+        "name": "Ţarīf",
+        "country": "United Arab Emirates",
+        "province": "Abu Dhabi",
+        "population": -1,
+        "latitude": 24.053988,
+        "longitude": 53.763468
+    },
+    {
+        "name": "Suḩaybah",
+        "country": "United Arab Emirates",
+        "province": "Raʼs al Khaymah",
+        "population": -1,
+        "latitude": 24.938768,
+        "longitude": 56.157535
+    },
+    {
+        "name": "Şufayrī",
+        "country": "United Arab Emirates",
+        "province": "Ajman",
+        "population": -1,
+        "latitude": 24.811678,
+        "longitude": 56.126465
+    },
+    {
+        "name": "Shīs",
+        "country": "United Arab Emirates",
+        "province": "Sharjah",
+        "population": -1,
+        "latitude": 25.291376,
+        "longitude": 56.24549
+    },
+    {
+        "name": "Shimāl",
+        "country": "United Arab Emirates",
+        "province": "Raʼs al Khaymah",
+        "population": -1,
+        "latitude": 25.817799,
+        "longitude": 56.010876
+    },
+    {
+        "name": "Shawkah",
+        "country": "United Arab Emirates",
+        "province": "Raʼs al Khaymah",
+        "population": -1,
+        "latitude": 25.1,
+        "longitude": 56.0333333
+    },
+    {
+        "name": "Sharīyah",
+        "country": "United Arab Emirates",
+        "province": "Raʼs al Khaymah",
+        "population": -1,
+        "latitude": 25.1,
+        "longitude": 56.0333333
+    },
+    {
+        "name": "Sharīyah",
+        "country": "United Arab Emirates",
+        "province": "Ajman",
+        "population": -1,
+        "latitude": 24.815118,
+        "longitude": 56.0986
+    },
+    {
+        "name": "Shahawāt",
+        "country": "United Arab Emirates",
+        "province": "Raʼs al Khaymah",
+        "population": -1,
+        "latitude": 25.966667,
+        "longitude": 56.083333
+    },
+    {
+        "name": "Shāh",
+        "country": "United Arab Emirates",
+        "province": "Raʼs al Khaymah",
+        "population": -1,
+        "latitude": 25.8986111,
+        "longitude": 56.1283333
+    },
+    {
+        "name": "Shabakah",
+        "country": "United Arab Emirates",
+        "province": "Raʼs al Khaymah",
+        "population": -1,
+        "latitude": 25.0333333,
+        "longitude": 56
+    },
+    {
+        "name": "Sayḩ aş Şaqlah",
+        "country": "United Arab Emirates",
+        "province": "Raʼs al Khaymah",
+        "population": -1,
+        "latitude": 24.883978,
+        "longitude": 56.168472
+    },
+    {
+        "name": "Sayḩ",
+        "country": "United Arab Emirates",
+        "province": "Raʼs al Khaymah",
+        "population": -1,
+        "latitude": 25.9333333,
+        "longitude": 56.0666667
+    },
+    {
+        "name": "Saqamqam",
+        "country": "United Arab Emirates",
+        "province": "Fujairah",
+        "population": -1,
+        "latitude": 25.174666,
+        "longitude": 56.330388
+    },
+    {
+        "name": "Şāliḩīyah",
+        "country": "United Arab Emirates",
+        "province": "Raʼs al Khaymah",
+        "population": -1,
+        "latitude": 25.721613,
+        "longitude": 55.990811
+    },
+    {
+        "name": "Muḩayşnah",
+        "country": "United Arab Emirates",
+        "province": "Dubai",
+        "population": -1,
+        "latitude": 25.249899,
+        "longitude": 55.419037
+    },
+    {
+        "name": "Rughaylāt",
+        "country": "United Arab Emirates",
+        "province": "Fujairah",
+        "population": -1,
+        "latitude": 25.105516,
+        "longitude": 56.356301
+    },
+    {
+        "name": "Riyāmah",
+        "country": "United Arab Emirates",
+        "province": "Fujairah",
+        "population": -1,
+        "latitude": 25.545635,
+        "longitude": 56.058359
+    },
+    {
+        "name": "Rimá",
+        "country": "United Arab Emirates",
+        "province": "Raʼs al Khaymah",
+        "population": -1,
+        "latitude": 25.167837,
+        "longitude": 56.117952
+    },
+    {
+        "name": "Ramlah",
+        "country": "United Arab Emirates",
+        "province": "Fujairah",
+        "population": -1,
+        "latitude": 25.359789,
+        "longitude": 56.044519
+    },
+    {
+        "name": "Rafaq",
+        "country": "United Arab Emirates",
+        "province": "Raʼs al Khaymah",
+        "population": -1,
+        "latitude": 24.874708,
+        "longitude": 56.245589
+    },
+    {
+        "name": "Rafā‘",
+        "country": "United Arab Emirates",
+        "province": "Sharjah",
+        "population": -1,
+        "latitude": 25.347006,
+        "longitude": 56.350141
+    },
+    {
+        "name": "Qurm",
+        "country": "United Arab Emirates",
+        "province": "Raʼs al Khaymah",
+        "population": -1,
+        "latitude": 25.9113889,
+        "longitude": 56.0641667
+    },
+    {
+        "name": "Qūr",
+        "country": "United Arab Emirates",
+        "province": "Raʼs al Khaymah",
+        "population": -1,
+        "latitude": 24.912136,
+        "longitude": 56.095661
+    },
+    {
+        "name": "Quar Al Qahlish",
+        "country": "United Arab Emirates",
+        "province": "Raʼs al Khaymah",
+        "population": -1,
+        "latitude": 25.985,
+        "longitude": 56.086389
+    },
+    {
+        "name": "Qidfa‘",
+        "country": "United Arab Emirates",
+        "province": "Sharjah",
+        "population": -1,
+        "latitude": 25.304259,
+        "longitude": 56.370338
+    },
+    {
+        "name": "Qaţţārah",
+        "country": "United Arab Emirates",
+        "province": "Abu Dhabi",
+        "population": -1,
+        "latitude": 24.259929,
+        "longitude": 55.755658
+    },
+    {
+        "name": "Qabas",
+        "country": "United Arab Emirates",
+        "province": "Raʼs al Khaymah",
+        "population": -1,
+        "latitude": 26.034347,
+        "longitude": 56.123019
+    },
+    {
+        "name": "Naḩwah",
+        "country": "United Arab Emirates",
+        "province": "Sharjah",
+        "population": -1,
+        "latitude": 25.26822,
+        "longitude": 56.28013
+    },
+    {
+        "name": "Murrah",
+        "country": "United Arab Emirates",
+        "province": "Fujairah",
+        "population": -1,
+        "latitude": 25.199027,
+        "longitude": 56.221651
+    },
+    {
+        "name": "Muraytah",
+        "country": "United Arab Emirates",
+        "province": "Raʼs al Khaymah",
+        "population": -1,
+        "latitude": 25.400317,
+        "longitude": 56.058435
+    },
+    {
+        "name": "Mukhtaraqah",
+        "country": "United Arab Emirates",
+        "province": "Fujairah",
+        "population": -1,
+        "latitude": 25.540918,
+        "longitude": 56.130664
+    },
+    {
+        "name": "Nedaifi",
+        "country": "United Arab Emirates",
+        "province": "Sharjah",
+        "population": -1,
+        "latitude": 25.361667,
+        "longitude": 56.344722
+    },
+    {
+        "name": "Minhā",
+        "country": "United Arab Emirates",
+        "province": "Raʼs al Khaymah",
+        "population": -1,
+        "latitude": 25.157449,
+        "longitude": 56.080114
+    },
+    {
+        "name": "Minazif",
+        "country": "United Arab Emirates",
+        "province": "Raʼs al Khaymah",
+        "population": -1,
+        "latitude": 24.94256,
+        "longitude": 56.210738
+    },
+    {
+        "name": "Mawşil",
+        "country": "United Arab Emirates",
+        "province": "Abu Dhabi",
+        "population": -1,
+        "latitude": 23.013531,
+        "longitude": 54.154475
+    },
+    {
+        "name": "Māsah",
+        "country": "United Arab Emirates",
+        "province": "Raʼs al Khaymah",
+        "population": -1,
+        "latitude": 25.303186,
+        "longitude": 56.164896
+    },
+    {
+        "name": "Masāfī",
+        "country": "United Arab Emirates",
+        "province": "Raʼs al Khaymah",
+        "population": -1,
+        "latitude": 25.301285,
+        "longitude": 56.165306
+    },
+    {
+        "name": "Marḩāmid",
+        "country": "United Arab Emirates",
+        "province": "Raʼs al Khaymah",
+        "population": -1,
+        "latitude": 25.097081,
+        "longitude": 56.030558
+    },
+    {
+        "name": "Manqashah",
+        "country": "United Arab Emirates",
+        "province": "Raʼs al Khaymah",
+        "population": -1,
+        "latitude": 26.035,
+        "longitude": 56.1486111
+    },
+    {
+        "name": "Maghribīyah",
+        "country": "United Arab Emirates",
+        "province": "Raʼs al Khaymah",
+        "population": -1,
+        "latitude": 25.2,
+        "longitude": 56.05
+    },
+    {
+        "name": "Maydaq",
+        "country": "United Arab Emirates",
+        "province": "Fujairah",
+        "population": -1,
+        "latitude": 25.339118,
+        "longitude": 56.104939
+    },
+    {
+        "name": "Lūlayyah",
+        "country": "United Arab Emirates",
+        "province": "Sharjah",
+        "population": -1,
+        "latitude": 25.392581,
+        "longitude": 56.354636
+    },
+    {
+        "name": "Layyah",
+        "country": "United Arab Emirates",
+        "province": "Sharjah",
+        "population": -1,
+        "latitude": 25.353969,
+        "longitude": 55.37189
+    },
+    {
+        "name": "Kūb",
+        "country": "United Arab Emirates",
+        "province": "Raʼs al Khaymah",
+        "population": -1,
+        "latitude": 25.470175,
+        "longitude": 56.118865
+    },
+    {
+        "name": "Khulaybīyah",
+        "country": "United Arab Emirates",
+        "province": "Fujairah",
+        "population": -1,
+        "latitude": 25.381235,
+        "longitude": 56.173576
+    },
+    {
+        "name": "Khawr Khuwayr",
+        "country": "United Arab Emirates",
+        "province": "Raʼs al Khaymah",
+        "population": -1,
+        "latitude": 25.965765,
+        "longitude": 56.054708
+    },
+    {
+        "name": "Khawr Kalbā",
+        "country": "United Arab Emirates",
+        "province": "Sharjah",
+        "population": -1,
+        "latitude": 25.038352,
+        "longitude": 56.362578
+    },
+    {
+        "name": "Khatt",
+        "country": "United Arab Emirates",
+        "province": "Raʼs al Khaymah",
+        "population": -1,
+        "latitude": 25.617288,
+        "longitude": 56.011128
+    },
+    {
+        "name": "Kharrān",
+        "country": "United Arab Emirates",
+        "province": "Raʼs al Khaymah",
+        "population": -1,
+        "latitude": 25.716175,
+        "longitude": 55.967757
+    },
+    {
+        "name": "Khabākhib",
+        "country": "United Arab Emirates",
+        "province": "Raʼs al Khaymah",
+        "population": -1,
+        "latitude": 25.452002,
+        "longitude": 56.093755
+    },
+    {
+        "name": "Kalbā",
+        "country": "United Arab Emirates",
+        "province": "Sharjah",
+        "population": -1,
+        "latitude": 25.07462,
+        "longitude": 56.355447
+    },
+    {
+        "name": "Jumayrā",
+        "country": "United Arab Emirates",
+        "province": "Dubai",
+        "population": -1,
+        "latitude": 25.207953,
+        "longitude": 55.24969
+    },
+    {
+        "name": "Al Jazīrah al Ḩamrā’",
+        "country": "United Arab Emirates",
+        "province": "Raʼs al Khaymah",
+        "population": -1,
+        "latitude": 25.709102,
+        "longitude": 55.807724
+    },
+    {
+        "name": "Adhan",
+        "country": "United Arab Emirates",
+        "province": "Raʼs al Khaymah",
+        "population": -1,
+        "latitude": 25.460122,
+        "longitude": 56.012562
+    },
+    {
+        "name": "Huwaylāt",
+        "country": "United Arab Emirates",
+        "province": "Raʼs al Khaymah",
+        "population": -1,
+        "latitude": 24.876638,
+        "longitude": 56.173722
+    },
+    {
+        "name": "Ḩiyāwah",
+        "country": "United Arab Emirates",
+        "province": "Sharjah",
+        "population": -1,
+        "latitude": 25.360429,
+        "longitude": 56.347729
+    },
+    {
+        "name": "Ḩayl",
+        "country": "United Arab Emirates",
+        "province": "Fujairah",
+        "population": -1,
+        "latitude": 25.092227,
+        "longitude": 56.24418
+    },
+    {
+        "name": "Ḩayāt",
+        "country": "United Arab Emirates",
+        "province": "Sharjah",
+        "population": -1,
+        "latitude": 25.058141,
+        "longitude": 56.345749
+    },
+    {
+        "name": "Ḩatīyah",
+        "country": "United Arab Emirates",
+        "province": "Raʼs al Khaymah",
+        "population": -1,
+        "latitude": 25.403735,
+        "longitude": 56.144596
+    },
+    {
+        "name": "Ḩarrah",
+        "country": "United Arab Emirates",
+        "province": "Sharjah",
+        "population": -1,
+        "latitude": 24.990387,
+        "longitude": 56.216691
+    },
+    {
+        "name": "Ḩamīm",
+        "country": "United Arab Emirates",
+        "province": "Abu Dhabi",
+        "population": -1,
+        "latitude": 22.95805,
+        "longitude": 54.297206
+    },
+    {
+        "name": "Ḩafarah",
+        "country": "United Arab Emirates",
+        "province": "Fujairah",
+        "population": -1,
+        "latitude": 25.041055,
+        "longitude": 56.314853
+    },
+    {
+        "name": "Ḩabḩab",
+        "country": "United Arab Emirates",
+        "province": "Raʼs al Khaymah",
+        "population": -1,
+        "latitude": 25.61564,
+        "longitude": 56.004413
+    },
+    {
+        "name": "Gragrah",
+        "country": "United Arab Emirates",
+        "province": "Raʼs al Khaymah",
+        "population": -1,
+        "latitude": 25.465826,
+        "longitude": 55.978031
+    },
+    {
+        "name": "Ghamarah",
+        "country": "United Arab Emirates",
+        "province": "Raʼs al Khaymah",
+        "population": -1,
+        "latitude": 25.294195,
+        "longitude": 56.170094
+    },
+    {
+        "name": "Al Ghābah",
+        "country": "United Arab Emirates",
+        "province": "Raʼs al Khaymah",
+        "population": -1,
+        "latitude": 26.048889,
+        "longitude": 56.153333
+    },
+    {
+        "name": "Ghayl",
+        "country": "United Arab Emirates",
+        "province": "Raʼs al Khaymah",
+        "population": -1,
+        "latitude": 25.401739,
+        "longitude": 56.068063
+    },
+    {
+        "name": "Ghayl",
+        "country": "United Arab Emirates",
+        "province": "Sharjah",
+        "population": -1,
+        "latitude": 25.006774,
+        "longitude": 56.332905
+    },
+    {
+        "name": "Ghalīlah",
+        "country": "United Arab Emirates",
+        "province": "Raʼs al Khaymah",
+        "population": -1,
+        "latitude": 25.9975,
+        "longitude": 56.0744444
+    },
+    {
+        "name": "Ghāghah",
+        "country": "United Arab Emirates",
+        "province": "Raʼs al Khaymah",
+        "population": -1,
+        "latitude": 25.766667,
+        "longitude": 56.066667
+    },
+    {
+        "name": "Ghadf",
+        "country": "United Arab Emirates",
+        "province": "Raʼs al Khaymah",
+        "population": -1,
+        "latitude": 25.28358,
+        "longitude": 56.174102
+    },
+    {
+        "name": "Fayyāḑ",
+        "country": "United Arab Emirates",
+        "province": "Raʼs al Khaymah",
+        "population": -1,
+        "latitude": 24.957746,
+        "longitude": 56.205983
+    },
+    {
+        "name": "Fa’y",
+        "country": "United Arab Emirates",
+        "province": "Raʼs al Khaymah",
+        "population": -1,
+        "latitude": 25.170698,
+        "longitude": 56.10159
+    },
+    {
+        "name": "Fashrah",
+        "country": "United Arab Emirates",
+        "province": "Raʼs al Khaymah",
+        "population": -1,
+        "latitude": 24.884097,
+        "longitude": 56.205284
+    },
+    {
+        "name": "Diqdāqah",
+        "country": "United Arab Emirates",
+        "province": "Raʼs al Khaymah",
+        "population": -1,
+        "latitude": 25.665602,
+        "longitude": 55.969045
+    },
+    {
+        "name": "Dhad al Arab",
+        "country": "United Arab Emirates",
+        "province": "Imārat Umm al Qaywayn",
+        "population": -1,
+        "latitude": 25.616667,
+        "longitude": 55.85
+    },
+    {
+        "name": "Dayrah",
+        "country": "United Arab Emirates",
+        "province": "Dubai",
+        "population": -1,
+        "latitude": 25.271428,
+        "longitude": 55.302068
+    },
+    {
+        "name": "Daynah",
+        "country": "United Arab Emirates",
+        "province": "Raʼs al Khaymah",
+        "population": -1,
+        "latitude": 25.047111,
+        "longitude": 56.008952
+    },
+    {
+        "name": "Ḑāyah",
+        "country": "United Arab Emirates",
+        "province": "Raʼs al Khaymah",
+        "population": -1,
+        "latitude": 25.887843,
+        "longitude": 56.058239
+    },
+    {
+        "name": "Dārah",
+        "country": "United Arab Emirates",
+        "province": "Raʼs al Khaymah",
+        "population": -1,
+        "latitude": 25.1008333,
+        "longitude": 56.0572222
+    },
+    {
+        "name": "Ḑāhir",
+        "country": "United Arab Emirates",
+        "province": "Fujairah",
+        "population": -1,
+        "latitude": 25.533418,
+        "longitude": 56.154992
+    },
+    {
+        "name": "Daftah",
+        "country": "United Arab Emirates",
+        "province": "Raʼs al Khaymah",
+        "population": -1,
+        "latitude": 25.272255,
+        "longitude": 56.183534
+    },
+    {
+        "name": "Ḑadnā",
+        "country": "United Arab Emirates",
+        "province": "Fujairah",
+        "population": -1,
+        "latitude": 25.524217,
+        "longitude": 56.35868
+    },
+    {
+        "name": "Bidīyah",
+        "country": "United Arab Emirates",
+        "province": "Raʼs al Khaymah",
+        "population": -1,
+        "latitude": 25.675,
+        "longitude": 55.9719444
+    },
+    {
+        "name": "Bidá",
+        "country": "United Arab Emirates",
+        "province": "Raʼs al Khaymah",
+        "population": -1,
+        "latitude": 25.764529,
+        "longitude": 55.977116
+    },
+    {
+        "name": "Baqal",
+        "country": "United Arab Emirates",
+        "province": "Raʼs al Khaymah",
+        "population": -1,
+        "latitude": 25.68913,
+        "longitude": 56.087677
+    },
+    {
+        "name": "‘Ayīm",
+        "country": "United Arab Emirates",
+        "province": "Raʼs al Khaymah",
+        "population": -1,
+        "latitude": 25.439977,
+        "longitude": 56.06869
+    },
+    {
+        "name": "‘Uwaynāt",
+        "country": "United Arab Emirates",
+        "province": "Imārat Umm al Qaywayn",
+        "population": -1,
+        "latitude": 25.365847,
+        "longitude": 55.856185
+    },
+    {
+        "name": "Athabāt",
+        "country": "United Arab Emirates",
+        "province": "Raʼs al Khaymah",
+        "population": -1,
+        "latitude": 25.163564,
+        "longitude": 56.09619
+    },
+    {
+        "name": "‘Asamah",
+        "country": "United Arab Emirates",
+        "province": "Raʼs al Khaymah",
+        "population": -1,
+        "latitude": 25.398308,
+        "longitude": 56.150726
+    },
+    {
+        "name": "Ar Rūl",
+        "country": "United Arab Emirates",
+        "province": "Fujairah",
+        "population": -1,
+        "latitude": 25.601056,
+        "longitude": 56.322797
+    },
+    {
+        "name": "Ar Rufayşah",
+        "country": "United Arab Emirates",
+        "province": "Sharjah",
+        "population": -1,
+        "latitude": 25.345181,
+        "longitude": 56.3225
+    },
+    {
+        "name": "Ar Rams",
+        "country": "United Arab Emirates",
+        "province": "Raʼs al Khaymah",
+        "population": -1,
+        "latitude": 25.876579,
+        "longitude": 56.018619
+    },
+    {
+        "name": "‘Aqqah",
+        "country": "United Arab Emirates",
+        "province": "Fujairah",
+        "population": -1,
+        "latitude": 25.498669,
+        "longitude": 56.358302
+    },
+    {
+        "name": "Sha‘bīyat Naşlah",
+        "country": "United Arab Emirates",
+        "province": "Raʼs al Khaymah",
+        "population": -1,
+        "latitude": 24.865864,
+        "longitude": 56.260851
+    },
+    {
+        "name": "Al Usaylī",
+        "country": "United Arab Emirates",
+        "province": "Raʼs al Khaymah",
+        "population": -1,
+        "latitude": 25.62676,
+        "longitude": 56.008144
+    },
+    {
+        "name": "Al Qurayyah",
+        "country": "United Arab Emirates",
+        "province": "Fujairah",
+        "population": -1,
+        "latitude": 25.23779,
+        "longitude": 56.36128
+    },
+    {
+        "name": "Al Qīr",
+        "country": "United Arab Emirates",
+        "province": "Raʼs al Khaymah",
+        "population": -1,
+        "latitude": 26.03244,
+        "longitude": 56.104448
+    },
+    {
+        "name": "Al Qīmī",
+        "country": "United Arab Emirates",
+        "province": "Abu Dhabi",
+        "population": -1,
+        "latitude": 24.24914,
+        "longitude": 55.745824
+    },
+    {
+        "name": "Al Mu‘taraḑ",
+        "country": "United Arab Emirates",
+        "province": "Abu Dhabi",
+        "population": -1,
+        "latitude": 24.218997,
+        "longitude": 55.739888
+    },
+    {
+        "name": "Al Mughayrā’",
+        "country": "United Arab Emirates",
+        "province": "Abu Dhabi",
+        "population": -1,
+        "latitude": 24.07843,
+        "longitude": 53.53842
+    },
+    {
+        "name": "Al Matāf",
+        "country": "United Arab Emirates",
+        "province": "Raʼs al Khaymah",
+        "population": -1,
+        "latitude": 25.8333333,
+        "longitude": 55.9833333
+    },
+    {
+        "name": "Al-Mirfa’",
+        "country": "United Arab Emirates",
+        "province": "Abu Dhabi",
+        "population": -1,
+        "latitude": 24.099107,
+        "longitude": 53.490769
+    },
+    {
+        "name": "Al Mahamm",
+        "country": "United Arab Emirates",
+        "province": "Raʼs al Khaymah",
+        "population": -1,
+        "latitude": 25.675,
+        "longitude": 55.9902778
+    },
+    {
+        "name": "Al Khārī",
+        "country": "United Arab Emirates",
+        "province": "Raʼs al Khaymah",
+        "population": -1,
+        "latitude": 25.097445,
+        "longitude": 56.026247
+    },
+    {
+        "name": "Al Khān",
+        "country": "United Arab Emirates",
+        "province": "Sharjah",
+        "population": -1,
+        "latitude": 25.331412,
+        "longitude": 55.359006
+    },
+    {
+        "name": "Al Jazīrah",
+        "country": "United Arab Emirates",
+        "province": "Sharjah",
+        "population": -1,
+        "latitude": 25.35,
+        "longitude": 55.3666667
+    },
+    {
+        "name": "Al Hayr",
+        "country": "United Arab Emirates",
+        "province": "Raʼs al Khaymah",
+        "population": -1,
+        "latitude": 25.9786111,
+        "longitude": 56.0852778
+    },
+    {
+        "name": "Al Jaddah",
+        "country": "United Arab Emirates",
+        "province": "Raʼs al Khaymah",
+        "population": -1,
+        "latitude": 25.9961111,
+        "longitude": 56.0841667
+    },
+    {
+        "name": "Al Ghurfah",
+        "country": "United Arab Emirates",
+        "province": "Fujairah",
+        "population": -1,
+        "latitude": 25.124965,
+        "longitude": 56.353807
+    },
+    {
+        "name": "Al Fulayyah",
+        "country": "United Arab Emirates",
+        "province": "Raʼs al Khaymah",
+        "population": -1,
+        "latitude": 25.734805,
+        "longitude": 55.982845
+    },
+    {
+        "name": "Al Fay‘",
+        "country": "United Arab Emirates",
+        "province": "Raʼs al Khaymah",
+        "population": -1,
+        "latitude": 26.021389,
+        "longitude": 56.091389
+    },
+    {
+        "name": "Al Fara‘",
+        "country": "United Arab Emirates",
+        "province": "Raʼs al Khaymah",
+        "population": -1,
+        "latitude": 25.414304,
+        "longitude": 56.091233
+    },
+    {
+        "name": "Al Faḩlayn",
+        "country": "United Arab Emirates",
+        "province": "Raʼs al Khaymah",
+        "population": -1,
+        "latitude": 25.684119,
+        "longitude": 55.967495
+    },
+    {
+        "name": "Biţnah",
+        "country": "United Arab Emirates",
+        "province": "Fujairah",
+        "population": -1,
+        "latitude": 25.189507,
+        "longitude": 56.235157
+    },
+    {
+        "name": "Al ‘Ayn al Ghumūr",
+        "country": "United Arab Emirates",
+        "province": "Raʼs al Khaymah",
+        "population": -1,
+        "latitude": 24.959508,
+        "longitude": 56.315852
+    },
+    {
+        "name": "Adh Dharbānīyah",
+        "country": "United Arab Emirates",
+        "province": "Raʼs al Khaymah",
+        "population": -1,
+        "latitude": 25.783333,
+        "longitude": 55.933333
+    },
+    {
+        "name": "‘Abādilah",
+        "country": "United Arab Emirates",
+        "province": "Fujairah",
+        "population": -1,
+        "latitude": 25.453529,
+        "longitude": 56.18991
+    },
+    {
+        "name": "Bur Dubai",
+        "country": "United Arab Emirates",
+        "province": "Dubai",
+        "population": -1,
+        "latitude": 25.260376885399776,
+        "longitude": 55.29891014099121
+    },
+    {
+        "name": "Dubai Marina",
+        "country": "United Arab Emirates",
+        "province": "Dubai",
+        "population": -1,
+        "latitude": 25.085251,
+        "longitude": 55.146459
+    },
+    {
+        "name": "Ras Dibba",
+        "country": "United Arab Emirates",
+        "province": "Fujairah",
+        "population": -1,
+        "latitude": 25.605489,
+        "longitude": 56.304998
+    },
+    {
+        "name": "Ghayathi",
+        "country": "United Arab Emirates",
+        "province": "Abu Dhabi",
+        "population": -1,
+        "latitude": 23.8425,
+        "longitude": 52.81
+    },
+    {
+        "name": "Jebel Ali",
+        "country": "United Arab Emirates",
+        "province": "Dubai",
+        "population": -1,
+        "latitude": 25.00255,
+        "longitude": 55.10811
+    },
+    {
+        "name": "Yinainir",
+        "country": "United Arab Emirates",
+        "province": "Raʼs al Khaymah",
+        "population": -1,
+        "latitude": 25.9080556,
+        "longitude": 56.17
+    },
+    {
+        "name": "Al Waheda",
+        "country": "United Arab Emirates",
+        "province": "Dubai",
+        "population": -1,
+        "latitude": 25.29173267843082,
+        "longitude": 55.33822059631348
+    },
+    {
+        "name": "Al Karama",
+        "country": "United Arab Emirates",
+        "province": "Dubai",
+        "population": -1,
+        "latitude": 25.24003785822103,
+        "longitude": 55.301055908203125
+    },
+    {
+        "name": "Al Hudaiba",
+        "country": "United Arab Emirates",
+        "province": "Dubai",
+        "population": -1,
+        "latitude": 25.241512940348606,
+        "longitude": 55.278053283691406
+    },
+    {
+        "name": "Al Bada",
+        "country": "United Arab Emirates",
+        "province": "Dubai",
+        "population": -1,
+        "latitude": 25.21860833090542,
+        "longitude": 55.26406288146973
+    },
+    {
+        "name": "Al Wasl",
+        "country": "United Arab Emirates",
+        "province": "Dubai",
+        "population": -1,
+        "latitude": 25.198805955601895,
+        "longitude": 55.25565147399902
+    },
+    {
+        "name": "Al Manara",
+        "country": "United Arab Emirates",
+        "province": "Dubai",
+        "population": -1,
+        "latitude": 25.142798288002897,
+        "longitude": 55.21299362182617
+    },
+    {
+        "name": "Zabeel First",
+        "country": "United Arab Emirates",
+        "province": "Dubai",
+        "population": -1,
+        "latitude": 25.22536369818434,
+        "longitude": 55.30500411987305
+    },
+    {
+        "name": "AL Heera Suburb",
+        "country": "United Arab Emirates",
+        "province": "Sharjah",
+        "population": -1,
+        "latitude": 25.38171908508755,
+        "longitude": 55.41924476623535
+    },
+    {
+        "name": "Ḩiz̧āyib az Zānah",
+        "country": "United Arab Emirates",
+        "province": "Sharjah",
+        "population": -1,
+        "latitude": 25.3158333,
+        "longitude": 55.4119444
+    },
+    {
+        "name": "Ar Rā‘fah",
+        "country": "United Arab Emirates",
+        "province": "Imārat Umm al Qaywayn",
+        "population": -1,
+        "latitude": 25.616326,
+        "longitude": 55.702601
+    },
+    {
+        "name": "Ar Ra’s",
+        "country": "United Arab Emirates",
+        "province": "Dubai",
+        "population": -1,
+        "latitude": 25.268354,
+        "longitude": 55.29544
+    },
+    {
+        "name": "Aţ Ţawār",
+        "country": "United Arab Emirates",
+        "province": "Dubai",
+        "population": -1,
+        "latitude": 25.250002,
+        "longitude": 55.397081
+    },
+    {
+        "name": "Al Qawz",
+        "country": "United Arab Emirates",
+        "province": "Dubai",
+        "population": -1,
+        "latitude": 25.162932,
+        "longitude": 55.25005
+    },
+    {
+        "name": "An Nakhīl",
+        "country": "United Arab Emirates",
+        "province": "Raʼs al Khaymah",
+        "population": -1,
+        "latitude": 25.7816667,
+        "longitude": 55.97
+    },
+    {
+        "name": "As Sūr",
+        "country": "United Arab Emirates",
+        "province": "Raʼs al Khaymah",
+        "population": -1,
+        "latitude": 25.7791667,
+        "longitude": 55.9947222
+    },
+    {
+        "name": "Difān",
+        "country": "United Arab Emirates",
+        "province": "Raʼs al Khaymah",
+        "population": -1,
+        "latitude": 25.7858333,
+        "longitude": 55.9430556
+    },
+    {
+        "name": "Khazām",
+        "country": "United Arab Emirates",
+        "province": "Raʼs al Khaymah",
+        "population": -1,
+        "latitude": 25.763425,
+        "longitude": 55.934781
+    },
+    {
+        "name": "Al Ḩamīdīyah",
+        "country": "United Arab Emirates",
+        "province": "Ajman",
+        "population": -1,
+        "latitude": 25.400012,
+        "longitude": 55.529255
+    },
+    {
+        "name": "As Saţwah",
+        "country": "United Arab Emirates",
+        "province": "Dubai",
+        "population": -1,
+        "latitude": 25.221922,
+        "longitude": 55.27459
+    },
+    {
+        "name": "Z̧uwayhir",
+        "country": "United Arab Emirates",
+        "province": "Abu Dhabi",
+        "population": -1,
+        "latitude": 23.283333,
+        "longitude": 53.2
+    },
+    {
+        "name": "Z̧uwayhir",
+        "country": "United Arab Emirates",
+        "province": "Abu Dhabi",
+        "population": -1,
+        "latitude": 23.139159,
+        "longitude": 53.693403
+    },
+    {
+        "name": "Z̧afīr",
+        "country": "United Arab Emirates",
+        "province": "Abu Dhabi",
+        "population": -1,
+        "latitude": 23.127315,
+        "longitude": 53.754393
+    },
+    {
+        "name": "Wadhīl",
+        "country": "United Arab Emirates",
+        "province": "Abu Dhabi",
+        "population": -1,
+        "latitude": 23.047399,
+        "longitude": 54.133321
+    },
+    {
+        "name": "‘Uraybī",
+        "country": "United Arab Emirates",
+        "province": "Raʼs al Khaymah",
+        "population": -1,
+        "latitude": 25.789452,
+        "longitude": 55.976649
+    },
+    {
+        "name": "Umm Suqaym",
+        "country": "United Arab Emirates",
+        "province": "Dubai",
+        "population": -1,
+        "latitude": 25.154913,
+        "longitude": 55.210147
+    },
+    {
+        "name": "Umm al Qurayn",
+        "country": "United Arab Emirates",
+        "province": "Abu Dhabi",
+        "population": -1,
+        "latitude": 23.1,
+        "longitude": 53.7166667
+    },
+    {
+        "name": "Tharwānīyah",
+        "country": "United Arab Emirates",
+        "province": "Abu Dhabi",
+        "population": -1,
+        "latitude": 23.110884,
+        "longitude": 54.015715
+    },
+    {
+        "name": "Sumbrair",
+        "country": "United Arab Emirates",
+        "province": "Fujairah",
+        "population": -1,
+        "latitude": 25.600825,
+        "longitude": 56.284401
+    },
+    {
+        "name": "Sījī",
+        "country": "United Arab Emirates",
+        "province": "Raʼs al Khaymah",
+        "population": -1,
+        "latitude": 25.247638,
+        "longitude": 56.077192
+    },
+    {
+        "name": "Al Quwayz",
+        "country": "United Arab Emirates",
+        "province": "Raʼs al Khaymah",
+        "population": -1,
+        "latitude": 25.78102,
+        "longitude": 55.978696
+    },
+    {
+        "name": "Nadd ash Shibā",
+        "country": "United Arab Emirates",
+        "province": "Dubai",
+        "population": -1,
+        "latitude": 25.152229,
+        "longitude": 55.338295
+    },
+    {
+        "name": "Şafad",
+        "country": "United Arab Emirates",
+        "province": "Fujairah",
+        "population": -1,
+        "latitude": 25.223145,
+        "longitude": 56.299436
+    },
+    {
+        "name": "Sabkhah",
+        "country": "United Arab Emirates",
+        "province": "Abu Dhabi",
+        "population": -1,
+        "latitude": 23.129169,
+        "longitude": 53.981808
+    },
+    {
+        "name": "Rūl Ḑadnā",
+        "country": "United Arab Emirates",
+        "province": "Fujairah",
+        "population": -1,
+        "latitude": 25.554814,
+        "longitude": 56.345455
+    },
+    {
+        "name": "Ar Rāshidīyah",
+        "country": "United Arab Emirates",
+        "province": "Dubai",
+        "population": -1,
+        "latitude": 25.224987,
+        "longitude": 55.38947
+    },
+    {
+        "name": "Za‘bīl",
+        "country": "United Arab Emirates",
+        "province": "Dubai",
+        "population": -1,
+        "latitude": 25.225845,
+        "longitude": 55.304909
+    },
+    {
+        "name": "Quşaydāt",
+        "country": "United Arab Emirates",
+        "province": "Raʼs al Khaymah",
+        "population": -1,
+        "latitude": 25.774612,
+        "longitude": 55.970016
+    },
+    {
+        "name": "Qurmidah",
+        "country": "United Arab Emirates",
+        "province": "Abu Dhabi",
+        "population": -1,
+        "latitude": 23.119573,
+        "longitude": 53.828551
+    },
+    {
+        "name": "Qu‘aysah",
+        "country": "United Arab Emirates",
+        "province": "Abu Dhabi",
+        "population": -1,
+        "latitude": 22.9941,
+        "longitude": 54.221835
+    },
+    {
+        "name": "Qimah",
+        "country": "United Arab Emirates",
+        "province": "Dubai",
+        "population": -1,
+        "latitude": 24.786677,
+        "longitude": 56.141429
+    },
+    {
+        "name": "Mundafinah",
+        "country": "United Arab Emirates",
+        "province": "Abu Dhabi",
+        "population": -1,
+        "latitude": 24.1166667,
+        "longitude": 55.8
+    },
+    {
+        "name": "Munay‘ī",
+        "country": "United Arab Emirates",
+        "province": "Raʼs al Khaymah",
+        "population": -1,
+        "latitude": 24.951349,
+        "longitude": 56.149968
+    },
+    {
+        "name": "Mu‘ayrīḑ",
+        "country": "United Arab Emirates",
+        "province": "Raʼs al Khaymah",
+        "population": -1,
+        "latitude": 25.810519,
+        "longitude": 55.9647
+    },
+    {
+        "name": "Mas‘ūdī",
+        "country": "United Arab Emirates",
+        "province": "Abu Dhabi",
+        "population": -1,
+        "latitude": 24.266272,
+        "longitude": 55.741227
+    },
+    {
+        "name": "Marawwaḩ",
+        "country": "United Arab Emirates",
+        "province": "Abu Dhabi",
+        "population": -1,
+        "latitude": 24.294566,
+        "longitude": 53.330688
+    },
+    {
+        "name": "Lazīmah",
+        "country": "United Arab Emirates",
+        "province": "Imārat Umm al Qaywayn",
+        "population": -1,
+        "latitude": 25.5861111,
+        "longitude": 55.5633333
+    },
+    {
+        "name": "Jurayrah",
+        "country": "United Arab Emirates",
+        "province": "Abu Dhabi",
+        "population": -1,
+        "latitude": 22.94082,
+        "longitude": 54.310162
+    },
+    {
+        "name": "Istayhah",
+        "country": "United Arab Emirates",
+        "province": "Abu Dhabi",
+        "population": -1,
+        "latitude": 23.316096,
+        "longitude": 54.067177
+    },
+    {
+        "name": "Ḩuwaytayn",
+        "country": "United Arab Emirates",
+        "province": "Abu Dhabi",
+        "population": -1,
+        "latitude": 23.119039,
+        "longitude": 53.928365
+    },
+    {
+        "name": "Ḩuwaylah",
+        "country": "United Arab Emirates",
+        "province": "Abu Dhabi",
+        "population": -1,
+        "latitude": 23.152008,
+        "longitude": 53.82462
+    },
+    {
+        "name": "Ḩudaybah",
+        "country": "United Arab Emirates",
+        "province": "Raʼs al Khaymah",
+        "population": -1,
+        "latitude": 25.797674,
+        "longitude": 55.980293
+    },
+    {
+        "name": "Ḩaqīl",
+        "country": "United Arab Emirates",
+        "province": "Fujairah",
+        "population": -1,
+        "latitude": 25.446026,
+        "longitude": 56.358196
+    },
+    {
+        "name": "Ghubb",
+        "country": "United Arab Emirates",
+        "province": "Raʼs al Khaymah",
+        "population": -1,
+        "latitude": 25.805292,
+        "longitude": 55.980033
+    },
+    {
+        "name": "Furfār",
+        "country": "United Arab Emirates",
+        "province": "Fujairah",
+        "population": -1,
+        "latitude": 25.14844,
+        "longitude": 56.22242
+    },
+    {
+        "name": "Dihān",
+        "country": "United Arab Emirates",
+        "province": "Raʼs al Khaymah",
+        "population": -1,
+        "latitude": 25.773801,
+        "longitude": 55.925399
+    },
+    {
+        "name": "Bulaydah",
+        "country": "United Arab Emirates",
+        "province": "Fujairah",
+        "population": -1,
+        "latitude": 25.223877,
+        "longitude": 56.202213
+    },
+    {
+        "name": "Al Barāḩah",
+        "country": "United Arab Emirates",
+        "province": "Dubai",
+        "population": -1,
+        "latitude": 25.280586,
+        "longitude": 55.315725
+    },
+    {
+        "name": "As Sulaymāt",
+        "country": "United Arab Emirates",
+        "province": "Abu Dhabi",
+        "population": -1,
+        "latitude": 24.221944,
+        "longitude": 55.603056
+    },
+    {
+        "name": "As Sād",
+        "country": "United Arab Emirates",
+        "province": "Abu Dhabi",
+        "population": -1,
+        "latitude": 24.15,
+        "longitude": 55.766667
+    },
+    {
+        "name": "Ash Sha‘m",
+        "country": "United Arab Emirates",
+        "province": "Raʼs al Khaymah",
+        "population": -1,
+        "latitude": 26.027895,
+        "longitude": 56.083518
+    },
+    {
+        "name": "An Nashshāsh",
+        "country": "United Arab Emirates",
+        "province": "Abu Dhabi",
+        "population": -1,
+        "latitude": 23.081096,
+        "longitude": 54.036351
+    },
+    {
+        "name": "Al ‘Uyaynah",
+        "country": "United Arab Emirates",
+        "province": "Fujairah",
+        "population": -1,
+        "latitude": 25.452828,
+        "longitude": 56.16879
+    },
+    {
+        "name": "Al Quşayş",
+        "country": "United Arab Emirates",
+        "province": "Dubai",
+        "population": -1,
+        "latitude": 25.267179,
+        "longitude": 55.389315
+    },
+    {
+        "name": "Al Muwayqi‘ī",
+        "country": "United Arab Emirates",
+        "province": "Abu Dhabi",
+        "population": -1,
+        "latitude": 24.201667,
+        "longitude": 55.716389
+    },
+    {
+        "name": "Al Mashrūb",
+        "country": "United Arab Emirates",
+        "province": "Abu Dhabi",
+        "population": -1,
+        "latitude": 23.076461,
+        "longitude": 54.013474
+    },
+    {
+        "name": "Al Māriyah al Gharbīyah",
+        "country": "United Arab Emirates",
+        "province": "Abu Dhabi",
+        "population": -1,
+        "latitude": 23.102651,
+        "longitude": 53.581849
+    },
+    {
+        "name": "Al Māriyah",
+        "country": "United Arab Emirates",
+        "province": "Abu Dhabi",
+        "population": -1,
+        "latitude": 23.138476,
+        "longitude": 53.742603
+    },
+    {
+        "name": "Ḩayl",
+        "country": "United Arab Emirates",
+        "province": "Raʼs al Khaymah",
+        "population": -1,
+        "latitude": 25.704979,
+        "longitude": 55.987009
+    },
+    {
+        "name": "Al Fīyay",
+        "country": "United Arab Emirates",
+        "province": "Abu Dhabi",
+        "population": -1,
+        "latitude": 24.298014,
+        "longitude": 53.211395
+    },
+    {
+        "name": "Akamiya",
+        "country": "United Arab Emirates",
+        "province": "Fujairah",
+        "population": -1,
+        "latitude": 25.600312,
+        "longitude": 56.269097
+    },
+    {
+        "name": "Abū Hayl",
+        "country": "United Arab Emirates",
+        "province": "Dubai",
+        "population": -1,
+        "latitude": 25.284127314635086,
+        "longitude": 55.331525802612305
+    },
+    {
+        "name": "Al Mizhar",
+        "country": "United Arab Emirates",
+        "province": "Dubai",
+        "population": -1,
+        "latitude": 25.244231,
+        "longitude": 55.432981
+    },
+    {
+        "name": "Mirdif",
+        "country": "United Arab Emirates",
+        "province": "Dubai",
+        "population": -1,
+        "latitude": 25.224425,
+        "longitude": 55.414116
+    },
+    {
+        "name": "Al Ḩamrīyah",
+        "country": "United Arab Emirates",
+        "province": "Dubai",
+        "population": -1,
+        "latitude": 25.288678,
+        "longitude": 55.334085
+    },
+    {
+        "name": "Hawr al ‘Anz",
+        "country": "United Arab Emirates",
+        "province": "Dubai",
+        "population": -1,
+        "latitude": 25.277441,
+        "longitude": 55.336754
+    },
+    {
+        "name": "Ḩayy al Bastakīyah",
+        "country": "United Arab Emirates",
+        "province": "Dubai",
+        "population": -1,
+        "latitude": 25.264252,
+        "longitude": 55.300213
+    },
+    {
+        "name": "Āl Nahyān",
+        "country": "United Arab Emirates",
+        "province": "Abu Dhabi",
+        "population": -1,
+        "latitude": 24.464926,
+        "longitude": 54.391344
+    },
+    {
+        "name": "Al Mushrif",
+        "country": "United Arab Emirates",
+        "province": "Abu Dhabi",
+        "population": -1,
+        "latitude": 24.434993,
+        "longitude": 54.389704
+    },
+    {
+        "name": "Abu Shagara",
+        "country": "United Arab Emirates",
+        "province": "Sharjah",
+        "population": -1,
+        "latitude": 25.337269,
+        "longitude": 55.396497
+    },
+    {
+        "name": "Al Buţīn",
+        "country": "United Arab Emirates",
+        "province": "Dubai",
+        "population": -1,
+        "latitude": 25.269146,
+        "longitude": 55.299746
+    },
+    {
+        "name": "Ras al Khor",
+        "country": "United Arab Emirates",
+        "province": "Dubai",
+        "population": -1,
+        "latitude": 25.196599,
+        "longitude": 55.359023
+    },
+    {
+        "name": "Al Warqaa",
+        "country": "United Arab Emirates",
+        "province": "Dubai",
+        "population": -1,
+        "latitude": 25.192719,
+        "longitude": 55.420128
+    },
+    {
+        "name": "Dubailand",
+        "country": "United Arab Emirates",
+        "province": "Dubai",
+        "population": -1,
+        "latitude": 25.073695,
+        "longitude": 55.302282
+    },
+    {
+        "name": "Jebel Ali Village",
+        "country": "United Arab Emirates",
+        "province": "Dubai",
+        "population": -1,
+        "latitude": 25.031559,
+        "longitude": 55.128756
+    },
+    {
+        "name": "Dubai Internet City",
+        "country": "United Arab Emirates",
+        "province": "Dubai",
+        "population": -1,
+        "latitude": 25.095379,
+        "longitude": 55.161714
+    },
+    {
+        "name": "Al Sufouh",
+        "country": "United Arab Emirates",
+        "province": "Dubai",
+        "population": -1,
+        "latitude": 25.120146,
+        "longitude": 55.182853
+    },
+    {
+        "name": "Al Safa",
+        "country": "United Arab Emirates",
+        "province": "Dubai",
+        "population": -1,
+        "latitude": 25.170475,
+        "longitude": 55.233355
+    },
+    {
+        "name": "Al Kifaf",
+        "country": "United Arab Emirates",
+        "province": "Dubai",
+        "population": -1,
+        "latitude": 25.234641,
+        "longitude": 55.29714
+    },
+    {
+        "name": "Al Muraqqabāt",
+        "country": "United Arab Emirates",
+        "province": "Dubai",
+        "population": -1,
+        "latitude": 25.268362,
+        "longitude": 55.326345
+    },
+    {
+        "name": "Riqqah al Buţayn",
+        "country": "United Arab Emirates",
+        "province": "Dubai",
+        "population": -1,
+        "latitude": 25.262919,
+        "longitude": 55.321055
+    },
+    {
+        "name": "Būr Sa‘īd",
+        "country": "United Arab Emirates",
+        "province": "Dubai",
+        "population": -1,
+        "latitude": 25.260998,
+        "longitude": 55.330161
+    },
+    {
+        "name": "Nāyf",
+        "country": "United Arab Emirates",
+        "province": "Dubai",
+        "population": -1,
+        "latitude": 25.271386,
+        "longitude": 55.30323
+    },
+    {
+        "name": "As Sabkhah",
+        "country": "United Arab Emirates",
+        "province": "Dubai",
+        "population": -1,
+        "latitude": 25.270228,
+        "longitude": 55.305724
+    },
+    {
+        "name": "‘Ayāl Nāşir",
+        "country": "United Arab Emirates",
+        "province": "Dubai",
+        "population": -1,
+        "latitude": 25.2732,
+        "longitude": 55.304403
+    },
+    {
+        "name": "Ar Riqqah",
+        "country": "United Arab Emirates",
+        "province": "Dubai",
+        "population": -1,
+        "latitude": 25.267969,
+        "longitude": 55.312718
+    },
+    {
+        "name": "Al Muşallá",
+        "country": "United Arab Emirates",
+        "province": "Dubai",
+        "population": -1,
+        "latitude": 25.258599,
+        "longitude": 55.298302
+    },
+    {
+        "name": "Downtown Dubai",
+        "country": "United Arab Emirates",
+        "province": "Dubai",
+        "population": -1,
+        "latitude": 25.19408,
+        "longitude": 55.2781
+    },
+    {
+        "name": "Shairi",
+        "country": "United Arab Emirates",
+        "province": "Raʼs al Khaymah",
+        "population": 6,
+        "latitude": 25.70062,
+        "longitude": 56.12278
+    },
+    {
+        "name": "Nadd al Ḩumr",
+        "country": "United Arab Emirates",
+        "province": "Dubai",
+        "population": -1,
+        "latitude": 25.201307,
+        "longitude": 55.383877
+    },
+    {
+        "name": "Qarayţaysah",
+        "country": "United Arab Emirates",
+        "province": "Dubai",
+        "population": -1,
+        "latitude": 24.870768,
+        "longitude": 55.549053
+    },
+    {
+        "name": "Şidaqah",
+        "country": "United Arab Emirates",
+        "province": "Fujairah",
+        "population": -1,
+        "latitude": 25.635872,
+        "longitude": 56.167754
+    },
+    {
+        "name": "Al Mafraq",
+        "country": "United Arab Emirates",
+        "province": "Abu Dhabi",
+        "population": -1,
+        "latitude": 24.32965,
+        "longitude": 54.60764
+    },
+    {
+        "name": "Ash Shahāmah",
+        "country": "United Arab Emirates",
+        "province": "Abu Dhabi",
+        "population": -1,
+        "latitude": 24.549766,
+        "longitude": 54.680911
+    },
+    {
+        "name": "Z̧anḩah",
+        "country": "United Arab Emirates",
+        "province": "Fujairah",
+        "population": -1,
+        "latitude": 25.565895,
+        "longitude": 56.202173
+    },
+    {
+        "name": "Waḩlah",
+        "country": "United Arab Emirates",
+        "province": "Raʼs al Khaymah",
+        "population": -1,
+        "latitude": 24.908972,
+        "longitude": 56.303165
+    },
+    {
+        "name": "Wa‘bayn",
+        "country": "United Arab Emirates",
+        "province": "Fujairah",
+        "population": -1,
+        "latitude": 25.57046,
+        "longitude": 56.135356
+    },
+    {
+        "name": "‘Ūd al Bayḑā’",
+        "country": "United Arab Emirates",
+        "province": "Dubai",
+        "population": -1,
+        "latitude": 25.016249,
+        "longitude": 55.455331
+    },
+    {
+        "name": "Ţaraq",
+        "country": "United Arab Emirates",
+        "province": "Abu Dhabi",
+        "population": -1,
+        "latitude": 23.11656,
+        "longitude": 53.606972
+    },
+    {
+        "name": "Sharm",
+        "country": "United Arab Emirates",
+        "province": "Fujairah",
+        "population": -1,
+        "latitude": 25.470778,
+        "longitude": 56.353193
+    },
+    {
+        "name": "Ash Shindaghah",
+        "country": "United Arab Emirates",
+        "province": "Dubai",
+        "population": -1,
+        "latitude": 25.268865,
+        "longitude": 55.290361
+    },
+    {
+        "name": "Sabkhah",
+        "country": "United Arab Emirates",
+        "province": "Abu Dhabi",
+        "population": -1,
+        "latitude": 23.3,
+        "longitude": 53.85
+    },
+    {
+        "name": "Quţūf",
+        "country": "United Arab Emirates",
+        "province": "Abu Dhabi",
+        "population": -1,
+        "latitude": 23.109707,
+        "longitude": 53.727378
+    },
+    {
+        "name": "Nuhayy",
+        "country": "United Arab Emirates",
+        "province": "Sharjah",
+        "population": -1,
+        "latitude": 25.270744,
+        "longitude": 56.36242
+    },
+    {
+        "name": "Nafīr",
+        "country": "United Arab Emirates",
+        "province": "Abu Dhabi",
+        "population": -1,
+        "latitude": 23.103933,
+        "longitude": 53.789186
+    },
+    {
+        "name": "Murbaḑ",
+        "country": "United Arab Emirates",
+        "province": "Fujairah",
+        "population": -1,
+        "latitude": 25.325405,
+        "longitude": 56.133112
+    },
+    {
+        "name": "Milqaţah",
+        "country": "United Arab Emirates",
+        "province": "Abu Dhabi",
+        "population": -1,
+        "latitude": 23.066667,
+        "longitude": 53.533333
+    },
+    {
+        "name": "Kayyah",
+        "country": "United Arab Emirates",
+        "province": "Abu Dhabi",
+        "population": -1,
+        "latitude": 23.156958,
+        "longitude": 53.685414
+    },
+    {
+        "name": "Jayf",
+        "country": "United Arab Emirates",
+        "province": "Abu Dhabi",
+        "population": -1,
+        "latitude": 23.157861,
+        "longitude": 53.777623
+    },
+    {
+        "name": "Hillī",
+        "country": "United Arab Emirates",
+        "province": "Abu Dhabi",
+        "population": -1,
+        "latitude": 24.28473,
+        "longitude": 55.763302
+    },
+    {
+        "name": "Ḩabshān",
+        "country": "United Arab Emirates",
+        "province": "Abu Dhabi",
+        "population": -1,
+        "latitude": 23.942418,
+        "longitude": 53.636123
+    },
+    {
+        "name": "Ghurfah",
+        "country": "United Arab Emirates",
+        "province": "Fujairah",
+        "population": -1,
+        "latitude": 25.597686,
+        "longitude": 56.276736
+    },
+    {
+        "name": "Ghurah",
+        "country": "United Arab Emirates",
+        "province": "Fujairah",
+        "population": -1,
+        "latitude": 25.219662,
+        "longitude": 56.207603
+    },
+    {
+        "name": "Da‘sah",
+        "country": "United Arab Emirates",
+        "province": "Abu Dhabi",
+        "population": -1,
+        "latitude": 24.278385,
+        "longitude": 52.623689
+    },
+    {
+        "name": "Dāhin",
+        "country": "United Arab Emirates",
+        "province": "Abu Dhabi",
+        "population": -1,
+        "latitude": 23.077341,
+        "longitude": 54.084222
+    },
+    {
+        "name": "Baţīn",
+        "country": "United Arab Emirates",
+        "province": "Abu Dhabi",
+        "population": -1,
+        "latitude": 24.442901,
+        "longitude": 54.355388
+    },
+    {
+        "name": "‘Ayn al Fayḑah",
+        "country": "United Arab Emirates",
+        "province": "Abu Dhabi",
+        "population": -1,
+        "latitude": 24.083333,
+        "longitude": 55.683333
+    },
+    {
+        "name": "‘Arādah",
+        "country": "United Arab Emirates",
+        "province": "Abu Dhabi",
+        "population": -1,
+        "latitude": 22.992313,
+        "longitude": 53.428915
+    },
+    {
+        "name": "Al Wathbah",
+        "country": "United Arab Emirates",
+        "province": "Abu Dhabi",
+        "population": -1,
+        "latitude": 24.25958,
+        "longitude": 54.707814
+    },
+    {
+        "name": "Akkamyah",
+        "country": "United Arab Emirates",
+        "province": "Fujairah",
+        "population": -1,
+        "latitude": 25.601512,
+        "longitude": 56.304705
+    },
+    {
+        "name": "Al Jaḩr",
+        "country": "United Arab Emirates",
+        "province": "Abu Dhabi",
+        "population": -1,
+        "latitude": 24.25,
+        "longitude": 55.5833333
+    },
+    {
+        "name": "Al Ḩalāh",
+        "country": "United Arab Emirates",
+        "province": "Fujairah",
+        "population": -1,
+        "latitude": 25.477378,
+        "longitude": 56.182437
+    },
+    {
+        "name": "Al Ḩādhī",
+        "country": "United Arab Emirates",
+        "province": "Abu Dhabi",
+        "population": -1,
+        "latitude": 23.106423,
+        "longitude": 53.995273
+    },
+    {
+        "name": "Al Aţīr",
+        "country": "United Arab Emirates",
+        "province": "Abu Dhabi",
+        "population": -1,
+        "latitude": 23.162612,
+        "longitude": 53.73617
+    },
+    {
+        "name": "Madīnat Badr",
+        "country": "United Arab Emirates",
+        "province": "Dubai",
+        "population": -1,
+        "latitude": 25.237852,
+        "longitude": 55.413276
+    },
+    {
+        "name": "Muḩayşnah Shamāl",
+        "country": "United Arab Emirates",
+        "province": "Dubai",
+        "population": -1,
+        "latitude": 25.271796,
+        "longitude": 55.403833
+    },
+    {
+        "name": "Minţaqat as Sūq",
+        "country": "United Arab Emirates",
+        "province": "Dubai",
+        "population": -1,
+        "latitude": 25.269965,
+        "longitude": 55.299036
+    },
+    {
+        "name": "Mintaqat as Sūq",
+        "country": "United Arab Emirates",
+        "province": "Dubai",
+        "population": -1,
+        "latitude": 25.263777,
+        "longitude": 55.294387
+    },
+    {
+        "name": "Zarībat Dawīy",
+        "country": "United Arab Emirates",
+        "province": "Dubai",
+        "population": -1,
+        "latitude": 25.25479,
+        "longitude": 55.299368
+    },
+    {
+        "name": "Mankhūl",
+        "country": "United Arab Emirates",
+        "province": "Dubai",
+        "population": -1,
+        "latitude": 25.246119,
+        "longitude": 55.292221
+    },
+    {
+        "name": "Al Ḩuḑaybah",
+        "country": "United Arab Emirates",
+        "province": "Dubai",
+        "population": -1,
+        "latitude": 25.242883,
+        "longitude": 55.279442
+    },
+    {
+        "name": "Al Ḩazaywah",
+        "country": "United Arab Emirates",
+        "province": "Imārat Umm al Qaywayn",
+        "population": -1,
+        "latitude": 25.525839,
+        "longitude": 55.662661
+    },
+    {
+        "name": "Al ‘Adhīb",
+        "country": "United Arab Emirates",
+        "province": "Imārat Umm al Qaywayn",
+        "population": -1,
+        "latitude": 25.498431,
+        "longitude": 55.668014
+    },
+    {
+        "name": "Ar Ramlah",
+        "country": "United Arab Emirates",
+        "province": "Imārat Umm al Qaywayn",
+        "population": -1,
+        "latitude": 25.506408,
+        "longitude": 55.580946
+    },
+    {
+        "name": "As Salamah",
+        "country": "United Arab Emirates",
+        "province": "Imārat Umm al Qaywayn",
+        "population": -1,
+        "latitude": 25.49242,
+        "longitude": 55.590796
+    },
+    {
+        "name": "Al Abraq",
+        "country": "United Arab Emirates",
+        "province": "Imārat Umm al Qaywayn",
+        "population": -1,
+        "latitude": 25.504014,
+        "longitude": 55.55663
+    },
+    {
+        "name": "As Surrah",
+        "country": "United Arab Emirates",
+        "province": "Imārat Umm al Qaywayn",
+        "population": -1,
+        "latitude": 25.44573,
+        "longitude": 55.631091
+    },
+    {
+        "name": "Muhadhdhib",
+        "country": "United Arab Emirates",
+        "province": "Imārat Umm al Qaywayn",
+        "population": -1,
+        "latitude": 25.433555,
+        "longitude": 55.668557
+    },
+    {
+        "name": "Kābir",
+        "country": "United Arab Emirates",
+        "province": "Imārat Umm al Qaywayn",
+        "population": -1,
+        "latitude": 25.432204,
+        "longitude": 55.705133
+    },
+    {
+        "name": "Al Labsah",
+        "country": "United Arab Emirates",
+        "province": "Imārat Umm al Qaywayn",
+        "population": -1,
+        "latitude": 25.427621,
+        "longitude": 55.729996
+    },
+    {
+        "name": "Ar Rāshidīyah",
+        "country": "United Arab Emirates",
+        "province": "Imārat Umm al Qaywayn",
+        "population": -1,
+        "latitude": 25.39017,
+        "longitude": 55.841179
+    },
+    {
+        "name": "Qaryat Shīkāghū Bītsh",
+        "country": "United Arab Emirates",
+        "province": "Dubai",
+        "population": -1,
+        "latitude": 25.133765,
+        "longitude": 55.185702
+    },
+    {
+        "name": "Dawwār Burj Nahār",
+        "country": "United Arab Emirates",
+        "province": "Dubai",
+        "population": -1,
+        "latitude": 25.276628,
+        "longitude": 55.315392
+    },
+    {
+        "name": "Burj Nahār",
+        "country": "United Arab Emirates",
+        "province": "Dubai",
+        "population": -1,
+        "latitude": 25.275194,
+        "longitude": 55.317937
+    },
+    {
+        "name": "Al Maţīnah",
+        "country": "United Arab Emirates",
+        "province": "Dubai",
+        "population": -1,
+        "latitude": 25.272107,
+        "longitude": 55.323192
+    },
+    {
+        "name": "Ar Riqqah Sharq",
+        "country": "United Arab Emirates",
+        "province": "Dubai",
+        "population": -1,
+        "latitude": 25.266744,
+        "longitude": 55.320989
+    },
+    {
+        "name": "Ash Shamāl",
+        "country": "United Arab Emirates",
+        "province": "Dubai",
+        "population": -1,
+        "latitude": 25.271556,
+        "longitude": 55.296859
+    },
+    {
+        "name": "Sikkat al Khayl",
+        "country": "United Arab Emirates",
+        "province": "Dubai",
+        "population": -1,
+        "latitude": 25.271616,
+        "longitude": 55.299214
+    },
+    {
+        "name": "Aḑ Ḑaghāyah",
+        "country": "United Arab Emirates",
+        "province": "Dubai",
+        "population": -1,
+        "latitude": 25.272053,
+        "longitude": 55.298864
+    },
+    {
+        "name": "Al Murar al Qadīm",
+        "country": "United Arab Emirates",
+        "province": "Dubai",
+        "population": -1,
+        "latitude": 25.275762,
+        "longitude": 55.307385
+    },
+    {
+        "name": "Al Murar al Jadīd",
+        "country": "United Arab Emirates",
+        "province": "Dubai",
+        "population": -1,
+        "latitude": 25.277306,
+        "longitude": 55.311693
+    },
+    {
+        "name": "An Nakhl",
+        "country": "United Arab Emirates",
+        "province": "Dubai",
+        "population": -1,
+        "latitude": 25.273341,
+        "longitude": 55.311422
+    },
+    {
+        "name": "Ar Riqqah Gharb",
+        "country": "United Arab Emirates",
+        "province": "Dubai",
+        "population": -1,
+        "latitude": 25.27055,
+        "longitude": 55.309981
+    },
+    {
+        "name": "Ḩamrīyah Dubayy",
+        "country": "United Arab Emirates",
+        "province": "Dubai",
+        "population": -1,
+        "latitude": 25.257103,
+        "longitude": 55.305923
+    },
+    {
+        "name": "Al Baḩārnah",
+        "country": "United Arab Emirates",
+        "province": "Dubai",
+        "population": -1,
+        "latitude": 25.260016,
+        "longitude": 55.294529
+    },
+    {
+        "name": "Ţawī aş Şāygh",
+        "country": "United Arab Emirates",
+        "province": "Dubai",
+        "population": -1,
+        "latitude": 25.251132,
+        "longitude": 55.296095
+    },
+    {
+        "name": "Al ‘Usbij",
+        "country": "United Arab Emirates",
+        "province": "Dubai",
+        "population": -1,
+        "latitude": 25.257894,
+        "longitude": 55.295096
+    },
+    {
+        "name": "Ma‘sharat al Baḩārnah",
+        "country": "United Arab Emirates",
+        "province": "Dubai",
+        "population": -1,
+        "latitude": 25.256337,
+        "longitude": 55.289228
+    },
+    {
+        "name": "Umm Hurayr",
+        "country": "United Arab Emirates",
+        "province": "Dubai",
+        "population": -1,
+        "latitude": 25.246871,
+        "longitude": 55.310636
+    },
+    {
+        "name": "Ar Rifā‘ah",
+        "country": "United Arab Emirates",
+        "province": "Dubai",
+        "population": -1,
+        "latitude": 25.260016,
+        "longitude": 55.288736
+    },
+    {
+        "name": "Al Balūsh",
+        "country": "United Arab Emirates",
+        "province": "Dubai",
+        "population": -1,
+        "latitude": 25.260748,
+        "longitude": 55.292338
+    },
+    {
+        "name": "Biyātah",
+        "country": "United Arab Emirates",
+        "province": "Imārat Umm al Qaywayn",
+        "population": -1,
+        "latitude": 25.414627,
+        "longitude": 55.798316
+    },
+    {
+        "name": "Al Khawānīj",
+        "country": "United Arab Emirates",
+        "province": "Dubai",
+        "population": -1,
+        "latitude": 25.229123,
+        "longitude": 55.49009
+    },
+    {
+        "name": "Jaddāf",
+        "country": "United Arab Emirates",
+        "province": "Dubai",
+        "population": -1,
+        "latitude": 25.21572,
+        "longitude": 55.329302
+    },
+    {
+        "name": "As Saţwah Sharq",
+        "country": "United Arab Emirates",
+        "province": "Dubai",
+        "population": -1,
+        "latitude": 25.237956,
+        "longitude": 55.286781
+    },
+    {
+        "name": "Al ‘Arād",
+        "country": "United Arab Emirates",
+        "province": "Abu Dhabi",
+        "population": -1,
+        "latitude": 23.872079,
+        "longitude": 55.554448
+    },
+    {
+        "name": "Al Wiqan",
+        "country": "United Arab Emirates",
+        "province": "Abu Dhabi",
+        "population": 2000,
+        "latitude": 23.75355,
+        "longitude": 55.32739
+    },
+    {
+        "name": "Abū Mūsá",
+        "country": "United Arab Emirates",
+        "province": "AE,IR",
+        "population": -1,
+        "latitude": 25.86698,
+        "longitude": 55.023633
+    },
+    {
+        "name": "Al Quoz",
+        "country": "United Arab Emirates",
+        "province": "Dubai",
+        "population": -1,
+        "latitude": 25.128967193905698,
+        "longitude": 55.23273468017578
+    },
+    {
+        "name": "The Palm Jumeirah",
+        "country": "United Arab Emirates",
+        "province": "Dubai",
+        "population": -1,
+        "latitude": 25.116067121686175,
+        "longitude": 55.13505935668945
+    },
+    {
+        "name": "Al Raha Corniche",
+        "country": "United Arab Emirates",
+        "province": "Abu Dhabi",
+        "population": -1,
+        "latitude": 24.44246137848208,
+        "longitude": 54.44652557373047
+    },
+    {
+        "name": "Bū Ḩaşā",
+        "country": "United Arab Emirates",
+        "province": "Abu Dhabi",
+        "population": -1,
+        "latitude": 23.553864,
+        "longitude": 53.313882
+    },
+    {
+        "name": "Za‘bah",
+        "country": "United Arab Emirates",
+        "province": "Abu Dhabi",
+        "population": -1,
+        "latitude": 23.718333,
+        "longitude": 55.506944
+    },
+    {
+        "name": "Ţawī Khadaraq",
+        "country": "United Arab Emirates",
+        "province": "Abu Dhabi",
+        "population": -1,
+        "latitude": 23.725556,
+        "longitude": 55.528889
+    },
+    {
+        "name": "Bū Rays",
+        "country": "United Arab Emirates",
+        "province": "Abu Dhabi",
+        "population": -1,
+        "latitude": 23.603102,
+        "longitude": 53.728486
+    },
+    {
+        "name": "Badiyah",
+        "country": "United Arab Emirates",
+        "province": "Abu Dhabi",
+        "population": -1,
+        "latitude": 23.616193,
+        "longitude": 53.843092
+    },
+    {
+        "name": "Sikkat al Khayl",
+        "country": "United Arab Emirates",
+        "province": "Abu Dhabi",
+        "population": -1,
+        "latitude": 23.650528,
+        "longitude": 53.620488
+    },
+    {
+        "name": "Al Lusaylī",
+        "country": "United Arab Emirates",
+        "province": "Dubai",
+        "population": -1,
+        "latitude": 24.931377,
+        "longitude": 55.475309
+    },
+    {
+        "name": "Suwayḩān",
+        "country": "United Arab Emirates",
+        "province": "Abu Dhabi",
+        "population": -1,
+        "latitude": 24.462352,
+        "longitude": 55.337151
+    },
+    {
+        "name": "Majrá al Ghāf",
+        "country": "United Arab Emirates",
+        "province": "Abu Dhabi",
+        "population": -1,
+        "latitude": 24.065816,
+        "longitude": 51.761142
+    },
+    {
+        "name": "Ash Shu‘ayb",
+        "country": "United Arab Emirates",
+        "province": "Sharjah",
+        "population": -1,
+        "latitude": 24.747057,
+        "longitude": 55.816307
+    },
+    {
+        "name": "Al Faq‘",
+        "country": "United Arab Emirates",
+        "province": "Dubai",
+        "population": -1,
+        "latitude": 24.710159,
+        "longitude": 55.621804
+    },
+    {
+        "name": "Al Khabb",
+        "country": "United Arab Emirates",
+        "province": "Abu Dhabi",
+        "population": -1,
+        "latitude": 24.589692,
+        "longitude": 55.74627
+    },
+    {
+        "name": "‘Aqbīyah",
+        "country": "United Arab Emirates",
+        "province": "Abu Dhabi",
+        "population": -1,
+        "latitude": 24.161111,
+        "longitude": 55.656944
+    },
+    {
+        "name": "Mazyad",
+        "country": "United Arab Emirates",
+        "province": "Abu Dhabi",
+        "population": -1,
+        "latitude": 24.036944,
+        "longitude": 55.8425
+    },
+    {
+        "name": "Athabāt",
+        "country": "United Arab Emirates",
+        "province": "Raʼs al Khaymah",
+        "population": -1,
+        "latitude": 25.766667,
+        "longitude": 56.15
+    },
+    {
+        "name": "Ra’s",
+        "country": "United Arab Emirates",
+        "province": "Raʼs al Khaymah",
+        "population": -1,
+        "latitude": 25.793333,
+        "longitude": 56.148333
+    },
+    {
+        "name": "Magam",
+        "country": "United Arab Emirates",
+        "province": "Raʼs al Khaymah",
+        "population": -1,
+        "latitude": 25.783611,
+        "longitude": 56.150556
+    },
+    {
+        "name": "Yāfūr",
+        "country": "United Arab Emirates",
+        "province": "Abu Dhabi",
+        "population": -1,
+        "latitude": 24.26954,
+        "longitude": 54.611485
+    },
+    {
+        "name": "Al Muqaţţarah",
+        "country": "United Arab Emirates",
+        "province": "Abu Dhabi",
+        "population": -1,
+        "latitude": 24.267619,
+        "longitude": 54.561932
+    },
+    {
+        "name": "Madīnat an Nahḑah",
+        "country": "United Arab Emirates",
+        "province": "Abu Dhabi",
+        "population": -1,
+        "latitude": 24.232134,
+        "longitude": 54.744694
+    },
+    {
+        "name": "Al Maqţa‘",
+        "country": "United Arab Emirates",
+        "province": "Abu Dhabi",
+        "population": -1,
+        "latitude": 24.406176,
+        "longitude": 54.481374
+    },
+    {
+        "name": "Zikt",
+        "country": "United Arab Emirates",
+        "province": "Fujairah",
+        "population": -1,
+        "latitude": 25.511795,
+        "longitude": 56.323284
+    },
+    {
+        "name": "Wamm",
+        "country": "United Arab Emirates",
+        "province": "Fujairah",
+        "population": -1,
+        "latitude": 25.600314,
+        "longitude": 56.228381
+    },
+    {
+        "name": "‘Urqūb Juwayza",
+        "country": "United Arab Emirates",
+        "province": "Dubai",
+        "population": -1,
+        "latitude": 24.933333,
+        "longitude": 55.466667
+    },
+    {
+        "name": "‘Uqayr",
+        "country": "United Arab Emirates",
+        "province": "Sharjah",
+        "population": -1,
+        "latitude": 25.283023,
+        "longitude": 56.364352
+    },
+    {
+        "name": "Ţarīqat Ja‘d",
+        "country": "United Arab Emirates",
+        "province": "Fujairah",
+        "population": -1,
+        "latitude": 25.528521,
+        "longitude": 56.151436
+    },
+    {
+        "name": "Şūr",
+        "country": "United Arab Emirates",
+        "province": "Sharjah",
+        "population": -1,
+        "latitude": 25.094065,
+        "longitude": 56.348274
+    },
+    {
+        "name": "Sinnah",
+        "country": "United Arab Emirates",
+        "province": "Fujairah",
+        "population": -1,
+        "latitude": 25.508685,
+        "longitude": 56.167725
+    },
+    {
+        "name": "Shawīyah",
+        "country": "United Arab Emirates",
+        "province": "Fujairah",
+        "population": -1,
+        "latitude": 25.267921,
+        "longitude": 56.08149
+    },
+    {
+        "name": "Shāh",
+        "country": "United Arab Emirates",
+        "province": "Abu Dhabi",
+        "population": -1,
+        "latitude": 23.135613,
+        "longitude": 53.916525
+    },
+    {
+        "name": "Samarat",
+        "country": "United Arab Emirates",
+        "province": "Raʼs al Khaymah",
+        "population": -1,
+        "latitude": 25.689073,
+        "longitude": 56.136985
+    },
+    {
+        "name": "Sā’if",
+        "country": "United Arab Emirates",
+        "province": "Fujairah",
+        "population": -1,
+        "latitude": 25.1842,
+        "longitude": 56.242054
+    },
+    {
+        "name": "Sa‘abah",
+        "country": "United Arab Emirates",
+        "province": "Raʼs al Khaymah",
+        "population": -1,
+        "latitude": 24.994167,
+        "longitude": 56.025
+    },
+    {
+        "name": "Nuqayrah",
+        "country": "United Arab Emirates",
+        "province": "Abu Dhabi",
+        "population": -1,
+        "latitude": 23.300206,
+        "longitude": 54.091066
+    },
+    {
+        "name": "Naqrah",
+        "country": "United Arab Emirates",
+        "province": "Abu Dhabi",
+        "population": -1,
+        "latitude": 24.376445,
+        "longitude": 55.560317
+    },
+    {
+        "name": "Mu‘tariḑah",
+        "country": "United Arab Emirates",
+        "province": "Fujairah",
+        "population": -1,
+        "latitude": 25.508413,
+        "longitude": 56.110464
+    },
+    {
+        "name": "Mūjib",
+        "country": "United Arab Emirates",
+        "province": "Abu Dhabi",
+        "population": -1,
+        "latitude": 23.1166667,
+        "longitude": 53.6833333
+    },
+    {
+        "name": "Maḩḑar Bin ‘Uşayyān",
+        "country": "United Arab Emirates",
+        "province": "Abu Dhabi",
+        "population": -1,
+        "latitude": 22.933333,
+        "longitude": 54.316667
+    },
+    {
+        "name": "Liffah",
+        "country": "United Arab Emirates",
+        "province": "Abu Dhabi",
+        "population": -1,
+        "latitude": 24.293247,
+        "longitude": 53.225383
+    },
+    {
+        "name": "Khannūr",
+        "country": "United Arab Emirates",
+        "province": "Abu Dhabi",
+        "population": -1,
+        "latitude": 23.100917,
+        "longitude": 53.605943
+    },
+    {
+        "name": "Jazīrah",
+        "country": "United Arab Emirates",
+        "province": "Abu Dhabi",
+        "population": -1,
+        "latitude": 24.15,
+        "longitude": 53.7
+    },
+    {
+        "name": "Hunaywah",
+        "country": "United Arab Emirates",
+        "province": "Dubai",
+        "population": -1,
+        "latitude": 25.194735,
+        "longitude": 55.59449
+    },
+    {
+        "name": "Ḩumar",
+        "country": "United Arab Emirates",
+        "province": "Abu Dhabi",
+        "population": -1,
+        "latitude": 23.082158,
+        "longitude": 53.584212
+    },
+    {
+        "name": "Ḩayl",
+        "country": "United Arab Emirates",
+        "province": "Dubai",
+        "population": -1,
+        "latitude": 24.789204,
+        "longitude": 56.114622
+    },
+    {
+        "name": "Ḩamarūr",
+        "country": "United Arab Emirates",
+        "province": "Abu Dhabi",
+        "population": -1,
+        "latitude": 23.095248,
+        "longitude": 53.607155
+    },
+    {
+        "name": "Ḩafīf",
+        "country": "United Arab Emirates",
+        "province": "Abu Dhabi",
+        "population": -1,
+        "latitude": 23.146104,
+        "longitude": 53.84528
+    },
+    {
+        "name": "Ghurbah",
+        "country": "United Arab Emirates",
+        "province": "Abu Dhabi",
+        "population": -1,
+        "latitude": 24.287379,
+        "longitude": 53.271707
+    },
+    {
+        "name": "Farīq Ţarīf",
+        "country": "United Arab Emirates",
+        "province": "Abu Dhabi",
+        "population": -1,
+        "latitude": 24.05,
+        "longitude": 53.7833333
+    },
+    {
+        "name": "Farīq",
+        "country": "United Arab Emirates",
+        "province": "Abu Dhabi",
+        "population": -1,
+        "latitude": 24.200584,
+        "longitude": 53.534649
+    },
+    {
+        "name": "Far‘ah",
+        "country": "United Arab Emirates",
+        "province": "Fujairah",
+        "population": -1,
+        "latitude": 25.136779,
+        "longitude": 56.237311
+    },
+    {
+        "name": "Fāqī",
+        "country": "United Arab Emirates",
+        "province": "Raʼs al Khaymah",
+        "population": -1,
+        "latitude": 25.402543,
+        "longitude": 56.145115
+    },
+    {
+        "name": "Ḑab‘ah",
+        "country": "United Arab Emirates",
+        "province": "Raʼs al Khaymah",
+        "population": -1,
+        "latitude": 25.482462,
+        "longitude": 56.138665
+    },
+    {
+        "name": "Bū Līfīyāt",
+        "country": "United Arab Emirates",
+        "province": "Abu Dhabi",
+        "population": -1,
+        "latitude": 24.2333333,
+        "longitude": 53.8166667
+    },
+    {
+        "name": "Bin Aḩmad",
+        "country": "United Arab Emirates",
+        "province": "Abu Dhabi",
+        "population": -1,
+        "latitude": 24.481622,
+        "longitude": 55.690894
+    },
+    {
+        "name": "‘Awāfī",
+        "country": "United Arab Emirates",
+        "province": "Abu Dhabi",
+        "population": -1,
+        "latitude": 24.3,
+        "longitude": 52.566667
+    },
+    {
+        "name": "‘Aţţāb",
+        "country": "United Arab Emirates",
+        "province": "Abu Dhabi",
+        "population": -1,
+        "latitude": 23.151796,
+        "longitude": 53.881099
+    },
+    {
+        "name": "As Slabeikh",
+        "country": "United Arab Emirates",
+        "province": "Abu Dhabi",
+        "population": -1,
+        "latitude": 24.1833333,
+        "longitude": 55.2166667
+    },
+    {
+        "name": "Ash Shibhānah",
+        "country": "United Arab Emirates",
+        "province": "Abu Dhabi",
+        "population": -1,
+        "latitude": 24.1333333,
+        "longitude": 51.65
+    },
+    {
+        "name": "‘Ashashah",
+        "country": "United Arab Emirates",
+        "province": "Fujairah",
+        "population": -1,
+        "latitude": 25.459339,
+        "longitude": 56.164009
+    },
+    {
+        "name": "Al Qaia",
+        "country": "United Arab Emirates",
+        "province": "Abu Dhabi",
+        "population": -1,
+        "latitude": 24.51926,
+        "longitude": 55.756057
+    },
+    {
+        "name": "Al Muwayqi‘ī",
+        "country": "United Arab Emirates",
+        "province": "Abu Dhabi",
+        "population": -1,
+        "latitude": 24.233333,
+        "longitude": 55.7
+    },
+    {
+        "name": "Al Khīs",
+        "country": "United Arab Emirates",
+        "province": "Abu Dhabi",
+        "population": -1,
+        "latitude": 23.00848,
+        "longitude": 54.196258
+    },
+    {
+        "name": "Al Khaznah",
+        "country": "United Arab Emirates",
+        "province": "Abu Dhabi",
+        "population": -1,
+        "latitude": 24.167966,
+        "longitude": 55.111569
+    },
+    {
+        "name": "Al Khatim",
+        "country": "United Arab Emirates",
+        "province": "Abu Dhabi",
+        "population": -1,
+        "latitude": 24.2,
+        "longitude": 54.8333333
+    },
+    {
+        "name": "Al ‘Idd",
+        "country": "United Arab Emirates",
+        "province": "Abu Dhabi",
+        "population": -1,
+        "latitude": 23.079888,
+        "longitude": 53.552452
+    },
+    {
+        "name": "Al ‘Awdah",
+        "country": "United Arab Emirates",
+        "province": "Sharjah",
+        "population": -1,
+        "latitude": 25.380681,
+        "longitude": 56.30921
+    },
+    {
+        "name": "Minţaqat Dubayy at Ta‘līmīyah",
+        "country": "United Arab Emirates",
+        "province": "Dubai",
+        "population": -1,
+        "latitude": 25.279528,
+        "longitude": 55.342713
+    },
+    {
+        "name": "Minţaqat al Madīnah al Qadīmah",
+        "country": "United Arab Emirates",
+        "province": "Imārat Umm al Qaywayn",
+        "population": -1,
+        "latitude": 25.585979,
+        "longitude": 55.5725
+    },
+    {
+        "name": "Minţaqat Umm al Qaywayn aţ Ţibbīyah",
+        "country": "United Arab Emirates",
+        "province": "Imārat Umm al Qaywayn",
+        "population": -1,
+        "latitude": 25.57065,
+        "longitude": 55.552794
+    },
+    {
+        "name": "Minţaqat al Ḩumrah A",
+        "country": "United Arab Emirates",
+        "province": "Imārat Umm al Qaywayn",
+        "population": -1,
+        "latitude": 25.54834,
+        "longitude": 55.547882
+    },
+    {
+        "name": "Girath",
+        "country": "United Arab Emirates",
+        "province": "Sharjah",
+        "population": -1,
+        "latitude": 25.260889,
+        "longitude": 56.354349
+    },
+    {
+        "name": "Al Fuqait",
+        "country": "United Arab Emirates",
+        "province": "Fujairah",
+        "population": -1,
+        "latitude": 25.599658,
+        "longitude": 56.342487
+    },
+    {
+        "name": "Tawian",
+        "country": "United Arab Emirates",
+        "province": "Fujairah",
+        "population": -1,
+        "latitude": 25.556755,
+        "longitude": 56.076472
+    },
+    {
+        "name": "Jareef",
+        "country": "United Arab Emirates",
+        "province": "Fujairah",
+        "population": -1,
+        "latitude": 25.514168,
+        "longitude": 56.071944
+    },
+    {
+        "name": "Sram",
+        "country": "United Arab Emirates",
+        "province": "Fujairah",
+        "population": -1,
+        "latitude": 25.498176,
+        "longitude": 56.057156
+    },
+    {
+        "name": "Yalah",
+        "country": "United Arab Emirates",
+        "province": "Fujairah",
+        "population": -1,
+        "latitude": 25.415171,
+        "longitude": 56.154957
+    },
+    {
+        "name": "Thoban",
+        "country": "United Arab Emirates",
+        "province": "Fujairah",
+        "population": -1,
+        "latitude": 25.303319,
+        "longitude": 56.027919
+    },
+    {
+        "name": "Al Hinya",
+        "country": "United Arab Emirates",
+        "province": "Fujairah",
+        "population": -1,
+        "latitude": 25.350928,
+        "longitude": 56.025345
+    },
+    {
+        "name": "Qaşr al Baḩr",
+        "country": "United Arab Emirates",
+        "province": "Abu Dhabi",
+        "population": -1,
+        "latitude": 24.47214,
+        "longitude": 54.399897
+    },
+    {
+        "name": "Ar Ra’s al Akhḑar",
+        "country": "United Arab Emirates",
+        "province": "Abu Dhabi",
+        "population": -1,
+        "latitude": 24.460716,
+        "longitude": 54.307127
+    },
+    {
+        "name": "Al Khubayrah",
+        "country": "United Arab Emirates",
+        "province": "Abu Dhabi",
+        "population": -1,
+        "latitude": 24.463455,
+        "longitude": 54.331075
+    },
+    {
+        "name": "Al Khālidīyah",
+        "country": "United Arab Emirates",
+        "province": "Abu Dhabi",
+        "population": -1,
+        "latitude": 24.467689,
+        "longitude": 54.349586
+    },
+    {
+        "name": "Al Ḩişn",
+        "country": "United Arab Emirates",
+        "province": "Abu Dhabi",
+        "population": -1,
+        "latitude": 24.480231,
+        "longitude": 54.353012
+    },
+    {
+        "name": "Madīnat Zāyid",
+        "country": "United Arab Emirates",
+        "province": "Abu Dhabi",
+        "population": -1,
+        "latitude": 24.481207,
+        "longitude": 54.364931
+    },
+    {
+        "name": "Qaryat at Turāth",
+        "country": "United Arab Emirates",
+        "province": "Abu Dhabi",
+        "population": -1,
+        "latitude": 24.476668,
+        "longitude": 54.331311
+    },
+    {
+        "name": "Al Manhal",
+        "country": "United Arab Emirates",
+        "province": "Abu Dhabi",
+        "population": -1,
+        "latitude": 24.475372,
+        "longitude": 54.356208
+    },
+    {
+        "name": "An Nādī as Siyāḩī",
+        "country": "United Arab Emirates",
+        "province": "Abu Dhabi",
+        "population": -1,
+        "latitude": 24.494842,
+        "longitude": 54.37891
+    },
+    {
+        "name": "Al Baladīyah",
+        "country": "United Arab Emirates",
+        "province": "Abu Dhabi",
+        "population": -1,
+        "latitude": 24.487859,
+        "longitude": 54.374472
+    },
+    {
+        "name": "Az̧ Z̧afrah",
+        "country": "United Arab Emirates",
+        "province": "Abu Dhabi",
+        "population": -1,
+        "latitude": 24.478251,
+        "longitude": 54.375662
+    },
+    {
+        "name": "Az Za‘āb",
+        "country": "United Arab Emirates",
+        "province": "Abu Dhabi",
+        "population": -1,
+        "latitude": 24.467963,
+        "longitude": 54.36002
+    },
+    {
+        "name": "Ar Rawḑah",
+        "country": "United Arab Emirates",
+        "province": "Abu Dhabi",
+        "population": -1,
+        "latitude": 24.460354,
+        "longitude": 54.367086
+    },
+    {
+        "name": "Al Karāmah",
+        "country": "United Arab Emirates",
+        "province": "Abu Dhabi",
+        "population": -1,
+        "latitude": 24.464878,
+        "longitude": 54.371356
+    },
+    {
+        "name": "Al Muşallá",
+        "country": "United Arab Emirates",
+        "province": "Abu Dhabi",
+        "population": -1,
+        "latitude": 24.458531,
+        "longitude": 54.376988
+    },
+    {
+        "name": "Al Ittiḩād",
+        "country": "United Arab Emirates",
+        "province": "Abu Dhabi",
+        "population": -1,
+        "latitude": 24.454976,
+        "longitude": 54.38857
+    },
+    {
+        "name": "Al Waḩdah",
+        "country": "United Arab Emirates",
+        "province": "Abu Dhabi",
+        "population": -1,
+        "latitude": 24.468757,
+        "longitude": 54.376322
+    },
+    {
+        "name": "Al Murūr",
+        "country": "United Arab Emirates",
+        "province": "Abu Dhabi",
+        "population": -1,
+        "latitude": 24.449296,
+        "longitude": 54.402971
+    },
+    {
+        "name": "Qaşr ash Shāţi’",
+        "country": "United Arab Emirates",
+        "province": "Abu Dhabi",
+        "population": -1,
+        "latitude": 24.427115,
+        "longitude": 54.384955
+    },
+    {
+        "name": "Al Mariah United Group",
+        "country": "United Arab Emirates",
+        "province": "Abu Dhabi",
+        "population": -1,
+        "latitude": 24.494236898944006,
+        "longitude": 54.36766862869263
+    },
+    {
+        "name": "Minţaqat ar Rawḑah",
+        "country": "United Arab Emirates",
+        "province": "Imārat Umm al Qaywayn",
+        "population": -1,
+        "latitude": 25.576966,
+        "longitude": 55.56363
+    },
+    {
+        "name": "Minţaqat Limghadar",
+        "country": "United Arab Emirates",
+        "province": "Imārat Umm al Qaywayn",
+        "population": -1,
+        "latitude": 25.583444,
+        "longitude": 55.561628
+    },
+    {
+        "name": "Minţaqat al Ḩawīyah",
+        "country": "United Arab Emirates",
+        "province": "Imārat Umm al Qaywayn",
+        "population": -1,
+        "latitude": 25.579308,
+        "longitude": 55.558559
+    },
+    {
+        "name": "Minţaqat ar Ra’s B",
+        "country": "United Arab Emirates",
+        "province": "Imārat Umm al Qaywayn",
+        "population": -1,
+        "latitude": 25.570837,
+        "longitude": 55.554836
+    },
+    {
+        "name": "Minţaqat ar Ra’s D",
+        "country": "United Arab Emirates",
+        "province": "Imārat Umm al Qaywayn",
+        "population": -1,
+        "latitude": 25.569385,
+        "longitude": 55.559544
+    },
+    {
+        "name": "Minţaqat ar Ra’s A",
+        "country": "United Arab Emirates",
+        "province": "Imārat Umm al Qaywayn",
+        "population": -1,
+        "latitude": 25.56724,
+        "longitude": 55.548688
+    },
+    {
+        "name": "Minţaqat ad Dār al Bayḑā’ A",
+        "country": "United Arab Emirates",
+        "province": "Imārat Umm al Qaywayn",
+        "population": -1,
+        "latitude": 25.56622,
+        "longitude": 55.563623
+    },
+    {
+        "name": "Minţaqat ad Dār al Bayḑā’ B",
+        "country": "United Arab Emirates",
+        "province": "Imārat Umm al Qaywayn",
+        "population": -1,
+        "latitude": 25.55581,
+        "longitude": 55.558757
+    },
+    {
+        "name": "Minţaqat al Khawr",
+        "country": "United Arab Emirates",
+        "province": "Imārat Umm al Qaywayn",
+        "population": -1,
+        "latitude": 25.563432,
+        "longitude": 55.565026
+    },
+    {
+        "name": "Minţaqat ar Riqqah",
+        "country": "United Arab Emirates",
+        "province": "Imārat Umm al Qaywayn",
+        "population": -1,
+        "latitude": 25.560264,
+        "longitude": 55.554599
+    },
+    {
+        "name": "Minţaqat ar Ra’s J",
+        "country": "United Arab Emirates",
+        "province": "Imārat Umm al Qaywayn",
+        "population": -1,
+        "latitude": 25.560858,
+        "longitude": 55.548875
+    },
+    {
+        "name": "Minţaqat al Maydān",
+        "country": "United Arab Emirates",
+        "province": "Imārat Umm al Qaywayn",
+        "population": -1,
+        "latitude": 25.548052,
+        "longitude": 55.540597
+    },
+    {
+        "name": "Minţaqah al Ḩadīthah",
+        "country": "United Arab Emirates",
+        "province": "Imārat Umm al Qaywayn",
+        "population": -1,
+        "latitude": 25.5417,
+        "longitude": 55.536736
+    },
+    {
+        "name": "Minţaqat al Ḩumrah B",
+        "country": "United Arab Emirates",
+        "province": "Imārat Umm al Qaywayn",
+        "population": -1,
+        "latitude": 25.540862,
+        "longitude": 55.543784
+    },
+    {
+        "name": "Minţaqat al Ḩumrah J",
+        "country": "United Arab Emirates",
+        "province": "Imārat Umm al Qaywayn",
+        "population": -1,
+        "latitude": 25.544835,
+        "longitude": 55.553482
+    },
+    {
+        "name": "Minţaqat al ‘Ahd",
+        "country": "United Arab Emirates",
+        "province": "Imārat Umm al Qaywayn",
+        "population": -1,
+        "latitude": 25.540892,
+        "longitude": 55.557573
+    },
+    {
+        "name": "Minţaqat al Ḩumrah D",
+        "country": "United Arab Emirates",
+        "province": "Imārat Umm al Qaywayn",
+        "population": -1,
+        "latitude": 25.536603,
+        "longitude": 55.551898
+    },
+    {
+        "name": "Ḩadbat az Za‘farānah",
+        "country": "United Arab Emirates",
+        "province": "Abu Dhabi",
+        "population": -1,
+        "latitude": 24.440746,
+        "longitude": 54.403017
+    },
+    {
+        "name": "Az Zahrā’",
+        "country": "United Arab Emirates",
+        "province": "Abu Dhabi",
+        "population": -1,
+        "latitude": 24.439053,
+        "longitude": 54.435481
+    },
+    {
+        "name": "Al Amān",
+        "country": "United Arab Emirates",
+        "province": "Abu Dhabi",
+        "population": -1,
+        "latitude": 24.432265,
+        "longitude": 54.423529
+    },
+    {
+        "name": "Ar Rīḩān",
+        "country": "United Arab Emirates",
+        "province": "Abu Dhabi",
+        "population": -1,
+        "latitude": 24.428489,
+        "longitude": 54.435487
+    },
+    {
+        "name": "Al Muzūn",
+        "country": "United Arab Emirates",
+        "province": "Abu Dhabi",
+        "population": -1,
+        "latitude": 24.410602,
+        "longitude": 54.434314
+    },
+    {
+        "name": "Minţaqat al Maţār",
+        "country": "United Arab Emirates",
+        "province": "Abu Dhabi",
+        "population": -1,
+        "latitude": 24.436998,
+        "longitude": 54.453431
+    },
+    {
+        "name": "Sās an Nakhl",
+        "country": "United Arab Emirates",
+        "province": "Abu Dhabi",
+        "population": -1,
+        "latitude": 24.437548,
+        "longitude": 54.490967
+    },
+    {
+        "name": "Al Jāmi‘ al Kabīr",
+        "country": "United Arab Emirates",
+        "province": "Abu Dhabi",
+        "population": -1,
+        "latitude": 24.412374,
+        "longitude": 54.476197
+    },
+    {
+        "name": "Minţaqah Bayn al Jisrayn",
+        "country": "United Arab Emirates",
+        "province": "Abu Dhabi",
+        "population": -1,
+        "latitude": 24.406503,
+        "longitude": 54.506138
+    },
+    {
+        "name": "Madīnat aḑ Ḑubbāţ",
+        "country": "United Arab Emirates",
+        "province": "Abu Dhabi",
+        "population": -1,
+        "latitude": 24.395886,
+        "longitude": 54.49765
+    },
+    {
+        "name": "Shāţi’ ar Rāḩah",
+        "country": "United Arab Emirates",
+        "province": "Abu Dhabi",
+        "population": -1,
+        "latitude": 24.430369,
+        "longitude": 54.540724
+    },
+    {
+        "name": "Madīnat Khalīfah B",
+        "country": "United Arab Emirates",
+        "province": "Abu Dhabi",
+        "population": -1,
+        "latitude": 24.367274,
+        "longitude": 54.637209
+    },
+    {
+        "name": "Jebel Dhanna",
+        "country": "United Arab Emirates",
+        "province": "Abu Dhabi",
+        "population": -1,
+        "latitude": 24.1651,
+        "longitude": 52.642
+    },
+    {
+        "name": "Al Aqah",
+        "country": "United Arab Emirates",
+        "province": "Fujairah",
+        "population": -1,
+        "latitude": 25.4967,
+        "longitude": 56.3564
+    },
+    {
+        "name": "Ar Rumaylah",
+        "country": "United Arab Emirates",
+        "province": "Ajman",
+        "population": -1,
+        "latitude": 25.403383,
+        "longitude": 55.433397
+    },
+    {
+        "name": "As Sawān",
+        "country": "United Arab Emirates",
+        "province": "Ajman",
+        "population": -1,
+        "latitude": 25.397305,
+        "longitude": 55.437074
+    },
+    {
+        "name": "Ar Rāshidīyah",
+        "country": "United Arab Emirates",
+        "province": "Ajman",
+        "population": -1,
+        "latitude": 25.396131,
+        "longitude": 55.447033
+    },
+    {
+        "name": "Mushayrif",
+        "country": "United Arab Emirates",
+        "province": "Ajman",
+        "population": -1,
+        "latitude": 25.409766,
+        "longitude": 55.471061
+    },
+    {
+        "name": "Mushayrif at Tijārīyah",
+        "country": "United Arab Emirates",
+        "province": "Ajman",
+        "population": -1,
+        "latitude": 25.394343,
+        "longitude": 55.455663
+    },
+    {
+        "name": "An Na‘īmīyah",
+        "country": "United Arab Emirates",
+        "province": "Ajman",
+        "population": -1,
+        "latitude": 25.383465,
+        "longitude": 55.451118
+    },
+    {
+        "name": "Az Zahrā’",
+        "country": "United Arab Emirates",
+        "province": "Ajman",
+        "population": -1,
+        "latitude": 25.387806,
+        "longitude": 55.510563
+    },
+    {
+        "name": "Al Jurf",
+        "country": "United Arab Emirates",
+        "province": "Ajman",
+        "population": -1,
+        "latitude": 25.418142,
+        "longitude": 55.507908
+    },
+    {
+        "name": "Al Muwayhāt",
+        "country": "United Arab Emirates",
+        "province": "Ajman",
+        "population": -1,
+        "latitude": 25.371975,
+        "longitude": 55.494221
+    },
+    {
+        "name": "Az Zawrā’",
+        "country": "United Arab Emirates",
+        "province": "Ajman",
+        "population": -1,
+        "latitude": 25.438066,
+        "longitude": 55.484787
+    },
+    {
+        "name": "Al Ḩilyū",
+        "country": "United Arab Emirates",
+        "province": "Ajman",
+        "population": -1,
+        "latitude": 25.391206,
+        "longitude": 55.586663
+    },
+    {
+        "name": "Aş Şafā",
+        "country": "United Arab Emirates",
+        "province": "Dubai",
+        "population": -1,
+        "latitude": 25.194414,
+        "longitude": 55.253684
+    },
+    {
+        "name": "Theeb",
+        "country": "United Arab Emirates",
+        "province": "Fujairah",
+        "population": -1,
+        "latitude": 25.245013,
+        "longitude": 56.342062
+    },
+    {
+        "name": "Al Gissemari",
+        "country": "United Arab Emirates",
+        "province": "Fujairah",
+        "population": -1,
+        "latitude": 25.143423,
+        "longitude": 56.248397
+    },
+    {
+        "name": "Ghantoot",
+        "country": "United Arab Emirates",
+        "province": "Abu Dhabi",
+        "population": -1,
+        "latitude": 24.853858,
+        "longitude": 54.846408
+    },
+    {
+        "name": "Bab Al Shams",
+        "country": "United Arab Emirates",
+        "province": "Dubai",
+        "population": -1,
+        "latitude": 24.81689,
+        "longitude": 55.23188
+    },
+    {
+        "name": "Palm Jebel Ali",
+        "country": "United Arab Emirates",
+        "province": "Abu Dhabi",
+        "population": -1,
+        "latitude": 25.00582,
+        "longitude": 54.98829
+    },
+    {
+        "name": "Al Barsha First",
+        "country": "United Arab Emirates",
+        "province": "Dubai",
+        "population": -1,
+        "latitude": 25.11062,
+        "longitude": 55.19838
+    },
+    {
+        "name": "Al'Arad",
+        "country": "United Arab Emirates",
+        "province": "Abu Dhabi",
+        "population": 1000,
+        "latitude": 23.8472,
+        "longitude": 55.52719
+    },
+    {
+        "name": "Al Araad",
+        "country": "United Arab Emirates",
+        "province": "Abu Dhabi",
+        "population": 1000,
+        "latitude": 23.86471,
+        "longitude": 55.52341
+    },
+    {
+        "name": "Al Mamzer",
+        "country": "United Arab Emirates",
+        "province": "Sharjah",
+        "population": -1,
+        "latitude": 25.303838191876032,
+        "longitude": 55.34311294555664
+    },
+    {
+        "name": "Hor Al Anz",
+        "country": "United Arab Emirates",
+        "province": "Dubai",
+        "population": -1,
+        "latitude": 25.27822894908031,
+        "longitude": 55.33367156982422
+    },
+    {
+        "name": "Al Khabeesi",
+        "country": "United Arab Emirates",
+        "province": "Dubai",
+        "population": -1,
+        "latitude": 25.267673263464214,
+        "longitude": 55.333757400512695
+    },
+    {
+        "name": "Al Twar First",
+        "country": "United Arab Emirates",
+        "province": "Dubai",
+        "population": -1,
+        "latitude": 25.271476520703988,
+        "longitude": 55.36165237426758
+    },
+    {
+        "name": "Al Qusais First",
+        "country": "United Arab Emirates",
+        "province": "Dubai",
+        "population": -1,
+        "latitude": 25.28055728553195,
+        "longitude": 55.371952056884766
+    },
+    {
+        "name": "AL Twar Second",
+        "country": "United Arab Emirates",
+        "province": "Dubai",
+        "population": -1,
+        "latitude": 25.263093673152056,
+        "longitude": 55.38027763366699
+    },
+    {
+        "name": "Al Qusais Second",
+        "country": "United Arab Emirates",
+        "province": "Dubai",
+        "population": -1,
+        "latitude": 25.271476520703988,
+        "longitude": 55.38602828979492
+    },
+    {
+        "name": "Al Qusais Third",
+        "country": "United Arab Emirates",
+        "province": "Dubai",
+        "population": -1,
+        "latitude": 25.26355940209153,
+        "longitude": 55.39649963378906
+    },
+    {
+        "name": "Muhaisanah Third",
+        "country": "United Arab Emirates",
+        "province": "Dubai",
+        "population": -1,
+        "latitude": 25.275279658764973,
+        "longitude": 55.40036201477051
+    },
+    {
+        "name": "Muhaisanah Fourth",
+        "country": "United Arab Emirates",
+        "province": "Dubai",
+        "population": -1,
+        "latitude": 25.281721437001053,
+        "longitude": 55.40534019470215
+    },
+    {
+        "name": "Muhaisanah Second",
+        "country": "United Arab Emirates",
+        "province": "Dubai",
+        "population": -1,
+        "latitude": 25.267052312190323,
+        "longitude": 55.42774200439453
+    },
+    {
+        "name": "Al Jafliya",
+        "country": "United Arab Emirates",
+        "province": "Dubai",
+        "population": -1,
+        "latitude": 25.239572039092877,
+        "longitude": 55.285348892211914
+    },
+    {
+        "name": "Al Hudaba",
+        "country": "United Arab Emirates",
+        "province": "Dubai",
+        "population": -1,
+        "latitude": 25.235146668336927,
+        "longitude": 55.274362564086914
+    },
+    {
+        "name": "Jumeira Second",
+        "country": "United Arab Emirates",
+        "province": "Dubai",
+        "population": -1,
+        "latitude": 25.202067744910806,
+        "longitude": 55.245094299316406
+    },
+    {
+        "name": "Jumeira Third",
+        "country": "United Arab Emirates",
+        "province": "Dubai",
+        "population": -1,
+        "latitude": 25.187855023914796,
+        "longitude": 55.23445129394531
+    },
+    {
+        "name": "Al Saffa First",
+        "country": "United Arab Emirates",
+        "province": "Dubai",
+        "population": -1,
+        "latitude": 25.17519420939,
+        "longitude": 55.2351379394531
+    },
+    {
+        "name": "Al Saffa Second",
+        "country": "United Arab Emirates",
+        "province": "Dubai",
+        "population": -1,
+        "latitude": 25.158181596745564,
+        "longitude": 55.224666595458984
+    },
+    {
+        "name": "Um Suqaim Second",
+        "country": "United Arab Emirates",
+        "province": "Dubai",
+        "population": -1,
+        "latitude": 25.14862552703961,
+        "longitude": 55.20235061645508
+    },
+    {
+        "name": "Um Al Sheif",
+        "country": "United Arab Emirates",
+        "province": "Dubai",
+        "population": -1,
+        "latitude": 25.132774786181812,
+        "longitude": 55.20835876464844
+    },
+    {
+        "name": "Al Safouh First",
+        "country": "United Arab Emirates",
+        "province": "Dubai",
+        "population": -1,
+        "latitude": 25.11544539706194,
+        "longitude": 55.180978775024414
+    },
+    {
+        "name": "Al Barshaa Second",
+        "country": "United Arab Emirates",
+        "province": "Dubai",
+        "population": -1,
+        "latitude": 25.101455757042082,
+        "longitude": 55.21780014038086
+    },
+    {
+        "name": "Al Barshaa Third",
+        "country": "United Arab Emirates",
+        "province": "Dubai",
+        "population": -1,
+        "latitude": 25.096014909247206,
+        "longitude": 55.19599914550781
+    },
+    {
+        "name": "Knowledge Village",
+        "country": "United Arab Emirates",
+        "province": "Dubai",
+        "population": -1,
+        "latitude": 25.102233001256156,
+        "longitude": 55.16432762145996
+    },
+    {
+        "name": "Emirates Hill Second",
+        "country": "United Arab Emirates",
+        "province": "Dubai",
+        "population": -1,
+        "latitude": 25.08575436645081,
+        "longitude": 55.163469314575195
+    },
+    {
+        "name": "Emirates Hill Third",
+        "country": "United Arab Emirates",
+        "province": "Dubai",
+        "population": -1,
+        "latitude": 25.06834056785732,
+        "longitude": 55.17539978027344
+    },
+    {
+        "name": "Emirates Hill First",
+        "country": "United Arab Emirates",
+        "province": "Dubai",
+        "population": -1,
+        "latitude": 25.054345542557108,
+        "longitude": 55.15188217163086
+    },
+    {
+        "name": "Oud Metha",
+        "country": "United Arab Emirates",
+        "province": "Dubai",
+        "population": -1,
+        "latitude": 25.236854725264,
+        "longitude": 55.31418800354
+    },
+    {
+        "name": "AL Khaildia Suburb",
+        "country": "United Arab Emirates",
+        "province": "Sharjah",
+        "population": -1,
+        "latitude": 25.33995354506114,
+        "longitude": 55.37006378173828
+    },
+    {
+        "name": "Al Nud",
+        "country": "United Arab Emirates",
+        "province": "Sharjah",
+        "population": -1,
+        "latitude": 25.3418928402885,
+        "longitude": 55.39165019989014
+    },
+    {
+        "name": "Abu Sangara",
+        "country": "United Arab Emirates",
+        "province": "Sharjah",
+        "population": -1,
+        "latitude": 25.338634806551156,
+        "longitude": 55.39838790893555
+    },
+    {
+        "name": "Bu Danig",
+        "country": "United Arab Emirates",
+        "province": "Sharjah",
+        "population": -1,
+        "latitude": 25.342552193584527,
+        "longitude": 55.40152072906494
+    },
+    {
+        "name": "Al Mahatah",
+        "country": "United Arab Emirates",
+        "province": "Sharjah",
+        "population": -1,
+        "latitude": 25.348524995002222,
+        "longitude": 55.39439678192139
+    },
+    {
+        "name": "Al Ghuhaiba",
+        "country": "United Arab Emirates",
+        "province": "Sharjah",
+        "population": -1,
+        "latitude": 25.3442587383692,
+        "longitude": 55.4133224487305
+    },
+    {
+        "name": "Al Yarmook",
+        "country": "United Arab Emirates",
+        "province": "Sharjah",
+        "population": -1,
+        "latitude": 25.34976605958552,
+        "longitude": 55.403709411621094
+    },
+    {
+        "name": "Al Manakh",
+        "country": "United Arab Emirates",
+        "province": "Sharjah",
+        "population": -1,
+        "latitude": 25.353178921520094,
+        "longitude": 55.397915840148926
+    },
+    {
+        "name": "Al Aber",
+        "country": "United Arab Emirates",
+        "province": "Sharjah",
+        "population": -1,
+        "latitude": 25.348757695581682,
+        "longitude": 55.42872905731201
+    },
+    {
+        "name": "Samnan",
+        "country": "United Arab Emirates",
+        "province": "Sharjah",
+        "population": -1,
+        "latitude": 25.33859601990681,
+        "longitude": 55.42220592498779
+    },
+    {
+        "name": "Al Khouzamiya",
+        "country": "United Arab Emirates",
+        "province": "Sharjah",
+        "population": -1,
+        "latitude": 25.339643254940096,
+        "longitude": 55.438385009765625
+    },
+    {
+        "name": "Al Shahab",
+        "country": "United Arab Emirates",
+        "province": "Sharjah",
+        "population": -1,
+        "latitude": 25.332389996681165,
+        "longitude": 55.43199062347412
+    },
+    {
+        "name": "Al Talae",
+        "country": "United Arab Emirates",
+        "province": "Sharjah",
+        "population": -1,
+        "latitude": 25.33595849892361,
+        "longitude": 55.448856353759766
+    },
+    {
+        "name": "Al Rifa",
+        "country": "United Arab Emirates",
+        "province": "Sharjah",
+        "population": -1,
+        "latitude": 25.33339849711159,
+        "longitude": 55.45555114746094
+    },
+    {
+        "name": "Al Darrare",
+        "country": "United Arab Emirates",
+        "province": "Sharjah",
+        "population": -1,
+        "latitude": 25.32703704604124,
+        "longitude": 55.4404878616333
+    },
+    {
+        "name": "Turrfana",
+        "country": "United Arab Emirates",
+        "province": "Sharjah",
+        "population": -1,
+        "latitude": 25.323313114686247,
+        "longitude": 55.44872760772705
+    },
+    {
+        "name": "Um Tarrafa",
+        "country": "United Arab Emirates",
+        "province": "Sharjah",
+        "population": -1,
+        "latitude": 25.35519556738819,
+        "longitude": 55.38830280303955
+    },
+    {
+        "name": "Al Marijah",
+        "country": "United Arab Emirates",
+        "province": "Sharjah",
+        "population": -1,
+        "latitude": 25.35612631567532,
+        "longitude": 55.384182929992676
+    },
+    {
+        "name": "Al Shuwaiheen",
+        "country": "United Arab Emirates",
+        "province": "Sharjah",
+        "population": -1,
+        "latitude": 25.35996557662015,
+        "longitude": 55.38830280303955
+    },
+    {
+        "name": "Al Ghuwair",
+        "country": "United Arab Emirates",
+        "province": "Sharjah",
+        "population": -1,
+        "latitude": 25.35984923717082,
+        "longitude": 55.391907691955566
+    },
+    {
+        "name": "Al Nabba",
+        "country": "United Arab Emirates",
+        "province": "Sharjah",
+        "population": -1,
+        "latitude": 25.365472182471635,
+        "longitude": 55.39688587188721
+    },
+    {
+        "name": "Maysaloon",
+        "country": "United Arab Emirates",
+        "province": "Sharjah",
+        "population": -1,
+        "latitude": 25.360857508678684,
+        "longitude": 55.40310859680176
+    },
+    {
+        "name": "AL Sharq",
+        "country": "United Arab Emirates",
+        "province": "Sharjah",
+        "population": -1,
+        "latitude": 25.3688458240828,
+        "longitude": 55.398688316345215
+    },
+    {
+        "name": "Al Hazana",
+        "country": "United Arab Emirates",
+        "province": "Sharjah",
+        "population": -1,
+        "latitude": 25.369698913938112,
+        "longitude": 55.421175956726074
+    },
+    {
+        "name": "Al Jazzat",
+        "country": "United Arab Emirates",
+        "province": "Sharjah",
+        "population": -1,
+        "latitude": 25.364774175896883,
+        "longitude": 55.42598247528076
+    },
+    {
+        "name": "AL Nahda First",
+        "country": "United Arab Emirates",
+        "province": "Sharjah",
+        "population": -1,
+        "latitude": 25.294681568714207,
+        "longitude": 55.366716384887695
+    },
+    {
+        "name": "AL Nahda Second",
+        "country": "United Arab Emirates",
+        "province": "Sharjah",
+        "population": -1,
+        "latitude": 25.292586311941143,
+        "longitude": 55.3780460357666
+    },
+    {
+        "name": "Al Qusais Industrial Area First",
+        "country": "United Arab Emirates",
+        "province": "Sharjah",
+        "population": -1,
+        "latitude": 25.290568623050063,
+        "longitude": 55.38825988769531
+    },
+    {
+        "name": "Al Qusais Industrial Area Second",
+        "country": "United Arab Emirates",
+        "province": "Sharjah",
+        "population": -1,
+        "latitude": 25.28738681466239,
+        "longitude": 55.39538383483887
+    },
+    {
+        "name": "Al Qusais Industrial Area Third",
+        "country": "United Arab Emirates",
+        "province": "Sharjah",
+        "population": -1,
+        "latitude": 25.29786318568412,
+        "longitude": 55.39134979248047
+    },
+    {
+        "name": "Al Fayha",
+        "country": "United Arab Emirates",
+        "province": "Sharjah",
+        "population": -1,
+        "latitude": 25.357367302245688,
+        "longitude": 55.40860176086426
+    },
+    {
+        "name": "Al Fallaj",
+        "country": "United Arab Emirates",
+        "province": "Sharjah",
+        "population": -1,
+        "latitude": 25.35891851754525,
+        "longitude": 55.43606758117676
+    },
+    {
+        "name": "Al Azrra",
+        "country": "United Arab Emirates",
+        "province": "Sharjah",
+        "population": -1,
+        "latitude": 25.36752740064164,
+        "longitude": 55.44027328491211
+    },
+    {
+        "name": "Al Riqa Suburb",
+        "country": "United Arab Emirates",
+        "province": "Sharjah",
+        "population": -1,
+        "latitude": 25.367217181270842,
+        "longitude": 55.432634353637695
+    },
+    {
+        "name": "AL Ghafiya",
+        "country": "United Arab Emirates",
+        "province": "Sharjah",
+        "population": -1,
+        "latitude": 25.37807438535541,
+        "longitude": 55.43718338012695
+    },
+    {
+        "name": "Al Subaikhi",
+        "country": "United Arab Emirates",
+        "province": "Sharjah",
+        "population": -1,
+        "latitude": 25.377376451582997,
+        "longitude": 55.42757034301758
+    },
+    {
+        "name": "Shargan",
+        "country": "United Arab Emirates",
+        "province": "Sharjah",
+        "population": -1,
+        "latitude": 25.37908250479579,
+        "longitude": 55.40757179260254
+    },
+    {
+        "name": "AL Ramla West",
+        "country": "United Arab Emirates",
+        "province": "Sharjah",
+        "population": -1,
+        "latitude": 25.356746810552767,
+        "longitude": 55.41375160217285
+    },
+    {
+        "name": "Al Ramla East",
+        "country": "United Arab Emirates",
+        "province": "Sharjah",
+        "population": -1,
+        "latitude": 25.36225356303604,
+        "longitude": 55.418901443481445
+    },
+    {
+        "name": "Al Nasserya",
+        "country": "United Arab Emirates",
+        "province": "Sharjah",
+        "population": -1,
+        "latitude": 25.366286518380257,
+        "longitude": 55.40722846984863
+    },
+    {
+        "name": "Al Ramtha",
+        "country": "United Arab Emirates",
+        "province": "Sharjah",
+        "population": -1,
+        "latitude": 25.36450272780685,
+        "longitude": 55.454607009887695
+    },
+    {
+        "name": "Al Goaz",
+        "country": "United Arab Emirates",
+        "province": "Sharjah",
+        "population": -1,
+        "latitude": 25.350153889656024,
+        "longitude": 55.446109771728516
+    },
+    {
+        "name": "Al Ramaqia",
+        "country": "United Arab Emirates",
+        "province": "Sharjah",
+        "population": -1,
+        "latitude": 25.354885316366953,
+        "longitude": 55.462331771850586
+    },
+    {
+        "name": "Wasit Suburb",
+        "country": "United Arab Emirates",
+        "province": "Sharjah",
+        "population": -1,
+        "latitude": 25.35116224201865,
+        "longitude": 55.45769691467285
+    },
+    {
+        "name": "Al Swehat",
+        "country": "United Arab Emirates",
+        "province": "Sharjah",
+        "population": -1,
+        "latitude": 25.34542227782849,
+        "longitude": 55.4520320892334
+    },
+    {
+        "name": "Muwafjah",
+        "country": "United Arab Emirates",
+        "province": "Sharjah",
+        "population": -1,
+        "latitude": 25.348524995002222,
+        "longitude": 55.46928405761719
+    },
+    {
+        "name": "Eliash",
+        "country": "United Arab Emirates",
+        "province": "Sharjah",
+        "population": -1,
+        "latitude": 25.340302620496118,
+        "longitude": 55.46250343322754
+    },
+    {
+        "name": "Al nekhailat",
+        "country": "United Arab Emirates",
+        "province": "Sharjah",
+        "population": -1,
+        "latitude": 25.38520858814062,
+        "longitude": 55.42902946472168
+    },
+    {
+        "name": "Al Mirgab",
+        "country": "United Arab Emirates",
+        "province": "Ajman",
+        "population": -1,
+        "latitude": 25.389473399368487,
+        "longitude": 55.42508125305176
+    },
+    {
+        "name": "Al Rifah",
+        "country": "United Arab Emirates",
+        "province": "Ajman",
+        "population": -1,
+        "latitude": 25.393040216699188,
+        "longitude": 55.421390533447266
+    },
+    {
+        "name": "Al Rumailah",
+        "country": "United Arab Emirates",
+        "province": "Ajman",
+        "population": -1,
+        "latitude": 25.39947572913044,
+        "longitude": 55.42945861816406
+    },
+    {
+        "name": "Al Nakhil",
+        "country": "United Arab Emirates",
+        "province": "Ajman",
+        "population": -1,
+        "latitude": 25.407461490223685,
+        "longitude": 55.43632507324219
+    },
+    {
+        "name": "Al Owan",
+        "country": "United Arab Emirates",
+        "province": "Ajman",
+        "population": -1,
+        "latitude": 25.413353557526783,
+        "longitude": 55.44130325317383
+    },
+    {
+        "name": "Al Bustan",
+        "country": "United Arab Emirates",
+        "province": "Ajman",
+        "population": -1,
+        "latitude": 25.410407559855894,
+        "longitude": 55.44576644897461
+    },
+    {
+        "name": "Al Butain",
+        "country": "United Arab Emirates",
+        "province": "Ajman",
+        "population": -1,
+        "latitude": 25.417229760605206,
+        "longitude": 55.45065879821777
+    },
+    {
+        "name": "Al Mu‘amūrah",
+        "country": "United Arab Emirates",
+        "province": "Raʼs al Khaymah",
+        "population": -1,
+        "latitude": 25.809722,
+        "longitude": 55.976389
+    },
+    {
+        "name": "Ma‘ālī",
+        "country": "United Arab Emirates",
+        "province": "Raʼs al Khaymah",
+        "population": -1,
+        "latitude": 25.816667,
+        "longitude": 55.975
+    },
+    {
+        "name": "Ferij al Muhadham",
+        "country": "United Arab Emirates",
+        "province": "Dubai",
+        "population": -1,
+        "latitude": 25.2875,
+        "longitude": 55.3175
+    },
+    {
+        "name": "Barr Dubayy",
+        "country": "United Arab Emirates",
+        "province": "Dubai",
+        "population": -1,
+        "latitude": 25.240392,
+        "longitude": 55.2838
+    },
+    {
+        "name": "Discovery Gardens",
+        "country": "United Arab Emirates",
+        "province": "Dubai",
+        "population": -1,
+        "latitude": 25.04029707638089,
+        "longitude": 55.14166831970215
+    },
+    {
+        "name": "Al Majaz 1",
+        "country": "United Arab Emirates",
+        "province": "Sharjah",
+        "population": -1,
+        "latitude": 25.337734,
+        "longitude": 55.387249
+    },
+    {
+        "name": "Al Majaz 2",
+        "country": "United Arab Emirates",
+        "province": "Sharjah",
+        "population": -1,
+        "latitude": 25.323536,
+        "longitude": 55.387742
+    },
+    {
+        "name": "Al Majaz 3",
+        "country": "United Arab Emirates",
+        "province": "Sharjah",
+        "population": -1,
+        "latitude": 25.329249,
+        "longitude": 55.375936
+    },
+    {
+        "name": "Al Bu Deniq",
+        "country": "United Arab Emirates",
+        "province": "Sharjah",
+        "population": -1,
+        "latitude": 25.343461,
+        "longitude": 55.400602
+    },
+    {
+        "name": "Al Mussalla",
+        "country": "United Arab Emirates",
+        "province": "Sharjah",
+        "population": -1,
+        "latitude": 25.357582,
+        "longitude": 55.398254
+    },
+    {
+        "name": "Al Soor",
+        "country": "United Arab Emirates",
+        "province": "Sharjah",
+        "population": -1,
+        "latitude": 25.349644,
+        "longitude": 55.386532
+    },
+    {
+        "name": "Dasman",
+        "country": "United Arab Emirates",
+        "province": "Sharjah",
+        "population": -1,
+        "latitude": 25.351884,
+        "longitude": 55.420408
+    },
+    {
+        "name": "Al Abar",
+        "country": "United Arab Emirates",
+        "province": "Sharjah",
+        "population": -1,
+        "latitude": 25.348353,
+        "longitude": 55.428532
+    },
+    {
+        "name": "Al Khezammia",
+        "country": "United Arab Emirates",
+        "province": "Sharjah",
+        "population": -1,
+        "latitude": 25.342621,
+        "longitude": 55.438156
+    },
+    {
+        "name": "Al Shahba",
+        "country": "United Arab Emirates",
+        "province": "Sharjah",
+        "population": -1,
+        "latitude": 25.333595,
+        "longitude": 55.431724
+    },
+    {
+        "name": "Al Darari",
+        "country": "United Arab Emirates",
+        "province": "Sharjah",
+        "population": -1,
+        "latitude": 25.328113,
+        "longitude": 55.441529
+    },
+    {
+        "name": "Al Tala’a",
+        "country": "United Arab Emirates",
+        "province": "Sharjah",
+        "population": -1,
+        "latitude": 25.337477,
+        "longitude": 55.448409
+    },
+    {
+        "name": "Al Ghaphia",
+        "country": "United Arab Emirates",
+        "province": "Ajman",
+        "population": -1,
+        "latitude": 25.375702,
+        "longitude": 55.437853
+    },
+    {
+        "name": "Al Ezra",
+        "country": "United Arab Emirates",
+        "province": "Ajman",
+        "population": -1,
+        "latitude": 25.370433,
+        "longitude": 55.44557
+    },
+    {
+        "name": "Al Homah",
+        "country": "United Arab Emirates",
+        "province": "Ajman",
+        "population": -1,
+        "latitude": 25.365516,
+        "longitude": 55.469665
+    },
+    {
+        "name": "Al Mansura",
+        "country": "United Arab Emirates",
+        "province": "Sharjah",
+        "population": -1,
+        "latitude": 25.364639,
+        "longitude": 55.414297
+    },
+    {
+        "name": "Al Qadasia",
+        "country": "United Arab Emirates",
+        "province": "Ajman",
+        "population": -1,
+        "latitude": 25.375458,
+        "longitude": 55.415853
+    },
+    {
+        "name": "Sharqan",
+        "country": "United Arab Emirates",
+        "province": "Ajman",
+        "population": -1,
+        "latitude": 25.380849,
+        "longitude": 55.4105
+    },
+    {
+        "name": "Al Fisht",
+        "country": "United Arab Emirates",
+        "province": "Ajman",
+        "population": -1,
+        "latitude": 25.384441,
+        "longitude": 55.407718
+    },
+    {
+        "name": "Al Rifa’ah",
+        "country": "United Arab Emirates",
+        "province": "Ajman",
+        "population": -1,
+        "latitude": 25.39169,
+        "longitude": 55.421367
+    },
+    {
+        "name": "Al Seef",
+        "country": "United Arab Emirates",
+        "province": "Sharjah",
+        "population": -1,
+        "latitude": 25.375444,
+        "longitude": 55.394172
+    },
+    {
+        "name": "Al Gulayaa",
+        "country": "United Arab Emirates",
+        "province": "Sharjah",
+        "population": -1,
+        "latitude": 25.373484,
+        "longitude": 55.397783
+    },
+    {
+        "name": "Bu Tina",
+        "country": "United Arab Emirates",
+        "province": "Sharjah",
+        "population": -1,
+        "latitude": 25.371548,
+        "longitude": 55.402073
+    },
+    {
+        "name": "Al Nabba’a",
+        "country": "United Arab Emirates",
+        "province": "Sharjah",
+        "population": -1,
+        "latitude": 25.364472,
+        "longitude": 55.396258
+    },
+    {
+        "name": "Al Mujarrah",
+        "country": "United Arab Emirates",
+        "province": "Sharjah",
+        "population": -1,
+        "latitude": 25.366303,
+        "longitude": 55.392038
+    },
+    {
+        "name": "Al Merraija",
+        "country": "United Arab Emirates",
+        "province": "Sharjah",
+        "population": -1,
+        "latitude": 25.356487,
+        "longitude": 55.384416
+    },
+    {
+        "name": "Al Sheyoukh",
+        "country": "United Arab Emirates",
+        "province": "Sharjah",
+        "population": -1,
+        "latitude": 25.358691,
+        "longitude": 55.38625
+    },
+    {
+        "name": "Al Juhail",
+        "country": "United Arab Emirates",
+        "province": "Sharjah",
+        "population": -1,
+        "latitude": 25.353345,
+        "longitude": 55.381018
+    },
+    {
+        "name": "Al Soor Square",
+        "country": "United Arab Emirates",
+        "province": "Sharjah",
+        "population": -1,
+        "latitude": 25.349625,
+        "longitude": 55.384321
+    },
+    {
+        "name": "King Faisal Square",
+        "country": "United Arab Emirates",
+        "province": "Sharjah",
+        "population": -1,
+        "latitude": 25.328598,
+        "longitude": 55.395017
+    },
+    {
+        "name": "Mowaileh Commercial",
+        "country": "United Arab Emirates",
+        "province": "Sharjah",
+        "population": -1,
+        "latitude": 25.29717,
+        "longitude": 55.450171
+    },
+    {
+        "name": "Mowaileh Camp",
+        "country": "United Arab Emirates",
+        "province": "Sharjah",
+        "population": -1,
+        "latitude": 25.318385,
+        "longitude": 55.472761
+    },
+    {
+        "name": "University City",
+        "country": "United Arab Emirates",
+        "province": "Sharjah",
+        "population": -1,
+        "latitude": 25.29628,
+        "longitude": 55.482014
+    },
+    {
+        "name": "Al Juraina",
+        "country": "United Arab Emirates",
+        "province": "United Arab Emirates",
+        "population": -1,
+        "latitude": 25.298721,
+        "longitude": 55.496788
+    },
+    {
+        "name": "Al Rifa’a",
+        "country": "United Arab Emirates",
+        "province": "Sharjah",
+        "population": -1,
+        "latitude": 25.332769,
+        "longitude": 55.457211
+    },
+    {
+        "name": "Al Tarrfah",
+        "country": "United Arab Emirates",
+        "province": "Sharjah",
+        "population": -1,
+        "latitude": 25.323292,
+        "longitude": 55.45041
+    },
+    {
+        "name": "Al Noaf",
+        "country": "United Arab Emirates",
+        "province": "United Arab Emirates",
+        "population": -1,
+        "latitude": 25.275762,
+        "longitude": 55.50371
+    },
+    {
+        "name": "Al Qarrayen",
+        "country": "United Arab Emirates",
+        "province": "Sharjah",
+        "population": -1,
+        "latitude": 25.299266,
+        "longitude": 55.521681
+    },
+    {
+        "name": "Al Hoashi",
+        "country": "United Arab Emirates",
+        "province": "United Arab Emirates",
+        "population": -1,
+        "latitude": 25.262593,
+        "longitude": 55.532884
+    },
+    {
+        "name": "Basteen Falah",
+        "country": "United Arab Emirates",
+        "province": "United Arab Emirates",
+        "population": -1,
+        "latitude": 25.294145,
+        "longitude": 55.545093
+    },
+    {
+        "name": "International City",
+        "country": "United Arab Emirates",
+        "province": "Dubai",
+        "population": -1,
+        "latitude": 25.163829,
+        "longitude": 55.409875
+    },
+    {
+        "name": "Academic City",
+        "country": "United Arab Emirates",
+        "province": "Dubai",
+        "population": -1,
+        "latitude": 25.114018,
+        "longitude": 55.410294
+    },
+    {
+        "name": "Al Marqadh",
+        "country": "United Arab Emirates",
+        "province": "Dubai",
+        "population": -1,
+        "latitude": 25.177217,
+        "longitude": 55.320635
+    },
+    {
+        "name": "Al Mina al Seyahi",
+        "country": "United Arab Emirates",
+        "province": "Dubai",
+        "population": -1,
+        "latitude": 25.082637,
+        "longitude": 55.14184
+    },
+    {
+        "name": "Dubai Sports City",
+        "country": "United Arab Emirates",
+        "province": "Dubai",
+        "population": -1,
+        "latitude": 25.038784,
+        "longitude": 55.217249
+    },
+    {
+        "name": "Dubai Media City",
+        "country": "United Arab Emirates",
+        "province": "Dubai",
+        "population": -1,
+        "latitude": 25.095064,
+        "longitude": 55.154858
+    },
+    {
+        "name": "Dubai Festival City",
+        "country": "United Arab Emirates",
+        "province": "Dubai",
+        "population": -1,
+        "latitude": 25.221765,
+        "longitude": 55.357326
+    },
+    {
+        "name": "Dubai International Financial Centre",
+        "country": "United Arab Emirates",
+        "province": "Dubai",
+        "population": -1,
+        "latitude": 25.210597,
+        "longitude": 55.27787
+    },
+    {
+        "name": "Dubai Healthcare City",
+        "country": "United Arab Emirates",
+        "province": "Dubai",
+        "population": -1,
+        "latitude": 25.23063,
+        "longitude": 55.322947
+    },
+    {
+        "name": "Jumeirah",
+        "country": "United Arab Emirates",
+        "province": "Dubai",
+        "population": -1,
+        "latitude": 25.1826704628968,
+        "longitude": 55.2260184288025
+    },
+    {
+        "name": "Dubai Investments Park",
+        "country": "United Arab Emirates",
+        "province": "Dubai",
+        "population": -1,
+        "latitude": 25.00827,
+        "longitude": 55.15682
+    },
+    {
+        "name": "Abu Dab National Exhibition Centre",
+        "country": "United Arab Emirates",
+        "province": "United Arab Emirates",
+        "population": -1,
+        "latitude": 24.419829,
+        "longitude": 54.437323
+    },
+    {
+        "name": "Sheikh Zayed",
+        "country": "United Arab Emirates",
+        "province": "Dubai",
+        "population": -1,
+        "latitude": 25.218,
+        "longitude": 55.27964
+    },
+    {
+        "name": "Jumeirah Lakes",
+        "country": "United Arab Emirates",
+        "province": "Dubai",
+        "population": -1,
+        "latitude": 25.07476,
+        "longitude": 55.14519
+    },
+    {
+        "name": "The Greens",
+        "country": "United Arab Emirates",
+        "province": "Dubai",
+        "population": -1,
+        "latitude": 25.094152,
+        "longitude": 55.169428
+    },
+    {
+        "name": "Jumeirah Residences",
+        "country": "United Arab Emirates",
+        "province": "Dubai",
+        "population": -1,
+        "latitude": 25.09878,
+        "longitude": 55.12579
+    },
+    {
+        "name": "Zayed City",
+        "country": "United Arab Emirates",
+        "province": "Abu Dhabi",
+        "population": -1,
+        "latitude": 24.37962,
+        "longitude": 54.58008
+    },
+    {
+        "name": "Barut",
+        "country": "United Arab Emirates",
+        "province": "Raʼs al Khaymah",
+        "population": -1,
+        "latitude": 25.951667,
+        "longitude": 56.149444
+    },
+    {
+        "name": "Ras Ash",
+        "country": "United Arab Emirates",
+        "province": "Raʼs al Khaymah",
+        "population": 1,
+        "latitude": 25.967794,
+        "longitude": 56.167858
+    },
+    {
+        "name": "Baighit",
+        "country": "United Arab Emirates",
+        "province": "Raʼs al Khaymah",
+        "population": 5,
+        "latitude": 25.92941,
+        "longitude": 56.15356
+    },
+    {
+        "name": "Ruwais",
+        "country": "United Arab Emirates",
+        "province": "Raʼs al Khaymah",
+        "population": -1,
+        "latitude": 25.87542,
+        "longitude": 56.07979
+    },
+    {
+        "name": "Musaibat",
+        "country": "United Arab Emirates",
+        "province": "Raʼs al Khaymah",
+        "population": 2,
+        "latitude": 25.91432,
+        "longitude": 56.155492
+    },
+    {
+        "name": "Sal Haqil",
+        "country": "United Arab Emirates",
+        "province": "Raʼs al Khaymah",
+        "population": -1,
+        "latitude": 25.86064,
+        "longitude": 56.08108
+    },
+    {
+        "name": "Saliya Al-Baqal",
+        "country": "United Arab Emirates",
+        "province": "Imārat Umm al Qaywayn",
+        "population": -1,
+        "latitude": 25.698797,
+        "longitude": 56.156989
+    }
+]

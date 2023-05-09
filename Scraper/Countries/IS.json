@@ -1,0 +1,938 @@
+[
+    {
+        "name": "Reykjavik",
+        "country": "Iceland",
+        "province": "Capital Region",
+        "population": 118918,
+        "latitude": 64.1354756236931,
+        "longitude": -21.8954086303711
+    },
+    {
+        "name": "Garðabaer",
+        "country": "Iceland",
+        "province": "Capital Region",
+        "population": 11421,
+        "latitude": 64.08865094673479,
+        "longitude": -21.92298173904419
+    },
+    {
+        "name": "Kopavogur",
+        "country": "Iceland",
+        "province": "Capital Region",
+        "population": 37959,
+        "latitude": 64.11233546338572,
+        "longitude": -21.91298246383667
+    },
+    {
+        "name": "Hafnarfjordur",
+        "country": "Iceland",
+        "province": "Capital Region",
+        "population": 29971,
+        "latitude": 64.0671046248028,
+        "longitude": -21.9377446174622
+    },
+    {
+        "name": "Akureyri",
+        "country": "Iceland",
+        "province": "Northeast",
+        "population": 19219,
+        "latitude": 65.6835305998405,
+        "longitude": -18.0877983570099
+    },
+    {
+        "name": "Vestmannaeyjar",
+        "country": "Iceland",
+        "province": "South",
+        "population": 4219,
+        "latitude": 63.4427346975179,
+        "longitude": -20.2733910083771
+    },
+    {
+        "name": "Selfoss",
+        "country": "Iceland",
+        "province": "South",
+        "population": 9000,
+        "latitude": 63.933108,
+        "longitude": -20.997117
+    },
+    {
+        "name": "Seltjarnarnes",
+        "country": "Iceland",
+        "province": "Capital Region",
+        "population": 4726,
+        "latitude": 64.15309,
+        "longitude": -21.99499
+    },
+    {
+        "name": "Keflavik",
+        "country": "Iceland",
+        "province": "Southern Peninsula",
+        "population": 15930,
+        "latitude": 64.0049237823741,
+        "longitude": -22.5624203681946
+    },
+    {
+        "name": "Isafjordur",
+        "country": "Iceland",
+        "province": "Westfjords",
+        "population": 2736,
+        "latitude": 66.07475,
+        "longitude": -23.13498
+    },
+    {
+        "name": "Borgarnes",
+        "country": "Iceland",
+        "province": "West",
+        "population": 1875,
+        "latitude": 64.5383408539509,
+        "longitude": -21.9206428527832
+    },
+    {
+        "name": "Akranes",
+        "country": "Iceland",
+        "province": "West",
+        "population": 7411,
+        "latitude": 64.32179209330488,
+        "longitude": -22.074902057647705
+    },
+    {
+        "name": "Mosfellsbaer",
+        "country": "Iceland",
+        "province": "Capital Region",
+        "population": 12073,
+        "latitude": 64.1666667,
+        "longitude": -21.7
+    },
+    {
+        "name": "Norðurþing",
+        "country": "Iceland",
+        "province": "Northeast",
+        "population": 2228,
+        "latitude": 66.041481,
+        "longitude": -17.338341
+    },
+    {
+        "name": "Hofn",
+        "country": "Iceland",
+        "province": "East",
+        "population": 1690,
+        "latitude": 64.253876,
+        "longitude": -15.212117
+    },
+    {
+        "name": "Egilsstaðir",
+        "country": "Iceland",
+        "province": "East",
+        "population": 2572,
+        "latitude": 65.266874,
+        "longitude": -14.394847
+    },
+    {
+        "name": "Dalvik",
+        "country": "Iceland",
+        "province": "Northeast",
+        "population": 1359,
+        "latitude": 65.970175376316,
+        "longitude": -18.5286140441895
+    },
+    {
+        "name": "Sauðarkrokur",
+        "country": "Iceland",
+        "province": "Northwest",
+        "population": 2614,
+        "latitude": 65.746111,
+        "longitude": -19.639444
+    },
+    {
+        "name": "Reykjanesbaer",
+        "country": "Iceland",
+        "province": "Southern Peninsula",
+        "population": 19724,
+        "latitude": 63.99813,
+        "longitude": -22.56111
+    },
+    {
+        "name": "Patreksfjordur",
+        "country": "Iceland",
+        "province": "Westfjords",
+        "population": 721,
+        "latitude": 65.59783,
+        "longitude": -23.99596
+    },
+    {
+        "name": "Alftanes",
+        "country": "Iceland",
+        "province": "Capital Region",
+        "population": 2392,
+        "latitude": 64.1,
+        "longitude": -22.0166667
+    },
+    {
+        "name": "Blonduos",
+        "country": "Iceland",
+        "province": "Northwest",
+        "population": 813,
+        "latitude": 65.65932,
+        "longitude": -20.28083
+    },
+    {
+        "name": "Olafsvik",
+        "country": "Iceland",
+        "province": "West",
+        "population": 1010,
+        "latitude": 64.89429,
+        "longitude": -23.70918
+    },
+    {
+        "name": "Hvolsvollur",
+        "country": "Iceland",
+        "province": "South",
+        "population": 1036,
+        "latitude": 63.75069,
+        "longitude": -20.22454
+    },
+    {
+        "name": "Hveragerdi",
+        "country": "Iceland",
+        "province": "South",
+        "population": 2288,
+        "latitude": 64.00039,
+        "longitude": -21.18602
+    },
+    {
+        "name": "Grindavik",
+        "country": "Iceland",
+        "province": "Southern Peninsula",
+        "population": 2856,
+        "latitude": 63.838487,
+        "longitude": -22.439312
+    },
+    {
+        "name": "Reydarfjordur",
+        "country": "Iceland",
+        "province": "East",
+        "population": 1152,
+        "latitude": 65.031637,
+        "longitude": -14.21832
+    },
+    {
+        "name": "Vik",
+        "country": "Iceland",
+        "province": "South",
+        "population": 750,
+        "latitude": 63.419444,
+        "longitude": -19.009722
+    },
+    {
+        "name": "Siglufjordur",
+        "country": "Iceland",
+        "province": "Northeast",
+        "population": 1190,
+        "latitude": 66.151976,
+        "longitude": -18.908153
+    },
+    {
+        "name": "Neskaupstaður",
+        "country": "Iceland",
+        "province": "East",
+        "population": 1481,
+        "latitude": 65.148187,
+        "longitude": -13.683679
+    },
+    {
+        "name": "Vogar",
+        "country": "Iceland",
+        "province": "Southern Peninsula",
+        "population": 1029,
+        "latitude": 63.981601,
+        "longitude": -22.384728
+    },
+    {
+        "name": "Thorlakshofn",
+        "country": "Iceland",
+        "province": "South",
+        "population": 1651,
+        "latitude": 63.855914,
+        "longitude": -21.383367
+    },
+    {
+        "name": "Thingeyri",
+        "country": "Iceland",
+        "province": "Westfjords",
+        "population": 326,
+        "latitude": 65.87899,
+        "longitude": -23.49289
+    },
+    {
+        "name": "Stykkisholmur",
+        "country": "Iceland",
+        "province": "West",
+        "population": 1108,
+        "latitude": 65.07537,
+        "longitude": -22.72977
+    },
+    {
+        "name": "Budardalur",
+        "country": "Iceland",
+        "province": "West",
+        "population": 266,
+        "latitude": 65.10943720519708,
+        "longitude": -21.763916015625
+    },
+    {
+        "name": "Bolungarvik",
+        "country": "Iceland",
+        "province": "Westfjords",
+        "population": 955,
+        "latitude": 66.1591662603401,
+        "longitude": -23.249409198760986
+    },
+    {
+        "name": "Bildudalur",
+        "country": "Iceland",
+        "province": "Westfjords",
+        "population": 238,
+        "latitude": 65.6853,
+        "longitude": -23.59992
+    },
+    {
+        "name": "Stokkseyri",
+        "country": "Iceland",
+        "province": "South",
+        "population": 465,
+        "latitude": 63.837879,
+        "longitude": -21.0587
+    },
+    {
+        "name": "Sandgerði",
+        "country": "Iceland",
+        "province": "Southern Peninsula",
+        "population": 1546,
+        "latitude": 64.037617,
+        "longitude": -22.707985
+    },
+    {
+        "name": "Reykholar",
+        "country": "Iceland",
+        "province": "Westfjords",
+        "population": 135,
+        "latitude": 65.446121,
+        "longitude": -22.189903
+    },
+    {
+        "name": "Hella",
+        "country": "Iceland",
+        "province": "South",
+        "population": 865,
+        "latitude": 63.8348,
+        "longitude": -20.40084
+    },
+    {
+        "name": "Hafnir",
+        "country": "Iceland",
+        "province": "Southern Peninsula",
+        "population": 76,
+        "latitude": 63.933187,
+        "longitude": -22.682122
+    },
+    {
+        "name": "Grundarfjordur",
+        "country": "Iceland",
+        "province": "West",
+        "population": 852,
+        "latitude": 64.924272,
+        "longitude": -23.263133
+    },
+    {
+        "name": "Gardur",
+        "country": "Iceland",
+        "province": "Southern Peninsula",
+        "population": 1429,
+        "latitude": 64.07055,
+        "longitude": -22.6513
+    },
+    {
+        "name": "Flateyri",
+        "country": "Iceland",
+        "province": "Westfjords",
+        "population": 267,
+        "latitude": 66.051187,
+        "longitude": -23.515473
+    },
+    {
+        "name": "Drangsnes",
+        "country": "Iceland",
+        "province": "Westfjords",
+        "population": 69,
+        "latitude": 65.68918,
+        "longitude": -21.44353
+    },
+    {
+        "name": "Bakkagerði",
+        "country": "Iceland",
+        "province": "East",
+        "population": 86,
+        "latitude": 65.525476,
+        "longitude": -13.803758
+    },
+    {
+        "name": "Arskogssandur",
+        "country": "Iceland",
+        "province": "Northeast",
+        "population": 112,
+        "latitude": 65.944219,
+        "longitude": -18.356542
+    },
+    {
+        "name": "Kópasker",
+        "country": "Iceland",
+        "province": "Northeast",
+        "population": 122,
+        "latitude": 66.30178,
+        "longitude": -16.44452
+    },
+    {
+        "name": "Stodvarfjordur",
+        "country": "Iceland",
+        "province": "East",
+        "population": 189,
+        "latitude": 64.83296,
+        "longitude": -13.87492
+    },
+    {
+        "name": "Kirkjubaejarklaustur",
+        "country": "Iceland",
+        "province": "South",
+        "population": 119,
+        "latitude": 63.78935,
+        "longitude": -18.05273
+    },
+    {
+        "name": "Holar",
+        "country": "Iceland",
+        "province": "Northwest",
+        "population": 78,
+        "latitude": 65.73079,
+        "longitude": -19.11164
+    },
+    {
+        "name": "Hofsos",
+        "country": "Iceland",
+        "province": "Northwest",
+        "population": 181,
+        "latitude": 65.898958,
+        "longitude": -19.412978
+    },
+    {
+        "name": "Eskifjordur",
+        "country": "Iceland",
+        "province": "East",
+        "population": 1014,
+        "latitude": 65.07306,
+        "longitude": -14.01525
+    },
+    {
+        "name": "Djupivogur",
+        "country": "Iceland",
+        "province": "East",
+        "population": 348,
+        "latitude": 64.65713,
+        "longitude": -14.28517
+    },
+    {
+        "name": "Breiðdalsvík",
+        "country": "Iceland",
+        "province": "East",
+        "population": 130,
+        "latitude": 64.79212,
+        "longitude": -14.0065
+    },
+    {
+        "name": "Bakkafjordur",
+        "country": "Iceland",
+        "province": "Northeast",
+        "population": 78,
+        "latitude": 66.037717,
+        "longitude": -14.793145
+    },
+    {
+        "name": "Vopnafjordur",
+        "country": "Iceland",
+        "province": "East",
+        "population": 543,
+        "latitude": 65.75657860112915,
+        "longitude": -14.827766418457031
+    },
+    {
+        "name": "Þórshöfn",
+        "country": "Iceland",
+        "province": "Northeast",
+        "population": 379,
+        "latitude": 66.19814,
+        "longitude": -15.33679
+    },
+    {
+        "name": "Svalbardseyri",
+        "country": "Iceland",
+        "province": "Northeast",
+        "population": 271,
+        "latitude": 65.741071,
+        "longitude": -18.077439
+    },
+    {
+        "name": "Seyðisfjörður",
+        "country": "Iceland",
+        "province": "East",
+        "population": 676,
+        "latitude": 65.2600832020993,
+        "longitude": -14.005765914917
+    },
+    {
+        "name": "Reykjahlíð",
+        "country": "Iceland",
+        "province": "Northeast",
+        "population": 227,
+        "latitude": 65.64205327594392,
+        "longitude": -16.9124436378479
+    },
+    {
+        "name": "Raufarhofn",
+        "country": "Iceland",
+        "province": "Northeast",
+        "population": 188,
+        "latitude": 66.45429,
+        "longitude": -15.9511
+    },
+    {
+        "name": "Olafsfjordur",
+        "country": "Iceland",
+        "province": "Northeast",
+        "population": 785,
+        "latitude": 66.067221,
+        "longitude": -18.643988
+    },
+    {
+        "name": "Flúðir",
+        "country": "Iceland",
+        "province": "South",
+        "population": 818,
+        "latitude": 64.13427741591795,
+        "longitude": -20.322647094726562
+    },
+    {
+        "name": "Fellabaer",
+        "country": "Iceland",
+        "province": "East",
+        "population": 400,
+        "latitude": 65.28418,
+        "longitude": -14.42621
+    },
+    {
+        "name": "Reykholt",
+        "country": "Iceland",
+        "province": "South",
+        "population": 206,
+        "latitude": 64.17829,
+        "longitude": -20.44161
+    },
+    {
+        "name": "Þykkvibaer",
+        "country": "Iceland",
+        "province": "South",
+        "population": 53,
+        "latitude": 63.742559,
+        "longitude": -20.609124
+    },
+    {
+        "name": "Sudureyri",
+        "country": "Iceland",
+        "province": "Westfjords",
+        "population": 294,
+        "latitude": 66.13041,
+        "longitude": -23.52804
+    },
+    {
+        "name": "Sudavik",
+        "country": "Iceland",
+        "province": "Westfjords",
+        "population": 175,
+        "latitude": 66.03829,
+        "longitude": -22.98593
+    },
+    {
+        "name": "Stapi",
+        "country": "Iceland",
+        "province": "West",
+        "population": 15,
+        "latitude": 64.76936,
+        "longitude": -23.62258
+    },
+    {
+        "name": "Rif",
+        "country": "Iceland",
+        "province": "West",
+        "population": 163,
+        "latitude": 64.9224503991696,
+        "longitude": -23.818016052246094
+    },
+    {
+        "name": "Reykholt",
+        "country": "Iceland",
+        "province": "West",
+        "population": 31,
+        "latitude": 64.66437,
+        "longitude": -21.2915
+    },
+    {
+        "name": "Laugarvatn",
+        "country": "Iceland",
+        "province": "South",
+        "population": 147,
+        "latitude": 64.2176165841845,
+        "longitude": -20.733861923217773
+    },
+    {
+        "name": "Laugaras",
+        "country": "Iceland",
+        "province": "South",
+        "population": 106,
+        "latitude": 64.115551,
+        "longitude": -20.493812
+    },
+    {
+        "name": "Hvanneyri",
+        "country": "Iceland",
+        "province": "West",
+        "population": 251,
+        "latitude": 64.564043,
+        "longitude": -21.758905
+    },
+    {
+        "name": "Holmavik",
+        "country": "Iceland",
+        "province": "Westfjords",
+        "population": 391,
+        "latitude": 65.707669,
+        "longitude": -21.670648
+    },
+    {
+        "name": "Skagastrond",
+        "country": "Iceland",
+        "province": "Northwest",
+        "population": 470,
+        "latitude": 65.82319,
+        "longitude": -20.30248
+    },
+    {
+        "name": "Hnífsdalur",
+        "country": "Iceland",
+        "province": "Westfjords",
+        "population": 216,
+        "latitude": 66.111314,
+        "longitude": -23.120357
+    },
+    {
+        "name": "Hellnar",
+        "country": "Iceland",
+        "province": "West",
+        "population": 10,
+        "latitude": 64.75055,
+        "longitude": -23.64747
+    },
+    {
+        "name": "Hellissandur",
+        "country": "Iceland",
+        "province": "West",
+        "population": 544,
+        "latitude": 64.917571,
+        "longitude": -23.885571
+    },
+    {
+        "name": "Eyrarbakki",
+        "country": "Iceland",
+        "province": "South",
+        "population": 531,
+        "latitude": 63.86323,
+        "longitude": -21.14915
+    },
+    {
+        "name": "Grenvik",
+        "country": "Iceland",
+        "province": "Northeast",
+        "population": 278,
+        "latitude": 65.951017,
+        "longitude": -18.174927
+    },
+    {
+        "name": "Varmahlid",
+        "country": "Iceland",
+        "province": "Northwest",
+        "population": 128,
+        "latitude": 65.553031,
+        "longitude": -19.446089
+    },
+    {
+        "name": "Grundarhverfi",
+        "country": "Iceland",
+        "province": "Capital Region",
+        "population": 528,
+        "latitude": 64.24058,
+        "longitude": -21.8367
+    },
+    {
+        "name": "Talknafjordur",
+        "country": "Iceland",
+        "province": "Westfjords",
+        "population": 275,
+        "latitude": 65.62648,
+        "longitude": -23.8246
+    },
+    {
+        "name": "Grimsey",
+        "country": "Iceland",
+        "province": "Northeast",
+        "population": 76,
+        "latitude": 66.53938,
+        "longitude": -18.01348
+    },
+    {
+        "name": "Hrisey",
+        "country": "Iceland",
+        "province": "Northeast",
+        "population": 171,
+        "latitude": 65.97835,
+        "longitude": -18.37777
+    },
+    {
+        "name": "Borgarnes",
+        "country": "Iceland",
+        "province": "West",
+        "population": 1875,
+        "latitude": 64.56219,
+        "longitude": -21.90082
+    },
+    {
+        "name": "Njardvik",
+        "country": "Iceland",
+        "province": "Southern Peninsula",
+        "population": -1,
+        "latitude": 63.980902,
+        "longitude": -22.514498
+    },
+    {
+        "name": "Hvammstangi",
+        "country": "Iceland",
+        "province": "Northwest",
+        "population": 546,
+        "latitude": 65.39711,
+        "longitude": -20.94346
+    },
+    {
+        "name": "Flatey",
+        "country": "Iceland",
+        "province": "Westfjords",
+        "population": 10,
+        "latitude": 65.37587,
+        "longitude": -22.91785
+    },
+    {
+        "name": "Hjalteyri",
+        "country": "Iceland",
+        "province": "Northeast",
+        "population": 41,
+        "latitude": 65.848166,
+        "longitude": -18.201266
+    },
+    {
+        "name": "Fáskrúðsfjörður",
+        "country": "Iceland",
+        "province": "East",
+        "population": 654,
+        "latitude": 64.93128,
+        "longitude": -14.0189
+    },
+    {
+        "name": "Laugarbakki",
+        "country": "Iceland",
+        "province": "Northwest",
+        "population": 48,
+        "latitude": 65.32624,
+        "longitude": -20.89295
+    },
+    {
+        "name": "Laugar",
+        "country": "Iceland",
+        "province": "Northeast",
+        "population": 1001,
+        "latitude": 65.721593,
+        "longitude": -17.373523
+    },
+    {
+        "name": "Borg in Grimsnes",
+        "country": "Iceland",
+        "province": "South",
+        "population": 75,
+        "latitude": 64.07522,
+        "longitude": -20.76472
+    },
+    {
+        "name": "Árneshreppur",
+        "country": "Iceland",
+        "province": "Westfjords",
+        "population": -1,
+        "latitude": 66.00371,
+        "longitude": -21.49981
+    },
+    {
+        "name": "Hoffell",
+        "country": "Iceland",
+        "province": "East",
+        "population": -1,
+        "latitude": 64.39308,
+        "longitude": -15.39391
+    },
+    {
+        "name": "Búðir",
+        "country": "Iceland",
+        "province": "West",
+        "population": -1,
+        "latitude": 64.82285,
+        "longitude": -23.38431
+    },
+    {
+        "name": "Brjanslaekur",
+        "country": "Iceland",
+        "province": "Westfjords",
+        "population": 10,
+        "latitude": 65.53,
+        "longitude": -23.19437
+    },
+    {
+        "name": "Bordeyri",
+        "country": "Iceland",
+        "province": "Westfjords",
+        "population": 27,
+        "latitude": 65.20751,
+        "longitude": -21.0995
+    },
+    {
+        "name": "Fagurhólsmýri",
+        "country": "Iceland",
+        "province": "East",
+        "population": -1,
+        "latitude": 63.87733,
+        "longitude": -16.64879
+    },
+    {
+        "name": "Skogar",
+        "country": "Iceland",
+        "province": "South",
+        "population": -1,
+        "latitude": 63.629185,
+        "longitude": -19.37439
+    },
+    {
+        "name": "Sæból",
+        "country": "Iceland",
+        "province": "Westfjords",
+        "population": -1,
+        "latitude": 66.04406,
+        "longitude": -23.70549
+    },
+    {
+        "name": "Ingjaldssandur",
+        "country": "Iceland",
+        "province": "Westfjords",
+        "population": -1,
+        "latitude": 66.02761,
+        "longitude": -23.68464
+    },
+    {
+        "name": "Eidar",
+        "country": "Iceland",
+        "province": "East",
+        "population": -1,
+        "latitude": 65.37199,
+        "longitude": -14.34866
+    },
+    {
+        "name": "Urðir",
+        "country": "Iceland",
+        "province": "Northeast",
+        "population": -1,
+        "latitude": 65.80496,
+        "longitude": -18.60535
+    },
+    {
+        "name": "Saelingsdal",
+        "country": "Iceland",
+        "province": "West",
+        "population": -1,
+        "latitude": 65.24618,
+        "longitude": -21.80376
+    },
+    {
+        "name": "Eyja- og Miklaholtshreppur",
+        "country": "Iceland",
+        "province": "West",
+        "population": -1,
+        "latitude": 64.83463,
+        "longitude": -22.57107
+    },
+    {
+        "name": "Flókalundur",
+        "country": "Iceland",
+        "province": "Westfjords",
+        "population": -1,
+        "latitude": 65.57625,
+        "longitude": -23.16699
+    },
+    {
+        "name": "Reykir",
+        "country": "Iceland",
+        "province": "Northwest",
+        "population": -1,
+        "latitude": 65.55391,
+        "longitude": -20.22308
+    },
+    {
+        "name": "Rip",
+        "country": "Iceland",
+        "province": "Northwest",
+        "population": -1,
+        "latitude": 65.69038,
+        "longitude": -19.50863
+    },
+    {
+        "name": "Lækjamót",
+        "country": "Iceland",
+        "province": "Northwest",
+        "population": -1,
+        "latitude": 65.41859,
+        "longitude": -20.601
+    },
+    {
+        "name": "Sodulsholt",
+        "country": "Iceland",
+        "province": "West",
+        "population": -1,
+        "latitude": 64.83514,
+        "longitude": -22.4346
+    },
+    {
+        "name": "Vatnsfjordhur",
+        "country": "Iceland",
+        "province": "Westfjords",
+        "population": -1,
+        "latitude": 65.93211,
+        "longitude": -22.51081
+    },
+    {
+        "name": "Stafn",
+        "country": "Iceland",
+        "province": "Northeast",
+        "population": 25,
+        "latitude": 65.628488,
+        "longitude": -17.319078
+    }
+]

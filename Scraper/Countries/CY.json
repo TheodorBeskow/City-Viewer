@@ -1,0 +1,6562 @@
+[
+    {
+        "name": "Nicosia",
+        "country": "Cyprus",
+        "province": "Nicosia",
+        "population": 200452,
+        "latitude": 35.175309,
+        "longitude": 33.364196
+    },
+    {
+        "name": "Limassol",
+        "country": "Cyprus",
+        "province": "Limassol",
+        "population": 154000,
+        "latitude": 34.684061,
+        "longitude": 33.037943
+    },
+    {
+        "name": "Larnaca",
+        "country": "Cyprus",
+        "province": "Larnaka",
+        "population": 72000,
+        "latitude": 34.922913,
+        "longitude": 33.6233
+    },
+    {
+        "name": "Famagusta",
+        "country": "Cyprus",
+        "province": "Ammochostos",
+        "population": 42526,
+        "latitude": 35.12489,
+        "longitude": 33.94135
+    },
+    {
+        "name": "Stróvolos",
+        "country": "Cyprus",
+        "province": "Nicosia",
+        "population": 67904,
+        "latitude": 35.14867,
+        "longitude": 33.333841
+    },
+    {
+        "name": "Kyrenia",
+        "country": "Cyprus",
+        "province": "Keryneia",
+        "population": 26701,
+        "latitude": 35.336341,
+        "longitude": 33.317291
+    },
+    {
+        "name": "Paphos",
+        "country": "Cyprus",
+        "province": "Pafos",
+        "population": 35961,
+        "latitude": 34.776788,
+        "longitude": 32.424511
+    },
+    {
+        "name": "Pergamos",
+        "country": "Cyprus",
+        "province": "Larnaka",
+        "population": 15000,
+        "latitude": 35.041667,
+        "longitude": 33.708333
+    },
+    {
+        "name": "Protaras",
+        "country": "Cyprus",
+        "province": "Ammochostos",
+        "population": 20230,
+        "latitude": 35.0125,
+        "longitude": 34.0583333
+    },
+    {
+        "name": "Ayia Napa",
+        "country": "Cyprus",
+        "province": "Ammochostos",
+        "population": 2798,
+        "latitude": 34.9821330931458,
+        "longitude": 34.0018272399902
+    },
+    {
+        "name": "Tersefanou",
+        "country": "Cyprus",
+        "province": "Larnaka",
+        "population": 1018,
+        "latitude": 34.854079,
+        "longitude": 33.54739
+    },
+    {
+        "name": "Rizokárpaso",
+        "country": "Cyprus",
+        "province": "Ammochostos",
+        "population": 5215,
+        "latitude": 35.59719,
+        "longitude": 34.37916
+    },
+    {
+        "name": "Psimolofou",
+        "country": "Cyprus",
+        "province": "Nicosia",
+        "population": 1686,
+        "latitude": 35.0625,
+        "longitude": 33.2625
+    },
+    {
+        "name": "Psevdas",
+        "country": "Cyprus",
+        "province": "Larnaka",
+        "population": 1070,
+        "latitude": 34.944781,
+        "longitude": 33.460718
+    },
+    {
+        "name": "Frénaros",
+        "country": "Cyprus",
+        "province": "Ammochostos",
+        "population": 3450,
+        "latitude": 35.041206,
+        "longitude": 33.922418
+    },
+    {
+        "name": "Peyia",
+        "country": "Cyprus",
+        "province": "Pafos",
+        "population": 2462,
+        "latitude": 34.883845,
+        "longitude": 32.381876
+    },
+    {
+        "name": "Perivolia",
+        "country": "Cyprus",
+        "province": "Larnaka",
+        "population": 1876,
+        "latitude": 34.82894,
+        "longitude": 33.58272
+    },
+    {
+        "name": "Paralímni",
+        "country": "Cyprus",
+        "province": "Ammochostos",
+        "population": 11836,
+        "latitude": 35.039455,
+        "longitude": 33.981812
+    },
+    {
+        "name": "Pano Polemidya",
+        "country": "Cyprus",
+        "province": "Limassol",
+        "population": 3781,
+        "latitude": 34.705593,
+        "longitude": 32.992688
+    },
+    {
+        "name": "Páno Defterá",
+        "country": "Cyprus",
+        "province": "Nicosia",
+        "population": 1983,
+        "latitude": 35.077781,
+        "longitude": 33.265843
+    },
+    {
+        "name": "Mouttagiáka",
+        "country": "Cyprus",
+        "province": "Limassol",
+        "population": 2818,
+        "latitude": 34.720223,
+        "longitude": 33.100663
+    },
+    {
+        "name": "Mórfou",
+        "country": "Cyprus",
+        "province": "Nicosia",
+        "population": 24070,
+        "latitude": 35.198691,
+        "longitude": 32.993378
+    },
+    {
+        "name": "Lythrodóntas",
+        "country": "Cyprus",
+        "province": "Nicosia",
+        "population": 2736,
+        "latitude": 34.951051,
+        "longitude": 33.297773
+    },
+    {
+        "name": "Lýmpia",
+        "country": "Cyprus",
+        "province": "Nicosia",
+        "population": 2262,
+        "latitude": 34.998895,
+        "longitude": 33.461747
+    },
+    {
+        "name": "Livádia",
+        "country": "Cyprus",
+        "province": "Larnaka",
+        "population": 5329,
+        "latitude": 34.955145,
+        "longitude": 33.627337
+    },
+    {
+        "name": "Lefkónoiko",
+        "country": "Cyprus",
+        "province": "Ammochostos",
+        "population": 3187,
+        "latitude": 35.2598,
+        "longitude": 33.731893
+    },
+    {
+        "name": "Lapta",
+        "country": "Cyprus",
+        "province": "Keryneia",
+        "population": 5215,
+        "latitude": 35.338235,
+        "longitude": 33.17368
+    },
+    {
+        "name": "Kornos",
+        "country": "Cyprus",
+        "province": "Larnaka",
+        "population": 1943,
+        "latitude": 34.922213,
+        "longitude": 33.395866
+    },
+    {
+        "name": "Kofinou",
+        "country": "Cyprus",
+        "province": "Larnaka",
+        "population": 1372,
+        "latitude": 34.824271,
+        "longitude": 33.391325
+    },
+    {
+        "name": "Kokkinotrimithiá",
+        "country": "Cyprus",
+        "province": "Nicosia",
+        "population": 3223,
+        "latitude": 35.153027,
+        "longitude": 33.199661
+    },
+    {
+        "name": "Kiti",
+        "country": "Cyprus",
+        "province": "Larnaka",
+        "population": 3278,
+        "latitude": 34.848982,
+        "longitude": 33.575226
+    },
+    {
+        "name": "Chloraka",
+        "country": "Cyprus",
+        "province": "Pafos",
+        "population": 3619,
+        "latitude": 34.79836,
+        "longitude": 32.406529
+    },
+    {
+        "name": "Kalo Chorio, Larnaca",
+        "country": "Cyprus",
+        "province": "Larnaka",
+        "population": -1,
+        "latitude": 34.928516,
+        "longitude": 33.536204
+    },
+    {
+        "name": "Dromolaxia",
+        "country": "Cyprus",
+        "province": "Larnaka",
+        "population": 5240,
+        "latitude": 34.87551015416024,
+        "longitude": 33.586835861206055
+    },
+    {
+        "name": "Derýneia",
+        "country": "Cyprus",
+        "province": "Ammochostos",
+        "population": 5161,
+        "latitude": 35.064845,
+        "longitude": 33.960832
+    },
+    {
+        "name": "Ágios Týchon",
+        "country": "Cyprus",
+        "province": "Larnaka",
+        "population": 2204,
+        "latitude": 34.726057,
+        "longitude": 33.138724
+    },
+    {
+        "name": "Agioi Vavatsinias",
+        "country": "Cyprus",
+        "province": "Larnaka",
+        "population": -1,
+        "latitude": 34.879612,
+        "longitude": 33.191253
+    },
+    {
+        "name": "Athienou",
+        "country": "Cyprus",
+        "province": "Larnaka",
+        "population": 4444,
+        "latitude": 35.061828,
+        "longitude": 33.541656
+    },
+    {
+        "name": "Ergátes",
+        "country": "Cyprus",
+        "province": "Nicosia",
+        "population": 1656,
+        "latitude": 35.053654,
+        "longitude": 33.242925
+    },
+    {
+        "name": "Argaka",
+        "country": "Cyprus",
+        "province": "Pafos",
+        "population": 1078,
+        "latitude": 35.065863,
+        "longitude": 32.492256
+    },
+    {
+        "name": "Aradhippou",
+        "country": "Cyprus",
+        "province": "Larnaka",
+        "population": 13349,
+        "latitude": 34.947791,
+        "longitude": 33.588128
+    },
+    {
+        "name": "Aredioú",
+        "country": "Cyprus",
+        "province": "Nicosia",
+        "population": 1129,
+        "latitude": 35.048441,
+        "longitude": 33.196102
+    },
+    {
+        "name": "Acherítou",
+        "country": "Cyprus",
+        "province": "Ammochostos",
+        "population": 1721,
+        "latitude": 35.100216,
+        "longitude": 33.861549
+    },
+    {
+        "name": "Xylotymvou",
+        "country": "Cyprus",
+        "province": "Larnaka",
+        "population": 3593,
+        "latitude": 35.016267,
+        "longitude": 33.743504
+    },
+    {
+        "name": "Xylofagou",
+        "country": "Cyprus",
+        "province": "Larnaka",
+        "population": 6000,
+        "latitude": 34.977429,
+        "longitude": 33.848939
+    },
+    {
+        "name": "Ορόκλινη",
+        "country": "Cyprus",
+        "province": "Larnaka",
+        "population": 3446,
+        "latitude": 34.98138,
+        "longitude": 33.656476
+    },
+    {
+        "name": "Tsada",
+        "country": "Cyprus",
+        "province": "Pafos",
+        "population": 1043,
+        "latitude": 34.838622,
+        "longitude": 32.474991
+    },
+    {
+        "name": "Méniko",
+        "country": "Cyprus",
+        "province": "Nicosia",
+        "population": 1023,
+        "latitude": 35.109447,
+        "longitude": 33.144738
+    },
+    {
+        "name": "Tala, Cyprus",
+        "country": "Cyprus",
+        "province": "Pafos",
+        "population": 1655,
+        "latitude": 34.836316,
+        "longitude": 32.43097
+    },
+    {
+        "name": "Sýgkrasi",
+        "country": "Cyprus",
+        "province": "Ammochostos",
+        "population": -1,
+        "latitude": 35.27288,
+        "longitude": 33.852283
+    },
+    {
+        "name": "Sicharí",
+        "country": "Cyprus",
+        "province": "Keryneia",
+        "population": -1,
+        "latitude": 35.276395,
+        "longitude": 33.381212
+    },
+    {
+        "name": "Stýlloi",
+        "country": "Cyprus",
+        "province": "Ammochostos",
+        "population": -1,
+        "latitude": 35.172092,
+        "longitude": 33.833712
+    },
+    {
+        "name": "Stroumpi",
+        "country": "Cyprus",
+        "province": "Pafos",
+        "population": 540,
+        "latitude": 34.887836,
+        "longitude": 32.481345
+    },
+    {
+        "name": "Stavrokonnou",
+        "country": "Cyprus",
+        "province": "Pafos",
+        "population": 106,
+        "latitude": 34.785523,
+        "longitude": 32.618223
+    },
+    {
+        "name": "Sotíra",
+        "country": "Cyprus",
+        "province": "Limassol",
+        "population": 4444,
+        "latitude": 34.711892,
+        "longitude": 32.863401
+    },
+    {
+        "name": "Softades",
+        "country": "Cyprus",
+        "province": "Larnaka",
+        "population": 7,
+        "latitude": 34.827651,
+        "longitude": 33.540059
+    },
+    {
+        "name": "Skylloúra",
+        "country": "Cyprus",
+        "province": "Nicosia",
+        "population": -1,
+        "latitude": 35.230344,
+        "longitude": 33.165445
+    },
+    {
+        "name": "Skarinou",
+        "country": "Cyprus",
+        "province": "Larnaka",
+        "population": 248,
+        "latitude": 34.819151,
+        "longitude": 33.35877
+    },
+    {
+        "name": "Sýsklipos",
+        "country": "Cyprus",
+        "province": "Keryneia",
+        "population": -1,
+        "latitude": 35.300434,
+        "longitude": 33.173714
+    },
+    {
+        "name": "Selládi tou Áppi",
+        "country": "Cyprus",
+        "province": "Nicosia",
+        "population": -1,
+        "latitude": 35.156607,
+        "longitude": 32.619584
+    },
+    {
+        "name": "Ágios Ioánnis Selémani",
+        "country": "Cyprus",
+        "province": "Nicosia",
+        "population": -1,
+        "latitude": 35.14917,
+        "longitude": 32.707234
+    },
+    {
+        "name": "Pyrógi",
+        "country": "Cyprus",
+        "province": "Nicosia",
+        "population": -1,
+        "latitude": 35.07642,
+        "longitude": 33.490341
+    },
+    {
+        "name": "Pyrgos",
+        "country": "Cyprus",
+        "province": "Limassol",
+        "population": 1407,
+        "latitude": 34.741667,
+        "longitude": 33.183333
+    },
+    {
+        "name": "Pyla",
+        "country": "Cyprus",
+        "province": "Larnaka",
+        "population": 1434,
+        "latitude": 35.00469,
+        "longitude": 33.68907
+    },
+    {
+        "name": "Psematismenos",
+        "country": "Cyprus",
+        "province": "Larnaka",
+        "population": 187,
+        "latitude": 34.749516,
+        "longitude": 33.350403
+    },
+    {
+        "name": "Prastió",
+        "country": "Cyprus",
+        "province": "Nicosia",
+        "population": -1,
+        "latitude": 35.175821,
+        "longitude": 32.93962
+    },
+    {
+        "name": "Prastió",
+        "country": "Cyprus",
+        "province": "Limassol",
+        "population": -1,
+        "latitude": 34.7305,
+        "longitude": 32.778823
+    },
+    {
+        "name": "Pomos",
+        "country": "Cyprus",
+        "province": "Pafos",
+        "population": 593,
+        "latitude": 35.160371,
+        "longitude": 32.545744
+    },
+    {
+        "name": "Polis",
+        "country": "Cyprus",
+        "province": "Pafos",
+        "population": 1975,
+        "latitude": 35.034033,
+        "longitude": 32.425503
+    },
+    {
+        "name": "Pissoúri",
+        "country": "Cyprus",
+        "province": "Limassol",
+        "population": 1078,
+        "latitude": 34.669422,
+        "longitude": 32.701321
+    },
+    {
+        "name": "Fyti",
+        "country": "Cyprus",
+        "province": "Pafos",
+        "population": 101,
+        "latitude": 34.928715,
+        "longitude": 32.544801
+    },
+    {
+        "name": "Foinikas",
+        "country": "Cyprus",
+        "province": "Pafos",
+        "population": -1,
+        "latitude": 34.752767,
+        "longitude": 32.568699
+    },
+    {
+        "name": "Fikárdou",
+        "country": "Cyprus",
+        "province": "Nicosia",
+        "population": 3,
+        "latitude": 34.95973,
+        "longitude": 33.170888
+    },
+    {
+        "name": "Fasoúla",
+        "country": "Cyprus",
+        "province": "Limassol",
+        "population": -1,
+        "latitude": 34.763867,
+        "longitude": 33.027156
+    },
+    {
+        "name": "Fasoula",
+        "country": "Cyprus",
+        "province": "Pafos",
+        "population": -1,
+        "latitude": 34.750902,
+        "longitude": 32.631971
+    },
+    {
+        "name": "Faleia",
+        "country": "Cyprus",
+        "province": "Pafos",
+        "population": 4,
+        "latitude": 34.859841,
+        "longitude": 32.589303
+    },
+    {
+        "name": "Petrofani",
+        "country": "Cyprus",
+        "province": "Larnaka",
+        "population": -1,
+        "latitude": 35.031246,
+        "longitude": 33.50903
+    },
+    {
+        "name": "Perivólia",
+        "country": "Cyprus",
+        "province": "Ammochostos",
+        "population": -1,
+        "latitude": 35.28624,
+        "longitude": 33.910072
+    },
+    {
+        "name": "Peristeronári",
+        "country": "Cyprus",
+        "province": "Nicosia",
+        "population": -1,
+        "latitude": 35.132616,
+        "longitude": 32.865105
+    },
+    {
+        "name": "Peristeróna",
+        "country": "Cyprus",
+        "province": "Nicosia",
+        "population": 2190,
+        "latitude": 35.129281,
+        "longitude": 33.078584
+    },
+    {
+        "name": "Péra Chorió",
+        "country": "Cyprus",
+        "province": "Nicosia",
+        "population": -1,
+        "latitude": 35.01202,
+        "longitude": 33.393859
+    },
+    {
+        "name": "Pentalia",
+        "country": "Cyprus",
+        "province": "Pafos",
+        "population": 71,
+        "latitude": 34.855988,
+        "longitude": 32.620683
+    },
+    {
+        "name": "Pelathousa",
+        "country": "Cyprus",
+        "province": "Pafos",
+        "population": 51,
+        "latitude": 35.027574,
+        "longitude": 32.476006
+    },
+    {
+        "name": "Parekklisha",
+        "country": "Cyprus",
+        "province": "Limassol",
+        "population": 1382,
+        "latitude": 34.745833,
+        "longitude": 33.158333
+    },
+    {
+        "name": "Páno Zódeia",
+        "country": "Cyprus",
+        "province": "Nicosia",
+        "population": -1,
+        "latitude": 35.163623,
+        "longitude": 33.015038
+    },
+    {
+        "name": "Flasou",
+        "country": "Cyprus",
+        "province": "Nicosia",
+        "population": 265,
+        "latitude": 35.068863,
+        "longitude": 32.888691
+    },
+    {
+        "name": "Pano Lefkara",
+        "country": "Cyprus",
+        "province": "Larnaka",
+        "population": 957,
+        "latitude": 34.816667,
+        "longitude": 33.283333
+    },
+    {
+        "name": "Páno Koutrafás",
+        "country": "Cyprus",
+        "province": "Nicosia",
+        "population": -1,
+        "latitude": 35.096025,
+        "longitude": 32.989398
+    },
+    {
+        "name": "Páno Kivídes",
+        "country": "Cyprus",
+        "province": "Limassol",
+        "population": 703,
+        "latitude": 34.757431,
+        "longitude": 32.857247
+    },
+    {
+        "name": "Páno Díkomo",
+        "country": "Cyprus",
+        "province": "Keryneia",
+        "population": -1,
+        "latitude": 35.277706,
+        "longitude": 33.321792
+    },
+    {
+        "name": "Pano Arodes",
+        "country": "Cyprus",
+        "province": "Pafos",
+        "population": 113,
+        "latitude": 34.936133,
+        "longitude": 32.407165
+    },
+    {
+        "name": "Pano Archimandrita",
+        "country": "Cyprus",
+        "province": "Pafos",
+        "population": 44,
+        "latitude": 34.750944,
+        "longitude": 32.678116
+    },
+    {
+        "name": "Pano Akourdaleia",
+        "country": "Cyprus",
+        "province": "Pafos",
+        "population": 27,
+        "latitude": 34.941865,
+        "longitude": 32.444456
+    },
+    {
+        "name": "Palaiósofos",
+        "country": "Cyprus",
+        "province": "Keryneia",
+        "population": -1,
+        "latitude": 35.325607,
+        "longitude": 33.207109
+    },
+    {
+        "name": "Palaiómylos",
+        "country": "Cyprus",
+        "province": "Limassol",
+        "population": 32,
+        "latitude": 34.935222,
+        "longitude": 32.822083
+    },
+    {
+        "name": "Palaiométocho",
+        "country": "Cyprus",
+        "province": "Nicosia",
+        "population": -1,
+        "latitude": 35.124893,
+        "longitude": 33.190986
+    },
+    {
+        "name": "Palaíkythro",
+        "country": "Cyprus",
+        "province": "Nicosia",
+        "population": -1,
+        "latitude": 35.207544,
+        "longitude": 33.492988
+    },
+    {
+        "name": "Palaichóri",
+        "country": "Cyprus",
+        "province": "Nicosia",
+        "population": -1,
+        "latitude": 34.922744,
+        "longitude": 33.091885
+    },
+    {
+        "name": "Pachýammos",
+        "country": "Cyprus",
+        "province": "Nicosia",
+        "population": 101,
+        "latitude": 35.171575,
+        "longitude": 32.58475
+    },
+    {
+        "name": "Páchna",
+        "country": "Cyprus",
+        "province": "Limassol",
+        "population": 1008,
+        "latitude": 34.778737,
+        "longitude": 32.793547
+    },
+    {
+        "name": "Oroúnta",
+        "country": "Cyprus",
+        "province": "Nicosia",
+        "population": 687,
+        "latitude": 35.101234,
+        "longitude": 33.093567
+    },
+    {
+        "name": "Orníthi",
+        "country": "Cyprus",
+        "province": "Ammochostos",
+        "population": -1,
+        "latitude": 35.15586,
+        "longitude": 33.572081
+    },
+    {
+        "name": "Ormideia",
+        "country": "Cyprus",
+        "province": "Larnaka",
+        "population": -1,
+        "latitude": 34.991757,
+        "longitude": 33.777206
+    },
+    {
+        "name": "Nikokleia",
+        "country": "Cyprus",
+        "province": "Pafos",
+        "population": 110,
+        "latitude": 34.728945,
+        "longitude": 32.577438
+    },
+    {
+        "name": "Néo Chorió",
+        "country": "Cyprus",
+        "province": "Nicosia",
+        "population": -1,
+        "latitude": 35.234809,
+        "longitude": 33.475732
+    },
+    {
+        "name": "Neo Chorio, Paphos",
+        "country": "Cyprus",
+        "province": "Pafos",
+        "population": -1,
+        "latitude": 35.0252778,
+        "longitude": 32.3647222
+    },
+    {
+        "name": "Mosfiloti",
+        "country": "Cyprus",
+        "province": "Larnaka",
+        "population": 1158,
+        "latitude": 34.953223,
+        "longitude": 33.425184
+    },
+    {
+        "name": "Monargá",
+        "country": "Cyprus",
+        "province": "Ammochostos",
+        "population": -1,
+        "latitude": 35.313541,
+        "longitude": 33.947645
+    },
+    {
+        "name": "Mesogi",
+        "country": "Cyprus",
+        "province": "Pafos",
+        "population": 1689,
+        "latitude": 34.81529,
+        "longitude": 32.456266
+    },
+    {
+        "name": "Menogeia",
+        "country": "Cyprus",
+        "province": "Larnaka",
+        "population": 51,
+        "latitude": 34.843727,
+        "longitude": 33.441185
+    },
+    {
+        "name": "Meneou",
+        "country": "Cyprus",
+        "province": "Larnaka",
+        "population": 1248,
+        "latitude": 34.860748,
+        "longitude": 33.593143
+    },
+    {
+        "name": "Meloúseia",
+        "country": "Cyprus",
+        "province": "Larnaka",
+        "population": -1,
+        "latitude": 35.077064,
+        "longitude": 33.584436
+    },
+    {
+        "name": "Maronas",
+        "country": "Cyprus",
+        "province": "Pafos",
+        "population": -1,
+        "latitude": 34.768342,
+        "longitude": 32.667203
+    },
+    {
+        "name": "Marathóvounos",
+        "country": "Cyprus",
+        "province": "Ammochostos",
+        "population": -1,
+        "latitude": 35.222917,
+        "longitude": 33.617756
+    },
+    {
+        "name": "Marathounta",
+        "country": "Cyprus",
+        "province": "Pafos",
+        "population": 316,
+        "latitude": 34.791011,
+        "longitude": 32.48813
+    },
+    {
+        "name": "Mandria, Paphos",
+        "country": "Cyprus",
+        "province": "Pafos",
+        "population": -1,
+        "latitude": 34.715708,
+        "longitude": 32.531729
+    },
+    {
+        "name": "Mándres",
+        "country": "Cyprus",
+        "province": "Nicosia",
+        "population": -1,
+        "latitude": 35.221439,
+        "longitude": 33.37759
+    },
+    {
+        "name": "Mamountali",
+        "country": "Cyprus",
+        "province": "Pafos",
+        "population": 15,
+        "latitude": 34.914033,
+        "longitude": 32.602265
+    },
+    {
+        "name": "Mámmari",
+        "country": "Cyprus",
+        "province": "Nicosia",
+        "population": 1122,
+        "latitude": 35.176043,
+        "longitude": 33.204349
+    },
+    {
+        "name": "Maliá",
+        "country": "Cyprus",
+        "province": "Limassol",
+        "population": 61,
+        "latitude": 34.81725,
+        "longitude": 32.782611
+    },
+    {
+        "name": "Makounta",
+        "country": "Cyprus",
+        "province": "Pafos",
+        "population": 51,
+        "latitude": 35.050532,
+        "longitude": 32.485601
+    },
+    {
+        "name": "Lythrágkomi",
+        "country": "Cyprus",
+        "province": "Ammochostos",
+        "population": -1,
+        "latitude": 35.479963,
+        "longitude": 34.171413
+    },
+    {
+        "name": "Liopétri",
+        "country": "Cyprus",
+        "province": "Ammochostos",
+        "population": 4005,
+        "latitude": 35.008848,
+        "longitude": 33.892563
+    },
+    {
+        "name": "Leonariso",
+        "country": "Cyprus",
+        "province": "Ammochostos",
+        "population": 1593,
+        "latitude": 35.468925,
+        "longitude": 34.138858
+    },
+    {
+        "name": "Lefka",
+        "country": "Cyprus",
+        "province": "Nicosia",
+        "population": 7835,
+        "latitude": 35.111988,
+        "longitude": 32.849972
+    },
+    {
+        "name": "Lageia",
+        "country": "Cyprus",
+        "province": "Larnaka",
+        "population": 22,
+        "latitude": 34.842926,
+        "longitude": 33.246742
+    },
+    {
+        "name": "Latsia",
+        "country": "Cyprus",
+        "province": "Nicosia",
+        "population": -1,
+        "latitude": 35.101683,
+        "longitude": 33.379522
+    },
+    {
+        "name": "Latchi",
+        "country": "Cyprus",
+        "province": "Pafos",
+        "population": -1,
+        "latitude": 35.040865,
+        "longitude": 32.394274
+    },
+    {
+        "name": "Kyperoúnta",
+        "country": "Cyprus",
+        "province": "Limassol",
+        "population": 1560,
+        "latitude": 34.938146,
+        "longitude": 32.97551
+    },
+    {
+        "name": "Koutsovéntis",
+        "country": "Cyprus",
+        "province": "Keryneia",
+        "population": -1,
+        "latitude": 35.263079,
+        "longitude": 33.420814
+    },
+    {
+        "name": "Koróveia",
+        "country": "Cyprus",
+        "province": "Ammochostos",
+        "population": -1,
+        "latitude": 35.511348,
+        "longitude": 34.273996
+    },
+    {
+        "name": "Konia",
+        "country": "Cyprus",
+        "province": "Pafos",
+        "population": 2209,
+        "latitude": 34.78516,
+        "longitude": 32.458997
+    },
+    {
+        "name": "Kontémenos",
+        "country": "Cyprus",
+        "province": "Keryneia",
+        "population": -1,
+        "latitude": 35.268577,
+        "longitude": 33.124728
+    },
+    {
+        "name": "Kóma tou Gialoú",
+        "country": "Cyprus",
+        "province": "Ammochostos",
+        "population": -1,
+        "latitude": 35.427526,
+        "longitude": 34.131026
+    },
+    {
+        "name": "Kolossi",
+        "country": "Cyprus",
+        "province": "Larnaka",
+        "population": 3846,
+        "latitude": 34.6686526291387,
+        "longitude": 32.93375015258789
+    },
+    {
+        "name": "Knódara",
+        "country": "Cyprus",
+        "province": "Ammochostos",
+        "population": -1,
+        "latitude": 35.264819,
+        "longitude": 33.660408
+    },
+    {
+        "name": "Klírou",
+        "country": "Cyprus",
+        "province": "Nicosia",
+        "population": 1623,
+        "latitude": 35.020044,
+        "longitude": 33.178055
+    },
+    {
+        "name": "Klavdia",
+        "country": "Cyprus",
+        "province": "Larnaka",
+        "population": 468,
+        "latitude": 34.893069,
+        "longitude": 33.514914
+    },
+    {
+        "name": "Kivisili",
+        "country": "Cyprus",
+        "province": "Larnaka",
+        "population": 241,
+        "latitude": 34.839556,
+        "longitude": 33.504808
+    },
+    {
+        "name": "Kissonerga",
+        "country": "Cyprus",
+        "province": "Pafos",
+        "population": 2004,
+        "latitude": 34.822789,
+        "longitude": 32.401308
+    },
+    {
+        "name": "Koilani",
+        "country": "Cyprus",
+        "province": "Limassol",
+        "population": 280,
+        "latitude": 34.844722,
+        "longitude": 32.860278
+    },
+    {
+        "name": "Koilánemos",
+        "country": "Cyprus",
+        "province": "Ammochostos",
+        "population": -1,
+        "latitude": 35.490751,
+        "longitude": 34.141994
+    },
+    {
+        "name": "Chrysilioú",
+        "country": "Cyprus",
+        "province": "Nicosia",
+        "population": -1,
+        "latitude": 35.212157,
+        "longitude": 33.021766
+    },
+    {
+        "name": "Chrysída",
+        "country": "Cyprus",
+        "province": "Nicosia",
+        "population": -1,
+        "latitude": 35.239004,
+        "longitude": 33.483985
+    },
+    {
+        "name": "Choirokoitia",
+        "country": "Cyprus",
+        "province": "Larnaka",
+        "population": 531,
+        "latitude": 34.797466,
+        "longitude": 33.335195
+    },
+    {
+        "name": "Chárkeia",
+        "country": "Cyprus",
+        "province": "Keryneia",
+        "population": -1,
+        "latitude": 35.318742,
+        "longitude": 33.556597
+    },
+    {
+        "name": "Álassa",
+        "country": "Cyprus",
+        "province": "Limassol",
+        "population": 210,
+        "latitude": 34.763094,
+        "longitude": 32.926888
+    },
+    {
+        "name": "Kiómourtzou",
+        "country": "Cyprus",
+        "province": "Keryneia",
+        "population": -1,
+        "latitude": 35.293434,
+        "longitude": 33.256375
+    },
+    {
+        "name": "Kellia",
+        "country": "Cyprus",
+        "province": "Larnaka",
+        "population": 380,
+        "latitude": 34.976114,
+        "longitude": 33.623247
+    },
+    {
+        "name": "Katýdata",
+        "country": "Cyprus",
+        "province": "Nicosia",
+        "population": -1,
+        "latitude": 35.082537,
+        "longitude": 32.887877
+    },
+    {
+        "name": "Káto Zódeia",
+        "country": "Cyprus",
+        "province": "Nicosia",
+        "population": -1,
+        "latitude": 35.166532,
+        "longitude": 33.00788
+    },
+    {
+        "name": "Pyrgá",
+        "country": "Cyprus",
+        "province": "Ammochostos",
+        "population": -1,
+        "latitude": 35.182681,
+        "longitude": 33.726711
+    },
+    {
+        "name": "Káto Pýrgos",
+        "country": "Cyprus",
+        "province": "Nicosia",
+        "population": 1170,
+        "latitude": 35.178974,
+        "longitude": 32.686004
+    },
+    {
+        "name": "Kato Polemidia",
+        "country": "Cyprus",
+        "province": "Limassol",
+        "population": -1,
+        "latitude": 34.697209,
+        "longitude": 32.993243
+    },
+    {
+        "name": "Flasou",
+        "country": "Cyprus",
+        "province": "Nicosia",
+        "population": 261,
+        "latitude": 35.060778,
+        "longitude": 32.887686
+    },
+    {
+        "name": "Káto Koutrafás",
+        "country": "Cyprus",
+        "province": "Nicosia",
+        "population": -1,
+        "latitude": 35.102767,
+        "longitude": 32.977604
+    },
+    {
+        "name": "Katokopiá",
+        "country": "Cyprus",
+        "province": "Nicosia",
+        "population": -1,
+        "latitude": 35.174184,
+        "longitude": 33.05114
+    },
+    {
+        "name": "Kato Drys",
+        "country": "Cyprus",
+        "province": "Larnaka",
+        "population": 119,
+        "latitude": 34.85114,
+        "longitude": 33.304324
+    },
+    {
+        "name": "Káto Díkomo",
+        "country": "Cyprus",
+        "province": "Keryneia",
+        "population": -1,
+        "latitude": 35.267454,
+        "longitude": 33.324702
+    },
+    {
+        "name": "Káto Defterá",
+        "country": "Cyprus",
+        "province": "Nicosia",
+        "population": 1706,
+        "latitude": 35.084893,
+        "longitude": 33.27558
+    },
+    {
+        "name": "Karavostási",
+        "country": "Cyprus",
+        "province": "Nicosia",
+        "population": -1,
+        "latitude": 35.138146,
+        "longitude": 32.830153
+    },
+    {
+        "name": "Kapileió",
+        "country": "Cyprus",
+        "province": "Limassol",
+        "population": 31,
+        "latitude": 34.832472,
+        "longitude": 32.958972
+    },
+    {
+        "name": "Kaminária",
+        "country": "Cyprus",
+        "province": "Limassol",
+        "population": 97,
+        "latitude": 34.928309,
+        "longitude": 32.784193
+    },
+    {
+        "name": "Kampylí",
+        "country": "Cyprus",
+        "province": "Keryneia",
+        "population": -1,
+        "latitude": 35.301412,
+        "longitude": 33.107546
+    },
+    {
+        "name": "Kampiá",
+        "country": "Cyprus",
+        "province": "Nicosia",
+        "population": 436,
+        "latitude": 35.008223,
+        "longitude": 33.256293
+    },
+    {
+        "name": "Kaló Chorío",
+        "country": "Cyprus",
+        "province": "Nicosia",
+        "population": -1,
+        "latitude": 35.244286,
+        "longitude": 33.039509
+    },
+    {
+        "name": "Kaló Chorió",
+        "country": "Cyprus",
+        "province": "Nicosia",
+        "population": -1,
+        "latitude": 35.115387,
+        "longitude": 32.877014
+    },
+    {
+        "name": "Kaló Chorió",
+        "country": "Cyprus",
+        "province": "Nicosia",
+        "population": -1,
+        "latitude": 35.009892,
+        "longitude": 33.16296
+    },
+    {
+        "name": "Kalograía",
+        "country": "Cyprus",
+        "province": "Keryneia",
+        "population": -1,
+        "latitude": 35.337882,
+        "longitude": 33.630552
+    },
+    {
+        "name": "Kakopetriá",
+        "country": "Cyprus",
+        "province": "Nicosia",
+        "population": 1255,
+        "latitude": 34.987685,
+        "longitude": 32.904679
+    },
+    {
+        "name": "Gýpsou",
+        "country": "Cyprus",
+        "province": "Ammochostos",
+        "population": -1,
+        "latitude": 35.259772,
+        "longitude": 33.786268
+    },
+    {
+        "name": "Goúfes",
+        "country": "Cyprus",
+        "province": "Ammochostos",
+        "population": -1,
+        "latitude": 35.282599,
+        "longitude": 33.687799
+    },
+    {
+        "name": "Goşşi",
+        "country": "Cyprus",
+        "province": "Larnaka",
+        "population": -1,
+        "latitude": 34.966667,
+        "longitude": 33.55
+    },
+    {
+        "name": "Kaziverá",
+        "country": "Cyprus",
+        "province": "Nicosia",
+        "population": -1,
+        "latitude": 35.171666,
+        "longitude": 32.91636
+    },
+    {
+        "name": "Gaïdourás",
+        "country": "Cyprus",
+        "province": "Ammochostos",
+        "population": -1,
+        "latitude": 35.167186,
+        "longitude": 33.789075
+    },
+    {
+        "name": "Éxo Metóchi",
+        "country": "Cyprus",
+        "province": "Nicosia",
+        "population": -1,
+        "latitude": 35.215064,
+        "longitude": 33.527319
+    },
+    {
+        "name": "Erími",
+        "country": "Cyprus",
+        "province": "Limassol",
+        "population": 1493,
+        "latitude": 34.677658,
+        "longitude": 32.918152
+    },
+    {
+        "name": "Episkopi",
+        "country": "Cyprus",
+        "province": "Limassol",
+        "population": -1,
+        "latitude": 34.670588,
+        "longitude": 32.901756
+    },
+    {
+        "name": "Empa",
+        "country": "Cyprus",
+        "province": "Pafos",
+        "population": 4855,
+        "latitude": 34.807002,
+        "longitude": 32.42406
+    },
+    {
+        "name": "Ágioi Iliófotoi",
+        "country": "Cyprus",
+        "province": "Nicosia",
+        "population": -1,
+        "latitude": 35.058044,
+        "longitude": 33.09284
+    },
+    {
+        "name": "Eliá",
+        "country": "Cyprus",
+        "province": "Nicosia",
+        "population": -1,
+        "latitude": 35.132669,
+        "longitude": 32.912498
+    },
+    {
+        "name": "Dýmes",
+        "country": "Cyprus",
+        "province": "Limassol",
+        "population": 171,
+        "latitude": 34.917474,
+        "longitude": 32.983925
+    },
+    {
+        "name": "Dáli",
+        "country": "Cyprus",
+        "province": "Nicosia",
+        "population": 6085,
+        "latitude": 35.022936,
+        "longitude": 33.421948
+    },
+    {
+        "name": "Delikipos",
+        "country": "Cyprus",
+        "province": "Larnaka",
+        "population": -1,
+        "latitude": 34.917727,
+        "longitude": 33.361791
+    },
+    {
+        "name": "Tserkézoi",
+        "country": "Cyprus",
+        "province": "Limassol",
+        "population": -1,
+        "latitude": 34.646875,
+        "longitude": 32.9737
+    },
+    {
+        "name": "Bélapaïs",
+        "country": "Cyprus",
+        "province": "Keryneia",
+        "population": -1,
+        "latitude": 35.305832,
+        "longitude": 33.355562
+    },
+    {
+        "name": "Ágios Geórgios",
+        "country": "Cyprus",
+        "province": "Ammochostos",
+        "population": -1,
+        "latitude": 35.255914,
+        "longitude": 33.862854
+    },
+    {
+        "name": "Ágios Geórgios",
+        "country": "Cyprus",
+        "province": "Nicosia",
+        "population": -1,
+        "latitude": 35.106848,
+        "longitude": 32.887465
+    },
+    {
+        "name": "Ágios Geórgios Kafkállou",
+        "country": "Cyprus",
+        "province": "Nicosia",
+        "population": -1,
+        "latitude": 35.037539,
+        "longitude": 33.012983
+    },
+    {
+        "name": "Άγιος Γεώργιος Αγκαθιώτης",
+        "country": "Cyprus",
+        "province": "Limassol",
+        "population": -1,
+        "latitude": 34.815,
+        "longitude": 32.898611
+    },
+    {
+        "name": "Agios Georgios",
+        "country": "Cyprus",
+        "province": "Pafos",
+        "population": -1,
+        "latitude": 34.778656,
+        "longitude": 32.652182
+    },
+    {
+        "name": "Ágios Therápon",
+        "country": "Cyprus",
+        "province": "Limassol",
+        "population": 159,
+        "latitude": 34.797634,
+        "longitude": 32.839752
+    },
+    {
+        "name": "Ágios Theódoros",
+        "country": "Cyprus",
+        "province": "Ammochostos",
+        "population": -1,
+        "latitude": 35.366033,
+        "longitude": 34.02877
+    },
+    {
+        "name": "Ágios Theódoros",
+        "country": "Cyprus",
+        "province": "Nicosia",
+        "population": -1,
+        "latitude": 35.17629,
+        "longitude": 32.641741
+    },
+    {
+        "name": "Ayios Theodhoros",
+        "country": "Cyprus",
+        "province": "Limassol",
+        "population": -1,
+        "latitude": 34.893889,
+        "longitude": 33.0325
+    },
+    {
+        "name": "Agios Theodoros, Larnaca",
+        "country": "Cyprus",
+        "province": "Larnaka",
+        "population": -1,
+        "latitude": 34.799946,
+        "longitude": 33.384749
+    },
+    {
+        "name": "Ágios Sozómenos",
+        "country": "Cyprus",
+        "province": "Nicosia",
+        "population": 4,
+        "latitude": 35.06566,
+        "longitude": 33.438505
+    },
+    {
+        "name": "Ágios Sérgios",
+        "country": "Cyprus",
+        "province": "Ammochostos",
+        "population": -1,
+        "latitude": 35.196387,
+        "longitude": 33.874158
+    },
+    {
+        "name": "Ágios Nikólaos",
+        "country": "Cyprus",
+        "province": "Nicosia",
+        "population": -1,
+        "latitude": 35.102379,
+        "longitude": 32.880305
+    },
+    {
+        "name": "Agios Nikolaos",
+        "country": "Cyprus",
+        "province": "Pafos",
+        "population": -1,
+        "latitude": 34.862008,
+        "longitude": 32.753548
+    },
+    {
+        "name": "Ágios Charíton",
+        "country": "Cyprus",
+        "province": "Ammochostos",
+        "population": -1,
+        "latitude": 35.305283,
+        "longitude": 33.604603
+    },
+    {
+        "name": "Agios Isidoros",
+        "country": "Cyprus",
+        "province": "Pafos",
+        "population": 10,
+        "latitude": 35.005213,
+        "longitude": 32.471398
+    },
+    {
+        "name": "Agios Ioannis",
+        "country": "Cyprus",
+        "province": "Pafos",
+        "population": -1,
+        "latitude": 34.869534,
+        "longitude": 32.691203
+    },
+    {
+        "name": "Ágios Iákovos",
+        "country": "Cyprus",
+        "province": "Ammochostos",
+        "population": -1,
+        "latitude": 35.327039,
+        "longitude": 33.815089
+    },
+    {
+        "name": "Ágios Efstáthios",
+        "country": "Cyprus",
+        "province": "Ammochostos",
+        "population": -1,
+        "latitude": 35.389293,
+        "longitude": 34.014732
+    },
+    {
+        "name": "Ágios Ermólaos",
+        "country": "Cyprus",
+        "province": "Keryneia",
+        "population": -1,
+        "latitude": 35.278081,
+        "longitude": 33.172546
+    },
+    {
+        "name": "Ágios Epifánios",
+        "country": "Cyprus",
+        "province": "Nicosia",
+        "population": -1,
+        "latitude": 35.063777,
+        "longitude": 32.886114
+    },
+    {
+        "name": "Ágios Epifánios",
+        "country": "Cyprus",
+        "province": "Nicosia",
+        "population": -1,
+        "latitude": 34.995135,
+        "longitude": 33.119668
+    },
+    {
+        "name": "Ágios Epíktitos",
+        "country": "Cyprus",
+        "province": "Keryneia",
+        "population": -1,
+        "latitude": 35.320707,
+        "longitude": 33.390335
+    },
+    {
+        "name": "Ágios IIías",
+        "country": "Cyprus",
+        "province": "Ammochostos",
+        "population": -1,
+        "latitude": 35.32884,
+        "longitude": 33.928233
+    },
+    {
+        "name": "Ayios Dhimitrios",
+        "country": "Cyprus",
+        "province": "Limassol",
+        "population": 57,
+        "latitude": 34.925556,
+        "longitude": 32.809167
+    },
+    {
+        "name": "Agios Dimitrianos",
+        "country": "Cyprus",
+        "province": "Pafos",
+        "population": 91,
+        "latitude": 34.906803,
+        "longitude": 32.550513
+    },
+    {
+        "name": "St. Athanasios",
+        "country": "Cyprus",
+        "province": "Limassol",
+        "population": -1,
+        "latitude": 34.709347,
+        "longitude": 33.049974
+    },
+    {
+        "name": "Ágios Andrónikos",
+        "country": "Cyprus",
+        "province": "Ammochostos",
+        "population": -1,
+        "latitude": 35.339847,
+        "longitude": 33.87366
+    },
+    {
+        "name": "Ágios Amvrósios",
+        "country": "Cyprus",
+        "province": "Keryneia",
+        "population": -1,
+        "latitude": 35.339031,
+        "longitude": 33.582617
+    },
+    {
+        "name": "Ayios Amvrosios",
+        "country": "Cyprus",
+        "province": "Limassol",
+        "population": 304,
+        "latitude": 34.781111,
+        "longitude": 32.826111
+    },
+    {
+        "name": "Ágioi Trimithiás",
+        "country": "Cyprus",
+        "province": "Nicosia",
+        "population": -1,
+        "latitude": 35.114631,
+        "longitude": 33.210437
+    },
+    {
+        "name": "Agía Triás",
+        "country": "Cyprus",
+        "province": "Ammochostos",
+        "population": -1,
+        "latitude": 35.5387,
+        "longitude": 34.216005
+    },
+    {
+        "name": "Agia Fylaxis",
+        "country": "Cyprus",
+        "province": "Limassol",
+        "population": -1,
+        "latitude": 34.716667,
+        "longitude": 33.025
+    },
+    {
+        "name": "Agia Marinouda",
+        "country": "Cyprus",
+        "province": "Pafos",
+        "population": 230,
+        "latitude": 34.7598,
+        "longitude": 32.475916
+    },
+    {
+        "name": "Agía Marína",
+        "country": "Cyprus",
+        "province": "Nicosia",
+        "population": -1,
+        "latitude": 35.226453,
+        "longitude": 33.129847
+    },
+    {
+        "name": "Ayia Marina Chrysochous",
+        "country": "Cyprus",
+        "province": "Pafos",
+        "population": -1,
+        "latitude": 35.120378,
+        "longitude": 32.513709
+    },
+    {
+        "name": "Agía Eiríni",
+        "country": "Cyprus",
+        "province": "Keryneia",
+        "population": -1,
+        "latitude": 35.298926,
+        "longitude": 32.963446
+    },
+    {
+        "name": "Agia Anna",
+        "country": "Cyprus",
+        "province": "Larnaka",
+        "population": 262,
+        "latitude": 34.942923,
+        "longitude": 33.480755
+    },
+    {
+        "name": "Axylou",
+        "country": "Cyprus",
+        "province": "Pafos",
+        "population": 61,
+        "latitude": 34.806336,
+        "longitude": 32.564362
+    },
+    {
+        "name": "Avgórou",
+        "country": "Cyprus",
+        "province": "Ammochostos",
+        "population": 4177,
+        "latitude": 35.036151,
+        "longitude": 33.83918
+    },
+    {
+        "name": "Avgolída",
+        "country": "Cyprus",
+        "province": "Ammochostos",
+        "population": -1,
+        "latitude": 35.354801,
+        "longitude": 33.962673
+    },
+    {
+        "name": "Avdellero",
+        "country": "Cyprus",
+        "province": "Larnaka",
+        "population": 136,
+        "latitude": 35.007963,
+        "longitude": 33.570532
+    },
+    {
+        "name": "Áchna",
+        "country": "Cyprus",
+        "province": "Ammochostos",
+        "population": 2043,
+        "latitude": 35.055155,
+        "longitude": 33.783876
+    },
+    {
+        "name": "Astromerítis",
+        "country": "Cyprus",
+        "province": "Nicosia",
+        "population": 2463,
+        "latitude": 35.14096,
+        "longitude": 33.037933
+    },
+    {
+        "name": "Asprogia",
+        "country": "Cyprus",
+        "province": "Pafos",
+        "population": 55,
+        "latitude": 34.922277,
+        "longitude": 32.614678
+    },
+    {
+        "name": "Áskeia",
+        "country": "Cyprus",
+        "province": "Ammochostos",
+        "population": -1,
+        "latitude": 35.154039,
+        "longitude": 33.609258
+    },
+    {
+        "name": "Armenokhori",
+        "country": "Cyprus",
+        "province": "Limassol",
+        "population": 174,
+        "latitude": 34.745833,
+        "longitude": 33.129167
+    },
+    {
+        "name": "Apsioú",
+        "country": "Cyprus",
+        "province": "Limassol",
+        "population": 198,
+        "latitude": 34.797282,
+        "longitude": 33.016748
+    },
+    {
+        "name": "Afánteia",
+        "country": "Cyprus",
+        "province": "Ammochostos",
+        "population": -1,
+        "latitude": 35.157681,
+        "longitude": 33.585871
+    },
+    {
+        "name": "Apesiá",
+        "country": "Cyprus",
+        "province": "Limassol",
+        "population": 342,
+        "latitude": 34.789389,
+        "longitude": 32.977556
+    },
+    {
+        "name": "Anglisides",
+        "country": "Cyprus",
+        "province": "Larnaka",
+        "population": -1,
+        "latitude": 34.854952,
+        "longitude": 33.456354
+    },
+    {
+        "name": "Androlykou",
+        "country": "Cyprus",
+        "province": "Pafos",
+        "population": -1,
+        "latitude": 34.998619,
+        "longitude": 32.381736
+    },
+    {
+        "name": "Anafotida",
+        "country": "Cyprus",
+        "province": "Larnaka",
+        "population": 683,
+        "latitude": 34.824354,
+        "longitude": 33.463571
+    },
+    {
+        "name": "Anadiou",
+        "country": "Cyprus",
+        "province": "Pafos",
+        "population": 17,
+        "latitude": 34.944363,
+        "longitude": 32.5662
+    },
+    {
+        "name": "Amargheti",
+        "country": "Cyprus",
+        "province": "Pafos",
+        "population": 209,
+        "latitude": 34.824284,
+        "longitude": 32.583848
+    },
+    {
+        "name": "Ammadiés",
+        "country": "Cyprus",
+        "province": "Nicosia",
+        "population": -1,
+        "latitude": 35.156804,
+        "longitude": 32.716504
+    },
+    {
+        "name": "Alethriko",
+        "country": "Cyprus",
+        "province": "Larnaka",
+        "population": 827,
+        "latitude": 34.860989,
+        "longitude": 33.4943
+    },
+    {
+        "name": "Alaminos",
+        "country": "Cyprus",
+        "province": "Larnaka",
+        "population": 292,
+        "latitude": 34.807305,
+        "longitude": 33.434751
+    },
+    {
+        "name": "Alámpra",
+        "country": "Cyprus",
+        "province": "Nicosia",
+        "population": 1192,
+        "latitude": 34.988976,
+        "longitude": 33.398872
+    },
+    {
+        "name": "Akoursos",
+        "country": "Cyprus",
+        "province": "Pafos",
+        "population": 157,
+        "latitude": 34.886798,
+        "longitude": 32.421497
+    },
+    {
+        "name": "Acheleia",
+        "country": "Cyprus",
+        "province": "Pafos",
+        "population": 119,
+        "latitude": 34.739215,
+        "longitude": 32.485887
+    },
+    {
+        "name": "Akáki",
+        "country": "Cyprus",
+        "province": "Nicosia",
+        "population": 2769,
+        "latitude": 35.133412,
+        "longitude": 33.128729
+    },
+    {
+        "name": "Agridáki",
+        "country": "Cyprus",
+        "province": "Keryneia",
+        "population": -1,
+        "latitude": 35.30722,
+        "longitude": 33.151061
+    },
+    {
+        "name": "Agírda",
+        "country": "Cyprus",
+        "province": "Keryneia",
+        "population": -1,
+        "latitude": 35.297418,
+        "longitude": 33.268053
+    },
+    {
+        "name": "Zygi",
+        "country": "Cyprus",
+        "province": "Larnaka",
+        "population": 526,
+        "latitude": 34.728867,
+        "longitude": 33.337786
+    },
+    {
+        "name": "Ýpsonas",
+        "country": "Cyprus",
+        "province": "Limassol",
+        "population": 7348,
+        "latitude": 34.687969,
+        "longitude": 32.96191
+    },
+    {
+        "name": "Aigialoúsa",
+        "country": "Cyprus",
+        "province": "Ammochostos",
+        "population": -1,
+        "latitude": 35.535135,
+        "longitude": 34.189442
+    },
+    {
+        "name": "Géri",
+        "country": "Cyprus",
+        "province": "Nicosia",
+        "population": 7639,
+        "latitude": 35.105596,
+        "longitude": 33.419766
+    },
+    {
+        "name": "Xyliátos",
+        "country": "Cyprus",
+        "province": "Nicosia",
+        "population": 128,
+        "latitude": 35.029814,
+        "longitude": 33.043417
+    },
+    {
+        "name": "Tséri",
+        "country": "Cyprus",
+        "province": "Nicosia",
+        "population": 5498,
+        "latitude": 35.073071,
+        "longitude": 33.32344
+    },
+    {
+        "name": "Frodísia",
+        "country": "Cyprus",
+        "province": "Nicosia",
+        "population": -1,
+        "latitude": 35.06793,
+        "longitude": 32.660757
+    },
+    {
+        "name": "Vounó",
+        "country": "Cyprus",
+        "province": "Keryneia",
+        "population": -1,
+        "latitude": 35.271049,
+        "longitude": 33.39096
+    },
+    {
+        "name": "Vyzakiá",
+        "country": "Cyprus",
+        "province": "Nicosia",
+        "population": 401,
+        "latitude": 35.078543,
+        "longitude": 33.014275
+    },
+    {
+        "name": "Vothýlakas",
+        "country": "Cyprus",
+        "province": "Ammochostos",
+        "population": -1,
+        "latitude": 35.483414,
+        "longitude": 34.187133
+    },
+    {
+        "name": "Troulloi",
+        "country": "Cyprus",
+        "province": "Larnaka",
+        "population": 1078,
+        "latitude": 35.032631,
+        "longitude": 33.61551
+    },
+    {
+        "name": "Trimithousa",
+        "country": "Cyprus",
+        "province": "Pafos",
+        "population": -1,
+        "latitude": 34.974179,
+        "longitude": 32.487502
+    },
+    {
+        "name": "Tremithousa",
+        "country": "Cyprus",
+        "province": "Pafos",
+        "population": -1,
+        "latitude": 34.817416,
+        "longitude": 32.443701
+    },
+    {
+        "name": "Trimíthi",
+        "country": "Cyprus",
+        "province": "Keryneia",
+        "population": -1,
+        "latitude": 35.328813,
+        "longitude": 33.259783
+    },
+    {
+        "name": "Tríkomo",
+        "country": "Cyprus",
+        "province": "Ammochostos",
+        "population": 4490,
+        "latitude": 35.286277,
+        "longitude": 33.891667
+    },
+    {
+        "name": "Tremetousia",
+        "country": "Cyprus",
+        "province": "Larnaka",
+        "population": -1,
+        "latitude": 35.085125,
+        "longitude": 33.608662
+    },
+    {
+        "name": "Trachypedoula",
+        "country": "Cyprus",
+        "province": "Pafos",
+        "population": 86,
+        "latitude": 34.800561,
+        "longitude": 32.678982
+    },
+    {
+        "name": "Thérmeia",
+        "country": "Cyprus",
+        "province": "Keryneia",
+        "population": -1,
+        "latitude": 35.327582,
+        "longitude": 33.32702
+    },
+    {
+        "name": "Theletra",
+        "country": "Cyprus",
+        "province": "Pafos",
+        "population": 269,
+        "latitude": 34.911787,
+        "longitude": 32.447479
+    },
+    {
+        "name": "Terra",
+        "country": "Cyprus",
+        "province": "Pafos",
+        "population": -1,
+        "latitude": 34.965708,
+        "longitude": 32.42469
+    },
+    {
+        "name": "Temvriá",
+        "country": "Cyprus",
+        "province": "Nicosia",
+        "population": -1,
+        "latitude": 35.027763,
+        "longitude": 32.891825
+    },
+    {
+        "name": "Témplos",
+        "country": "Cyprus",
+        "province": "Keryneia",
+        "population": -1,
+        "latitude": 35.331729,
+        "longitude": 33.295018
+    },
+    {
+        "name": "Távrou",
+        "country": "Cyprus",
+        "province": "Ammochostos",
+        "population": -1,
+        "latitude": 35.39661,
+        "longitude": 34.07649
+    },
+    {
+        "name": "Syrianochóri",
+        "country": "Cyprus",
+        "province": "Nicosia",
+        "population": -1,
+        "latitude": 35.224405,
+        "longitude": 32.941247
+    },
+    {
+        "name": "Sykópetra",
+        "country": "Cyprus",
+        "province": "Limassol",
+        "population": 141,
+        "latitude": 34.878568,
+        "longitude": 33.112499
+    },
+    {
+        "name": "Strongylós",
+        "country": "Cyprus",
+        "province": "Ammochostos",
+        "population": -1,
+        "latitude": 35.166396,
+        "longitude": 33.639186
+    },
+    {
+        "name": "Steni",
+        "country": "Cyprus",
+        "province": "Pafos",
+        "population": 110,
+        "latitude": 34.997598,
+        "longitude": 32.47232
+    },
+    {
+        "name": "Spitáli",
+        "country": "Cyprus",
+        "province": "Limassol",
+        "population": 196,
+        "latitude": 34.763406,
+        "longitude": 33.002236
+    },
+    {
+        "name": "Spília",
+        "country": "Cyprus",
+        "province": "Nicosia",
+        "population": 169,
+        "latitude": 34.966828,
+        "longitude": 32.955511
+    },
+    {
+        "name": "Spatharikó",
+        "country": "Cyprus",
+        "province": "Ammochostos",
+        "population": -1,
+        "latitude": 35.236459,
+        "longitude": 33.871812
+    },
+    {
+        "name": "Souskiou",
+        "country": "Cyprus",
+        "province": "Pafos",
+        "population": 2,
+        "latitude": 34.733524,
+        "longitude": 32.602552
+    },
+    {
+        "name": "Sotíra",
+        "country": "Cyprus",
+        "province": "Ammochostos",
+        "population": -1,
+        "latitude": 35.026151,
+        "longitude": 33.951793
+    },
+    {
+        "name": "Skouriótissa",
+        "country": "Cyprus",
+        "province": "Nicosia",
+        "population": -1,
+        "latitude": 35.091744,
+        "longitude": 32.884136
+    },
+    {
+        "name": "Skoulli",
+        "country": "Cyprus",
+        "province": "Pafos",
+        "population": 80,
+        "latitude": 34.980568,
+        "longitude": 32.451224
+    },
+    {
+        "name": "Sínta",
+        "country": "Cyprus",
+        "province": "Ammochostos",
+        "population": -1,
+        "latitude": 35.157056,
+        "longitude": 33.701061
+    },
+    {
+        "name": "Sináoros",
+        "country": "Cyprus",
+        "province": "Nicosia",
+        "population": -1,
+        "latitude": 35.009323,
+        "longitude": 32.899344
+    },
+    {
+        "name": "Simou",
+        "country": "Cyprus",
+        "province": "Pafos",
+        "population": 178,
+        "latitude": 34.941207,
+        "longitude": 32.504171
+    },
+    {
+        "name": "Silíkou",
+        "country": "Cyprus",
+        "province": "Limassol",
+        "population": 102,
+        "latitude": 34.8318,
+        "longitude": 32.889797
+    },
+    {
+        "name": "Siá",
+        "country": "Cyprus",
+        "province": "Nicosia",
+        "population": 553,
+        "latitude": 34.955232,
+        "longitude": 33.389973
+    },
+    {
+        "name": "Saránti",
+        "country": "Cyprus",
+        "province": "Nicosia",
+        "population": 59,
+        "latitude": 34.969222,
+        "longitude": 32.99925
+    },
+    {
+        "name": "Sarama, Cyprus",
+        "country": "Cyprus",
+        "province": "Pafos",
+        "population": -1,
+        "latitude": 34.956299,
+        "longitude": 32.528856
+    },
+    {
+        "name": "Sanída",
+        "country": "Cyprus",
+        "province": "Limassol",
+        "population": 46,
+        "latitude": 34.807492,
+        "longitude": 33.188696
+    },
+    {
+        "name": "Santaláris",
+        "country": "Cyprus",
+        "province": "Ammochostos",
+        "population": -1,
+        "latitude": 35.210436,
+        "longitude": 33.800651
+    },
+    {
+        "name": "Salamiou",
+        "country": "Cyprus",
+        "province": "Pafos",
+        "population": 264,
+        "latitude": 34.840341,
+        "longitude": 32.689959
+    },
+    {
+        "name": "Pyrga",
+        "country": "Cyprus",
+        "province": "Larnaka",
+        "population": -1,
+        "latitude": 34.925855,
+        "longitude": 33.433803
+    },
+    {
+        "name": "Psyllátos",
+        "country": "Cyprus",
+        "province": "Ammochostos",
+        "population": -1,
+        "latitude": 35.253832,
+        "longitude": 33.687275
+    },
+    {
+        "name": "Psathi",
+        "country": "Cyprus",
+        "province": "Pafos",
+        "population": 110,
+        "latitude": 34.897778,
+        "longitude": 32.533056
+    },
+    {
+        "name": "Pródromos",
+        "country": "Cyprus",
+        "province": "Limassol",
+        "population": -1,
+        "latitude": 34.94875,
+        "longitude": 32.830972
+    },
+    {
+        "name": "Prodromi",
+        "country": "Cyprus",
+        "province": "Pafos",
+        "population": -1,
+        "latitude": 35.027308,
+        "longitude": 32.417636
+    },
+    {
+        "name": "Praitori",
+        "country": "Cyprus",
+        "province": "Pafos",
+        "population": 55,
+        "latitude": 34.849022,
+        "longitude": 32.745786
+    },
+    {
+        "name": "Prastió",
+        "country": "Cyprus",
+        "province": "Ammochostos",
+        "population": -1,
+        "latitude": 35.175382,
+        "longitude": 33.757732
+    },
+    {
+        "name": "Prastió",
+        "country": "Cyprus",
+        "province": "Limassol",
+        "population": -1,
+        "latitude": 34.81144,
+        "longitude": 33.142916
+    },
+    {
+        "name": "Prastio",
+        "country": "Cyprus",
+        "province": "Pafos",
+        "population": -1,
+        "latitude": 34.791453,
+        "longitude": 32.693772
+    },
+    {
+        "name": "Potamítissa",
+        "country": "Cyprus",
+        "province": "Limassol",
+        "population": 73,
+        "latitude": 34.907338,
+        "longitude": 32.989733
+    },
+    {
+        "name": "Potamioú",
+        "country": "Cyprus",
+        "province": "Limassol",
+        "population": 34,
+        "latitude": 34.824083,
+        "longitude": 32.806722
+    },
+    {
+        "name": "Potamiá",
+        "country": "Cyprus",
+        "province": "Nicosia",
+        "population": 433,
+        "latitude": 35.042165,
+        "longitude": 33.445315
+    },
+    {
+        "name": "Potámi",
+        "country": "Cyprus",
+        "province": "Nicosia",
+        "population": 581,
+        "latitude": 35.104394,
+        "longitude": 33.029821
+    },
+    {
+        "name": "Polýstypos",
+        "country": "Cyprus",
+        "province": "Nicosia",
+        "population": 181,
+        "latitude": 34.939492,
+        "longitude": 33.018324
+    },
+    {
+        "name": "Politikó",
+        "country": "Cyprus",
+        "province": "Nicosia",
+        "population": 384,
+        "latitude": 35.027401,
+        "longitude": 33.243326
+    },
+    {
+        "name": "Platymátis",
+        "country": "Cyprus",
+        "province": "Keryneia",
+        "population": -1,
+        "latitude": 35.32335,
+        "longitude": 33.502772
+    },
+    {
+        "name": "Platanistása",
+        "country": "Cyprus",
+        "province": "Nicosia",
+        "population": 180,
+        "latitude": 34.947136,
+        "longitude": 33.046105
+    },
+    {
+        "name": "Platanissós",
+        "country": "Cyprus",
+        "province": "Ammochostos",
+        "population": -1,
+        "latitude": 35.478663,
+        "longitude": 34.106823
+    },
+    {
+        "name": "Platanísteia",
+        "country": "Cyprus",
+        "province": "Limassol",
+        "population": 45,
+        "latitude": 34.71242,
+        "longitude": 32.710913
+    },
+    {
+        "name": "Platáni",
+        "country": "Cyprus",
+        "province": "Ammochostos",
+        "population": -1,
+        "latitude": 35.333046,
+        "longitude": 33.751792
+    },
+    {
+        "name": "Pigénia",
+        "country": "Cyprus",
+        "province": "Nicosia",
+        "population": 129,
+        "latitude": 35.167604,
+        "longitude": 32.654318
+    },
+    {
+        "name": "Pitargou",
+        "country": "Cyprus",
+        "province": "Pafos",
+        "population": -1,
+        "latitude": 34.837369,
+        "longitude": 32.533695
+    },
+    {
+        "name": "Piléri",
+        "country": "Cyprus",
+        "province": "Keryneia",
+        "population": -1,
+        "latitude": 35.290987,
+        "longitude": 33.217862
+    },
+    {
+        "name": "Fterikoúdi",
+        "country": "Cyprus",
+        "province": "Nicosia",
+        "population": 148,
+        "latitude": 34.943603,
+        "longitude": 33.068793
+    },
+    {
+        "name": "Ftéricha",
+        "country": "Cyprus",
+        "province": "Keryneia",
+        "population": -1,
+        "latitude": 35.3228,
+        "longitude": 33.221213
+    },
+    {
+        "name": "Fóta",
+        "country": "Cyprus",
+        "province": "Keryneia",
+        "population": -1,
+        "latitude": 35.264058,
+        "longitude": 33.222545
+    },
+    {
+        "name": "Flamoúdi",
+        "country": "Cyprus",
+        "province": "Ammochostos",
+        "population": -1,
+        "latitude": 35.39662,
+        "longitude": 33.857138
+    },
+    {
+        "name": "Foinikária",
+        "country": "Cyprus",
+        "province": "Limassol",
+        "population": 254,
+        "latitude": 34.751883,
+        "longitude": 33.097825
+    },
+    {
+        "name": "Foiní",
+        "country": "Cyprus",
+        "province": "Limassol",
+        "population": 464,
+        "latitude": 34.892417,
+        "longitude": 32.837833
+    },
+    {
+        "name": "Philousa Khrysokhous",
+        "country": "Cyprus",
+        "province": "Pafos",
+        "population": 31,
+        "latitude": 34.974158,
+        "longitude": 32.504316
+    },
+    {
+        "name": "Philousa Kelokedharon",
+        "country": "Cyprus",
+        "province": "Pafos",
+        "population": 17,
+        "latitude": 34.852649,
+        "longitude": 32.742404
+    },
+    {
+        "name": "Fylliá",
+        "country": "Cyprus",
+        "province": "Nicosia",
+        "population": -1,
+        "latitude": 35.188205,
+        "longitude": 33.091911
+    },
+    {
+        "name": "Farmakás",
+        "country": "Cyprus",
+        "province": "Nicosia",
+        "population": -1,
+        "latitude": 34.912444,
+        "longitude": 33.136157
+    },
+    {
+        "name": "Pétra tou Digení",
+        "country": "Cyprus",
+        "province": "Nicosia",
+        "population": -1,
+        "latitude": 35.238043,
+        "longitude": 33.546413
+    },
+    {
+        "name": "Pétra",
+        "country": "Cyprus",
+        "province": "Nicosia",
+        "population": -1,
+        "latitude": 35.109285,
+        "longitude": 32.908452
+    },
+    {
+        "name": "Peristeróna",
+        "country": "Cyprus",
+        "province": "Ammochostos",
+        "population": -1,
+        "latitude": 35.217836,
+        "longitude": 33.760994
+    },
+    {
+        "name": "Peristerona",
+        "country": "Cyprus",
+        "province": "Pafos",
+        "population": -1,
+        "latitude": 34.990477,
+        "longitude": 32.490074
+    },
+    {
+        "name": "Péra Pedí",
+        "country": "Cyprus",
+        "province": "Limassol",
+        "population": -1,
+        "latitude": 34.859806,
+        "longitude": 32.875722
+    },
+    {
+        "name": "Péra",
+        "country": "Cyprus",
+        "province": "Nicosia",
+        "population": 1060,
+        "latitude": 35.033496,
+        "longitude": 33.25413
+    },
+    {
+        "name": "Pentágeia",
+        "country": "Cyprus",
+        "province": "Nicosia",
+        "population": -1,
+        "latitude": 35.153306,
+        "longitude": 32.884778
+    },
+    {
+        "name": "Pentákomo",
+        "country": "Cyprus",
+        "province": "Larnaka",
+        "population": -1,
+        "latitude": 34.737852,
+        "longitude": 33.240846
+    },
+    {
+        "name": "Peléndri",
+        "country": "Cyprus",
+        "province": "Limassol",
+        "population": 1237,
+        "latitude": 34.895972,
+        "longitude": 32.968167
+    },
+    {
+        "name": "Pedoulás",
+        "country": "Cyprus",
+        "province": "Nicosia",
+        "population": 199,
+        "latitude": 34.968038,
+        "longitude": 32.829006
+    },
+    {
+        "name": "Patríki",
+        "country": "Cyprus",
+        "province": "Ammochostos",
+        "population": -1,
+        "latitude": 35.363151,
+        "longitude": 33.996515
+    },
+    {
+        "name": "Parsáta",
+        "country": "Cyprus",
+        "province": "Larnaka",
+        "population": -1,
+        "latitude": 34.826495,
+        "longitude": 33.26621
+    },
+    {
+        "name": "Paramýtha",
+        "country": "Cyprus",
+        "province": "Limassol",
+        "population": 343,
+        "latitude": 34.76075,
+        "longitude": 32.994639
+    },
+    {
+        "name": "Páno Plátres",
+        "country": "Cyprus",
+        "province": "Limassol",
+        "population": 201,
+        "latitude": 34.886639,
+        "longitude": 32.859667
+    },
+    {
+        "name": "Pano Panagia",
+        "country": "Cyprus",
+        "province": "Pafos",
+        "population": 564,
+        "latitude": 34.919541,
+        "longitude": 32.631546
+    },
+    {
+        "name": "Páno Amíantos",
+        "country": "Cyprus",
+        "province": "Limassol",
+        "population": 3,
+        "latitude": 34.927806,
+        "longitude": 32.917278
+    },
+    {
+        "name": "Pallouriotissa",
+        "country": "Cyprus",
+        "province": "Nicosia",
+        "population": -1,
+        "latitude": 35.175923,
+        "longitude": 33.390734
+    },
+    {
+        "name": "Palodeia",
+        "country": "Cyprus",
+        "province": "Limassol",
+        "population": 762,
+        "latitude": 34.745045,
+        "longitude": 33.005782
+    },
+    {
+        "name": "Óvgoros",
+        "country": "Cyprus",
+        "province": "Ammochostos",
+        "population": -1,
+        "latitude": 35.365935,
+        "longitude": 33.938362
+    },
+    {
+        "name": "Órga",
+        "country": "Cyprus",
+        "province": "Keryneia",
+        "population": -1,
+        "latitude": 35.358234,
+        "longitude": 33.033224
+    },
+    {
+        "name": "Ora, Cyprus",
+        "country": "Cyprus",
+        "province": "Larnaka",
+        "population": 187,
+        "latitude": 34.862357,
+        "longitude": 33.195598
+    },
+    {
+        "name": "Ómodos",
+        "country": "Cyprus",
+        "province": "Limassol",
+        "population": 325,
+        "latitude": 34.848276,
+        "longitude": 32.808925
+    },
+    {
+        "name": "Odou",
+        "country": "Cyprus",
+        "province": "Larnaka",
+        "population": 163,
+        "latitude": 34.885351,
+        "longitude": 33.150701
+    },
+    {
+        "name": "Nísou",
+        "country": "Cyprus",
+        "province": "Nicosia",
+        "population": -1,
+        "latitude": 35.020723,
+        "longitude": 33.39346
+    },
+    {
+        "name": "Oíkos",
+        "country": "Cyprus",
+        "province": "Nicosia",
+        "population": 195,
+        "latitude": 34.99715,
+        "longitude": 32.827714
+    },
+    {
+        "name": "Nikítas",
+        "country": "Cyprus",
+        "province": "Nicosia",
+        "population": -1,
+        "latitude": 35.176298,
+        "longitude": 32.957167
+    },
+    {
+        "name": "Nikitári",
+        "country": "Cyprus",
+        "province": "Nicosia",
+        "population": 445,
+        "latitude": 35.073316,
+        "longitude": 32.993259
+    },
+    {
+        "name": "Néta",
+        "country": "Cyprus",
+        "province": "Ammochostos",
+        "population": -1,
+        "latitude": 35.469587,
+        "longitude": 34.2146
+    },
+    {
+        "name": "Nata",
+        "country": "Cyprus",
+        "province": "Pafos",
+        "population": 169,
+        "latitude": 34.778232,
+        "longitude": 32.571208
+    },
+    {
+        "name": "Mýrtou",
+        "country": "Cyprus",
+        "province": "Keryneia",
+        "population": -1,
+        "latitude": 35.307302,
+        "longitude": 33.071013
+    },
+    {
+        "name": "Moutoullás",
+        "country": "Cyprus",
+        "province": "Nicosia",
+        "population": 307,
+        "latitude": 34.984303,
+        "longitude": 32.825157
+    },
+    {
+        "name": "Mousoulíta",
+        "country": "Cyprus",
+        "province": "Ammochostos",
+        "population": -1,
+        "latitude": 35.193023,
+        "longitude": 33.640608
+    },
+    {
+        "name": "Mousere",
+        "country": "Cyprus",
+        "province": "Pafos",
+        "population": -1,
+        "latitude": 34.770836,
+        "longitude": 32.715461
+    },
+    {
+        "name": "Mótides",
+        "country": "Cyprus",
+        "province": "Keryneia",
+        "population": -1,
+        "latitude": 35.334854,
+        "longitude": 33.207326
+    },
+    {
+        "name": "Mosfilerí",
+        "country": "Cyprus",
+        "province": "Nicosia",
+        "population": -1,
+        "latitude": 35.180403,
+        "longitude": 32.630914
+    },
+    {
+        "name": "Moró Neró",
+        "country": "Cyprus",
+        "province": "Pafos",
+        "population": -1,
+        "latitude": 34.812979,
+        "longitude": 32.52589
+    },
+    {
+        "name": "Móra",
+        "country": "Cyprus",
+        "province": "Nicosia",
+        "population": -1,
+        "latitude": 35.175054,
+        "longitude": 33.550788
+    },
+    {
+        "name": "Moniátis",
+        "country": "Cyprus",
+        "province": "Limassol",
+        "population": 312,
+        "latitude": 34.867972,
+        "longitude": 32.897583
+    },
+    {
+        "name": "Moni",
+        "country": "Cyprus",
+        "province": "Limassol",
+        "population": 403,
+        "latitude": 34.733333,
+        "longitude": 33.2
+    },
+    {
+        "name": "Monagroúlli",
+        "country": "Cyprus",
+        "province": "Limassol",
+        "population": 492,
+        "latitude": 34.749018,
+        "longitude": 33.212954
+    },
+    {
+        "name": "Monágri",
+        "country": "Cyprus",
+        "province": "Limassol",
+        "population": 181,
+        "latitude": 34.809816,
+        "longitude": 32.910617
+    },
+    {
+        "name": "Mitseró",
+        "country": "Cyprus",
+        "province": "Nicosia",
+        "population": 742,
+        "latitude": 35.042668,
+        "longitude": 33.124006
+    },
+    {
+        "name": "Miliou",
+        "country": "Cyprus",
+        "province": "Pafos",
+        "population": 85,
+        "latitude": 34.939295,
+        "longitude": 32.4608
+    },
+    {
+        "name": "Mylikoúri",
+        "country": "Cyprus",
+        "province": "Nicosia",
+        "population": 41,
+        "latitude": 34.961917,
+        "longitude": 32.750944
+    },
+    {
+        "name": "Milia, Paphos",
+        "country": "Cyprus",
+        "province": "Pafos",
+        "population": 5,
+        "latitude": 34.919983,
+        "longitude": 32.540275
+    },
+    {
+        "name": "Miliá",
+        "country": "Cyprus",
+        "province": "Ammochostos",
+        "population": -1,
+        "latitude": 35.240134,
+        "longitude": 33.780206
+    },
+    {
+        "name": "Miá Miliá",
+        "country": "Cyprus",
+        "province": "Nicosia",
+        "population": -1,
+        "latitude": 35.20673,
+        "longitude": 33.420072
+    },
+    {
+        "name": "Mésa Geitoniá",
+        "country": "Cyprus",
+        "province": "Limassol",
+        "population": -1,
+        "latitude": 34.70057,
+        "longitude": 33.04374
+    },
+    {
+        "name": "Mesana",
+        "country": "Cyprus",
+        "province": "Pafos",
+        "population": 52,
+        "latitude": 34.849108,
+        "longitude": 32.70679
+    },
+    {
+        "name": "Mesa Chorio",
+        "country": "Cyprus",
+        "province": "Pafos",
+        "population": 586,
+        "latitude": 34.808878,
+        "longitude": 32.461955
+    },
+    {
+        "name": "Mersinníki",
+        "country": "Cyprus",
+        "province": "Ammochostos",
+        "population": -1,
+        "latitude": 35.341477,
+        "longitude": 33.724591
+    },
+    {
+        "name": "Melini",
+        "country": "Cyprus",
+        "province": "Larnaka",
+        "population": 59,
+        "latitude": 34.867464,
+        "longitude": 33.156998
+    },
+    {
+        "name": "Melandra",
+        "country": "Cyprus",
+        "province": "Pafos",
+        "population": -1,
+        "latitude": 34.989187,
+        "longitude": 32.525001
+    },
+    {
+        "name": "Meladeia",
+        "country": "Cyprus",
+        "province": "Pafos",
+        "population": 20,
+        "latitude": 34.98816,
+        "longitude": 32.50665
+    },
+    {
+        "name": "Mazotos",
+        "country": "Cyprus",
+        "province": "Larnaka",
+        "population": 818,
+        "latitude": 34.803636,
+        "longitude": 33.48947
+    },
+    {
+        "name": "Mathikolóni",
+        "country": "Cyprus",
+        "province": "Limassol",
+        "population": 115,
+        "latitude": 34.775199,
+        "longitude": 33.04913
+    },
+    {
+        "name": "Mathiátis",
+        "country": "Cyprus",
+        "province": "Nicosia",
+        "population": 605,
+        "latitude": 34.963491,
+        "longitude": 33.336266
+    },
+    {
+        "name": "Másari",
+        "country": "Cyprus",
+        "province": "Nicosia",
+        "population": -1,
+        "latitude": 35.186521,
+        "longitude": 33.076904
+    },
+    {
+        "name": "Maróni",
+        "country": "Cyprus",
+        "province": "Larnaka",
+        "population": 543,
+        "latitude": 34.757349,
+        "longitude": 33.356565
+    },
+    {
+        "name": "Mari",
+        "country": "Cyprus",
+        "province": "Larnaka",
+        "population": 185,
+        "latitude": 34.740561,
+        "longitude": 33.299285
+    },
+    {
+        "name": "Margó",
+        "country": "Cyprus",
+        "province": "Nicosia",
+        "population": -1,
+        "latitude": 35.083333,
+        "longitude": 33.483333
+    },
+    {
+        "name": "Margí",
+        "country": "Cyprus",
+        "province": "Nicosia",
+        "population": 104,
+        "latitude": 35.023887,
+        "longitude": 33.325218
+    },
+    {
+        "name": "Marátha",
+        "country": "Cyprus",
+        "province": "Ammochostos",
+        "population": -1,
+        "latitude": 35.211822,
+        "longitude": 33.776912
+    },
+    {
+        "name": "Mandriá",
+        "country": "Cyprus",
+        "province": "Limassol",
+        "population": -1,
+        "latitude": 34.870106,
+        "longitude": 32.832307
+    },
+    {
+        "name": "Mándres",
+        "country": "Cyprus",
+        "province": "Ammochostos",
+        "population": -1,
+        "latitude": 35.347091,
+        "longitude": 33.799184
+    },
+    {
+        "name": "Mándres",
+        "country": "Cyprus",
+        "province": "Nicosia",
+        "population": -1,
+        "latitude": 35.076604,
+        "longitude": 32.952974
+    },
+    {
+        "name": "Mamonia",
+        "country": "Cyprus",
+        "province": "Pafos",
+        "population": 42,
+        "latitude": 34.769691,
+        "longitude": 32.637183
+    },
+    {
+        "name": "Meloúnta",
+        "country": "Cyprus",
+        "province": "Ammochostos",
+        "population": -1,
+        "latitude": 35.332626,
+        "longitude": 33.689321
+    },
+    {
+        "name": "Maloúnta",
+        "country": "Cyprus",
+        "province": "Nicosia",
+        "population": -1,
+        "latitude": 35.035137,
+        "longitude": 33.183061
+    },
+    {
+        "name": "Makrásyka",
+        "country": "Cyprus",
+        "province": "Ammochostos",
+        "population": -1,
+        "latitude": 35.074022,
+        "longitude": 33.762237
+    },
+    {
+        "name": "Lysos",
+        "country": "Cyprus",
+        "province": "Pafos",
+        "population": -1,
+        "latitude": 34.9958333,
+        "longitude": 32.5125
+    },
+    {
+        "name": "Lýsi",
+        "country": "Cyprus",
+        "province": "Ammochostos",
+        "population": -1,
+        "latitude": 35.104747,
+        "longitude": 33.680997
+    },
+    {
+        "name": "Louvarás",
+        "country": "Cyprus",
+        "province": "Limassol",
+        "population": 408,
+        "latitude": 34.836523,
+        "longitude": 33.040236
+    },
+    {
+        "name": "Loutrós",
+        "country": "Cyprus",
+        "province": "Nicosia",
+        "population": -1,
+        "latitude": 35.14581,
+        "longitude": 32.745635
+    },
+    {
+        "name": "Louroukína",
+        "country": "Cyprus",
+        "province": "Nicosia",
+        "population": -1,
+        "latitude": 35.010218,
+        "longitude": 33.464711
+    },
+    {
+        "name": "Loukrounou",
+        "country": "Cyprus",
+        "province": "Pafos",
+        "population": 4,
+        "latitude": 34.951444,
+        "longitude": 32.463606
+    },
+    {
+        "name": "Lófou",
+        "country": "Cyprus",
+        "province": "Limassol",
+        "population": 10,
+        "latitude": 34.815984,
+        "longitude": 32.875385
+    },
+    {
+        "name": "Liverá",
+        "country": "Cyprus",
+        "province": "Keryneia",
+        "population": -1,
+        "latitude": 35.383322,
+        "longitude": 32.952595
+    },
+    {
+        "name": "Livádia",
+        "country": "Cyprus",
+        "province": "Ammochostos",
+        "population": -1,
+        "latitude": 35.398783,
+        "longitude": 34.025452
+    },
+    {
+        "name": "Livádia",
+        "country": "Cyprus",
+        "province": "Nicosia",
+        "population": -1,
+        "latitude": 34.945913,
+        "longitude": 33.022191
+    },
+    {
+        "name": "Livadi",
+        "country": "Cyprus",
+        "province": "Pafos",
+        "population": -1,
+        "latitude": 35.102127,
+        "longitude": 32.594049
+    },
+    {
+        "name": "Linoú",
+        "country": "Cyprus",
+        "province": "Nicosia",
+        "population": 216,
+        "latitude": 35.074378,
+        "longitude": 32.892378
+    },
+    {
+        "name": "Limnítis",
+        "country": "Cyprus",
+        "province": "Nicosia",
+        "population": -1,
+        "latitude": 35.167872,
+        "longitude": 32.737173
+    },
+    {
+        "name": "Limniá",
+        "country": "Cyprus",
+        "province": "Ammochostos",
+        "population": -1,
+        "latitude": 35.199593,
+        "longitude": 33.858633
+    },
+    {
+        "name": "Limnátis",
+        "country": "Cyprus",
+        "province": "Limassol",
+        "population": 272,
+        "latitude": 34.813235,
+        "longitude": 32.948143
+    },
+    {
+        "name": "Letymvou",
+        "country": "Cyprus",
+        "province": "Pafos",
+        "population": 249,
+        "latitude": 34.85735,
+        "longitude": 32.513612
+    },
+    {
+        "name": "Lemona",
+        "country": "Cyprus",
+        "province": "Pafos",
+        "population": 51,
+        "latitude": 34.862317,
+        "longitude": 32.557725
+    },
+    {
+        "name": "Lemíthou",
+        "country": "Cyprus",
+        "province": "Limassol",
+        "population": 112,
+        "latitude": 34.949444,
+        "longitude": 32.811361
+    },
+    {
+        "name": "Lempa",
+        "country": "Cyprus",
+        "province": "Pafos",
+        "population": 506,
+        "latitude": 34.808627,
+        "longitude": 32.407904
+    },
+    {
+        "name": "Lazaniás",
+        "country": "Cyprus",
+        "province": "Nicosia",
+        "population": 34,
+        "latitude": 34.948669,
+        "longitude": 33.174646
+    },
+    {
+        "name": "Lasa",
+        "country": "Cyprus",
+        "province": "Pafos",
+        "population": 67,
+        "latitude": 34.924683,
+        "longitude": 32.527702
+    },
+    {
+        "name": "Larnakas tis Lapithou",
+        "country": "Cyprus",
+        "province": "Keryneia",
+        "population": -1,
+        "latitude": 35.3125,
+        "longitude": 33.1416667
+    },
+    {
+        "name": "Lapithiou",
+        "country": "Cyprus",
+        "province": "Pafos",
+        "population": -1,
+        "latitude": 34.904839,
+        "longitude": 32.596474
+    },
+    {
+        "name": "Lápathos",
+        "country": "Cyprus",
+        "province": "Ammochostos",
+        "population": -1,
+        "latitude": 35.270017,
+        "longitude": 33.82587
+    },
+    {
+        "name": "Láneia",
+        "country": "Cyprus",
+        "province": "Limassol",
+        "population": 199,
+        "latitude": 34.824948,
+        "longitude": 32.921452
+    },
+    {
+        "name": "Lagouderá",
+        "country": "Cyprus",
+        "province": "Nicosia",
+        "population": 150,
+        "latitude": 34.962067,
+        "longitude": 33.010091
+    },
+    {
+        "name": "Kythréa",
+        "country": "Cyprus",
+        "province": "Nicosia",
+        "population": -1,
+        "latitude": 35.250414,
+        "longitude": 33.480588
+    },
+    {
+        "name": "Kyrá",
+        "country": "Cyprus",
+        "province": "Nicosia",
+        "population": -1,
+        "latitude": 35.203922,
+        "longitude": 33.060272
+    },
+    {
+        "name": "Kritou Terra",
+        "country": "Cyprus",
+        "province": "Pafos",
+        "population": 86,
+        "latitude": 34.955495,
+        "longitude": 32.421963
+    },
+    {
+        "name": "Kritou Marottou",
+        "country": "Cyprus",
+        "province": "Pafos",
+        "population": 85,
+        "latitude": 34.926848,
+        "longitude": 32.562634
+    },
+    {
+        "name": "Kriní",
+        "country": "Cyprus",
+        "province": "Keryneia",
+        "population": -1,
+        "latitude": 35.288015,
+        "longitude": 33.237472
+    },
+    {
+        "name": "Krídeia",
+        "country": "Cyprus",
+        "province": "Ammochostos",
+        "population": -1,
+        "latitude": 35.395325,
+        "longitude": 33.972906
+    },
+    {
+        "name": "Kourtaka",
+        "country": "Cyprus",
+        "province": "Pafos",
+        "population": 7,
+        "latitude": 34.8585,
+        "longitude": 32.540526
+    },
+    {
+        "name": "Kouroú Monastíri",
+        "country": "Cyprus",
+        "province": "Nicosia",
+        "population": -1,
+        "latitude": 35.223993,
+        "longitude": 33.555718
+    },
+    {
+        "name": "Koúklia",
+        "country": "Cyprus",
+        "province": "Ammochostos",
+        "population": -1,
+        "latitude": 35.108523,
+        "longitude": 33.750679
+    },
+    {
+        "name": "Kouklia",
+        "country": "Cyprus",
+        "province": "Pafos",
+        "population": 892,
+        "latitude": 34.709865,
+        "longitude": 32.57331
+    },
+    {
+        "name": "Kouká",
+        "country": "Cyprus",
+        "province": "Limassol",
+        "population": 4,
+        "latitude": 34.851222,
+        "longitude": 32.887917
+    },
+    {
+        "name": "Korfí",
+        "country": "Cyprus",
+        "province": "Limassol",
+        "population": 173,
+        "latitude": 34.795915,
+        "longitude": 32.964847
+    },
+    {
+        "name": "Kornókipos",
+        "country": "Cyprus",
+        "province": "Ammochostos",
+        "population": -1,
+        "latitude": 35.282789,
+        "longitude": 33.573017
+    },
+    {
+        "name": "Kormakítis",
+        "country": "Cyprus",
+        "province": "Keryneia",
+        "population": -1,
+        "latitude": 35.342971,
+        "longitude": 33.009964
+    },
+    {
+        "name": "Korákou",
+        "country": "Cyprus",
+        "province": "Nicosia",
+        "population": 521,
+        "latitude": 35.041084,
+        "longitude": 32.887368
+    },
+    {
+        "name": "Kontéa",
+        "country": "Cyprus",
+        "province": "Ammochostos",
+        "population": -1,
+        "latitude": 35.102701,
+        "longitude": 33.715825
+    },
+    {
+        "name": "Kómi",
+        "country": "Cyprus",
+        "province": "Ammochostos",
+        "population": -1,
+        "latitude": 35.410506,
+        "longitude": 33.996184
+    },
+    {
+        "name": "Kókkina",
+        "country": "Cyprus",
+        "province": "Nicosia",
+        "population": -1,
+        "latitude": 35.177467,
+        "longitude": 32.611974
+    },
+    {
+        "name": "Kotsiatis",
+        "country": "Cyprus",
+        "province": "Nicosia",
+        "population": 122,
+        "latitude": 35.013207,
+        "longitude": 33.350053
+    },
+    {
+        "name": "Klonári",
+        "country": "Cyprus",
+        "province": "Limassol",
+        "population": 18,
+        "latitude": 34.825878,
+        "longitude": 33.181378
+    },
+    {
+        "name": "Klepíni",
+        "country": "Cyprus",
+        "province": "Keryneia",
+        "population": -1,
+        "latitude": 35.306459,
+        "longitude": 33.435345
+    },
+    {
+        "name": "Kidasi",
+        "country": "Cyprus",
+        "province": "Pafos",
+        "population": 11,
+        "latitude": 34.807271,
+        "longitude": 32.713313
+    },
+    {
+        "name": "Kissoúsa",
+        "country": "Cyprus",
+        "province": "Limassol",
+        "population": 4,
+        "latitude": 34.810778,
+        "longitude": 32.794806
+    },
+    {
+        "name": "Kinousa",
+        "country": "Cyprus",
+        "province": "Pafos",
+        "population": 71,
+        "latitude": 35.032259,
+        "longitude": 32.507597
+    },
+    {
+        "name": "Kilinia",
+        "country": "Cyprus",
+        "province": "Pafos",
+        "population": 39,
+        "latitude": 34.883521,
+        "longitude": 32.6317
+    },
+    {
+        "name": "Koili",
+        "country": "Cyprus",
+        "province": "Pafos",
+        "population": 466,
+        "latitude": 34.859566,
+        "longitude": 32.455144
+    },
+    {
+        "name": "Chrysochou",
+        "country": "Cyprus",
+        "province": "Pafos",
+        "population": 132,
+        "latitude": 35.003837,
+        "longitude": 32.439767
+    },
+    {
+        "name": "Choúlou",
+        "country": "Cyprus",
+        "province": "Pafos",
+        "population": 147,
+        "latitude": 34.87257,
+        "longitude": 32.558219
+    },
+    {
+        "name": "Chóli",
+        "country": "Cyprus",
+        "province": "Pafos",
+        "population": -1,
+        "latitude": 34.979781,
+        "longitude": 32.443293
+    },
+    {
+        "name": "Choletria",
+        "country": "Cyprus",
+        "province": "Pafos",
+        "population": 252,
+        "latitude": 34.763227,
+        "longitude": 32.5988
+    },
+    {
+        "name": "Chandriá",
+        "country": "Cyprus",
+        "province": "Limassol",
+        "population": 214,
+        "latitude": 34.943895,
+        "longitude": 32.993869
+    },
+    {
+        "name": "Challéri",
+        "country": "Cyprus",
+        "province": "Nicosia",
+        "population": -1,
+        "latitude": 35.169878,
+        "longitude": 32.661186
+    },
+    {
+        "name": "Kelokedara",
+        "country": "Cyprus",
+        "province": "Pafos",
+        "population": 193,
+        "latitude": 34.81242,
+        "longitude": 32.651561
+    },
+    {
+        "name": "Kelláki",
+        "country": "Cyprus",
+        "province": "Limassol",
+        "population": 282,
+        "latitude": 34.816475,
+        "longitude": 33.158306
+    },
+    {
+        "name": "Kedares",
+        "country": "Cyprus",
+        "province": "Pafos",
+        "population": 80,
+        "latitude": 34.83629,
+        "longitude": 32.736474
+    },
+    {
+        "name": "Ozankoy",
+        "country": "Cyprus",
+        "province": "Keryneia",
+        "population": -1,
+        "latitude": 35.3166667,
+        "longitude": 33.35
+    },
+    {
+        "name": "Káto Gialiá",
+        "country": "Cyprus",
+        "province": "Pafos",
+        "population": -1,
+        "latitude": 35.118245,
+        "longitude": 32.513874
+    },
+    {
+        "name": "Káto Plátres",
+        "country": "Cyprus",
+        "province": "Limassol",
+        "population": 143,
+        "latitude": 34.878194,
+        "longitude": 32.839556
+    },
+    {
+        "name": "Káto Mýlos",
+        "country": "Cyprus",
+        "province": "Limassol",
+        "population": 66,
+        "latitude": 34.895261,
+        "longitude": 33.005959
+    },
+    {
+        "name": "Káto Moní",
+        "country": "Cyprus",
+        "province": "Nicosia",
+        "population": 325,
+        "latitude": 35.060543,
+        "longitude": 33.094075
+    },
+    {
+        "name": "Kato Lefkara",
+        "country": "Cyprus",
+        "province": "Larnaka",
+        "population": 123,
+        "latitude": 34.862469,
+        "longitude": 33.31677
+    },
+    {
+        "name": "Káto Lakatámeia",
+        "country": "Cyprus",
+        "province": "Nicosia",
+        "population": -1,
+        "latitude": 35.117546,
+        "longitude": 33.325388
+    },
+    {
+        "name": "Káto Kivídes",
+        "country": "Cyprus",
+        "province": "Limassol",
+        "population": -1,
+        "latitude": 34.764702,
+        "longitude": 32.863789
+    },
+    {
+        "name": "Kato Arodes",
+        "country": "Cyprus",
+        "province": "Pafos",
+        "population": 39,
+        "latitude": 34.940668,
+        "longitude": 32.402294
+    },
+    {
+        "name": "Káto Archimandríta",
+        "country": "Cyprus",
+        "province": "Pafos",
+        "population": -1,
+        "latitude": 34.735351,
+        "longitude": 32.678787
+    },
+    {
+        "name": "Káto Amíantos",
+        "country": "Cyprus",
+        "province": "Limassol",
+        "population": 229,
+        "latitude": 34.917222,
+        "longitude": 32.935806
+    },
+    {
+        "name": "Kato Akourdhalia",
+        "country": "Cyprus",
+        "province": "Pafos",
+        "population": 65,
+        "latitude": 34.952679,
+        "longitude": 32.451209
+    },
+    {
+        "name": "Kathikas",
+        "country": "Cyprus",
+        "province": "Pafos",
+        "population": 438,
+        "latitude": 34.912535,
+        "longitude": 32.425714
+    },
+    {
+        "name": "Katalióntas",
+        "country": "Cyprus",
+        "province": "Nicosia",
+        "population": -1,
+        "latitude": 34.990727,
+        "longitude": 33.297798
+    },
+    {
+        "name": "Karpáseia",
+        "country": "Cyprus",
+        "province": "Keryneia",
+        "population": -1,
+        "latitude": 35.297825,
+        "longitude": 33.070035
+    },
+    {
+        "name": "Kármi",
+        "country": "Cyprus",
+        "province": "Keryneia",
+        "population": -1,
+        "latitude": 35.318168,
+        "longitude": 33.255598
+    },
+    {
+        "name": "Karavás",
+        "country": "Cyprus",
+        "province": "Keryneia",
+        "population": -1,
+        "latitude": 35.341395,
+        "longitude": 33.195925
+    },
+    {
+        "name": "Karamoullides",
+        "country": "Cyprus",
+        "province": "Pafos",
+        "population": 33,
+        "latitude": 34.999454,
+        "longitude": 32.443022
+    },
+    {
+        "name": "Karákoumi",
+        "country": "Cyprus",
+        "province": "Keryneia",
+        "population": -1,
+        "latitude": 35.333969,
+        "longitude": 33.347797
+    },
+    {
+        "name": "Kapédes",
+        "country": "Cyprus",
+        "province": "Nicosia",
+        "population": -1,
+        "latitude": 34.975883,
+        "longitude": 33.25371
+    },
+    {
+        "name": "Kantára",
+        "country": "Cyprus",
+        "province": "Ammochostos",
+        "population": -1,
+        "latitude": 35.388467,
+        "longitude": 33.898833
+    },
+    {
+        "name": "Kannaviou",
+        "country": "Cyprus",
+        "province": "Pafos",
+        "population": 175,
+        "latitude": 34.916246,
+        "longitude": 32.575424
+    },
+    {
+        "name": "Kannávia",
+        "country": "Cyprus",
+        "province": "Nicosia",
+        "population": 194,
+        "latitude": 34.983118,
+        "longitude": 32.976879
+    },
+    {
+        "name": "Kanlí",
+        "country": "Cyprus",
+        "province": "Nicosia",
+        "population": -1,
+        "latitude": 35.221675,
+        "longitude": 33.259636
+    },
+    {
+        "name": "Kantoú",
+        "country": "Cyprus",
+        "province": "Limassol",
+        "population": 465,
+        "latitude": 34.690261,
+        "longitude": 32.906737
+    },
+    {
+        "name": "Kampos",
+        "country": "Cyprus",
+        "province": "Nicosia",
+        "population": 445,
+        "latitude": 35.040257,
+        "longitude": 32.732423
+    },
+    {
+        "name": "Kampí",
+        "country": "Cyprus",
+        "province": "Nicosia",
+        "population": 95,
+        "latitude": 34.90855,
+        "longitude": 33.12903
+    },
+    {
+        "name": "Kalyvákia",
+        "country": "Cyprus",
+        "province": "Nicosia",
+        "population": -1,
+        "latitude": 35.258223,
+        "longitude": 33.548369
+    },
+    {
+        "name": "Kalopsída",
+        "country": "Cyprus",
+        "province": "Ammochostos",
+        "population": -1,
+        "latitude": 35.096356,
+        "longitude": 33.794047
+    },
+    {
+        "name": "Kalopanagiótis",
+        "country": "Cyprus",
+        "province": "Nicosia",
+        "population": 300,
+        "latitude": 34.990431,
+        "longitude": 32.827315
+    },
+    {
+        "name": "Kaló Chorió",
+        "country": "Cyprus",
+        "province": "Limassol",
+        "population": -1,
+        "latitude": 34.850162,
+        "longitude": 33.031077
+    },
+    {
+        "name": "Kallepia",
+        "country": "Cyprus",
+        "province": "Pafos",
+        "population": 326,
+        "latitude": 34.845555,
+        "longitude": 32.500093
+    },
+    {
+        "name": "Kaliána",
+        "country": "Cyprus",
+        "province": "Nicosia",
+        "population": 195,
+        "latitude": 35.010672,
+        "longitude": 32.883507
+    },
+    {
+        "name": "Kalavasos",
+        "country": "Cyprus",
+        "province": "Larnaka",
+        "population": 666,
+        "latitude": 34.758401,
+        "longitude": 33.307982
+    },
+    {
+        "name": "Kaimakli",
+        "country": "Cyprus",
+        "province": "Nicosia",
+        "population": -1,
+        "latitude": 35.184965,
+        "longitude": 33.385098
+    },
+    {
+        "name": "Istinjon",
+        "country": "Cyprus",
+        "province": "Pafos",
+        "population": -1,
+        "latitude": 34.975055,
+        "longitude": 32.52727
+    },
+    {
+        "name": "Inia",
+        "country": "Cyprus",
+        "province": "Pafos",
+        "population": 385,
+        "latitude": 34.956116,
+        "longitude": 32.393394
+    },
+    {
+        "name": "Goúrri",
+        "country": "Cyprus",
+        "province": "Nicosia",
+        "population": 235,
+        "latitude": 34.957436,
+        "longitude": 33.157817
+    },
+    {
+        "name": "Goudi",
+        "country": "Cyprus",
+        "province": "Pafos",
+        "population": 163,
+        "latitude": 34.992171,
+        "longitude": 32.44197
+    },
+    {
+        "name": "Kióneli",
+        "country": "Cyprus",
+        "province": "Nicosia",
+        "population": -1,
+        "latitude": 35.210825,
+        "longitude": 33.309495
+    },
+    {
+        "name": "Gastriá",
+        "country": "Cyprus",
+        "province": "Ammochostos",
+        "population": -1,
+        "latitude": 35.34274,
+        "longitude": 33.999869
+    },
+    {
+        "name": "Galinóporni",
+        "country": "Cyprus",
+        "province": "Ammochostos",
+        "population": -1,
+        "latitude": 35.522265,
+        "longitude": 34.301802
+    },
+    {
+        "name": "Galiní",
+        "country": "Cyprus",
+        "province": "Nicosia",
+        "population": -1,
+        "latitude": 35.135805,
+        "longitude": 32.767037
+    },
+    {
+        "name": "Galáteia",
+        "country": "Cyprus",
+        "province": "Ammochostos",
+        "population": -1,
+        "latitude": 35.422713,
+        "longitude": 34.071322
+    },
+    {
+        "name": "Galataria",
+        "country": "Cyprus",
+        "province": "Pafos",
+        "population": -1,
+        "latitude": 34.8773662,
+        "longitude": 32.63171023
+    },
+    {
+        "name": "Galáta",
+        "country": "Cyprus",
+        "province": "Nicosia",
+        "population": 679,
+        "latitude": 34.996993,
+        "longitude": 32.899304
+    },
+    {
+        "name": "Aglantzia",
+        "country": "Cyprus",
+        "province": "Nicosia",
+        "population": -1,
+        "latitude": 35.154222,
+        "longitude": 33.39643
+    },
+    {
+        "name": "Evrýchou",
+        "country": "Cyprus",
+        "province": "Nicosia",
+        "population": 855,
+        "latitude": 35.041363,
+        "longitude": 32.902291
+    },
+    {
+        "name": "Evretou",
+        "country": "Cyprus",
+        "province": "Pafos",
+        "population": 5,
+        "latitude": 34.95706,
+        "longitude": 32.488142
+    },
+    {
+        "name": "Avdímou",
+        "country": "Cyprus",
+        "province": "Limassol",
+        "population": 641,
+        "latitude": 34.694056,
+        "longitude": 32.762633
+    },
+    {
+        "name": "Episkopeió",
+        "country": "Cyprus",
+        "province": "Nicosia",
+        "population": 533,
+        "latitude": 35.042591,
+        "longitude": 33.24578
+    },
+    {
+        "name": "Episkopi",
+        "country": "Cyprus",
+        "province": "Pafos",
+        "population": -1,
+        "latitude": 34.795846,
+        "longitude": 32.526381
+    },
+    {
+        "name": "Epichó",
+        "country": "Cyprus",
+        "province": "Nicosia",
+        "population": -1,
+        "latitude": 35.228191,
+        "longitude": 33.512562
+    },
+    {
+        "name": "Eptakómi",
+        "country": "Cyprus",
+        "province": "Ammochostos",
+        "population": -1,
+        "latitude": 35.44653,
+        "longitude": 34.031796
+    },
+    {
+        "name": "Eptagóneia",
+        "country": "Cyprus",
+        "province": "Limassol",
+        "population": 343,
+        "latitude": 34.8472,
+        "longitude": 33.157789
+    },
+    {
+        "name": "Égkomi",
+        "country": "Cyprus",
+        "province": "Ammochostos",
+        "population": -1,
+        "latitude": 35.162717,
+        "longitude": 33.883222
+    },
+    {
+        "name": "Eledio",
+        "country": "Cyprus",
+        "province": "Pafos",
+        "population": 23,
+        "latitude": 34.809479,
+        "longitude": 32.567553
+    },
+    {
+        "name": "Eliá",
+        "country": "Cyprus",
+        "province": "Keryneia",
+        "population": -1,
+        "latitude": 35.332245,
+        "longitude": 33.21933
+    },
+    {
+        "name": "Drápeia",
+        "country": "Cyprus",
+        "province": "Larnaka",
+        "population": -1,
+        "latitude": 34.802306,
+        "longitude": 33.279611
+    },
+    {
+        "name": "Dýo Potamoí",
+        "country": "Cyprus",
+        "province": "Nicosia",
+        "population": -1,
+        "latitude": 35.245833,
+        "longitude": 33.095833
+    },
+    {
+        "name": "Dhrymou",
+        "country": "Cyprus",
+        "province": "Pafos",
+        "population": 110,
+        "latitude": 34.92545396,
+        "longitude": 32.51344364
+    },
+    {
+        "name": "Dhrousha",
+        "country": "Cyprus",
+        "province": "Pafos",
+        "population": 403,
+        "latitude": 34.961112,
+        "longitude": 32.397648
+    },
+    {
+        "name": "Drinia",
+        "country": "Cyprus",
+        "province": "Pafos",
+        "population": -1,
+        "latitude": 34.915691,
+        "longitude": 32.529478
+    },
+    {
+        "name": "Dorós",
+        "country": "Cyprus",
+        "province": "Limassol",
+        "population": 104,
+        "latitude": 34.815335,
+        "longitude": 32.908937
+    },
+    {
+        "name": "Dorá",
+        "country": "Cyprus",
+        "province": "Limassol",
+        "population": 192,
+        "latitude": 34.780724,
+        "longitude": 32.738254
+    },
+    {
+        "name": "Diórios",
+        "country": "Cyprus",
+        "province": "Keryneia",
+        "population": -1,
+        "latitude": 35.305745,
+        "longitude": 33.054767
+    },
+    {
+        "name": "Dieróna",
+        "country": "Cyprus",
+        "province": "Limassol",
+        "population": 279,
+        "latitude": 34.829899,
+        "longitude": 33.111086
+    },
+    {
+        "name": "Déneia",
+        "country": "Cyprus",
+        "province": "Nicosia",
+        "population": 317,
+        "latitude": 35.166749,
+        "longitude": 33.145994
+    },
+    {
+        "name": "Davlós",
+        "country": "Cyprus",
+        "province": "Ammochostos",
+        "population": -1,
+        "latitude": 35.421542,
+        "longitude": 33.905209
+    },
+    {
+        "name": "Kiádos",
+        "country": "Cyprus",
+        "province": "Ammochostos",
+        "population": -1,
+        "latitude": 35.254717,
+        "longitude": 33.601194
+    },
+    {
+        "name": "Tsakístra",
+        "country": "Cyprus",
+        "province": "Nicosia",
+        "population": 112,
+        "latitude": 35.025063,
+        "longitude": 32.722548
+    },
+    {
+        "name": "Bogázi",
+        "country": "Cyprus",
+        "province": "Ammochostos",
+        "population": -1,
+        "latitude": 35.313641,
+        "longitude": 33.952536
+    },
+    {
+        "name": "Béïkioï",
+        "country": "Cyprus",
+        "province": "Nicosia",
+        "population": -1,
+        "latitude": 35.236849,
+        "longitude": 33.501982
+    },
+    {
+        "name": "Ayios Vasilios",
+        "country": "Cyprus",
+        "province": "Nicosia",
+        "population": -1,
+        "latitude": 35.2184170160044,
+        "longitude": 33.1837749481201
+    },
+    {
+        "name": "Ágios Thomás",
+        "country": "Cyprus",
+        "province": "Limassol",
+        "population": 30,
+        "latitude": 34.71618,
+        "longitude": 32.72546
+    },
+    {
+        "name": "Ágios Theódoros",
+        "country": "Cyprus",
+        "province": "Nicosia",
+        "population": -1,
+        "latitude": 35.042264,
+        "longitude": 32.927854
+    },
+    {
+        "name": "Ágios Symeón",
+        "country": "Cyprus",
+        "province": "Ammochostos",
+        "population": -1,
+        "latitude": 35.490952,
+        "longitude": 34.218528
+    },
+    {
+        "name": "Ágios Fótios",
+        "country": "Cyprus",
+        "province": "Pafos",
+        "population": -1,
+        "latitude": 34.873925,
+        "longitude": 32.612622
+    },
+    {
+        "name": "Ágios Pávlos",
+        "country": "Cyprus",
+        "province": "Limassol",
+        "population": 157,
+        "latitude": 34.86387,
+        "longitude": 33.045969
+    },
+    {
+        "name": "Ágios Nikólaos",
+        "country": "Cyprus",
+        "province": "Ammochostos",
+        "population": -1,
+        "latitude": 35.32885,
+        "longitude": 33.677973
+    },
+    {
+        "name": "Ágios Mámas",
+        "country": "Cyprus",
+        "province": "Limassol",
+        "population": 110,
+        "latitude": 34.851167,
+        "longitude": 32.948861
+    },
+    {
+        "name": "Ágios Konstantínos",
+        "country": "Cyprus",
+        "province": "Limassol",
+        "population": 169,
+        "latitude": 34.867049,
+        "longitude": 33.066503
+    },
+    {
+        "name": "Ágios Ioánnis",
+        "country": "Cyprus",
+        "province": "Nicosia",
+        "population": -1,
+        "latitude": 35.065308,
+        "longitude": 33.183959
+    },
+    {
+        "name": "Ágios Ioánnis",
+        "country": "Cyprus",
+        "province": "Limassol",
+        "population": -1,
+        "latitude": 34.895751,
+        "longitude": 33.022055
+    },
+    {
+        "name": "Ayios Dhometios",
+        "country": "Cyprus",
+        "province": "Nicosia",
+        "population": -1,
+        "latitude": 35.173462,
+        "longitude": 33.340452
+    },
+    {
+        "name": "Ágios Andrónikos",
+        "country": "Cyprus",
+        "province": "Ammochostos",
+        "population": -1,
+        "latitude": 35.502422,
+        "longitude": 34.16173
+    },
+    {
+        "name": "Agía Varvára",
+        "country": "Cyprus",
+        "province": "Nicosia",
+        "population": -1,
+        "latitude": 34.996857,
+        "longitude": 33.369455
+    },
+    {
+        "name": "Agia Varvara",
+        "country": "Cyprus",
+        "province": "Pafos",
+        "population": 172,
+        "latitude": 34.750734,
+        "longitude": 32.511593
+    },
+    {
+        "name": "Agía Marína",
+        "country": "Cyprus",
+        "province": "Nicosia",
+        "population": -1,
+        "latitude": 35.050298,
+        "longitude": 33.057057
+    },
+    {
+        "name": "Agía Marína",
+        "country": "Cyprus",
+        "province": "Pafos",
+        "population": -1,
+        "latitude": 34.828796,
+        "longitude": 32.614051
+    },
+    {
+        "name": "Agía Eiríni",
+        "country": "Cyprus",
+        "province": "Nicosia",
+        "population": 51,
+        "latitude": 34.981235,
+        "longitude": 32.969507
+    },
+    {
+        "name": "Agiá",
+        "country": "Cyprus",
+        "province": "Nicosia",
+        "population": -1,
+        "latitude": 35.109122,
+        "longitude": 33.56413
+    },
+    {
+        "name": "Athrakós",
+        "country": "Cyprus",
+        "province": "Limassol",
+        "population": -1,
+        "latitude": 34.851412,
+        "longitude": 33.049075
+    },
+    {
+        "name": "Asómatos",
+        "country": "Cyprus",
+        "province": "Keryneia",
+        "population": -1,
+        "latitude": 35.275491,
+        "longitude": 33.107545
+    },
+    {
+        "name": "Asómatos",
+        "country": "Cyprus",
+        "province": "Limassol",
+        "population": 403,
+        "latitude": 34.637739,
+        "longitude": 32.95963
+    },
+    {
+        "name": "Askás",
+        "country": "Cyprus",
+        "province": "Nicosia",
+        "population": 195,
+        "latitude": 34.929658,
+        "longitude": 33.077781
+    },
+    {
+        "name": "Asgáta",
+        "country": "Cyprus",
+        "province": "Limassol",
+        "population": 406,
+        "latitude": 34.779306,
+        "longitude": 33.255306
+    },
+    {
+        "name": "Artémi",
+        "country": "Cyprus",
+        "province": "Ammochostos",
+        "population": -1,
+        "latitude": 35.32056,
+        "longitude": 33.710542
+    },
+    {
+        "name": "Yiğitler",
+        "country": "Cyprus",
+        "province": "Larnaka",
+        "population": -1,
+        "latitude": 35.0901,
+        "longitude": 33.62815
+    },
+    {
+        "name": "Ársos",
+        "country": "Cyprus",
+        "province": "Limassol",
+        "population": -1,
+        "latitude": 34.841235,
+        "longitude": 32.769379
+    },
+    {
+        "name": "Arnadí",
+        "country": "Cyprus",
+        "province": "Ammochostos",
+        "population": -1,
+        "latitude": 35.236629,
+        "longitude": 33.86048
+    },
+    {
+        "name": "Armou",
+        "country": "Cyprus",
+        "province": "Pafos",
+        "population": 357,
+        "latitude": 34.799393,
+        "longitude": 32.478508
+    },
+    {
+        "name": "Arminou",
+        "country": "Cyprus",
+        "province": "Pafos",
+        "population": 27,
+        "latitude": 34.862287,
+        "longitude": 32.719869
+    },
+    {
+        "name": "Argáki",
+        "country": "Cyprus",
+        "province": "Nicosia",
+        "population": -1,
+        "latitude": 35.179875,
+        "longitude": 33.035154
+    },
+    {
+        "name": "Árdana",
+        "country": "Cyprus",
+        "province": "Ammochostos",
+        "population": -1,
+        "latitude": 35.356641,
+        "longitude": 33.885925
+    },
+    {
+        "name": "Arakapás",
+        "country": "Cyprus",
+        "province": "Limassol",
+        "population": 304,
+        "latitude": 34.843787,
+        "longitude": 33.112119
+    },
+    {
+        "name": "Aplíki",
+        "country": "Cyprus",
+        "province": "Nicosia",
+        "population": -1,
+        "latitude": 35.10041,
+        "longitude": 32.849073
+    },
+    {
+        "name": "Aplíki",
+        "country": "Cyprus",
+        "province": "Nicosia",
+        "population": 83,
+        "latitude": 34.930644,
+        "longitude": 33.117484
+    },
+    {
+        "name": "Aplanta",
+        "country": "Cyprus",
+        "province": "Larnaka",
+        "population": -1,
+        "latitude": 34.829625,
+        "longitude": 33.475503
+    },
+    {
+        "name": "Anógyra",
+        "country": "Cyprus",
+        "province": "Limassol",
+        "population": 255,
+        "latitude": 34.739693,
+        "longitude": 32.734529
+    },
+    {
+        "name": "Angolémi",
+        "country": "Cyprus",
+        "province": "Nicosia",
+        "population": -1,
+        "latitude": 35.118096,
+        "longitude": 32.948347
+    },
+    {
+        "name": "Angastína",
+        "country": "Cyprus",
+        "province": "Ammochostos",
+        "population": -1,
+        "latitude": 35.203297,
+        "longitude": 33.587789
+    },
+    {
+        "name": "Anágeia",
+        "country": "Cyprus",
+        "province": "Nicosia",
+        "population": -1,
+        "latitude": 35.075571,
+        "longitude": 33.254266
+    },
+    {
+        "name": "Anavargos",
+        "country": "Cyprus",
+        "province": "Pafos",
+        "population": -1,
+        "latitude": 34.795708,
+        "longitude": 32.450696
+    },
+    {
+        "name": "Anarita",
+        "country": "Cyprus",
+        "province": "Pafos",
+        "population": 876,
+        "latitude": 34.740566,
+        "longitude": 32.533752
+    },
+    {
+        "name": "Analióntas",
+        "country": "Cyprus",
+        "province": "Nicosia",
+        "population": 313,
+        "latitude": 35.006728,
+        "longitude": 33.289983
+    },
+    {
+        "name": "Ampelikoú",
+        "country": "Cyprus",
+        "province": "Nicosia",
+        "population": -1,
+        "latitude": 35.120304,
+        "longitude": 32.803962
+    },
+    {
+        "name": "Álona",
+        "country": "Cyprus",
+        "province": "Nicosia",
+        "population": 134,
+        "latitude": 34.933688,
+        "longitude": 33.040255
+    },
+    {
+        "name": "Alóda",
+        "country": "Cyprus",
+        "province": "Ammochostos",
+        "population": -1,
+        "latitude": 35.21068,
+        "longitude": 33.82661
+    },
+    {
+        "name": "Alithinoú",
+        "country": "Cyprus",
+        "province": "Nicosia",
+        "population": 9,
+        "latitude": 34.946076,
+        "longitude": 33.03308
+    },
+    {
+        "name": "Aléktora",
+        "country": "Cyprus",
+        "province": "Limassol",
+        "population": 80,
+        "latitude": 34.709339,
+        "longitude": 32.683469
+    },
+    {
+        "name": "Akroúnta",
+        "country": "Cyprus",
+        "province": "Limassol",
+        "population": 360,
+        "latitude": 34.765199,
+        "longitude": 33.08162
+    },
+    {
+        "name": "Akanthoú",
+        "country": "Cyprus",
+        "province": "Ammochostos",
+        "population": -1,
+        "latitude": 35.37394,
+        "longitude": 33.753024
+    },
+    {
+        "name": "Agrós",
+        "country": "Cyprus",
+        "province": "Limassol",
+        "population": 874,
+        "latitude": 34.917836,
+        "longitude": 33.018107
+    },
+    {
+        "name": "Agroládou",
+        "country": "Cyprus",
+        "province": "Nicosia",
+        "population": -1,
+        "latitude": 35.048595,
+        "longitude": 32.896987
+    },
+    {
+        "name": "Agrokipiá",
+        "country": "Cyprus",
+        "province": "Nicosia",
+        "population": 450,
+        "latitude": 35.043605,
+        "longitude": 33.15788
+    },
+    {
+        "name": "Agrídia",
+        "country": "Cyprus",
+        "province": "Limassol",
+        "population": 126,
+        "latitude": 34.928281,
+        "longitude": 32.994731
+    },
+    {
+        "name": "Zoopigí",
+        "country": "Cyprus",
+        "province": "Limassol",
+        "population": 207,
+        "latitude": 34.863218,
+        "longitude": 33.015797
+    },
+    {
+        "name": "Zakaki",
+        "country": "Cyprus",
+        "province": "Limassol",
+        "population": -1,
+        "latitude": 34.658645,
+        "longitude": 33.002596
+    },
+    {
+        "name": "Giolou",
+        "country": "Cyprus",
+        "province": "Pafos",
+        "population": 764,
+        "latitude": 34.924159,
+        "longitude": 32.474695
+    },
+    {
+        "name": "Yialia",
+        "country": "Cyprus",
+        "province": "Pafos",
+        "population": 148,
+        "latitude": 35.103238,
+        "longitude": 32.502832
+    },
+    {
+        "name": "Gerovása",
+        "country": "Cyprus",
+        "province": "Limassol",
+        "population": -1,
+        "latitude": 34.812846,
+        "longitude": 32.7393
+    },
+    {
+        "name": "Gerólakkos",
+        "country": "Cyprus",
+        "province": "Nicosia",
+        "population": -1,
+        "latitude": 35.181379,
+        "longitude": 33.252746
+    },
+    {
+        "name": "Germasogeia",
+        "country": "Cyprus",
+        "province": "Limassol",
+        "population": -1,
+        "latitude": 34.720727,
+        "longitude": 33.084471
+    },
+    {
+        "name": "Gerása",
+        "country": "Cyprus",
+        "province": "Limassol",
+        "population": 85,
+        "latitude": 34.802528,
+        "longitude": 32.998
+    },
+    {
+        "name": "Geráni",
+        "country": "Cyprus",
+        "province": "Ammochostos",
+        "population": -1,
+        "latitude": 35.359184,
+        "longitude": 33.922274
+    },
+    {
+        "name": "Gerakiés",
+        "country": "Cyprus",
+        "province": "Nicosia",
+        "population": 128,
+        "latitude": 35.000106,
+        "longitude": 32.805072
+    },
+    {
+        "name": "Génagra",
+        "country": "Cyprus",
+        "province": "Ammochostos",
+        "population": -1,
+        "latitude": 35.217428,
+        "longitude": 33.698099
+    },
+    {
+        "name": "Xerós",
+        "country": "Cyprus",
+        "province": "Nicosia",
+        "population": -1,
+        "latitude": 35.13952,
+        "longitude": 32.834312
+    },
+    {
+        "name": "Vretsia",
+        "country": "Cyprus",
+        "province": "Pafos",
+        "population": -1,
+        "latitude": 34.889888,
+        "longitude": 32.658821
+    },
+    {
+        "name": "Vouní",
+        "country": "Cyprus",
+        "province": "Limassol",
+        "population": 142,
+        "latitude": 34.824017,
+        "longitude": 32.834166
+    },
+    {
+        "name": "Vóni",
+        "country": "Cyprus",
+        "province": "Nicosia",
+        "population": -1,
+        "latitude": 35.230425,
+        "longitude": 33.49606
+    },
+    {
+        "name": "Vokolída",
+        "country": "Cyprus",
+        "province": "Ammochostos",
+        "population": -1,
+        "latitude": 35.379616,
+        "longitude": 34.071424
+    },
+    {
+        "name": "Vitsáda",
+        "country": "Cyprus",
+        "province": "Ammochostos",
+        "population": -1,
+        "latitude": 35.244332,
+        "longitude": 33.646593
+    },
+    {
+        "name": "Víkla",
+        "country": "Cyprus",
+        "province": "Limassol",
+        "population": -1,
+        "latitude": 34.827074,
+        "longitude": 33.195451
+    },
+    {
+        "name": "Vavla",
+        "country": "Cyprus",
+        "province": "Larnaka",
+        "population": 50,
+        "latitude": 34.841626,
+        "longitude": 33.268799
+    },
+    {
+        "name": "Vavatsinia",
+        "country": "Cyprus",
+        "province": "Larnaka",
+        "population": 89,
+        "latitude": 34.893474,
+        "longitude": 33.228507
+    },
+    {
+        "name": "Vatilí",
+        "country": "Cyprus",
+        "province": "Ammochostos",
+        "population": -1,
+        "latitude": 35.13344,
+        "longitude": 33.655615
+    },
+    {
+        "name": "Vasíleia",
+        "country": "Cyprus",
+        "province": "Keryneia",
+        "population": -1,
+        "latitude": 35.344937,
+        "longitude": 33.124158
+    },
+    {
+        "name": "Vasíli",
+        "country": "Cyprus",
+        "province": "Ammochostos",
+        "population": -1,
+        "latitude": 35.472826,
+        "longitude": 34.150611
+    },
+    {
+        "name": "Varíseia",
+        "country": "Cyprus",
+        "province": "Nicosia",
+        "population": -1,
+        "latitude": 35.130306,
+        "longitude": 32.749775
+    },
+    {
+        "name": "Týmvou",
+        "country": "Cyprus",
+        "province": "Nicosia",
+        "population": -1,
+        "latitude": 35.133384,
+        "longitude": 33.511442
+    },
+    {
+        "name": "Trypiméni",
+        "country": "Cyprus",
+        "province": "Ammochostos",
+        "population": -1,
+        "latitude": 35.309992,
+        "longitude": 33.633576
+    },
+    {
+        "name": "Treís Eliés",
+        "country": "Cyprus",
+        "province": "Limassol",
+        "population": 68,
+        "latitude": 34.931128,
+        "longitude": 32.794187
+    },
+    {
+        "name": "Trimíklini",
+        "country": "Cyprus",
+        "province": "Limassol",
+        "population": 174,
+        "latitude": 34.847222,
+        "longitude": 32.91225
+    },
+    {
+        "name": "Trikoukkiá",
+        "country": "Cyprus",
+        "province": "Limassol",
+        "population": -1,
+        "latitude": 34.937016,
+        "longitude": 32.838847
+    },
+    {
+        "name": "Trápeza",
+        "country": "Cyprus",
+        "province": "Keryneia",
+        "population": -1,
+        "latitude": 35.308226,
+        "longitude": 33.469637
+    },
+    {
+        "name": "Trachóni",
+        "country": "Cyprus",
+        "province": "Limassol",
+        "population": -1,
+        "latitude": 35.224373,
+        "longitude": 33.478578
+    },
+    {
+        "name": "Tráchonas",
+        "country": "Cyprus",
+        "province": "Nicosia",
+        "population": -1,
+        "latitude": 35.196359,
+        "longitude": 33.359774
+    },
+    {
+        "name": "Tochni",
+        "country": "Cyprus",
+        "province": "Larnaka",
+        "population": 336,
+        "latitude": 34.780965,
+        "longitude": 33.323575
+    },
+    {
+        "name": "Timi",
+        "country": "Cyprus",
+        "province": "Pafos",
+        "population": 939,
+        "latitude": 34.73177,
+        "longitude": 32.516129
+    },
+    {
+        "name": "Zanakiá",
+        "country": "Cyprus",
+        "province": "Limassol",
+        "population": -1,
+        "latitude": 34.730445,
+        "longitude": 32.875509
+    },
+    {
+        "name": "Potamós tou Kámpou",
+        "country": "Cyprus",
+        "province": "Nicosia",
+        "population": -1,
+        "latitude": 35.143728,
+        "longitude": 32.807891
+    },
+    {
+        "name": "Statos–Agios Fotios",
+        "country": "Cyprus",
+        "province": "Pafos",
+        "population": 249,
+        "latitude": 34.888459,
+        "longitude": 32.615926
+    },
+    {
+        "name": "Páno Pýrgos",
+        "country": "Cyprus",
+        "province": "Nicosia",
+        "population": 31,
+        "latitude": 35.154908,
+        "longitude": 32.682348
+    },
+    {
+        "name": "Nea Dimmata",
+        "country": "Cyprus",
+        "province": "Pafos",
+        "population": 6,
+        "latitude": 35.13732,
+        "longitude": 32.526949
+    },
+    {
+        "name": "Ágios Nikólaos",
+        "country": "Cyprus",
+        "province": "Ammochostos",
+        "population": -1,
+        "latitude": 35.375109,
+        "longitude": 33.705742
+    },
+    {
+        "name": "Ágios Geórgios",
+        "country": "Cyprus",
+        "province": "Keryneia",
+        "population": -1,
+        "latitude": 35.342246,
+        "longitude": 33.275308
+    },
+    {
+        "name": "Polis, Cyprus",
+        "country": "Cyprus",
+        "province": "Pafos",
+        "population": -1,
+        "latitude": 35.034033,
+        "longitude": 32.425503
+    },
+    {
+        "name": "Salamis",
+        "country": "Cyprus",
+        "province": "Ammochostos",
+        "population": -1,
+        "latitude": 35.134488,
+        "longitude": 33.926593
+    },
+    {
+        "name": "Geroskipou Municipality",
+        "country": "Cyprus",
+        "province": "Pafos",
+        "population": 8313,
+        "latitude": 34.760908,
+        "longitude": 32.448438
+    },
+    {
+        "name": "Ayia Marina Kelokedharon",
+        "country": "Cyprus",
+        "province": "Pafos",
+        "population": -1,
+        "latitude": 34.828707,
+        "longitude": 32.614366
+    },
+    {
+        "name": "Cedar Valley",
+        "country": "Cyprus",
+        "province": "Nicosia",
+        "population": -1,
+        "latitude": 34.9833333,
+        "longitude": 32.6833333
+    },
+    {
+        "name": "Statós",
+        "country": "Cyprus",
+        "province": "Pafos",
+        "population": -1,
+        "latitude": 34.891076,
+        "longitude": 32.609653
+    },
+    {
+        "name": "Skala",
+        "country": "Cyprus",
+        "province": "Larnaka",
+        "population": -1,
+        "latitude": 34.907845,
+        "longitude": 33.634788
+    },
+    {
+        "name": "Saïttás",
+        "country": "Cyprus",
+        "province": "Limassol",
+        "population": -1,
+        "latitude": 34.868708,
+        "longitude": 32.916264
+    },
+    {
+        "name": "Polemi",
+        "country": "Cyprus",
+        "province": "Pafos",
+        "population": 848,
+        "latitude": 34.88613,
+        "longitude": 32.50712
+    },
+    {
+        "name": "Platánia",
+        "country": "Cyprus",
+        "province": "Nicosia",
+        "population": -1,
+        "latitude": 34.948243,
+        "longitude": 32.92649
+    },
+    {
+        "name": "Pigí",
+        "country": "Cyprus",
+        "province": "Ammochostos",
+        "population": -1,
+        "latitude": 35.226738,
+        "longitude": 33.759628
+    },
+    {
+        "name": "Fasli, Cyprus",
+        "country": "Cyprus",
+        "province": "Pafos",
+        "population": -1,
+        "latitude": 34.981709,
+        "longitude": 32.37097
+    },
+    {
+        "name": "Paramáli",
+        "country": "Cyprus",
+        "province": "Limassol",
+        "population": 153,
+        "latitude": 34.694058,
+        "longitude": 32.799205
+    },
+    {
+        "name": "Páno Lakatámeia",
+        "country": "Cyprus",
+        "province": "Nicosia",
+        "population": -1,
+        "latitude": 35.102953,
+        "longitude": 33.302988
+    },
+    {
+        "name": "Pánagra",
+        "country": "Cyprus",
+        "province": "Keryneia",
+        "population": -1,
+        "latitude": 35.333996,
+        "longitude": 33.068494
+    },
+    {
+        "name": "Ortákioi",
+        "country": "Cyprus",
+        "province": "Nicosia",
+        "population": -1,
+        "latitude": 35.20221,
+        "longitude": 33.338569
+    },
+    {
+        "name": "Omorfíta",
+        "country": "Cyprus",
+        "province": "Nicosia",
+        "population": -1,
+        "latitude": 35.189465,
+        "longitude": 33.374484
+    },
+    {
+        "name": "Kato Paphos",
+        "country": "Cyprus",
+        "province": "Pafos",
+        "population": -1,
+        "latitude": 34.760952,
+        "longitude": 32.413789
+    },
+    {
+        "name": "Melánarga",
+        "country": "Cyprus",
+        "province": "Ammochostos",
+        "population": -1,
+        "latitude": 35.5147,
+        "longitude": 34.196846
+    },
+    {
+        "name": "Mavrolí",
+        "country": "Cyprus",
+        "province": "Pafos",
+        "population": -1,
+        "latitude": 35.052075,
+        "longitude": 32.453053
+    },
+    {
+        "name": "Mansoúra",
+        "country": "Cyprus",
+        "province": "Nicosia",
+        "population": -1,
+        "latitude": 35.188098,
+        "longitude": 32.632446
+    },
+    {
+        "name": "Maloúnta",
+        "country": "Cyprus",
+        "province": "Pafos",
+        "population": -1,
+        "latitude": 34.864921,
+        "longitude": 32.690735
+    },
+    {
+        "name": "Koloni",
+        "country": "Cyprus",
+        "province": "Pafos",
+        "population": 264,
+        "latitude": 34.748584,
+        "longitude": 32.465648
+    },
+    {
+        "name": "Chalévga",
+        "country": "Cyprus",
+        "province": "Keryneia",
+        "population": -1,
+        "latitude": 35.285379,
+        "longitude": 33.533632
+    },
+    {
+        "name": "Égkomi",
+        "country": "Cyprus",
+        "province": "Nicosia",
+        "population": -1,
+        "latitude": 35.163217,
+        "longitude": 33.340126
+    },
+    {
+        "name": "Agios Memnon",
+        "country": "Cyprus",
+        "province": "Ammochostos",
+        "population": -1,
+        "latitude": 35.086877,
+        "longitude": 33.966668
+    },
+    {
+        "name": "Ágio Georgoúdi",
+        "country": "Cyprus",
+        "province": "Nicosia",
+        "population": -1,
+        "latitude": 35.160734,
+        "longitude": 32.622727
+    },
+    {
+        "name": "Avlóna",
+        "country": "Cyprus",
+        "province": "Nicosia",
+        "population": -1,
+        "latitude": 35.161303,
+        "longitude": 33.106893
+    },
+    {
+        "name": "Asínou",
+        "country": "Cyprus",
+        "province": "Nicosia",
+        "population": -1,
+        "latitude": 35.044162,
+        "longitude": 32.972329
+    },
+    {
+        "name": "Alévga",
+        "country": "Cyprus",
+        "province": "Nicosia",
+        "population": -1,
+        "latitude": 35.154365,
+        "longitude": 32.60633
+    },
+    {
+        "name": "Akapnoú",
+        "country": "Cyprus",
+        "province": "Limassol",
+        "population": 27,
+        "latitude": 34.838841,
+        "longitude": 33.186495
+    },
+    {
+        "name": "Zacharia",
+        "country": "Cyprus",
+        "province": "Pafos",
+        "population": -1,
+        "latitude": 34.981766,
+        "longitude": 32.543299
+    },
+    {
+        "name": "Geroskipou",
+        "country": "Cyprus",
+        "province": "Pafos",
+        "population": -1,
+        "latitude": 34.755805,
+        "longitude": 32.449151
+    },
+    {
+        "name": "Xeróvounos",
+        "country": "Cyprus",
+        "province": "Nicosia",
+        "population": -1,
+        "latitude": 35.147746,
+        "longitude": 32.733877
+    },
+    {
+        "name": "Voúrkaris",
+        "country": "Cyprus",
+        "province": "Keryneia",
+        "population": -1,
+        "latitude": 35.322229,
+        "longitude": 33.468325
+    },
+    {
+        "name": "Vása",
+        "country": "Cyprus",
+        "province": "Limassol",
+        "population": -1,
+        "latitude": 34.83293,
+        "longitude": 32.791775
+    },
+    {
+        "name": "Vása",
+        "country": "Cyprus",
+        "province": "Limassol",
+        "population": -1,
+        "latitude": 34.802756,
+        "longitude": 33.215336
+    },
+    {
+        "name": "Varósia",
+        "country": "Cyprus",
+        "province": "Ammochostos",
+        "population": -1,
+        "latitude": 35.105997,
+        "longitude": 33.960452
+    },
+    {
+        "name": "Tróodos",
+        "country": "Cyprus",
+        "province": "Limassol",
+        "population": -1,
+        "latitude": 34.923444,
+        "longitude": 32.8805
+    },
+    {
+        "name": "Soúni",
+        "country": "Cyprus",
+        "province": "Limassol",
+        "population": -1,
+        "latitude": 34.739761,
+        "longitude": 32.881062
+    },
+    {
+        "name": "Sterakóvou",
+        "country": "Cyprus",
+        "province": "Limassol",
+        "population": -1,
+        "latitude": 34.710594,
+        "longitude": 32.81893
+    },
+    {
+        "name": "Ayios Ioannis",
+        "country": "Cyprus",
+        "province": "Nicosia",
+        "population": -1,
+        "latitude": 35.1375,
+        "longitude": 32.7666667
+    },
+    {
+        "name": "Cholétria",
+        "country": "Cyprus",
+        "province": "Pafos",
+        "population": -1,
+        "latitude": 34.763496,
+        "longitude": 32.59905
+    },
+    {
+        "name": "Cheromylos",
+        "country": "Cyprus",
+        "province": "Ammochostos",
+        "population": -1,
+        "latitude": 35.372132,
+        "longitude": 33.708322
+    },
+    {
+        "name": "Kápsalos",
+        "country": "Cyprus",
+        "province": "Ammochostos",
+        "population": -1,
+        "latitude": 35.363209,
+        "longitude": 33.67019
+    },
+    {
+        "name": "Giannitsaros",
+        "country": "Cyprus",
+        "province": "Keryneia",
+        "population": -1,
+        "latitude": 35.362435,
+        "longitude": 33.118857
+    },
+    {
+        "name": "Kiónia",
+        "country": "Cyprus",
+        "province": "Nicosia",
+        "population": -1,
+        "latitude": 34.920181,
+        "longitude": 33.197462
+    },
+    {
+        "name": "Ercan",
+        "country": "Cyprus",
+        "province": "Nicosia",
+        "population": -1,
+        "latitude": 35.160336728130346,
+        "longitude": 33.49860191345215
+    },
+    {
+        "name": "Agios Andreas",
+        "country": "Cyprus",
+        "province": "Nicosia",
+        "population": -1,
+        "latitude": 35.17479,
+        "longitude": 33.3463
+    },
+    {
+        "name": "Paphos Municipality",
+        "country": "Cyprus",
+        "province": "Pafos",
+        "population": -1,
+        "latitude": 34.774415,
+        "longitude": 32.422907
+    },
+    {
+        "name": "Ayios Theodoros",
+        "country": "Cyprus",
+        "province": "Pafos",
+        "population": -1,
+        "latitude": 34.773291,
+        "longitude": 32.429324
+    },
+    {
+        "name": "Ayios Pavlos",
+        "country": "Cyprus",
+        "province": "Pafos",
+        "population": -1,
+        "latitude": 34.787249,
+        "longitude": 32.43147
+    },
+    {
+        "name": "Arsos",
+        "country": "Cyprus",
+        "province": "Larnaka",
+        "population": -1,
+        "latitude": 35.090071,
+        "longitude": 33.628129
+    },
+    {
+        "name": "Agioi Anargyroi I",
+        "country": "Cyprus",
+        "province": "Larnaka",
+        "population": -1,
+        "latitude": 34.939162,
+        "longitude": 33.624531
+    },
+    {
+        "name": "Agioi Anargyroi II",
+        "country": "Cyprus",
+        "province": "Larnaka",
+        "population": -1,
+        "latitude": 34.934834,
+        "longitude": 33.623845
+    },
+    {
+        "name": "Agios Nikolaos",
+        "country": "Cyprus",
+        "province": "Larnaka",
+        "population": -1,
+        "latitude": 34.912702,
+        "longitude": 33.610713
+    },
+    {
+        "name": "Agios Fanourios",
+        "country": "Cyprus",
+        "province": "Larnaka",
+        "population": -1,
+        "latitude": 34.944318,
+        "longitude": 33.590285
+    },
+    {
+        "name": "Apostolos Loukas",
+        "country": "Cyprus",
+        "province": "Larnaka",
+        "population": -1,
+        "latitude": 34.953745,
+        "longitude": 33.592688
+    },
+    {
+        "name": "Archiepiskopos Makarios III",
+        "country": "Cyprus",
+        "province": "Larnaka",
+        "population": -1,
+        "latitude": 34.906437,
+        "longitude": 33.593933
+    },
+    {
+        "name": "Vlachos",
+        "country": "Cyprus",
+        "province": "Larnaka",
+        "population": -1,
+        "latitude": 34.908076,
+        "longitude": 33.583075
+    },
+    {
+        "name": "Kamares",
+        "country": "Cyprus",
+        "province": "Larnaka",
+        "population": -1,
+        "latitude": 34.917136,
+        "longitude": 33.598439
+    },
+    {
+        "name": "Kokkines",
+        "country": "Cyprus",
+        "province": "Larnaka",
+        "population": -1,
+        "latitude": 34.94078,
+        "longitude": 33.61788
+    },
+    {
+        "name": "Sotiros",
+        "country": "Cyprus",
+        "province": "Larnaka",
+        "population": -1,
+        "latitude": 34.927481,
+        "longitude": 33.618309
+    },
+    {
+        "name": "Tsakilero",
+        "country": "Cyprus",
+        "province": "Larnaka",
+        "population": -1,
+        "latitude": 34.935784,
+        "longitude": 33.612644
+    },
+    {
+        "name": "Chrysopolitissa",
+        "country": "Cyprus",
+        "province": "Larnaka",
+        "population": -1,
+        "latitude": 34.929662,
+        "longitude": 33.637106
+    },
+    {
+        "name": "Apostolos Andreas",
+        "country": "Cyprus",
+        "province": "Limassol",
+        "population": -1,
+        "latitude": 34.68035,
+        "longitude": 33.02031
+    },
+    {
+        "name": "Apostoloi Petros kai Pavlos",
+        "country": "Cyprus",
+        "province": "Limassol",
+        "population": -1,
+        "latitude": 34.69446,
+        "longitude": 33.02816
+    },
+    {
+        "name": "Kapsalos",
+        "country": "Cyprus",
+        "province": "Limassol",
+        "population": -1,
+        "latitude": 34.69852,
+        "longitude": 33.03605
+    },
+    {
+        "name": "Agia Napa",
+        "country": "Cyprus",
+        "province": "Limassol",
+        "population": -1,
+        "latitude": 34.67568,
+        "longitude": 33.04602
+    },
+    {
+        "name": "Agios Antonios",
+        "country": "Cyprus",
+        "province": "Limassol",
+        "population": -1,
+        "latitude": 34.67043,
+        "longitude": 33.03981
+    },
+    {
+        "name": "Tziami Tzentit",
+        "country": "Cyprus",
+        "province": "Limassol",
+        "population": -1,
+        "latitude": 34.6723,
+        "longitude": 33.03801
+    },
+    {
+        "name": "Arnaoutogeitonia",
+        "country": "Cyprus",
+        "province": "Limassol",
+        "population": -1,
+        "latitude": 34.6743,
+        "longitude": 33.03387
+    },
+    {
+        "name": "Katholiki",
+        "country": "Cyprus",
+        "province": "Limassol",
+        "population": -1,
+        "latitude": 34.67994,
+        "longitude": 33.03581
+    },
+    {
+        "name": "St. Paraskevi",
+        "country": "Cyprus",
+        "province": "Limassol",
+        "population": -1,
+        "latitude": 34.71986,
+        "longitude": 33.08492
+    },
+    {
+        "name": "Ayios Athanasios",
+        "country": "Cyprus",
+        "province": "Limassol",
+        "population": -1,
+        "latitude": 34.7129,
+        "longitude": 33.05675
+    },
+    {
+        "name": "Ayios Georgios Fragkoudi",
+        "country": "Cyprus",
+        "province": "Limassol",
+        "population": -1,
+        "latitude": 34.69358,
+        "longitude": 33.07194
+    },
+    {
+        "name": "Ayios Stylianos",
+        "country": "Cyprus",
+        "province": "Limassol",
+        "population": -1,
+        "latitude": 34.70221,
+        "longitude": 33.06746
+    },
+    {
+        "name": "Αpostle Lyke",
+        "country": "Cyprus",
+        "province": "Limassol",
+        "population": -1,
+        "latitude": 34.70808,
+        "longitude": 33.05668
+    },
+    {
+        "name": "Germasogeia River",
+        "country": "Cyprus",
+        "province": "Limassol",
+        "population": -1,
+        "latitude": 34.70353,
+        "longitude": 33.09088
+    },
+    {
+        "name": "Panthea",
+        "country": "Cyprus",
+        "province": "Limassol",
+        "population": -1,
+        "latitude": 34.71166,
+        "longitude": 33.04117
+    },
+    {
+        "name": "Apostle Barnabas",
+        "country": "Cyprus",
+        "province": "Limassol",
+        "population": -1,
+        "latitude": 34.68088,
+        "longitude": 33.00397
+    },
+    {
+        "name": "Archangel Michael",
+        "country": "Cyprus",
+        "province": "Limassol",
+        "population": -1,
+        "latitude": 34.67732,
+        "longitude": 32.99347
+    },
+    {
+        "name": "Makarios C",
+        "country": "Cyprus",
+        "province": "Limassol",
+        "population": -1,
+        "latitude": 34.68699,
+        "longitude": 33.01264
+    },
+    {
+        "name": "Panagia Evangelístria",
+        "country": "Cyprus",
+        "province": "Limassol",
+        "population": -1,
+        "latitude": 34.69368,
+        "longitude": 33.00083
+    },
+    {
+        "name": "Agios Georgios",
+        "country": "Cyprus",
+        "province": "Ammochostos",
+        "population": -1,
+        "latitude": 35.094834,
+        "longitude": 33.935692
+    },
+    {
+        "name": "Stavros",
+        "country": "Cyprus",
+        "province": "Ammochostos",
+        "population": -1,
+        "latitude": 35.101163,
+        "longitude": 33.956087
+    },
+    {
+        "name": "Agia Zoni",
+        "country": "Cyprus",
+        "province": "Ammochostos",
+        "population": -1,
+        "latitude": 35.106926,
+        "longitude": 33.950176
+    },
+    {
+        "name": "Chrysi Akti",
+        "country": "Cyprus",
+        "province": "Ammochostos",
+        "population": -1,
+        "latitude": 35.10355,
+        "longitude": 33.96039
+    },
+    {
+        "name": "Akropolis",
+        "country": "Cyprus",
+        "province": "Ammochostos",
+        "population": -1,
+        "latitude": 35.099469,
+        "longitude": 33.948996
+    },
+    {
+        "name": "Chrysospiliotissa",
+        "country": "Cyprus",
+        "province": "Ammochostos",
+        "population": -1,
+        "latitude": 35.107625,
+        "longitude": 33.928479
+    },
+    {
+        "name": "Agios Ioannis",
+        "country": "Cyprus",
+        "province": "Ammochostos",
+        "population": -1,
+        "latitude": 35.11894,
+        "longitude": 33.947644
+    },
+    {
+        "name": "Agios Nikolaos",
+        "country": "Cyprus",
+        "province": "Ammochostos",
+        "population": -1,
+        "latitude": 35.113254,
+        "longitude": 33.952879
+    },
+    {
+        "name": "Agios Loukas",
+        "country": "Cyprus",
+        "province": "Ammochostos",
+        "population": -1,
+        "latitude": 35.121089,
+        "longitude": 33.916626
+    },
+    {
+        "name": "Palaia Ammochostos",
+        "country": "Cyprus",
+        "province": "Ammochostos",
+        "population": -1,
+        "latitude": 35.126351,
+        "longitude": 33.941779
+    },
+    {
+        "name": "Pano Kyrenia",
+        "country": "Cyprus",
+        "province": "Keryneia",
+        "population": -1,
+        "latitude": 35.332694,
+        "longitude": 33.314639
+    },
+    {
+        "name": "Kato Keryneia",
+        "country": "Cyprus",
+        "province": "Keryneia",
+        "population": -1,
+        "latitude": 35.339932,
+        "longitude": 33.305005
+    },
+    {
+        "name": "Pano Geitonia",
+        "country": "Cyprus",
+        "province": "Keryneia",
+        "population": -1,
+        "latitude": 35.335837,
+        "longitude": 33.196661
+    },
+    {
+        "name": "Petrogeitonia",
+        "country": "Cyprus",
+        "province": "Keryneia",
+        "population": -1,
+        "latitude": 35.347451,
+        "longitude": 33.201203
+    },
+    {
+        "name": "Exo Geitonia",
+        "country": "Cyprus",
+        "province": "Keryneia",
+        "population": -1,
+        "latitude": 35.340834,
+        "longitude": 33.191436
+    },
+    {
+        "name": "Agios Andreas",
+        "country": "Cyprus",
+        "province": "Keryneia",
+        "population": -1,
+        "latitude": 35.338831,
+        "longitude": 33.233148
+    },
+    {
+        "name": "Agia Paraskevi",
+        "country": "Cyprus",
+        "province": "Keryneia",
+        "population": -1,
+        "latitude": 35.334834,
+        "longitude": 33.168471
+    },
+    {
+        "name": "Agios Theodoros",
+        "country": "Cyprus",
+        "province": "Keryneia",
+        "population": -1,
+        "latitude": 35.347339,
+        "longitude": 33.153751
+    },
+    {
+        "name": "Agios Minas",
+        "country": "Cyprus",
+        "province": "Keryneia",
+        "population": -1,
+        "latitude": 35.338816,
+        "longitude": 33.184435
+    },
+    {
+        "name": "Agios Loukas",
+        "country": "Cyprus",
+        "province": "Keryneia",
+        "population": -1,
+        "latitude": 35.33263,
+        "longitude": 33.16875
+    },
+    {
+        "name": "Agia Anastasia",
+        "country": "Cyprus",
+        "province": "Keryneia",
+        "population": -1,
+        "latitude": 35.332364,
+        "longitude": 33.174987
+    },
+    {
+        "name": "Prodromos",
+        "country": "Cyprus",
+        "province": "Keryneia",
+        "population": 102,
+        "latitude": 35.337757,
+        "longitude": 33.172362
+    },
+    {
+        "name": "Tourkiki Sιnikia",
+        "country": "Cyprus",
+        "province": "Keryneia",
+        "population": -1,
+        "latitude": 35.340184,
+        "longitude": 33.171548
+    },
+    {
+        "name": "Omonoia",
+        "country": "Cyprus",
+        "province": "Limassol",
+        "population": -1,
+        "latitude": 34.66858,
+        "longitude": 33.01796
+    },
+    {
+        "name": "Tsiflikoudia",
+        "country": "Cyprus",
+        "province": "Limassol",
+        "population": -1,
+        "latitude": 34.66635,
+        "longitude": 33.02769
+    },
+    {
+        "name": "Agios Ioannis",
+        "country": "Cyprus",
+        "province": "Limassol",
+        "population": -1,
+        "latitude": 34.67429,
+        "longitude": 33.02591
+    },
+    {
+        "name": "Agioi Konstantinos kai Eleni",
+        "country": "Cyprus",
+        "province": "Nicosia",
+        "population": -1,
+        "latitude": 35.163672,
+        "longitude": 33.377806
+    },
+    {
+        "name": "Agios Antonios",
+        "country": "Cyprus",
+        "province": "Nicosia",
+        "population": -1,
+        "latitude": 35.16506,
+        "longitude": 33.370527
+    },
+    {
+        "name": "Agios Ioannis",
+        "country": "Cyprus",
+        "province": "Nicosia",
+        "population": -1,
+        "latitude": 35.173152,
+        "longitude": 33.369085
+    },
+    {
+        "name": "Agios Kassianos",
+        "country": "Cyprus",
+        "province": "Nicosia",
+        "population": -1,
+        "latitude": 35.177569,
+        "longitude": 33.368805
+    },
+    {
+        "name": "Agios Savvas",
+        "country": "Cyprus",
+        "province": "Nicosia",
+        "population": -1,
+        "latitude": 35.170959,
+        "longitude": 33.364171
+    },
+    {
+        "name": "Taktelkale",
+        "country": "Cyprus",
+        "province": "Nicosia",
+        "population": -1,
+        "latitude": 35.17567,
+        "longitude": 33.37226
+    },
+    {
+        "name": "Larnaca Municipality",
+        "country": "Cyprus",
+        "province": "Larnaka",
+        "population": -1,
+        "latitude": 34.915503,
+        "longitude": 33.619768
+    },
+    {
+        "name": "Agia Paraskevi",
+        "country": "Cyprus",
+        "province": "Nicosia",
+        "population": -1,
+        "latitude": 35.117265,
+        "longitude": 33.314454
+    },
+    {
+        "name": "Agios Nikolaos",
+        "country": "Cyprus",
+        "province": "Nicosia",
+        "population": -1,
+        "latitude": 35.101326,
+        "longitude": 33.30703
+    },
+    {
+        "name": "Agios Mamas",
+        "country": "Cyprus",
+        "province": "Nicosia",
+        "population": -1,
+        "latitude": 35.12861,
+        "longitude": 33.318429
+    },
+    {
+        "name": "Archangelos - Anthoupoli",
+        "country": "Cyprus",
+        "province": "Nicosia",
+        "population": -1,
+        "latitude": 35.131293,
+        "longitude": 33.289014
+    },
+    {
+        "name": "Agios Georgios",
+        "country": "Cyprus",
+        "province": "Nicosia",
+        "population": -1,
+        "latitude": 35.095296,
+        "longitude": 33.379379
+    },
+    {
+        "name": "Agios Eleftherios",
+        "country": "Cyprus",
+        "province": "Nicosia",
+        "population": -1,
+        "latitude": 35.112363,
+        "longitude": 33.38621
+    },
+    {
+        "name": "Agios Vasileios",
+        "country": "Cyprus",
+        "province": "Nicosia",
+        "population": -1,
+        "latitude": 35.128903,
+        "longitude": 33.333267
+    },
+    {
+        "name": "Agios Dimitrios",
+        "country": "Cyprus",
+        "province": "Nicosia",
+        "population": -1,
+        "latitude": 35.152325,
+        "longitude": 33.363255
+    },
+    {
+        "name": "Apostolos Varnavas kai Agios Makarios",
+        "country": "Cyprus",
+        "province": "Nicosia",
+        "population": -1,
+        "latitude": 35.13953,
+        "longitude": 33.364349
+    },
+    {
+        "name": "Ethnomartyras Kyprianos",
+        "country": "Cyprus",
+        "province": "Nicosia",
+        "population": -1,
+        "latitude": 35.126815,
+        "longitude": 33.348012
+    },
+    {
+        "name": "Stavros",
+        "country": "Cyprus",
+        "province": "Nicosia",
+        "population": -1,
+        "latitude": 35.132494,
+        "longitude": 33.364796
+    },
+    {
+        "name": "Chryseleousa",
+        "country": "Cyprus",
+        "province": "Nicosia",
+        "population": -1,
+        "latitude": 35.149406,
+        "longitude": 33.33457
+    },
+    {
+        "name": "Agioi Konstantinos kai Eleni",
+        "country": "Cyprus",
+        "province": "Nicosia",
+        "population": -1,
+        "latitude": 35.070096,
+        "longitude": 33.388638
+    },
+    {
+        "name": "Panagia Evangelistria",
+        "country": "Cyprus",
+        "province": "Nicosia",
+        "population": -1,
+        "latitude": 35.02379,
+        "longitude": 33.422992
+    },
+    {
+        "name": "Agios Georgios",
+        "country": "Cyprus",
+        "province": "Nicosia",
+        "population": -1,
+        "latitude": 35.174413,
+        "longitude": 33.324126
+    },
+    {
+        "name": "Agios Pavlos",
+        "country": "Cyprus",
+        "province": "Nicosia",
+        "population": -1,
+        "latitude": 35.18845,
+        "longitude": 33.32175
+    },
+    {
+        "name": "Dromolaxia–Meneou Municipality",
+        "country": "Cyprus",
+        "province": "Larnaka",
+        "population": -1,
+        "latitude": 34.865409,
+        "longitude": 33.590885
+    },
+    {
+        "name": "Ayia",
+        "country": "Cyprus",
+        "province": "Ammochostos",
+        "population": -1,
+        "latitude": 35.4416667,
+        "longitude": 34.15
+    },
+    {
+        "name": "Kourdali",
+        "country": "Cyprus",
+        "province": "Nicosia",
+        "population": -1,
+        "latitude": 34.975133,
+        "longitude": 32.950109
+    },
+    {
+        "name": "Verengaria",
+        "country": "Cyprus",
+        "province": "Limassol",
+        "population": -1,
+        "latitude": 34.696106,
+        "longitude": 33.005405
+    },
+    {
+        "name": "Pampoula",
+        "country": "Cyprus",
+        "province": "Limassol",
+        "population": -1,
+        "latitude": 34.675,
+        "longitude": 32.9125
+    },
+    {
+        "name": "Nikoloudes",
+        "country": "Cyprus",
+        "province": "Ammochostos",
+        "population": -1,
+        "latitude": 35.295228,
+        "longitude": 33.880641
+    },
+    {
+        "name": "Kalami",
+        "country": "Cyprus",
+        "province": "Ammochostos",
+        "population": -1,
+        "latitude": 35.393767,
+        "longitude": 33.743959
+    },
+    {
+        "name": "Ntaoút",
+        "country": "Cyprus",
+        "province": "Keryneia",
+        "population": -1,
+        "latitude": 35.330688,
+        "longitude": 33.47444
+    },
+    {
+        "name": "Templ Stoou",
+        "country": "Cyprus",
+        "province": "Nicosia",
+        "population": -1,
+        "latitude": 35.31152,
+        "longitude": 33.3199
+    },
+    {
+        "name": "Gerontas",
+        "country": "Cyprus",
+        "province": "Keryneia",
+        "population": -1,
+        "latitude": 35.364495,
+        "longitude": 33.030887
+    },
+    {
+        "name": "Anthopolis",
+        "country": "Cyprus",
+        "province": "Nicosia",
+        "population": -1,
+        "latitude": 35.104727,
+        "longitude": 33.289111
+    },
+    {
+        "name": "Mouttalos",
+        "country": "Cyprus",
+        "province": "Pafos",
+        "population": -1,
+        "latitude": 34.760952,
+        "longitude": 32.413789
+    },
+    {
+        "name": "Agios Georgios",
+        "country": "Cyprus",
+        "province": "Limassol",
+        "population": -1,
+        "latitude": 34.68872,
+        "longitude": 33.02231
+    },
+    {
+        "name": "Panagia Evangelistria",
+        "country": "Cyprus",
+        "province": "Limassol",
+        "population": -1,
+        "latitude": 34.71291,
+        "longitude": 33.00601
+    },
+    {
+        "name": "Agios Nektarios",
+        "country": "Cyprus",
+        "province": "Limassol",
+        "population": -1,
+        "latitude": 34.68978,
+        "longitude": 33.04567
+    },
+    {
+        "name": "Agios Nikolaos",
+        "country": "Cyprus",
+        "province": "Limassol",
+        "population": -1,
+        "latitude": 34.69335,
+        "longitude": 33.0577
+    },
+    {
+        "name": "Neapoli",
+        "country": "Cyprus",
+        "province": "Limassol",
+        "population": -1,
+        "latitude": 34.68907,
+        "longitude": 33.06354
+    },
+    {
+        "name": "Agia Zoni",
+        "country": "Cyprus",
+        "province": "Limassol",
+        "population": -1,
+        "latitude": 34.68521,
+        "longitude": 33.04414
+    },
+    {
+        "name": "Agia Trias",
+        "country": "Cyprus",
+        "province": "Limassol",
+        "population": -1,
+        "latitude": 34.68114,
+        "longitude": 33.05045
+    },
+    {
+        "name": "Timios Prodromos",
+        "country": "Cyprus",
+        "province": "Limassol",
+        "population": -1,
+        "latitude": 34.70198,
+        "longitude": 33.05088
+    },
+    {
+        "name": "Chalkoutsa",
+        "country": "Cyprus",
+        "province": "Limassol",
+        "population": -1,
+        "latitude": 34.69738,
+        "longitude": 33.05479
+    },
+    {
+        "name": "Kontovathkia",
+        "country": "Cyprus",
+        "province": "Limassol",
+        "population": -1,
+        "latitude": 34.69809,
+        "longitude": 33.04284
+    },
+    {
+        "name": "Saint Nicholas",
+        "country": "Cyprus",
+        "province": "Limassol",
+        "population": -1,
+        "latitude": 34.6977,
+        "longitude": 32.9797
+    },
+    {
+        "name": "Anthoupolis",
+        "country": "Cyprus",
+        "province": "Limassol",
+        "population": -1,
+        "latitude": 34.68543,
+        "longitude": 32.98593
+    },
+    {
+        "name": "Ayioi Omoloyites",
+        "country": "Cyprus",
+        "province": "Nicosia",
+        "population": -1,
+        "latitude": 35.159195,
+        "longitude": 33.358007
+    },
+    {
+        "name": "Nempetchane",
+        "country": "Cyprus",
+        "province": "Nicosia",
+        "population": -1,
+        "latitude": 35.174057,
+        "longitude": 33.360334
+    },
+    {
+        "name": "Omerie",
+        "country": "Cyprus",
+        "province": "Nicosia",
+        "population": -1,
+        "latitude": 35.173829,
+        "longitude": 33.365607
+    },
+    {
+        "name": "Tampakchane",
+        "country": "Cyprus",
+        "province": "Nicosia",
+        "population": -1,
+        "latitude": 35.171797,
+        "longitude": 33.359885
+    },
+    {
+        "name": "Trypiotis",
+        "country": "Cyprus",
+        "province": "Nicosia",
+        "population": -1,
+        "latitude": 35.166913,
+        "longitude": 33.35804
+    },
+    {
+        "name": "Faneromeni",
+        "country": "Cyprus",
+        "province": "Nicosia",
+        "population": -1,
+        "latitude": 35.173389,
+        "longitude": 33.362272
+    },
+    {
+        "name": "Chrysaliniotissa",
+        "country": "Cyprus",
+        "province": "Nicosia",
+        "population": -1,
+        "latitude": 35.176951,
+        "longitude": 33.370409
+    },
+    {
+        "name": "Archangelos Michail",
+        "country": "Cyprus",
+        "province": "Nicosia",
+        "population": -1,
+        "latitude": 35.103674,
+        "longitude": 33.390555
+    },
+    {
+        "name": "Agios Antonios",
+        "country": "Cyprus",
+        "province": "Nicosia",
+        "population": -1,
+        "latitude": 34.966721,
+        "longitude": 32.955136
+    },
+    {
+        "name": "Ayia Thekla",
+        "country": "Cyprus",
+        "province": "Ammochostos",
+        "population": -1,
+        "latitude": 34.97572019670047,
+        "longitude": 33.908443450927734
+    },
+    {
+        "name": "Yalı",
+        "country": "Cyprus",
+        "province": "Ammochostos",
+        "population": -1,
+        "latitude": 35.3916667,
+        "longitude": 33.7458333
+    },
+    {
+        "name": "Famagusta Walled City",
+        "country": "Cyprus",
+        "province": "Ammochostos",
+        "population": -1,
+        "latitude": 35.125,
+        "longitude": 33.941667
+    },
+    {
+        "name": "Piyalepaşa",
+        "country": "Cyprus",
+        "province": "Ammochostos",
+        "population": -1,
+        "latitude": 35.1125,
+        "longitude": 33.929167
+    },
+    {
+        "name": "Ktima",
+        "country": "Cyprus",
+        "province": "Pafos",
+        "population": -1,
+        "latitude": 34.775,
+        "longitude": 32.4333333
+    },
+    {
+        "name": "Soularavia",
+        "country": "Cyprus",
+        "province": "Limassol",
+        "population": -1,
+        "latitude": 34.746722,
+        "longitude": 32.94342
+    },
+    {
+        "name": "Alakati",
+        "country": "Cyprus",
+        "province": "Keryneia",
+        "population": -1,
+        "latitude": 35.3333333,
+        "longitude": 33.5
+    },
+    {
+        "name": "Koloni Piece of Land",
+        "country": "Cyprus",
+        "province": "Pafos",
+        "population": -1,
+        "latitude": 34.75234,
+        "longitude": 32.46989
+    },
+    {
+        "name": "Girne Kepuveia",
+        "country": "Cyprus",
+        "province": "Keryneia",
+        "population": -1,
+        "latitude": 35.32433,
+        "longitude": 33.31415
+    },
+    {
+        "name": "Dhekelia",
+        "country": "Cyprus",
+        "province": "Larnaka",
+        "population": -1,
+        "latitude": 34.98431,
+        "longitude": 33.73379
+    },
+    {
+        "name": "Köşklü Çiftlik",
+        "country": "Cyprus",
+        "province": "Nicosia",
+        "population": -1,
+        "latitude": 35.183516,
+        "longitude": 33.354692
+    },
+    {
+        "name": "Yenişehir",
+        "country": "Cyprus",
+        "province": "Nicosia",
+        "population": -1,
+        "latitude": 35.1875,
+        "longitude": 33.3583333
+    },
+    {
+        "name": "Marmara",
+        "country": "Cyprus",
+        "province": "Nicosia",
+        "population": -1,
+        "latitude": 35.2,
+        "longitude": 33.3458333
+    },
+    {
+        "name": "Kumsal",
+        "country": "Cyprus",
+        "province": "Nicosia",
+        "population": -1,
+        "latitude": 35.1916667,
+        "longitude": 33.35
+    },
+    {
+        "name": "Çağlayan",
+        "country": "Cyprus",
+        "province": "Nicosia",
+        "population": -1,
+        "latitude": 35.1833333,
+        "longitude": 33.3708333
+    },
+    {
+        "name": "Karakol",
+        "country": "Cyprus",
+        "province": "Ammochostos",
+        "population": -1,
+        "latitude": 35.1291667,
+        "longitude": 33.9333333
+    },
+    {
+        "name": "Dumlupınar",
+        "country": "Cyprus",
+        "province": "Ammochostos",
+        "population": -1,
+        "latitude": 35.125,
+        "longitude": 33.9333333
+    },
+    {
+        "name": "Baykal",
+        "country": "Cyprus",
+        "province": "Ammochostos",
+        "population": -1,
+        "latitude": 35.1208333,
+        "longitude": 33.9291667
+    },
+    {
+        "name": "Namık Kemal",
+        "country": "Cyprus",
+        "province": "Ammochostos",
+        "population": -1,
+        "latitude": 35.1166667,
+        "longitude": 33.9416667
+    },
+    {
+        "name": "Canbulat",
+        "country": "Cyprus",
+        "province": "Ammochostos",
+        "population": -1,
+        "latitude": 35.1125,
+        "longitude": 33.9375
+    },
+    {
+        "name": "Pertevpaşa",
+        "country": "Cyprus",
+        "province": "Ammochostos",
+        "population": -1,
+        "latitude": 35.1083333,
+        "longitude": 33.9416667
+    },
+    {
+        "name": "Yeniizmir",
+        "country": "Cyprus",
+        "province": "Ammochostos",
+        "population": -1,
+        "latitude": 35.1291667,
+        "longitude": 33.9305556
+    },
+    {
+        "name": "Sakarya",
+        "country": "Cyprus",
+        "province": "Ammochostos",
+        "population": -1,
+        "latitude": 35.1333333,
+        "longitude": 33.9222222
+    },
+    {
+        "name": "Yenişehir",
+        "country": "Cyprus",
+        "province": "Ammochostos",
+        "population": -1,
+        "latitude": 35.1416667,
+        "longitude": 33.9208333
+    },
+    {
+        "name": "Lala Mustafa Paşa Mahallesi",
+        "country": "Cyprus",
+        "province": "Keryneia",
+        "population": -1,
+        "latitude": 35.20532,
+        "longitude": 32.989621
+    },
+    {
+        "name": "İsmet Paşa Mahallesi",
+        "country": "Cyprus",
+        "province": "Keryneia",
+        "population": -1,
+        "latitude": 35.201314,
+        "longitude": 32.996584
+    },
+    {
+        "name": "Tsada - Tremithousa - Tala (Borders)",
+        "country": "Cyprus",
+        "province": "Pafos",
+        "population": -1,
+        "latitude": 34.8343,
+        "longitude": 32.45363
+    },
+    {
+        "name": "Tsada (Village Centre)",
+        "country": "Cyprus",
+        "province": "Pafos",
+        "population": -1,
+        "latitude": 34.83874,
+        "longitude": 32.475
+    }
+]

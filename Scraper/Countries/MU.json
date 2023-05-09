@@ -1,0 +1,4498 @@
+[
+    {
+        "name": "Port Louis",
+        "country": "Mauritius",
+        "province": "Port Louis",
+        "population": 155226,
+        "latitude": -20.1619444,
+        "longitude": 57.4988889
+    },
+    {
+        "name": "Beau Bassin-Rose Hill",
+        "country": "Mauritius",
+        "province": "Plaines Wilhems",
+        "population": 111355,
+        "latitude": -20.23325,
+        "longitude": 57.46609
+    },
+    {
+        "name": "Triolet",
+        "country": "Mauritius",
+        "province": "Pamplemousses",
+        "population": 23269,
+        "latitude": -20.0576,
+        "longitude": 57.55025
+    },
+    {
+        "name": "Goodlands",
+        "country": "Mauritius",
+        "province": "Rivière du Rempart",
+        "population": 20910,
+        "latitude": -20.03841,
+        "longitude": 57.65055
+    },
+    {
+        "name": "Centre de Flacq",
+        "country": "Mauritius",
+        "province": "Flacq",
+        "population": 17710,
+        "latitude": -20.1897222,
+        "longitude": 57.7144444
+    },
+    {
+        "name": "Bel Air Rivière Sèche",
+        "country": "Mauritius",
+        "province": "Flacq",
+        "population": 17671,
+        "latitude": -20.25777,
+        "longitude": 57.74976
+    },
+    {
+        "name": "Vacoas",
+        "country": "Mauritius",
+        "province": "Plaines Wilhems",
+        "population": 115289,
+        "latitude": -20.2980556,
+        "longitude": 57.4783333
+    },
+    {
+        "name": "Mahébourg",
+        "country": "Mauritius",
+        "province": "Grand Port",
+        "population": 17042,
+        "latitude": -20.4080556,
+        "longitude": 57.7
+    },
+    {
+        "name": "Curepipe",
+        "country": "Mauritius",
+        "province": "Plaines Wilhems",
+        "population": 78618,
+        "latitude": -20.31628,
+        "longitude": 57.52594
+    },
+    {
+        "name": "Quatre Bornes",
+        "country": "Mauritius",
+        "province": "Plaines Wilhems",
+        "population": 77308,
+        "latitude": -20.2638075015385,
+        "longitude": 57.479095458984375
+    },
+    {
+        "name": "Le Hochet",
+        "country": "Mauritius",
+        "province": "Pamplemousses",
+        "population": 15197,
+        "latitude": -20.138587,
+        "longitude": 57.530127
+    },
+    {
+        "name": "Tamarin",
+        "country": "Mauritius",
+        "province": "Black River",
+        "population": 3764,
+        "latitude": -20.3255556,
+        "longitude": 57.3705556
+    },
+    {
+        "name": "Surinam",
+        "country": "Mauritius",
+        "province": "Savanne",
+        "population": 10621,
+        "latitude": -20.5097222,
+        "longitude": 57.5052778
+    },
+    {
+        "name": "Souillac",
+        "country": "Mauritius",
+        "province": "Savanne",
+        "population": 4392,
+        "latitude": -20.5166667,
+        "longitude": 57.5166667
+    },
+    {
+        "name": "Saint Pierre",
+        "country": "Mauritius",
+        "province": "Moka",
+        "population": 16414,
+        "latitude": -20.2215,
+        "longitude": 57.534306
+    },
+    {
+        "name": "Rose Belle",
+        "country": "Mauritius",
+        "province": "Grand Port",
+        "population": 12619,
+        "latitude": -20.4002778,
+        "longitude": 57.5966667
+    },
+    {
+        "name": "Quartier Militaire",
+        "country": "Mauritius",
+        "province": "Moka",
+        "population": 6424,
+        "latitude": -20.2479,
+        "longitude": 57.59737
+    },
+    {
+        "name": "Plaine Magnien",
+        "country": "Mauritius",
+        "province": "Grand Port",
+        "population": 10778,
+        "latitude": -20.42967,
+        "longitude": 57.66968
+    },
+    {
+        "name": "Pailles",
+        "country": "Mauritius",
+        "province": "Moka",
+        "population": 10622,
+        "latitude": -20.192709553586777,
+        "longitude": 57.488262175465934
+    },
+    {
+        "name": "Lalmatie",
+        "country": "Mauritius",
+        "province": "Flacq",
+        "population": 10404,
+        "latitude": -20.1897222,
+        "longitude": 57.6611111
+    },
+    {
+        "name": "Grand Baie",
+        "country": "Mauritius",
+        "province": "Rivière du Rempart",
+        "population": 11512,
+        "latitude": -20.01816161329625,
+        "longitude": 57.58015251107281
+    },
+    {
+        "name": "Chemin Grenier",
+        "country": "Mauritius",
+        "province": "Savanne",
+        "population": 12457,
+        "latitude": -20.4872222,
+        "longitude": 57.4655556
+    },
+    {
+        "name": "Bambous",
+        "country": "Mauritius",
+        "province": "Black River",
+        "population": 15345,
+        "latitude": -20.2566667,
+        "longitude": 57.4061111
+    },
+    {
+        "name": "Port Mathurin",
+        "country": "Mauritius",
+        "province": "Rodrigues",
+        "population": 6000,
+        "latitude": -19.6833333,
+        "longitude": 63.4166667
+    },
+    {
+        "name": "Ebene CyberCity",
+        "country": "Mauritius",
+        "province": "Plaines Wilhems",
+        "population": 1001,
+        "latitude": -20.24494490948196,
+        "longitude": 57.49162673950195
+    },
+    {
+        "name": "Mapou",
+        "country": "Mauritius",
+        "province": "Rivière du Rempart",
+        "population": 1288,
+        "latitude": -20.0758333,
+        "longitude": 57.6013889
+    },
+    {
+        "name": "Arsenal",
+        "country": "Mauritius",
+        "province": "Pamplemousses",
+        "population": 2599,
+        "latitude": -20.1055556,
+        "longitude": 57.5352778
+    },
+    {
+        "name": "The Vale",
+        "country": "Mauritius",
+        "province": "Rivière du Rempart",
+        "population": 3707,
+        "latitude": -20.03018,
+        "longitude": 57.60219
+    },
+    {
+        "name": "Terre Rouge",
+        "country": "Mauritius",
+        "province": "Pamplemousses",
+        "population": 9566,
+        "latitude": -20.128303,
+        "longitude": 57.531158
+    },
+    {
+        "name": "Saint Aubin",
+        "country": "Mauritius",
+        "province": "Savanne",
+        "population": 1659,
+        "latitude": -20.496,
+        "longitude": 57.55
+    },
+    {
+        "name": "Roches Noire",
+        "country": "Mauritius",
+        "province": "Rivière du Rempart",
+        "population": 5733,
+        "latitude": -20.1111111,
+        "longitude": 57.7122222
+    },
+    {
+        "name": "Grande Rivière Noire",
+        "country": "Mauritius",
+        "province": "Black River",
+        "population": 2361,
+        "latitude": -20.360278,
+        "longitude": 57.366111
+    },
+    {
+        "name": "Rivière du Rempart",
+        "country": "Mauritius",
+        "province": "Rivière du Rempart",
+        "population": 11675,
+        "latitude": -20.1030556,
+        "longitude": 57.6847222
+    },
+    {
+        "name": "Pamplemousses",
+        "country": "Mauritius",
+        "province": "Pamplemousses",
+        "population": 8836,
+        "latitude": -20.1038889,
+        "longitude": 57.5702778
+    },
+    {
+        "name": "Moka",
+        "country": "Mauritius",
+        "province": "Moka",
+        "population": 8842,
+        "latitude": -20.219038,
+        "longitude": 57.510827
+    },
+    {
+        "name": "Midlands",
+        "country": "Mauritius",
+        "province": "Plaines Wilhems",
+        "population": 4546,
+        "latitude": -20.31907,
+        "longitude": 57.57016
+    },
+    {
+        "name": "Grande Rivière Sud Est",
+        "country": "Mauritius",
+        "province": "Flacq",
+        "population": 2472,
+        "latitude": -20.286111,
+        "longitude": 57.775833
+    },
+    {
+        "name": "Grand Gaube",
+        "country": "Mauritius",
+        "province": "Rivière du Rempart",
+        "population": 7156,
+        "latitude": -20.0063889,
+        "longitude": 57.6608333
+    },
+    {
+        "name": "Fond du Sac",
+        "country": "Mauritius",
+        "province": "Pamplemousses",
+        "population": 5796,
+        "latitude": -20.04732,
+        "longitude": 57.584
+    },
+    {
+        "name": "Flic en Flac",
+        "country": "Mauritius",
+        "province": "Black River",
+        "population": 2010,
+        "latitude": -20.2741667,
+        "longitude": 57.3630556
+    },
+    {
+        "name": "Crève Coeur",
+        "country": "Mauritius",
+        "province": "Pamplemousses",
+        "population": 3097,
+        "latitude": -20.193461,
+        "longitude": 57.563279
+    },
+    {
+        "name": "Cap Malheureux",
+        "country": "Mauritius",
+        "province": "Rivière du Rempart",
+        "population": 4803,
+        "latitude": -19.9841667,
+        "longitude": 57.6141667
+    },
+    {
+        "name": "Beau Vallon",
+        "country": "Mauritius",
+        "province": "Grand Port",
+        "population": 7016,
+        "latitude": -20.4188889,
+        "longitude": 57.6952778
+    },
+    {
+        "name": "Baie aux Huîtres",
+        "country": "Mauritius",
+        "province": "Rodrigues",
+        "population": 2500,
+        "latitude": -19.694444,
+        "longitude": 63.408333
+    },
+    {
+        "name": "Baie du Tombeau",
+        "country": "Mauritius",
+        "province": "Pamplemousses",
+        "population": -1,
+        "latitude": -20.1194444,
+        "longitude": 57.4913889
+    },
+    {
+        "name": "Petit Bel Air",
+        "country": "Mauritius",
+        "province": "Grand Port",
+        "population": -1,
+        "latitude": -20.39986,
+        "longitude": 57.69513
+    },
+    {
+        "name": "Mare Chicose",
+        "country": "Mauritius",
+        "province": "Grand Port",
+        "population": -1,
+        "latitude": -20.3794444,
+        "longitude": 57.6275
+    },
+    {
+        "name": "Tyack",
+        "country": "Mauritius",
+        "province": "Savanne",
+        "population": -1,
+        "latitude": -20.4761111,
+        "longitude": 57.5519444
+    },
+    {
+        "name": "Verdun",
+        "country": "Mauritius",
+        "province": "Moka",
+        "population": 2208,
+        "latitude": -20.23417,
+        "longitude": 57.55476
+    },
+    {
+        "name": "Trou aux Biches",
+        "country": "Mauritius",
+        "province": "Pamplemousses",
+        "population": -1,
+        "latitude": -20.03301,
+        "longitude": 57.55033
+    },
+    {
+        "name": "Solférino",
+        "country": "Mauritius",
+        "province": "Plaines Wilhems",
+        "population": -1,
+        "latitude": -20.2908333,
+        "longitude": 57.4672222
+    },
+    {
+        "name": "Saint Julien",
+        "country": "Mauritius",
+        "province": "Flacq",
+        "population": 3188,
+        "latitude": -20.2263889,
+        "longitude": 57.6363889
+    },
+    {
+        "name": "Morcellement Saint André",
+        "country": "Mauritius",
+        "province": "Pamplemousses",
+        "population": 6150,
+        "latitude": -20.07199,
+        "longitude": 57.56833
+    },
+    {
+        "name": "Rivière du Poste",
+        "country": "Mauritius",
+        "province": "Mauritius",
+        "population": -1,
+        "latitude": -20.424167,
+        "longitude": 57.566944
+    },
+    {
+        "name": "Rivière des Anguilles",
+        "country": "Mauritius",
+        "province": "Savanne",
+        "population": 9927,
+        "latitude": -20.485278,
+        "longitude": 57.550833
+    },
+    {
+        "name": "Rivière des Creoles",
+        "country": "Mauritius",
+        "province": "Grand Port",
+        "population": -1,
+        "latitude": -20.39009,
+        "longitude": 57.69655
+    },
+    {
+        "name": "Quatre Soeurs",
+        "country": "Mauritius",
+        "province": "Flacq",
+        "population": 3515,
+        "latitude": -20.2991667,
+        "longitude": 57.7705556
+    },
+    {
+        "name": "Poste de Flacq",
+        "country": "Mauritius",
+        "province": "Flacq",
+        "population": 7133,
+        "latitude": -20.1630556,
+        "longitude": 57.7305556
+    },
+    {
+        "name": "Plaine des Papayes",
+        "country": "Mauritius",
+        "province": "Pamplemousses",
+        "population": 7617,
+        "latitude": -20.065,
+        "longitude": 57.5725
+    },
+    {
+        "name": "Petite Rivière",
+        "country": "Mauritius",
+        "province": "Black River",
+        "population": 5331,
+        "latitude": -20.19551,
+        "longitude": 57.44592
+    },
+    {
+        "name": "Olivia",
+        "country": "Mauritius",
+        "province": "Flacq",
+        "population": 3980,
+        "latitude": -20.28778,
+        "longitude": 57.73097
+    },
+    {
+        "name": "Nouvelle France",
+        "country": "Mauritius",
+        "province": "Grand Port",
+        "population": 7238,
+        "latitude": -20.3705556,
+        "longitude": 57.5611111
+    },
+    {
+        "name": "Notre Dame",
+        "country": "Mauritius",
+        "province": "Pamplemousses",
+        "population": 3959,
+        "latitude": -20.14298,
+        "longitude": 57.559695
+    },
+    {
+        "name": "New Grove",
+        "country": "Mauritius",
+        "province": "Grand Port",
+        "population": 9935,
+        "latitude": -20.4086111,
+        "longitude": 57.6136111
+    },
+    {
+        "name": "Piton",
+        "country": "Mauritius",
+        "province": "Rivière du Rempart",
+        "population": 5909,
+        "latitude": -20.0902778,
+        "longitude": 57.6302778
+    },
+    {
+        "name": "Montagne Blanche",
+        "country": "Mauritius",
+        "province": "Mauritius",
+        "population": 8661,
+        "latitude": -20.28538,
+        "longitude": 57.65865
+    },
+    {
+        "name": "Long Mountain",
+        "country": "Mauritius",
+        "province": "Pamplemousses",
+        "population": 7775,
+        "latitude": -20.1430556,
+        "longitude": 57.5622222
+    },
+    {
+        "name": "Dagotière",
+        "country": "Mauritius",
+        "province": "Moka",
+        "population": 6915,
+        "latitude": -20.24476,
+        "longitude": 57.56188
+    },
+    {
+        "name": "Grand Bois",
+        "country": "Mauritius",
+        "province": "Savanne",
+        "population": 7804,
+        "latitude": -20.4188889,
+        "longitude": 57.5441667
+    },
+    {
+        "name": "Espérance Trébuchet",
+        "country": "Mauritius",
+        "province": "Rivière du Rempart",
+        "population": 2323,
+        "latitude": -20.0697222,
+        "longitude": 57.6419444
+    },
+    {
+        "name": "Chamarel",
+        "country": "Mauritius",
+        "province": "Black River",
+        "population": 723,
+        "latitude": -20.4225,
+        "longitude": 57.3838889
+    },
+    {
+        "name": "Camp Thorel",
+        "country": "Mauritius",
+        "province": "Moka",
+        "population": 2299,
+        "latitude": -20.2147222,
+        "longitude": 57.6161111
+    },
+    {
+        "name": "Camp de Masque",
+        "country": "Mauritius",
+        "province": "Flacq",
+        "population": 2721,
+        "latitude": -20.2369444,
+        "longitude": 57.6633333
+    },
+    {
+        "name": "Bel Ombre",
+        "country": "Mauritius",
+        "province": "Savanne",
+        "population": -1,
+        "latitude": -20.5022222,
+        "longitude": 57.4061111
+    },
+    {
+        "name": "Belle Vue Maurel",
+        "country": "Mauritius",
+        "province": "Rivière du Rempart",
+        "population": -1,
+        "latitude": -20.1202778,
+        "longitude": 57.6636111
+    },
+    {
+        "name": "Beau Vallon",
+        "country": "Mauritius",
+        "province": "Grand Port",
+        "population": -1,
+        "latitude": -20.35,
+        "longitude": 57.6833333
+    },
+    {
+        "name": "Anse aux Anglais",
+        "country": "Mauritius",
+        "province": "Rodrigues",
+        "population": -1,
+        "latitude": -19.675,
+        "longitude": 63.4305556
+    },
+    {
+        "name": "Le Morne",
+        "country": "Mauritius",
+        "province": "Black River",
+        "population": -1,
+        "latitude": -20.44494,
+        "longitude": 57.32619
+    },
+    {
+        "name": "Cargados Carajos",
+        "country": "Mauritius",
+        "province": "Cargados Carajos",
+        "population": 63,
+        "latitude": -16.603293866080232,
+        "longitude": 59.65850830078125
+    },
+    {
+        "name": "Calodyne",
+        "country": "Mauritius",
+        "province": "Rivière du Rempart",
+        "population": -1,
+        "latitude": -20.002148,
+        "longitude": 57.642488
+    },
+    {
+        "name": "Vingt Cinq",
+        "country": "Mauritius",
+        "province": "Agalega Islands",
+        "population": 250,
+        "latitude": -10.38803,
+        "longitude": 56.61795
+    },
+    {
+        "name": "Laventure",
+        "country": "Mauritius",
+        "province": "Flacq",
+        "population": 6171,
+        "latitude": -20.1458333,
+        "longitude": 57.6766667
+    },
+    {
+        "name": "Cluny",
+        "country": "Mauritius",
+        "province": "Grand Port",
+        "population": 1629,
+        "latitude": -20.3669444,
+        "longitude": 57.6038889
+    },
+    {
+        "name": "Cottage",
+        "country": "Mauritius",
+        "province": "Rivière du Rempart",
+        "population": 3646,
+        "latitude": -20.0597222,
+        "longitude": 57.6291667
+    },
+    {
+        "name": "Congomah",
+        "country": "Mauritius",
+        "province": "Pamplemousses",
+        "population": 1956,
+        "latitude": -20.1488889,
+        "longitude": 57.5908333
+    },
+    {
+        "name": "Amaury",
+        "country": "Mauritius",
+        "province": "Rivière du Rempart",
+        "population": 2912,
+        "latitude": -20.1308333,
+        "longitude": 57.6591667
+    },
+    {
+        "name": "Plaines des Roches",
+        "country": "Mauritius",
+        "province": "Rivière du Rempart",
+        "population": 4218,
+        "latitude": -20.1116667,
+        "longitude": 57.6908333
+    },
+    {
+        "name": "Mare La Chaux",
+        "country": "Mauritius",
+        "province": "Flacq",
+        "population": 2058,
+        "latitude": -20.1980556,
+        "longitude": 57.7494444
+    },
+    {
+        "name": "Camp Ithier",
+        "country": "Mauritius",
+        "province": "Flacq",
+        "population": 4401,
+        "latitude": -20.2158333,
+        "longitude": 57.7455556
+    },
+    {
+        "name": "Ecroignard",
+        "country": "Mauritius",
+        "province": "Flacq",
+        "population": 5952,
+        "latitude": -20.2261111,
+        "longitude": 57.7361111
+    },
+    {
+        "name": "Bambous Virieux",
+        "country": "Mauritius",
+        "province": "Grand Port",
+        "population": 1540,
+        "latitude": -20.3427778,
+        "longitude": 57.7575
+    },
+    {
+        "name": "Gros Cailloux",
+        "country": "Mauritius",
+        "province": "Black River",
+        "population": 3361,
+        "latitude": -20.2072222,
+        "longitude": 57.43
+    },
+    {
+        "name": "Calebasses",
+        "country": "Mauritius",
+        "province": "Pamplemousses",
+        "population": 4648,
+        "latitude": -20.1116667,
+        "longitude": 57.5538889
+    },
+    {
+        "name": "Saint Hubert",
+        "country": "Mauritius",
+        "province": "Grand Port",
+        "population": 4170,
+        "latitude": -20.3641667,
+        "longitude": 57.6383333
+    },
+    {
+        "name": "Roche Terre",
+        "country": "Mauritius",
+        "province": "Rivière du Rempart",
+        "population": 3199,
+        "latitude": -20.0186111,
+        "longitude": 57.6447222
+    },
+    {
+        "name": "Queen Victoria",
+        "country": "Mauritius",
+        "province": "Flacq",
+        "population": 3025,
+        "latitude": -20.22,
+        "longitude": 57.7075
+    },
+    {
+        "name": "Providence",
+        "country": "Mauritius",
+        "province": "Moka",
+        "population": 3126,
+        "latitude": -20.2447222,
+        "longitude": 57.6122222
+    },
+    {
+        "name": "Port Sainte Rita",
+        "country": "Mauritius",
+        "province": "Agalega Islands",
+        "population": -1,
+        "latitude": -10.4833333,
+        "longitude": 56.7
+    },
+    {
+        "name": "Pointe aux Canonniers",
+        "country": "Mauritius",
+        "province": "Pamplemousses",
+        "population": -1,
+        "latitude": -20.0083333,
+        "longitude": 57.56
+    },
+    {
+        "name": "Petite Case Noyale",
+        "country": "Mauritius",
+        "province": "Black River",
+        "population": 1525,
+        "latitude": -20.3930556,
+        "longitude": 57.365
+    },
+    {
+        "name": "Melrose",
+        "country": "Mauritius",
+        "province": "Moka",
+        "population": 2002,
+        "latitude": -20.2697222,
+        "longitude": 57.6319444
+    },
+    {
+        "name": "Grand Sable",
+        "country": "Mauritius",
+        "province": "Grand Port",
+        "population": 2208,
+        "latitude": -20.3141667,
+        "longitude": 57.7644444
+    },
+    {
+        "name": "Clémencia",
+        "country": "Mauritius",
+        "province": "Flacq",
+        "population": 1835,
+        "latitude": -20.2638889,
+        "longitude": 57.7061111
+    },
+    {
+        "name": "Chamouny",
+        "country": "Mauritius",
+        "province": "Savanne",
+        "population": 4913,
+        "latitude": -20.4822222,
+        "longitude": 57.4661111
+    },
+    {
+        "name": "Cascavelle",
+        "country": "Mauritius",
+        "province": "Black River",
+        "population": 2613,
+        "latitude": -20.2869444,
+        "longitude": 57.4072222
+    },
+    {
+        "name": "Camp Diable",
+        "country": "Mauritius",
+        "province": "Savanne",
+        "population": 5082,
+        "latitude": -20.4627778,
+        "longitude": 57.5788889
+    },
+    {
+        "name": "Brisée Verdière",
+        "country": "Mauritius",
+        "province": "Flacq",
+        "population": 7374,
+        "latitude": -20.1638889,
+        "longitude": 57.6466667
+    },
+    {
+        "name": "Bon Accueil",
+        "country": "Mauritius",
+        "province": "Flacq",
+        "population": 6553,
+        "latitude": -20.1708333,
+        "longitude": 57.6563889
+    },
+    {
+        "name": "Bois d’Oiseaux",
+        "country": "Mauritius",
+        "province": "Flacq",
+        "population": -1,
+        "latitude": -20.1625,
+        "longitude": 57.685
+    },
+    {
+        "name": "Bois des Amourettes",
+        "country": "Mauritius",
+        "province": "Grand Port",
+        "population": 1986,
+        "latitude": -20.3630556,
+        "longitude": 57.7311111
+    },
+    {
+        "name": "Baie Mannioc",
+        "country": "Mauritius",
+        "province": "Flacq",
+        "population": -1,
+        "latitude": -20.2913889,
+        "longitude": 57.73
+    },
+    {
+        "name": "Saint Gabriel",
+        "country": "Mauritius",
+        "province": "Rodrigues",
+        "population": -1,
+        "latitude": -19.7,
+        "longitude": 63.4333333
+    },
+    {
+        "name": "Plaine Corail",
+        "country": "Mauritius",
+        "province": "Rodrigues",
+        "population": -1,
+        "latitude": -19.75386,
+        "longitude": 63.35979
+    },
+    {
+        "name": "Baie du Cap",
+        "country": "Mauritius",
+        "province": "Savanne",
+        "population": -1,
+        "latitude": -20.4883333,
+        "longitude": 57.3705556
+    },
+    {
+        "name": "Péreybère",
+        "country": "Mauritius",
+        "province": "Rivière du Rempart",
+        "population": -1,
+        "latitude": -19.99883,
+        "longitude": 57.5885
+    },
+    {
+        "name": "Pointe aux Piments",
+        "country": "Mauritius",
+        "province": "Pamplemousses",
+        "population": 7556,
+        "latitude": -20.06494,
+        "longitude": 57.52347
+    },
+    {
+        "name": "Barlow",
+        "country": "Mauritius",
+        "province": "Rivière du Rempart",
+        "population": -1,
+        "latitude": -20.1241667,
+        "longitude": 57.6477778
+    },
+    {
+        "name": "Belle Mare",
+        "country": "Mauritius",
+        "province": "Flacq",
+        "population": -1,
+        "latitude": -20.19957,
+        "longitude": 57.77865
+    },
+    {
+        "name": "Quatre Cocos",
+        "country": "Mauritius",
+        "province": "Flacq",
+        "population": 5724,
+        "latitude": -20.20151,
+        "longitude": 57.77448
+    },
+    {
+        "name": "Bramsthan",
+        "country": "Mauritius",
+        "province": "Flacq",
+        "population": -1,
+        "latitude": -20.2097222,
+        "longitude": 57.7305556
+    },
+    {
+        "name": "Saint Remy",
+        "country": "Mauritius",
+        "province": "Flacq",
+        "population": -1,
+        "latitude": -20.1872222,
+        "longitude": 57.7119444
+    },
+    {
+        "name": "Ferney",
+        "country": "Mauritius",
+        "province": "Grand Port",
+        "population": -1,
+        "latitude": -20.36808,
+        "longitude": 57.69783
+    },
+    {
+        "name": "La Flora",
+        "country": "Mauritius",
+        "province": "Savanne",
+        "population": -1,
+        "latitude": -20.4102778,
+        "longitude": 57.5536111
+    },
+    {
+        "name": "Bananes",
+        "country": "Mauritius",
+        "province": "Grand Port",
+        "population": 652,
+        "latitude": -20.3466667,
+        "longitude": 57.5886111
+    },
+    {
+        "name": "Dubreuil",
+        "country": "Mauritius",
+        "province": "Moka",
+        "population": 2726,
+        "latitude": -20.30132,
+        "longitude": 57.59861
+    },
+    {
+        "name": "Ville d’Apray",
+        "country": "Mauritius",
+        "province": "Plaines Wilhems",
+        "population": -1,
+        "latitude": -20.336389,
+        "longitude": 57.563056
+    },
+    {
+        "name": "Vieux Grand Port",
+        "country": "Mauritius",
+        "province": "Grand Port",
+        "population": -1,
+        "latitude": -20.37444,
+        "longitude": 57.71899
+    },
+    {
+        "name": "Réunion Maurel",
+        "country": "Mauritius",
+        "province": "Rivière du Rempart",
+        "population": -1,
+        "latitude": -20.019167,
+        "longitude": 57.630833
+    },
+    {
+        "name": "The Mount",
+        "country": "Mauritius",
+        "province": "Pamplemousses",
+        "population": -1,
+        "latitude": -20.1113889,
+        "longitude": 57.6022222
+    },
+    {
+        "name": "Sebastopol",
+        "country": "Mauritius",
+        "province": "Flacq",
+        "population": 5745,
+        "latitude": -20.2907,
+        "longitude": 57.68779
+    },
+    {
+        "name": "Saint Martin",
+        "country": "Mauritius",
+        "province": "Savanne",
+        "population": -1,
+        "latitude": -20.4963889,
+        "longitude": 57.3883333
+    },
+    {
+        "name": "Frederica",
+        "country": "Mauritius",
+        "province": "Savanne",
+        "population": -1,
+        "latitude": -20.4836111,
+        "longitude": 57.425
+    },
+    {
+        "name": "Rouge Terre",
+        "country": "Mauritius",
+        "province": "Pamplemousses",
+        "population": -1,
+        "latitude": -20.0433333,
+        "longitude": 57.5683333
+    },
+    {
+        "name": "Rivière Dragon",
+        "country": "Mauritius",
+        "province": "Savanne",
+        "population": -1,
+        "latitude": -20.446111,
+        "longitude": 57.56
+    },
+    {
+        "name": "Richeterre",
+        "country": "Mauritius",
+        "province": "Pamplemousses",
+        "population": -1,
+        "latitude": -20.1166667,
+        "longitude": 57.5
+    },
+    {
+        "name": "Ravin",
+        "country": "Mauritius",
+        "province": "Rivière du Rempart",
+        "population": -1,
+        "latitude": -20.1,
+        "longitude": 57.6833333
+    },
+    {
+        "name": "Poudre d’Or",
+        "country": "Mauritius",
+        "province": "Rivière du Rempart",
+        "population": -1,
+        "latitude": -20.06,
+        "longitude": 57.676667
+    },
+    {
+        "name": "Pont Praslin",
+        "country": "Mauritius",
+        "province": "Pamplemousses",
+        "population": -1,
+        "latitude": -20.1494444,
+        "longitude": 57.6325
+    },
+    {
+        "name": "Phoenix",
+        "country": "Mauritius",
+        "province": "Plaines Wilhems",
+        "population": -1,
+        "latitude": -20.2866667,
+        "longitude": 57.5022222
+    },
+    {
+        "name": "Petit Raffray",
+        "country": "Mauritius",
+        "province": "Rivière du Rempart",
+        "population": 9117,
+        "latitude": -20.02022,
+        "longitude": 57.62296
+    },
+    {
+        "name": "Petit Verger",
+        "country": "Mauritius",
+        "province": "Black River",
+        "population": -1,
+        "latitude": -20.1755556,
+        "longitude": 57.4336111
+    },
+    {
+        "name": "Mount Ory",
+        "country": "Mauritius",
+        "province": "Moka",
+        "population": -1,
+        "latitude": -20.217181,
+        "longitude": 57.490054
+    },
+    {
+        "name": "Mon Loisir",
+        "country": "Mauritius",
+        "province": "Port Louis",
+        "population": -1,
+        "latitude": -20.0327778,
+        "longitude": 57.6191667
+    },
+    {
+        "name": "Mare Jacot",
+        "country": "Mauritius",
+        "province": "Flacq",
+        "population": -1,
+        "latitude": -20.2477778,
+        "longitude": 57.6763889
+    },
+    {
+        "name": "L’Unité",
+        "country": "Mauritius",
+        "province": "Flacq",
+        "population": -1,
+        "latitude": -20.232778,
+        "longitude": 57.667222
+    },
+    {
+        "name": "L’Union",
+        "country": "Mauritius",
+        "province": "Mauritius",
+        "population": -1,
+        "latitude": -20.5,
+        "longitude": 57.466667
+    },
+    {
+        "name": "Luchon",
+        "country": "Mauritius",
+        "province": "Savanne",
+        "population": -1,
+        "latitude": -20.4666667,
+        "longitude": 57.45
+    },
+    {
+        "name": "L’Étoile",
+        "country": "Mauritius",
+        "province": "Flacq",
+        "population": -1,
+        "latitude": -20.304444,
+        "longitude": 57.703056
+    },
+    {
+        "name": "L’Escalier",
+        "country": "Mauritius",
+        "province": "Grand Port",
+        "population": -1,
+        "latitude": -20.47,
+        "longitude": 57.612222
+    },
+    {
+        "name": "Réduit",
+        "country": "Mauritius",
+        "province": "Moka",
+        "population": -1,
+        "latitude": -20.234359,
+        "longitude": 57.493857
+    },
+    {
+        "name": "Le Plessis",
+        "country": "Mauritius",
+        "province": "Pamplemousses",
+        "population": -1,
+        "latitude": -20.1147222,
+        "longitude": 57.5975
+    },
+    {
+        "name": "La Rampe - Le Moirt",
+        "country": "Mauritius",
+        "province": "Grand Port",
+        "population": -1,
+        "latitude": -20.4258333,
+        "longitude": 57.6316667
+    },
+    {
+        "name": "La Barraque",
+        "country": "Mauritius",
+        "province": "Grand Port",
+        "population": -1,
+        "latitude": -20.4669444,
+        "longitude": 57.6194444
+    },
+    {
+        "name": "Joli Bois",
+        "country": "Mauritius",
+        "province": "Grand Port",
+        "population": -1,
+        "latitude": -20.4411111,
+        "longitude": 57.58
+    },
+    {
+        "name": "Hervé",
+        "country": "Mauritius",
+        "province": "Moka",
+        "population": -1,
+        "latitude": -20.266667,
+        "longitude": 57.6
+    },
+    {
+        "name": "Haute Rive",
+        "country": "Mauritius",
+        "province": "Rivière du Rempart",
+        "population": -1,
+        "latitude": -20.0969444,
+        "longitude": 57.6980556
+    },
+    {
+        "name": "Gros Bois",
+        "country": "Mauritius",
+        "province": "Grand Port",
+        "population": -1,
+        "latitude": -20.4377778,
+        "longitude": 57.6072222
+    },
+    {
+        "name": "Grande Retraite",
+        "country": "Mauritius",
+        "province": "Flacq",
+        "population": -1,
+        "latitude": -20.1655556,
+        "longitude": 57.6766667
+    },
+    {
+        "name": "Gokoola",
+        "country": "Mauritius",
+        "province": "Rivière du Rempart",
+        "population": -1,
+        "latitude": -20.1041667,
+        "longitude": 57.6469444
+    },
+    {
+        "name": "Seizième Mille",
+        "country": "Mauritius",
+        "province": "Plaines Wilhems",
+        "population": -1,
+        "latitude": -20.34294,
+        "longitude": 57.54712
+    },
+    {
+        "name": "Eau Bleue",
+        "country": "Mauritius",
+        "province": "Grand Port",
+        "population": -1,
+        "latitude": -20.3736111,
+        "longitude": 57.6236111
+    },
+    {
+        "name": "Coteau Raffin",
+        "country": "Mauritius",
+        "province": "Black River",
+        "population": -1,
+        "latitude": -20.43472,
+        "longitude": 57.35447
+    },
+    {
+        "name": "Clarence",
+        "country": "Mauritius",
+        "province": "Black River",
+        "population": -1,
+        "latitude": -20.2977778,
+        "longitude": 57.3925
+    },
+    {
+        "name": "Chantenay",
+        "country": "Mauritius",
+        "province": "Moka",
+        "population": -1,
+        "latitude": -20.217132,
+        "longitude": 57.520095
+    },
+    {
+        "name": "Cazela",
+        "country": "Mauritius",
+        "province": "Black River",
+        "population": -1,
+        "latitude": -20.2947222,
+        "longitude": 57.3947222
+    },
+    {
+        "name": "Camp Créole",
+        "country": "Mauritius",
+        "province": "Pamplemousses",
+        "population": -1,
+        "latitude": -20.1327778,
+        "longitude": 57.5933333
+    },
+    {
+        "name": "Camp Accacia",
+        "country": "Mauritius",
+        "province": "Grand Port",
+        "population": -1,
+        "latitude": -20.4638889,
+        "longitude": 57.6611111
+    },
+    {
+        "name": "Le Bouchon",
+        "country": "Mauritius",
+        "province": "Grand Port",
+        "population": -1,
+        "latitude": -20.465,
+        "longitude": 57.6697222
+    },
+    {
+        "name": "Camp Garreau",
+        "country": "Mauritius",
+        "province": "Flacq",
+        "population": -1,
+        "latitude": -20.2005556,
+        "longitude": 57.7122222
+    },
+    {
+        "name": "Bois Marchand",
+        "country": "Mauritius",
+        "province": "Pamplemousses",
+        "population": -1,
+        "latitude": -20.1233333,
+        "longitude": 57.5330556
+    },
+    {
+        "name": "Bois d’Oiseaux",
+        "country": "Mauritius",
+        "province": "Flacq",
+        "population": -1,
+        "latitude": -20.297778,
+        "longitude": 57.735
+    },
+    {
+        "name": "Belle Vue Pilot",
+        "country": "Mauritius",
+        "province": "Pamplemousses",
+        "population": -1,
+        "latitude": -20.05486,
+        "longitude": 57.58365
+    },
+    {
+        "name": "Belle Vue Harel",
+        "country": "Mauritius",
+        "province": "Pamplemousses",
+        "population": -1,
+        "latitude": -20.0658333,
+        "longitude": 57.5941667
+    },
+    {
+        "name": "Belle Rose",
+        "country": "Mauritius",
+        "province": "Moka",
+        "population": -1,
+        "latitude": -20.215,
+        "longitude": 57.5183333
+    },
+    {
+        "name": "Grand Bel Air",
+        "country": "Mauritius",
+        "province": "Grand Port",
+        "population": -1,
+        "latitude": -20.40936,
+        "longitude": 57.68011
+    },
+    {
+        "name": "Beau Plan",
+        "country": "Mauritius",
+        "province": "Pamplemousses",
+        "population": -1,
+        "latitude": -20.0941667,
+        "longitude": 57.5683333
+    },
+    {
+        "name": "Beau Manguier",
+        "country": "Mauritius",
+        "province": "Rivière du Rempart",
+        "population": -1,
+        "latitude": -19.9838889,
+        "longitude": 57.6011111
+    },
+    {
+        "name": "Batimarais",
+        "country": "Mauritius",
+        "province": "Savanne",
+        "population": -1,
+        "latitude": -20.4813889,
+        "longitude": 57.5675
+    },
+    {
+        "name": "Robinson",
+        "country": "Mauritius",
+        "province": "Pamplemousses",
+        "population": -1,
+        "latitude": -20.172891,
+        "longitude": 57.569327
+    },
+    {
+        "name": "Astroea",
+        "country": "Mauritius",
+        "province": "Grand Port",
+        "population": -1,
+        "latitude": -20.3908333,
+        "longitude": 57.6288889
+    },
+    {
+        "name": "Amitié",
+        "country": "Mauritius",
+        "province": "Rivière du Rempart",
+        "population": -1,
+        "latitude": -20.1094444,
+        "longitude": 57.6638889
+    },
+    {
+        "name": "Albion",
+        "country": "Mauritius",
+        "province": "Black River",
+        "population": 3254,
+        "latitude": -20.20814,
+        "longitude": 57.40766
+    },
+    {
+        "name": "Port Sud-Est",
+        "country": "Mauritius",
+        "province": "Rodrigues",
+        "population": -1,
+        "latitude": -19.75,
+        "longitude": 63.45
+    },
+    {
+        "name": "Lataniers",
+        "country": "Mauritius",
+        "province": "Rodrigues",
+        "population": -1,
+        "latitude": -19.7138889,
+        "longitude": 63.4472222
+    },
+    {
+        "name": "Mangue",
+        "country": "Mauritius",
+        "province": "Rodrigues",
+        "population": -1,
+        "latitude": -19.7166667,
+        "longitude": 63.3916667
+    },
+    {
+        "name": "Mon Trésor - Mon Désert",
+        "country": "Mauritius",
+        "province": "Grand Port",
+        "population": -1,
+        "latitude": -20.4475,
+        "longitude": 57.6716667
+    },
+    {
+        "name": "Providence",
+        "country": "Mauritius",
+        "province": "Grand Port",
+        "population": -1,
+        "latitude": -20.355,
+        "longitude": 57.7363889
+    },
+    {
+        "name": "Petite Rosalie",
+        "country": "Mauritius",
+        "province": "Pamplemousses",
+        "population": -1,
+        "latitude": -20.1202778,
+        "longitude": 57.6025
+    },
+    {
+        "name": "Madame Cayeux",
+        "country": "Mauritius",
+        "province": "Pamplemousses",
+        "population": -1,
+        "latitude": -20.1119444,
+        "longitude": 57.5875
+    },
+    {
+        "name": "Camp des Embrevades",
+        "country": "Mauritius",
+        "province": "Pamplemousses",
+        "population": -1,
+        "latitude": -20.1147222,
+        "longitude": 57.5702778
+    },
+    {
+        "name": "L’Espérance",
+        "country": "Mauritius",
+        "province": "Rivière du Rempart",
+        "population": -1,
+        "latitude": -20.086389,
+        "longitude": 57.635556
+    },
+    {
+        "name": "Poudre d’Or Hamlet",
+        "country": "Mauritius",
+        "province": "Rivière du Rempart",
+        "population": -1,
+        "latitude": -20.076944,
+        "longitude": 57.647778
+    },
+    {
+        "name": "Germain",
+        "country": "Mauritius",
+        "province": "Rivière du Rempart",
+        "population": -1,
+        "latitude": -20.0158333,
+        "longitude": 57.6663889
+    },
+    {
+        "name": "Madame Azor",
+        "country": "Mauritius",
+        "province": "Rivière du Rempart",
+        "population": -1,
+        "latitude": -20.03,
+        "longitude": 57.6611111
+    },
+    {
+        "name": "Mamzelle Jeanne",
+        "country": "Mauritius",
+        "province": "Rivière du Rempart",
+        "population": -1,
+        "latitude": -20.0302778,
+        "longitude": 57.6497222
+    },
+    {
+        "name": "Pavillon",
+        "country": "Mauritius",
+        "province": "Rivière du Rempart",
+        "population": -1,
+        "latitude": -19.9897222,
+        "longitude": 57.6088889
+    },
+    {
+        "name": "Camp Bestel",
+        "country": "Mauritius",
+        "province": "Pamplemousses",
+        "population": -1,
+        "latitude": -20.0536111,
+        "longitude": 57.5213889
+    },
+    {
+        "name": "Petit Gamin",
+        "country": "Mauritius",
+        "province": "Pamplemousses",
+        "population": -1,
+        "latitude": -20.1038889,
+        "longitude": 57.5175
+    },
+    {
+        "name": "Bois Pignolet",
+        "country": "Mauritius",
+        "province": "Pamplemousses",
+        "population": -1,
+        "latitude": -20.132374,
+        "longitude": 57.544623
+    },
+    {
+        "name": "Baillache",
+        "country": "Mauritius",
+        "province": "Pamplemousses",
+        "population": -1,
+        "latitude": -20.147315,
+        "longitude": 57.571389
+    },
+    {
+        "name": "Ruisseau Rose",
+        "country": "Mauritius",
+        "province": "Pamplemousses",
+        "population": -1,
+        "latitude": -20.156535,
+        "longitude": 57.574856
+    },
+    {
+        "name": "Belvédère",
+        "country": "Mauritius",
+        "province": "Pamplemousses",
+        "population": -1,
+        "latitude": -20.1483333,
+        "longitude": 57.5833333
+    },
+    {
+        "name": "Les Mariannes",
+        "country": "Mauritius",
+        "province": "Pamplemousses",
+        "population": -1,
+        "latitude": -20.1641667,
+        "longitude": 57.5836111
+    },
+    {
+        "name": "Îlot",
+        "country": "Mauritius",
+        "province": "Pamplemousses",
+        "population": -1,
+        "latitude": -20.13,
+        "longitude": 57.5725
+    },
+    {
+        "name": "D’Epinay",
+        "country": "Mauritius",
+        "province": "Pamplemousses",
+        "population": -1,
+        "latitude": -20.126944,
+        "longitude": 57.589167
+    },
+    {
+        "name": "Petite Julie",
+        "country": "Mauritius",
+        "province": "Pamplemousses",
+        "population": -1,
+        "latitude": -20.1386111,
+        "longitude": 57.6183333
+    },
+    {
+        "name": "Mon Songe",
+        "country": "Mauritius",
+        "province": "Rivière du Rempart",
+        "population": -1,
+        "latitude": -20.1361111,
+        "longitude": 57.6344444
+    },
+    {
+        "name": "Bois Jacot",
+        "country": "Mauritius",
+        "province": "Mauritius",
+        "population": -1,
+        "latitude": -20.1358333,
+        "longitude": 57.665
+    },
+    {
+        "name": "Mare d’Australia",
+        "country": "Mauritius",
+        "province": "Flacq",
+        "population": -1,
+        "latitude": -20.152778,
+        "longitude": 57.640556
+    },
+    {
+        "name": "La Clémence",
+        "country": "Mauritius",
+        "province": "Rivière du Rempart",
+        "population": -1,
+        "latitude": -20.1027778,
+        "longitude": 57.6763889
+    },
+    {
+        "name": "Hermitage",
+        "country": "Mauritius",
+        "province": "Rivière du Rempart",
+        "population": -1,
+        "latitude": -20.0811111,
+        "longitude": 57.6847222
+    },
+    {
+        "name": "Camp Poorun",
+        "country": "Mauritius",
+        "province": "Flacq",
+        "population": -1,
+        "latitude": -20.1675,
+        "longitude": 57.7252778
+    },
+    {
+        "name": "Providence",
+        "country": "Mauritius",
+        "province": "Flacq",
+        "population": -1,
+        "latitude": -20.1788889,
+        "longitude": 57.7280556
+    },
+    {
+        "name": "Camp Bouillon",
+        "country": "Mauritius",
+        "province": "Flacq",
+        "population": -1,
+        "latitude": -20.1886111,
+        "longitude": 57.7322222
+    },
+    {
+        "name": "Isidore Rose",
+        "country": "Mauritius",
+        "province": "Flacq",
+        "population": -1,
+        "latitude": -20.2077778,
+        "longitude": 57.7480556
+    },
+    {
+        "name": "Palmar",
+        "country": "Mauritius",
+        "province": "Flacq",
+        "population": -1,
+        "latitude": -20.21098,
+        "longitude": 57.78985
+    },
+    {
+        "name": "La Commune",
+        "country": "Mauritius",
+        "province": "Flacq",
+        "population": -1,
+        "latitude": -20.3083333,
+        "longitude": 57.7208333
+    },
+    {
+        "name": "Camp Bonnemère",
+        "country": "Mauritius",
+        "province": "Flacq",
+        "population": -1,
+        "latitude": -20.2088889,
+        "longitude": 57.6961111
+    },
+    {
+        "name": "Petit Bois",
+        "country": "Mauritius",
+        "province": "Flacq",
+        "population": -1,
+        "latitude": -20.2413889,
+        "longitude": 57.755
+    },
+    {
+        "name": "La Caroline",
+        "country": "Mauritius",
+        "province": "Flacq",
+        "population": -1,
+        "latitude": -20.2458333,
+        "longitude": 57.7466667
+    },
+    {
+        "name": "Ernest Florent",
+        "country": "Mauritius",
+        "province": "Flacq",
+        "population": -1,
+        "latitude": -20.2641667,
+        "longitude": 57.7591667
+    },
+    {
+        "name": "Marie Jeanne",
+        "country": "Mauritius",
+        "province": "Flacq",
+        "population": -1,
+        "latitude": -20.3038889,
+        "longitude": 57.7608333
+    },
+    {
+        "name": "Pointe aux Feuilles",
+        "country": "Mauritius",
+        "province": "Flacq",
+        "population": -1,
+        "latitude": -20.3058333,
+        "longitude": 57.7733333
+    },
+    {
+        "name": "Deux Frères",
+        "country": "Mauritius",
+        "province": "Flacq",
+        "population": -1,
+        "latitude": -20.2866667,
+        "longitude": 57.7711111
+    },
+    {
+        "name": "Clavet",
+        "country": "Mauritius",
+        "province": "Flacq",
+        "population": -1,
+        "latitude": -20.2986111,
+        "longitude": 57.6977778
+    },
+    {
+        "name": "Pellegrin",
+        "country": "Mauritius",
+        "province": "Flacq",
+        "population": -1,
+        "latitude": -20.2775,
+        "longitude": 57.6791667
+    },
+    {
+        "name": "Petite Cabane",
+        "country": "Mauritius",
+        "province": "Flacq",
+        "population": -1,
+        "latitude": -20.2519444,
+        "longitude": 57.6688889
+    },
+    {
+        "name": "Camp de Masque Pave",
+        "country": "Mauritius",
+        "province": "Flacq",
+        "population": -1,
+        "latitude": -20.2361111,
+        "longitude": 57.675
+    },
+    {
+        "name": "Union Flacq",
+        "country": "Mauritius",
+        "province": "Flacq",
+        "population": -1,
+        "latitude": -20.2044444,
+        "longitude": 57.6855556
+    },
+    {
+        "name": "Belle Vue Allendy",
+        "country": "Mauritius",
+        "province": "Flacq",
+        "population": -1,
+        "latitude": -20.1883333,
+        "longitude": 57.6986111
+    },
+    {
+        "name": "Grand dans Fond",
+        "country": "Mauritius",
+        "province": "Flacq",
+        "population": -1,
+        "latitude": -20.1811111,
+        "longitude": 57.6666667
+    },
+    {
+        "name": "Belvédère",
+        "country": "Mauritius",
+        "province": "Flacq",
+        "population": -1,
+        "latitude": -20.178468073844748,
+        "longitude": 57.659597396850586
+    },
+    {
+        "name": "Pointe aux Roches",
+        "country": "Mauritius",
+        "province": "Grand Port",
+        "population": -1,
+        "latitude": -20.3233333,
+        "longitude": 57.7625
+    },
+    {
+        "name": "Petit Sable",
+        "country": "Mauritius",
+        "province": "Grand Port",
+        "population": -1,
+        "latitude": -20.3286111,
+        "longitude": 57.76
+    },
+    {
+        "name": "Anse Jonchée",
+        "country": "Mauritius",
+        "province": "Grand Port",
+        "population": -1,
+        "latitude": -20.3475,
+        "longitude": 57.7452778
+    },
+    {
+        "name": "Le Vallon",
+        "country": "Mauritius",
+        "province": "Grand Port",
+        "population": -1,
+        "latitude": -20.3619444,
+        "longitude": 57.6825
+    },
+    {
+        "name": "Camp Jardin",
+        "country": "Mauritius",
+        "province": "Grand Port",
+        "population": -1,
+        "latitude": -20.3880556,
+        "longitude": 57.6555556
+    },
+    {
+        "name": "Ville Noire",
+        "country": "Mauritius",
+        "province": "Grand Port",
+        "population": -1,
+        "latitude": -20.40835,
+        "longitude": 57.6962
+    },
+    {
+        "name": "Pointe d’Esny",
+        "country": "Mauritius",
+        "province": "Grand Port",
+        "population": -1,
+        "latitude": -20.43035,
+        "longitude": 57.72693
+    },
+    {
+        "name": "Camp Carol",
+        "country": "Mauritius",
+        "province": "Grand Port",
+        "population": -1,
+        "latitude": -20.4575,
+        "longitude": 57.6708333
+    },
+    {
+        "name": "Trois Boutiques",
+        "country": "Mauritius",
+        "province": "Grand Port",
+        "population": -1,
+        "latitude": -20.4488889,
+        "longitude": 57.6411111
+    },
+    {
+        "name": "Plein Bois",
+        "country": "Mauritius",
+        "province": "Grand Port",
+        "population": -1,
+        "latitude": -20.4575,
+        "longitude": 57.6211111
+    },
+    {
+        "name": "La Sourdine",
+        "country": "Mauritius",
+        "province": "Grand Port",
+        "population": -1,
+        "latitude": -20.4783333,
+        "longitude": 57.6127778
+    },
+    {
+        "name": "Union Park",
+        "country": "Mauritius",
+        "province": "Grand Port",
+        "population": -1,
+        "latitude": -20.3863889,
+        "longitude": 57.5736111
+    },
+    {
+        "name": "Balisson",
+        "country": "Mauritius",
+        "province": "Grand Port",
+        "population": -1,
+        "latitude": -20.3927778,
+        "longitude": 57.5819444
+    },
+    {
+        "name": "Marie Jeanie",
+        "country": "Mauritius",
+        "province": "Grand Port",
+        "population": -1,
+        "latitude": -20.3961111,
+        "longitude": 57.5880556
+    },
+    {
+        "name": "Bémanique",
+        "country": "Mauritius",
+        "province": "Grand Port",
+        "population": -1,
+        "latitude": -20.3727778,
+        "longitude": 57.5863889
+    },
+    {
+        "name": "Saint Hilaire",
+        "country": "Mauritius",
+        "province": "Grand Port",
+        "population": -1,
+        "latitude": -20.3736111,
+        "longitude": 57.6408333
+    },
+    {
+        "name": "Sainte Madeleine",
+        "country": "Mauritius",
+        "province": "Grand Port",
+        "population": -1,
+        "latitude": -20.3605556,
+        "longitude": 57.6341667
+    },
+    {
+        "name": "Britannia",
+        "country": "Mauritius",
+        "province": "Savanne",
+        "population": -1,
+        "latitude": -20.4502778,
+        "longitude": 57.5575
+    },
+    {
+        "name": "Saint Avold",
+        "country": "Mauritius",
+        "province": "Savanne",
+        "population": -1,
+        "latitude": -20.4375,
+        "longitude": 57.5508333
+    },
+    {
+        "name": "Camp Berthaud",
+        "country": "Mauritius",
+        "province": "Savanne",
+        "population": -1,
+        "latitude": -20.4425,
+        "longitude": 57.5519444
+    },
+    {
+        "name": "Senneville",
+        "country": "Mauritius",
+        "province": "Savanne",
+        "population": -1,
+        "latitude": -20.5011111,
+        "longitude": 57.55
+    },
+    {
+        "name": "Beau Bois",
+        "country": "Mauritius",
+        "province": "Savanne",
+        "population": -1,
+        "latitude": -20.4605556,
+        "longitude": 57.5369444
+    },
+    {
+        "name": "Terracine",
+        "country": "Mauritius",
+        "province": "Savanne",
+        "population": -1,
+        "latitude": -20.5061111,
+        "longitude": 57.5144444
+    },
+    {
+        "name": "Riambel",
+        "country": "Mauritius",
+        "province": "Savanne",
+        "population": -1,
+        "latitude": -20.515,
+        "longitude": 57.5
+    },
+    {
+        "name": "Pomponnette",
+        "country": "Mauritius",
+        "province": "Savanne",
+        "population": -1,
+        "latitude": -20.5094444,
+        "longitude": 57.4802778
+    },
+    {
+        "name": "Fontenelle",
+        "country": "Mauritius",
+        "province": "Savanne",
+        "population": -1,
+        "latitude": -20.4986111,
+        "longitude": 57.5352778
+    },
+    {
+        "name": "Saint Felix",
+        "country": "Mauritius",
+        "province": "Savanne",
+        "population": -1,
+        "latitude": -20.5016667,
+        "longitude": 57.4605556
+    },
+    {
+        "name": "Valruche",
+        "country": "Mauritius",
+        "province": "Savanne",
+        "population": -1,
+        "latitude": -20.4580556,
+        "longitude": 57.4366667
+    },
+    {
+        "name": "Valentina",
+        "country": "Mauritius",
+        "province": "Savanne",
+        "population": -1,
+        "latitude": -20.4908333,
+        "longitude": 57.4583333
+    },
+    {
+        "name": "L’Embrasure",
+        "country": "Mauritius",
+        "province": "Black River",
+        "population": -1,
+        "latitude": -20.464167,
+        "longitude": 57.336389
+    },
+    {
+        "name": "La Gaulette",
+        "country": "Mauritius",
+        "province": "Black River",
+        "population": -1,
+        "latitude": -20.42788,
+        "longitude": 57.36082
+    },
+    {
+        "name": "Forest Side",
+        "country": "Mauritius",
+        "province": "Plaines Wilhems",
+        "population": -1,
+        "latitude": -20.32962,
+        "longitude": 57.53746
+    },
+    {
+        "name": "Engrais Cathan",
+        "country": "Mauritius",
+        "province": "Plaines Wilhems",
+        "population": -1,
+        "latitude": -20.2991667,
+        "longitude": 57.5186111
+    },
+    {
+        "name": "Engrais Martial",
+        "country": "Mauritius",
+        "province": "Plaines Wilhems",
+        "population": -1,
+        "latitude": -20.3002778,
+        "longitude": 57.5094444
+    },
+    {
+        "name": "Mesnil",
+        "country": "Mauritius",
+        "province": "Plaines Wilhems",
+        "population": -1,
+        "latitude": -20.2902778,
+        "longitude": 57.5116667
+    },
+    {
+        "name": "Saint Antoine",
+        "country": "Mauritius",
+        "province": "Plaines Wilhems",
+        "population": -1,
+        "latitude": -20.2813889,
+        "longitude": 57.5238889
+    },
+    {
+        "name": "Belle Terre",
+        "country": "Mauritius",
+        "province": "Plaines Wilhems",
+        "population": -1,
+        "latitude": -20.26936,
+        "longitude": 57.52776
+    },
+    {
+        "name": "Cinq Arpents",
+        "country": "Mauritius",
+        "province": "Plaines Wilhems",
+        "population": -1,
+        "latitude": -20.270965,
+        "longitude": 57.530892
+    },
+    {
+        "name": "Petit Camp",
+        "country": "Mauritius",
+        "province": "Plaines Wilhems",
+        "population": -1,
+        "latitude": -20.269834,
+        "longitude": 57.497554
+    },
+    {
+        "name": "Camp Caval",
+        "country": "Mauritius",
+        "province": "Plaines Wilhems",
+        "population": -1,
+        "latitude": -20.32,
+        "longitude": 57.5019444
+    },
+    {
+        "name": "Camp Mapou",
+        "country": "Mauritius",
+        "province": "Plaines Wilhems",
+        "population": -1,
+        "latitude": -20.3322222,
+        "longitude": 57.4652778
+    },
+    {
+        "name": "Camp La Savanne",
+        "country": "Mauritius",
+        "province": "Plaines Wilhems",
+        "population": -1,
+        "latitude": -20.325,
+        "longitude": 57.4686111
+    },
+    {
+        "name": "Camp Roches",
+        "country": "Mauritius",
+        "province": "Plaines Wilhems",
+        "population": -1,
+        "latitude": -20.3219444,
+        "longitude": 57.4677778
+    },
+    {
+        "name": "Glen Park",
+        "country": "Mauritius",
+        "province": "Plaines Wilhems",
+        "population": -1,
+        "latitude": -20.3211111,
+        "longitude": 57.4783333
+    },
+    {
+        "name": "Holyrood",
+        "country": "Mauritius",
+        "province": "Plaines Wilhems",
+        "population": -1,
+        "latitude": -20.3097222,
+        "longitude": 57.4675
+    },
+    {
+        "name": "Les Casernes",
+        "country": "Mauritius",
+        "province": "Plaines Wilhems",
+        "population": -1,
+        "latitude": -20.3261111,
+        "longitude": 57.4986111
+    },
+    {
+        "name": "Carreau La Liane",
+        "country": "Mauritius",
+        "province": "Plaines Wilhems",
+        "population": -1,
+        "latitude": -20.2805556,
+        "longitude": 57.4763889
+    },
+    {
+        "name": "La Source",
+        "country": "Mauritius",
+        "province": "Plaines Wilhems",
+        "population": -1,
+        "latitude": -20.271087,
+        "longitude": 57.462485
+    },
+    {
+        "name": "Stanley",
+        "country": "Mauritius",
+        "province": "Plaines Wilhems",
+        "population": -1,
+        "latitude": -20.250289,
+        "longitude": 57.459671
+    },
+    {
+        "name": "Plaisance",
+        "country": "Mauritius",
+        "province": "Plaines Wilhems",
+        "population": -1,
+        "latitude": -20.242116,
+        "longitude": 57.460955
+    },
+    {
+        "name": "Belle Étoile",
+        "country": "Mauritius",
+        "province": "Plaines Wilhems",
+        "population": -1,
+        "latitude": -20.204721,
+        "longitude": 57.47047
+    },
+    {
+        "name": "Beaux Songes",
+        "country": "Mauritius",
+        "province": "Black River",
+        "population": -1,
+        "latitude": -20.2780556,
+        "longitude": 57.4194444
+    },
+    {
+        "name": "Eau Bonne",
+        "country": "Mauritius",
+        "province": "Black River",
+        "population": -1,
+        "latitude": -20.2588889,
+        "longitude": 57.4119444
+    },
+    {
+        "name": "La Mivoie",
+        "country": "Mauritius",
+        "province": "Black River",
+        "population": -1,
+        "latitude": -20.3413889,
+        "longitude": 57.3566667
+    },
+    {
+        "name": "Petite Rivière Noire",
+        "country": "Mauritius",
+        "province": "Black River",
+        "population": -1,
+        "latitude": -20.3897222,
+        "longitude": 57.3722222
+    },
+    {
+        "name": "Canot",
+        "country": "Mauritius",
+        "province": "Black River",
+        "population": -1,
+        "latitude": -20.2175,
+        "longitude": 57.4216667
+    },
+    {
+        "name": "Camp Créoles",
+        "country": "Mauritius",
+        "province": "Black River",
+        "population": -1,
+        "latitude": -20.2044444,
+        "longitude": 57.4088889
+    },
+    {
+        "name": "Pointe aux Sables",
+        "country": "Mauritius",
+        "province": "Port Louis",
+        "population": -1,
+        "latitude": -20.173722,
+        "longitude": 57.453317
+    },
+    {
+        "name": "Melotte",
+        "country": "Mauritius",
+        "province": "Pamplemousses",
+        "population": -1,
+        "latitude": -20.189366,
+        "longitude": 57.565952
+    },
+    {
+        "name": "Caroline",
+        "country": "Mauritius",
+        "province": "Pamplemousses",
+        "population": -1,
+        "latitude": -20.182387,
+        "longitude": 57.566865
+    },
+    {
+        "name": "Nouvelle Découverte",
+        "country": "Mauritius",
+        "province": "Moka",
+        "population": -1,
+        "latitude": -20.1872222,
+        "longitude": 57.5819444
+    },
+    {
+        "name": "Salazie",
+        "country": "Mauritius",
+        "province": "Moka",
+        "population": -1,
+        "latitude": -20.1744444,
+        "longitude": 57.61
+    },
+    {
+        "name": "L’Avenir",
+        "country": "Mauritius",
+        "province": "Moka",
+        "population": -1,
+        "latitude": -20.21832,
+        "longitude": 57.552766
+    },
+    {
+        "name": "Telfair",
+        "country": "Mauritius",
+        "province": "Moka",
+        "population": -1,
+        "latitude": -20.229031,
+        "longitude": 57.506051
+    },
+    {
+        "name": "L’Assurance",
+        "country": "Mauritius",
+        "province": "Moka",
+        "population": -1,
+        "latitude": -20.251636,
+        "longitude": 57.554227
+    },
+    {
+        "name": "Espérance",
+        "country": "Mauritius",
+        "province": "Moka",
+        "population": -1,
+        "latitude": -20.23075,
+        "longitude": 57.59583
+    },
+    {
+        "name": "Vuillemin",
+        "country": "Mauritius",
+        "province": "Moka",
+        "population": -1,
+        "latitude": -20.255,
+        "longitude": 57.5847222
+    },
+    {
+        "name": "Petit Paquet",
+        "country": "Mauritius",
+        "province": "Moka",
+        "population": -1,
+        "latitude": -20.2747222,
+        "longitude": 57.6552778
+    },
+    {
+        "name": "Camp Auguste",
+        "country": "Mauritius",
+        "province": "Moka",
+        "population": -1,
+        "latitude": -20.241496,
+        "longitude": 57.534603
+    },
+    {
+        "name": "Malherbes",
+        "country": "Mauritius",
+        "province": "Plaines Wilhems",
+        "population": -1,
+        "latitude": -20.3091667,
+        "longitude": 57.5247222
+    },
+    {
+        "name": "Eaux Coulée",
+        "country": "Mauritius",
+        "province": "Plaines Wilhems",
+        "population": -1,
+        "latitude": -20.3041667,
+        "longitude": 57.5175
+    },
+    {
+        "name": "Bonne Terre",
+        "country": "Mauritius",
+        "province": "Plaines Wilhems",
+        "population": -1,
+        "latitude": -20.2877778,
+        "longitude": 57.4755556
+    },
+    {
+        "name": "Pellegrin",
+        "country": "Mauritius",
+        "province": "Plaines Wilhems",
+        "population": -1,
+        "latitude": -20.259396,
+        "longitude": 57.49046
+    },
+    {
+        "name": "Barkly",
+        "country": "Mauritius",
+        "province": "Plaines Wilhems",
+        "population": -1,
+        "latitude": -20.2202778,
+        "longitude": 57.4494444
+    },
+    {
+        "name": "Bain des Dames",
+        "country": "Mauritius",
+        "province": "Port Louis",
+        "population": -1,
+        "latitude": -20.16318,
+        "longitude": 57.47974
+    },
+    {
+        "name": "Khoyratty",
+        "country": "Mauritius",
+        "province": "Pamplemousses",
+        "population": -1,
+        "latitude": -20.1205556,
+        "longitude": 57.5475
+    },
+    {
+        "name": "L’Espoir",
+        "country": "Mauritius",
+        "province": "Pamplemousses",
+        "population": -1,
+        "latitude": -20.111111,
+        "longitude": 57.549722
+    },
+    {
+        "name": "Le Goulet",
+        "country": "Mauritius",
+        "province": "Pamplemousses",
+        "population": -1,
+        "latitude": -20.1008333,
+        "longitude": 57.5105556
+    },
+    {
+        "name": "Coromandel",
+        "country": "Mauritius",
+        "province": "Plaines Wilhems",
+        "population": -1,
+        "latitude": -20.193444,
+        "longitude": 57.468417
+    },
+    {
+        "name": "River Side",
+        "country": "Mauritius",
+        "province": "Plaines Wilhems",
+        "population": -1,
+        "latitude": -20.2775,
+        "longitude": 57.4966667
+    },
+    {
+        "name": "Saint Paul",
+        "country": "Mauritius",
+        "province": "Plaines Wilhems",
+        "population": -1,
+        "latitude": -20.2877778,
+        "longitude": 57.5044444
+    },
+    {
+        "name": "Anna",
+        "country": "Mauritius",
+        "province": "Black River",
+        "population": -1,
+        "latitude": -20.265,
+        "longitude": 57.3783333
+    },
+    {
+        "name": "Yemen",
+        "country": "Mauritius",
+        "province": "Black River",
+        "population": -1,
+        "latitude": -20.335,
+        "longitude": 57.4005556
+    },
+    {
+        "name": "Virginia",
+        "country": "Mauritius",
+        "province": "Grand Port",
+        "population": -1,
+        "latitude": -20.4677778,
+        "longitude": 57.6558333
+    },
+    {
+        "name": "Ville Valio",
+        "country": "Mauritius",
+        "province": "Pamplemousses",
+        "population": -1,
+        "latitude": -20.0938889,
+        "longitude": 57.5038889
+    },
+    {
+        "name": "Ville Bague",
+        "country": "Mauritius",
+        "province": "Pamplemousses",
+        "population": -1,
+        "latitude": -20.1447222,
+        "longitude": 57.6211111
+    },
+    {
+        "name": "Valton",
+        "country": "Mauritius",
+        "province": "Pamplemousses",
+        "population": -1,
+        "latitude": -20.155866,
+        "longitude": 57.570373
+    },
+    {
+        "name": "Valetta",
+        "country": "Mauritius",
+        "province": "Moka",
+        "population": -1,
+        "latitude": -20.25664,
+        "longitude": 57.56536
+    },
+    {
+        "name": "Union Vale",
+        "country": "Mauritius",
+        "province": "Grand Port",
+        "population": -1,
+        "latitude": -20.4438889,
+        "longitude": 57.655
+    },
+    {
+        "name": "Trou d’Eau Douce",
+        "country": "Mauritius",
+        "province": "Flacq",
+        "population": -1,
+        "latitude": -20.23405,
+        "longitude": 57.79448
+    },
+    {
+        "name": "Trois Îlots",
+        "country": "Mauritius",
+        "province": "Flacq",
+        "population": -1,
+        "latitude": -20.2666667,
+        "longitude": 57.7380556
+    },
+    {
+        "name": "Trio",
+        "country": "Mauritius",
+        "province": "Pamplemousses",
+        "population": -1,
+        "latitude": -20.0475,
+        "longitude": 57.535
+    },
+    {
+        "name": "Trianon",
+        "country": "Mauritius",
+        "province": "Plaines Wilhems",
+        "population": -1,
+        "latitude": -20.255849,
+        "longitude": 57.494228
+    },
+    {
+        "name": "Suase",
+        "country": "Mauritius",
+        "province": "Black River",
+        "population": -1,
+        "latitude": -20.3166667,
+        "longitude": 57.4166667
+    },
+    {
+        "name": "Souffleur",
+        "country": "Mauritius",
+        "province": "Grand Port",
+        "population": -1,
+        "latitude": -20.4816667,
+        "longitude": 57.6388889
+    },
+    {
+        "name": "Sottise",
+        "country": "Mauritius",
+        "province": "Mauritius",
+        "population": -1,
+        "latitude": -20.0208333,
+        "longitude": 57.5722222
+    },
+    {
+        "name": "Solitude",
+        "country": "Mauritius",
+        "province": "Pamplemousses",
+        "population": -1,
+        "latitude": -20.07775,
+        "longitude": 57.54627
+    },
+    {
+        "name": "Schoenfeld",
+        "country": "Mauritius",
+        "province": "Rivière du Rempart",
+        "population": -1,
+        "latitude": -20.0805556,
+        "longitude": 57.6655556
+    },
+    {
+        "name": "Savinia",
+        "country": "Mauritius",
+        "province": "Grand Port",
+        "population": -1,
+        "latitude": -20.4744444,
+        "longitude": 57.6330556
+    },
+    {
+        "name": "Savannah",
+        "country": "Mauritius",
+        "province": "Savanne",
+        "population": -1,
+        "latitude": -20.485,
+        "longitude": 57.6088889
+    },
+    {
+        "name": "Sans Souci",
+        "country": "Mauritius",
+        "province": "Mauritius",
+        "population": -1,
+        "latitude": -20.2958333,
+        "longitude": 57.6513889
+    },
+    {
+        "name": "Mare Samson",
+        "country": "Mauritius",
+        "province": "Black River",
+        "population": -1,
+        "latitude": -20.1713889,
+        "longitude": 57.4416667
+    },
+    {
+        "name": "Saint François",
+        "country": "Mauritius",
+        "province": "Rivière du Rempart",
+        "population": -1,
+        "latitude": -20.0044444,
+        "longitude": 57.6341667
+    },
+    {
+        "name": "Saint Félix",
+        "country": "Mauritius",
+        "province": "Savanne",
+        "population": -1,
+        "latitude": -20.4866667,
+        "longitude": 57.5663889
+    },
+    {
+        "name": "Saint Cloud",
+        "country": "Mauritius",
+        "province": "Pamplemousses",
+        "population": -1,
+        "latitude": -20.1477778,
+        "longitude": 57.6341667
+    },
+    {
+        "name": "Saint Antoine",
+        "country": "Mauritius",
+        "province": "Rivière du Rempart",
+        "population": -1,
+        "latitude": -20.0416667,
+        "longitude": 57.6536111
+    },
+    {
+        "name": "Ruisseau Créole",
+        "country": "Mauritius",
+        "province": "Savanne",
+        "population": -1,
+        "latitude": -20.4833333,
+        "longitude": 57.3833333
+    },
+    {
+        "name": "Ruisseau Copeaux",
+        "country": "Mauritius",
+        "province": "Grand Port",
+        "population": -1,
+        "latitude": -20.4186111,
+        "longitude": 57.6572222
+    },
+    {
+        "name": "Roches Brunes",
+        "country": "Mauritius",
+        "province": "Plaines Wilhems",
+        "population": -1,
+        "latitude": -20.237515,
+        "longitude": 57.456619
+    },
+    {
+        "name": "Rivière Baptiste",
+        "country": "Mauritius",
+        "province": "Moka",
+        "population": -1,
+        "latitude": -20.209723,
+        "longitude": 57.535728
+    },
+    {
+        "name": "Ripailles",
+        "country": "Mauritius",
+        "province": "Moka",
+        "population": -1,
+        "latitude": -20.197707,
+        "longitude": 57.576586
+    },
+    {
+        "name": "Rich Fund",
+        "country": "Mauritius",
+        "province": "Flacq",
+        "population": -1,
+        "latitude": -20.2088889,
+        "longitude": 57.6658333
+    },
+    {
+        "name": "Riche en Eau",
+        "country": "Mauritius",
+        "province": "Grand Port",
+        "population": -1,
+        "latitude": -20.3847222,
+        "longitude": 57.6555556
+    },
+    {
+        "name": "Riche Bois",
+        "country": "Mauritius",
+        "province": "Savanne",
+        "population": -1,
+        "latitude": -20.4563889,
+        "longitude": 57.5769444
+    },
+    {
+        "name": "Réunion",
+        "country": "Mauritius",
+        "province": "Plaines Wilhems",
+        "population": -1,
+        "latitude": -20.3091667,
+        "longitude": 57.4880556
+    },
+    {
+        "name": "Pont Colville",
+        "country": "Mauritius",
+        "province": "Grand Port",
+        "population": -1,
+        "latitude": -20.3827778,
+        "longitude": 57.5580556
+    },
+    {
+        "name": "Pont Blanc",
+        "country": "Mauritius",
+        "province": "Flacq",
+        "population": -1,
+        "latitude": -20.1666667,
+        "longitude": 57.7044444
+    },
+    {
+        "name": "Plaisance",
+        "country": "Mauritius",
+        "province": "Grand Port",
+        "population": -1,
+        "latitude": -20.43031,
+        "longitude": 57.66097
+    },
+    {
+        "name": "Petit Verger",
+        "country": "Mauritius",
+        "province": "Moka",
+        "population": -1,
+        "latitude": -20.216276,
+        "longitude": 57.525687
+    },
+    {
+        "name": "Petit Paquet",
+        "country": "Mauritius",
+        "province": "Rivière du Rempart",
+        "population": -1,
+        "latitude": -20.0013889,
+        "longitude": 57.6291667
+    },
+    {
+        "name": "Pavillon du Grand Port",
+        "country": "Mauritius",
+        "province": "Grand Port",
+        "population": -1,
+        "latitude": -20.3711111,
+        "longitude": 57.7175
+    },
+    {
+        "name": "Palmyre",
+        "country": "Mauritius",
+        "province": "Black River",
+        "population": -1,
+        "latitude": -20.2822222,
+        "longitude": 57.3844444
+    },
+    {
+        "name": "Palma",
+        "country": "Mauritius",
+        "province": "Mauritius",
+        "population": -1,
+        "latitude": -20.2791667,
+        "longitude": 57.4441667
+    },
+    {
+        "name": "Mon Vallon",
+        "country": "Mauritius",
+        "province": "Black River",
+        "population": -1,
+        "latitude": -20.3,
+        "longitude": 57.4
+    },
+    {
+        "name": "Mont Ida",
+        "country": "Mauritius",
+        "province": "Mauritius",
+        "population": -1,
+        "latitude": -20.2388889,
+        "longitude": 57.6308333
+    },
+    {
+        "name": "Mont Blanc",
+        "country": "Mauritius",
+        "province": "Savanne",
+        "population": -1,
+        "latitude": -20.4788889,
+        "longitude": 57.4744444
+    },
+    {
+        "name": "Mon Rocher",
+        "country": "Mauritius",
+        "province": "Pamplemousses",
+        "population": -1,
+        "latitude": -20.0905556,
+        "longitude": 57.5738889
+    },
+    {
+        "name": "Mon Piton",
+        "country": "Mauritius",
+        "province": "Rivière du Rempart",
+        "population": -1,
+        "latitude": -20.0891667,
+        "longitude": 57.6244444
+    },
+    {
+        "name": "Mon Goût",
+        "country": "Mauritius",
+        "province": "Pamplemousses",
+        "population": -1,
+        "latitude": -20.1175,
+        "longitude": 57.5897222
+    },
+    {
+        "name": "Mon Désert",
+        "country": "Mauritius",
+        "province": "Moka",
+        "population": -1,
+        "latitude": -20.226341,
+        "longitude": 57.535309
+    },
+    {
+        "name": "Minissy",
+        "country": "Mauritius",
+        "province": "Moka",
+        "population": -1,
+        "latitude": -20.240309,
+        "longitude": 57.51363
+    },
+    {
+        "name": "Melville",
+        "country": "Mauritius",
+        "province": "Rivière du Rempart",
+        "population": -1,
+        "latitude": -20.0194444,
+        "longitude": 57.6744444
+    },
+    {
+        "name": "Médine",
+        "country": "Mauritius",
+        "province": "Black River",
+        "population": -1,
+        "latitude": -20.2602778,
+        "longitude": 57.3888889
+    },
+    {
+        "name": "Médine",
+        "country": "Mauritius",
+        "province": "Flacq",
+        "population": -1,
+        "latitude": -20.2422222,
+        "longitude": 57.6425
+    },
+    {
+        "name": "Mare Tabac",
+        "country": "Mauritius",
+        "province": "Grand Port",
+        "population": -1,
+        "latitude": -20.4358333,
+        "longitude": 57.5886111
+    },
+    {
+        "name": "Mare d’Albert",
+        "country": "Mauritius",
+        "province": "Grand Port",
+        "population": -1,
+        "latitude": -20.418611,
+        "longitude": 57.622778
+    },
+    {
+        "name": "Maison Blanche",
+        "country": "Mauritius",
+        "province": "Pamplemousses",
+        "population": -1,
+        "latitude": -20.1080556,
+        "longitude": 57.5747222
+    },
+    {
+        "name": "L’Union",
+        "country": "Mauritius",
+        "province": "Savanne",
+        "population": -1,
+        "latitude": -20.505,
+        "longitude": 57.538611
+    },
+    {
+        "name": "Ligne Barrin",
+        "country": "Mauritius",
+        "province": "Grand Port",
+        "population": -1,
+        "latitude": -20.4733333,
+        "longitude": 57.6586111
+    },
+    {
+        "name": "Le Val",
+        "country": "Mauritius",
+        "province": "Grand Port",
+        "population": -1,
+        "latitude": -20.3547222,
+        "longitude": 57.6208333
+    },
+    {
+        "name": "Lesur",
+        "country": "Mauritius",
+        "province": "Flacq",
+        "population": -1,
+        "latitude": -20.2894444,
+        "longitude": 57.675
+    },
+    {
+        "name": "L’Escalier",
+        "country": "Mauritius",
+        "province": "Moka",
+        "population": -1,
+        "latitude": -20.19,
+        "longitude": 57.582222
+    },
+    {
+        "name": "Léonbourg",
+        "country": "Mauritius",
+        "province": "Pamplemousses",
+        "population": -1,
+        "latitude": -20.1136111,
+        "longitude": 57.4972222
+    },
+    {
+        "name": "Le Marres",
+        "country": "Mauritius",
+        "province": "Savanne",
+        "population": -1,
+        "latitude": -20.4252778,
+        "longitude": 57.4680556
+    },
+    {
+        "name": "Le Chaland",
+        "country": "Mauritius",
+        "province": "Grand Port",
+        "population": -1,
+        "latitude": -20.4447222,
+        "longitude": 57.6986111
+    },
+    {
+        "name": "La Russie",
+        "country": "Mauritius",
+        "province": "Moka",
+        "population": -1,
+        "latitude": -20.2436111,
+        "longitude": 57.5966667
+    },
+    {
+        "name": "La Rotraite",
+        "country": "Mauritius",
+        "province": "Mauritius",
+        "population": -1,
+        "latitude": -20.2,
+        "longitude": 57.4666667
+    },
+    {
+        "name": "La Rosa",
+        "country": "Mauritius",
+        "province": "Grand Port",
+        "population": -1,
+        "latitude": -20.4136111,
+        "longitude": 57.6169444
+    },
+    {
+        "name": "La Nourrice",
+        "country": "Mauritius",
+        "province": "Flacq",
+        "population": -1,
+        "latitude": -20.2872222,
+        "longitude": 57.7380556
+    },
+    {
+        "name": "La Morue",
+        "country": "Mauritius",
+        "province": "Rivière du Rempart",
+        "population": -1,
+        "latitude": -20.1333333,
+        "longitude": 57.65
+    },
+    {
+        "name": "La Mecque",
+        "country": "Mauritius",
+        "province": "Black River",
+        "population": -1,
+        "latitude": -20.2486111,
+        "longitude": 57.3894444
+    },
+    {
+        "name": "La Marre",
+        "country": "Mauritius",
+        "province": "Flacq",
+        "population": -1,
+        "latitude": -20.1566667,
+        "longitude": 57.6419444
+    },
+    {
+        "name": "La Marie",
+        "country": "Mauritius",
+        "province": "Plaines Wilhems",
+        "population": -1,
+        "latitude": -20.335,
+        "longitude": 57.485
+    },
+    {
+        "name": "La Lucie",
+        "country": "Mauritius",
+        "province": "Flacq",
+        "population": -1,
+        "latitude": -20.2597222,
+        "longitude": 57.7355556
+    },
+    {
+        "name": "La Laura",
+        "country": "Mauritius",
+        "province": "Moka",
+        "population": -1,
+        "latitude": -20.203112,
+        "longitude": 57.551824
+    },
+    {
+        "name": "La Gaiété",
+        "country": "Mauritius",
+        "province": "Flacq",
+        "population": -1,
+        "latitude": -20.2136111,
+        "longitude": 57.7244444
+    },
+    {
+        "name": "La Croisée",
+        "country": "Mauritius",
+        "province": "Plaines Wilhems",
+        "population": -1,
+        "latitude": -20.3186111,
+        "longitude": 57.4783333
+    },
+    {
+        "name": "La Crete",
+        "country": "Mauritius",
+        "province": "Black River",
+        "population": -1,
+        "latitude": -20.4194444,
+        "longitude": 57.3794444
+    },
+    {
+        "name": "La Cocoterie",
+        "country": "Mauritius",
+        "province": "Pamplemousses",
+        "population": -1,
+        "latitude": -20.131611,
+        "longitude": 57.501618
+    },
+    {
+        "name": "Labourdonnais",
+        "country": "Mauritius",
+        "province": "Rivière du Rempart",
+        "population": -1,
+        "latitude": -20.0683333,
+        "longitude": 57.61
+    },
+    {
+        "name": "Labonté",
+        "country": "Mauritius",
+        "province": "Black River",
+        "population": -1,
+        "latitude": -20.4333333,
+        "longitude": 57.3166667
+    },
+    {
+        "name": "La Bergerie",
+        "country": "Mauritius",
+        "province": "Pamplemousses",
+        "population": -1,
+        "latitude": -20.1133333,
+        "longitude": 57.5252778
+    },
+    {
+        "name": "Île d’Ambre",
+        "country": "Mauritius",
+        "province": "Rivière du Rempart",
+        "population": -1,
+        "latitude": -20.074167,
+        "longitude": 57.680278
+    },
+    {
+        "name": "Hermitage",
+        "country": "Mauritius",
+        "province": "Flacq",
+        "population": -1,
+        "latitude": -20.2608333,
+        "longitude": 57.7025
+    },
+    {
+        "name": "Hermitage",
+        "country": "Mauritius",
+        "province": "Moka",
+        "population": -1,
+        "latitude": -20.27593,
+        "longitude": 57.53913
+    },
+    {
+        "name": "Hermitage",
+        "country": "Mauritius",
+        "province": "Moka",
+        "population": -1,
+        "latitude": -20.25,
+        "longitude": 57.55
+    },
+    {
+        "name": "Henrietta",
+        "country": "Mauritius",
+        "province": "Plaines Wilhems",
+        "population": -1,
+        "latitude": -20.3355556,
+        "longitude": 57.4663889
+    },
+    {
+        "name": "Helvétia",
+        "country": "Mauritius",
+        "province": "Moka",
+        "population": -1,
+        "latitude": -20.222165,
+        "longitude": 57.518096
+    },
+    {
+        "name": "Haut de Flacq",
+        "country": "Mauritius",
+        "province": "Flacq",
+        "population": -1,
+        "latitude": -20.2027778,
+        "longitude": 57.6680556
+    },
+    {
+        "name": "Gros Billot",
+        "country": "Mauritius",
+        "province": "Grand Port",
+        "population": -1,
+        "latitude": -20.4163889,
+        "longitude": 57.6030556
+    },
+    {
+        "name": "Grand River North West",
+        "country": "Mauritius",
+        "province": "Port Louis",
+        "population": -1,
+        "latitude": -20.177944,
+        "longitude": 57.476516
+    },
+    {
+        "name": "Grande Rosalie",
+        "country": "Mauritius",
+        "province": "Pamplemousses",
+        "population": -1,
+        "latitude": -20.1313889,
+        "longitude": 57.6047222
+    },
+    {
+        "name": "Grande Case Noyale",
+        "country": "Mauritius",
+        "province": "Black River",
+        "population": -1,
+        "latitude": -20.41354,
+        "longitude": 57.36932
+    },
+    {
+        "name": "Forbach",
+        "country": "Mauritius",
+        "province": "Rivière du Rempart",
+        "population": -1,
+        "latitude": -20.0644444,
+        "longitude": 57.6258333
+    },
+    {
+        "name": "Floréal",
+        "country": "Mauritius",
+        "province": "Plaines Wilhems",
+        "population": -1,
+        "latitude": -20.3094444,
+        "longitude": 57.5008333
+    },
+    {
+        "name": "Deux Bras",
+        "country": "Mauritius",
+        "province": "Grand Port",
+        "population": -1,
+        "latitude": -20.4013889,
+        "longitude": 57.6311111
+    },
+    {
+        "name": "Deep River",
+        "country": "Mauritius",
+        "province": "Flacq",
+        "population": -1,
+        "latitude": -20.2791667,
+        "longitude": 57.7327778
+    },
+    {
+        "name": "Dalais",
+        "country": "Mauritius",
+        "province": "Grand Port",
+        "population": -1,
+        "latitude": -20.3972222,
+        "longitude": 57.6852778
+    },
+    {
+        "name": "Côte d’Or",
+        "country": "Mauritius",
+        "province": "Moka",
+        "population": -1,
+        "latitude": -20.2494,
+        "longitude": 57.535559
+    },
+    {
+        "name": "Coquinbourg",
+        "country": "Mauritius",
+        "province": "Flacq",
+        "population": -1,
+        "latitude": -20.2377778,
+        "longitude": 57.6380556
+    },
+    {
+        "name": "Constance",
+        "country": "Mauritius",
+        "province": "Flacq",
+        "population": -1,
+        "latitude": -20.1777778,
+        "longitude": 57.7086111
+    },
+    {
+        "name": "Circonstance",
+        "country": "Mauritius",
+        "province": "Moka",
+        "population": -1,
+        "latitude": -20.222398,
+        "longitude": 57.543242
+    },
+    {
+        "name": "Choisy",
+        "country": "Mauritius",
+        "province": "Savanne",
+        "population": -1,
+        "latitude": -20.4794444,
+        "longitude": 57.3730556
+    },
+    {
+        "name": "Chébel",
+        "country": "Mauritius",
+        "province": "Plaines Wilhems",
+        "population": -1,
+        "latitude": -20.202951,
+        "longitude": 57.458006
+    },
+    {
+        "name": "Cent Gaulettes",
+        "country": "Mauritius",
+        "province": "Grand Port",
+        "population": -1,
+        "latitude": -20.3716667,
+        "longitude": 57.6447222
+    },
+    {
+        "name": "Camp Sonah",
+        "country": "Mauritius",
+        "province": "Flacq",
+        "population": -1,
+        "latitude": -20.2333333,
+        "longitude": 57.6666667
+    },
+    {
+        "name": "Camp Malgache",
+        "country": "Mauritius",
+        "province": "Black River",
+        "population": -1,
+        "latitude": -20.33,
+        "longitude": 57.4016667
+    },
+    {
+        "name": "Camp Fouquereaux",
+        "country": "Mauritius",
+        "province": "Plaines Wilhems",
+        "population": -1,
+        "latitude": -20.2869444,
+        "longitude": 57.5211111
+    },
+    {
+        "name": "Cachette",
+        "country": "Mauritius",
+        "province": "Black River",
+        "population": -1,
+        "latitude": -20.4288889,
+        "longitude": 57.3830556
+    },
+    {
+        "name": "Bonne Veine",
+        "country": "Mauritius",
+        "province": "Moka",
+        "population": -1,
+        "latitude": -20.2380556,
+        "longitude": 57.5877778
+    },
+    {
+        "name": "Bon Espoir",
+        "country": "Mauritius",
+        "province": "Rivière du Rempart",
+        "population": -1,
+        "latitude": -20.0861111,
+        "longitude": 57.6202778
+    },
+    {
+        "name": "Bon Courage",
+        "country": "Mauritius",
+        "province": "Savanne",
+        "population": -1,
+        "latitude": -20.4836111,
+        "longitude": 57.4175
+    },
+    {
+        "name": "Bon Air",
+        "country": "Mauritius",
+        "province": "Pamplemousses",
+        "population": -1,
+        "latitude": -20.0619444,
+        "longitude": 57.5619444
+    },
+    {
+        "name": "Bois Sec",
+        "country": "Mauritius",
+        "province": "Savanne",
+        "population": -1,
+        "latitude": -20.4413889,
+        "longitude": 57.5102778
+    },
+    {
+        "name": "Bois Rouge",
+        "country": "Mauritius",
+        "province": "Pamplemousses",
+        "population": -1,
+        "latitude": -20.0813889,
+        "longitude": 57.5830556
+    },
+    {
+        "name": "Bois Mangue",
+        "country": "Mauritius",
+        "province": "Pamplemousses",
+        "population": -1,
+        "latitude": -20.0641667,
+        "longitude": 57.5825
+    },
+    {
+        "name": "Bois d’Oiseaux",
+        "country": "Mauritius",
+        "province": "Grand Port",
+        "population": -1,
+        "latitude": -20.413056,
+        "longitude": 57.6
+    },
+    {
+        "name": "Bois Chéri",
+        "country": "Mauritius",
+        "province": "Savanne",
+        "population": -1,
+        "latitude": -20.4194444,
+        "longitude": 57.5325
+    },
+    {
+        "name": "Bénarès",
+        "country": "Mauritius",
+        "province": "Savanne",
+        "population": -1,
+        "latitude": -20.4969444,
+        "longitude": 57.5830556
+    },
+    {
+        "name": "Belvédère",
+        "country": "Mauritius",
+        "province": "Flacq",
+        "population": -1,
+        "latitude": -20.1961111,
+        "longitude": 57.6638889
+    },
+    {
+        "name": "Belmont",
+        "country": "Mauritius",
+        "province": "Rivière du Rempart",
+        "population": -1,
+        "latitude": -20.045,
+        "longitude": 57.6586111
+    },
+    {
+        "name": "Belle Vue",
+        "country": "Mauritius",
+        "province": "Grand Port",
+        "population": -1,
+        "latitude": -20.3691667,
+        "longitude": 57.7222222
+    },
+    {
+        "name": "Belle Vue",
+        "country": "Mauritius",
+        "province": "Black River",
+        "population": -1,
+        "latitude": -20.195,
+        "longitude": 57.4116667
+    },
+    {
+        "name": "Belle Rose",
+        "country": "Mauritius",
+        "province": "Flacq",
+        "population": -1,
+        "latitude": -20.2616667,
+        "longitude": 57.7263889
+    },
+    {
+        "name": "Belle Rive",
+        "country": "Mauritius",
+        "province": "Flacq",
+        "population": -1,
+        "latitude": -20.31106,
+        "longitude": 57.7274
+    },
+    {
+        "name": "Belle Isle",
+        "country": "Mauritius",
+        "province": "Black River",
+        "population": -1,
+        "latitude": -20.25,
+        "longitude": 57.3833333
+    },
+    {
+        "name": "Bel Étang",
+        "country": "Mauritius",
+        "province": "Flacq",
+        "population": -1,
+        "latitude": -20.2397222,
+        "longitude": 57.6563889
+    },
+    {
+        "name": "Bel Air",
+        "country": "Mauritius",
+        "province": "Savanne",
+        "population": -1,
+        "latitude": -20.5005556,
+        "longitude": 57.5705556
+    },
+    {
+        "name": "Beau Site",
+        "country": "Mauritius",
+        "province": "Grand Port",
+        "population": -1,
+        "latitude": -20.3677778,
+        "longitude": 57.6633333
+    },
+    {
+        "name": "Beau Séjour",
+        "country": "Mauritius",
+        "province": "Mauritius",
+        "population": -1,
+        "latitude": -20.0947222,
+        "longitude": 57.6286111
+    },
+    {
+        "name": "Beau Fond",
+        "country": "Mauritius",
+        "province": "Grand Port",
+        "population": -1,
+        "latitude": -20.445,
+        "longitude": 57.6433333
+    },
+    {
+        "name": "Beau Champ",
+        "country": "Mauritius",
+        "province": "Savanne",
+        "population": -1,
+        "latitude": -20.4980556,
+        "longitude": 57.4336111
+    },
+    {
+        "name": "Beau Champ",
+        "country": "Mauritius",
+        "province": "Flacq",
+        "population": -1,
+        "latitude": -20.2713889,
+        "longitude": 57.7663889
+    },
+    {
+        "name": "Beau Bois",
+        "country": "Mauritius",
+        "province": "Moka",
+        "population": -1,
+        "latitude": -20.207728,
+        "longitude": 57.56612
+    },
+    {
+        "name": "Bar le Duc",
+        "country": "Mauritius",
+        "province": "Moka",
+        "population": -1,
+        "latitude": -20.236957,
+        "longitude": 57.575088
+    },
+    {
+        "name": "Barachois",
+        "country": "Mauritius",
+        "province": "Black River",
+        "population": -1,
+        "latitude": -20.3202778,
+        "longitude": 57.3730556
+    },
+    {
+        "name": "Bagatelle",
+        "country": "Mauritius",
+        "province": "Plaines Wilhems",
+        "population": -1,
+        "latitude": -20.255452,
+        "longitude": 57.520529
+    },
+    {
+        "name": "Bagatelle",
+        "country": "Mauritius",
+        "province": "Moka",
+        "population": -1,
+        "latitude": -20.221463,
+        "longitude": 57.49383
+    },
+    {
+        "name": "Argy",
+        "country": "Mauritius",
+        "province": "Flacq",
+        "population": -1,
+        "latitude": -20.1980556,
+        "longitude": 57.7294444
+    },
+    {
+        "name": "Antoinette",
+        "country": "Mauritius",
+        "province": "Rivière du Rempart",
+        "population": -1,
+        "latitude": -20.1216667,
+        "longitude": 57.6341667
+    },
+    {
+        "name": "Amitié",
+        "country": "Mauritius",
+        "province": "Pamplemousses",
+        "population": -1,
+        "latitude": -20.15,
+        "longitude": 57.5666667
+    },
+    {
+        "name": "Alma",
+        "country": "Mauritius",
+        "province": "Moka",
+        "population": -1,
+        "latitude": -20.2409,
+        "longitude": 57.57458
+    },
+    {
+        "name": "Vainqueur",
+        "country": "Mauritius",
+        "province": "Mauritius",
+        "population": -1,
+        "latitude": -19.6666667,
+        "longitude": 63.4666667
+    },
+    {
+        "name": "Trèfles",
+        "country": "Mauritius",
+        "province": "Mauritius",
+        "population": -1,
+        "latitude": -19.6833333,
+        "longitude": 63.4666667
+    },
+    {
+        "name": "Quatre Vents",
+        "country": "Mauritius",
+        "province": "Rodrigues",
+        "population": -1,
+        "latitude": -19.7,
+        "longitude": 63.4
+    },
+    {
+        "name": "Petit Gabriel",
+        "country": "Mauritius",
+        "province": "Rodrigues",
+        "population": -1,
+        "latitude": -19.7166667,
+        "longitude": 63.4166667
+    },
+    {
+        "name": "Petit Brûlé",
+        "country": "Mauritius",
+        "province": "Rodrigues",
+        "population": -1,
+        "latitude": -19.7111111,
+        "longitude": 63.4625
+    },
+    {
+        "name": "Paves",
+        "country": "Mauritius",
+        "province": "Mauritius",
+        "population": -1,
+        "latitude": -19.6833333,
+        "longitude": 63.45
+    },
+    {
+        "name": "Nouvelle Découverte",
+        "country": "Mauritius",
+        "province": "Rodrigues",
+        "population": -1,
+        "latitude": -19.7111111,
+        "longitude": 63.4694444
+    },
+    {
+        "name": "La Ferme",
+        "country": "Mauritius",
+        "province": "Rodrigues",
+        "population": -1,
+        "latitude": -19.7,
+        "longitude": 63.3833333
+    },
+    {
+        "name": "Crève Coeur",
+        "country": "Mauritius",
+        "province": "Rodrigues",
+        "population": -1,
+        "latitude": -19.6805556,
+        "longitude": 63.4305556
+    },
+    {
+        "name": "Coromandel",
+        "country": "Mauritius",
+        "province": "Rodrigues",
+        "population": -1,
+        "latitude": -19.7138889,
+        "longitude": 63.475
+    },
+    {
+        "name": "Bambou",
+        "country": "Mauritius",
+        "province": "Mauritius",
+        "population": -1,
+        "latitude": -19.6833333,
+        "longitude": 63.45
+    },
+    {
+        "name": "La Fouche",
+        "country": "Mauritius",
+        "province": "Rodrigues",
+        "population": -1,
+        "latitude": -19.7388889,
+        "longitude": 63.3819444
+    },
+    {
+        "name": "Petite Butte",
+        "country": "Mauritius",
+        "province": "Rodrigues",
+        "population": -1,
+        "latitude": -19.75,
+        "longitude": 63.3833333
+    },
+    {
+        "name": "Rivière Cocos",
+        "country": "Mauritius",
+        "province": "Rodrigues",
+        "population": -1,
+        "latitude": -19.7402778,
+        "longitude": 63.4111111
+    },
+    {
+        "name": "Maréchal",
+        "country": "Mauritius",
+        "province": "Rodrigues",
+        "population": -1,
+        "latitude": -19.7333333,
+        "longitude": 63.3944444
+    },
+    {
+        "name": "Grand Baie",
+        "country": "Mauritius",
+        "province": "Rodrigues",
+        "population": -1,
+        "latitude": -19.6777778,
+        "longitude": 63.4486111
+    },
+    {
+        "name": "Roche Bon Dieu",
+        "country": "Mauritius",
+        "province": "Rodrigues",
+        "population": -1,
+        "latitude": -19.6916667,
+        "longitude": 63.4708333
+    },
+    {
+        "name": "Grande Montagne",
+        "country": "Mauritius",
+        "province": "Rodrigues",
+        "population": -1,
+        "latitude": -19.7125,
+        "longitude": 63.4666667
+    },
+    {
+        "name": "Patate Théophile",
+        "country": "Mauritius",
+        "province": "Rodrigues",
+        "population": -1,
+        "latitude": -19.7,
+        "longitude": 63.4833333
+    },
+    {
+        "name": "Petit Gravier",
+        "country": "Mauritius",
+        "province": "Rodrigues",
+        "population": -1,
+        "latitude": -19.7277778,
+        "longitude": 63.4833333
+    },
+    {
+        "name": "Citronelle",
+        "country": "Mauritius",
+        "province": "Rodrigues",
+        "population": -1,
+        "latitude": -19.7,
+        "longitude": 63.4416667
+    },
+    {
+        "name": "Mont Lubin",
+        "country": "Mauritius",
+        "province": "Rodrigues",
+        "population": -1,
+        "latitude": -19.7083333,
+        "longitude": 63.4416667
+    },
+    {
+        "name": "Citron Donis",
+        "country": "Mauritius",
+        "province": "Rodrigues",
+        "population": -1,
+        "latitude": -19.7291667,
+        "longitude": 63.4166667
+    },
+    {
+        "name": "Baie Topaze",
+        "country": "Mauritius",
+        "province": "Rodrigues",
+        "population": -1,
+        "latitude": -19.7291667,
+        "longitude": 63.3611111
+    },
+    {
+        "name": "Camp du Roi",
+        "country": "Mauritius",
+        "province": "Rodrigues",
+        "population": -1,
+        "latitude": -19.6888889,
+        "longitude": 63.425
+    },
+    {
+        "name": "Chameaux",
+        "country": "Mauritius",
+        "province": "Rodrigues",
+        "population": -1,
+        "latitude": -19.7027778,
+        "longitude": 63.4541667
+    },
+    {
+        "name": "Brûlé",
+        "country": "Mauritius",
+        "province": "Rodrigues",
+        "population": -1,
+        "latitude": -19.7027778,
+        "longitude": 63.4666667
+    },
+    {
+        "name": "Palissade Ternel",
+        "country": "Mauritius",
+        "province": "Rodrigues",
+        "population": -1,
+        "latitude": -19.7111111,
+        "longitude": 63.4541667
+    },
+    {
+        "name": "Saint Louis",
+        "country": "Mauritius",
+        "province": "Rodrigues",
+        "population": -1,
+        "latitude": -19.7166667,
+        "longitude": 63.475
+    },
+    {
+        "name": "Eau Vannée",
+        "country": "Mauritius",
+        "province": "Rodrigues",
+        "population": -1,
+        "latitude": -19.7319444,
+        "longitude": 63.4222222
+    },
+    {
+        "name": "Songe",
+        "country": "Mauritius",
+        "province": "Rodrigues",
+        "population": -1,
+        "latitude": -19.7388889,
+        "longitude": 63.4416667
+    },
+    {
+        "name": "Bassin Cabri",
+        "country": "Mauritius",
+        "province": "Rodrigues",
+        "population": -1,
+        "latitude": -19.7361111,
+        "longitude": 63.4666667
+    },
+    {
+        "name": "Solitude",
+        "country": "Mauritius",
+        "province": "Rodrigues",
+        "population": -1,
+        "latitude": -19.6861111,
+        "longitude": 63.4375
+    },
+    {
+        "name": "Soupir",
+        "country": "Mauritius",
+        "province": "Rodrigues",
+        "population": -1,
+        "latitude": -19.7055556,
+        "longitude": 63.4291667
+    },
+    {
+        "name": "Poste Lafayette",
+        "country": "Mauritius",
+        "province": "Mauritius",
+        "population": -1,
+        "latitude": -20.13823,
+        "longitude": 57.75212
+    },
+    {
+        "name": "Balaclava",
+        "country": "Mauritius",
+        "province": "Mauritius",
+        "population": -1,
+        "latitude": -20.083261020139748,
+        "longitude": 57.51565933227539
+    },
+    {
+        "name": "La Nicoliere",
+        "country": "Mauritius",
+        "province": "Mauritius",
+        "population": -1,
+        "latitude": -20.157571,
+        "longitude": 57.616991
+    },
+    {
+        "name": "Belle Rive",
+        "country": "Mauritius",
+        "province": "Mauritius",
+        "population": -1,
+        "latitude": -20.347863,
+        "longitude": 57.552436
+    },
+    {
+        "name": "Saint-Joseph",
+        "country": "Mauritius",
+        "province": "Mauritius",
+        "population": -1,
+        "latitude": -20.320211,
+        "longitude": 57.523216
+    },
+    {
+        "name": "Blue bay",
+        "country": "Mauritius",
+        "province": "Mauritius",
+        "population": -1,
+        "latitude": -20.44097743702911,
+        "longitude": 57.719067335128784
+    },
+    {
+        "name": "Soreze",
+        "country": "Mauritius",
+        "province": "Mauritius",
+        "population": -1,
+        "latitude": -20.206185867917313,
+        "longitude": 57.48553276062012
+    },
+    {
+        "name": "Bain Boeuf",
+        "country": "Mauritius",
+        "province": "Mauritius",
+        "population": -1,
+        "latitude": -19.98767,
+        "longitude": 57.60617
+    },
+    {
+        "name": "Mont Roches",
+        "country": "Mauritius",
+        "province": "Mauritius",
+        "population": -1,
+        "latitude": -20.2338781,
+        "longitude": 57.4463536
+    },
+    {
+        "name": "Lallmatie",
+        "country": "Mauritius",
+        "province": "Mauritius",
+        "population": -1,
+        "latitude": -20.018394,
+        "longitude": 57.580172
+    },
+    {
+        "name": "Belle Rive",
+        "country": "Mauritius",
+        "province": "Moka",
+        "population": -1,
+        "latitude": -20.28289,
+        "longitude": 57.55132
+    },
+    {
+        "name": "Morcellement Lonrho",
+        "country": "Mauritius",
+        "province": "Mauritius",
+        "population": -1,
+        "latitude": -20.27391,
+        "longitude": 57.51931
+    },
+    {
+        "name": "St Martin",
+        "country": "Mauritius",
+        "province": "Mauritius",
+        "population": -1,
+        "latitude": -20.5065471,
+        "longitude": 57.3985088
+    },
+    {
+        "name": "Cascade Jean Louis",
+        "country": "Mauritius",
+        "province": "Mauritius",
+        "population": -1,
+        "latitude": -19.747256,
+        "longitude": 63.3653533
+    },
+    {
+        "name": "Camp Levieux",
+        "country": "Mauritius",
+        "province": "Mauritius",
+        "population": -1,
+        "latitude": -20.2061,
+        "longitude": 57.465862
+    },
+    {
+        "name": "Anse La Raie",
+        "country": "Mauritius",
+        "province": "Mauritius",
+        "population": -1,
+        "latitude": -19.99057,
+        "longitude": 57.63202
+    },
+    {
+        "name": "Riche Terre",
+        "country": "Mauritius",
+        "province": "Pamplemousses",
+        "population": -1,
+        "latitude": -20.133069,
+        "longitude": 57.524719
+    },
+    {
+        "name": "Boulingrin",
+        "country": "Mauritius",
+        "province": "Pamplemousses",
+        "population": -1,
+        "latitude": -20.167642,
+        "longitude": 57.572216
+    },
+    {
+        "name": "Thomassin",
+        "country": "Mauritius",
+        "province": "Pamplemousses",
+        "population": -1,
+        "latitude": -20.172877,
+        "longitude": 57.562667
+    },
+    {
+        "name": "Tosca",
+        "country": "Mauritius",
+        "province": "Pamplemousses",
+        "population": -1,
+        "latitude": -20.189648,
+        "longitude": 57.563418
+    },
+    {
+        "name": "Malenga",
+        "country": "Mauritius",
+        "province": "Moka",
+        "population": -1,
+        "latitude": -20.199706,
+        "longitude": 57.560437
+    },
+    {
+        "name": "Richelieu",
+        "country": "Mauritius",
+        "province": "Black River",
+        "population": -1,
+        "latitude": -20.193235,
+        "longitude": 57.45952
+    },
+    {
+        "name": "Camp Samy",
+        "country": "Mauritius",
+        "province": "Moka",
+        "population": -1,
+        "latitude": -20.221147,
+        "longitude": 57.504986
+    },
+    {
+        "name": "Bois Chéri",
+        "country": "Mauritius",
+        "province": "Moka",
+        "population": -1,
+        "latitude": -20.219111,
+        "longitude": 57.516401
+    },
+    {
+        "name": "Gentilly",
+        "country": "Mauritius",
+        "province": "Moka",
+        "population": -1,
+        "latitude": -20.225388,
+        "longitude": 57.512208
+    },
+    {
+        "name": "Martindale",
+        "country": "Mauritius",
+        "province": "Moka",
+        "population": -1,
+        "latitude": -20.230332,
+        "longitude": 57.498612
+    },
+    {
+        "name": "Valentina",
+        "country": "Mauritius",
+        "province": "Plaines Wilhems",
+        "population": -1,
+        "latitude": -20.27122,
+        "longitude": 57.5106
+    },
+    {
+        "name": "Cité La Cure",
+        "country": "Mauritius",
+        "province": "Port Louis",
+        "population": -1,
+        "latitude": -20.158159,
+        "longitude": 57.534322
+    },
+    {
+        "name": "La Louise",
+        "country": "Mauritius",
+        "province": "Plaines Wilhems",
+        "population": -1,
+        "latitude": -20.271217,
+        "longitude": 57.473199
+    },
+    {
+        "name": "Beau Séjour",
+        "country": "Mauritius",
+        "province": "Plaines Wilhems",
+        "population": -1,
+        "latitude": -20.253158,
+        "longitude": 57.478825
+    },
+    {
+        "name": "Vuillemain",
+        "country": "Mauritius",
+        "province": "Plaines Wilhems",
+        "population": -1,
+        "latitude": -20.217981,
+        "longitude": 57.472593
+    },
+    {
+        "name": "Montebello",
+        "country": "Mauritius",
+        "province": "Port Louis",
+        "population": -1,
+        "latitude": -20.202147,
+        "longitude": 57.481555
+    },
+    {
+        "name": "Les Guibies",
+        "country": "Mauritius",
+        "province": "Port Louis",
+        "population": -1,
+        "latitude": -20.188518,
+        "longitude": 57.492637
+    },
+    {
+        "name": "Tranquebar",
+        "country": "Mauritius",
+        "province": "Port Louis",
+        "population": -1,
+        "latitude": -20.174965,
+        "longitude": 57.511455
+    },
+    {
+        "name": "Champ de Mars",
+        "country": "Mauritius",
+        "province": "Port Louis",
+        "population": -1,
+        "latitude": -20.16522,
+        "longitude": 57.508094
+    },
+    {
+        "name": "Vallée Pitot",
+        "country": "Mauritius",
+        "province": "Port Louis",
+        "population": -1,
+        "latitude": -20.168334,
+        "longitude": 57.519359
+    },
+    {
+        "name": "Plaine Verte",
+        "country": "Mauritius",
+        "province": "Port Louis",
+        "population": -1,
+        "latitude": -20.159524,
+        "longitude": 57.51454
+    },
+    {
+        "name": "Camp Yoloff",
+        "country": "Mauritius",
+        "province": "Port Louis",
+        "population": -1,
+        "latitude": -20.155629,
+        "longitude": 57.50731
+    },
+    {
+        "name": "Vallée des Prêtres",
+        "country": "Mauritius",
+        "province": "Port Louis",
+        "population": -1,
+        "latitude": -20.168496,
+        "longitude": 57.536372
+    },
+    {
+        "name": "Carreau Lalo",
+        "country": "Mauritius",
+        "province": "Port Louis",
+        "population": -1,
+        "latitude": -20.156519,
+        "longitude": 57.527356
+    },
+    {
+        "name": "Saint Jean",
+        "country": "Mauritius",
+        "province": "Plaines Wilhems",
+        "population": -1,
+        "latitude": -20.255004,
+        "longitude": 57.485162
+    },
+    {
+        "name": "Candos",
+        "country": "Mauritius",
+        "province": "Plaines Wilhems",
+        "population": -1,
+        "latitude": -20.278373,
+        "longitude": 57.479359
+    },
+    {
+        "name": "Cité Valijée",
+        "country": "Mauritius",
+        "province": "Port Louis",
+        "population": -1,
+        "latitude": -20.16946,
+        "longitude": 57.47888
+    },
+    {
+        "name": "Sainte Croix",
+        "country": "Mauritius",
+        "province": "Port Louis",
+        "population": -1,
+        "latitude": -20.147327,
+        "longitude": 57.528224
+    },
+    {
+        "name": "Roselyn Cottage",
+        "country": "Mauritius",
+        "province": "Moka",
+        "population": -1,
+        "latitude": -20.213295,
+        "longitude": 57.526663
+    },
+    {
+        "name": "Rose Hill",
+        "country": "Mauritius",
+        "province": "Plaines Wilhems",
+        "population": -1,
+        "latitude": -20.2419444,
+        "longitude": 57.47
+    },
+    {
+        "name": "Roche Bois",
+        "country": "Mauritius",
+        "province": "Port Louis",
+        "population": -1,
+        "latitude": -20.145477,
+        "longitude": 57.510177
+    },
+    {
+        "name": "Quinze Cantons",
+        "country": "Mauritius",
+        "province": "Plaines Wilhems",
+        "population": -1,
+        "latitude": -20.3008333,
+        "longitude": 57.4725
+    },
+    {
+        "name": "Mon Trésor",
+        "country": "Mauritius",
+        "province": "Grand Port",
+        "population": -1,
+        "latitude": -20.4466667,
+        "longitude": 57.6716667
+    },
+    {
+        "name": "Mont Fleury",
+        "country": "Mauritius",
+        "province": "Moka",
+        "population": -1,
+        "latitude": -20.217356,
+        "longitude": 57.539775
+    },
+    {
+        "name": "Mon Désert",
+        "country": "Mauritius",
+        "province": "Grand Port",
+        "population": -1,
+        "latitude": -20.4472222,
+        "longitude": 57.6716667
+    },
+    {
+        "name": "Moka",
+        "country": "Mauritius",
+        "province": "Black River",
+        "population": -1,
+        "latitude": -20.4477778,
+        "longitude": 57.3544444
+    },
+    {
+        "name": "Le Bocage",
+        "country": "Mauritius",
+        "province": "Moka",
+        "population": -1,
+        "latitude": -20.218626,
+        "longitude": 57.503386
+    },
+    {
+        "name": "Lavilléon",
+        "country": "Mauritius",
+        "province": "Black River",
+        "population": -1,
+        "latitude": -20.4425,
+        "longitude": 57.3561111
+    },
+    {
+        "name": "L’Agrément",
+        "country": "Mauritius",
+        "province": "Moka",
+        "population": -1,
+        "latitude": -20.219208,
+        "longitude": 57.533878
+    },
+    {
+        "name": "La Caverne",
+        "country": "Mauritius",
+        "province": "Plaines Wilhems",
+        "population": -1,
+        "latitude": -20.2938889,
+        "longitude": 57.4738889
+    },
+    {
+        "name": "Highlands",
+        "country": "Mauritius",
+        "province": "Plaines Wilhems",
+        "population": -1,
+        "latitude": -20.27923,
+        "longitude": 57.51802
+    },
+    {
+        "name": "Cassis",
+        "country": "Mauritius",
+        "province": "Port Louis",
+        "population": -1,
+        "latitude": -20.16499,
+        "longitude": 57.48669
+    },
+    {
+        "name": "Camp Benoît",
+        "country": "Mauritius",
+        "province": "Port Louis",
+        "population": -1,
+        "latitude": -20.184511,
+        "longitude": 57.465535
+    },
+    {
+        "name": "Abercrombie",
+        "country": "Mauritius",
+        "province": "Port Louis",
+        "population": -1,
+        "latitude": -20.149292,
+        "longitude": 57.521272
+    },
+    {
+        "name": "Morcellement Domah",
+        "country": "Mauritius",
+        "province": "Mauritius",
+        "population": -1,
+        "latitude": -20.34708,
+        "longitude": 57.54458
+    },
+    {
+        "name": "Pointe des Lascars",
+        "country": "Mauritius",
+        "province": "Mauritius",
+        "population": -1,
+        "latitude": -20.08834,
+        "longitude": 57.7068
+    },
+    {
+        "name": "La Place Belgath",
+        "country": "Mauritius",
+        "province": "Mauritius",
+        "population": -1,
+        "latitude": -20.278321,
+        "longitude": 57.788928
+    },
+    {
+        "name": "Belle Rose",
+        "country": "Mauritius",
+        "province": "Mauritius",
+        "population": -1,
+        "latitude": -20.2586986,
+        "longitude": 57.4611274
+    },
+    {
+        "name": "Maingard",
+        "country": "Mauritius",
+        "province": "Mauritius",
+        "population": -1,
+        "latitude": -20.21872,
+        "longitude": 57.4600625
+    },
+    {
+        "name": "Trefles",
+        "country": "Mauritius",
+        "province": "Mauritius",
+        "population": -1,
+        "latitude": -20.2562776,
+        "longitude": 57.4555127
+    },
+    {
+        "name": "Petite Etoile",
+        "country": "Mauritius",
+        "province": "Mauritius",
+        "population": -1,
+        "latitude": -20.30716,
+        "longitude": 57.67938
+    },
+    {
+        "name": "Upper Dagotiere",
+        "country": "Mauritius",
+        "province": "Mauritius",
+        "population": -1,
+        "latitude": -20.24412,
+        "longitude": 57.5663
+    },
+    {
+        "name": "Beau Vallon NHDC",
+        "country": "Mauritius",
+        "province": "Mauritius",
+        "population": -1,
+        "latitude": -20.416944,
+        "longitude": 57.706667
+    },
+    {
+        "name": "Camp Chapelon",
+        "country": "Mauritius",
+        "province": "Mauritius",
+        "population": -1,
+        "latitude": -20.176127,
+        "longitude": 57.469139
+    },
+    {
+        "name": "Beau-Bassin",
+        "country": "Mauritius",
+        "province": "Mauritius",
+        "population": -1,
+        "latitude": -20.2264,
+        "longitude": 57.47189
+    },
+    {
+        "name": "Plaine Lauzun",
+        "country": "Mauritius",
+        "province": "Port Louis",
+        "population": -1,
+        "latitude": -20.173216,
+        "longitude": 57.48012
+    },
+    {
+        "name": "Chapman Hill",
+        "country": "Mauritius",
+        "province": "Plaines Wilhems",
+        "population": -1,
+        "latitude": -20.21272,
+        "longitude": 57.467445
+    },
+    {
+        "name": "Bell Village",
+        "country": "Mauritius",
+        "province": "Port Louis",
+        "population": -1,
+        "latitude": -20.170287,
+        "longitude": 57.485114
+    }
+]

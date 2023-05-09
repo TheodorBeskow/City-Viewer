@@ -1,0 +1,1010 @@
+[
+    {
+        "name": "Dededo Village",
+        "country": "Guam",
+        "province": "Dededo",
+        "population": 44943,
+        "latitude": 13.5177698693691,
+        "longitude": 144.839101731777
+    },
+    {
+        "name": "Tamuning-Tumon-Harmon Village",
+        "country": "Guam",
+        "province": "Tamuning",
+        "population": 19685,
+        "latitude": 13.4877301274368,
+        "longitude": 144.781383275986
+    },
+    {
+        "name": "Yigo Village",
+        "country": "Guam",
+        "province": "Yigo",
+        "population": 20539,
+        "latitude": 13.5360505822895,
+        "longitude": 144.888553619385
+    },
+    {
+        "name": "Barrigada Village",
+        "country": "Guam",
+        "province": "Barrigada",
+        "population": 8875,
+        "latitude": 13.4691326997556,
+        "longitude": 144.799013435841
+    },
+    {
+        "name": "Tamuning",
+        "country": "Guam",
+        "province": "Tamuning",
+        "population": 19685,
+        "latitude": 13.4875423345584,
+        "longitude": 144.78142619133
+    },
+    {
+        "name": "Mangilao Village",
+        "country": "Guam",
+        "province": "Mangilao",
+        "population": 15191,
+        "latitude": 13.4476121327016,
+        "longitude": 144.801092147827
+    },
+    {
+        "name": "Santa Rita",
+        "country": "Guam",
+        "province": "Santa Rita",
+        "population": 7500,
+        "latitude": 13.3860813538548,
+        "longitude": 144.672260284424
+    },
+    {
+        "name": "Hagåtña",
+        "country": "Guam",
+        "province": "Hagatna",
+        "population": 1051,
+        "latitude": 13.4756693518442,
+        "longitude": 144.748858809471
+    },
+    {
+        "name": "Mongmong-Toto-Maite Village",
+        "country": "Guam",
+        "province": "Mongmong-Toto-Maite",
+        "population": 6825,
+        "latitude": 13.4685744937325,
+        "longitude": 144.782139658928
+    },
+    {
+        "name": "Yona Village",
+        "country": "Guam",
+        "province": "Yona",
+        "population": 6484,
+        "latitude": 13.4097416779822,
+        "longitude": 144.776968359947
+    },
+    {
+        "name": "Chalan Pago-Ordot Village",
+        "country": "Guam",
+        "province": "Chalan Pago-Ordot",
+        "population": 6822,
+        "latitude": 13.4474138736396,
+        "longitude": 144.759024381638
+    },
+    {
+        "name": "Merizo Village",
+        "country": "Guam",
+        "province": "Merizo",
+        "population": 2152,
+        "latitude": 13.2658443925656,
+        "longitude": 144.66908454895
+    },
+    {
+        "name": "Inarajan Village",
+        "country": "Guam",
+        "province": "Inarajan",
+        "population": 3052,
+        "latitude": 13.273634407055,
+        "longitude": 144.748445749283
+    },
+    {
+        "name": "Agana Heights Village",
+        "country": "Guam",
+        "province": "Agana Heights",
+        "population": 3940,
+        "latitude": 13.4655904170135,
+        "longitude": 144.747952222824
+    },
+    {
+        "name": "Piti Village",
+        "country": "Guam",
+        "province": "Piti",
+        "population": 1666,
+        "latitude": 13.4625645669574,
+        "longitude": 144.693310260773
+    },
+    {
+        "name": "Sinajana Village",
+        "country": "Guam",
+        "province": "Sinajana",
+        "population": 2853,
+        "latitude": 13.4633366840556,
+        "longitude": 144.754056930542
+    },
+    {
+        "name": "Talofofo Village",
+        "country": "Guam",
+        "province": "Talofofo",
+        "population": 3215,
+        "latitude": 13.3551326039972,
+        "longitude": 144.758348464966
+    },
+    {
+        "name": "Umatac Village",
+        "country": "Guam",
+        "province": "Umatac",
+        "population": 903,
+        "latitude": 13.29843,
+        "longitude": 144.66314
+    },
+    {
+        "name": "Agat Village",
+        "country": "Guam",
+        "province": "Agat",
+        "population": 5656,
+        "latitude": 13.383,
+        "longitude": 144.66003
+    },
+    {
+        "name": "Asan-Maina Village",
+        "country": "Guam",
+        "province": "Asan",
+        "population": 2137,
+        "latitude": 13.4721480331327,
+        "longitude": 144.71654355526
+    },
+    {
+        "name": "Hagåtña Village",
+        "country": "Guam",
+        "province": "Hagatna",
+        "population": 1051,
+        "latitude": 13.4727923079132,
+        "longitude": 144.758018553257
+    },
+    {
+        "name": "Chalan Pago",
+        "country": "Guam",
+        "province": "Chalan Pago-Ordot",
+        "population": -1,
+        "latitude": 13.4385650916548,
+        "longitude": 144.776072502136
+    },
+    {
+        "name": "Asan",
+        "country": "Guam",
+        "province": "Asan",
+        "population": -1,
+        "latitude": 13.4717411218507,
+        "longitude": 144.715813994408
+    },
+    {
+        "name": "Malojloj",
+        "country": "Guam",
+        "province": "Inarajan",
+        "population": -1,
+        "latitude": 13.3063998538379,
+        "longitude": 144.761052131653
+    },
+    {
+        "name": "Sese",
+        "country": "Guam",
+        "province": "Inarajan",
+        "population": -1,
+        "latitude": 13.2873133184407,
+        "longitude": 144.745087623596
+    },
+    {
+        "name": "Agafo Gumas",
+        "country": "Guam",
+        "province": "Yigo",
+        "population": -1,
+        "latitude": 13.5831514964323,
+        "longitude": 144.878811836243
+    },
+    {
+        "name": "Afami",
+        "country": "Guam",
+        "province": "Sinajana",
+        "population": -1,
+        "latitude": 13.457097071922,
+        "longitude": 144.762854576111
+    },
+    {
+        "name": "Lockwood Terrace - DoD Naval Housing",
+        "country": "Guam",
+        "province": "Santa Rita",
+        "population": -1,
+        "latitude": 13.4327213773388,
+        "longitude": 144.650309085846
+    },
+    {
+        "name": "Apoigan",
+        "country": "Guam",
+        "province": "Tamuning",
+        "population": -1,
+        "latitude": 13.4881683102454,
+        "longitude": 144.776437282562
+    },
+    {
+        "name": "Fern Terrace",
+        "country": "Guam",
+        "province": "Dededo",
+        "population": -1,
+        "latitude": 13.5699066120964,
+        "longitude": 144.850187301636
+    },
+    {
+        "name": "Ordot",
+        "country": "Guam",
+        "province": "Chalan Pago-Ordot",
+        "population": -1,
+        "latitude": 13.4478625649666,
+        "longitude": 144.761202335358
+    },
+    {
+        "name": "Tiyan",
+        "country": "Guam",
+        "province": "Barrigada",
+        "population": -1,
+        "latitude": 13.484657608738033,
+        "longitude": 144.78718757629395
+    },
+    {
+        "name": "Destroyed Sumay Village WW2",
+        "country": "Guam",
+        "province": "Santa Rita",
+        "population": -1,
+        "latitude": 13.4363632802994,
+        "longitude": 144.653055667877
+    },
+    {
+        "name": "Tumon",
+        "country": "Guam",
+        "province": "Tamuning",
+        "population": -1,
+        "latitude": 13.5069444,
+        "longitude": 144.8013889
+    },
+    {
+        "name": "Mongmong",
+        "country": "Guam",
+        "province": "Mongmong-Toto-Maite",
+        "population": -1,
+        "latitude": 13.4742921311446,
+        "longitude": 144.762768745422
+    },
+    {
+        "name": "Maite",
+        "country": "Guam",
+        "province": "Mongmong-Toto-Maite",
+        "population": -1,
+        "latitude": 13.477975135408,
+        "longitude": 144.766706228256
+    },
+    {
+        "name": "Guam Government House",
+        "country": "Guam",
+        "province": "Hagatna",
+        "population": -1,
+        "latitude": 13.4719080598963,
+        "longitude": 144.749781489372
+    },
+    {
+        "name": "Manenggon",
+        "country": "Guam",
+        "province": "Yona",
+        "population": -1,
+        "latitude": 13.3986580399854,
+        "longitude": 144.753499031067
+    },
+    {
+        "name": "Oka",
+        "country": "Guam",
+        "province": "Tamuning",
+        "population": -1,
+        "latitude": 13.500864829588,
+        "longitude": 144.772521257401
+    },
+    {
+        "name": "Jati - Prehistoric and Spanish Settlement",
+        "country": "Guam",
+        "province": "Umatac",
+        "population": -1,
+        "latitude": 13.3158799154529,
+        "longitude": 144.657733440399
+    },
+    {
+        "name": "Perez Acres",
+        "country": "Guam",
+        "province": "Yigo",
+        "population": -1,
+        "latitude": 13.5243051897926,
+        "longitude": 144.886901378632
+    },
+    {
+        "name": "Piga",
+        "country": "Guam",
+        "province": "Merizo",
+        "population": -1,
+        "latitude": 13.264090038494,
+        "longitude": 144.674212932587
+    },
+    {
+        "name": "Salinas",
+        "country": "Guam",
+        "province": "Agat",
+        "population": -1,
+        "latitude": 13.391435658255135,
+        "longitude": 144.66277599334717
+    },
+    {
+        "name": "San Antonio",
+        "country": "Guam",
+        "province": "Barrigada",
+        "population": -1,
+        "latitude": 13.4663312227487,
+        "longitude": 144.802862405777
+    },
+    {
+        "name": "San Vicente",
+        "country": "Guam",
+        "province": "Santa Rita",
+        "population": -1,
+        "latitude": 13.3927298582079,
+        "longitude": 144.66903090477
+    },
+    {
+        "name": "Santa Rosa",
+        "country": "Guam",
+        "province": "Santa Rita",
+        "population": -1,
+        "latitude": 13.397969209463,
+        "longitude": 144.673107862473
+    },
+    {
+        "name": "Sella",
+        "country": "Guam",
+        "province": "Asan",
+        "population": -1,
+        "latitude": 13.4715585332299,
+        "longitude": 144.734015464783
+    },
+    {
+        "name": "Socio",
+        "country": "Guam",
+        "province": "Tamuning",
+        "population": -1,
+        "latitude": 13.4894619881336,
+        "longitude": 144.789891242981
+    },
+    {
+        "name": "South Tipalao - DoD Naval Housing",
+        "country": "Guam",
+        "province": "Santa Rita",
+        "population": -1,
+        "latitude": 13.4173392061199,
+        "longitude": 144.651339054108
+    },
+    {
+        "name": "Spring Hill",
+        "country": "Guam",
+        "province": "Yigo",
+        "population": -1,
+        "latitude": 13.541850047262,
+        "longitude": 144.886740446091
+    },
+    {
+        "name": "Tagachang",
+        "country": "Guam",
+        "province": "Yona",
+        "population": -1,
+        "latitude": 13.4082805873376,
+        "longitude": 144.780964851379
+    },
+    {
+        "name": "Talisay",
+        "country": "Guam",
+        "province": "Santa Rita",
+        "population": -1,
+        "latitude": 13.3909764243408,
+        "longitude": 144.713351726532
+    },
+    {
+        "name": "Nimitz Hill",
+        "country": "Guam",
+        "province": "Piti",
+        "population": -1,
+        "latitude": 13.4634618919989,
+        "longitude": 144.705176353455
+    },
+    {
+        "name": "Toto",
+        "country": "Guam",
+        "province": "Mongmong-Toto-Maite",
+        "population": -1,
+        "latitude": 13.4660912436771,
+        "longitude": 144.782574176788
+    },
+    {
+        "name": "Pulantat",
+        "country": "Guam",
+        "province": "Yona",
+        "population": -1,
+        "latitude": 13.4128308118132,
+        "longitude": 144.755258560181
+    },
+    {
+        "name": "Tinaga",
+        "country": "Guam",
+        "province": "Inarajan",
+        "population": -1,
+        "latitude": 13.2863735705653,
+        "longitude": 144.7536277771
+    },
+    {
+        "name": "Tumon Heights",
+        "country": "Guam",
+        "province": "Tamuning",
+        "population": -1,
+        "latitude": 13.4976829386808,
+        "longitude": 144.787402153015
+    },
+    {
+        "name": "Taigigao",
+        "country": "Guam",
+        "province": "Agana Heights",
+        "population": -1,
+        "latitude": 13.459016969900167,
+        "longitude": 144.74669694900513
+    },
+    {
+        "name": "Ungaguan",
+        "country": "Guam",
+        "province": "Barrigada",
+        "population": -1,
+        "latitude": 13.4709951160358,
+        "longitude": 144.805415868759
+    },
+    {
+        "name": "Kaiser",
+        "country": "Guam",
+        "province": "Dededo",
+        "population": -1,
+        "latitude": 13.5259324723478,
+        "longitude": 144.846153259277
+    },
+    {
+        "name": "Utan",
+        "country": "Guam",
+        "province": "Mongmong-Toto-Maite",
+        "population": -1,
+        "latitude": 13.4684075533604,
+        "longitude": 144.765311479568
+    },
+    {
+        "name": "Windward Hills",
+        "country": "Guam",
+        "province": "Yona",
+        "population": -1,
+        "latitude": 13.3781175190698,
+        "longitude": 144.75084900856
+    },
+    {
+        "name": "Ypan",
+        "country": "Guam",
+        "province": "Talofofo",
+        "population": -1,
+        "latitude": 13.3536294269816,
+        "longitude": 144.768733978271
+    },
+    {
+        "name": "Ypaopao Estates",
+        "country": "Guam",
+        "province": "Dededo",
+        "population": -1,
+        "latitude": 13.5250145194527,
+        "longitude": 144.86207485199
+    },
+    {
+        "name": "Perezville",
+        "country": "Guam",
+        "province": "Tamuning",
+        "population": -1,
+        "latitude": 13.5040258136279,
+        "longitude": 144.778776168823
+    },
+    {
+        "name": "Belen",
+        "country": "Guam",
+        "province": "Inarajan",
+        "population": -1,
+        "latitude": 13.2823012877157,
+        "longitude": 144.748048782349
+    },
+    {
+        "name": "Manaca",
+        "country": "Guam",
+        "province": "Barrigada",
+        "population": -1,
+        "latitude": 13.4597473618275,
+        "longitude": 144.802851676941
+    },
+    {
+        "name": "Machaute",
+        "country": "Guam",
+        "province": "Barrigada",
+        "population": -1,
+        "latitude": 13.4694926636965,
+        "longitude": 144.790470600128
+    },
+    {
+        "name": "Lupog",
+        "country": "Guam",
+        "province": "Yigo",
+        "population": -1,
+        "latitude": 13.548254328118,
+        "longitude": 144.914131164551
+    },
+    {
+        "name": "Leyan",
+        "country": "Guam",
+        "province": "Mangilao",
+        "population": -1,
+        "latitude": 13.455542360648435,
+        "longitude": 144.80409622192383
+    },
+    {
+        "name": "Latte Plantation",
+        "country": "Guam",
+        "province": "Mangilao",
+        "population": -1,
+        "latitude": 13.4950122040624,
+        "longitude": 144.850487709045
+    },
+    {
+        "name": "Julog",
+        "country": "Guam",
+        "province": "Merizo",
+        "population": -1,
+        "latitude": 13.257114267284,
+        "longitude": 144.688653945923
+    },
+    {
+        "name": "Harmon Garden",
+        "country": "Guam",
+        "province": "Dededo",
+        "population": -1,
+        "latitude": 13.508782859181,
+        "longitude": 144.82360124588
+    },
+    {
+        "name": "Chagamin Lago",
+        "country": "Guam",
+        "province": "Inarajan",
+        "population": -1,
+        "latitude": 13.2776859512212,
+        "longitude": 144.753767251968
+    },
+    {
+        "name": "Canada",
+        "country": "Guam",
+        "province": "Barrigada",
+        "population": -1,
+        "latitude": 13.4598830057972,
+        "longitude": 144.788872003555
+    },
+    {
+        "name": "Biyae",
+        "country": "Guam",
+        "province": "Agat",
+        "population": -1,
+        "latitude": 13.3574291063591,
+        "longitude": 144.648056030273
+    },
+    {
+        "name": "Pigua",
+        "country": "Guam",
+        "province": "Merizo",
+        "population": -1,
+        "latitude": 13.2705434928605,
+        "longitude": 144.672002792358
+    },
+    {
+        "name": "Baza Gardens",
+        "country": "Guam",
+        "province": "Yona",
+        "population": -1,
+        "latitude": 13.3702056112417,
+        "longitude": 144.751900434494
+    },
+    {
+        "name": "Barrigada Heights",
+        "country": "Guam",
+        "province": "Barrigada",
+        "population": -1,
+        "latitude": 13.4868328934635,
+        "longitude": 144.825081825256
+    },
+    {
+        "name": "Astumbo",
+        "country": "Guam",
+        "province": "Dededo",
+        "population": -1,
+        "latitude": 13.5542203759353,
+        "longitude": 144.843406677246
+    },
+    {
+        "name": "Aspengo",
+        "country": "Guam",
+        "province": "Barrigada",
+        "population": -1,
+        "latitude": 13.462355886233,
+        "longitude": 144.797079563141
+    },
+    {
+        "name": "Apra Heights - DoD Naval Housing",
+        "country": "Guam",
+        "province": "Santa Rita",
+        "population": -1,
+        "latitude": 13.4030623339634,
+        "longitude": 144.684748649597
+    },
+    {
+        "name": "Bile",
+        "country": "Guam",
+        "province": "Merizo",
+        "population": -1,
+        "latitude": 13.2761614090292,
+        "longitude": 144.664707183838
+    },
+    {
+        "name": "Camp Witek",
+        "country": "Guam",
+        "province": "Yona",
+        "population": -1,
+        "latitude": 13.3842339346456,
+        "longitude": 144.762082099915
+    },
+    {
+        "name": "Carlos Heights",
+        "country": "Guam",
+        "province": "Tamuning",
+        "population": -1,
+        "latitude": 13.5158556593791,
+        "longitude": 144.813011884689
+    },
+    {
+        "name": "Cerain",
+        "country": "Guam",
+        "province": "Agat",
+        "population": -1,
+        "latitude": 13.3983762459192,
+        "longitude": 144.66361284256
+    },
+    {
+        "name": "Chalan Mamajanao",
+        "country": "Guam",
+        "province": "Tamuning",
+        "population": -1,
+        "latitude": 13.499748564493823,
+        "longitude": 144.78738069534302
+    },
+    {
+        "name": "Gayinero",
+        "country": "Guam",
+        "province": "Yigo",
+        "population": -1,
+        "latitude": 13.5303552867053,
+        "longitude": 144.904410839081
+    },
+    {
+        "name": "Lingae",
+        "country": "Guam",
+        "province": "Merizo",
+        "population": -1,
+        "latitude": 13.2555687100541,
+        "longitude": 144.682817459106
+    },
+    {
+        "name": "Latte Heights",
+        "country": "Guam",
+        "province": "Mangilao",
+        "population": -1,
+        "latitude": 13.490547002895,
+        "longitude": 144.841690063477
+    },
+    {
+        "name": "Macheche",
+        "country": "Guam",
+        "province": "Dededo",
+        "population": -1,
+        "latitude": 13.50385889802623,
+        "longitude": 144.835102558136
+    },
+    {
+        "name": "Maina",
+        "country": "Guam",
+        "province": "Asan",
+        "population": -1,
+        "latitude": 13.4676354526243,
+        "longitude": 144.737019538879
+    },
+    {
+        "name": "Marianas Terrace",
+        "country": "Guam",
+        "province": "Yigo",
+        "population": -1,
+        "latitude": 13.5330986420642,
+        "longitude": 144.899046421051
+    },
+    {
+        "name": "Pado",
+        "country": "Guam",
+        "province": "Mongmong-Toto-Maite",
+        "population": -1,
+        "latitude": 13.4678441287447,
+        "longitude": 144.775278568268
+    },
+    {
+        "name": "Peca",
+        "country": "Guam",
+        "province": "Inarajan",
+        "population": -1,
+        "latitude": 13.2814346135726,
+        "longitude": 144.753209352493
+    },
+    {
+        "name": "North Tipalao - DoD Naval Housing",
+        "country": "Guam",
+        "province": "Santa Rita",
+        "population": -1,
+        "latitude": 13.4207413180214,
+        "longitude": 144.644215106964
+    },
+    {
+        "name": "Pagachao",
+        "country": "Guam",
+        "province": "Agat",
+        "population": -1,
+        "latitude": 13.3647777670258,
+        "longitude": 144.655694961548
+    },
+    {
+        "name": "USN Royal Palms Housing",
+        "country": "Guam",
+        "province": "Dededo",
+        "population": -1,
+        "latitude": 13.5516754367878,
+        "longitude": 144.832012653351
+    },
+    {
+        "name": "Lada",
+        "country": "Guam",
+        "province": "Inarajan",
+        "population": -1,
+        "latitude": 13.2653849201042,
+        "longitude": 144.739336967468
+    },
+    {
+        "name": "Atao",
+        "country": "Guam",
+        "province": "Inarajan",
+        "population": -1,
+        "latitude": 13.2552554202292,
+        "longitude": 144.733028411865
+    },
+    {
+        "name": "Inara",
+        "country": "Guam",
+        "province": "Inarajan",
+        "population": -1,
+        "latitude": 13.2788763405241,
+        "longitude": 144.731483459473
+    },
+    {
+        "name": "Asalonso",
+        "country": "Guam",
+        "province": "Inarajan",
+        "population": -1,
+        "latitude": 13.3343795830457,
+        "longitude": 144.761395454407
+    },
+    {
+        "name": "Ylig",
+        "country": "Guam",
+        "province": "Yona",
+        "population": -1,
+        "latitude": 13.3901414513425,
+        "longitude": 144.771394729614
+    },
+    {
+        "name": "Lower Talisay",
+        "country": "Guam",
+        "province": "Santa Rita",
+        "population": -1,
+        "latitude": 13.399826959994,
+        "longitude": 144.691700935364
+    },
+    {
+        "name": "Maimai",
+        "country": "Guam",
+        "province": "Chalan Pago-Ordot",
+        "population": -1,
+        "latitude": 13.4462660547934,
+        "longitude": 144.777874946594
+    },
+    {
+        "name": "Apusento Garden",
+        "country": "Guam",
+        "province": "Chalan Pago-Ordot",
+        "population": -1,
+        "latitude": 13.446558227385,
+        "longitude": 144.7696352005
+    },
+    {
+        "name": "Pago Bay",
+        "country": "Guam",
+        "province": "Chalan Pago-Ordot",
+        "population": -1,
+        "latitude": 13.4267314224292,
+        "longitude": 144.789290428162
+    },
+    {
+        "name": "Andersen AFB Andy South Housing",
+        "country": "Guam",
+        "province": "Mangilao",
+        "population": -1,
+        "latitude": 13.4988096458859,
+        "longitude": 144.868597984314
+    },
+    {
+        "name": "Tai",
+        "country": "Guam",
+        "province": "Mangilao",
+        "population": -1,
+        "latitude": 13.4416955943182,
+        "longitude": 144.791243076324
+    },
+    {
+        "name": "Salisbury",
+        "country": "Guam",
+        "province": "Yigo",
+        "population": -1,
+        "latitude": 13.5594144704409,
+        "longitude": 144.90136384964
+    },
+    {
+        "name": "Central Dededo",
+        "country": "Guam",
+        "province": "Dededo",
+        "population": -1,
+        "latitude": 13.5170892051804,
+        "longitude": 144.839662313461
+    },
+    {
+        "name": "Santa Ana",
+        "country": "Guam",
+        "province": "Dededo",
+        "population": -1,
+        "latitude": 13.5866555310925,
+        "longitude": 144.865701198578
+    },
+    {
+        "name": "Astumbo Gardens",
+        "country": "Guam",
+        "province": "Dededo",
+        "population": -1,
+        "latitude": 13.5511747898137,
+        "longitude": 144.840230941772
+    },
+    {
+        "name": "Liguan Terrace",
+        "country": "Guam",
+        "province": "Dededo",
+        "population": -1,
+        "latitude": 13.5210297283795,
+        "longitude": 144.822592735291
+    },
+    {
+        "name": "Ukudo",
+        "country": "Guam",
+        "province": "Dededo",
+        "population": -1,
+        "latitude": 13.5409112945353,
+        "longitude": 144.843492507935
+    },
+    {
+        "name": "NCS Machanao",
+        "country": "Guam",
+        "province": "Dededo",
+        "population": -1,
+        "latitude": 13.5803774322715,
+        "longitude": 144.858298301697
+    },
+    {
+        "name": "Ghura",
+        "country": "Guam",
+        "province": "Dededo",
+        "population": -1,
+        "latitude": 13.5274762942385,
+        "longitude": 144.86967086792
+    },
+    {
+        "name": "Las Palmas",
+        "country": "Guam",
+        "province": "Dededo",
+        "population": -1,
+        "latitude": 13.5026070272913,
+        "longitude": 144.842762947083
+    },
+    {
+        "name": "Mogfog",
+        "country": "Guam",
+        "province": "Dededo",
+        "population": -1,
+        "latitude": 13.502815672869929,
+        "longitude": 144.8513889312744
+    },
+    {
+        "name": "Harmon",
+        "country": "Guam",
+        "province": "Tamuning",
+        "population": -1,
+        "latitude": 13.5068842251827,
+        "longitude": 144.810984134674
+    },
+    {
+        "name": "West Airport Terrace",
+        "country": "Guam",
+        "province": "Mongmong-Toto-Maite",
+        "population": -1,
+        "latitude": 13.4798426994593,
+        "longitude": 144.7738301754
+    },
+    {
+        "name": "Fonte",
+        "country": "Guam",
+        "province": "Agana Heights",
+        "population": -1,
+        "latitude": 13.4611872708142,
+        "longitude": 144.742105007172
+    },
+    {
+        "name": "Flag Circle - USN Top Brass Housing",
+        "country": "Guam",
+        "province": "Asan",
+        "population": -1,
+        "latitude": 13.4671346291929,
+        "longitude": 144.723265171051
+    },
+    {
+        "name": "Upper Tumon",
+        "country": "Guam",
+        "province": "Tamuning",
+        "population": -1,
+        "latitude": 13.511995897667,
+        "longitude": 144.813666343689
+    },
+    {
+        "name": "Andersen AFB Housing Areas",
+        "country": "Guam",
+        "province": "Yigo",
+        "population": -1,
+        "latitude": 13.5569113065397,
+        "longitude": 144.922306537628
+    },
+    {
+        "name": "Nimitz Hill Navy Housing",
+        "country": "Guam",
+        "province": "Asan",
+        "population": -1,
+        "latitude": 13.457201414599,
+        "longitude": 144.717493057251
+    }
+]

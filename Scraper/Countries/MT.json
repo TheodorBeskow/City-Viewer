@@ -1,0 +1,2298 @@
+[
+    {
+        "name": "Żejtun",
+        "country": "Malta",
+        "province": "Iż-Żejtun",
+        "population": 11549,
+        "latitude": 35.855833,
+        "longitude": 14.533056
+    },
+    {
+        "name": "Valletta",
+        "country": "Malta",
+        "province": "Valletta",
+        "population": 6794,
+        "latitude": 35.89968,
+        "longitude": 14.5148
+    },
+    {
+        "name": "Fgura",
+        "country": "Malta",
+        "province": "Il-Fgura",
+        "population": 12877,
+        "latitude": 35.8702778,
+        "longitude": 14.5133333
+    },
+    {
+        "name": "Sliema",
+        "country": "Malta",
+        "province": "Tas-Sliema",
+        "population": 22591,
+        "latitude": 35.9125,
+        "longitude": 14.501944
+    },
+    {
+        "name": "Birkirkara",
+        "country": "Malta",
+        "province": "Birkirkara",
+        "population": 24356,
+        "latitude": 35.897222,
+        "longitude": 14.461111
+    },
+    {
+        "name": "Żurrieq",
+        "country": "Malta",
+        "province": "Iż-Żurrieq",
+        "population": 10962,
+        "latitude": 35.831111,
+        "longitude": 14.474167
+    },
+    {
+        "name": "Żabbar",
+        "country": "Malta",
+        "province": "Ħaż-Żabbar",
+        "population": 15648,
+        "latitude": 35.876111,
+        "longitude": 14.535
+    },
+    {
+        "name": "Tarxien",
+        "country": "Malta",
+        "province": "Ta’ Xbiex",
+        "population": 8627,
+        "latitude": 35.865833,
+        "longitude": 14.515
+    },
+    {
+        "name": "Siġġiewi",
+        "country": "Malta",
+        "province": "Is-Siġġiewi",
+        "population": 8721,
+        "latitude": 35.855556,
+        "longitude": 14.436389
+    },
+    {
+        "name": "San Pawl il-Baħar",
+        "country": "Malta",
+        "province": "Saint Paul’s Bay",
+        "population": 32042,
+        "latitude": 35.950635045311934,
+        "longitude": 14.415607452392578
+    },
+    {
+        "name": "St. Julian's",
+        "country": "Malta",
+        "province": "Saint Julian",
+        "population": 13792,
+        "latitude": 35.9183888540641,
+        "longitude": 14.4897651672363
+    },
+    {
+        "name": "Paola",
+        "country": "Malta",
+        "province": "Paola",
+        "population": 8706,
+        "latitude": 35.873056,
+        "longitude": 14.498889
+    },
+    {
+        "name": "Victoria",
+        "country": "Malta",
+        "province": "Victoria",
+        "population": 6596,
+        "latitude": 36.044444,
+        "longitude": 14.239722
+    },
+    {
+        "name": "Rabat",
+        "country": "Malta",
+        "province": "Ir-Rabat",
+        "population": 11936,
+        "latitude": 35.88152,
+        "longitude": 14.39872
+    },
+    {
+        "name": "Qormi",
+        "country": "Malta",
+        "province": "Qormi",
+        "population": 16801,
+        "latitude": 35.876010996854035,
+        "longitude": 14.47199821472168
+    },
+    {
+        "name": "Naxxar",
+        "country": "Malta",
+        "province": "In-Naxxar",
+        "population": 14890,
+        "latitude": 35.913611,
+        "longitude": 14.443611
+    },
+    {
+        "name": "Mosta",
+        "country": "Malta",
+        "province": "Il-Mosta",
+        "population": 23482,
+        "latitude": 35.909167,
+        "longitude": 14.425556
+    },
+    {
+        "name": "Mdina",
+        "country": "Malta",
+        "province": "L-Imdina",
+        "population": 193,
+        "latitude": 35.886944,
+        "longitude": 14.4025
+    },
+    {
+        "name": "Marsaskala",
+        "country": "Malta",
+        "province": "Marsaskala",
+        "population": 10024,
+        "latitude": 35.86220461578635,
+        "longitude": 14.567012786865234
+    },
+    {
+        "name": "Marsa",
+        "country": "Malta",
+        "province": "Il-Marsa",
+        "population": 5454,
+        "latitude": 35.879167,
+        "longitude": 14.495278
+    },
+    {
+        "name": "Senglea",
+        "country": "Malta",
+        "province": "Senglea",
+        "population": 2720,
+        "latitude": 35.8875,
+        "longitude": 14.516944
+    },
+    {
+        "name": "Swieqi",
+        "country": "Malta",
+        "province": "Is-Swieqi",
+        "population": 14452,
+        "latitude": 35.9225,
+        "longitude": 14.48
+    },
+    {
+        "name": "Floriana",
+        "country": "Malta",
+        "province": "Floriana",
+        "population": 2032,
+        "latitude": 35.895833,
+        "longitude": 14.508333
+    },
+    {
+        "name": "Birgu",
+        "country": "Malta",
+        "province": "Il-Birgu",
+        "population": 2489,
+        "latitude": 35.892222,
+        "longitude": 14.518333
+    },
+    {
+        "name": "Cospicua",
+        "country": "Malta",
+        "province": "Bormla",
+        "population": 6096,
+        "latitude": 35.885556,
+        "longitude": 14.5275
+    },
+    {
+        "name": "Birżebbuġa",
+        "country": "Malta",
+        "province": "Birżebbuġa",
+        "population": 12915,
+        "latitude": 35.825833,
+        "longitude": 14.526944
+    },
+    {
+        "name": "Attard",
+        "country": "Malta",
+        "province": "Attard",
+        "population": 11377,
+        "latitude": 35.889722,
+        "longitude": 14.4425
+    },
+    {
+        "name": "Marsaxlokk",
+        "country": "Malta",
+        "province": "Marsaxlokk",
+        "population": 3660,
+        "latitude": 35.841944,
+        "longitude": 14.543056
+    },
+    {
+        "name": "Żebbuġ",
+        "country": "Malta",
+        "province": "Iż-Żebbuġ",
+        "population": 1770,
+        "latitude": 36.072222,
+        "longitude": 14.235833
+    },
+    {
+        "name": "Haz-Zebbug",
+        "country": "Malta",
+        "province": "Ħaż-Żebbuġ",
+        "population": 11079,
+        "latitude": 35.871944,
+        "longitude": 14.441111
+    },
+    {
+        "name": "Xgħajra",
+        "country": "Malta",
+        "province": "Ix-Xgħajra",
+        "population": 1830,
+        "latitude": 35.885556,
+        "longitude": 14.5475
+    },
+    {
+        "name": "Xewkija",
+        "country": "Malta",
+        "province": "Ix-Xewkija",
+        "population": 3303,
+        "latitude": 36.032778,
+        "longitude": 14.258056
+    },
+    {
+        "name": "Xagħra",
+        "country": "Malta",
+        "province": "Ix-Xagħra",
+        "population": 3680,
+        "latitude": 36.05,
+        "longitude": 14.264444
+    },
+    {
+        "name": "Ta’ Xbiex",
+        "country": "Malta",
+        "province": "Tarxien",
+        "population": 2012,
+        "latitude": 35.899167,
+        "longitude": 14.494444
+    },
+    {
+        "name": "St. Venera",
+        "country": "Malta",
+        "province": "Saint Venera",
+        "population": 7590,
+        "latitude": 35.890833,
+        "longitude": 14.474167
+    },
+    {
+        "name": "Sannat",
+        "country": "Malta",
+        "province": "Sannat",
+        "population": 1681,
+        "latitude": 36.024444,
+        "longitude": 14.242778
+    },
+    {
+        "name": "Safi",
+        "country": "Malta",
+        "province": "Safi",
+        "population": 2280,
+        "latitude": 35.833056,
+        "longitude": 14.484722
+    },
+    {
+        "name": "Qrendi",
+        "country": "Malta",
+        "province": "Il-Qrendi",
+        "population": 3148,
+        "latitude": 35.834722,
+        "longitude": 14.458333
+    },
+    {
+        "name": "Qala",
+        "country": "Malta",
+        "province": "Il-Qala",
+        "population": 1929,
+        "latitude": 36.036111,
+        "longitude": 14.309444
+    },
+    {
+        "name": "Pietà",
+        "country": "Malta",
+        "province": "Tal-Pietà",
+        "population": 4892,
+        "latitude": 35.894722,
+        "longitude": 14.495
+    },
+    {
+        "name": "Nadur",
+        "country": "Malta",
+        "province": "In-Nadur",
+        "population": 3933,
+        "latitude": 36.037778,
+        "longitude": 14.294167
+    },
+    {
+        "name": "Imtarfa",
+        "country": "Malta",
+        "province": "Mtarfa",
+        "population": 2615,
+        "latitude": 35.893333,
+        "longitude": 14.398889
+    },
+    {
+        "name": "Imsida",
+        "country": "Malta",
+        "province": "L-Imsida",
+        "population": 13713,
+        "latitude": 35.8925,
+        "longitude": 14.482778
+    },
+    {
+        "name": "Mqabba",
+        "country": "Malta",
+        "province": "L-Imqabba",
+        "population": 3339,
+        "latitude": 35.84763053663102,
+        "longitude": 14.46824312210083
+    },
+    {
+        "name": "Imġarr",
+        "country": "Malta",
+        "province": "L-Imġarr",
+        "population": 3802,
+        "latitude": 35.920556,
+        "longitude": 14.366389
+    },
+    {
+        "name": "Mellieħa",
+        "country": "Malta",
+        "province": "Il-Mellieħa",
+        "population": 11389,
+        "latitude": 35.956389,
+        "longitude": 14.362222
+    },
+    {
+        "name": "Luqa",
+        "country": "Malta",
+        "province": "Luqa",
+        "population": 6162,
+        "latitude": 35.858889,
+        "longitude": 14.488611
+    },
+    {
+        "name": "L-Iklin",
+        "country": "Malta",
+        "province": "L-Iklin",
+        "population": 3422,
+        "latitude": 35.90413796414737,
+        "longitude": 14.454145431518555
+    },
+    {
+        "name": "Lija",
+        "country": "Malta",
+        "province": "Lija",
+        "population": 3202,
+        "latitude": 35.900556,
+        "longitude": 14.446389
+    },
+    {
+        "name": "Kirkop",
+        "country": "Malta",
+        "province": "Kirkop",
+        "population": 2397,
+        "latitude": 35.842222,
+        "longitude": 14.485278
+    },
+    {
+        "name": "Kerċem",
+        "country": "Malta",
+        "province": "Ta’ Kerċem",
+        "population": 1627,
+        "latitude": 36.041944,
+        "longitude": 14.226667
+    },
+    {
+        "name": "Kalkara",
+        "country": "Malta",
+        "province": "Il-Kalkara",
+        "population": 3059,
+        "latitude": 35.889167,
+        "longitude": 14.532778
+    },
+    {
+        "name": "Gżira",
+        "country": "Malta",
+        "province": "Il-Gżira",
+        "population": 11669,
+        "latitude": 35.905833,
+        "longitude": 14.488056
+    },
+    {
+        "name": "Ħamrun",
+        "country": "Malta",
+        "province": "Il-Ħamrun",
+        "population": 9743,
+        "latitude": 35.884722,
+        "longitude": 14.484444
+    },
+    {
+        "name": "Gudja",
+        "country": "Malta",
+        "province": "Il-Gudja",
+        "population": 3184,
+        "latitude": 35.849167,
+        "longitude": 14.503056
+    },
+    {
+        "name": "Għaxaq",
+        "country": "Malta",
+        "province": "Ħal Għaxaq",
+        "population": 4860,
+        "latitude": 35.848889,
+        "longitude": 14.516667
+    },
+    {
+        "name": "Hal Gharghur",
+        "country": "Malta",
+        "province": "Ħal Għargħur",
+        "population": 2857,
+        "latitude": 35.92409,
+        "longitude": 14.45118
+    },
+    {
+        "name": "Għarb",
+        "country": "Malta",
+        "province": "L-Għarb",
+        "population": 1298,
+        "latitude": 36.06,
+        "longitude": 14.208889
+    },
+    {
+        "name": "Għajnsielem",
+        "country": "Malta",
+        "province": "Għajnsielem",
+        "population": 2931,
+        "latitude": 36.026389,
+        "longitude": 14.285
+    },
+    {
+        "name": "Dingli",
+        "country": "Malta",
+        "province": "Dingli",
+        "population": 3711,
+        "latitude": 35.861389,
+        "longitude": 14.382222
+    },
+    {
+        "name": "Balzan",
+        "country": "Malta",
+        "province": "Balzan",
+        "population": 4689,
+        "latitude": 35.900278,
+        "longitude": 14.455
+    },
+    {
+        "name": "San Ġwann",
+        "country": "Malta",
+        "province": "Saint John",
+        "population": 14720,
+        "latitude": 35.905556,
+        "longitude": 14.476111
+    },
+    {
+        "name": "Pembroke",
+        "country": "Malta",
+        "province": "Pembroke",
+        "population": 3842,
+        "latitude": 35.930556,
+        "longitude": 14.476389
+    },
+    {
+        "name": "Saint Lawrence",
+        "country": "Malta",
+        "province": "Saint Lawrence",
+        "population": 530,
+        "latitude": 36.055556,
+        "longitude": 14.203611
+    },
+    {
+        "name": "Munxar",
+        "country": "Malta",
+        "province": "Il-Munxar",
+        "population": 840,
+        "latitude": 36.03,
+        "longitude": 14.233333
+    },
+    {
+        "name": "Fontana",
+        "country": "Malta",
+        "province": "Il-Fontana",
+        "population": 922,
+        "latitude": 36.0375,
+        "longitude": 14.236111
+    },
+    {
+        "name": "Comino",
+        "country": "Malta",
+        "province": "Għajnsielem",
+        "population": 10,
+        "latitude": 36.01465,
+        "longitude": 14.33571
+    },
+    {
+        "name": "Xlendi",
+        "country": "Malta",
+        "province": "Il-Munxar",
+        "population": 120,
+        "latitude": 36.02883294476566,
+        "longitude": 14.218025207519531
+    },
+    {
+        "name": "Iż-Żebbiegħ",
+        "country": "Malta",
+        "province": "L-Imġarr",
+        "population": -1,
+        "latitude": 35.920278,
+        "longitude": 14.379444
+    },
+    {
+        "name": "Ta’ Qali",
+        "country": "Malta",
+        "province": "Attard",
+        "population": -1,
+        "latitude": 35.894167,
+        "longitude": 14.427222
+    },
+    {
+        "name": "Tal-Ħandaq",
+        "country": "Malta",
+        "province": "Qormi",
+        "population": -1,
+        "latitude": 35.870833,
+        "longitude": 14.468056
+    },
+    {
+        "name": "St. Lucia",
+        "country": "Malta",
+        "province": "Saint Lucia",
+        "population": -1,
+        "latitude": 36.043056,
+        "longitude": 14.217222
+    },
+    {
+        "name": "Santa Luċija",
+        "country": "Malta",
+        "province": "Saint Lucia",
+        "population": 2954,
+        "latitude": 35.862778,
+        "longitude": 14.5075
+    },
+    {
+        "name": "Qbajjar",
+        "country": "Malta",
+        "province": "Iż-Żebbuġ",
+        "population": -1,
+        "latitude": 36.077778,
+        "longitude": 14.250278
+    },
+    {
+        "name": "Mġarr",
+        "country": "Malta",
+        "province": "L-Imġarr",
+        "population": 2868,
+        "latitude": 36.025278,
+        "longitude": 14.295
+    },
+    {
+        "name": "Marsalforn",
+        "country": "Malta",
+        "province": "Iż-Żebbuġ",
+        "population": 168,
+        "latitude": 36.071111,
+        "longitude": 14.258611
+    },
+    {
+        "name": "Manikata",
+        "country": "Malta",
+        "province": "Il-Mellieħa",
+        "population": 539,
+        "latitude": 35.94,
+        "longitude": 14.353333
+    },
+    {
+        "name": "Magħtab",
+        "country": "Malta",
+        "province": "In-Naxxar",
+        "population": -1,
+        "latitude": 35.936389,
+        "longitude": 14.447778
+    },
+    {
+        "name": "Il-Madliena",
+        "country": "Malta",
+        "province": "Is-Swieqi",
+        "population": -1,
+        "latitude": 35.9275,
+        "longitude": 14.466111
+    },
+    {
+        "name": "L-Iskorvit",
+        "country": "Malta",
+        "province": "L-Imġarr",
+        "population": -1,
+        "latitude": 35.913056,
+        "longitude": 14.355556
+    },
+    {
+        "name": "Il-Qajjenza",
+        "country": "Malta",
+        "province": "Birżebbuġa",
+        "population": -1,
+        "latitude": 35.833889,
+        "longitude": 14.535
+    },
+    {
+        "name": "Għasri",
+        "country": "Malta",
+        "province": "L-Għasri",
+        "population": 631,
+        "latitude": 36.057778,
+        "longitude": 14.226389
+    },
+    {
+        "name": "Għajn Tuffieħa",
+        "country": "Malta",
+        "province": "L-Imġarr",
+        "population": -1,
+        "latitude": 35.925833,
+        "longitude": 14.353333
+    },
+    {
+        "name": "Bur Marrad",
+        "country": "Malta",
+        "province": "Saint Paul’s Bay",
+        "population": -1,
+        "latitude": 35.935833,
+        "longitude": 14.413889
+    },
+    {
+        "name": "Buġibba",
+        "country": "Malta",
+        "province": "Saint Paul’s Bay",
+        "population": -1,
+        "latitude": 35.951389,
+        "longitude": 14.410556
+    },
+    {
+        "name": "Bubaqra",
+        "country": "Malta",
+        "province": "Iż-Żurrieq",
+        "population": -1,
+        "latitude": 35.824722,
+        "longitude": 14.478056
+    },
+    {
+        "name": "Borġ in-Nadur",
+        "country": "Malta",
+        "province": "Birżebbuġa",
+        "population": -1,
+        "latitude": 35.833889,
+        "longitude": 14.530278
+    },
+    {
+        "name": "Binġemma",
+        "country": "Malta",
+        "province": "L-Imġarr",
+        "population": -1,
+        "latitude": 35.91,
+        "longitude": 14.373611
+    },
+    {
+        "name": "Baħar iċ-Ċagħaq",
+        "country": "Malta",
+        "province": "In-Naxxar",
+        "population": -1,
+        "latitude": 35.938611,
+        "longitude": 14.454167
+    },
+    {
+        "name": "Il-Baħrija",
+        "country": "Malta",
+        "province": "Ir-Rabat",
+        "population": -1,
+        "latitude": 35.8944444,
+        "longitude": 14.3486111
+    },
+    {
+        "name": "Ħal Far",
+        "country": "Malta",
+        "province": "Birżebbuġa",
+        "population": -1,
+        "latitude": 35.816667,
+        "longitude": 14.506667
+    },
+    {
+        "name": "Paceville",
+        "country": "Malta",
+        "province": "Saint Julian",
+        "population": -1,
+        "latitude": 35.92378440514242,
+        "longitude": 14.48948621749878
+    },
+    {
+        "name": "Xemxija",
+        "country": "Malta",
+        "province": "Saint Paul’s Bay",
+        "population": -1,
+        "latitude": 35.94959,
+        "longitude": 14.38033
+    },
+    {
+        "name": "Smart City",
+        "country": "Malta",
+        "province": "Il-Kalkara",
+        "population": -1,
+        "latitude": 35.8903,
+        "longitude": 14.54032
+    },
+    {
+        "name": "Wied Għammieq",
+        "country": "Malta",
+        "province": "Il-Kalkara",
+        "population": -1,
+        "latitude": 35.896944,
+        "longitude": 14.529444
+    },
+    {
+        "name": "Tal-Veċċa",
+        "country": "Malta",
+        "province": "Dingli",
+        "population": -1,
+        "latitude": 35.856111,
+        "longitude": 14.376944
+    },
+    {
+        "name": "Tal-Pitkal",
+        "country": "Malta",
+        "province": "Dingli",
+        "population": -1,
+        "latitude": 35.86,
+        "longitude": 14.370556
+    },
+    {
+        "name": "Ta’ Kandja",
+        "country": "Malta",
+        "province": "L-Imqabba",
+        "population": -1,
+        "latitude": 35.849444,
+        "longitude": 14.467222
+    },
+    {
+        "name": "Skorba",
+        "country": "Malta",
+        "province": "L-Imġarr",
+        "population": -1,
+        "latitude": 35.919722,
+        "longitude": 14.376944
+    },
+    {
+        "name": "Qawra",
+        "country": "Malta",
+        "province": "Saint Paul’s Bay",
+        "population": -1,
+        "latitude": 35.9569444,
+        "longitude": 14.4230556
+    },
+    {
+        "name": "Miżieb",
+        "country": "Malta",
+        "province": "Il-Mellieħa",
+        "population": -1,
+        "latitude": 35.95,
+        "longitude": 14.358056
+    },
+    {
+        "name": "Misraħ Ħlantun",
+        "country": "Malta",
+        "province": "Safi",
+        "population": -1,
+        "latitude": 35.828056,
+        "longitude": 14.490833
+    },
+    {
+        "name": "Ix-Xagħra ta’ l-Isqof",
+        "country": "Malta",
+        "province": "Ir-Rabat",
+        "population": -1,
+        "latitude": 35.865278,
+        "longitude": 14.406389
+    },
+    {
+        "name": "Is-Swatar",
+        "country": "Malta",
+        "province": "L-Imsida",
+        "population": -1,
+        "latitude": 35.896667,
+        "longitude": 14.477222
+    },
+    {
+        "name": "Il-Qattara",
+        "country": "Malta",
+        "province": "Il-Mosta",
+        "population": -1,
+        "latitude": 35.9025,
+        "longitude": 14.4088889
+    },
+    {
+        "name": "Il-Miżieb",
+        "country": "Malta",
+        "province": "Iż-Żurrieq",
+        "population": -1,
+        "latitude": 35.817222,
+        "longitude": 14.495278
+    },
+    {
+        "name": "Il-Kappara",
+        "country": "Malta",
+        "province": "Marsaskala",
+        "population": -1,
+        "latitude": 35.864444,
+        "longitude": 14.568889
+    },
+    {
+        "name": "Gwardamanġa",
+        "country": "Malta",
+        "province": "Tal-Pietà",
+        "population": -1,
+        "latitude": 35.890556,
+        "longitude": 14.491667
+    },
+    {
+        "name": "Ġnien il-Kbir",
+        "country": "Malta",
+        "province": "Ir-Rabat",
+        "population": -1,
+        "latitude": 35.870833,
+        "longitude": 14.396389
+    },
+    {
+        "name": "Għemieri",
+        "country": "Malta",
+        "province": "Ir-Rabat",
+        "population": -1,
+        "latitude": 35.892222,
+        "longitude": 14.365833
+    },
+    {
+        "name": "Il-Qortin ta’ Għajn Żejtuna",
+        "country": "Malta",
+        "province": "Il-Mellieħa",
+        "population": -1,
+        "latitude": 35.963889,
+        "longitude": 14.371389
+    },
+    {
+        "name": "Għajn Qajjied",
+        "country": "Malta",
+        "province": "Ir-Rabat",
+        "population": -1,
+        "latitude": 35.886111,
+        "longitude": 14.386667
+    },
+    {
+        "name": "Għajn Klieb",
+        "country": "Malta",
+        "province": "Ir-Rabat",
+        "population": -1,
+        "latitude": 35.885556,
+        "longitude": 14.384722
+    },
+    {
+        "name": "Fleur de Lys",
+        "country": "Malta",
+        "province": "Birkirkara",
+        "population": -1,
+        "latitude": 35.892222,
+        "longitude": 14.470556
+    },
+    {
+        "name": "Bengħisa",
+        "country": "Malta",
+        "province": "Birżebbuġa",
+        "population": -1,
+        "latitude": 35.813056,
+        "longitude": 14.538611
+    },
+    {
+        "name": "Ta’ Giorni",
+        "country": "Malta",
+        "province": "Saint John",
+        "population": -1,
+        "latitude": 35.913333,
+        "longitude": 14.486389
+    },
+    {
+        "name": "Żonqor",
+        "country": "Malta",
+        "province": "Marsaskala",
+        "population": -1,
+        "latitude": 35.870833,
+        "longitude": 14.565
+    },
+    {
+        "name": "Xrobb il-Għaġin",
+        "country": "Malta",
+        "province": "Marsaxlokk",
+        "population": -1,
+        "latitude": 35.840556,
+        "longitude": 14.569722
+    },
+    {
+        "name": "Wied l-Arkata",
+        "country": "Malta",
+        "province": "Il-Mosta",
+        "population": -1,
+        "latitude": 35.924722,
+        "longitude": 14.414444
+    },
+    {
+        "name": "Wardija Crossroads",
+        "country": "Malta",
+        "province": "Saint Paul’s Bay",
+        "population": -1,
+        "latitude": 35.938056,
+        "longitude": 14.411111
+    },
+    {
+        "name": "Tas-Sienja",
+        "country": "Malta",
+        "province": "Marsaskala",
+        "population": -1,
+        "latitude": 35.860556,
+        "longitude": 14.559722
+    },
+    {
+        "name": "Tas-Salvatur",
+        "country": "Malta",
+        "province": "Is-Siġġiewi",
+        "population": -1,
+        "latitude": 35.850833,
+        "longitude": 14.451944
+    },
+    {
+        "name": "Ta’ San Niklaw",
+        "country": "Malta",
+        "province": "Il-Qrendi",
+        "population": -1,
+        "latitude": 35.835556,
+        "longitude": 14.441667
+    },
+    {
+        "name": "Ta’ San Ġwakkin",
+        "country": "Malta",
+        "province": "Qormi",
+        "population": -1,
+        "latitude": 35.886667,
+        "longitude": 14.465833
+    },
+    {
+        "name": "Tal-Munxar",
+        "country": "Malta",
+        "province": "Marsaskala",
+        "population": -1,
+        "latitude": 35.849444,
+        "longitude": 14.562222
+    },
+    {
+        "name": "Tal-Kittienija",
+        "country": "Malta",
+        "province": "Il-Qrendi",
+        "population": -1,
+        "latitude": 35.836944,
+        "longitude": 14.468333
+    },
+    {
+        "name": "Tal-Ibraġ",
+        "country": "Malta",
+        "province": "Is-Swieqi",
+        "population": -1,
+        "latitude": 35.915556,
+        "longitude": 14.464444
+    },
+    {
+        "name": "Tal-Borġ",
+        "country": "Malta",
+        "province": "Ta’ Xbiex",
+        "population": -1,
+        "latitude": 35.871111,
+        "longitude": 14.514722
+    },
+    {
+        "name": "Tal-Bajjada",
+        "country": "Malta",
+        "province": "Is-Siġġiewi",
+        "population": -1,
+        "latitude": 35.837222,
+        "longitude": 14.425556
+    },
+    {
+        "name": "Ta’ l-Abatija",
+        "country": "Malta",
+        "province": "L-Imġarr",
+        "population": -1,
+        "latitude": 35.9075,
+        "longitude": 14.350278
+    },
+    {
+        "name": "Ta’ Ħaxxluq",
+        "country": "Malta",
+        "province": "Is-Siġġiewi",
+        "population": -1,
+        "latitude": 35.846667,
+        "longitude": 14.445
+    },
+    {
+        "name": "Ta’ Ċantar",
+        "country": "Malta",
+        "province": "Ħaż-Żabbar",
+        "population": -1,
+        "latitude": 35.869722,
+        "longitude": 14.536667
+    },
+    {
+        "name": "Ta’ Brared",
+        "country": "Malta",
+        "province": "Il-Mosta",
+        "population": -1,
+        "latitude": 35.928889,
+        "longitude": 14.402222
+    },
+    {
+        "name": "Santu Rokku",
+        "country": "Malta",
+        "province": "Il-Kalkara",
+        "population": -1,
+        "latitude": 35.890833,
+        "longitude": 14.540556
+    },
+    {
+        "name": "Santu Pietru",
+        "country": "Malta",
+        "province": "L-Għarb",
+        "population": -1,
+        "latitude": 36.060833,
+        "longitude": 14.201111
+    },
+    {
+        "name": "San Leonardo",
+        "country": "Malta",
+        "province": "Ħaż-Żabbar",
+        "population": -1,
+        "latitude": 35.878333,
+        "longitude": 14.555833
+    },
+    {
+        "name": "San Ġwann tal-Għargħar",
+        "country": "Malta",
+        "province": "Saint John",
+        "population": -1,
+        "latitude": 35.905,
+        "longitude": 14.476111
+    },
+    {
+        "name": "Nigred",
+        "country": "Malta",
+        "province": "Iż-Żurrieq",
+        "population": -1,
+        "latitude": 35.824444,
+        "longitude": 14.468056
+    },
+    {
+        "name": "Nigred",
+        "country": "Malta",
+        "province": "Ir-Rabat",
+        "population": -1,
+        "latitude": 35.8827778,
+        "longitude": 14.3858333
+    },
+    {
+        "name": "Msieraħ",
+        "country": "Malta",
+        "province": "L-Imsida",
+        "population": -1,
+        "latitude": 35.9,
+        "longitude": 14.483333
+    },
+    {
+        "name": "Misraħ Strejnu",
+        "country": "Malta",
+        "province": "Iż-Żejtun",
+        "population": -1,
+        "latitude": 35.850556,
+        "longitude": 14.545278
+    },
+    {
+        "name": "Minsija",
+        "country": "Malta",
+        "province": "Saint John",
+        "population": -1,
+        "latitude": 35.913333,
+        "longitude": 14.481111
+    },
+    {
+        "name": "L-Ingiered",
+        "country": "Malta",
+        "province": "Il-Marsa",
+        "population": -1,
+        "latitude": 35.8725,
+        "longitude": 14.485278
+    },
+    {
+        "name": "L-Imbordin",
+        "country": "Malta",
+        "province": "Saint Paul’s Bay",
+        "population": -1,
+        "latitude": 35.943333,
+        "longitude": 14.371667
+    },
+    {
+        "name": "L-Andrijiet",
+        "country": "Malta",
+        "province": "Ir-Rabat",
+        "population": -1,
+        "latitude": 35.8861111,
+        "longitude": 14.3658333
+    },
+    {
+        "name": "Kordin",
+        "country": "Malta",
+        "province": "Paola",
+        "population": -1,
+        "latitude": 35.8825,
+        "longitude": 14.506389
+    },
+    {
+        "name": "Kalafrana",
+        "country": "Malta",
+        "province": "Birżebbuġa",
+        "population": -1,
+        "latitude": 35.818056,
+        "longitude": 14.534444
+    },
+    {
+        "name": "Ix-Xlejli",
+        "country": "Malta",
+        "province": "Il-Gudja",
+        "population": -1,
+        "latitude": 35.851111,
+        "longitude": 14.507222
+    },
+    {
+        "name": "Ix-Xgħajriet",
+        "country": "Malta",
+        "province": "Is-Swieqi",
+        "population": -1,
+        "latitude": 35.921389,
+        "longitude": 14.462778
+    },
+    {
+        "name": "Ix-Xagħra l-Ħamra",
+        "country": "Malta",
+        "province": "Il-Mellieħa",
+        "population": -1,
+        "latitude": 35.940833,
+        "longitude": 14.3525
+    },
+    {
+        "name": "In-Naħħalija",
+        "country": "Malta",
+        "province": "Il-Mellieħa",
+        "population": -1,
+        "latitude": 35.935278,
+        "longitude": 14.342778
+    },
+    {
+        "name": "Il-Ħamrija",
+        "country": "Malta",
+        "province": "Marsaskala",
+        "population": -1,
+        "latitude": 35.862222,
+        "longitude": 14.569444
+    },
+    {
+        "name": "Il-Ħamrija",
+        "country": "Malta",
+        "province": "Is-Siġġiewi",
+        "population": -1,
+        "latitude": 35.858889,
+        "longitude": 14.423333
+    },
+    {
+        "name": "Il-Bidni",
+        "country": "Malta",
+        "province": "Ħaż-Żabbar",
+        "population": -1,
+        "latitude": 35.868889,
+        "longitude": 14.554444
+    },
+    {
+        "name": "Ħofret ir-Rizz",
+        "country": "Malta",
+        "province": "Ir-Rabat",
+        "population": -1,
+        "latitude": 35.873333,
+        "longitude": 14.376667
+    },
+    {
+        "name": "Ħas-Sajd",
+        "country": "Malta",
+        "province": "Ħaż-Żabbar",
+        "population": -1,
+        "latitude": 35.870833,
+        "longitude": 14.543333
+    },
+    {
+        "name": "Ħal Saflieni",
+        "country": "Malta",
+        "province": "Paola",
+        "population": -1,
+        "latitude": 35.869444,
+        "longitude": 14.505278
+    },
+    {
+        "name": "Ħalq Dieri",
+        "country": "Malta",
+        "province": "Ħaż-Żebbuġ",
+        "population": -1,
+        "latitude": 35.868611,
+        "longitude": 14.423611
+    },
+    {
+        "name": "Ħal Mula",
+        "country": "Malta",
+        "province": "Ħaż-Żebbuġ",
+        "population": -1,
+        "latitude": 35.870278,
+        "longitude": 14.444444
+    },
+    {
+        "name": "Ħal Ġinwi",
+        "country": "Malta",
+        "province": "Marsaxlokk",
+        "population": -1,
+        "latitude": 35.846667,
+        "longitude": 14.5425
+    },
+    {
+        "name": "Ħal Dwin",
+        "country": "Malta",
+        "province": "Ħaż-Żebbuġ",
+        "population": -1,
+        "latitude": 35.868056,
+        "longitude": 14.435833
+    },
+    {
+        "name": "Għajn Żejtuna",
+        "country": "Malta",
+        "province": "Il-Mellieħa",
+        "population": -1,
+        "latitude": 35.966389,
+        "longitude": 14.367222
+    },
+    {
+        "name": "Għajn il-Kbira",
+        "country": "Malta",
+        "province": "Victoria",
+        "population": -1,
+        "latitude": 36.038611,
+        "longitude": 14.239722
+    },
+    {
+        "name": "Għajn il-Kbira",
+        "country": "Malta",
+        "province": "Is-Siġġiewi",
+        "population": -1,
+        "latitude": 35.854444,
+        "longitude": 14.408056
+    },
+    {
+        "name": "Għajn Dwieli",
+        "country": "Malta",
+        "province": "Paola",
+        "population": -1,
+        "latitude": 35.8775,
+        "longitude": 14.513333
+    },
+    {
+        "name": "Dwejra",
+        "country": "Malta",
+        "province": "L-Imġarr",
+        "population": -1,
+        "latitude": 35.9052778,
+        "longitude": 14.3836111
+    },
+    {
+        "name": "Delimara",
+        "country": "Malta",
+        "province": "Marsaxlokk",
+        "population": -1,
+        "latitude": 35.824722,
+        "longitude": 14.559722
+    },
+    {
+        "name": "Bur Magħtab",
+        "country": "Malta",
+        "province": "Ħal Għaxaq",
+        "population": -1,
+        "latitude": 35.842778,
+        "longitude": 14.513611
+    },
+    {
+        "name": "Buleben iż-Żgħir",
+        "country": "Malta",
+        "province": "Ħaż-Żabbar",
+        "population": -1,
+        "latitude": 35.870278,
+        "longitude": 14.527778
+    },
+    {
+        "name": "Biskra",
+        "country": "Malta",
+        "province": "Il-Mellieħa",
+        "population": -1,
+        "latitude": 35.966389,
+        "longitude": 14.346944
+    },
+    {
+        "name": "Birbuba",
+        "country": "Malta",
+        "province": "L-Għarb",
+        "population": -1,
+        "latitude": 36.064167,
+        "longitude": 14.198611
+    },
+    {
+        "name": "Beżbeżija",
+        "country": "Malta",
+        "province": "Il-Mosta",
+        "population": -1,
+        "latitude": 35.912222,
+        "longitude": 14.408611
+    },
+    {
+        "name": "Wied Fulija",
+        "country": "Malta",
+        "province": "Iż-Żurrieq",
+        "population": -1,
+        "latitude": 35.818333,
+        "longitude": 14.4775
+    },
+    {
+        "name": "Tas-Santi",
+        "country": "Malta",
+        "province": "L-Imġarr",
+        "population": -1,
+        "latitude": 35.906111,
+        "longitude": 14.356389
+    },
+    {
+        "name": "Ta’ San Girgor",
+        "country": "Malta",
+        "province": "Iż-Żejtun",
+        "population": -1,
+        "latitude": 35.852778,
+        "longitude": 14.536944
+    },
+    {
+        "name": "Tal-Papa",
+        "country": "Malta",
+        "province": "Birżebbuġa",
+        "population": -1,
+        "latitude": 35.817778,
+        "longitude": 14.522778
+    },
+    {
+        "name": "Tal-Milord",
+        "country": "Malta",
+        "province": "Il-Mosta",
+        "population": -1,
+        "latitude": 35.926944,
+        "longitude": 14.398333
+    },
+    {
+        "name": "Tal-Merħla",
+        "country": "Malta",
+        "province": "Ir-Rabat",
+        "population": -1,
+        "latitude": 35.8788889,
+        "longitude": 14.3438889
+    },
+    {
+        "name": "Tal-Mejda",
+        "country": "Malta",
+        "province": "Is-Swieqi",
+        "population": -1,
+        "latitude": 35.916111,
+        "longitude": 14.468889
+    },
+    {
+        "name": "Tal-Liebru",
+        "country": "Malta",
+        "province": "Safi",
+        "population": -1,
+        "latitude": 35.834722,
+        "longitude": 14.494444
+    },
+    {
+        "name": "Tal-Ħlas",
+        "country": "Malta",
+        "province": "Ħaż-Żebbuġ",
+        "population": -1,
+        "latitude": 35.873056,
+        "longitude": 14.451667
+    },
+    {
+        "name": "Tal-Ħawlija",
+        "country": "Malta",
+        "province": "Ħaż-Żabbar",
+        "population": -1,
+        "latitude": 35.878333,
+        "longitude": 14.528889
+    },
+    {
+        "name": "Tal-Għoqod",
+        "country": "Malta",
+        "province": "Is-Swieqi",
+        "population": -1,
+        "latitude": 35.917778,
+        "longitude": 14.483889
+    },
+    {
+        "name": "Tal-Franċiż",
+        "country": "Malta",
+        "province": "Is-Swieqi",
+        "population": -1,
+        "latitude": 35.919444,
+        "longitude": 14.48
+    },
+    {
+        "name": "Tal-Faqqani",
+        "country": "Malta",
+        "province": "Saint Lucia",
+        "population": -1,
+        "latitude": 35.862222,
+        "longitude": 14.501111
+    },
+    {
+        "name": "Tal-Blata",
+        "country": "Malta",
+        "province": "Il-Mellieħa",
+        "population": -1,
+        "latitude": 35.963889,
+        "longitude": 14.391111
+    },
+    {
+        "name": "Tal-Barrani",
+        "country": "Malta",
+        "province": "Iż-Żejtun",
+        "population": -1,
+        "latitude": 35.856389,
+        "longitude": 14.520278
+    },
+    {
+        "name": "Ta’ Ħamet",
+        "country": "Malta",
+        "province": "Ix-Xewkija",
+        "population": -1,
+        "latitude": 36.04,
+        "longitude": 14.264722
+    },
+    {
+        "name": "Ta’ Ġokondu",
+        "country": "Malta",
+        "province": "Is-Swieqi",
+        "population": -1,
+        "latitude": 35.9225,
+        "longitude": 14.472222
+    },
+    {
+        "name": "Tad-Dawl",
+        "country": "Malta",
+        "province": "L-Imqabba",
+        "population": -1,
+        "latitude": 35.850833,
+        "longitude": 14.472222
+    },
+    {
+        "name": "Ta’ Ċeppuna",
+        "country": "Malta",
+        "province": "Il-Marsa",
+        "population": -1,
+        "latitude": 35.873611,
+        "longitude": 14.493611
+    },
+    {
+        "name": "Taċ-Ċawla",
+        "country": "Malta",
+        "province": "Victoria",
+        "population": -1,
+        "latitude": 36.0375,
+        "longitude": 14.240556
+    },
+    {
+        "name": "Ta’ Bir Miftuħ",
+        "country": "Malta",
+        "province": "Luqa",
+        "population": -1,
+        "latitude": 35.852778,
+        "longitude": 14.490556
+    },
+    {
+        "name": "San Pietru",
+        "country": "Malta",
+        "province": "Il-Kalkara",
+        "population": -1,
+        "latitude": 35.886389,
+        "longitude": 14.54
+    },
+    {
+        "name": "San Pawl Milqgħi",
+        "country": "Malta",
+        "province": "Saint Paul’s Bay",
+        "population": -1,
+        "latitude": 35.935278,
+        "longitude": 14.412778
+    },
+    {
+        "name": "San Katald",
+        "country": "Malta",
+        "province": "L-Għarb",
+        "population": -1,
+        "latitude": 36.065556,
+        "longitude": 14.205833
+    },
+    {
+        "name": "Misraħ Suffara",
+        "country": "Malta",
+        "province": "Dingli",
+        "population": -1,
+        "latitude": 35.868611,
+        "longitude": 14.373611
+    },
+    {
+        "name": "Misraħ Lewża",
+        "country": "Malta",
+        "province": "Saint John",
+        "population": -1,
+        "latitude": 35.908611,
+        "longitude": 14.472778
+    },
+    {
+        "name": "Is-Simblija",
+        "country": "Malta",
+        "province": "In-Naxxar",
+        "population": -1,
+        "latitude": 35.9125,
+        "longitude": 14.447222
+    },
+    {
+        "name": "Is-Sellum",
+        "country": "Malta",
+        "province": "Il-Mellieħa",
+        "population": -1,
+        "latitude": 35.966389,
+        "longitude": 14.358889
+    },
+    {
+        "name": "Il-Wilġa",
+        "country": "Malta",
+        "province": "L-Għarb",
+        "population": -1,
+        "latitude": 36.0575,
+        "longitude": 14.209444
+    },
+    {
+        "name": "Il-Wileġ",
+        "country": "Malta",
+        "province": "Il-Kalkara",
+        "population": -1,
+        "latitude": 35.886667,
+        "longitude": 14.533889
+    },
+    {
+        "name": "Il-Palma",
+        "country": "Malta",
+        "province": "L-Imġarr",
+        "population": -1,
+        "latitude": 35.935556,
+        "longitude": 14.367222
+    },
+    {
+        "name": "Il-Ħofra",
+        "country": "Malta",
+        "province": "Ħaż-Żabbar",
+        "population": -1,
+        "latitude": 35.881944,
+        "longitude": 14.544722
+    },
+    {
+        "name": "Il-Ħammieri",
+        "country": "Malta",
+        "province": "Qormi",
+        "population": -1,
+        "latitude": 35.882222,
+        "longitude": 14.460833
+    },
+    {
+        "name": "Il-Gżira",
+        "country": "Malta",
+        "province": "Ta’ Xbiex",
+        "population": -1,
+        "latitude": 35.9,
+        "longitude": 14.5
+    },
+    {
+        "name": "Il-Fawwara",
+        "country": "Malta",
+        "province": "Is-Siġġiewi",
+        "population": -1,
+        "latitude": 35.840278,
+        "longitude": 14.401944
+    },
+    {
+        "name": "Il-Bwieraq",
+        "country": "Malta",
+        "province": "Birkirkara",
+        "population": -1,
+        "latitude": 35.901389,
+        "longitude": 14.46
+    },
+    {
+        "name": "Il-Brolli",
+        "country": "Malta",
+        "province": "Birżebbuġa",
+        "population": -1,
+        "latitude": 35.830556,
+        "longitude": 14.521389
+    },
+    {
+        "name": "Id-Daħar",
+        "country": "Malta",
+        "province": "Il-Mellieħa",
+        "population": -1,
+        "latitude": 35.976389,
+        "longitude": 14.332778
+    },
+    {
+        "name": "Ħal Muxi",
+        "country": "Malta",
+        "province": "Ħaż-Żebbuġ",
+        "population": -1,
+        "latitude": 35.875556,
+        "longitude": 14.435833
+    },
+    {
+        "name": "Għar Ram",
+        "country": "Malta",
+        "province": "Ħaż-Żebbuġ",
+        "population": -1,
+        "latitude": 35.872222,
+        "longitude": 14.458333
+    },
+    {
+        "name": "Għar Mundu",
+        "country": "Malta",
+        "province": "Is-Siġġiewi",
+        "population": -1,
+        "latitude": 35.849444,
+        "longitude": 14.406111
+    },
+    {
+        "name": "Għammieri",
+        "country": "Malta",
+        "province": "Luqa",
+        "population": -1,
+        "latitude": 35.8725,
+        "longitude": 14.480833
+    },
+    {
+        "name": "Għammar",
+        "country": "Malta",
+        "province": "L-Għasri",
+        "population": -1,
+        "latitude": 36.06611,
+        "longitude": 14.21833
+    },
+    {
+        "name": "Erba’ Mwieżeb",
+        "country": "Malta",
+        "province": "Saint Paul’s Bay",
+        "population": -1,
+        "latitude": 35.944444,
+        "longitude": 14.410556
+    },
+    {
+        "name": "Buleben il-Kbir",
+        "country": "Malta",
+        "province": "Iż-Żejtun",
+        "population": -1,
+        "latitude": 35.8625,
+        "longitude": 14.52
+    },
+    {
+        "name": "Bighi",
+        "country": "Malta",
+        "province": "Il-Kalkara",
+        "population": -1,
+        "latitude": 35.89235,
+        "longitude": 14.52459
+    },
+    {
+        "name": "L-Aħrax tal-Għajn",
+        "country": "Malta",
+        "province": "Il-Mellieħa",
+        "population": -1,
+        "latitude": 35.981111,
+        "longitude": 14.332222
+    },
+    {
+        "name": "Marfa",
+        "country": "Malta",
+        "province": "Il-Mellieħa",
+        "population": -1,
+        "latitude": 35.98584,
+        "longitude": 14.34625
+    },
+    {
+        "name": "Santa Katarina",
+        "country": "Malta",
+        "province": "Ir-Rabat",
+        "population": 350,
+        "latitude": 35.87133,
+        "longitude": 14.38595
+    },
+    {
+        "name": "Fanal",
+        "country": "Malta",
+        "province": "L-Għasri",
+        "population": -1,
+        "latitude": 36.06374,
+        "longitude": 14.22139
+    },
+    {
+        "name": "Manresa",
+        "country": "Malta",
+        "province": "Il-Fontana",
+        "population": -1,
+        "latitude": 36.03806,
+        "longitude": 14.23913
+    },
+    {
+        "name": "Dwejra",
+        "country": "Malta",
+        "province": "Saint Lawrence",
+        "population": 121,
+        "latitude": 36.05207,
+        "longitude": 14.1909
+    },
+    {
+        "name": "Debba",
+        "country": "Malta",
+        "province": "Saint Lawrence",
+        "population": 65,
+        "latitude": 36.05058,
+        "longitude": 14.20057
+    },
+    {
+        "name": "Gebla",
+        "country": "Malta",
+        "province": "Saint Lawrence",
+        "population": 112,
+        "latitude": 36.0533,
+        "longitude": 14.20215
+    },
+    {
+        "name": "Wileg",
+        "country": "Malta",
+        "province": "Saint Lawrence",
+        "population": 98,
+        "latitude": 36.05639,
+        "longitude": 14.2023
+    },
+    {
+        "name": "Ghonoq",
+        "country": "Malta",
+        "province": "Saint Lawrence",
+        "population": 76,
+        "latitude": 36.05767,
+        "longitude": 14.20089
+    },
+    {
+        "name": "Rosa",
+        "country": "Malta",
+        "province": "Saint Lawrence",
+        "population": 32,
+        "latitude": 36.05937,
+        "longitude": 14.19829
+    },
+    {
+        "name": "Pawluzzu",
+        "country": "Malta",
+        "province": "Saint Lawrence",
+        "population": 56,
+        "latitude": 36.05509,
+        "longitude": 14.20658
+    },
+    {
+        "name": "Taż-Żejt",
+        "country": "Malta",
+        "province": "Saint John",
+        "population": -1,
+        "latitude": 35.905833,
+        "longitude": 14.47
+    },
+    {
+        "name": "Tas-Samra",
+        "country": "Malta",
+        "province": "Il-Marsa",
+        "population": -1,
+        "latitude": 35.884444,
+        "longitude": 14.490278
+    },
+    {
+        "name": "Ta’ Sardina",
+        "country": "Malta",
+        "province": "In-Nadur",
+        "population": -1,
+        "latitude": 36.045833,
+        "longitude": 14.284444
+    },
+    {
+        "name": "Ta’ Mlit",
+        "country": "Malta",
+        "province": "Il-Mosta",
+        "population": -1,
+        "latitude": 35.903611,
+        "longitude": 14.428611
+    },
+    {
+        "name": "Tal-Palazz l-Aħmar",
+        "country": "Malta",
+        "province": "Saint Venera",
+        "population": -1,
+        "latitude": 35.888611,
+        "longitude": 14.4725
+    },
+    {
+        "name": "Tal-Mentna",
+        "country": "Malta",
+        "province": "L-Imqabba",
+        "population": -1,
+        "latitude": 35.842778,
+        "longitude": 14.464444
+    },
+    {
+        "name": "Tal-Liedna",
+        "country": "Malta",
+        "province": "Il-Fgura",
+        "population": -1,
+        "latitude": 35.873889,
+        "longitude": 14.514722
+    },
+    {
+        "name": "Ta’ l-Infetti",
+        "country": "Malta",
+        "province": "Ħaż-Żebbuġ",
+        "population": -1,
+        "latitude": 35.874722,
+        "longitude": 14.443611
+    },
+    {
+        "name": "Ta’ l-Imgħajjen",
+        "country": "Malta",
+        "province": "Ix-Xewkija",
+        "population": -1,
+        "latitude": 36.038611,
+        "longitude": 14.253056
+    },
+    {
+        "name": "Tal-Ħriereb",
+        "country": "Malta",
+        "province": "L-Imsida",
+        "population": -1,
+        "latitude": 35.900556,
+        "longitude": 14.485556
+    },
+    {
+        "name": "Tal-Ħamrija",
+        "country": "Malta",
+        "province": "Ix-Xewkija",
+        "population": -1,
+        "latitude": 36.036667,
+        "longitude": 14.253889
+    },
+    {
+        "name": "Tal-Fulija",
+        "country": "Malta",
+        "province": "Il-Qrendi",
+        "population": -1,
+        "latitude": 35.833611,
+        "longitude": 14.462222
+    },
+    {
+        "name": "Tal-Fieres",
+        "country": "Malta",
+        "province": "Kirkop",
+        "population": -1,
+        "latitude": 35.840833,
+        "longitude": 14.4825
+    },
+    {
+        "name": "Tal-Barmil",
+        "country": "Malta",
+        "province": "Ix-Xagħra",
+        "population": -1,
+        "latitude": 36.048056,
+        "longitude": 14.255
+    },
+    {
+        "name": "Ta’ Ħida",
+        "country": "Malta",
+        "province": "In-Nadur",
+        "population": -1,
+        "latitude": 36.045278,
+        "longitude": 14.284444
+    },
+    {
+        "name": "Ta’ Gorgun",
+        "country": "Malta",
+        "province": "Ix-Xewkija",
+        "population": -1,
+        "latitude": 36.029444,
+        "longitude": 14.258889
+    },
+    {
+        "name": "Tad-Dwieli",
+        "country": "Malta",
+        "province": "Qormi",
+        "population": -1,
+        "latitude": 35.884444,
+        "longitude": 14.476389
+    },
+    {
+        "name": "Tad-Duluri",
+        "country": "Malta",
+        "province": "Il-Ħamrun",
+        "population": -1,
+        "latitude": 35.887778,
+        "longitude": 14.490556
+    },
+    {
+        "name": "Ta’ Danieli",
+        "country": "Malta",
+        "province": "Luqa",
+        "population": -1,
+        "latitude": 35.856667,
+        "longitude": 14.484167
+    },
+    {
+        "name": "Taċ-Ċawla",
+        "country": "Malta",
+        "province": "Luqa",
+        "population": -1,
+        "latitude": 35.856944,
+        "longitude": 14.489444
+    },
+    {
+        "name": "Ta’ Bullara",
+        "country": "Malta",
+        "province": "Ix-Xagħra",
+        "population": -1,
+        "latitude": 36.055833,
+        "longitude": 14.261389
+    },
+    {
+        "name": "Ta’ Abram",
+        "country": "Malta",
+        "province": "Iż-Żebbuġ",
+        "population": -1,
+        "latitude": 36.065,
+        "longitude": 14.233333
+    },
+    {
+        "name": "Mrejżbiet",
+        "country": "Malta",
+        "province": "Għajnsielem",
+        "population": -1,
+        "latitude": 36.028889,
+        "longitude": 14.285556
+    },
+    {
+        "name": "Misraħ Miel",
+        "country": "Malta",
+        "province": "L-Imġarr",
+        "population": -1,
+        "latitude": 35.920833,
+        "longitude": 14.361389
+    },
+    {
+        "name": "L-Istabar",
+        "country": "Malta",
+        "province": "Qormi",
+        "population": -1,
+        "latitude": 35.878132167132065,
+        "longitude": 14.481697082519531
+    },
+    {
+        "name": "L-Armier",
+        "country": "Malta",
+        "province": "Qormi",
+        "population": -1,
+        "latitude": 35.875278,
+        "longitude": 14.470833
+    },
+    {
+        "name": "Il-Minżel",
+        "country": "Malta",
+        "province": "Iż-Żejtun",
+        "population": -1,
+        "latitude": 35.86,
+        "longitude": 14.532222
+    },
+    {
+        "name": "Il-Mielaħ",
+        "country": "Malta",
+        "province": "Is-Swieqi",
+        "population": -1,
+        "latitude": 35.924722,
+        "longitude": 14.470278
+    },
+    {
+        "name": "Il-Ħamra",
+        "country": "Malta",
+        "province": "Saint Paul’s Bay",
+        "population": -1,
+        "latitude": 35.949722,
+        "longitude": 14.418611
+    },
+    {
+        "name": "Ħal Lew",
+        "country": "Malta",
+        "province": "Iż-Żurrieq",
+        "population": -1,
+        "latitude": 35.829444,
+        "longitude": 14.469167
+    },
+    {
+        "name": "Ħal Bajjada",
+        "country": "Malta",
+        "province": "Ir-Rabat",
+        "population": -1,
+        "latitude": 35.878056,
+        "longitude": 14.395833
+    },
+    {
+        "name": "Għajn Mhelhel",
+        "country": "Malta",
+        "province": "Iż-Żebbuġ",
+        "population": -1,
+        "latitude": 36.0761111,
+        "longitude": 14.2391667
+    },
+    {
+        "name": "Busugrilla",
+        "country": "Malta",
+        "province": "Ir-Rabat",
+        "population": -1,
+        "latitude": 35.8833333,
+        "longitude": 14.3919444
+    },
+    {
+        "name": "Bir id-Deheb",
+        "country": "Malta",
+        "province": "Iż-Żejtun",
+        "population": -1,
+        "latitude": 35.851389,
+        "longitude": 14.528056
+    },
+    {
+        "name": "Il-Maħsel",
+        "country": "Malta",
+        "province": "Marsaskala",
+        "population": -1,
+        "latitude": 35.856389,
+        "longitude": 14.565
+    },
+    {
+        "name": "Iż-Żlielaq",
+        "country": "Malta",
+        "province": "Marsaskala",
+        "population": -1,
+        "latitude": 35.866667,
+        "longitude": 14.564167
+    },
+    {
+        "name": "Ta’ Monita",
+        "country": "Malta",
+        "province": "Marsaskala",
+        "population": -1,
+        "latitude": 35.866111,
+        "longitude": 14.564722
+    },
+    {
+        "name": "Corradino Heights",
+        "country": "Malta",
+        "province": "Paola",
+        "population": -1,
+        "latitude": 35.882778,
+        "longitude": 14.510278
+    },
+    {
+        "name": "Il-Qasbija",
+        "country": "Malta",
+        "province": "L-Iklin",
+        "population": -1,
+        "latitude": 35.903611,
+        "longitude": 14.455556
+    },
+    {
+        "name": "Ta’ Kappara",
+        "country": "Malta",
+        "province": "Saint John",
+        "population": -1,
+        "latitude": 35.908889,
+        "longitude": 14.484167
+    },
+    {
+        "name": "Ta’ Ċikkun",
+        "country": "Malta",
+        "province": "Saint John",
+        "population": -1,
+        "latitude": 35.911667,
+        "longitude": 14.483333
+    },
+    {
+        "name": "Misraħ Il-Barrieri",
+        "country": "Malta",
+        "province": "L-Imsida",
+        "population": -1,
+        "latitude": 35.895833,
+        "longitude": 14.486389
+    },
+    {
+        "name": "Tas-Salib",
+        "country": "Malta",
+        "province": "Birkirkara",
+        "population": -1,
+        "latitude": 35.895833,
+        "longitude": 14.467222
+    },
+    {
+        "name": "Ta’ Lampuka",
+        "country": "Malta",
+        "province": "Ta’ Xbiex",
+        "population": -1,
+        "latitude": 35.866944,
+        "longitude": 14.508611
+    },
+    {
+        "name": "Tal-Qtates",
+        "country": "Malta",
+        "province": "Il-Marsa",
+        "population": -1,
+        "latitude": 35.869444,
+        "longitude": 14.492778
+    },
+    {
+        "name": "Tal-Ħamra",
+        "country": "Malta",
+        "province": "Ħaż-Żabbar",
+        "population": -1,
+        "latitude": 35.878889,
+        "longitude": 14.5325
+    },
+    {
+        "name": "Ta’ Penza",
+        "country": "Malta",
+        "province": "Il-Fgura",
+        "population": -1,
+        "latitude": 35.875,
+        "longitude": 14.521389
+    },
+    {
+        "name": "Ix-Xagħra ta’ Barra",
+        "country": "Malta",
+        "province": "Il-Mellieħa",
+        "population": -1,
+        "latitude": 35.956667,
+        "longitude": 14.37
+    },
+    {
+        "name": "Il-Ħamrija",
+        "country": "Malta",
+        "province": "In-Naxxar",
+        "population": -1,
+        "latitude": 35.912222,
+        "longitude": 14.440833
+    },
+    {
+        "name": "It-Troll",
+        "country": "Malta",
+        "province": "Ħaż-Żebbuġ",
+        "population": -1,
+        "latitude": 35.866389,
+        "longitude": 14.443056
+    },
+    {
+        "name": "Il-Kamp tal-Mellieħa",
+        "country": "Malta",
+        "province": "Il-Mellieħa",
+        "population": -1,
+        "latitude": 35.967222,
+        "longitude": 14.346667
+    },
+    {
+        "name": "Il-Gwejdi",
+        "country": "Malta",
+        "province": "In-Naxxar",
+        "population": -1,
+        "latitude": 35.916944,
+        "longitude": 14.441389
+    },
+    {
+        "name": "San Pawl tat-Tarġa",
+        "country": "Malta",
+        "province": "In-Naxxar",
+        "population": -1,
+        "latitude": 35.920278,
+        "longitude": 14.4425
+    },
+    {
+        "name": "Tal-Mirakli",
+        "country": "Malta",
+        "province": "Attard",
+        "population": -1,
+        "latitude": 35.896111,
+        "longitude": 14.435833
+    },
+    {
+        "name": "Tal’ Uai",
+        "country": "Malta",
+        "province": "In-Naxxar",
+        "population": -1,
+        "latitude": 35.916111,
+        "longitude": 14.436111
+    },
+    {
+        "name": "St Andrews",
+        "country": "Malta",
+        "province": "Is-Swieqi",
+        "population": -1,
+        "latitude": 35.92388,
+        "longitude": 14.47556
+    },
+    {
+        "name": "Freeport",
+        "country": "Malta",
+        "province": "Birżebbuġa",
+        "population": -1,
+        "latitude": 35.8188,
+        "longitude": 14.53148
+    }
+]

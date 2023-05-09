@@ -1,0 +1,642 @@
+[
+    {
+        "name": "Moroni",
+        "country": "Comoros",
+        "province": "Grande Comore",
+        "population": 42872,
+        "latitude": -11.70216464911726,
+        "longitude": 43.255062103271484
+    },
+    {
+        "name": "Moutsamoudou",
+        "country": "Comoros",
+        "province": "Anjouan",
+        "population": 23594,
+        "latitude": -12.1667154312476,
+        "longitude": 44.39944267272949
+    },
+    {
+        "name": "Fomboni",
+        "country": "Comoros",
+        "province": "Mohéli",
+        "population": 14966,
+        "latitude": -12.28759,
+        "longitude": 43.74344
+    },
+    {
+        "name": "Adda-Douéni",
+        "country": "Comoros",
+        "province": "Anjouan",
+        "population": 10858,
+        "latitude": -12.2925,
+        "longitude": 44.4972222
+    },
+    {
+        "name": "Tsimbeo",
+        "country": "Comoros",
+        "province": "Anjouan",
+        "population": 12472,
+        "latitude": -12.2058333,
+        "longitude": 44.4647222
+    },
+    {
+        "name": "Sima",
+        "country": "Comoros",
+        "province": "Anjouan",
+        "population": 10374,
+        "latitude": -12.1955556,
+        "longitude": 44.2766667
+    },
+    {
+        "name": "Ouani",
+        "country": "Comoros",
+        "province": "Anjouan",
+        "population": 10179,
+        "latitude": -12.13554,
+        "longitude": 44.42493
+    },
+    {
+        "name": "Domoni",
+        "country": "Comoros",
+        "province": "Anjouan",
+        "population": 14509,
+        "latitude": -12.26067,
+        "longitude": 44.52947
+    },
+    {
+        "name": "Mirontsi",
+        "country": "Comoros",
+        "province": "Anjouan",
+        "population": 10168,
+        "latitude": -12.1604,
+        "longitude": 44.40986
+    },
+    {
+        "name": "Koni-Djodjo",
+        "country": "Comoros",
+        "province": "Anjouan",
+        "population": 8109,
+        "latitude": -12.2297222,
+        "longitude": 44.4816667
+    },
+    {
+        "name": "Ntsoudjini",
+        "country": "Comoros",
+        "province": "Grande Comore",
+        "population": 3799,
+        "latitude": -11.66077,
+        "longitude": 43.27157
+    },
+    {
+        "name": "Mtakoudja",
+        "country": "Comoros",
+        "province": "Mohéli",
+        "population": 1410,
+        "latitude": -12.2611111,
+        "longitude": 43.7036111
+    },
+    {
+        "name": "Ziroudani",
+        "country": "Comoros",
+        "province": "Mohéli",
+        "population": 1197,
+        "latitude": -12.3325,
+        "longitude": 43.7775
+    },
+    {
+        "name": "Bandajou",
+        "country": "Comoros",
+        "province": "Anjouan",
+        "population": 1816,
+        "latitude": -12.1916667,
+        "longitude": 44.2869444
+    },
+    {
+        "name": "Chitrouni",
+        "country": "Comoros",
+        "province": "Anjouan",
+        "population": 1081,
+        "latitude": -12.1858333,
+        "longitude": 44.3355556
+    },
+    {
+        "name": "Hajoho",
+        "country": "Comoros",
+        "province": "Anjouan",
+        "population": 2505,
+        "latitude": -12.12434,
+        "longitude": 44.48881
+    },
+    {
+        "name": "Harembo",
+        "country": "Comoros",
+        "province": "Anjouan",
+        "population": 1698,
+        "latitude": -12.15108,
+        "longitude": 44.49828
+    },
+    {
+        "name": "Limbi",
+        "country": "Comoros",
+        "province": "Anjouan",
+        "population": 1037,
+        "latitude": -12.2394444,
+        "longitude": 44.5052778
+    },
+    {
+        "name": "Lingoni",
+        "country": "Comoros",
+        "province": "Anjouan",
+        "population": 3583,
+        "latitude": -12.2558333,
+        "longitude": 44.4183333
+    },
+    {
+        "name": "Magnassini-Nindri",
+        "country": "Comoros",
+        "province": "Anjouan",
+        "population": 2213,
+        "latitude": -12.2780556,
+        "longitude": 44.4158333
+    },
+    {
+        "name": "Daji",
+        "country": "Comoros",
+        "province": "Anjouan",
+        "population": 2676,
+        "latitude": -12.3258333,
+        "longitude": 44.4886111
+    },
+    {
+        "name": "Ouhozi",
+        "country": "Comoros",
+        "province": "Grande Comore",
+        "population": 1930,
+        "latitude": -11.405,
+        "longitude": 43.2822222
+    },
+    {
+        "name": "Mandza",
+        "country": "Comoros",
+        "province": "Grande Comore",
+        "population": 1602,
+        "latitude": -11.4180556,
+        "longitude": 43.2952778
+    },
+    {
+        "name": "Douniani",
+        "country": "Comoros",
+        "province": "Grande Comore",
+        "population": 1778,
+        "latitude": -11.4211111,
+        "longitude": 43.2888889
+    },
+    {
+        "name": "Hantsindzi",
+        "country": "Comoros",
+        "province": "Grande Comore",
+        "population": 2004,
+        "latitude": -11.43178,
+        "longitude": 43.41102
+    },
+    {
+        "name": "Itsandzéni",
+        "country": "Comoros",
+        "province": "Grande Comore",
+        "population": 1382,
+        "latitude": -11.4727778,
+        "longitude": 43.3844444
+    },
+    {
+        "name": "Bambadjani",
+        "country": "Comoros",
+        "province": "Grande Comore",
+        "population": 1355,
+        "latitude": -11.4786111,
+        "longitude": 43.3772222
+    },
+    {
+        "name": "Vanadjou",
+        "country": "Comoros",
+        "province": "Grande Comore",
+        "population": 1830,
+        "latitude": -11.6075,
+        "longitude": 43.2761111
+    },
+    {
+        "name": "Bahani",
+        "country": "Comoros",
+        "province": "Grande Comore",
+        "population": 1272,
+        "latitude": -11.6397222,
+        "longitude": 43.2841667
+    },
+    {
+        "name": "Tsidjé",
+        "country": "Comoros",
+        "province": "Grande Comore",
+        "population": 4600,
+        "latitude": -11.6980556,
+        "longitude": 43.2619444
+    },
+    {
+        "name": "Mvouni",
+        "country": "Comoros",
+        "province": "Grande Comore",
+        "population": 4791,
+        "latitude": -11.7161111,
+        "longitude": 43.2647222
+    },
+    {
+        "name": "Mavingouni",
+        "country": "Comoros",
+        "province": "Grande Comore",
+        "population": 1390,
+        "latitude": -11.7163889,
+        "longitude": 43.2525
+    },
+    {
+        "name": "Séléa",
+        "country": "Comoros",
+        "province": "Grande Comore",
+        "population": 1662,
+        "latitude": -11.7844444,
+        "longitude": 43.2608333
+    },
+    {
+        "name": "Madjeouéni",
+        "country": "Comoros",
+        "province": "Grande Comore",
+        "population": 1320,
+        "latitude": -11.8216667,
+        "longitude": 43.2780556
+    },
+    {
+        "name": "Nioumamilima",
+        "country": "Comoros",
+        "province": "Grande Comore",
+        "population": 1068,
+        "latitude": -11.85461,
+        "longitude": 43.44607
+    },
+    {
+        "name": "Ouanani",
+        "country": "Comoros",
+        "province": "Mohéli",
+        "population": 2401,
+        "latitude": -12.3375,
+        "longitude": 43.7975
+    },
+    {
+        "name": "Vouani",
+        "country": "Comoros",
+        "province": "Anjouan",
+        "population": 2513,
+        "latitude": -12.2441667,
+        "longitude": 44.3744444
+    },
+    {
+        "name": "Vanambouani",
+        "country": "Comoros",
+        "province": "Grande Comore",
+        "population": 1654,
+        "latitude": -11.6113889,
+        "longitude": 43.2530556
+    },
+    {
+        "name": "Singani",
+        "country": "Comoros",
+        "province": "Grande Comore",
+        "population": 2309,
+        "latitude": -11.84784,
+        "longitude": 43.31731
+    },
+    {
+        "name": "Salimani",
+        "country": "Comoros",
+        "province": "Grande Comore",
+        "population": 1662,
+        "latitude": -11.8115,
+        "longitude": 43.26823
+    },
+    {
+        "name": "Patsi",
+        "country": "Comoros",
+        "province": "Anjouan",
+        "population": 1498,
+        "latitude": -12.1555556,
+        "longitude": 44.4372222
+    },
+    {
+        "name": "Oussivo",
+        "country": "Comoros",
+        "province": "Grande Comore",
+        "population": 1708,
+        "latitude": -11.585,
+        "longitude": 43.2672222
+    },
+    {
+        "name": "Ourovéni",
+        "country": "Comoros",
+        "province": "Grande Comore",
+        "population": 1419,
+        "latitude": -11.91375,
+        "longitude": 43.49804
+    },
+    {
+        "name": "Ongoni",
+        "country": "Comoros",
+        "province": "Anjouan",
+        "population": 2058,
+        "latitude": -12.1702778,
+        "longitude": 44.5069444
+    },
+    {
+        "name": "Ntsaouéni",
+        "country": "Comoros",
+        "province": "Grande Comore",
+        "population": 3481,
+        "latitude": -11.465833,
+        "longitude": 43.262778
+    },
+    {
+        "name": "Nioumachoua",
+        "country": "Comoros",
+        "province": "Mohéli",
+        "population": 3412,
+        "latitude": -12.3613889,
+        "longitude": 43.7152778
+    },
+    {
+        "name": "Mtsamdou",
+        "country": "Comoros",
+        "province": "Grande Comore",
+        "population": 1171,
+        "latitude": -11.6069444,
+        "longitude": 43.3805556
+    },
+    {
+        "name": "Mrémani",
+        "country": "Comoros",
+        "province": "Anjouan",
+        "population": 4996,
+        "latitude": -12.308333,
+        "longitude": 44.498611
+    },
+    {
+        "name": "Mramani",
+        "country": "Comoros",
+        "province": "Anjouan",
+        "population": 5126,
+        "latitude": -12.3463889,
+        "longitude": 44.5286111
+    },
+    {
+        "name": "Moya",
+        "country": "Comoros",
+        "province": "Anjouan",
+        "population": 7529,
+        "latitude": -12.30967,
+        "longitude": 44.43685
+    },
+    {
+        "name": "Mohoro",
+        "country": "Comoros",
+        "province": "Grande Comore",
+        "population": 2014,
+        "latitude": -11.82701,
+        "longitude": 43.45436
+    },
+    {
+        "name": "Mjimandra",
+        "country": "Comoros",
+        "province": "Anjouan",
+        "population": 3114,
+        "latitude": -12.1916667,
+        "longitude": 44.3702778
+    },
+    {
+        "name": "Mjamaoué",
+        "country": "Comoros",
+        "province": "Anjouan",
+        "population": 1490,
+        "latitude": -12.1936111,
+        "longitude": 44.31
+    },
+    {
+        "name": "Mitsoudjé",
+        "country": "Comoros",
+        "province": "Grande Comore",
+        "population": 5000,
+        "latitude": -11.81209,
+        "longitude": 43.28043
+    },
+    {
+        "name": "Mitsamiouli",
+        "country": "Comoros",
+        "province": "Grande Comore",
+        "population": 6102,
+        "latitude": -11.3847222,
+        "longitude": 43.2844444
+    },
+    {
+        "name": "Mbéni",
+        "country": "Comoros",
+        "province": "Grande Comore",
+        "population": 6516,
+        "latitude": -11.5013889,
+        "longitude": 43.3775
+    },
+    {
+        "name": "Maraharé",
+        "country": "Comoros",
+        "province": "Anjouan",
+        "population": 1415,
+        "latitude": -12.2308333,
+        "longitude": 44.3133333
+    },
+    {
+        "name": "Koni-Ngani",
+        "country": "Comoros",
+        "province": "Anjouan",
+        "population": 3288,
+        "latitude": -12.2158333,
+        "longitude": 44.48
+    },
+    {
+        "name": "Koki",
+        "country": "Comoros",
+        "province": "Anjouan",
+        "population": 4929,
+        "latitude": -12.1713889,
+        "longitude": 44.4416667
+    },
+    {
+        "name": "Kangani",
+        "country": "Comoros",
+        "province": "Anjouan",
+        "population": 3711,
+        "latitude": -12.32102,
+        "longitude": 44.4727
+    },
+    {
+        "name": "Ivouani",
+        "country": "Comoros",
+        "province": "Grande Comore",
+        "population": 1317,
+        "latitude": -11.39157,
+        "longitude": 43.39454
+    },
+    {
+        "name": "Itsandra",
+        "country": "Comoros",
+        "province": "Grande Comore",
+        "population": 3168,
+        "latitude": -11.67638,
+        "longitude": 43.26466
+    },
+    {
+        "name": "Héroumbili",
+        "country": "Comoros",
+        "province": "Grande Comore",
+        "population": 1463,
+        "latitude": -11.543889,
+        "longitude": 43.379722
+    },
+    {
+        "name": "Hoani",
+        "country": "Comoros",
+        "province": "Mohéli",
+        "population": 1114,
+        "latitude": -12.2508333,
+        "longitude": 43.6747222
+    },
+    {
+        "name": "Foumbouni",
+        "country": "Comoros",
+        "province": "Grande Comore",
+        "population": 4496,
+        "latitude": -11.86537,
+        "longitude": 43.49529
+    },
+    {
+        "name": "Dziani",
+        "country": "Comoros",
+        "province": "Anjouan",
+        "population": 1754,
+        "latitude": -12.1833333,
+        "longitude": 44.4833333
+    },
+    {
+        "name": "Dzahadjou",
+        "country": "Comoros",
+        "province": "Grande Comore",
+        "population": 2000,
+        "latitude": -11.85287,
+        "longitude": 43.34987
+    },
+    {
+        "name": "Djoyézi",
+        "country": "Comoros",
+        "province": "Mohéli",
+        "population": 2854,
+        "latitude": -12.30587,
+        "longitude": 43.77425
+    },
+    {
+        "name": "Dembéni",
+        "country": "Comoros",
+        "province": "Grande Comore",
+        "population": 4133,
+        "latitude": -11.873611,
+        "longitude": 43.397778
+    },
+    {
+        "name": "Chironkamba",
+        "country": "Comoros",
+        "province": "Anjouan",
+        "population": 2391,
+        "latitude": -12.1911111,
+        "longitude": 44.3525
+    },
+    {
+        "name": "Chindini",
+        "country": "Comoros",
+        "province": "Grande Comore",
+        "population": 1471,
+        "latitude": -11.92328,
+        "longitude": 43.49109
+    },
+    {
+        "name": "Chezani",
+        "country": "Comoros",
+        "province": "Grande Comore",
+        "population": 2322,
+        "latitude": -11.4314,
+        "longitude": 43.39625
+    },
+    {
+        "name": "Chandra",
+        "country": "Comoros",
+        "province": "Anjouan",
+        "population": 5645,
+        "latitude": -12.195,
+        "longitude": 44.4647222
+    },
+    {
+        "name": "Chouani",
+        "country": "Comoros",
+        "province": "Grande Comore",
+        "population": 2615,
+        "latitude": -11.8233,
+        "longitude": 43.29429
+    },
+    {
+        "name": "Bouni",
+        "country": "Comoros",
+        "province": "Grande Comore",
+        "population": 1104,
+        "latitude": -11.4869444,
+        "longitude": 43.3883333
+    },
+    {
+        "name": "Boungouéni",
+        "country": "Comoros",
+        "province": "Anjouan",
+        "population": 2465,
+        "latitude": -12.2055556,
+        "longitude": 44.2994444
+    },
+    {
+        "name": "Bimbini",
+        "country": "Comoros",
+        "province": "Anjouan",
+        "population": 2052,
+        "latitude": -12.1883333,
+        "longitude": 44.2355556
+    },
+    {
+        "name": "Bambao",
+        "country": "Comoros",
+        "province": "Anjouan",
+        "population": 2699,
+        "latitude": -12.20325,
+        "longitude": 44.51638
+    },
+    {
+        "name": "Assimpao",
+        "country": "Comoros",
+        "province": "Anjouan",
+        "population": 1112,
+        "latitude": -12.2330556,
+        "longitude": 44.3197222
+    },
+    {
+        "name": "Antsahé",
+        "country": "Comoros",
+        "province": "Anjouan",
+        "population": 1180,
+        "latitude": -12.3563889,
+        "longitude": 44.5225
+    }
+]

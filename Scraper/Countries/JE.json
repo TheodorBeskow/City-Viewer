@@ -1,0 +1,682 @@
+[
+    {
+        "name": "Saint Helier",
+        "country": "Jersey",
+        "province": "JE,GB",
+        "population": 28000,
+        "latitude": 49.18804276592228,
+        "longitude": -2.1049118041992188
+    },
+    {
+        "name": "Saint John",
+        "country": "Jersey",
+        "province": "JE,GB",
+        "population": 3051,
+        "latitude": 49.245556,
+        "longitude": -2.138611
+    },
+    {
+        "name": "Le Hocq",
+        "country": "Jersey",
+        "province": "JE,GB",
+        "population": -1,
+        "latitude": 49.16823,
+        "longitude": -2.06178
+    },
+    {
+        "name": "St. Ouen’s Bay",
+        "country": "Jersey",
+        "province": "JE,GB",
+        "population": -1,
+        "latitude": 49.22135,
+        "longitude": -2.21387
+    },
+    {
+        "name": "Saint Aubin",
+        "country": "Jersey",
+        "province": "JE,GB",
+        "population": -1,
+        "latitude": 49.1875,
+        "longitude": -2.170556
+    },
+    {
+        "name": "Gorey",
+        "country": "Jersey",
+        "province": "JE,GB",
+        "population": -1,
+        "latitude": 49.199373082240726,
+        "longitude": -2.0282649993896484
+    },
+    {
+        "name": "Belle Vue",
+        "country": "Jersey",
+        "province": "JE,GB",
+        "population": -1,
+        "latitude": 49.191389,
+        "longitude": -2.173056
+    },
+    {
+        "name": "St Clement",
+        "country": "Jersey",
+        "province": "JE,GB",
+        "population": -1,
+        "latitude": 49.17404456013752,
+        "longitude": -2.0571470260620117
+    },
+    {
+        "name": "Trinity",
+        "country": "Jersey",
+        "province": "JE,GB",
+        "population": -1,
+        "latitude": 49.23407705016257,
+        "longitude": -2.092723846435547
+    },
+    {
+        "name": "La Fosse",
+        "country": "Jersey",
+        "province": "JE,GB",
+        "population": -1,
+        "latitude": 49.174722,
+        "longitude": -2.180556
+    },
+    {
+        "name": "Mont Mado",
+        "country": "Jersey",
+        "province": "JE,GB",
+        "population": -1,
+        "latitude": 49.246944,
+        "longitude": -2.124167
+    },
+    {
+        "name": "Ville des Quennevais",
+        "country": "Jersey",
+        "province": "JE,GB",
+        "population": -1,
+        "latitude": 49.201944,
+        "longitude": -2.200278
+    },
+    {
+        "name": "Mont Fiquet",
+        "country": "Jersey",
+        "province": "JE,GB",
+        "population": -1,
+        "latitude": 49.179722,
+        "longitude": -2.214167
+    },
+    {
+        "name": "Ville ès Nouaux",
+        "country": "Jersey",
+        "province": "JE,GB",
+        "population": -1,
+        "latitude": 49.194722,
+        "longitude": -2.128611
+    },
+    {
+        "name": "La Ville au Bas",
+        "country": "Jersey",
+        "province": "JE,GB",
+        "population": -1,
+        "latitude": 49.22766,
+        "longitude": -2.21563
+    },
+    {
+        "name": "Ville Bagot",
+        "country": "Jersey",
+        "province": "JE,GB",
+        "population": -1,
+        "latitude": 49.24265,
+        "longitude": -2.20722
+    },
+    {
+        "name": "Perruque",
+        "country": "Jersey",
+        "province": "JE,GB",
+        "population": -1,
+        "latitude": 49.251667,
+        "longitude": -2.144167
+    },
+    {
+        "name": "Vinchelez de Haut Manor",
+        "country": "Jersey",
+        "province": "JE,GB",
+        "population": -1,
+        "latitude": 49.24475,
+        "longitude": -2.21851
+    },
+    {
+        "name": "Vinchelez de Bas Manor",
+        "country": "Jersey",
+        "province": "JE,GB",
+        "population": -1,
+        "latitude": 49.24643,
+        "longitude": -2.21705
+    },
+    {
+        "name": "Rozel",
+        "country": "Jersey",
+        "province": "JE,GB",
+        "population": -1,
+        "latitude": 49.236389,
+        "longitude": -2.046111
+    },
+    {
+        "name": "L’Etacq",
+        "country": "Jersey",
+        "province": "JE,GB",
+        "population": -1,
+        "latitude": 49.23534,
+        "longitude": -2.23516
+    },
+    {
+        "name": "Les Creux",
+        "country": "Jersey",
+        "province": "JE,GB",
+        "population": -1,
+        "latitude": 49.180556,
+        "longitude": -2.205556
+    },
+    {
+        "name": "La Villaise",
+        "country": "Jersey",
+        "province": "JE,GB",
+        "population": -1,
+        "latitude": 49.240833,
+        "longitude": -2.236667
+    },
+    {
+        "name": "Portinfer",
+        "country": "Jersey",
+        "province": "JE,GB",
+        "population": -1,
+        "latitude": 49.25019,
+        "longitude": -2.2258
+    },
+    {
+        "name": "Le Rondin",
+        "country": "Jersey",
+        "province": "JE,GB",
+        "population": -1,
+        "latitude": 49.238889,
+        "longitude": -2.181111
+    },
+    {
+        "name": "La Falaise",
+        "country": "Jersey",
+        "province": "JE,GB",
+        "population": -1,
+        "latitude": 49.249444,
+        "longitude": -2.168889
+    },
+    {
+        "name": "Grand Mourier",
+        "country": "Jersey",
+        "province": "JE,GB",
+        "population": -1,
+        "latitude": 49.255278,
+        "longitude": -2.148333
+    },
+    {
+        "name": "Six Rues",
+        "country": "Jersey",
+        "province": "JE,GB",
+        "population": -1,
+        "latitude": 49.2333333,
+        "longitude": -2.15
+    },
+    {
+        "name": "Millbrook",
+        "country": "Jersey",
+        "province": "JE,GB",
+        "population": -1,
+        "latitude": 49.198611,
+        "longitude": -2.138333
+    },
+    {
+        "name": "Lower Blanc Pignon",
+        "country": "Jersey",
+        "province": "JE,GB",
+        "population": -1,
+        "latitude": 49.194722,
+        "longitude": -2.162222
+    },
+    {
+        "name": "Longueville",
+        "country": "Jersey",
+        "province": "JE,GB",
+        "population": -1,
+        "latitude": 49.1833333,
+        "longitude": -2.0833333
+    },
+    {
+        "name": "La Hougue",
+        "country": "Jersey",
+        "province": "JE,GB",
+        "population": -1,
+        "latitude": 49.2166667,
+        "longitude": -2.2166667
+    },
+    {
+        "name": "La Haule",
+        "country": "Jersey",
+        "province": "JE,GB",
+        "population": -1,
+        "latitude": 49.1833333,
+        "longitude": -2.1833333
+    },
+    {
+        "name": "Grand Chemins",
+        "country": "Jersey",
+        "province": "JE,GB",
+        "population": -1,
+        "latitude": 49.2,
+        "longitude": -2.0666667
+    },
+    {
+        "name": "Bel Royal",
+        "country": "Jersey",
+        "province": "JE,GB",
+        "population": -1,
+        "latitude": 49.198056,
+        "longitude": -2.147222
+    },
+    {
+        "name": "Beaumont",
+        "country": "Jersey",
+        "province": "JE,GB",
+        "population": -1,
+        "latitude": 49.196389,
+        "longitude": -2.158611
+    },
+    {
+        "name": "La Moye",
+        "country": "Jersey",
+        "province": "JE,GB",
+        "population": -1,
+        "latitude": 49.1847,
+        "longitude": -2.22031
+    },
+    {
+        "name": "St Martin",
+        "country": "Jersey",
+        "province": "JE,GB",
+        "population": -1,
+        "latitude": 49.22006,
+        "longitude": -2.05127
+    },
+    {
+        "name": "Fliquet",
+        "country": "Jersey",
+        "province": "JE,GB",
+        "population": -1,
+        "latitude": 49.22779962399139,
+        "longitude": -2.0286941528320312
+    },
+    {
+        "name": "La Grève de Lecq",
+        "country": "Jersey",
+        "province": "JE,GB",
+        "population": -1,
+        "latitude": 49.24542483606657,
+        "longitude": -2.2028660774230957
+    },
+    {
+        "name": "St Mary's Village",
+        "country": "Jersey",
+        "province": "JE,GB",
+        "population": -1,
+        "latitude": 49.2364589004336,
+        "longitude": -2.17628002166748
+    },
+    {
+        "name": "St Brelade",
+        "country": "Jersey",
+        "province": "JE,GB",
+        "population": -1,
+        "latitude": 49.191464570604,
+        "longitude": -2.20481872558594
+    },
+    {
+        "name": "St Lawrence",
+        "country": "Jersey",
+        "province": "JE,GB",
+        "population": -1,
+        "latitude": 49.21583107077566,
+        "longitude": -2.141389846801758
+    },
+    {
+        "name": "Grouville",
+        "country": "Jersey",
+        "province": "JE,GB",
+        "population": -1,
+        "latitude": 49.18394750825511,
+        "longitude": -2.050323486328125
+    },
+    {
+        "name": "Five Oaks",
+        "country": "Jersey",
+        "province": "JE,GB",
+        "population": -1,
+        "latitude": 49.198284100755494,
+        "longitude": -2.0813941955566406
+    },
+    {
+        "name": "Les Platons",
+        "country": "Jersey",
+        "province": "JE,GB",
+        "population": -1,
+        "latitude": 49.2462,
+        "longitude": -2.1044
+    },
+    {
+        "name": "Les St Germain",
+        "country": "Jersey",
+        "province": "JE,GB",
+        "population": -1,
+        "latitude": 49.22511,
+        "longitude": -2.12062
+    },
+    {
+        "name": "Vill es Normans",
+        "country": "Jersey",
+        "province": "JE,GB",
+        "population": -1,
+        "latitude": 49.22547,
+        "longitude": -2.10663
+    },
+    {
+        "name": "Trinity Manor",
+        "country": "Jersey",
+        "province": "JE,GB",
+        "population": -1,
+        "latitude": 49.2273,
+        "longitude": -2.10221
+    },
+    {
+        "name": "La Chesnee",
+        "country": "Jersey",
+        "province": "JE,GB",
+        "population": -1,
+        "latitude": 49.22225,
+        "longitude": -2.09491
+    },
+    {
+        "name": "Le Hurrel",
+        "country": "Jersey",
+        "province": "JE,GB",
+        "population": -1,
+        "latitude": 49.21981,
+        "longitude": -2.09401
+    },
+    {
+        "name": "Les Vaux",
+        "country": "Jersey",
+        "province": "JE,GB",
+        "population": -1,
+        "latitude": 49.22242,
+        "longitude": -2.08251
+    },
+    {
+        "name": "Victoria Village",
+        "country": "Jersey",
+        "province": "JE,GB",
+        "population": -1,
+        "latitude": 49.21594,
+        "longitude": -2.082
+    },
+    {
+        "name": "Maufant",
+        "country": "Jersey",
+        "province": "JE,GB",
+        "population": -1,
+        "latitude": 49.2102,
+        "longitude": -2.06582
+    },
+    {
+        "name": "Les Carrieres",
+        "country": "Jersey",
+        "province": "JE,GB",
+        "population": -1,
+        "latitude": 49.21289,
+        "longitude": -2.05813
+    },
+    {
+        "name": "La Robeline",
+        "country": "Jersey",
+        "province": "JE,GB",
+        "population": -1,
+        "latitude": 49.23593,
+        "longitude": -2.22503
+    },
+    {
+        "name": "Millais",
+        "country": "Jersey",
+        "province": "JE,GB",
+        "population": -1,
+        "latitude": 49.24091,
+        "longitude": -2.22271
+    },
+    {
+        "name": "Le Bas de Lecq",
+        "country": "Jersey",
+        "province": "JE,GB",
+        "population": -1,
+        "latitude": 49.24806,
+        "longitude": -2.20885
+    },
+    {
+        "name": "Les Pallieres",
+        "country": "Jersey",
+        "province": "JE,GB",
+        "population": -1,
+        "latitude": 49.24789,
+        "longitude": -2.2319
+    },
+    {
+        "name": "Plemont",
+        "country": "Jersey",
+        "province": "JE,GB",
+        "population": -1,
+        "latitude": 49.25666,
+        "longitude": -2.22761
+    },
+    {
+        "name": "La Saline",
+        "country": "Jersey",
+        "province": "JE,GB",
+        "population": -1,
+        "latitude": 49.23371,
+        "longitude": -2.23885
+    },
+    {
+        "name": "La Porte",
+        "country": "Jersey",
+        "province": "JE,GB",
+        "population": -1,
+        "latitude": 49.23929,
+        "longitude": -2.24185
+    },
+    {
+        "name": "Les Labeurs",
+        "country": "Jersey",
+        "province": "JE,GB",
+        "population": -1,
+        "latitude": 49.22976,
+        "longitude": -2.234
+    },
+    {
+        "name": "La Crabiere",
+        "country": "Jersey",
+        "province": "JE,GB",
+        "population": -1,
+        "latitude": 49.22665,
+        "longitude": -2.23117
+    },
+    {
+        "name": "St Ouen's Village",
+        "country": "Jersey",
+        "province": "JE,GB",
+        "population": -1,
+        "latitude": 49.23282,
+        "longitude": -2.20426
+    },
+    {
+        "name": "St Ouen Town",
+        "country": "Jersey",
+        "province": "JE,GB",
+        "population": -1,
+        "latitude": 49.2345,
+        "longitude": -2.20353
+    },
+    {
+        "name": "Creux Baillot",
+        "country": "Jersey",
+        "province": "JE,GB",
+        "population": -1,
+        "latitude": 49.23492,
+        "longitude": -2.19774
+    },
+    {
+        "name": "Leoville",
+        "country": "Jersey",
+        "province": "JE,GB",
+        "population": -1,
+        "latitude": 49.23828,
+        "longitude": -2.20714
+    },
+    {
+        "name": "La Ville de L'Eglise",
+        "country": "Jersey",
+        "province": "JE,GB",
+        "population": -1,
+        "latitude": 49.22542,
+        "longitude": -2.20842
+    },
+    {
+        "name": "La Caroline",
+        "country": "Jersey",
+        "province": "JE,GB",
+        "population": -1,
+        "latitude": 49.22326,
+        "longitude": -2.20769
+    },
+    {
+        "name": "L'Amiral",
+        "country": "Jersey",
+        "province": "JE,GB",
+        "population": -1,
+        "latitude": 49.22217,
+        "longitude": -2.20563
+    },
+    {
+        "name": "Le Port",
+        "country": "Jersey",
+        "province": "JE,GB",
+        "population": -1,
+        "latitude": 49.20725,
+        "longitude": -2.22314
+    },
+    {
+        "name": "Le Braye",
+        "country": "Jersey",
+        "province": "JE,GB",
+        "population": -1,
+        "latitude": 49.19808,
+        "longitude": -2.22439
+    },
+    {
+        "name": "La Pulente",
+        "country": "Jersey",
+        "province": "JE,GB",
+        "population": -1,
+        "latitude": 49.18765,
+        "longitude": -2.22997
+    },
+    {
+        "name": "Le Grouet",
+        "country": "Jersey",
+        "province": "JE,GB",
+        "population": -1,
+        "latitude": 49.18238,
+        "longitude": -2.24181
+    },
+    {
+        "name": "La Corbiere",
+        "country": "Jersey",
+        "province": "JE,GB",
+        "population": -1,
+        "latitude": 49.18159,
+        "longitude": -2.23722
+    },
+    {
+        "name": "Le Mont es Croix",
+        "country": "Jersey",
+        "province": "JE,GB",
+        "population": -1,
+        "latitude": 49.18218,
+        "longitude": -2.21658
+    },
+    {
+        "name": "St Peters Village",
+        "country": "Jersey",
+        "province": "JE,GB",
+        "population": -1,
+        "latitude": 49.21294,
+        "longitude": -2.18353
+    },
+    {
+        "name": "La Presse",
+        "country": "Jersey",
+        "province": "JE,GB",
+        "population": -1,
+        "latitude": 49.21423,
+        "longitude": -2.19422
+    },
+    {
+        "name": "St Ouen's Manor",
+        "country": "Jersey",
+        "province": "JE,GB",
+        "population": -1,
+        "latitude": 49.22499,
+        "longitude": -2.20014
+    },
+    {
+        "name": "St. Peters Arsenal",
+        "country": "Jersey",
+        "province": "JE,GB",
+        "population": -1,
+        "latitude": 49.20204,
+        "longitude": -2.1822
+    },
+    {
+        "name": "La Fontaine",
+        "country": "Jersey",
+        "province": "JE,GB",
+        "population": -1,
+        "latitude": 49.20742,
+        "longitude": -2.17546
+    },
+    {
+        "name": "La Moye",
+        "country": "Jersey",
+        "province": "JE,GB",
+        "population": -1,
+        "latitude": 49.182222,
+        "longitude": -2.222222
+    },
+    {
+        "name": "Trodez",
+        "country": "Jersey",
+        "province": "JE,GB",
+        "population": -1,
+        "latitude": 49.23892,
+        "longitude": -2.21653
+    },
+    {
+        "name": "St Peter",
+        "country": "Jersey",
+        "province": "JE,GB",
+        "population": -1,
+        "latitude": 49.21479,
+        "longitude": -2.18263
+    }
+]

@@ -1,0 +1,42 @@
+[
+    {
+        "name": "Fale old settlement",
+        "country": "Tokelau",
+        "province": "Fakaofo",
+        "population": 120,
+        "latitude": -9.38515943784413,
+        "longitude": -171.246750354767
+    },
+    {
+        "name": "Nukunonu",
+        "country": "Tokelau",
+        "province": "TK,NZ",
+        "population": 426,
+        "latitude": -9.20045132431936,
+        "longitude": -171.848042607307
+    },
+    {
+        "name": "Atafu",
+        "country": "Tokelau",
+        "province": "TK,NZ",
+        "population": 524,
+        "latitude": -8.54211699094261,
+        "longitude": -172.515907287598
+    },
+    {
+        "name": "Motuhaga",
+        "country": "Tokelau",
+        "province": "Nukunonu",
+        "population": -1,
+        "latitude": -9.20311490291572,
+        "longitude": -171.845907568932
+    },
+    {
+        "name": "Fenua Fala New Settlement",
+        "country": "Tokelau",
+        "province": "Fakaofo",
+        "population": -1,
+        "latitude": -9.37387011216202,
+        "longitude": -171.26536488533
+    }
+]

@@ -1,0 +1,1946 @@
+[
+    {
+        "name": "São Tomé",
+        "country": "São Tomé and Príncipe",
+        "province": "São Tomé Island",
+        "population": 53300,
+        "latitude": 0.33654019435135585,
+        "longitude": 6.727323532104492
+    },
+    {
+        "name": "Santo António",
+        "country": "São Tomé and Príncipe",
+        "province": "Príncipe",
+        "population": 1156,
+        "latitude": 1.63943,
+        "longitude": 7.41951
+    },
+    {
+        "name": "Porto Alegre",
+        "country": "São Tomé and Príncipe",
+        "province": "São Tomé Island",
+        "population": -1,
+        "latitude": 0.0333333,
+        "longitude": 6.5333333
+    },
+    {
+        "name": "Ponta Figo",
+        "country": "São Tomé and Príncipe",
+        "province": "São Tomé Island",
+        "population": -1,
+        "latitude": 0.35,
+        "longitude": 6.55
+    },
+    {
+        "name": "N’zumbi",
+        "country": "São Tomé and Príncipe",
+        "province": "São Tomé Island",
+        "population": -1,
+        "latitude": 0.066667,
+        "longitude": 6.55
+    },
+    {
+        "name": "Nova Estrela",
+        "country": "São Tomé and Príncipe",
+        "province": "Príncipe",
+        "population": -1,
+        "latitude": 1.61864,
+        "longitude": 7.43144
+    },
+    {
+        "name": "Neves Ferreira",
+        "country": "São Tomé and Príncipe",
+        "province": "Príncipe",
+        "population": -1,
+        "latitude": 1.54944,
+        "longitude": 7.39719
+    },
+    {
+        "name": "Neves",
+        "country": "São Tomé and Príncipe",
+        "province": "São Tomé Island",
+        "population": -1,
+        "latitude": 0.3567100369308036,
+        "longitude": 6.548967361450195
+    },
+    {
+        "name": "Monte Rosa",
+        "country": "São Tomé and Príncipe",
+        "province": "São Tomé Island",
+        "population": -1,
+        "latitude": 0.1333333,
+        "longitude": 6.5166667
+    },
+    {
+        "name": "M. Alice",
+        "country": "São Tomé and Príncipe",
+        "province": "São Tomé Island",
+        "population": -1,
+        "latitude": 0.0666667,
+        "longitude": 6.5333333
+    },
+    {
+        "name": "Madalena",
+        "country": "São Tomé and Príncipe",
+        "province": "São Tomé Island",
+        "population": -1,
+        "latitude": 0.3333333,
+        "longitude": 6.6666667
+    },
+    {
+        "name": "Lemos",
+        "country": "São Tomé and Príncipe",
+        "province": "São Tomé Island",
+        "population": -1,
+        "latitude": 0.3,
+        "longitude": 6.7
+    },
+    {
+        "name": "Java",
+        "country": "São Tomé and Príncipe",
+        "province": "São Tomé Island",
+        "population": -1,
+        "latitude": 0.2666667,
+        "longitude": 6.65
+    },
+    {
+        "name": "Henrique",
+        "country": "São Tomé and Príncipe",
+        "province": "São Tomé Island",
+        "population": -1,
+        "latitude": 0.05,
+        "longitude": 6.55
+    },
+    {
+        "name": "Graça",
+        "country": "São Tomé and Príncipe",
+        "province": "São Tomé Island",
+        "population": -1,
+        "latitude": 0.3,
+        "longitude": 6.65
+    },
+    {
+        "name": "Enjale",
+        "country": "São Tomé and Príncipe",
+        "province": "São Tomé Island",
+        "population": -1,
+        "latitude": 0.0333333,
+        "longitude": 6.5166667
+    },
+    {
+        "name": "Dona Eugénia",
+        "country": "São Tomé and Príncipe",
+        "province": "São Tomé Island",
+        "population": -1,
+        "latitude": 0.1333333,
+        "longitude": 6.6166667
+    },
+    {
+        "name": "Dona Augusta",
+        "country": "São Tomé and Príncipe",
+        "province": "São Tomé Island",
+        "population": -1,
+        "latitude": 0.1166667,
+        "longitude": 6.6333333
+    },
+    {
+        "name": "Cantagalo",
+        "country": "São Tomé and Príncipe",
+        "province": "São Tomé Island",
+        "population": -1,
+        "latitude": 0.2166667,
+        "longitude": 6.6833333
+    },
+    {
+        "name": "Caixão Grande",
+        "country": "São Tomé and Príncipe",
+        "province": "São Tomé Island",
+        "population": -1,
+        "latitude": 0.3,
+        "longitude": 6.7166667
+    },
+    {
+        "name": "Bombom",
+        "country": "São Tomé and Príncipe",
+        "province": "Príncipe",
+        "population": -1,
+        "latitude": 0.31075,
+        "longitude": 6.72816
+    },
+    {
+        "name": "Bombaim",
+        "country": "São Tomé and Príncipe",
+        "province": "São Tomé Island",
+        "population": -1,
+        "latitude": 0.25,
+        "longitude": 6.6333333
+    },
+    {
+        "name": "Blublu",
+        "country": "São Tomé and Príncipe",
+        "province": "São Tomé Island",
+        "population": -1,
+        "latitude": 0.3166667,
+        "longitude": 6.7166667
+    },
+    {
+        "name": "Água Izé",
+        "country": "São Tomé and Príncipe",
+        "province": "São Tomé Island",
+        "population": -1,
+        "latitude": 0.2166667,
+        "longitude": 6.7333333
+    },
+    {
+        "name": "Água-Côco",
+        "country": "São Tomé and Príncipe",
+        "province": "São Tomé Island",
+        "population": -1,
+        "latitude": 0.05,
+        "longitude": 6.5333333
+    },
+    {
+        "name": "Santo Amaro",
+        "country": "São Tomé and Príncipe",
+        "province": "São Tomé Island",
+        "population": -1,
+        "latitude": 0.3666667,
+        "longitude": 6.7
+    },
+    {
+        "name": "Santana",
+        "country": "São Tomé and Príncipe",
+        "province": "São Tomé Island",
+        "population": -1,
+        "latitude": 0.254229665040475,
+        "longitude": 6.74139976501465
+    },
+    {
+        "name": "Santa Josefina",
+        "country": "São Tomé and Príncipe",
+        "province": "São Tomé Island",
+        "population": -1,
+        "latitude": 0.0666667,
+        "longitude": 6.5333333
+    },
+    {
+        "name": "Santa Cruz",
+        "country": "São Tomé and Príncipe",
+        "province": "São Tomé Island",
+        "population": -1,
+        "latitude": 0.3333333,
+        "longitude": 6.6666667
+    },
+    {
+        "name": "Santa Clotilde",
+        "country": "São Tomé and Príncipe",
+        "province": "São Tomé Island",
+        "population": -1,
+        "latitude": 0.25,
+        "longitude": 6.7
+    },
+    {
+        "name": "Santa Catarina",
+        "country": "São Tomé and Príncipe",
+        "province": "São Tomé Island",
+        "population": -1,
+        "latitude": 0.27156728153348564,
+        "longitude": 6.472406387329102
+    },
+    {
+        "name": "Folha Fede",
+        "country": "São Tomé and Príncipe",
+        "province": "São Tomé Island",
+        "population": -1,
+        "latitude": 0.284,
+        "longitude": 6.684
+    },
+    {
+        "name": "Almeirim",
+        "country": "São Tomé and Príncipe",
+        "province": "São Tomé Island",
+        "population": -1,
+        "latitude": 0.31666,
+        "longitude": 6.71666
+    },
+    {
+        "name": "Micolo",
+        "country": "São Tomé and Príncipe",
+        "province": "São Tomé Island",
+        "population": -1,
+        "latitude": 0.40314,
+        "longitude": 6.68857
+    },
+    {
+        "name": "Riboque Santana",
+        "country": "São Tomé and Príncipe",
+        "province": "São Tomé Island",
+        "population": -1,
+        "latitude": 0.2474524,
+        "longitude": 6.7368994
+    },
+    {
+        "name": "Guadalupe",
+        "country": "São Tomé and Príncipe",
+        "province": "São Tomé Island",
+        "population": -1,
+        "latitude": 0.379167,
+        "longitude": 6.6375
+    },
+    {
+        "name": "Trindade",
+        "country": "São Tomé and Príncipe",
+        "province": "São Tomé Island",
+        "population": -1,
+        "latitude": 0.296667,
+        "longitude": 6.681389
+    },
+    {
+        "name": "São José Picaté",
+        "country": "São Tomé and Príncipe",
+        "province": "Príncipe",
+        "population": -1,
+        "latitude": 1.6349,
+        "longitude": 7.39805
+    },
+    {
+        "name": "São João dos Angolares",
+        "country": "São Tomé and Príncipe",
+        "province": "São Tomé Island",
+        "population": -1,
+        "latitude": 0.134167,
+        "longitude": 6.649444
+    },
+    {
+        "name": "Ribeira Afonso",
+        "country": "São Tomé and Príncipe",
+        "province": "São Tomé Island",
+        "population": -1,
+        "latitude": 0.2,
+        "longitude": 6.7166667
+    },
+    {
+        "name": "São Marçal",
+        "country": "São Tomé and Príncipe",
+        "province": "São Tomé Island",
+        "population": -1,
+        "latitude": 0.3191651,
+        "longitude": 6.7260763
+    },
+    {
+        "name": "Agua Porca",
+        "country": "São Tomé and Príncipe",
+        "province": "São Tomé Island",
+        "population": -1,
+        "latitude": 0.3308583333333333,
+        "longitude": 6.710575
+    },
+    {
+        "name": "Riboque",
+        "country": "São Tomé and Príncipe",
+        "province": "São Tomé Island",
+        "population": -1,
+        "latitude": 0.335246,
+        "longitude": 6.723183
+    },
+    {
+        "name": "Quimpo",
+        "country": "São Tomé and Príncipe",
+        "province": "São Tomé Island",
+        "population": -1,
+        "latitude": 0.25,
+        "longitude": 6.7166667
+    },
+    {
+        "name": "Ponta Furada",
+        "country": "São Tomé and Príncipe",
+        "province": "São Tomé Island",
+        "population": -1,
+        "latitude": 0.2333333,
+        "longitude": 6.4833333
+    },
+    {
+        "name": "Novo Brasil",
+        "country": "São Tomé and Príncipe",
+        "province": "São Tomé Island",
+        "population": -1,
+        "latitude": 0.0833333,
+        "longitude": 6.5666667
+    },
+    {
+        "name": "Nova Moca",
+        "country": "São Tomé and Príncipe",
+        "province": "São Tomé Island",
+        "population": -1,
+        "latitude": 0.2833333,
+        "longitude": 6.6333333
+    },
+    {
+        "name": "N. Ceilão",
+        "country": "São Tomé and Príncipe",
+        "province": "São Tomé Island",
+        "population": -1,
+        "latitude": 0.2833333,
+        "longitude": 6.6
+    },
+    {
+        "name": "Mantero",
+        "country": "São Tomé and Príncipe",
+        "province": "Príncipe",
+        "population": -1,
+        "latitude": 1.59881,
+        "longitude": 7.3532
+    },
+    {
+        "name": "Macambrará",
+        "country": "São Tomé and Príncipe",
+        "province": "São Tomé Island",
+        "population": -1,
+        "latitude": 0.2666667,
+        "longitude": 6.6333333
+    },
+    {
+        "name": "Guegue Novo",
+        "country": "São Tomé and Príncipe",
+        "province": "São Tomé Island",
+        "population": -1,
+        "latitude": 0.2666667,
+        "longitude": 6.7166667
+    },
+    {
+        "name": "Buenos Aires",
+        "country": "São Tomé and Príncipe",
+        "province": "São Tomé Island",
+        "population": -1,
+        "latitude": 0.2666667,
+        "longitude": 6.7166667
+    },
+    {
+        "name": "Anselmo de Andrade",
+        "country": "São Tomé and Príncipe",
+        "province": "Príncipe",
+        "population": -1,
+        "latitude": 1.60432,
+        "longitude": 7.36579
+    },
+    {
+        "name": "Trás os Montes",
+        "country": "São Tomé and Príncipe",
+        "province": "São Tomé Island",
+        "population": -1,
+        "latitude": 0.266667,
+        "longitude": 6.616667
+    },
+    {
+        "name": "São Manuel",
+        "country": "São Tomé and Príncipe",
+        "province": "São Tomé Island",
+        "population": -1,
+        "latitude": 0.2666667,
+        "longitude": 6.4833333
+    },
+    {
+        "name": "São Luís",
+        "country": "São Tomé and Príncipe",
+        "province": "São Tomé Island",
+        "population": -1,
+        "latitude": 0.3,
+        "longitude": 6.6166667
+    },
+    {
+        "name": "São Jorge",
+        "country": "São Tomé and Príncipe",
+        "province": "Príncipe",
+        "population": -1,
+        "latitude": 1.66467,
+        "longitude": 7.40234
+    },
+    {
+        "name": "São Jerónimo",
+        "country": "São Tomé and Príncipe",
+        "province": "Príncipe",
+        "population": -1,
+        "latitude": 1.67316,
+        "longitude": 7.37685
+    },
+    {
+        "name": "São Jerónimo",
+        "country": "São Tomé and Príncipe",
+        "province": "São Tomé Island",
+        "population": -1,
+        "latitude": 0.2,
+        "longitude": 6.6833333
+    },
+    {
+        "name": "Santa Trindade",
+        "country": "São Tomé and Príncipe",
+        "province": "Príncipe",
+        "population": -1,
+        "latitude": 1.61965,
+        "longitude": 7.39129
+    },
+    {
+        "name": "Santa Elvira",
+        "country": "São Tomé and Príncipe",
+        "province": "São Tomé Island",
+        "population": -1,
+        "latitude": 0.2666667,
+        "longitude": 6.65
+    },
+    {
+        "name": "Rosema",
+        "country": "São Tomé and Príncipe",
+        "province": "São Tomé Island",
+        "population": -1,
+        "latitude": 0.35,
+        "longitude": 6.5666667
+    },
+    {
+        "name": "Quinas",
+        "country": "São Tomé and Príncipe",
+        "province": "São Tomé Island",
+        "population": -1,
+        "latitude": 0.2666667,
+        "longitude": 6.6
+    },
+    {
+        "name": "Queluz",
+        "country": "São Tomé and Príncipe",
+        "province": "São Tomé Island",
+        "population": -1,
+        "latitude": 0.3333333,
+        "longitude": 6.65
+    },
+    {
+        "name": "Praia Inhame",
+        "country": "São Tomé and Príncipe",
+        "province": "Príncipe",
+        "population": -1,
+        "latitude": 1.66289,
+        "longitude": 7.42787
+    },
+    {
+        "name": "Praia Grande",
+        "country": "São Tomé and Príncipe",
+        "province": "São Tomé Island",
+        "population": -1,
+        "latitude": 0.0833333,
+        "longitude": 6.5833333
+    },
+    {
+        "name": "Praia das Conchas",
+        "country": "São Tomé and Príncipe",
+        "province": "São Tomé Island",
+        "population": -1,
+        "latitude": 0.3833333,
+        "longitude": 6.6166667
+    },
+    {
+        "name": "Praia da Rosema",
+        "country": "São Tomé and Príncipe",
+        "province": "São Tomé Island",
+        "population": -1,
+        "latitude": 0.35696,
+        "longitude": 6.55911
+    },
+    {
+        "name": "Portinho",
+        "country": "São Tomé and Príncipe",
+        "province": "São Tomé Island",
+        "population": -1,
+        "latitude": 0.0833333,
+        "longitude": 6.5333333
+    },
+    {
+        "name": "Ponta Forte",
+        "country": "São Tomé and Príncipe",
+        "province": "Príncipe",
+        "population": -1,
+        "latitude": 1.6593,
+        "longitude": 7.42189
+    },
+    {
+        "name": "Ponta do Sol",
+        "country": "São Tomé and Príncipe",
+        "province": "Príncipe",
+        "population": -1,
+        "latitude": 1.64961,
+        "longitude": 7.38075
+    },
+    {
+        "name": "Poiso Alto",
+        "country": "São Tomé and Príncipe",
+        "province": "São Tomé Island",
+        "population": -1,
+        "latitude": 0.3333333,
+        "longitude": 6.6166667
+    },
+    {
+        "name": "Platô Café",
+        "country": "São Tomé and Príncipe",
+        "province": "São Tomé Island",
+        "population": -1,
+        "latitude": 0.2666667,
+        "longitude": 6.6666667
+    },
+    {
+        "name": "Planca Segunda",
+        "country": "São Tomé and Príncipe",
+        "province": "São Tomé Island",
+        "population": -1,
+        "latitude": 0.4,
+        "longitude": 6.6166667
+    },
+    {
+        "name": "Plancas",
+        "country": "São Tomé and Príncipe",
+        "province": "São Tomé Island",
+        "population": -1,
+        "latitude": 0.3666667,
+        "longitude": 6.6
+    },
+    {
+        "name": "Planca Primeira",
+        "country": "São Tomé and Príncipe",
+        "province": "São Tomé Island",
+        "population": -1,
+        "latitude": 0.4,
+        "longitude": 6.6
+    },
+    {
+        "name": "Pinheira",
+        "country": "São Tomé and Príncipe",
+        "province": "São Tomé Island",
+        "population": -1,
+        "latitude": 0.2833333,
+        "longitude": 6.7166667
+    },
+    {
+        "name": "Piedade",
+        "country": "São Tomé and Príncipe",
+        "province": "Príncipe",
+        "population": -1,
+        "latitude": 1.63485,
+        "longitude": 7.43736
+    },
+    {
+        "name": "Perseverança",
+        "country": "São Tomé and Príncipe",
+        "province": "São Tomé Island",
+        "population": -1,
+        "latitude": 0.0833333,
+        "longitude": 6.6166667
+    },
+    {
+        "name": "Periquito",
+        "country": "São Tomé and Príncipe",
+        "province": "Príncipe",
+        "population": -1,
+        "latitude": 1.60634,
+        "longitude": 7.42128
+    },
+    {
+        "name": "Paufita",
+        "country": "São Tomé and Príncipe",
+        "province": "Príncipe",
+        "population": -1,
+        "latitude": 1.67846,
+        "longitude": 7.41255
+    },
+    {
+        "name": "Pau Cavalo",
+        "country": "São Tomé and Príncipe",
+        "province": "Príncipe",
+        "population": -1,
+        "latitude": 1.64167,
+        "longitude": 7.37981
+    },
+    {
+        "name": "Paris",
+        "country": "São Tomé and Príncipe",
+        "province": "São Tomé Island",
+        "population": -1,
+        "latitude": 0.3333333,
+        "longitude": 6.6833333
+    },
+    {
+        "name": "Paciencia",
+        "country": "São Tomé and Príncipe",
+        "province": "Príncipe",
+        "population": -1,
+        "latitude": 1.67156,
+        "longitude": 7.43205
+    },
+    {
+        "name": "Oquê Três",
+        "country": "São Tomé and Príncipe",
+        "province": "Príncipe",
+        "population": -1,
+        "latitude": 1.64335,
+        "longitude": 7.40067
+    },
+    {
+        "name": "Oquê Rosário",
+        "country": "São Tomé and Príncipe",
+        "province": "Príncipe",
+        "population": -1,
+        "latitude": 1.64532,
+        "longitude": 7.41603
+    },
+    {
+        "name": "Oquê Gaspar",
+        "country": "São Tomé and Príncipe",
+        "province": "Príncipe",
+        "population": -1,
+        "latitude": 1.64691,
+        "longitude": 7.41247
+    },
+    {
+        "name": "Novo Destino",
+        "country": "São Tomé and Príncipe",
+        "province": "São Tomé Island",
+        "population": -1,
+        "latitude": 0.3166667,
+        "longitude": 6.6333333
+    },
+    {
+        "name": "Nova Olinda",
+        "country": "São Tomé and Príncipe",
+        "province": "São Tomé Island",
+        "population": -1,
+        "latitude": 0.25,
+        "longitude": 6.7333333
+    },
+    {
+        "name": "Nova Cuba",
+        "country": "São Tomé and Príncipe",
+        "province": "Príncipe",
+        "population": -1,
+        "latitude": 1.63904,
+        "longitude": 7.40813
+    },
+    {
+        "name": "Nitreira",
+        "country": "São Tomé and Príncipe",
+        "province": "Príncipe",
+        "population": -1,
+        "latitude": 1.60748,
+        "longitude": 7.41723
+    },
+    {
+        "name": "Nazaré",
+        "country": "São Tomé and Príncipe",
+        "province": "São Tomé Island",
+        "population": -1,
+        "latitude": 0.3666667,
+        "longitude": 6.7166667
+    },
+    {
+        "name": "M. Vilela",
+        "country": "São Tomé and Príncipe",
+        "province": "São Tomé Island",
+        "population": -1,
+        "latitude": 0.2833333,
+        "longitude": 6.5666667
+    },
+    {
+        "name": "Mulondo",
+        "country": "São Tomé and Príncipe",
+        "province": "São Tomé Island",
+        "population": -1,
+        "latitude": 0.3,
+        "longitude": 6.5166667
+    },
+    {
+        "name": "M. Peixe",
+        "country": "São Tomé and Príncipe",
+        "province": "São Tomé Island",
+        "population": -1,
+        "latitude": 0.4,
+        "longitude": 6.65
+    },
+    {
+        "name": "Morro Vigia",
+        "country": "São Tomé and Príncipe",
+        "province": "São Tomé Island",
+        "population": -1,
+        "latitude": 0.3333333,
+        "longitude": 6.6
+    },
+    {
+        "name": "Montes Hermínios",
+        "country": "São Tomé and Príncipe",
+        "province": "São Tomé Island",
+        "population": -1,
+        "latitude": 0.25,
+        "longitude": 6.7
+    },
+    {
+        "name": "Monte Raul",
+        "country": "São Tomé and Príncipe",
+        "province": "São Tomé Island",
+        "population": -1,
+        "latitude": 0.2166667,
+        "longitude": 6.6833333
+    },
+    {
+        "name": "Monte Pedra",
+        "country": "São Tomé and Príncipe",
+        "province": "Príncipe",
+        "population": -1,
+        "latitude": 1.61503,
+        "longitude": 7.4282
+    },
+    {
+        "name": "Monteforte",
+        "country": "São Tomé and Príncipe",
+        "province": "São Tomé Island",
+        "population": -1,
+        "latitude": 0.3333333,
+        "longitude": 6.5333333
+    },
+    {
+        "name": "Monte Carmo",
+        "country": "São Tomé and Príncipe",
+        "province": "São Tomé Island",
+        "population": -1,
+        "latitude": 0.3333333,
+        "longitude": 6.6
+    },
+    {
+        "name": "Monte Carmo",
+        "country": "São Tomé and Príncipe",
+        "province": "São Tomé Island",
+        "population": -1,
+        "latitude": 0.3,
+        "longitude": 6.5
+    },
+    {
+        "name": "Monte Carmo",
+        "country": "São Tomé and Príncipe",
+        "province": "São Tomé Island",
+        "population": -1,
+        "latitude": 0.15,
+        "longitude": 6.5833333
+    },
+    {
+        "name": "Monte Café",
+        "country": "São Tomé and Príncipe",
+        "province": "São Tomé Island",
+        "population": -1,
+        "latitude": 0.3,
+        "longitude": 6.65
+    },
+    {
+        "name": "Montebelo",
+        "country": "São Tomé and Príncipe",
+        "province": "São Tomé Island",
+        "population": -1,
+        "latitude": 0.2166667,
+        "longitude": 6.7166667
+    },
+    {
+        "name": "Montalvão",
+        "country": "São Tomé and Príncipe",
+        "province": "Príncipe",
+        "population": -1,
+        "latitude": 1.66557,
+        "longitude": 7.41358
+    },
+    {
+        "name": "Montalegre",
+        "country": "São Tomé and Príncipe",
+        "province": "Príncipe",
+        "population": -1,
+        "latitude": 1.63318,
+        "longitude": 7.38861
+    },
+    {
+        "name": "Mirante",
+        "country": "São Tomé and Príncipe",
+        "province": "São Tomé Island",
+        "population": -1,
+        "latitude": 0.3333333,
+        "longitude": 6.6
+    },
+    {
+        "name": "Mirante",
+        "country": "São Tomé and Príncipe",
+        "province": "São Tomé Island",
+        "population": -1,
+        "latitude": 0.25,
+        "longitude": 6.5166667
+    },
+    {
+        "name": "Milagrosa",
+        "country": "São Tomé and Príncipe",
+        "province": "São Tomé Island",
+        "population": -1,
+        "latitude": 0.27959,
+        "longitude": 6.66029
+    },
+    {
+        "name": "Matocana",
+        "country": "São Tomé and Príncipe",
+        "province": "São Tomé Island",
+        "population": -1,
+        "latitude": 0.2333333,
+        "longitude": 6.7
+    },
+    {
+        "name": "Máquina",
+        "country": "São Tomé and Príncipe",
+        "province": "Príncipe",
+        "population": -1,
+        "latitude": 1.63541,
+        "longitude": 7.38127
+    },
+    {
+        "name": "Manuel Gomes",
+        "country": "São Tomé and Príncipe",
+        "province": "Príncipe",
+        "population": -1,
+        "latitude": 1.63266,
+        "longitude": 7.38303
+    },
+    {
+        "name": "Lembá",
+        "country": "São Tomé and Príncipe",
+        "province": "São Tomé Island",
+        "population": -1,
+        "latitude": 0.25,
+        "longitude": 6.4666667
+    },
+    {
+        "name": "Laura",
+        "country": "São Tomé and Príncipe",
+        "province": "São Tomé Island",
+        "population": -1,
+        "latitude": 0.2833333,
+        "longitude": 6.7
+    },
+    {
+        "name": "Iola",
+        "country": "São Tomé and Príncipe",
+        "province": "Príncipe",
+        "population": -1,
+        "latitude": 1.64094,
+        "longitude": 7.37303
+    },
+    {
+        "name": "Ió Grande",
+        "country": "São Tomé and Príncipe",
+        "province": "São Tomé Island",
+        "population": -1,
+        "latitude": 0.2166667,
+        "longitude": 6.6166667
+    },
+    {
+        "name": "Infante Dom Henrique",
+        "country": "São Tomé and Príncipe",
+        "province": "Príncipe",
+        "population": -1,
+        "latitude": 1.5675,
+        "longitude": 7.41219
+    },
+    {
+        "name": "Gumbela",
+        "country": "São Tomé and Príncipe",
+        "province": "São Tomé Island",
+        "population": -1,
+        "latitude": 0.0833333,
+        "longitude": 6.55
+    },
+    {
+        "name": "Guayaquil",
+        "country": "São Tomé and Príncipe",
+        "province": "São Tomé Island",
+        "population": -1,
+        "latitude": 0.2,
+        "longitude": 6.6166667
+    },
+    {
+        "name": "Guarda",
+        "country": "São Tomé and Príncipe",
+        "province": "São Tomé Island",
+        "population": -1,
+        "latitude": 0.35,
+        "longitude": 6.6
+    },
+    {
+        "name": "Gratidão",
+        "country": "São Tomé and Príncipe",
+        "province": "São Tomé Island",
+        "population": -1,
+        "latitude": 0.3333333,
+        "longitude": 6.6833333
+    },
+    {
+        "name": "Granja",
+        "country": "São Tomé and Príncipe",
+        "province": "São Tomé Island",
+        "population": -1,
+        "latitude": 0.15,
+        "longitude": 6.6333333
+    },
+    {
+        "name": "Graça",
+        "country": "São Tomé and Príncipe",
+        "province": "São Tomé Island",
+        "population": -1,
+        "latitude": 0.25,
+        "longitude": 6.4833333
+    },
+    {
+        "name": "Germinia Antónia",
+        "country": "São Tomé and Príncipe",
+        "province": "Príncipe",
+        "population": -1,
+        "latitude": 1.63661,
+        "longitude": 7.37795
+    },
+    {
+        "name": "General Fonseca",
+        "country": "São Tomé and Príncipe",
+        "province": "Príncipe",
+        "population": -1,
+        "latitude": 1.57106,
+        "longitude": 7.42568
+    },
+    {
+        "name": "Futuro",
+        "country": "São Tomé and Príncipe",
+        "province": "Príncipe",
+        "population": -1,
+        "latitude": 1.67355,
+        "longitude": 7.4271
+    },
+    {
+        "name": "Formiga",
+        "country": "São Tomé and Príncipe",
+        "province": "São Tomé Island",
+        "population": -1,
+        "latitude": 0.25,
+        "longitude": 6.4833333
+    },
+    {
+        "name": "F. Mantero",
+        "country": "São Tomé and Príncipe",
+        "province": "São Tomé Island",
+        "population": -1,
+        "latitude": 0.25,
+        "longitude": 6.7166667
+    },
+    {
+        "name": "Fernão Dias",
+        "country": "São Tomé and Príncipe",
+        "province": "São Tomé Island",
+        "population": -1,
+        "latitude": 0.4166667,
+        "longitude": 6.6833333
+    },
+    {
+        "name": "Esprainha",
+        "country": "São Tomé and Príncipe",
+        "province": "São Tomé Island",
+        "population": -1,
+        "latitude": 0.3333333,
+        "longitude": 6.5166667
+    },
+    {
+        "name": "Esperança",
+        "country": "São Tomé and Príncipe",
+        "province": "Príncipe",
+        "population": -1,
+        "latitude": 1.62363,
+        "longitude": 7.405
+    },
+    {
+        "name": "Ermelinda",
+        "country": "São Tomé and Príncipe",
+        "province": "São Tomé Island",
+        "population": -1,
+        "latitude": 0.1333333,
+        "longitude": 6.5833333
+    },
+    {
+        "name": "Diogo Vaz",
+        "country": "São Tomé and Príncipe",
+        "province": "São Tomé Island",
+        "population": -1,
+        "latitude": 0.3166667,
+        "longitude": 6.5
+    },
+    {
+        "name": "Diana",
+        "country": "São Tomé and Príncipe",
+        "province": "São Tomé Island",
+        "population": -1,
+        "latitude": 0.3333333,
+        "longitude": 6.6833333
+    },
+    {
+        "name": "Costa e Silva",
+        "country": "São Tomé and Príncipe",
+        "province": "Príncipe",
+        "population": -1,
+        "latitude": 1.55955,
+        "longitude": 7.34789
+    },
+    {
+        "name": "Colónia Açoreana",
+        "country": "São Tomé and Príncipe",
+        "province": "São Tomé Island",
+        "population": -1,
+        "latitude": 0.1833333,
+        "longitude": 6.6833333
+    },
+    {
+        "name": "Chamiço",
+        "country": "São Tomé and Príncipe",
+        "province": "São Tomé Island",
+        "population": -1,
+        "latitude": 0.3166667,
+        "longitude": 6.6
+    },
+    {
+        "name": "Catumbela",
+        "country": "São Tomé and Príncipe",
+        "province": "São Tomé Island",
+        "population": -1,
+        "latitude": 0.25,
+        "longitude": 6.6666667
+    },
+    {
+        "name": "Cascalheira",
+        "country": "São Tomé and Príncipe",
+        "province": "Príncipe",
+        "population": -1,
+        "latitude": 1.68232,
+        "longitude": 7.41498
+    },
+    {
+        "name": "Caridade",
+        "country": "São Tomé and Príncipe",
+        "province": "São Tomé Island",
+        "population": -1,
+        "latitude": 0.2,
+        "longitude": 6.7
+    },
+    {
+        "name": "Canavial",
+        "country": "São Tomé and Príncipe",
+        "province": "São Tomé Island",
+        "population": -1,
+        "latitude": 0.3833333,
+        "longitude": 6.6666667
+    },
+    {
+        "name": "Campainha",
+        "country": "São Tomé and Príncipe",
+        "province": "Príncipe",
+        "population": -1,
+        "latitude": 1.68075,
+        "longitude": 7.42908
+    },
+    {
+        "name": "Caldeiras",
+        "country": "São Tomé and Príncipe",
+        "province": "São Tomé Island",
+        "population": -1,
+        "latitude": 0.35,
+        "longitude": 6.6333333
+    },
+    {
+        "name": "Cadão",
+        "country": "São Tomé and Príncipe",
+        "province": "São Tomé Island",
+        "population": -1,
+        "latitude": 0.3333333,
+        "longitude": 6.5333333
+    },
+    {
+        "name": "Bombon",
+        "country": "São Tomé and Príncipe",
+        "province": "São Tomé Island",
+        "population": -1,
+        "latitude": 0.3166667,
+        "longitude": 6.7333333
+    },
+    {
+        "name": "Boa Esperança",
+        "country": "São Tomé and Príncipe",
+        "province": "São Tomé Island",
+        "population": -1,
+        "latitude": 0.3333333,
+        "longitude": 6.6333333
+    },
+    {
+        "name": "Boa Entrada",
+        "country": "São Tomé and Príncipe",
+        "province": "São Tomé Island",
+        "population": -1,
+        "latitude": 0.35,
+        "longitude": 6.6666667
+    },
+    {
+        "name": "Bindá",
+        "country": "São Tomé and Príncipe",
+        "province": "São Tomé Island",
+        "population": -1,
+        "latitude": 0.2166667,
+        "longitude": 6.4666667
+    },
+    {
+        "name": "B. Faro",
+        "country": "São Tomé and Príncipe",
+        "province": "São Tomé Island",
+        "population": -1,
+        "latitude": 0.2333333,
+        "longitude": 6.6666667
+    },
+    {
+        "name": "Bemposta",
+        "country": "São Tomé and Príncipe",
+        "province": "São Tomé Island",
+        "population": -1,
+        "latitude": 0.3166667,
+        "longitude": 6.6333333
+    },
+    {
+        "name": "Bemfica",
+        "country": "São Tomé and Príncipe",
+        "province": "São Tomé Island",
+        "population": -1,
+        "latitude": 0.3166667,
+        "longitude": 6.65
+    },
+    {
+        "name": "Belo Monte",
+        "country": "São Tomé and Príncipe",
+        "province": "Príncipe",
+        "population": -1,
+        "latitude": 1.67909,
+        "longitude": 7.44133
+    },
+    {
+        "name": "Belmonte",
+        "country": "São Tomé and Príncipe",
+        "province": "São Tomé Island",
+        "population": -1,
+        "latitude": 0.3333333,
+        "longitude": 6.65
+    },
+    {
+        "name": "Bela Vista",
+        "country": "São Tomé and Príncipe",
+        "province": "Príncipe",
+        "population": -1,
+        "latitude": 1.61779,
+        "longitude": 7.4135
+    },
+    {
+        "name": "Bela Vista",
+        "country": "São Tomé and Príncipe",
+        "province": "São Tomé Island",
+        "population": -1,
+        "latitude": 0.3666667,
+        "longitude": 6.7
+    },
+    {
+        "name": "Babudo",
+        "country": "São Tomé and Príncipe",
+        "province": "Príncipe",
+        "population": -1,
+        "latitude": 1.64112,
+        "longitude": 7.40251
+    },
+    {
+        "name": "Atalaia",
+        "country": "São Tomé and Príncipe",
+        "province": "Príncipe",
+        "population": -1,
+        "latitude": 1.61763,
+        "longitude": 7.44686
+    },
+    {
+        "name": "António Dias",
+        "country": "São Tomé and Príncipe",
+        "province": "São Tomé Island",
+        "population": -1,
+        "latitude": 0.2,
+        "longitude": 6.6666667
+    },
+    {
+        "name": "Amparo II",
+        "country": "São Tomé and Príncipe",
+        "province": "São Tomé Island",
+        "population": -1,
+        "latitude": 0.3166667,
+        "longitude": 6.7166667
+    },
+    {
+        "name": "Amparo",
+        "country": "São Tomé and Príncipe",
+        "province": "São Tomé Island",
+        "population": -1,
+        "latitude": 0.1833333,
+        "longitude": 6.6666667
+    },
+    {
+        "name": "Alto Douro",
+        "country": "São Tomé and Príncipe",
+        "province": "São Tomé Island",
+        "population": -1,
+        "latitude": 0.2,
+        "longitude": 6.7166667
+    },
+    {
+        "name": "Alto Douro",
+        "country": "São Tomé and Príncipe",
+        "province": "São Tomé Island",
+        "population": -1,
+        "latitude": 0.05,
+        "longitude": 6.5333333
+    },
+    {
+        "name": "Abade",
+        "country": "São Tomé and Príncipe",
+        "province": "Príncipe",
+        "population": -1,
+        "latitude": 1.6248,
+        "longitude": 7.45712
+    },
+    {
+        "name": "A. Andrade",
+        "country": "São Tomé and Príncipe",
+        "province": "São Tomé Island",
+        "population": -1,
+        "latitude": 0.2333333,
+        "longitude": 6.7
+    },
+    {
+        "name": "Vista Alegre",
+        "country": "São Tomé and Príncipe",
+        "province": "São Tomé Island",
+        "population": -1,
+        "latitude": 0.3166667,
+        "longitude": 6.6833333
+    },
+    {
+        "name": "Vila Verde",
+        "country": "São Tomé and Príncipe",
+        "province": "São Tomé Island",
+        "population": -1,
+        "latitude": 0.1333333,
+        "longitude": 6.55
+    },
+    {
+        "name": "Vila Sara",
+        "country": "São Tomé and Príncipe",
+        "province": "São Tomé Island",
+        "population": -1,
+        "latitude": 0.3333333,
+        "longitude": 6.5833333
+    },
+    {
+        "name": "Vila Rosa",
+        "country": "São Tomé and Príncipe",
+        "province": "Príncipe",
+        "population": -1,
+        "latitude": 1.67462,
+        "longitude": 7.42182
+    },
+    {
+        "name": "Vila Moura",
+        "country": "São Tomé and Príncipe",
+        "province": "São Tomé Island",
+        "population": -1,
+        "latitude": 0.3,
+        "longitude": 6.6833333
+    },
+    {
+        "name": "Vila Conceição",
+        "country": "São Tomé and Príncipe",
+        "province": "São Tomé Island",
+        "population": -1,
+        "latitude": 0.05,
+        "longitude": 6.5666667
+    },
+    {
+        "name": "Val Carmo",
+        "country": "São Tomé and Príncipe",
+        "province": "São Tomé Island",
+        "population": -1,
+        "latitude": 0.1666667,
+        "longitude": 6.6333333
+    },
+    {
+        "name": "Urzelina",
+        "country": "São Tomé and Príncipe",
+        "province": "São Tomé Island",
+        "population": -1,
+        "latitude": 0.1833333,
+        "longitude": 6.6833333
+    },
+    {
+        "name": "Ubabudo",
+        "country": "São Tomé and Príncipe",
+        "province": "São Tomé Island",
+        "population": -1,
+        "latitude": 0.2666667,
+        "longitude": 6.75
+    },
+    {
+        "name": "Uba",
+        "country": "São Tomé and Príncipe",
+        "province": "Príncipe",
+        "population": -1,
+        "latitude": 1.63022,
+        "longitude": 7.37908
+    },
+    {
+        "name": "Triunfo",
+        "country": "São Tomé and Príncipe",
+        "province": "São Tomé Island",
+        "population": -1,
+        "latitude": 0.4,
+        "longitude": 6.6833333
+    },
+    {
+        "name": "Terra Firme",
+        "country": "São Tomé and Príncipe",
+        "province": "Príncipe",
+        "population": -1,
+        "latitude": 1.67762,
+        "longitude": 7.46036
+    },
+    {
+        "name": "Sundi",
+        "country": "São Tomé and Príncipe",
+        "province": "Príncipe",
+        "population": -1,
+        "latitude": 1.66829,
+        "longitude": 7.3835
+    },
+    {
+        "name": "Soledade",
+        "country": "São Tomé and Príncipe",
+        "province": "São Tomé Island",
+        "population": -1,
+        "latitude": 0.1333333,
+        "longitude": 6.65
+    },
+    {
+        "name": "Sequeira",
+        "country": "São Tomé and Príncipe",
+        "province": "Príncipe",
+        "population": -1,
+        "latitude": 1.63777,
+        "longitude": 7.3801
+    },
+    {
+        "name": "Saudade",
+        "country": "São Tomé and Príncipe",
+        "province": "São Tomé Island",
+        "population": -1,
+        "latitude": 0.2833333,
+        "longitude": 6.6333333
+    },
+    {
+        "name": "São Pedro",
+        "country": "São Tomé and Príncipe",
+        "province": "São Tomé Island",
+        "population": -1,
+        "latitude": 0.2833333,
+        "longitude": 6.7
+    },
+    {
+        "name": "São Paulo",
+        "country": "São Tomé and Príncipe",
+        "province": "São Tomé Island",
+        "population": -1,
+        "latitude": 0.2,
+        "longitude": 6.65
+    },
+    {
+        "name": "São Nicolau",
+        "country": "São Tomé and Príncipe",
+        "province": "São Tomé Island",
+        "population": -1,
+        "latitude": 0.2833333,
+        "longitude": 6.6333333
+    },
+    {
+        "name": "São Miguel",
+        "country": "São Tomé and Príncipe",
+        "province": "São Tomé Island",
+        "population": -1,
+        "latitude": 0.1333333,
+        "longitude": 6.5
+    },
+    {
+        "name": "São Mateus",
+        "country": "São Tomé and Príncipe",
+        "province": "Príncipe",
+        "population": -1,
+        "latitude": 1.63262,
+        "longitude": 7.40259
+    },
+    {
+        "name": "São José",
+        "country": "São Tomé and Príncipe",
+        "province": "São Tomé Island",
+        "population": -1,
+        "latitude": 0.2166667,
+        "longitude": 6.5
+    },
+    {
+        "name": "São José",
+        "country": "São Tomé and Príncipe",
+        "province": "São Tomé Island",
+        "population": -1,
+        "latitude": 0.1166667,
+        "longitude": 6.6
+    },
+    {
+        "name": "São Joaquim",
+        "country": "São Tomé and Príncipe",
+        "province": "Príncipe",
+        "population": -1,
+        "latitude": 1.62059,
+        "longitude": 7.37704
+    },
+    {
+        "name": "São João",
+        "country": "São Tomé and Príncipe",
+        "province": "Príncipe",
+        "population": -1,
+        "latitude": 1.64403,
+        "longitude": 7.43118
+    },
+    {
+        "name": "São João",
+        "country": "São Tomé and Príncipe",
+        "province": "São Tomé Island",
+        "population": -1,
+        "latitude": 0.25,
+        "longitude": 6.4833333
+    },
+    {
+        "name": "São João",
+        "country": "São Tomé and Príncipe",
+        "province": "São Tomé Island",
+        "population": -1,
+        "latitude": 0.0833333,
+        "longitude": 6.55
+    },
+    {
+        "name": "São Januário",
+        "country": "São Tomé and Príncipe",
+        "province": "São Tomé Island",
+        "population": -1,
+        "latitude": 0.25,
+        "longitude": 6.6666667
+    },
+    {
+        "name": "São Francisco",
+        "country": "São Tomé and Príncipe",
+        "province": "São Tomé Island",
+        "population": -1,
+        "latitude": 0.3166667,
+        "longitude": 6.65
+    },
+    {
+        "name": "São Francisco",
+        "country": "São Tomé and Príncipe",
+        "province": "São Tomé Island",
+        "population": -1,
+        "latitude": 0.2,
+        "longitude": 6.65
+    },
+    {
+        "name": "São Carlos do Fundão",
+        "country": "São Tomé and Príncipe",
+        "province": "Príncipe",
+        "population": -1,
+        "latitude": 1.6083,
+        "longitude": 7.38552
+    },
+    {
+        "name": "Santo Cristo",
+        "country": "São Tomé and Príncipe",
+        "province": "Príncipe",
+        "population": -1,
+        "latitude": 1.62493,
+        "longitude": 7.43171
+    },
+    {
+        "name": "Santo António",
+        "country": "São Tomé and Príncipe",
+        "province": "Príncipe",
+        "population": -1,
+        "latitude": 1.64751,
+        "longitude": 7.4232
+    },
+    {
+        "name": "Santo António",
+        "country": "São Tomé and Príncipe",
+        "province": "São Tomé Island",
+        "population": -1,
+        "latitude": 0.2333333,
+        "longitude": 6.7333333
+    },
+    {
+        "name": "Santo André",
+        "country": "São Tomé and Príncipe",
+        "province": "São Tomé Island",
+        "population": -1,
+        "latitude": 0.3333333,
+        "longitude": 6.7
+    },
+    {
+        "name": "Sant’Elmo",
+        "country": "São Tomé and Príncipe",
+        "province": "São Tomé Island",
+        "population": -1,
+        "latitude": 0.216667,
+        "longitude": 6.616667
+    },
+    {
+        "name": "Santa Rita",
+        "country": "São Tomé and Príncipe",
+        "province": "Príncipe",
+        "population": -1,
+        "latitude": 1.67357,
+        "longitude": 7.4112
+    },
+    {
+        "name": "Santarém",
+        "country": "São Tomé and Príncipe",
+        "province": "São Tomé Island",
+        "population": -1,
+        "latitude": 0.35,
+        "longitude": 6.6833333
+    },
+    {
+        "name": "Santana",
+        "country": "São Tomé and Príncipe",
+        "province": "Príncipe",
+        "population": -1,
+        "latitude": 1.66428,
+        "longitude": 7.4371
+    },
+    {
+        "name": "Santa Maria",
+        "country": "São Tomé and Príncipe",
+        "province": "São Tomé Island",
+        "population": -1,
+        "latitude": 0.35,
+        "longitude": 6.6
+    },
+    {
+        "name": "Santa Margarida",
+        "country": "São Tomé and Príncipe",
+        "province": "São Tomé Island",
+        "population": -1,
+        "latitude": 0.3333333,
+        "longitude": 6.6666667
+    },
+    {
+        "name": "Santa Luzia",
+        "country": "São Tomé and Príncipe",
+        "province": "São Tomé Island",
+        "population": -1,
+        "latitude": 0.3666667,
+        "longitude": 6.6333333
+    },
+    {
+        "name": "Santa Joaquina",
+        "country": "São Tomé and Príncipe",
+        "province": "Príncipe",
+        "population": -1,
+        "latitude": 1.61122,
+        "longitude": 7.40388
+    },
+    {
+        "name": "Santa Isabel",
+        "country": "São Tomé and Príncipe",
+        "province": "Príncipe",
+        "population": -1,
+        "latitude": 1.64815,
+        "longitude": 7.41534
+    },
+    {
+        "name": "Santa Irene",
+        "country": "São Tomé and Príncipe",
+        "province": "São Tomé Island",
+        "population": -1,
+        "latitude": 0.2166667,
+        "longitude": 6.5166667
+    },
+    {
+        "name": "Santa Irene",
+        "country": "São Tomé and Príncipe",
+        "province": "São Tomé Island",
+        "population": -1,
+        "latitude": 0.1,
+        "longitude": 6.6
+    },
+    {
+        "name": "Santa Cruz",
+        "country": "São Tomé and Príncipe",
+        "province": "São Tomé Island",
+        "population": -1,
+        "latitude": 0.1333333,
+        "longitude": 6.65
+    },
+    {
+        "name": "Santa Clotilde",
+        "country": "São Tomé and Príncipe",
+        "province": "São Tomé Island",
+        "population": -1,
+        "latitude": 0.3,
+        "longitude": 6.5
+    },
+    {
+        "name": "Santa Clotilde",
+        "country": "São Tomé and Príncipe",
+        "province": "São Tomé Island",
+        "population": -1,
+        "latitude": 0.1166667,
+        "longitude": 6.6
+    },
+    {
+        "name": "Santa Clara",
+        "country": "São Tomé and Príncipe",
+        "province": "São Tomé Island",
+        "population": -1,
+        "latitude": 0.35,
+        "longitude": 6.6166667
+    },
+    {
+        "name": "Santa Cecília",
+        "country": "São Tomé and Príncipe",
+        "province": "São Tomé Island",
+        "population": -1,
+        "latitude": 0.1833333,
+        "longitude": 6.7
+    },
+    {
+        "name": "Santa Adelaide",
+        "country": "São Tomé and Príncipe",
+        "province": "São Tomé Island",
+        "population": -1,
+        "latitude": 0.2666667,
+        "longitude": 6.65
+    },
+    {
+        "name": "Salomão",
+        "country": "São Tomé and Príncipe",
+        "province": "Príncipe",
+        "population": -1,
+        "latitude": 1.63996,
+        "longitude": 7.38843
+    },
+    {
+        "name": "Rio Vouga",
+        "country": "São Tomé and Príncipe",
+        "province": "São Tomé Island",
+        "population": -1,
+        "latitude": 0.3333333,
+        "longitude": 6.7
+    },
+    {
+        "name": "Rio Leça",
+        "country": "São Tomé and Príncipe",
+        "province": "São Tomé Island",
+        "population": -1,
+        "latitude": 0.35,
+        "longitude": 6.55
+    },
+    {
+        "name": "Rio do Ouro",
+        "country": "São Tomé and Príncipe",
+        "province": "São Tomé Island",
+        "population": -1,
+        "latitude": 0.3666667,
+        "longitude": 6.65
+    },
+    {
+        "name": "Rio Ave",
+        "country": "São Tomé and Príncipe",
+        "province": "São Tomé Island",
+        "population": -1,
+        "latitude": 0.2666667,
+        "longitude": 6.5
+    },
+    {
+        "name": "Ribeira Palma",
+        "country": "São Tomé and Príncipe",
+        "province": "São Tomé Island",
+        "population": -1,
+        "latitude": 0.35,
+        "longitude": 6.5833333
+    },
+    {
+        "name": "Ribeira Izé",
+        "country": "São Tomé and Príncipe",
+        "province": "Príncipe",
+        "population": -1,
+        "latitude": 1.68296,
+        "longitude": 7.40052
+    },
+    {
+        "name": "Ribeira Funda",
+        "country": "São Tomé and Príncipe",
+        "province": "São Tomé Island",
+        "population": -1,
+        "latitude": 0.3666667,
+        "longitude": 6.5833333
+    },
+    {
+        "name": "Ribeira Fria",
+        "country": "São Tomé and Príncipe",
+        "province": "Príncipe",
+        "population": -1,
+        "latitude": 1.58899,
+        "longitude": 7.4241
+    },
+    {
+        "name": "Quingué",
+        "country": "São Tomé and Príncipe",
+        "province": "São Tomé Island",
+        "population": -1,
+        "latitude": 0.2833333,
+        "longitude": 6.6666667
+    },
+    {
+        "name": "Porto Algere",
+        "country": "São Tomé and Príncipe",
+        "province": "São Tomé Island",
+        "population": -1,
+        "latitude": 0.03455,
+        "longitude": 6.53352
+    },
+    {
+        "name": "Agua Bobo",
+        "country": "São Tomé and Príncipe",
+        "province": "São Tomé Island",
+        "population": -1,
+        "latitude": 0.32372777,
+        "longitude": 6.72950833
+    },
+    {
+        "name": "Cruzeiro",
+        "country": "São Tomé and Príncipe",
+        "province": "São Tomé Island",
+        "population": -1,
+        "latitude": 0.2903496,
+        "longitude": 6.6781031
+    },
+    {
+        "name": "Vila Maria",
+        "country": "São Tomé and Príncipe",
+        "province": "São Tomé Island",
+        "population": -1,
+        "latitude": 0.331114,
+        "longitude": 6.738865
+    },
+    {
+        "name": "Boa Morte",
+        "country": "São Tomé and Príncipe",
+        "province": "São Tomé Island",
+        "population": -1,
+        "latitude": 0.339912,
+        "longitude": 6.719903
+    },
+    {
+        "name": "Generosa",
+        "country": "São Tomé and Príncipe",
+        "province": "São Tomé Island",
+        "population": -1,
+        "latitude": 0.34737,
+        "longitude": 6.54816
+    },
+    {
+        "name": "Uba Flor",
+        "country": "São Tomé and Príncipe",
+        "province": "São Tomé Island",
+        "population": -1,
+        "latitude": 0.294626,
+        "longitude": 6.678888
+    },
+    {
+        "name": "Conde",
+        "country": "São Tomé and Príncipe",
+        "province": "São Tomé Island",
+        "population": -1,
+        "latitude": 0.376247,
+        "longitude": 6.664217
+    },
+    {
+        "name": "Fundação Popular",
+        "country": "São Tomé and Príncipe",
+        "province": "São Tomé Island",
+        "population": -1,
+        "latitude": 0.3315,
+        "longitude": 6.719698
+    },
+    {
+        "name": "Porto Real",
+        "country": "São Tomé and Príncipe",
+        "province": "Príncipe",
+        "population": -1,
+        "latitude": 1.6247286,
+        "longitude": 7.4014592
+    },
+    {
+        "name": "Roça Agostinho Neto",
+        "country": "São Tomé and Príncipe",
+        "province": "São Tomé Island",
+        "population": -1,
+        "latitude": 0.3674,
+        "longitude": 6.64398
+    },
+    {
+        "name": "Bairro Verde",
+        "country": "São Tomé and Príncipe",
+        "province": "São Tomé Island",
+        "population": -1,
+        "latitude": 0.32446,
+        "longitude": 6.732216
+    },
+    {
+        "name": "Ponte Graça",
+        "country": "São Tomé and Príncipe",
+        "province": "São Tomé Island",
+        "population": -1,
+        "latitude": 0.3378722222222222,
+        "longitude": 6.723397222222222
+    },
+    {
+        "name": "Vila Fernanda",
+        "country": "São Tomé and Príncipe",
+        "province": "São Tomé Island",
+        "population": -1,
+        "latitude": 0.334892,
+        "longitude": 6.722119
+    },
+    {
+        "name": "São Gabriel",
+        "country": "São Tomé and Príncipe",
+        "province": "São Tomé Island",
+        "population": -1,
+        "latitude": 0.3252054,
+        "longitude": 6.7342946
+    },
+    {
+        "name": "Quilombo",
+        "country": "São Tomé and Príncipe",
+        "province": "São Tomé Island",
+        "population": -1,
+        "latitude": 0.3336089,
+        "longitude": 6.7312635
+    }
+]

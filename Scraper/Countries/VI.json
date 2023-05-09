@@ -1,0 +1,1826 @@
+[
+    {
+        "name": "Charlotte Amalie",
+        "country": "U.S. Virgin Islands",
+        "province": "Saint Thomas Island",
+        "population": 20000,
+        "latitude": 18.3419004,
+        "longitude": -64.9307007
+    },
+    {
+        "name": "St Croix",
+        "country": "U.S. Virgin Islands",
+        "province": "Saint Croix Island",
+        "population": 50601,
+        "latitude": 17.72751334486877,
+        "longitude": -64.74698066711426
+    },
+    {
+        "name": "Cruz Bay",
+        "country": "U.S. Virgin Islands",
+        "province": "Saint John Island",
+        "population": 2743,
+        "latitude": 18.331343,
+        "longitude": -64.7937497
+    },
+    {
+        "name": "Christiansted",
+        "country": "U.S. Virgin Islands",
+        "province": "Saint Croix Island",
+        "population": 1866,
+        "latitude": 17.74681,
+        "longitude": -64.70557
+    },
+    {
+        "name": "La Grande Princesse",
+        "country": "U.S. Virgin Islands",
+        "province": "Saint Croix Island",
+        "population": -1,
+        "latitude": 17.7574724,
+        "longitude": -64.7362543
+    },
+    {
+        "name": "Frederiksted",
+        "country": "U.S. Virgin Islands",
+        "province": "Saint Croix Island",
+        "population": -1,
+        "latitude": 17.71233,
+        "longitude": -64.88179
+    },
+    {
+        "name": "Ruan Bay",
+        "country": "U.S. Virgin Islands",
+        "province": "Saint Croix Island",
+        "population": -1,
+        "latitude": 17.6916422,
+        "longitude": -64.8432017
+    },
+    {
+        "name": "St John Island",
+        "country": "U.S. Virgin Islands",
+        "province": "Saint John Island",
+        "population": -1,
+        "latitude": 18.3396764,
+        "longitude": -64.7495816
+    },
+    {
+        "name": "Adelphi",
+        "country": "U.S. Virgin Islands",
+        "province": "Saint Thomas Island",
+        "population": -1,
+        "latitude": 18.3482891,
+        "longitude": -64.9834807
+    },
+    {
+        "name": "Adrian",
+        "country": "U.S. Virgin Islands",
+        "province": "Saint John Island",
+        "population": -1,
+        "latitude": 18.3413429,
+        "longitude": -64.7684711
+    },
+    {
+        "name": "Altona",
+        "country": "U.S. Virgin Islands",
+        "province": "Saint Croix Island",
+        "population": -1,
+        "latitude": 17.7446955,
+        "longitude": -64.6940308
+    },
+    {
+        "name": "Altona",
+        "country": "U.S. Virgin Islands",
+        "province": "Saint Thomas Island",
+        "population": -1,
+        "latitude": 18.3388456,
+        "longitude": -64.9487576
+    },
+    {
+        "name": "Anguilla",
+        "country": "U.S. Virgin Islands",
+        "province": "Saint Croix Island",
+        "population": -1,
+        "latitude": 17.7066414,
+        "longitude": -64.7798676
+    },
+    {
+        "name": "Annaberg",
+        "country": "U.S. Virgin Islands",
+        "province": "Saint Croix Island",
+        "population": -1,
+        "latitude": 17.7116411,
+        "longitude": -64.7743119
+    },
+    {
+        "name": "Annaberg",
+        "country": "U.S. Virgin Islands",
+        "province": "Saint John Island",
+        "population": -1,
+        "latitude": 18.3630089,
+        "longitude": -64.7301369
+    },
+    {
+        "name": "Annaly",
+        "country": "U.S. Virgin Islands",
+        "province": "Saint Croix Island",
+        "population": -1,
+        "latitude": 17.7496954,
+        "longitude": -64.8543126
+    },
+    {
+        "name": "Annas Hope",
+        "country": "U.S. Virgin Islands",
+        "province": "Saint Croix Island",
+        "population": -1,
+        "latitude": 17.728307,
+        "longitude": -64.7287549
+    },
+    {
+        "name": "Barrett",
+        "country": "U.S. Virgin Islands",
+        "province": "Saint Thomas Island",
+        "population": -1,
+        "latitude": 18.3652339,
+        "longitude": -64.9459791
+    },
+    {
+        "name": "Beck Grove",
+        "country": "U.S. Virgin Islands",
+        "province": "Saint Croix Island",
+        "population": -1,
+        "latitude": 17.7252519,
+        "longitude": -64.8501461
+    },
+    {
+        "name": "Beeston Hill",
+        "country": "U.S. Virgin Islands",
+        "province": "Saint Croix Island",
+        "population": -1,
+        "latitude": 17.7381,
+        "longitude": -64.72462
+    },
+    {
+        "name": "Bellevue",
+        "country": "U.S. Virgin Islands",
+        "province": "Saint Croix Island",
+        "population": -1,
+        "latitude": 17.7477506,
+        "longitude": -64.7334767
+    },
+    {
+        "name": "Bellevue",
+        "country": "U.S. Virgin Islands",
+        "province": "Saint Thomas Island",
+        "population": -1,
+        "latitude": 18.325233,
+        "longitude": -64.9204219
+    },
+    {
+        "name": "Belvedere",
+        "country": "U.S. Virgin Islands",
+        "province": "Saint Croix Island",
+        "population": -1,
+        "latitude": 17.776361,
+        "longitude": -64.7987558
+    },
+    {
+        "name": "Benner",
+        "country": "U.S. Virgin Islands",
+        "province": "Saint Thomas Island",
+        "population": -1,
+        "latitude": 18.3221767,
+        "longitude": -64.8618078
+    },
+    {
+        "name": "Bethany",
+        "country": "U.S. Virgin Islands",
+        "province": "Saint John Island",
+        "population": -1,
+        "latitude": 18.3310654,
+        "longitude": -64.7829159
+    },
+    {
+        "name": "Bethlehem Old Work",
+        "country": "U.S. Virgin Islands",
+        "province": "Saint Croix Island",
+        "population": -1,
+        "latitude": 17.7313627,
+        "longitude": -64.7937565
+    },
+    {
+        "name": "Bettys Hope",
+        "country": "U.S. Virgin Islands",
+        "province": "Saint Croix Island",
+        "population": -1,
+        "latitude": 17.6921977,
+        "longitude": -64.8165348
+    },
+    {
+        "name": "Betzys Jewell",
+        "country": "U.S. Virgin Islands",
+        "province": "Saint Croix Island",
+        "population": -1,
+        "latitude": 17.7594172,
+        "longitude": -64.7957005
+    },
+    {
+        "name": "Blessing",
+        "country": "U.S. Virgin Islands",
+        "province": "Saint Croix Island",
+        "population": -1,
+        "latitude": 17.7138632,
+        "longitude": -64.7645895
+    },
+    {
+        "name": "Bodkin",
+        "country": "U.S. Virgin Islands",
+        "province": "Saint Croix Island",
+        "population": -1,
+        "latitude": 17.7513619,
+        "longitude": -64.8415347
+    },
+    {
+        "name": "Bolongo",
+        "country": "U.S. Virgin Islands",
+        "province": "Saint Thomas Island",
+        "population": -1,
+        "latitude": 18.3174545,
+        "longitude": -64.8981983
+    },
+    {
+        "name": "Bonne Esperance",
+        "country": "U.S. Virgin Islands",
+        "province": "Saint Croix Island",
+        "population": -1,
+        "latitude": 17.7433065,
+        "longitude": -64.7693113
+    },
+    {
+        "name": "Bonne Esperance",
+        "country": "U.S. Virgin Islands",
+        "province": "Saint Thomas Island",
+        "population": -1,
+        "latitude": 18.3544001,
+        "longitude": -64.9870917
+    },
+    {
+        "name": "Bordeaux",
+        "country": "U.S. Virgin Islands",
+        "province": "Saint John Island",
+        "population": -1,
+        "latitude": 18.3352322,
+        "longitude": -64.7209698
+    },
+    {
+        "name": "Bovoni",
+        "country": "U.S. Virgin Islands",
+        "province": "Saint Thomas Island",
+        "population": -1,
+        "latitude": 18.3146768,
+        "longitude": -64.8920869
+    },
+    {
+        "name": "Bugbyhole",
+        "country": "U.S. Virgin Islands",
+        "province": "Saint Croix Island",
+        "population": -1,
+        "latitude": 17.7258072,
+        "longitude": -64.7040318
+    },
+    {
+        "name": "Bulows Minde",
+        "country": "U.S. Virgin Islands",
+        "province": "Saint Croix Island",
+        "population": -1,
+        "latitude": 17.740251,
+        "longitude": -64.7281989
+    },
+    {
+        "name": "Butler Bay",
+        "country": "U.S. Virgin Islands",
+        "province": "Saint Croix Island",
+        "population": -1,
+        "latitude": 17.7485842,
+        "longitude": -64.891535
+    },
+    {
+        "name": "Butzberg",
+        "country": "U.S. Virgin Islands",
+        "province": "Saint Croix Island",
+        "population": -1,
+        "latitude": 17.7466399,
+        "longitude": -64.677364
+    },
+    {
+        "name": "Calabash Boom",
+        "country": "U.S. Virgin Islands",
+        "province": "Saint John Island",
+        "population": -1,
+        "latitude": 18.3277325,
+        "longitude": -64.7031916
+    },
+    {
+        "name": "Camporico",
+        "country": "U.S. Virgin Islands",
+        "province": "Saint Croix Island",
+        "population": -1,
+        "latitude": 17.6935867,
+        "longitude": -64.8684797
+    },
+    {
+        "name": "Canaan",
+        "country": "U.S. Virgin Islands",
+        "province": "Saint Croix Island",
+        "population": -1,
+        "latitude": 17.7602505,
+        "longitude": -64.7965339
+    },
+    {
+        "name": "Cane",
+        "country": "U.S. Virgin Islands",
+        "province": "Saint Croix Island",
+        "population": -1,
+        "latitude": 17.704975,
+        "longitude": -64.8454239
+    },
+    {
+        "name": "Cane Valley",
+        "country": "U.S. Virgin Islands",
+        "province": "Saint Croix Island",
+        "population": -1,
+        "latitude": 17.7194189,
+        "longitude": -64.8465349
+    },
+    {
+        "name": "Canebay",
+        "country": "U.S. Virgin Islands",
+        "province": "Saint Croix Island",
+        "population": -1,
+        "latitude": 17.771639,
+        "longitude": -64.810145
+    },
+    {
+        "name": "Carden",
+        "country": "U.S. Virgin Islands",
+        "province": "Saint Croix Island",
+        "population": -1,
+        "latitude": 17.7588621,
+        "longitude": -64.6406964
+    },
+    {
+        "name": "Caret Bay Estate",
+        "country": "U.S. Virgin Islands",
+        "province": "Saint Thomas Island",
+        "population": -1,
+        "latitude": 18.3638447,
+        "longitude": -64.9759801
+    },
+    {
+        "name": "Carlton",
+        "country": "U.S. Virgin Islands",
+        "province": "Saint Croix Island",
+        "population": -1,
+        "latitude": 17.7027529,
+        "longitude": -64.8498684
+    },
+    {
+        "name": "Carolina",
+        "country": "U.S. Virgin Islands",
+        "province": "Saint John Island",
+        "population": -1,
+        "latitude": 18.3471762,
+        "longitude": -64.7215254
+    },
+    {
+        "name": "Castle Coakley",
+        "country": "U.S. Virgin Islands",
+        "province": "Saint Croix Island",
+        "population": -1,
+        "latitude": 17.7233072,
+        "longitude": -64.7454222
+    },
+    {
+        "name": "Catharinas Hope",
+        "country": "U.S. Virgin Islands",
+        "province": "Saint Croix Island",
+        "population": -1,
+        "latitude": 17.7480291,
+        "longitude": -64.6162509
+    },
+    {
+        "name": "Cathrines Rest",
+        "country": "U.S. Virgin Islands",
+        "province": "Saint Croix Island",
+        "population": -1,
+        "latitude": 17.72273,
+        "longitude": -64.71758
+    },
+    {
+        "name": "Clairmont",
+        "country": "U.S. Virgin Islands",
+        "province": "Saint Croix Island",
+        "population": -1,
+        "latitude": 17.7752497,
+        "longitude": -64.7795885
+    },
+    {
+        "name": "Clifton Hill",
+        "country": "U.S. Virgin Islands",
+        "province": "Saint Croix Island",
+        "population": -1,
+        "latitude": 17.7258073,
+        "longitude": -64.7751451
+    },
+    {
+        "name": "Concordia",
+        "country": "U.S. Virgin Islands",
+        "province": "Saint Croix Island",
+        "population": -1,
+        "latitude": 17.6860869,
+        "longitude": -64.8734798
+    },
+    {
+        "name": "Concordia",
+        "country": "U.S. Virgin Islands",
+        "province": "Saint Croix Island",
+        "population": -1,
+        "latitude": 17.7033085,
+        "longitude": -64.8640351
+    },
+    {
+        "name": "Contant",
+        "country": "U.S. Virgin Islands",
+        "province": "Saint Thomas Island",
+        "population": -1,
+        "latitude": 18.3419011,
+        "longitude": -64.9559801
+    },
+    {
+        "name": "Contentment",
+        "country": "U.S. Virgin Islands",
+        "province": "Saint Croix Island",
+        "population": -1,
+        "latitude": 17.7360846,
+        "longitude": -64.7129207
+    },
+    {
+        "name": "Cooper",
+        "country": "U.S. Virgin Islands",
+        "province": "Saint Croix Island",
+        "population": -1,
+        "latitude": 17.6946975,
+        "longitude": -64.8098681
+    },
+    {
+        "name": "Coral Bay",
+        "country": "U.S. Virgin Islands",
+        "province": "Saint John Island",
+        "population": -1,
+        "latitude": 18.3480095,
+        "longitude": -64.713192
+    },
+    {
+        "name": "Cotton Grove",
+        "country": "U.S. Virgin Islands",
+        "province": "Saint Croix Island",
+        "population": -1,
+        "latitude": 17.7321961,
+        "longitude": -64.6365298
+    },
+    {
+        "name": "Cotton Valley",
+        "country": "U.S. Virgin Islands",
+        "province": "Saint Croix Island",
+        "population": -1,
+        "latitude": 17.750529,
+        "longitude": -64.6198622
+    },
+    {
+        "name": "Diamond",
+        "country": "U.S. Virgin Islands",
+        "province": "Saint Croix Island",
+        "population": -1,
+        "latitude": 17.7033084,
+        "longitude": -64.8254237
+    },
+    {
+        "name": "Diamond Keturah",
+        "country": "U.S. Virgin Islands",
+        "province": "Saint Croix Island",
+        "population": -1,
+        "latitude": 17.7046968,
+        "longitude": -64.7137551
+    },
+    {
+        "name": "Donoe",
+        "country": "U.S. Virgin Islands",
+        "province": "Saint Thomas Island",
+        "population": -1,
+        "latitude": 18.336621,
+        "longitude": -64.8976428
+    },
+    {
+        "name": "Dorothea",
+        "country": "U.S. Virgin Islands",
+        "province": "Saint Thomas Island",
+        "population": -1,
+        "latitude": 18.3585675,
+        "longitude": -64.9618132
+    },
+    {
+        "name": "East End",
+        "country": "U.S. Virgin Islands",
+        "province": "Saint John Island",
+        "population": -1,
+        "latitude": 18.3396767,
+        "longitude": -64.67458
+    },
+    {
+        "name": "Emmaus",
+        "country": "U.S. Virgin Islands",
+        "province": "Saint John Island",
+        "population": -1,
+        "latitude": 18.3480095,
+        "longitude": -64.7179143
+    },
+    {
+        "name": "Enighed",
+        "country": "U.S. Virgin Islands",
+        "province": "Saint John Island",
+        "population": -1,
+        "latitude": 18.3282876,
+        "longitude": -64.7915273
+    },
+    {
+        "name": "Enighed",
+        "country": "U.S. Virgin Islands",
+        "province": "Saint Thomas Island",
+        "population": -1,
+        "latitude": 18.3632885,
+        "longitude": -64.9226442
+    },
+    {
+        "name": "Ensomned",
+        "country": "U.S. Virgin Islands",
+        "province": "Saint Thomas Island",
+        "population": -1,
+        "latitude": 18.3680117,
+        "longitude": -64.9523681
+    },
+    {
+        "name": "Envy",
+        "country": "U.S. Virgin Islands",
+        "province": "Saint Croix Island",
+        "population": -1,
+        "latitude": 17.6994195,
+        "longitude": -64.8029235
+    },
+    {
+        "name": "Estate Thomas",
+        "country": "U.S. Virgin Islands",
+        "province": "Saint Thomas Island",
+        "population": -1,
+        "latitude": 18.3396772,
+        "longitude": -64.910977
+    },
+    {
+        "name": "Fareham",
+        "country": "U.S. Virgin Islands",
+        "province": "Saint Croix Island",
+        "population": -1,
+        "latitude": 17.7155297,
+        "longitude": -64.6704201
+    },
+    {
+        "name": "Fish Bay",
+        "country": "U.S. Virgin Islands",
+        "province": "Saint John Island",
+        "population": -1,
+        "latitude": 18.3221769,
+        "longitude": -64.7662487
+    },
+    {
+        "name": "Coble",
+        "country": "U.S. Virgin Islands",
+        "province": "Saint Croix Island",
+        "population": -1,
+        "latitude": 17.7402513,
+        "longitude": -64.8068122
+    },
+    {
+        "name": "Fort Frederick",
+        "country": "U.S. Virgin Islands",
+        "province": "Saint Croix Island",
+        "population": -1,
+        "latitude": 17.7152523,
+        "longitude": -64.8829241
+    },
+    {
+        "name": "Fountain",
+        "country": "U.S. Virgin Islands",
+        "province": "Saint Croix Island",
+        "population": -1,
+        "latitude": 17.7499731,
+        "longitude": -64.8276457
+    },
+    {
+        "name": "Fredensborg",
+        "country": "U.S. Virgin Islands",
+        "province": "Saint Croix Island",
+        "population": -1,
+        "latitude": 17.7349735,
+        "longitude": -64.7815339
+    },
+    {
+        "name": "Frederiks Haab",
+        "country": "U.S. Virgin Islands",
+        "province": "Saint Croix Island",
+        "population": -1,
+        "latitude": 17.7127524,
+        "longitude": -64.8634796
+    },
+    {
+        "name": "Frenchtown",
+        "country": "U.S. Virgin Islands",
+        "province": "Saint Thomas Island",
+        "population": -1,
+        "latitude": 18.3382897,
+        "longitude": -64.9420904
+    },
+    {
+        "name": "Friedensfeld",
+        "country": "U.S. Virgin Islands",
+        "province": "Saint Croix Island",
+        "population": -1,
+        "latitude": 17.7460843,
+        "longitude": -64.7804227
+    },
+    {
+        "name": "Frydendal",
+        "country": "U.S. Virgin Islands",
+        "province": "Saint Thomas Island",
+        "population": -1,
+        "latitude": 18.3457875,
+        "longitude": -64.8723638
+    },
+    {
+        "name": "Glynn",
+        "country": "U.S. Virgin Islands",
+        "province": "Saint Croix Island",
+        "population": -1,
+        "latitude": 17.7483063,
+        "longitude": -64.7745892
+    },
+    {
+        "name": "Golden Grove",
+        "country": "U.S. Virgin Islands",
+        "province": "Saint Croix Island",
+        "population": -1,
+        "latitude": 17.71553,
+        "longitude": -64.800979
+    },
+    {
+        "name": "Good Hope",
+        "country": "U.S. Virgin Islands",
+        "province": "Saint Croix Island",
+        "population": -1,
+        "latitude": 17.6935866,
+        "longitude": -64.8484796
+    },
+    {
+        "name": "Granard",
+        "country": "U.S. Virgin Islands",
+        "province": "Saint Croix Island",
+        "population": -1,
+        "latitude": 17.7130298,
+        "longitude": -64.7156993
+    },
+    {
+        "name": "Grange",
+        "country": "U.S. Virgin Islands",
+        "province": "Saint Croix Island",
+        "population": -1,
+        "latitude": 17.73123,
+        "longitude": -64.72243
+    },
+    {
+        "name": "Great Pond",
+        "country": "U.S. Virgin Islands",
+        "province": "Saint Croix Island",
+        "population": -1,
+        "latitude": 17.7244184,
+        "longitude": -64.6487528
+    },
+    {
+        "name": "Green Kay",
+        "country": "U.S. Virgin Islands",
+        "province": "Saint Croix Island",
+        "population": -1,
+        "latitude": 17.7585843,
+        "longitude": -64.6540301
+    },
+    {
+        "name": "Grove Place",
+        "country": "U.S. Virgin Islands",
+        "province": "Saint Croix Island",
+        "population": -1,
+        "latitude": 17.7255297,
+        "longitude": -64.8226458
+    },
+    {
+        "name": "Hams Bay",
+        "country": "U.S. Virgin Islands",
+        "province": "Saint Croix Island",
+        "population": -1,
+        "latitude": 17.7655281,
+        "longitude": -64.8807015
+    },
+    {
+        "name": "Hard Labour",
+        "country": "U.S. Virgin Islands",
+        "province": "Saint Croix Island",
+        "population": -1,
+        "latitude": 17.7410846,
+        "longitude": -64.8265346
+    },
+    {
+        "name": "Hermitage",
+        "country": "U.S. Virgin Islands",
+        "province": "Saint Croix Island",
+        "population": -1,
+        "latitude": 17.7494176,
+        "longitude": -64.8045899
+    },
+    {
+        "name": "Hermitage",
+        "country": "U.S. Virgin Islands",
+        "province": "Saint John Island",
+        "population": -1,
+        "latitude": 18.3563426,
+        "longitude": -64.7001362
+    },
+    {
+        "name": "Hesselberg",
+        "country": "U.S. Virgin Islands",
+        "province": "Saint Croix Island",
+        "population": -1,
+        "latitude": 17.6974753,
+        "longitude": -64.8798687
+    },
+    {
+        "name": "Hoffman",
+        "country": "U.S. Virgin Islands",
+        "province": "Saint Thomas Island",
+        "population": -1,
+        "latitude": 18.3335655,
+        "longitude": -64.8948648
+    },
+    {
+        "name": "Hogensborg",
+        "country": "U.S. Virgin Islands",
+        "province": "Saint Croix Island",
+        "population": -1,
+        "latitude": 17.7094193,
+        "longitude": -64.8468128
+    },
+    {
+        "name": "Humbug",
+        "country": "U.S. Virgin Islands",
+        "province": "Saint Croix Island",
+        "population": -1,
+        "latitude": 17.7121966,
+        "longitude": -64.7306998
+    },
+    {
+        "name": "Jealousy",
+        "country": "U.S. Virgin Islands",
+        "province": "Saint Croix Island",
+        "population": -1,
+        "latitude": 17.7355292,
+        "longitude": -64.8037567
+    },
+    {
+        "name": "Jerusalem and Figtree Hill",
+        "country": "U.S. Virgin Islands",
+        "province": "Saint Croix Island",
+        "population": -1,
+        "latitude": 17.7124743,
+        "longitude": -64.7504226
+    },
+    {
+        "name": "John Oley",
+        "country": "U.S. Virgin Islands",
+        "province": "Saint Thomas Island",
+        "population": -1,
+        "latitude": 18.3596776,
+        "longitude": -64.9970918
+    },
+    {
+        "name": "Johns Folly Bay",
+        "country": "U.S. Virgin Islands",
+        "province": "Saint John Island",
+        "population": -1,
+        "latitude": 18.3193995,
+        "longitude": -64.7034693
+    },
+    {
+        "name": "Jolly Hill",
+        "country": "U.S. Virgin Islands",
+        "province": "Saint Croix Island",
+        "population": -1,
+        "latitude": 17.7321961,
+        "longitude": -64.8612572
+    },
+    {
+        "name": "Kingshill",
+        "country": "U.S. Virgin Islands",
+        "province": "Saint Croix Island",
+        "population": -1,
+        "latitude": 17.7230296,
+        "longitude": -64.782923
+    },
+    {
+        "name": "Knight",
+        "country": "U.S. Virgin Islands",
+        "province": "Saint Croix Island",
+        "population": -1,
+        "latitude": 17.7552513,
+        "longitude": -64.5940276
+    },
+    {
+        "name": "L'Esperance",
+        "country": "U.S. Virgin Islands",
+        "province": "Saint John Island",
+        "population": -1,
+        "latitude": 18.3402318,
+        "longitude": -64.7593041
+    },
+    {
+        "name": "La Grange",
+        "country": "U.S. Virgin Islands",
+        "province": "Saint Croix Island",
+        "population": -1,
+        "latitude": 17.7191411,
+        "longitude": -64.8784796
+    },
+    {
+        "name": "La Reine",
+        "country": "U.S. Virgin Islands",
+        "province": "Saint Croix Island",
+        "population": -1,
+        "latitude": 17.7327514,
+        "longitude": -64.7734783
+    },
+    {
+        "name": "La Vallee",
+        "country": "U.S. Virgin Islands",
+        "province": "Saint Croix Island",
+        "population": -1,
+        "latitude": 17.7777778,
+        "longitude": -64.8030556
+    },
+    {
+        "name": "Lameshur",
+        "country": "U.S. Virgin Islands",
+        "province": "Saint John Island",
+        "population": -1,
+        "latitude": 18.3205105,
+        "longitude": -64.7245809
+    },
+    {
+        "name": "Laprey Valley",
+        "country": "U.S. Virgin Islands",
+        "province": "Saint Croix Island",
+        "population": -1,
+        "latitude": 17.7263627,
+        "longitude": -64.6862536
+    },
+    {
+        "name": "Leinster Bay",
+        "country": "U.S. Virgin Islands",
+        "province": "Saint John Island",
+        "population": -1,
+        "latitude": 18.3632868,
+        "longitude": -64.7204144
+    },
+    {
+        "name": "Lerkenlund",
+        "country": "U.S. Virgin Islands",
+        "province": "Saint Thomas Island",
+        "population": -1,
+        "latitude": 18.3602339,
+        "longitude": -64.9401456
+    },
+    {
+        "name": "Libanon Hill",
+        "country": "U.S. Virgin Islands",
+        "province": "Saint Croix Island",
+        "population": -1,
+        "latitude": 17.7544173,
+        "longitude": -64.7854226
+    },
+    {
+        "name": "Lilliendahl",
+        "country": "U.S. Virgin Islands",
+        "province": "Saint Thomas Island",
+        "population": -1,
+        "latitude": 18.3544012,
+        "longitude": -64.952091
+    },
+    {
+        "name": "Limetree",
+        "country": "U.S. Virgin Islands",
+        "province": "Saint Croix Island",
+        "population": -1,
+        "latitude": 17.7369178,
+        "longitude": -64.7643113
+    },
+    {
+        "name": "Little Fountain",
+        "country": "U.S. Virgin Islands",
+        "province": "Saint Croix Island",
+        "population": -1,
+        "latitude": 17.7516397,
+        "longitude": -64.7937563
+    },
+    {
+        "name": "Longford",
+        "country": "U.S. Virgin Islands",
+        "province": "Saint Croix Island",
+        "population": -1,
+        "latitude": 17.7160853,
+        "longitude": -64.6948653
+    },
+    {
+        "name": "Louisenhoj",
+        "country": "U.S. Virgin Islands",
+        "province": "Saint Thomas Island",
+        "population": -1,
+        "latitude": 18.3510668,
+        "longitude": -64.924867
+    },
+    {
+        "name": "Lovenlund",
+        "country": "U.S. Virgin Islands",
+        "province": "Saint Thomas Island",
+        "population": -1,
+        "latitude": 18.3591214,
+        "longitude": -64.9109768
+    },
+    {
+        "name": "Lower Love",
+        "country": "U.S. Virgin Islands",
+        "province": "Saint Croix Island",
+        "population": -1,
+        "latitude": 17.7221965,
+        "longitude": -64.8076457
+    },
+    {
+        "name": "Lowrys Hill",
+        "country": "U.S. Virgin Islands",
+        "province": "Saint Croix Island",
+        "population": -1,
+        "latitude": 17.7391402,
+        "longitude": -64.6723641
+    },
+    {
+        "name": "Madame Carty",
+        "country": "U.S. Virgin Islands",
+        "province": "Saint Croix Island",
+        "population": -1,
+        "latitude": 17.7360849,
+        "longitude": -64.6170844
+    },
+    {
+        "name": "Mafolie",
+        "country": "U.S. Virgin Islands",
+        "province": "Saint Thomas Island",
+        "population": -1,
+        "latitude": 18.3524559,
+        "longitude": -64.931534
+    },
+    {
+        "name": "Mariendal",
+        "country": "U.S. Virgin Islands",
+        "province": "Saint Thomas Island",
+        "population": -1,
+        "latitude": 18.3277322,
+        "longitude": -64.8815308
+    },
+    {
+        "name": "Mary Point",
+        "country": "U.S. Virgin Islands",
+        "province": "Saint John Island",
+        "population": -1,
+        "latitude": 18.365231,
+        "longitude": -64.7418038
+    },
+    {
+        "name": "Misgen",
+        "country": "U.S. Virgin Islands",
+        "province": "Saint Thomas Island",
+        "population": -1,
+        "latitude": 18.3544004,
+        "longitude": -64.9318118
+    },
+    {
+        "name": "Mollendal",
+        "country": "U.S. Virgin Islands",
+        "province": "Saint John Island",
+        "population": -1,
+        "latitude": 18.3291212,
+        "longitude": -64.751526
+    },
+    {
+        "name": "Mon Bijou",
+        "country": "U.S. Virgin Islands",
+        "province": "Saint Croix Island",
+        "population": -1,
+        "latitude": 17.7483065,
+        "longitude": -64.7887563
+    },
+    {
+        "name": "Monte",
+        "country": "U.S. Virgin Islands",
+        "province": "Saint John Island",
+        "population": -1,
+        "latitude": 18.3207879,
+        "longitude": -64.7762491
+    },
+    {
+        "name": "Montpellier",
+        "country": "U.S. Virgin Islands",
+        "province": "Saint Croix Island",
+        "population": -1,
+        "latitude": 17.7388624,
+        "longitude": -64.8423682
+    },
+    {
+        "name": "Morningstar",
+        "country": "U.S. Virgin Islands",
+        "province": "Saint Croix Island",
+        "population": -1,
+        "latitude": 17.7583058,
+        "longitude": -64.7612552
+    },
+    {
+        "name": "Mount Pleasant",
+        "country": "U.S. Virgin Islands",
+        "province": "Saint Croix Island",
+        "population": -1,
+        "latitude": 17.7458066,
+        "longitude": -64.800701
+    },
+    {
+        "name": "Mount Pleasant",
+        "country": "U.S. Virgin Islands",
+        "province": "Saint John Island",
+        "population": -1,
+        "latitude": 18.355787,
+        "longitude": -64.7365258
+    },
+    {
+        "name": "Munster",
+        "country": "U.S. Virgin Islands",
+        "province": "Saint Croix Island",
+        "population": -1,
+        "latitude": 17.7230295,
+        "longitude": -64.6879204
+    },
+    {
+        "name": "Nadir",
+        "country": "U.S. Virgin Islands",
+        "province": "Saint Thomas Island",
+        "population": -1,
+        "latitude": 18.3221767,
+        "longitude": -64.8781974
+    },
+    {
+        "name": "Nazareth",
+        "country": "U.S. Virgin Islands",
+        "province": "Saint Thomas Island",
+        "population": -1,
+        "latitude": 18.3207879,
+        "longitude": -64.8548631
+    },
+    {
+        "name": "Negro Bay",
+        "country": "U.S. Virgin Islands",
+        "province": "Saint Croix Island",
+        "population": -1,
+        "latitude": 17.7080303,
+        "longitude": -64.807368
+    },
+    {
+        "name": "Neltjeberg",
+        "country": "U.S. Virgin Islands",
+        "province": "Saint Thomas Island",
+        "population": -1,
+        "latitude": 18.366067,
+        "longitude": -64.9729243
+    },
+    {
+        "name": "Nicholas",
+        "country": "U.S. Virgin Islands",
+        "province": "Saint Croix Island",
+        "population": -1,
+        "latitude": 17.7530285,
+        "longitude": -64.8720905
+    },
+    {
+        "name": "North Side",
+        "country": "U.S. Virgin Islands",
+        "province": "Saint Croix Island",
+        "population": -1,
+        "latitude": 17.7585839,
+        "longitude": -64.8882016
+    },
+    {
+        "name": "North Star",
+        "country": "U.S. Virgin Islands",
+        "province": "Saint Croix Island",
+        "population": -1,
+        "latitude": 17.7680281,
+        "longitude": -64.8184785
+    },
+    {
+        "name": "Nugent",
+        "country": "U.S. Virgin Islands",
+        "province": "Saint Croix Island",
+        "population": -1,
+        "latitude": 17.7171964,
+        "longitude": -64.6773648
+    },
+    {
+        "name": "Orange Grove",
+        "country": "U.S. Virgin Islands",
+        "province": "Saint Croix Island",
+        "population": -1,
+        "latitude": 17.7455286,
+        "longitude": -64.7193095
+    },
+    {
+        "name": "Orangegrove",
+        "country": "U.S. Virgin Islands",
+        "province": "Saint Croix Island",
+        "population": -1,
+        "latitude": 17.7371959,
+        "longitude": -64.8520905
+    },
+    {
+        "name": "Oxford",
+        "country": "U.S. Virgin Islands",
+        "province": "Saint Croix Island",
+        "population": -1,
+        "latitude": 17.7391402,
+        "longitude": -64.8609794
+    },
+    {
+        "name": "Palestina",
+        "country": "U.S. Virgin Islands",
+        "province": "Saint John Island",
+        "population": -1,
+        "latitude": 18.3488428,
+        "longitude": -64.7068029
+    },
+    {
+        "name": "Paradise",
+        "country": "U.S. Virgin Islands",
+        "province": "Saint Croix Island",
+        "population": -1,
+        "latitude": 17.7044194,
+        "longitude": -64.8148681
+    },
+    {
+        "name": "Parasol",
+        "country": "U.S. Virgin Islands",
+        "province": "Saint Croix Island",
+        "population": -1,
+        "latitude": 17.7538618,
+        "longitude": -64.8170899
+    },
+    {
+        "name": "Pearl",
+        "country": "U.S. Virgin Islands",
+        "province": "Saint Croix Island",
+        "population": -1,
+        "latitude": 17.716363,
+        "longitude": -64.7337554
+    },
+    {
+        "name": "Pearson Gardens",
+        "country": "U.S. Virgin Islands",
+        "province": "Saint Thomas Island",
+        "population": -1,
+        "latitude": 18.340233,
+        "longitude": -64.9181997
+    },
+    {
+        "name": "Peterborg",
+        "country": "U.S. Virgin Islands",
+        "province": "Saint Thomas Island",
+        "population": -1,
+        "latitude": 18.3716217,
+        "longitude": -64.9254219
+    },
+    {
+        "name": "Peters Rest",
+        "country": "U.S. Virgin Islands",
+        "province": "Saint Croix Island",
+        "population": -1,
+        "latitude": 17.72551,
+        "longitude": -64.74054
+    },
+    {
+        "name": "Petronella",
+        "country": "U.S. Virgin Islands",
+        "province": "Saint Croix Island",
+        "population": -1,
+        "latitude": 17.7274738,
+        "longitude": -64.6679198
+    },
+    {
+        "name": "Pleasant Vale",
+        "country": "U.S. Virgin Islands",
+        "province": "Saint Croix Island",
+        "population": -1,
+        "latitude": 17.7491398,
+        "longitude": -64.8612571
+    },
+    {
+        "name": "Plessen",
+        "country": "U.S. Virgin Islands",
+        "province": "Saint Croix Island",
+        "population": -1,
+        "latitude": 17.7166411,
+        "longitude": -64.8204236
+    },
+    {
+        "name": "Profit",
+        "country": "U.S. Virgin Islands",
+        "province": "Saint Croix Island",
+        "population": -1,
+        "latitude": 17.7171965,
+        "longitude": -64.780423
+    },
+    {
+        "name": "Prosperity",
+        "country": "U.S. Virgin Islands",
+        "province": "Saint Croix Island",
+        "population": -1,
+        "latitude": 17.7260852,
+        "longitude": -64.8820907
+    },
+    {
+        "name": "Punch",
+        "country": "U.S. Virgin Islands",
+        "province": "Saint Croix Island",
+        "population": -1,
+        "latitude": 17.7421957,
+        "longitude": -64.8682016
+    },
+    {
+        "name": "Raphune",
+        "country": "U.S. Virgin Islands",
+        "province": "Saint Thomas Island",
+        "population": -1,
+        "latitude": 18.3343993,
+        "longitude": -64.9090323
+    },
+    {
+        "name": "Rattan and Belvedere",
+        "country": "U.S. Virgin Islands",
+        "province": "Saint Croix Island",
+        "population": -1,
+        "latitude": 17.7519171,
+        "longitude": -64.7526441
+    },
+    {
+        "name": "Recovery Hill",
+        "country": "U.S. Virgin Islands",
+        "province": "Saint Croix Island",
+        "population": -1,
+        "latitude": 17.7363623,
+        "longitude": -64.6979201
+    },
+    {
+        "name": "Reef Bay",
+        "country": "U.S. Virgin Islands",
+        "province": "Saint John Island",
+        "population": -1,
+        "latitude": 18.329399,
+        "longitude": -64.7379146
+    },
+    {
+        "name": "Resolution",
+        "country": "U.S. Virgin Islands",
+        "province": "Saint Thomas Island",
+        "population": -1,
+        "latitude": 18.3544011,
+        "longitude": -64.9565355
+    },
+    {
+        "name": "Richmond",
+        "country": "U.S. Virgin Islands",
+        "province": "Saint Croix Island",
+        "population": -1,
+        "latitude": 17.7452508,
+        "longitude": -64.7159761
+    },
+    {
+        "name": "Robe Hill",
+        "country": "U.S. Virgin Islands",
+        "province": "Saint Croix Island",
+        "population": -1,
+        "latitude": 17.7149746,
+        "longitude": -64.8512573
+    },
+    {
+        "name": "Rosendal",
+        "country": "U.S. Virgin Islands",
+        "province": "Saint Thomas Island",
+        "population": -1,
+        "latitude": 18.3521772,
+        "longitude": -64.9120881
+    },
+    {
+        "name": "Ruby",
+        "country": "U.S. Virgin Islands",
+        "province": "Saint Croix Island",
+        "population": -1,
+        "latitude": 17.7369178,
+        "longitude": -64.7548667
+    },
+    {
+        "name": "Ryan",
+        "country": "U.S. Virgin Islands",
+        "province": "Saint Croix Island",
+        "population": -1,
+        "latitude": 17.7280293,
+        "longitude": -64.6829201
+    },
+    {
+        "name": "Saint John",
+        "country": "U.S. Virgin Islands",
+        "province": "Saint Croix Island",
+        "population": -1,
+        "latitude": 17.7635832,
+        "longitude": -64.7470878
+    },
+    {
+        "name": "Saint Peter",
+        "country": "U.S. Virgin Islands",
+        "province": "Saint Croix Island",
+        "population": -1,
+        "latitude": 17.7419178,
+        "longitude": -64.6926421
+    },
+    {
+        "name": "Sallys Fancy",
+        "country": "U.S. Virgin Islands",
+        "province": "Saint Croix Island",
+        "population": -1,
+        "latitude": 17.735807,
+        "longitude": -64.6668085
+    },
+    {
+        "name": "Sandy Point",
+        "country": "U.S. Virgin Islands",
+        "province": "Saint Croix Island",
+        "population": -1,
+        "latitude": 17.69192,
+        "longitude": -64.8804242
+    },
+    {
+        "name": "Santa Maria Estate",
+        "country": "U.S. Virgin Islands",
+        "province": "Saint Thomas Island",
+        "population": -1,
+        "latitude": 18.358567,
+        "longitude": -64.9782025
+    },
+    {
+        "name": "Seven Hills",
+        "country": "U.S. Virgin Islands",
+        "province": "Saint Croix Island",
+        "population": -1,
+        "latitude": 17.7458068,
+        "longitude": -64.6512526
+    },
+    {
+        "name": "Shoys",
+        "country": "U.S. Virgin Islands",
+        "province": "Saint Croix Island",
+        "population": -1,
+        "latitude": 17.7552507,
+        "longitude": -64.6823639
+    },
+    {
+        "name": "Sieben",
+        "country": "U.S. Virgin Islands",
+        "province": "Saint John Island",
+        "population": -1,
+        "latitude": 18.3307877,
+        "longitude": -64.7604152
+    },
+    {
+        "name": "Sion Farm",
+        "country": "U.S. Virgin Islands",
+        "province": "Saint Croix Island",
+        "population": -1,
+        "latitude": 17.7324735,
+        "longitude": -64.7431997
+    },
+    {
+        "name": "Slob",
+        "country": "U.S. Virgin Islands",
+        "province": "Saint Croix Island",
+        "population": -1,
+        "latitude": 17.7308071,
+        "longitude": -64.7804229
+    },
+    {
+        "name": "Smithfield",
+        "country": "U.S. Virgin Islands",
+        "province": "Saint Croix Island",
+        "population": -1,
+        "latitude": 17.6996975,
+        "longitude": -64.8804242
+    },
+    {
+        "name": "Solberg",
+        "country": "U.S. Virgin Islands",
+        "province": "Saint Thomas Island",
+        "population": -1,
+        "latitude": 18.3474566,
+        "longitude": -64.9418128
+    },
+    {
+        "name": "Solitude",
+        "country": "U.S. Virgin Islands",
+        "province": "Saint Croix Island",
+        "population": -1,
+        "latitude": 17.7560845,
+        "longitude": -64.6312516
+    },
+    {
+        "name": "Sorgenfri",
+        "country": "U.S. Virgin Islands",
+        "province": "Saint Thomas Island",
+        "population": -1,
+        "latitude": 18.3655112,
+        "longitude": -64.9829246
+    },
+    {
+        "name": "Spanish Town",
+        "country": "U.S. Virgin Islands",
+        "province": "Saint Croix Island",
+        "population": -1,
+        "latitude": 17.7171965,
+        "longitude": -64.7729229
+    },
+    {
+        "name": "Sprat Hall Beach",
+        "country": "U.S. Virgin Islands",
+        "province": "Saint Croix Island",
+        "population": -1,
+        "latitude": 17.7424733,
+        "longitude": -64.8920907
+    },
+    {
+        "name": "Springfield",
+        "country": "U.S. Virgin Islands",
+        "province": "Saint Croix Island",
+        "population": -1,
+        "latitude": 17.731085,
+        "longitude": -64.8320903
+    },
+    {
+        "name": "Strawberry Hill",
+        "country": "U.S. Virgin Islands",
+        "province": "Saint Croix Island",
+        "population": -1,
+        "latitude": 17.7321958,
+        "longitude": -64.760978
+    },
+    {
+        "name": "Sunny Isle",
+        "country": "U.S. Virgin Islands",
+        "province": "Saint Croix Island",
+        "population": -1,
+        "latitude": 17.7269182,
+        "longitude": -64.7484778
+    },
+    {
+        "name": "Susannaberg",
+        "country": "U.S. Virgin Islands",
+        "province": "Saint John Island",
+        "population": -1,
+        "latitude": 18.3413428,
+        "longitude": -64.7729157
+    },
+    {
+        "name": "Teagues Bay",
+        "country": "U.S. Virgin Islands",
+        "province": "Saint Croix Island",
+        "population": -1,
+        "latitude": 17.751918,
+        "longitude": -64.6048615
+    },
+    {
+        "name": "Testman",
+        "country": "U.S. Virgin Islands",
+        "province": "Saint Croix Island",
+        "population": -1,
+        "latitude": 17.7552508,
+        "longitude": -64.6695859
+    },
+    {
+        "name": "Tutu",
+        "country": "U.S. Virgin Islands",
+        "province": "Saint Thomas Island",
+        "population": -1,
+        "latitude": 18.3388432,
+        "longitude": -64.886531
+    },
+    {
+        "name": "Two Brothers",
+        "country": "U.S. Virgin Islands",
+        "province": "Saint Croix Island",
+        "population": -1,
+        "latitude": 17.7063638,
+        "longitude": -64.879313
+    },
+    {
+        "name": "Upper Love",
+        "country": "U.S. Virgin Islands",
+        "province": "Saint Croix Island",
+        "population": -1,
+        "latitude": 17.731085,
+        "longitude": -64.8154234
+    },
+    {
+        "name": "Waldberggaard",
+        "country": "U.S. Virgin Islands",
+        "province": "Saint Croix Island",
+        "population": -1,
+        "latitude": 17.7166412,
+        "longitude": -64.8443127
+    },
+    {
+        "name": "Wheel of Fortune",
+        "country": "U.S. Virgin Islands",
+        "province": "Saint Croix Island",
+        "population": -1,
+        "latitude": 17.712197,
+        "longitude": -64.8709796
+    },
+    {
+        "name": "Whim",
+        "country": "U.S. Virgin Islands",
+        "province": "Saint Croix Island",
+        "population": -1,
+        "latitude": 17.6999752,
+        "longitude": -64.8620907
+    },
+    {
+        "name": "Whites Bay",
+        "country": "U.S. Virgin Islands",
+        "province": "Saint Croix Island",
+        "population": -1,
+        "latitude": 17.6883091,
+        "longitude": -64.8737576
+    },
+    {
+        "name": "William",
+        "country": "U.S. Virgin Islands",
+        "province": "Saint Croix Island",
+        "population": -1,
+        "latitude": 17.7344182,
+        "longitude": -64.8887574
+    },
+    {
+        "name": "Williams Delight",
+        "country": "U.S. Virgin Islands",
+        "province": "Saint Croix Island",
+        "population": -1,
+        "latitude": 17.6999751,
+        "longitude": -64.8354238
+    },
+    {
+        "name": "Windberg",
+        "country": "U.S. Virgin Islands",
+        "province": "Saint John Island",
+        "population": -1,
+        "latitude": 18.356898,
+        "longitude": -64.7404148
+    },
+    {
+        "name": "Windsor",
+        "country": "U.S. Virgin Islands",
+        "province": "Saint Croix Island",
+        "population": -1,
+        "latitude": 17.7585837,
+        "longitude": -64.7737555
+    },
+    {
+        "name": "Zambee",
+        "country": "U.S. Virgin Islands",
+        "province": "Saint Thomas Island",
+        "population": -1,
+        "latitude": 18.3560671,
+        "longitude": -64.9765358
+    },
+    {
+        "name": "Upper Bethlehem",
+        "country": "U.S. Virgin Islands",
+        "province": "Saint Croix Island",
+        "population": -1,
+        "latitude": 17.71553,
+        "longitude": -64.7920899
+    },
+    {
+        "name": "Grove Place",
+        "country": "U.S. Virgin Islands",
+        "province": "Saint Croix Island",
+        "population": -1,
+        "latitude": 17.7227957,
+        "longitude": -64.827664
+    },
+    {
+        "name": "Allandale",
+        "country": "U.S. Virgin Islands",
+        "province": "Saint Croix Island",
+        "population": -1,
+        "latitude": 17.7280296,
+        "longitude": -64.840146
+    },
+    {
+        "name": "Alderhvile (historical)",
+        "country": "U.S. Virgin Islands",
+        "province": "Saint Croix Island",
+        "population": -1,
+        "latitude": 17.7377511,
+        "longitude": -64.7079204
+    },
+    {
+        "name": "Bordeaux (historical)",
+        "country": "U.S. Virgin Islands",
+        "province": "Saint Thomas Island",
+        "population": -1,
+        "latitude": 18.3613443,
+        "longitude": -65.0137595
+    },
+    {
+        "name": "Canaan",
+        "country": "U.S. Virgin Islands",
+        "province": "Saint Thomas Island",
+        "population": -1,
+        "latitude": 18.3571775,
+        "longitude": -64.9206998
+    },
+    {
+        "name": "Concordia",
+        "country": "U.S. Virgin Islands",
+        "province": "Saint Croix Island",
+        "population": -1,
+        "latitude": 17.7574725,
+        "longitude": -64.7687554
+    },
+    {
+        "name": "Concordia",
+        "country": "U.S. Virgin Islands",
+        "province": "Saint John Island",
+        "population": -1,
+        "latitude": 18.310511,
+        "longitude": -64.7065249
+    },
+    {
+        "name": "Contant",
+        "country": "U.S. Virgin Islands",
+        "province": "Saint John Island",
+        "population": -1,
+        "latitude": 18.3255099,
+        "longitude": -64.7923607
+    },
+    {
+        "name": "Diamond",
+        "country": "U.S. Virgin Islands",
+        "province": "Saint Croix Island",
+        "population": -1,
+        "latitude": 17.7305292,
+        "longitude": -64.7540334
+    },
+    {
+        "name": "Fortuna (historical)",
+        "country": "U.S. Virgin Islands",
+        "province": "Saint Thomas Island",
+        "population": -1,
+        "latitude": 18.3530108,
+        "longitude": -65.0054257
+    },
+    {
+        "name": "Fredensdal",
+        "country": "U.S. Virgin Islands",
+        "province": "Saint Croix Island",
+        "population": -1,
+        "latitude": 17.7399732,
+        "longitude": -64.7120872
+    },
+    {
+        "name": "Fredriksdal",
+        "country": "U.S. Virgin Islands",
+        "province": "Saint John Island",
+        "population": -1,
+        "latitude": 18.3596757,
+        "longitude": -64.7362481
+    },
+    {
+        "name": "Hope",
+        "country": "U.S. Virgin Islands",
+        "province": "Saint Croix Island",
+        "population": -1,
+        "latitude": 17.7146966,
+        "longitude": -64.7579227
+    },
+    {
+        "name": "Hope",
+        "country": "U.S. Virgin Islands",
+        "province": "Saint Croix Island",
+        "population": -1,
+        "latitude": 17.7185856,
+        "longitude": -64.8357015
+    },
+    {
+        "name": "Mandal",
+        "country": "U.S. Virgin Islands",
+        "province": "Saint John Island",
+        "population": -1,
+        "latitude": 18.3132886,
+        "longitude": -64.711525
+    },
+    {
+        "name": "Mandal",
+        "country": "U.S. Virgin Islands",
+        "province": "Saint Thomas Island",
+        "population": -1,
+        "latitude": 18.3555097,
+        "longitude": -64.898476
+    },
+    {
+        "name": "Montpellier",
+        "country": "U.S. Virgin Islands",
+        "province": "Saint Croix Island",
+        "population": -1,
+        "latitude": 17.7608056,
+        "longitude": -64.7562549
+    },
+    {
+        "name": "Sion Hill",
+        "country": "U.S. Virgin Islands",
+        "province": "Saint Croix Island",
+        "population": -1,
+        "latitude": 17.7410843,
+        "longitude": -64.7470886
+    },
+    {
+        "name": "Southgate",
+        "country": "U.S. Virgin Islands",
+        "province": "Saint Croix Island",
+        "population": -1,
+        "latitude": 17.7577512,
+        "longitude": -64.6006946
+    },
+    {
+        "name": "Sapphire Village",
+        "country": "U.S. Virgin Islands",
+        "province": "Saint Thomas Island",
+        "population": -1,
+        "latitude": 18.33465,
+        "longitude": -64.85045
+    },
+    {
+        "name": "Adjett (historical)",
+        "country": "U.S. Virgin Islands",
+        "province": "Saint Croix Island",
+        "population": -1,
+        "latitude": 17.7463624,
+        "longitude": -64.5770823
+    },
+    {
+        "name": "Andrin (historical)",
+        "country": "U.S. Virgin Islands",
+        "province": "Saint Croix Island",
+        "population": -1,
+        "latitude": 17.7008086,
+        "longitude": -64.8812576
+    },
+    {
+        "name": "Brownsbay (historical)",
+        "country": "U.S. Virgin Islands",
+        "province": "Saint John Island",
+        "population": -1,
+        "latitude": 18.3602313,
+        "longitude": -64.7051363
+    }
+]

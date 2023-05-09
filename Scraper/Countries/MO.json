@@ -1,0 +1,58 @@
+[
+    {
+        "name": "Macao",
+        "country": "Macao",
+        "province": "Macau",
+        "population": 649335,
+        "latitude": 22.200556,
+        "longitude": 113.546111
+    },
+    {
+        "name": "Taipa",
+        "country": "Macao",
+        "province": "Nossa Senhora do Carmo",
+        "population": -1,
+        "latitude": 22.155833,
+        "longitude": 113.556944
+    },
+    {
+        "name": "Lai Chi Van",
+        "country": "Macao",
+        "province": "São Francisco Xavier",
+        "population": -1,
+        "latitude": 22.1197222,
+        "longitude": 113.5511111
+    },
+    {
+        "name": "Heisha",
+        "country": "Macao",
+        "province": "Macao",
+        "population": -1,
+        "latitude": 22.119167,
+        "longitude": 113.567778
+    },
+    {
+        "name": "Zhuojiacun",
+        "country": "Macao",
+        "province": "Macao",
+        "population": -1,
+        "latitude": 22.161389,
+        "longitude": 113.556389
+    },
+    {
+        "name": "Jiu’ao",
+        "country": "Macao",
+        "province": "São Francisco Xavier",
+        "population": -1,
+        "latitude": 22.133056,
+        "longitude": 113.581389
+    },
+    {
+        "name": "Luhuan",
+        "country": "Macao",
+        "province": "São Francisco Xavier",
+        "population": -1,
+        "latitude": 22.118056,
+        "longitude": 113.551944
+    }
+]

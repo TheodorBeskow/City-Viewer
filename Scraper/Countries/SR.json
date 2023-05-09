@@ -1,0 +1,4386 @@
+[
+    {
+        "name": "Paramaribo",
+        "country": "Suriname",
+        "province": "Paramaribo",
+        "population": 223757,
+        "latitude": 5.866378871258677,
+        "longitude": -55.16681671142578
+    },
+    {
+        "name": "Nieuw Nickerie",
+        "country": "Suriname",
+        "province": "Nickerie",
+        "population": 13143,
+        "latitude": 5.926058,
+        "longitude": -56.972969
+    },
+    {
+        "name": "Lelydorp",
+        "country": "Suriname",
+        "province": "Wanica",
+        "population": 18223,
+        "latitude": 5.7,
+        "longitude": -55.2333333
+    },
+    {
+        "name": "Brokopondo",
+        "country": "Suriname",
+        "province": "Brokopondo",
+        "population": 14662,
+        "latitude": 5.055942,
+        "longitude": -54.980435
+    },
+    {
+        "name": "Nieuw Amsterdam",
+        "country": "Suriname",
+        "province": "Commewijne",
+        "population": 4935,
+        "latitude": 5.88573,
+        "longitude": -55.088711
+    },
+    {
+        "name": "Moengo",
+        "country": "Suriname",
+        "province": "Marowijne",
+        "population": 7074,
+        "latitude": 5.61411,
+        "longitude": -54.40121
+    },
+    {
+        "name": "Meerzorg",
+        "country": "Suriname",
+        "province": "Commewijne",
+        "population": 12405,
+        "latitude": 5.80789,
+        "longitude": -55.1408
+    },
+    {
+        "name": "Mariënburg",
+        "country": "Suriname",
+        "province": "Commewijne",
+        "population": 4427,
+        "latitude": 5.87722,
+        "longitude": -55.04322
+    },
+    {
+        "name": "Wageningen",
+        "country": "Suriname",
+        "province": "Nickerie",
+        "population": 4145,
+        "latitude": 5.760098,
+        "longitude": -56.665232
+    },
+    {
+        "name": "Albina",
+        "country": "Suriname",
+        "province": "Marowijne",
+        "population": 3985,
+        "latitude": 5.49788,
+        "longitude": -54.05522
+    },
+    {
+        "name": "Totness",
+        "country": "Suriname",
+        "province": "Coronie",
+        "population": 1685,
+        "latitude": 5.87618,
+        "longitude": -56.325717
+    },
+    {
+        "name": "Onverwacht",
+        "country": "Suriname",
+        "province": "Para",
+        "population": 2105,
+        "latitude": 5.58983,
+        "longitude": -55.194624
+    },
+    {
+        "name": "Groningen",
+        "country": "Suriname",
+        "province": "Saramacca",
+        "population": 3216,
+        "latitude": 5.8,
+        "longitude": -55.4666667
+    },
+    {
+        "name": "Brownsweg",
+        "country": "Suriname",
+        "province": "Brokopondo",
+        "population": 2696,
+        "latitude": 5.004348,
+        "longitude": -55.153335
+    },
+    {
+        "name": "Botopasi",
+        "country": "Suriname",
+        "province": "Sipaliwini",
+        "population": -1,
+        "latitude": 4.237883212609792,
+        "longitude": -55.44593811035156
+    },
+    {
+        "name": "Zoewatta",
+        "country": "Suriname",
+        "province": "Brokopondo",
+        "population": -1,
+        "latitude": 4.55,
+        "longitude": -55.3
+    },
+    {
+        "name": "Zanderij",
+        "country": "Suriname",
+        "province": "Para",
+        "population": -1,
+        "latitude": 5.338116,
+        "longitude": -55.252753
+    },
+    {
+        "name": "Zanderij",
+        "country": "Suriname",
+        "province": "Para",
+        "population": -1,
+        "latitude": 5.456657,
+        "longitude": -55.205166
+    },
+    {
+        "name": "Wittikamba",
+        "country": "Suriname",
+        "province": "Sipaliwini",
+        "population": -1,
+        "latitude": 4.508406,
+        "longitude": -55.350288
+    },
+    {
+        "name": "Washabo",
+        "country": "Suriname",
+        "province": "Sipaliwini",
+        "population": -1,
+        "latitude": 5.2119,
+        "longitude": -57.18736
+    },
+    {
+        "name": "Warnakomoponafaja",
+        "country": "Suriname",
+        "province": "Sipaliwini",
+        "population": -1,
+        "latitude": 4.6833333,
+        "longitude": -55.5666667
+    },
+    {
+        "name": "Wanhatti",
+        "country": "Suriname",
+        "province": "Marowijne",
+        "population": -1,
+        "latitude": 5.781305,
+        "longitude": -54.444494
+    },
+    {
+        "name": "Vertrouwen",
+        "country": "Suriname",
+        "province": "Sipaliwini",
+        "population": -1,
+        "latitude": 4.3333333,
+        "longitude": -55.7833333
+    },
+    {
+        "name": "Tjakka-Tjakka Ston",
+        "country": "Suriname",
+        "province": "Sipaliwini",
+        "population": -1,
+        "latitude": 5.197246,
+        "longitude": -56.102027
+    },
+    {
+        "name": "Tepoe",
+        "country": "Suriname",
+        "province": "Sipaliwini",
+        "population": -1,
+        "latitude": 3.15798,
+        "longitude": -55.71673
+    },
+    {
+        "name": "Tamarin",
+        "country": "Suriname",
+        "province": "Marowijne",
+        "population": -1,
+        "latitude": 5.767101,
+        "longitude": -54.389273
+    },
+    {
+        "name": "Tamanredjo",
+        "country": "Suriname",
+        "province": "Commewijne",
+        "population": -1,
+        "latitude": 5.786211,
+        "longitude": -55.024817
+    },
+    {
+        "name": "Tabrikiekondre",
+        "country": "Suriname",
+        "province": "Sipaliwini",
+        "population": -1,
+        "latitude": 4.763359,
+        "longitude": -55.560615
+    },
+    {
+        "name": "Smithfield",
+        "country": "Suriname",
+        "province": "Saramacca",
+        "population": -1,
+        "latitude": 5.8666667,
+        "longitude": -55.5333333
+    },
+    {
+        "name": "Santigron",
+        "country": "Suriname",
+        "province": "Wanica",
+        "population": -1,
+        "latitude": 5.661304,
+        "longitude": -55.340143
+    },
+    {
+        "name": "Sabakoe",
+        "country": "Suriname",
+        "province": "Para",
+        "population": -1,
+        "latitude": 5.422898,
+        "longitude": -55.193131
+    },
+    {
+        "name": "Post Leyden",
+        "country": "Suriname",
+        "province": "Commewijne",
+        "population": -1,
+        "latitude": 5.9,
+        "longitude": -55.1
+    },
+    {
+        "name": "Pontoetoe",
+        "country": "Suriname",
+        "province": "Sipaliwini",
+        "population": -1,
+        "latitude": 3.2666667,
+        "longitude": -55.4
+    },
+    {
+        "name": "Pokigron",
+        "country": "Suriname",
+        "province": "Sipaliwini",
+        "population": -1,
+        "latitude": 4.492319,
+        "longitude": -55.369712
+    },
+    {
+        "name": "Poigron",
+        "country": "Suriname",
+        "province": "Sipaliwini",
+        "population": -1,
+        "latitude": 3.9,
+        "longitude": -55.5666667
+    },
+    {
+        "name": "Poesoegroenoe",
+        "country": "Suriname",
+        "province": "Sipaliwini",
+        "population": -1,
+        "latitude": 4.395218,
+        "longitude": -55.790869
+    },
+    {
+        "name": "Poeloegoedoe",
+        "country": "Suriname",
+        "province": "Sipaliwini",
+        "population": -1,
+        "latitude": 4.35029,
+        "longitude": -54.442755
+    },
+    {
+        "name": "Poeketi",
+        "country": "Suriname",
+        "province": "Sipaliwini",
+        "population": -1,
+        "latitude": 4.128406,
+        "longitude": -54.623915
+    },
+    {
+        "name": "Pinatjarimi",
+        "country": "Suriname",
+        "province": "Marowijne",
+        "population": -1,
+        "latitude": 5.789131,
+        "longitude": -54.415074
+    },
+    {
+        "name": "Pikien Santi",
+        "country": "Suriname",
+        "province": "Marowijne",
+        "population": -1,
+        "latitude": 5.774492,
+        "longitude": -54.370727
+    },
+    {
+        "name": "Paranam",
+        "country": "Suriname",
+        "province": "Para",
+        "population": -1,
+        "latitude": 5.607187,
+        "longitude": -55.090146
+    },
+    {
+        "name": "Paradijs",
+        "country": "Suriname",
+        "province": "Nickerie",
+        "population": -1,
+        "latitude": 5.897835,
+        "longitude": -56.903845
+    },
+    {
+        "name": "Pakka-Pakka",
+        "country": "Suriname",
+        "province": "Sipaliwini",
+        "population": -1,
+        "latitude": 4.640435,
+        "longitude": -55.680001
+    },
+    {
+        "name": "Onverdacht",
+        "country": "Suriname",
+        "province": "Para",
+        "population": -1,
+        "latitude": 5.606056,
+        "longitude": -55.140181
+    },
+    {
+        "name": "Njoeng Jacobkondre",
+        "country": "Suriname",
+        "province": "Sipaliwini",
+        "population": -1,
+        "latitude": 4.94971,
+        "longitude": -55.536811
+    },
+    {
+        "name": "Mongo Tapoe",
+        "country": "Suriname",
+        "province": "Marowijne",
+        "population": -1,
+        "latitude": 5.574347,
+        "longitude": -54.25
+    },
+    {
+        "name": "Manchester",
+        "country": "Suriname",
+        "province": "Nickerie",
+        "population": -1,
+        "latitude": 5.8833333,
+        "longitude": -56.9
+    },
+    {
+        "name": "Makajapiengo",
+        "country": "Suriname",
+        "province": "Sipaliwini",
+        "population": -1,
+        "latitude": 4.709797,
+        "longitude": -55.572258
+    },
+    {
+        "name": "Mabo I.",
+        "country": "Suriname",
+        "province": "Saramacca",
+        "population": -1,
+        "latitude": 5.708261,
+        "longitude": -55.363331
+    },
+    {
+        "name": "Lantiwei",
+        "country": "Suriname",
+        "province": "Marowijne",
+        "population": -1,
+        "latitude": 5.782754,
+        "longitude": -54.403335
+    },
+    {
+        "name": "Laarwijk",
+        "country": "Suriname",
+        "province": "Commewijne",
+        "population": -1,
+        "latitude": 5.701676,
+        "longitude": -55.073678
+    },
+    {
+        "name": "Kwattahede",
+        "country": "Suriname",
+        "province": "Sipaliwini",
+        "population": -1,
+        "latitude": 4.818653,
+        "longitude": -55.556983
+    },
+    {
+        "name": "Kwamalasamutu",
+        "country": "Suriname",
+        "province": "Sipaliwini",
+        "population": -1,
+        "latitude": 2.3333333,
+        "longitude": -56.7833333
+    },
+    {
+        "name": "Kwakoegron",
+        "country": "Suriname",
+        "province": "Brokopondo",
+        "population": -1,
+        "latitude": 5.251739,
+        "longitude": -55.34797
+    },
+    {
+        "name": "Kampong Baroe",
+        "country": "Suriname",
+        "province": "Saramacca",
+        "population": -1,
+        "latitude": 5.75,
+        "longitude": -55.4
+    },
+    {
+        "name": "Johanna-Margaretha",
+        "country": "Suriname",
+        "province": "Commewijne",
+        "population": -1,
+        "latitude": 5.886522,
+        "longitude": -55.039564
+    },
+    {
+        "name": "Joden Savanna",
+        "country": "Suriname",
+        "province": "Para",
+        "population": -1,
+        "latitude": 5.42029,
+        "longitude": -54.986087
+    },
+    {
+        "name": "Jenny",
+        "country": "Suriname",
+        "province": "Coronie",
+        "population": -1,
+        "latitude": 5.760435,
+        "longitude": -55.910871
+    },
+    {
+        "name": "Jagtlust",
+        "country": "Suriname",
+        "province": "Commewijne",
+        "population": -1,
+        "latitude": 5.80768,
+        "longitude": -55.110445
+    },
+    {
+        "name": "Heidoti",
+        "country": "Suriname",
+        "province": "Sipaliwini",
+        "population": -1,
+        "latitude": 5.238261,
+        "longitude": -56.085071
+    },
+    {
+        "name": "Heidoti",
+        "country": "Suriname",
+        "province": "Sipaliwini",
+        "population": -1,
+        "latitude": 4.8666667,
+        "longitude": -55.5666667
+    },
+    {
+        "name": "Hampton Court",
+        "country": "Suriname",
+        "province": "Nickerie",
+        "population": -1,
+        "latitude": 5.9,
+        "longitude": -56.9166667
+    },
+    {
+        "name": "Bigi Poika",
+        "country": "Suriname",
+        "province": "Para",
+        "population": -1,
+        "latitude": 5.424928,
+        "longitude": -55.511014
+    },
+    {
+        "name": "Groot Henar",
+        "country": "Suriname",
+        "province": "Nickerie",
+        "population": -1,
+        "latitude": 5.855864,
+        "longitude": -56.863019
+    },
+    {
+        "name": "GR Chatillon",
+        "country": "Suriname",
+        "province": "Commewijne",
+        "population": -1,
+        "latitude": 5.618986,
+        "longitude": -55.073042
+    },
+    {
+        "name": "Goddo",
+        "country": "Suriname",
+        "province": "Sipaliwini",
+        "population": -1,
+        "latitude": 4.025797,
+        "longitude": -55.477102
+    },
+    {
+        "name": "Glasgow",
+        "country": "Suriname",
+        "province": "Nickerie",
+        "population": -1,
+        "latitude": 5.9166667,
+        "longitude": -56.9166667
+    },
+    {
+        "name": "Galibi",
+        "country": "Suriname",
+        "province": "Marowijne",
+        "population": -1,
+        "latitude": 5.745403,
+        "longitude": -53.992085
+    },
+    {
+        "name": "Friendship",
+        "country": "Suriname",
+        "province": "Coronie",
+        "population": -1,
+        "latitude": 5.879124,
+        "longitude": -56.335814
+    },
+    {
+        "name": "Ephrata",
+        "country": "Suriname",
+        "province": "Commewijne",
+        "population": -1,
+        "latitude": 5.844928,
+        "longitude": -54.753333
+    },
+    {
+        "name": "Drietabbetje",
+        "country": "Suriname",
+        "province": "Sipaliwini",
+        "population": -1,
+        "latitude": 4.11971,
+        "longitude": -54.677103
+    },
+    {
+        "name": "Domburg",
+        "country": "Suriname",
+        "province": "Wanica",
+        "population": -1,
+        "latitude": 5.693573,
+        "longitude": -55.084301
+    },
+    {
+        "name": "Djoemoe",
+        "country": "Suriname",
+        "province": "Sipaliwini",
+        "population": -1,
+        "latitude": 4.022899,
+        "longitude": -55.468116
+    },
+    {
+        "name": "Cottica",
+        "country": "Suriname",
+        "province": "Sipaliwini",
+        "population": -1,
+        "latitude": 3.85,
+        "longitude": -54.2333333
+    },
+    {
+        "name": "Corneliskondre",
+        "country": "Suriname",
+        "province": "Sipaliwini",
+        "population": -1,
+        "latitude": 5.341387,
+        "longitude": -56.145448
+    },
+    {
+        "name": "Boskamp",
+        "country": "Suriname",
+        "province": "Saramacca",
+        "population": -1,
+        "latitude": 5.779275,
+        "longitude": -55.89348
+    },
+    {
+        "name": "Carolina",
+        "country": "Suriname",
+        "province": "Para",
+        "population": -1,
+        "latitude": 5.441594,
+        "longitude": -55.005362
+    },
+    {
+        "name": "Calcutta",
+        "country": "Suriname",
+        "province": "Saramacca",
+        "population": -1,
+        "latitude": 5.838696,
+        "longitude": -55.674059
+    },
+    {
+        "name": "Cajana",
+        "country": "Suriname",
+        "province": "Sipaliwini",
+        "population": -1,
+        "latitude": 3.901162733927777,
+        "longitude": -55.57262420654297
+    },
+    {
+        "name": "Brownsweg",
+        "country": "Suriname",
+        "province": "Brokopondo",
+        "population": -1,
+        "latitude": 5,
+        "longitude": -55.15
+    },
+    {
+        "name": "Boston",
+        "country": "Suriname",
+        "province": "Para",
+        "population": -1,
+        "latitude": 5.690898,
+        "longitude": -55.35792
+    },
+    {
+        "name": "Bitagron",
+        "country": "Suriname",
+        "province": "Sipaliwini",
+        "population": -1,
+        "latitude": 5.16058,
+        "longitude": -56.074926
+    },
+    {
+        "name": "Benzdorp",
+        "country": "Suriname",
+        "province": "Sipaliwini",
+        "population": -1,
+        "latitude": 3.6819172343962925,
+        "longitude": -54.087281227111816
+    },
+    {
+        "name": "Batavia",
+        "country": "Suriname",
+        "province": "Saramacca",
+        "population": -1,
+        "latitude": 5.7,
+        "longitude": -55.8666667
+    },
+    {
+        "name": "Baikoetoe",
+        "country": "Suriname",
+        "province": "Brokopondo",
+        "population": -1,
+        "latitude": 4.566667,
+        "longitude": -55.3
+    },
+    {
+        "name": "Aurora",
+        "country": "Suriname",
+        "province": "Sipaliwini",
+        "population": -1,
+        "latitude": 4.375942,
+        "longitude": -55.407683
+    },
+    {
+        "name": "Asidonhopo",
+        "country": "Suriname",
+        "province": "Sipaliwini",
+        "population": -1,
+        "latitude": 4.011304,
+        "longitude": -55.474638
+    },
+    {
+        "name": "Appikalo",
+        "country": "Suriname",
+        "province": "Sipaliwini",
+        "population": -1,
+        "latitude": 2.1166667,
+        "longitude": -56.25
+    },
+    {
+        "name": "Appera",
+        "country": "Suriname",
+        "province": "Sipaliwini",
+        "population": -1,
+        "latitude": 5.17708,
+        "longitude": -57.139223
+    },
+    {
+        "name": "Apetina",
+        "country": "Suriname",
+        "province": "Sipaliwini",
+        "population": -1,
+        "latitude": 3.5,
+        "longitude": -55.0666667
+    },
+    {
+        "name": "Anapaike",
+        "country": "Suriname",
+        "province": "Sipaliwini",
+        "population": -1,
+        "latitude": 3.4166667,
+        "longitude": -54.0333333
+    },
+    {
+        "name": "Aloepi Twee",
+        "country": "Suriname",
+        "province": "Sipaliwini",
+        "population": -1,
+        "latitude": 2.8,
+        "longitude": -55.9
+    },
+    {
+        "name": "Alliance",
+        "country": "Suriname",
+        "province": "Commewijne",
+        "population": -1,
+        "latitude": 5.884203,
+        "longitude": -54.897828
+    },
+    {
+        "name": "Alkmaar",
+        "country": "Suriname",
+        "province": "Commewijne",
+        "population": -1,
+        "latitude": 5.849054,
+        "longitude": -55.017728
+    },
+    {
+        "name": "Alalapadu",
+        "country": "Suriname",
+        "province": "Sipaliwini",
+        "population": 75,
+        "latitude": 2.5333333,
+        "longitude": -56.3333333
+    },
+    {
+        "name": "Afobaka",
+        "country": "Suriname",
+        "province": "Brokopondo",
+        "population": -1,
+        "latitude": 4.993834,
+        "longitude": -54.998512
+    },
+    {
+        "name": "Abontjeman",
+        "country": "Suriname",
+        "province": "Sipaliwini",
+        "population": -1,
+        "latitude": 4.863128,
+        "longitude": -54.996
+    },
+    {
+        "name": "Abenaston",
+        "country": "Suriname",
+        "province": "Sipaliwini",
+        "population": -1,
+        "latitude": 4.453333,
+        "longitude": -55.356959
+    },
+    {
+        "name": "Koewarasan",
+        "country": "Suriname",
+        "province": "Wanica",
+        "population": -1,
+        "latitude": 5.769911,
+        "longitude": -55.293839
+    },
+    {
+        "name": "Brokooondo",
+        "country": "Suriname",
+        "province": "Brokopondo",
+        "population": -1,
+        "latitude": 5.055077,
+        "longitude": -54.981178
+    },
+    {
+        "name": "Palumeu",
+        "country": "Suriname",
+        "province": "Sipaliwini",
+        "population": -1,
+        "latitude": 3.34468,
+        "longitude": -55.44139
+    },
+    {
+        "name": "Uitkijk",
+        "country": "Suriname",
+        "province": "Wanica",
+        "population": -1,
+        "latitude": 5.772174,
+        "longitude": -55.34797
+    },
+    {
+        "name": "Tottiekamp",
+        "country": "Suriname",
+        "province": "Saramacca",
+        "population": -1,
+        "latitude": 5.554928,
+        "longitude": -55.420001
+    },
+    {
+        "name": "Tamba-Redjo",
+        "country": "Suriname",
+        "province": "Saramacca",
+        "population": -1,
+        "latitude": 5.837971,
+        "longitude": -55.531014
+    },
+    {
+        "name": "Suhoza of Agila",
+        "country": "Suriname",
+        "province": "Para",
+        "population": -1,
+        "latitude": 5.356667,
+        "longitude": -55.006232
+    },
+    {
+        "name": "Stonehoekoe",
+        "country": "Suriname",
+        "province": "Sipaliwini",
+        "population": -1,
+        "latitude": 3.8833333,
+        "longitude": -55.5833333
+    },
+    {
+        "name": "Stoelmanseiland",
+        "country": "Suriname",
+        "province": "Sipaliwini",
+        "population": -1,
+        "latitude": 4.354783,
+        "longitude": -54.420581
+    },
+    {
+        "name": "Spieringshoek",
+        "country": "Suriname",
+        "province": "Commewijne",
+        "population": -1,
+        "latitude": 5.859565,
+        "longitude": -54.972754
+    },
+    {
+        "name": "Semoisie",
+        "country": "Suriname",
+        "province": "Sipaliwini",
+        "population": -1,
+        "latitude": 4.05116,
+        "longitude": -55.446378
+    },
+    {
+        "name": "Sectie",
+        "country": "Suriname",
+        "province": "Brokopondo",
+        "population": -1,
+        "latitude": 5.311305,
+        "longitude": -55.278116
+    },
+    {
+        "name": "Ricanau Moffo",
+        "country": "Suriname",
+        "province": "Marowijne",
+        "population": -1,
+        "latitude": 5.6833333,
+        "longitude": -54.4166667
+    },
+    {
+        "name": "Ricanau Petro Ondro",
+        "country": "Suriname",
+        "province": "Marowijne",
+        "population": -1,
+        "latitude": 5.60942,
+        "longitude": -54.35377
+    },
+    {
+        "name": "Rainville",
+        "country": "Suriname",
+        "province": "Paramaribo",
+        "population": -1,
+        "latitude": 5.834362,
+        "longitude": -55.137694
+    },
+    {
+        "name": "Powakka",
+        "country": "Suriname",
+        "province": "Para",
+        "population": -1,
+        "latitude": 5.445207,
+        "longitude": -55.080243
+    },
+    {
+        "name": "Poitehede",
+        "country": "Suriname",
+        "province": "Marowijne",
+        "population": -1,
+        "latitude": 5.4333333,
+        "longitude": -54.5833333
+    },
+    {
+        "name": "Pisori",
+        "country": "Suriname",
+        "province": "Sipaliwini",
+        "population": -1,
+        "latitude": 3.3166667,
+        "longitude": -55.45
+    },
+    {
+        "name": "Pikienkondre",
+        "country": "Suriname",
+        "province": "Sipaliwini",
+        "population": -1,
+        "latitude": 4.0833333,
+        "longitude": -54.7833333
+    },
+    {
+        "name": "Phedra",
+        "country": "Suriname",
+        "province": "Brokopondo",
+        "population": -1,
+        "latitude": 5.324223,
+        "longitude": -55.05274
+    },
+    {
+        "name": "Pada",
+        "country": "Suriname",
+        "province": "Sipaliwini",
+        "population": -1,
+        "latitude": 4.177536,
+        "longitude": -55.435943
+    },
+    {
+        "name": "Ovilonholloi",
+        "country": "Suriname",
+        "province": "Marowijne",
+        "population": -1,
+        "latitude": 5.511594,
+        "longitude": -54.416523
+    },
+    {
+        "name": "Mattawaribo",
+        "country": "Suriname",
+        "province": "Para",
+        "population": -1,
+        "latitude": 5.5333333,
+        "longitude": -55.1666667
+    },
+    {
+        "name": "Mansi",
+        "country": "Suriname",
+        "province": "Sipaliwini",
+        "population": -1,
+        "latitude": 4.1333333,
+        "longitude": -54.6666667
+    },
+    {
+        "name": "Manlobi",
+        "country": "Suriname",
+        "province": "Sipaliwini",
+        "population": -1,
+        "latitude": 4.266087,
+        "longitude": -54.503478
+    },
+    {
+        "name": "Makkakriki",
+        "country": "Suriname",
+        "province": "Para",
+        "population": -1,
+        "latitude": 5.2333333,
+        "longitude": -55.3666667
+    },
+    {
+        "name": "Makampe",
+        "country": "Suriname",
+        "province": "Sipaliwini",
+        "population": -1,
+        "latitude": 2.8333333,
+        "longitude": -55.3833333
+    },
+    {
+        "name": "Majoli Twee",
+        "country": "Suriname",
+        "province": "Sipaliwini",
+        "population": -1,
+        "latitude": 2.65,
+        "longitude": -55.4666667
+    },
+    {
+        "name": "Lombe",
+        "country": "Suriname",
+        "province": "Brokopondo",
+        "population": -1,
+        "latitude": 4.834564,
+        "longitude": -55.094947
+    },
+    {
+        "name": "Lombé",
+        "country": "Suriname",
+        "province": "Sipaliwini",
+        "population": -1,
+        "latitude": 4.365362,
+        "longitude": -55.796376
+    },
+    {
+        "name": "Livorno",
+        "country": "Suriname",
+        "province": "Paramaribo",
+        "population": -1,
+        "latitude": 5.780482,
+        "longitude": -55.181077
+    },
+    {
+        "name": "Laduani",
+        "country": "Suriname",
+        "province": "Sipaliwini",
+        "population": -1,
+        "latitude": 4.37431,
+        "longitude": -55.40139
+    },
+    {
+        "name": "Kronenburg",
+        "country": "Suriname",
+        "province": "Commewijne",
+        "population": -1,
+        "latitude": 5.862829,
+        "longitude": -55.008598
+    },
+    {
+        "name": "Kontina",
+        "country": "Suriname",
+        "province": "Sipaliwini",
+        "population": -1,
+        "latitude": 3.3833333,
+        "longitude": -55.4166667
+    },
+    {
+        "name": "Koemboe",
+        "country": "Suriname",
+        "province": "Sipaliwini",
+        "population": -1,
+        "latitude": 4.133043,
+        "longitude": -55.439711
+    },
+    {
+        "name": "Klokondre",
+        "country": "Suriname",
+        "province": "Sipaliwini",
+        "population": -1,
+        "latitude": 4.231739,
+        "longitude": -54.554202
+    },
+    {
+        "name": "KL Poika",
+        "country": "Suriname",
+        "province": "Wanica",
+        "population": -1,
+        "latitude": 5.681449,
+        "longitude": -55.342607
+    },
+    {
+        "name": "Kamaloea",
+        "country": "Suriname",
+        "province": "Sipaliwini",
+        "population": -1,
+        "latitude": 4.206126441210698,
+        "longitude": -55.43495178222656
+    },
+    {
+        "name": "Intelwakondre",
+        "country": "Suriname",
+        "province": "Sipaliwini",
+        "population": -1,
+        "latitude": 3.3666667,
+        "longitude": -55.4166667
+    },
+    {
+        "name": "Ingienkondre",
+        "country": "Suriname",
+        "province": "Coronie",
+        "population": -1,
+        "latitude": 5.8518,
+        "longitude": -56.235231
+    },
+    {
+        "name": "Gros",
+        "country": "Suriname",
+        "province": "Brokopondo",
+        "population": -1,
+        "latitude": 5.1,
+        "longitude": -55.25
+    },
+    {
+        "name": "Granbori",
+        "country": "Suriname",
+        "province": "Sipaliwini",
+        "population": -1,
+        "latitude": 3.8,
+        "longitude": -54.85
+    },
+    {
+        "name": "Godowatra",
+        "country": "Suriname",
+        "province": "Sipaliwini",
+        "population": -1,
+        "latitude": 3.8833333,
+        "longitude": -55.5833333
+    },
+    {
+        "name": "Flora",
+        "country": "Suriname",
+        "province": "Paramaribo",
+        "population": -1,
+        "latitude": 5.8,
+        "longitude": -55.2
+    },
+    {
+        "name": "Dehan",
+        "country": "Suriname",
+        "province": "Sipaliwini",
+        "population": -1,
+        "latitude": 3.9,
+        "longitude": -55.5833333
+    },
+    {
+        "name": "Dahomey",
+        "country": "Suriname",
+        "province": "Sipaliwini",
+        "population": -1,
+        "latitude": 4.0333333,
+        "longitude": -55.4666667
+    },
+    {
+        "name": "Constantin",
+        "country": "Suriname",
+        "province": "Commewijne",
+        "population": -1,
+        "latitude": 5.883189,
+        "longitude": -54.890581
+    },
+    {
+        "name": "Christiaan Kondre",
+        "country": "Suriname",
+        "province": "Marowijne",
+        "population": -1,
+        "latitude": 5.708261,
+        "longitude": -54.020725
+    },
+    {
+        "name": "Cassaba Ondro",
+        "country": "Suriname",
+        "province": "Marowijne",
+        "population": -1,
+        "latitude": 5.481884,
+        "longitude": -54.401016
+    },
+    {
+        "name": "Bosland",
+        "country": "Suriname",
+        "province": "Sipaliwini",
+        "population": -1,
+        "latitude": 4.335217,
+        "longitude": -55.783913
+    },
+    {
+        "name": "Bloferie",
+        "country": "Suriname",
+        "province": "Para",
+        "population": -1,
+        "latitude": 5.6166667,
+        "longitude": -55.3833333
+    },
+    {
+        "name": "Blauwgrond",
+        "country": "Suriname",
+        "province": "Paramaribo",
+        "population": -1,
+        "latitude": 5.843418,
+        "longitude": -55.119294
+    },
+    {
+        "name": "Berg en Dal",
+        "country": "Suriname",
+        "province": "Brokopondo",
+        "population": -1,
+        "latitude": 5.13971,
+        "longitude": -55.074927
+    },
+    {
+        "name": "Berceba",
+        "country": "Suriname",
+        "province": "Para",
+        "population": -1,
+        "latitude": 5.501033,
+        "longitude": -55.213856
+    },
+    {
+        "name": "Bedotti",
+        "country": "Suriname",
+        "province": "Brokopondo",
+        "population": -1,
+        "latitude": 4.769717,
+        "longitude": -55.072512
+    },
+    {
+        "name": "Bakraopposton",
+        "country": "Suriname",
+        "province": "Brokopondo",
+        "population": -1,
+        "latitude": 4.730872,
+        "longitude": -55.09146
+    },
+    {
+        "name": "Awa Dam",
+        "country": "Suriname",
+        "province": "Sipaliwini",
+        "population": -1,
+        "latitude": 3.844922169488629,
+        "longitude": -55.613436698913574
+    },
+    {
+        "name": "Apotheki",
+        "country": "Suriname",
+        "province": "Sipaliwini",
+        "population": -1,
+        "latitude": 2.8833333,
+        "longitude": -55.3833333
+    },
+    {
+        "name": "Alopi",
+        "country": "Suriname",
+        "province": "Sipaliwini",
+        "population": -1,
+        "latitude": 3.25,
+        "longitude": -55.5333333
+    },
+    {
+        "name": "Aloepi Een",
+        "country": "Suriname",
+        "province": "Sipaliwini",
+        "population": -1,
+        "latitude": 2.8166667,
+        "longitude": -55.8833333
+    },
+    {
+        "name": "Affivisitie",
+        "country": "Suriname",
+        "province": "Sipaliwini",
+        "population": -1,
+        "latitude": 4.056087,
+        "longitude": -54.790869
+    },
+    {
+        "name": "Adjoema Kondre",
+        "country": "Suriname",
+        "province": "Marowijne",
+        "population": -1,
+        "latitude": 5.585072,
+        "longitude": -54.264783
+    },
+    {
+        "name": "Abendanon of Tabbetje",
+        "country": "Suriname",
+        "province": "Sipaliwini",
+        "population": -1,
+        "latitude": 4.28797,
+        "longitude": -54.495942
+    },
+    {
+        "name": "Munder Buiten",
+        "country": "Suriname",
+        "province": "Paramaribo",
+        "population": -1,
+        "latitude": 5.841158,
+        "longitude": -55.182472
+    },
+    {
+        "name": "Tammenga",
+        "country": "Suriname",
+        "province": "Paramaribo",
+        "population": -1,
+        "latitude": 5.828933,
+        "longitude": -55.201998
+    },
+    {
+        "name": "Welgelegen",
+        "country": "Suriname",
+        "province": "Paramaribo",
+        "population": -1,
+        "latitude": 5.842126,
+        "longitude": -55.218628
+    },
+    {
+        "name": "Beekhuizen",
+        "country": "Suriname",
+        "province": "Paramaribo",
+        "population": -1,
+        "latitude": 5.805754,
+        "longitude": -55.173667
+    },
+    {
+        "name": "Zorgvliet",
+        "country": "Suriname",
+        "province": "Commewijne",
+        "population": -1,
+        "latitude": 5.864603,
+        "longitude": -55.034773
+    },
+    {
+        "name": "Wono Redjo",
+        "country": "Suriname",
+        "province": "Marowijne",
+        "population": -1,
+        "latitude": 5.633333,
+        "longitude": -54.4
+    },
+    {
+        "name": "Wanhatti",
+        "country": "Suriname",
+        "province": "Sipaliwini",
+        "population": -1,
+        "latitude": 4.332898,
+        "longitude": -55.793478
+    },
+    {
+        "name": "Waktibasoe",
+        "country": "Suriname",
+        "province": "Brokopondo",
+        "population": -1,
+        "latitude": 4.899462,
+        "longitude": -55.087486
+    },
+    {
+        "name": "Waaimakkaston",
+        "country": "Suriname",
+        "province": "Sipaliwini",
+        "population": -1,
+        "latitude": 4.327391,
+        "longitude": -55.787391
+    },
+    {
+        "name": "Tome Moené",
+        "country": "Suriname",
+        "province": "Para",
+        "population": -1,
+        "latitude": 5.187391,
+        "longitude": -55.934929
+    },
+    {
+        "name": "Toemaripa",
+        "country": "Suriname",
+        "province": "Sipaliwini",
+        "population": -1,
+        "latitude": 4.12116,
+        "longitude": -55.448262
+    },
+    {
+        "name": "Toeboffroe Foenda",
+        "country": "Suriname",
+        "province": "Sipaliwini",
+        "population": -1,
+        "latitude": 4.498985,
+        "longitude": -56.084347
+    },
+    {
+        "name": "Tioboto",
+        "country": "Suriname",
+        "province": "Sipaliwini",
+        "population": -1,
+        "latitude": 4.08942,
+        "longitude": -55.453334
+    },
+    {
+        "name": "Tapontekampoe",
+        "country": "Suriname",
+        "province": "Sipaliwini",
+        "population": -1,
+        "latitude": 3.9333333,
+        "longitude": -54.8
+    },
+    {
+        "name": "Swampoekondre",
+        "country": "Suriname",
+        "province": "Marowijne",
+        "population": -1,
+        "latitude": 5.3333333,
+        "longitude": -54.2
+    },
+    {
+        "name": "Sola",
+        "country": "Suriname",
+        "province": "Sipaliwini",
+        "population": -1,
+        "latitude": 4.032464,
+        "longitude": -55.469131
+    },
+    {
+        "name": "Smalkalden",
+        "country": "Suriname",
+        "province": "Para",
+        "population": -1,
+        "latitude": 5.611028,
+        "longitude": -55.097085
+    },
+    {
+        "name": "Slee",
+        "country": "Suriname",
+        "province": "Sipaliwini",
+        "population": -1,
+        "latitude": 4.254231878075872,
+        "longitude": -55.44353485107422
+    },
+    {
+        "name": "Sidiredjo",
+        "country": "Suriname",
+        "province": "Saramacca",
+        "population": -1,
+        "latitude": 5.840435,
+        "longitude": -55.56797
+    },
+    {
+        "name": "Sara Maria",
+        "country": "Suriname",
+        "province": "Saramacca",
+        "population": -1,
+        "latitude": 5.8666667,
+        "longitude": -55.5166667
+    },
+    {
+        "name": "Sapende",
+        "country": "Suriname",
+        "province": "Para",
+        "population": -1,
+        "latitude": 5.504928,
+        "longitude": -54.67261
+    },
+    {
+        "name": "Sangsimasoesa",
+        "country": "Suriname",
+        "province": "Sipaliwini",
+        "population": -1,
+        "latitude": 4.1333333,
+        "longitude": -54.6166667
+    },
+    {
+        "name": "Sanbendoemie",
+        "country": "Suriname",
+        "province": "Sipaliwini",
+        "population": -1,
+        "latitude": 4.1,
+        "longitude": -54.6833333
+    },
+    {
+        "name": "Samagini",
+        "country": "Suriname",
+        "province": "Brokopondo",
+        "population": -1,
+        "latitude": 4.719283,
+        "longitude": -54.983334
+    },
+    {
+        "name": "Saban Passi",
+        "country": "Suriname",
+        "province": "Para",
+        "population": -1,
+        "latitude": 5.207972,
+        "longitude": -55.365654
+    },
+    {
+        "name": "Reynsdorp",
+        "country": "Suriname",
+        "province": "Commewijne",
+        "population": -1,
+        "latitude": 5.911304,
+        "longitude": -54.900291
+    },
+    {
+        "name": "Republiek",
+        "country": "Suriname",
+        "province": "Para",
+        "population": -1,
+        "latitude": 5.499095,
+        "longitude": -55.214433
+    },
+    {
+        "name": "Prodokaba",
+        "country": "Suriname",
+        "province": "Sipaliwini",
+        "population": -1,
+        "latitude": 4.1166667,
+        "longitude": -54.6666667
+    },
+    {
+        "name": "Prassarakondre",
+        "country": "Suriname",
+        "province": "Marowijne",
+        "population": -1,
+        "latitude": 5.625652,
+        "longitude": -54.072463
+    },
+    {
+        "name": "Potribo",
+        "country": "Suriname",
+        "province": "Commewijne",
+        "population": -1,
+        "latitude": 5.733043,
+        "longitude": -54.757101
+    },
+    {
+        "name": "Pilgrimkondre",
+        "country": "Suriname",
+        "province": "Marowijne",
+        "population": -1,
+        "latitude": 5.5666667,
+        "longitude": -54.4333333
+    },
+    {
+        "name": "Pepejoe",
+        "country": "Suriname",
+        "province": "Sipaliwini",
+        "population": -1,
+        "latitude": 3.34365,
+        "longitude": -55.44422
+    },
+    {
+        "name": "Pauwie",
+        "country": "Suriname",
+        "province": "Sipaliwini",
+        "population": -1,
+        "latitude": 4.1833333,
+        "longitude": -54.6
+    },
+    {
+        "name": "Passikondre",
+        "country": "Suriname",
+        "province": "Marowijne",
+        "population": -1,
+        "latitude": 5.645797,
+        "longitude": -54.036956
+    },
+    {
+        "name": "Papatamkondre",
+        "country": "Suriname",
+        "province": "Marowijne",
+        "population": -1,
+        "latitude": 5.482174,
+        "longitude": -54.074637
+    },
+    {
+        "name": "Pakira-Kondre",
+        "country": "Suriname",
+        "province": "Sipaliwini",
+        "population": -1,
+        "latitude": 5.229275,
+        "longitude": -54.32884
+    },
+    {
+        "name": "Opossei-Langa-Hoekoe",
+        "country": "Suriname",
+        "province": "Marowijne",
+        "population": -1,
+        "latitude": 5.733913,
+        "longitude": -54.418262
+    },
+    {
+        "name": "Oemansanti",
+        "country": "Suriname",
+        "province": "Sipaliwini",
+        "population": -1,
+        "latitude": 4.1666667,
+        "longitude": -55.4333333
+    },
+    {
+        "name": "Oema-kondre",
+        "country": "Suriname",
+        "province": "Sipaliwini",
+        "population": -1,
+        "latitude": 4.928004,
+        "longitude": -55.546236
+    },
+    {
+        "name": "Nieuw Meerzorg",
+        "country": "Suriname",
+        "province": "Commewijne",
+        "population": -1,
+        "latitude": 5.9166667,
+        "longitude": -54.9166667
+    },
+    {
+        "name": "Nason",
+        "country": "Suriname",
+        "province": "Sipaliwini",
+        "population": -1,
+        "latitude": 4.818271,
+        "longitude": -54.476759
+    },
+    {
+        "name": "Mooitakie",
+        "country": "Suriname",
+        "province": "Sipaliwini",
+        "population": -1,
+        "latitude": 4.1333333,
+        "longitude": -54.65
+    },
+    {
+        "name": "Now Trésor",
+        "country": "Suriname",
+        "province": "Commewijne",
+        "population": -1,
+        "latitude": 5.860278,
+        "longitude": -55.005696
+    },
+    {
+        "name": "Moismois Kondre",
+        "country": "Suriname",
+        "province": "Sipaliwini",
+        "population": -1,
+        "latitude": 5.367826,
+        "longitude": -54.681016
+    },
+    {
+        "name": "Misalibiekondre",
+        "country": "Suriname",
+        "province": "Sipaliwini",
+        "population": -1,
+        "latitude": 4.938384,
+        "longitude": -55.539538
+    },
+    {
+        "name": "Matta",
+        "country": "Suriname",
+        "province": "Para",
+        "population": -1,
+        "latitude": 5.449711,
+        "longitude": -55.32681
+    },
+    {
+        "name": "Matapi",
+        "country": "Suriname",
+        "province": "Sipaliwini",
+        "population": -1,
+        "latitude": 5.002174,
+        "longitude": -57.275797
+    },
+    {
+        "name": "Maris’s Hoop",
+        "country": "Suriname",
+        "province": "Marowijne",
+        "population": -1,
+        "latitude": 5.292464,
+        "longitude": -54.246522
+    },
+    {
+        "name": "Maréchalskriki",
+        "country": "Suriname",
+        "province": "Sipaliwini",
+        "population": -1,
+        "latitude": 4.142694630995994,
+        "longitude": -55.43272018432617
+    },
+    {
+        "name": "Maréchals Kondre",
+        "country": "Suriname",
+        "province": "Brokopondo",
+        "population": -1,
+        "latitude": 5.253623,
+        "longitude": -55.088405
+    },
+    {
+        "name": "Manjaboom Krondre",
+        "country": "Suriname",
+        "province": "Marowijne",
+        "population": -1,
+        "latitude": 5.474348,
+        "longitude": -54.078695
+    },
+    {
+        "name": "Malrosee-Kondre",
+        "country": "Suriname",
+        "province": "Sipaliwini",
+        "population": -1,
+        "latitude": 4.402899,
+        "longitude": -55.371737
+    },
+    {
+        "name": "Malobbi",
+        "country": "Suriname",
+        "province": "Sipaliwini",
+        "population": -1,
+        "latitude": 4.175994830450543,
+        "longitude": -55.42954444885254
+    },
+    {
+        "name": "Magdatien",
+        "country": "Suriname",
+        "province": "Suriname",
+        "population": -1,
+        "latitude": 3.7666667,
+        "longitude": -54.1166667
+    },
+    {
+        "name": "Maboga",
+        "country": "Suriname",
+        "province": "Sipaliwini",
+        "population": -1,
+        "latitude": 3.4833333,
+        "longitude": -55.3333333
+    },
+    {
+        "name": "Mabo B",
+        "country": "Suriname",
+        "province": "Saramacca",
+        "population": -1,
+        "latitude": 5.70174,
+        "longitude": -55.36319
+    },
+    {
+        "name": "Loksie Hatti",
+        "country": "Suriname",
+        "province": "Para",
+        "population": -1,
+        "latitude": 5.14029,
+        "longitude": -55.472174
+    },
+    {
+        "name": "Leonsberg",
+        "country": "Suriname",
+        "province": "Paramaribo",
+        "population": -1,
+        "latitude": 5.865919,
+        "longitude": -55.106231
+    },
+    {
+        "name": "La Simplicité",
+        "country": "Suriname",
+        "province": "Para",
+        "population": -1,
+        "latitude": 5.528696,
+        "longitude": -55.055941
+    },
+    {
+        "name": "Langa Tabbetje",
+        "country": "Suriname",
+        "province": "Sipaliwini",
+        "population": -1,
+        "latitude": 4.995217,
+        "longitude": -54.442174
+    },
+    {
+        "name": "Langa Hoekoe",
+        "country": "Suriname",
+        "province": "Marowijne",
+        "population": -1,
+        "latitude": 5.76,
+        "longitude": -54.413335
+    },
+    {
+        "name": "Kopi Ondroo",
+        "country": "Suriname",
+        "province": "Para",
+        "population": -1,
+        "latitude": 5.34913,
+        "longitude": -54.684929
+    },
+    {
+        "name": "Koffikamp",
+        "country": "Suriname",
+        "province": "Brokopondo",
+        "population": -1,
+        "latitude": 4.974436,
+        "longitude": -55.000462
+    },
+    {
+        "name": "KL Chatillon",
+        "country": "Suriname",
+        "province": "Commewijne",
+        "population": -1,
+        "latitude": 5.650725,
+        "longitude": -55.051449
+    },
+    {
+        "name": "Kalebaskr.",
+        "country": "Suriname",
+        "province": "Saramacca",
+        "population": -1,
+        "latitude": 5.661595,
+        "longitude": -55.893331
+    },
+    {
+        "name": "Kaaimanston",
+        "country": "Suriname",
+        "province": "Sipaliwini",
+        "population": -1,
+        "latitude": 5.1,
+        "longitude": -56.0833333
+    },
+    {
+        "name": "Jaimeskondre",
+        "country": "Suriname",
+        "province": "Marowijne",
+        "population": -1,
+        "latitude": 5.356811,
+        "longitude": -54.174639
+    },
+    {
+        "name": "Huwelijkszorg",
+        "country": "Suriname",
+        "province": "Saramacca",
+        "population": -1,
+        "latitude": 5.863478,
+        "longitude": -55.676378
+    },
+    {
+        "name": "Hecht en Sterk",
+        "country": "Suriname",
+        "province": "Commewijne",
+        "population": -1,
+        "latitude": 5.865942,
+        "longitude": -54.958841
+    },
+    {
+        "name": "Hanover",
+        "country": "Suriname",
+        "province": "Para",
+        "population": -1,
+        "latitude": 5.488938,
+        "longitude": -55.156306
+    },
+    {
+        "name": "Guyanagoudplacer",
+        "country": "Suriname",
+        "province": "Brokopondo",
+        "population": -1,
+        "latitude": 5.15,
+        "longitude": -55.2666667
+    },
+    {
+        "name": "Groenkr",
+        "country": "Suriname",
+        "province": "Para",
+        "population": -1,
+        "latitude": 5.397971,
+        "longitude": -54.736087
+    },
+    {
+        "name": "Granprati Boeka",
+        "country": "Suriname",
+        "province": "Sipaliwini",
+        "population": -1,
+        "latitude": 4.616232,
+        "longitude": -56.490725
+    },
+    {
+        "name": "Grankopi",
+        "country": "Suriname",
+        "province": "Para",
+        "population": -1,
+        "latitude": 5.371884,
+        "longitude": -54.651016
+    },
+    {
+        "name": "Goddodrai",
+        "country": "Suriname",
+        "province": "Para",
+        "population": -1,
+        "latitude": 5.450435,
+        "longitude": -54.677537
+    },
+    {
+        "name": "GeorgeKondre",
+        "country": "Suriname",
+        "province": "Marowijne",
+        "population": -1,
+        "latitude": 5.616377,
+        "longitude": -54.086375
+    },
+    {
+        "name": "Gansee",
+        "country": "Suriname",
+        "province": "Brokopondo",
+        "population": -1,
+        "latitude": 4.823282,
+        "longitude": -55.092973
+    },
+    {
+        "name": "Fossi Bergi",
+        "country": "Suriname",
+        "province": "Brokopondo",
+        "population": -1,
+        "latitude": 5.2166667,
+        "longitude": -55.3333333
+    },
+    {
+        "name": "Esterslust",
+        "country": "Suriname",
+        "province": "Commewijne",
+        "population": -1,
+        "latitude": 5.516232,
+        "longitude": -55.030435
+    },
+    {
+        "name": "Einde Rust",
+        "country": "Suriname",
+        "province": "Commewijne",
+        "population": -1,
+        "latitude": 5.898696,
+        "longitude": -55.090144
+    },
+    {
+        "name": "Draai",
+        "country": "Suriname",
+        "province": "Sipaliwini",
+        "population": -1,
+        "latitude": 4.184637,
+        "longitude": -54.553912
+    },
+    {
+        "name": "Dombaai",
+        "country": "Suriname",
+        "province": "Sipaliwini",
+        "population": -1,
+        "latitude": 3.9166667,
+        "longitude": -55.55
+    },
+    {
+        "name": "Dekweh",
+        "country": "Suriname",
+        "province": "Sipaliwini",
+        "population": -1,
+        "latitude": 3.9333333,
+        "longitude": -55.45
+    },
+    {
+        "name": "De Jong Noord",
+        "country": "Suriname",
+        "province": "Brokopondo",
+        "population": -1,
+        "latitude": 5.1166667,
+        "longitude": -55.25
+    },
+    {
+        "name": "Deboe",
+        "country": "Suriname",
+        "province": "Sipaliwini",
+        "population": -1,
+        "latitude": 3.9,
+        "longitude": -55.5666667
+    },
+    {
+        "name": "Dampoentoeng",
+        "country": "Suriname",
+        "province": "Saramacca",
+        "population": -1,
+        "latitude": 5.8166667,
+        "longitude": -55.5
+    },
+    {
+        "name": "Commissaris Kondre",
+        "country": "Suriname",
+        "province": "Para",
+        "population": -1,
+        "latitude": 5.25,
+        "longitude": -55.35
+    },
+    {
+        "name": "Clementie",
+        "country": "Suriname",
+        "province": "Sipaliwini",
+        "population": -1,
+        "latitude": 4.183043,
+        "longitude": -54.592028
+    },
+    {
+        "name": "Charlottenburg",
+        "country": "Suriname",
+        "province": "Commewijne",
+        "population": -1,
+        "latitude": 5.8666667,
+        "longitude": -54.7833333
+    },
+    {
+        "name": "Catharina Sophia",
+        "country": "Suriname",
+        "province": "Saramacca",
+        "population": -1,
+        "latitude": 5.854203,
+        "longitude": -55.56768
+    },
+    {
+        "name": "Cassipora",
+        "country": "Suriname",
+        "province": "Para",
+        "population": -1,
+        "latitude": 5.396522,
+        "longitude": -54.953769
+    },
+    {
+        "name": "Carl François",
+        "country": "Suriname",
+        "province": "Saramacca",
+        "population": -1,
+        "latitude": 5.832898,
+        "longitude": -55.764637
+    },
+    {
+        "name": "Brokolonko Placer",
+        "country": "Suriname",
+        "province": "Sipaliwini",
+        "population": -1,
+        "latitude": 5.032256,
+        "longitude": -55.540948
+    },
+    {
+        "name": "Bosland",
+        "country": "Suriname",
+        "province": "Brokopondo",
+        "population": -1,
+        "latitude": 5.087536,
+        "longitude": -54.972609
+    },
+    {
+        "name": "Blakawabra",
+        "country": "Suriname",
+        "province": "Para",
+        "population": -1,
+        "latitude": 5.388985,
+        "longitude": -54.922175
+    },
+    {
+        "name": "Birihoedoematoe",
+        "country": "Suriname",
+        "province": "Brokopondo",
+        "population": -1,
+        "latitude": 4.906077,
+        "longitude": -55.073332
+    },
+    {
+        "name": "Belwarde",
+        "country": "Suriname",
+        "province": "Commewijne",
+        "population": -1,
+        "latitude": 5.848258,
+        "longitude": -55.087345
+    },
+    {
+        "name": "Begoeba",
+        "country": "Suriname",
+        "province": "Sipaliwini",
+        "population": -1,
+        "latitude": 4.3166667,
+        "longitude": -55.4166667
+    },
+    {
+        "name": "Bamboesi",
+        "country": "Suriname",
+        "province": "Marowijne",
+        "population": -1,
+        "latitude": 5.525362,
+        "longitude": -54.036086
+    },
+    {
+        "name": "Bakrakondre",
+        "country": "Suriname",
+        "province": "Sipaliwini",
+        "population": -1,
+        "latitude": 3.8,
+        "longitude": -55.7
+    },
+    {
+        "name": "Awadam",
+        "country": "Suriname",
+        "province": "Sipaliwini",
+        "population": -1,
+        "latitude": 3.8333333,
+        "longitude": -55.65
+    },
+    {
+        "name": "Arakoniekondre",
+        "country": "Suriname",
+        "province": "Sipaliwini",
+        "population": -1,
+        "latitude": 5.324866,
+        "longitude": -56.475012
+    },
+    {
+        "name": "Antongron",
+        "country": "Suriname",
+        "province": "Saramacca",
+        "population": -1,
+        "latitude": 5.863333,
+        "longitude": -55.656378
+    },
+    {
+        "name": "Aneewakondre",
+        "country": "Suriname",
+        "province": "Sipaliwini",
+        "population": -1,
+        "latitude": 3.9666667,
+        "longitude": -54.8
+    },
+    {
+        "name": "Akoelitatajeprati",
+        "country": "Suriname",
+        "province": "Sipaliwini",
+        "population": -1,
+        "latitude": 4.153478,
+        "longitude": -55.906378
+    },
+    {
+        "name": "Akalli Kondre",
+        "country": "Suriname",
+        "province": "Marowijne",
+        "population": -1,
+        "latitude": 5.591449,
+        "longitude": -54.420146
+    },
+    {
+        "name": "Agossa",
+        "country": "Suriname",
+        "province": "Sipaliwini",
+        "population": -1,
+        "latitude": 3.5,
+        "longitude": -55.1
+    },
+    {
+        "name": "Agitriondre",
+        "country": "Suriname",
+        "province": "Marowijne",
+        "population": -1,
+        "latitude": 5.777536,
+        "longitude": -54.454058
+    },
+    {
+        "name": "Agamakriki",
+        "country": "Suriname",
+        "province": "Para",
+        "population": -1,
+        "latitude": 5.5,
+        "longitude": -54.7
+    },
+    {
+        "name": "Adawai",
+        "country": "Suriname",
+        "province": "Brokopondo",
+        "population": -1,
+        "latitude": 4.583333,
+        "longitude": -55.183333
+    },
+    {
+        "name": "Acote",
+        "country": "Suriname",
+        "province": "Sipaliwini",
+        "population": -1,
+        "latitude": 4.336521,
+        "longitude": -54.453914
+    },
+    {
+        "name": "Zoelen",
+        "country": "Suriname",
+        "province": "Commewijne",
+        "population": -1,
+        "latitude": 5.886262,
+        "longitude": -55.069488
+    },
+    {
+        "name": "Wittiehede Ston",
+        "country": "Suriname",
+        "province": "Sipaliwini",
+        "population": -1,
+        "latitude": 4.5833333,
+        "longitude": -55.6833333
+    },
+    {
+        "name": "Wijngaardekondre",
+        "country": "Suriname",
+        "province": "Marowijne",
+        "population": -1,
+        "latitude": 5.439855,
+        "longitude": -54.103042
+    },
+    {
+        "name": "Wiesawinie",
+        "country": "Suriname",
+        "province": "Para",
+        "population": -1,
+        "latitude": 5.433757,
+        "longitude": -55.045206
+    },
+    {
+        "name": "Watervliet",
+        "country": "Suriname",
+        "province": "Para",
+        "population": -1,
+        "latitude": 5.512608,
+        "longitude": -55.054347
+    },
+    {
+        "name": "Waterloo",
+        "country": "Suriname",
+        "province": "Nickerie",
+        "population": -1,
+        "latitude": 5.913625,
+        "longitude": -56.952239
+    },
+    {
+        "name": "Waterland",
+        "country": "Suriname",
+        "province": "Para",
+        "population": -1,
+        "latitude": 5.666667,
+        "longitude": -55.05
+    },
+    {
+        "name": "Voetoekaba",
+        "country": "Suriname",
+        "province": "Sipaliwini",
+        "population": -1,
+        "latitude": 4.2333333,
+        "longitude": -55.45
+    },
+    {
+        "name": "Visserszorg",
+        "country": "Suriname",
+        "province": "Commewijne",
+        "population": -1,
+        "latitude": 5.8666667,
+        "longitude": -55.0166667
+    },
+    {
+        "name": "Vier Kinderen",
+        "country": "Suriname",
+        "province": "Para",
+        "population": -1,
+        "latitude": 5.504365,
+        "longitude": -55.222257
+    },
+    {
+        "name": "Vertrouwen",
+        "country": "Suriname",
+        "province": "Nickerie",
+        "population": -1,
+        "latitude": 5.8833333,
+        "longitude": -56.8833333
+    },
+    {
+        "name": "Veer",
+        "country": "Suriname",
+        "province": "Nickerie",
+        "population": -1,
+        "latitude": 5.8666667,
+        "longitude": -56.85
+    },
+    {
+        "name": "Utrecht",
+        "country": "Suriname",
+        "province": "Nickerie",
+        "population": -1,
+        "latitude": 5.751022,
+        "longitude": -56.665938
+    },
+    {
+        "name": "Tulpenburg",
+        "country": "Suriname",
+        "province": "Commewijne",
+        "population": -1,
+        "latitude": 5.5666667,
+        "longitude": -55.05
+    },
+    {
+        "name": "Tojakondre",
+        "country": "Suriname",
+        "province": "Marowijne",
+        "population": -1,
+        "latitude": 5.7666667,
+        "longitude": -54.4166667
+    },
+    {
+        "name": "Toekoppie",
+        "country": "Suriname",
+        "province": "Marowijne",
+        "population": -1,
+        "latitude": 5.631304,
+        "longitude": -54.285362
+    },
+    {
+        "name": "Tapoeripa",
+        "country": "Suriname",
+        "province": "Nickerie",
+        "population": -1,
+        "latitude": 5.367713,
+        "longitude": -56.542578
+    },
+    {
+        "name": "Tapahoekoe",
+        "country": "Suriname",
+        "province": "Marowijne",
+        "population": -1,
+        "latitude": 5.5333333,
+        "longitude": -54.0333333
+    },
+    {
+        "name": "Suzannasdaal",
+        "country": "Suriname",
+        "province": "Commewijne",
+        "population": -1,
+        "latitude": 5.8666667,
+        "longitude": -55.0833333
+    },
+    {
+        "name": "Stonkoe",
+        "country": "Suriname",
+        "province": "Sipaliwini",
+        "population": -1,
+        "latitude": 4.660435,
+        "longitude": -55.588115
+    },
+    {
+        "name": "Stonkampoe",
+        "country": "Suriname",
+        "province": "Sipaliwini",
+        "population": -1,
+        "latitude": 5.354058,
+        "longitude": -54.633766
+    },
+    {
+        "name": "Stoepenveer",
+        "country": "Suriname",
+        "province": "Saramacca",
+        "population": -1,
+        "latitude": 5.8333333,
+        "longitude": -55.4666667
+    },
+    {
+        "name": "Sonnakampoe",
+        "country": "Suriname",
+        "province": "Sipaliwini",
+        "population": -1,
+        "latitude": 3.9333333,
+        "longitude": -54.8
+    },
+    {
+        "name": "Soekroewatra",
+        "country": "Suriname",
+        "province": "Brokopondo",
+        "population": -1,
+        "latitude": 4.75,
+        "longitude": -55
+    },
+    {
+        "name": "Soekibaka",
+        "country": "Suriname",
+        "province": "Sipaliwini",
+        "population": -1,
+        "latitude": 4.3833333,
+        "longitude": -55.7833333
+    },
+    {
+        "name": "Slootwijk",
+        "country": "Suriname",
+        "province": "Commewijne",
+        "population": -1,
+        "latitude": 5.834927,
+        "longitude": -54.87319
+    },
+    {
+        "name": "Sikakamp",
+        "country": "Suriname",
+        "province": "Brokopondo",
+        "population": -1,
+        "latitude": 4.755462,
+        "longitude": -54.996538
+    },
+    {
+        "name": "Sidodadi",
+        "country": "Suriname",
+        "province": "Saramacca",
+        "population": -1,
+        "latitude": 5.794493,
+        "longitude": -55.495652
+    },
+    {
+        "name": "Sesebiase",
+        "country": "Suriname",
+        "province": "Brokopondo",
+        "population": -1,
+        "latitude": 5.156087,
+        "longitude": -54.992899
+    },
+    {
+        "name": "Seboewatra",
+        "country": "Suriname",
+        "province": "Sipaliwini",
+        "population": -1,
+        "latitude": 4.1166667,
+        "longitude": -54.6333333
+    },
+    {
+        "name": "Saye",
+        "country": "Suriname",
+        "province": "Sipaliwini",
+        "population": -1,
+        "latitude": 4.179131,
+        "longitude": -54.565506
+    },
+    {
+        "name": "Sarah",
+        "country": "Suriname",
+        "province": "Coronie",
+        "population": -1,
+        "latitude": 5.889927,
+        "longitude": -56.373112
+    },
+    {
+        "name": "Saniki",
+        "country": "Suriname",
+        "province": "Sipaliwini",
+        "population": -1,
+        "latitude": 4.0666667,
+        "longitude": -54.7833333
+    },
+    {
+        "name": "Salinkondre",
+        "country": "Suriname",
+        "province": "Sipaliwini",
+        "population": -1,
+        "latitude": 3.8333333,
+        "longitude": -54.8333333
+    },
+    {
+        "name": "Saje",
+        "country": "Suriname",
+        "province": "Sipaliwini",
+        "population": -1,
+        "latitude": 4.1833333,
+        "longitude": -54.5666667
+    },
+    {
+        "name": "Sabaroe",
+        "country": "Suriname",
+        "province": "Para",
+        "population": -1,
+        "latitude": 5.249855,
+        "longitude": -56.099999
+    },
+    {
+        "name": "Sabana",
+        "country": "Suriname",
+        "province": "Para",
+        "population": -1,
+        "latitude": 5.386957,
+        "longitude": -55.920001
+    },
+    {
+        "name": "Rosebel",
+        "country": "Suriname",
+        "province": "Brokopondo",
+        "population": -1,
+        "latitude": 5.0833333,
+        "longitude": -55.15
+    },
+    {
+        "name": "Rorac",
+        "country": "Suriname",
+        "province": "Suriname",
+        "population": -1,
+        "latitude": 5.620435,
+        "longitude": -55.02855
+    },
+    {
+        "name": "Rémontcourt",
+        "country": "Suriname",
+        "province": "Brokopondo",
+        "population": -1,
+        "latitude": 5.1666667,
+        "longitude": -55.0666667
+    },
+    {
+        "name": "Reinsdorp",
+        "country": "Suriname",
+        "province": "Brokopondo",
+        "population": -1,
+        "latitude": 5.192898,
+        "longitude": -55.0671
+    },
+    {
+        "name": "Rama",
+        "country": "Suriname",
+        "province": "Brokopondo",
+        "population": -1,
+        "latitude": 5.312319,
+        "longitude": -55.079129
+    },
+    {
+        "name": "Portorico",
+        "country": "Suriname",
+        "province": "Commewijne",
+        "population": -1,
+        "latitude": 5.6166667,
+        "longitude": -55.0333333
+    },
+    {
+        "name": "Pomona",
+        "country": "Suriname",
+        "province": "Commewijne",
+        "population": -1,
+        "latitude": 5.9333333,
+        "longitude": -55.1333333
+    },
+    {
+        "name": "Poitehede",
+        "country": "Suriname",
+        "province": "Sipaliwini",
+        "population": -1,
+        "latitude": 5.307826,
+        "longitude": -54.622031
+    },
+    {
+        "name": "Poelwijk",
+        "country": "Suriname",
+        "province": "Marowijne",
+        "population": -1,
+        "latitude": 5.771159,
+        "longitude": -54.649277
+    },
+    {
+        "name": "Pleiké",
+        "country": "Suriname",
+        "province": "Sipaliwini",
+        "population": -1,
+        "latitude": 3.1,
+        "longitude": -54.1833333
+    },
+    {
+        "name": "Pisjang",
+        "country": "Suriname",
+        "province": "Brokopondo",
+        "population": -1,
+        "latitude": 4.963461,
+        "longitude": -55.006769
+    },
+    {
+        "name": "Pisiemoengo",
+        "country": "Suriname",
+        "province": "Para",
+        "population": -1,
+        "latitude": 5.3333333,
+        "longitude": -54.8
+    },
+    {
+        "name": "Pikienkondre",
+        "country": "Suriname",
+        "province": "Sipaliwini",
+        "population": -1,
+        "latitude": 4.1166667,
+        "longitude": -54.6833333
+    },
+    {
+        "name": "Pieterszorg",
+        "country": "Suriname",
+        "province": "Commewijne",
+        "population": -1,
+        "latitude": 5.9166667,
+        "longitude": -55.0833333
+    },
+    {
+        "name": "Pempe",
+        "country": "Suriname",
+        "province": "Sipaliwini",
+        "population": -1,
+        "latitude": 4.041739,
+        "longitude": -55.448986
+    },
+    {
+        "name": "Paubasoe",
+        "country": "Suriname",
+        "province": "Sipaliwini",
+        "population": -1,
+        "latitude": 4.95,
+        "longitude": -55.55
+    },
+    {
+        "name": "Paradijs",
+        "country": "Suriname",
+        "province": "Marowijne",
+        "population": -1,
+        "latitude": 5.79,
+        "longitude": -54.434059
+    },
+    {
+        "name": "Oxford",
+        "country": "Suriname",
+        "province": "Coronie",
+        "population": -1,
+        "latitude": 5.901168,
+        "longitude": -56.427325
+    },
+    {
+        "name": "plantage Overtoom",
+        "country": "Suriname",
+        "province": "Para",
+        "population": -1,
+        "latitude": 5.577741,
+        "longitude": -55.159215
+    },
+    {
+        "name": "Oplanie",
+        "country": "Suriname",
+        "province": "Marowijne",
+        "population": -1,
+        "latitude": 5.674202,
+        "longitude": -54.333477
+    },
+    {
+        "name": "Onikaikondre",
+        "country": "Suriname",
+        "province": "Marowijne",
+        "population": -1,
+        "latitude": 5.45,
+        "longitude": -54.1
+    },
+    {
+        "name": "Nooitgedacht",
+        "country": "Suriname",
+        "province": "Nickerie",
+        "population": -1,
+        "latitude": 5.85,
+        "longitude": -56.85
+    },
+    {
+        "name": "Nieuw Mocha",
+        "country": "Suriname",
+        "province": "Commewijne",
+        "population": -1,
+        "latitude": 5.866812,
+        "longitude": -54.853332
+    },
+    {
+        "name": "Nieuw Lombé",
+        "country": "Suriname",
+        "province": "Brokopondo",
+        "population": -1,
+        "latitude": 5.172898,
+        "longitude": -55.06797
+    },
+    {
+        "name": "Moy",
+        "country": "Suriname",
+        "province": "Coronie",
+        "population": -1,
+        "latitude": 5.863917,
+        "longitude": -56.281727
+    },
+    {
+        "name": "Mon Souci",
+        "country": "Suriname",
+        "province": "Commewijne",
+        "population": -1,
+        "latitude": 5.873333,
+        "longitude": -54.968986
+    },
+    {
+        "name": "Mofina",
+        "country": "Suriname",
+        "province": "Sipaliwini",
+        "population": -1,
+        "latitude": 4.669421,
+        "longitude": -55.565361
+    },
+    {
+        "name": "Moelakondre",
+        "country": "Suriname",
+        "province": "Marowijne",
+        "population": -1,
+        "latitude": 5.552029,
+        "longitude": -54.433769
+    },
+    {
+        "name": "Moederzorg",
+        "country": "Suriname",
+        "province": "Brokopondo",
+        "population": -1,
+        "latitude": 5.244928,
+        "longitude": -55.034782
+    },
+    {
+        "name": "Mason Kondre",
+        "country": "Suriname",
+        "province": "Marowijne",
+        "population": -1,
+        "latitude": 5.565942,
+        "longitude": -54.421885
+    },
+    {
+        "name": "Mary’s Hope",
+        "country": "Suriname",
+        "province": "Coronie",
+        "population": -1,
+        "latitude": 5.870486,
+        "longitude": -56.308028
+    },
+    {
+        "name": "Maripaondre",
+        "country": "Suriname",
+        "province": "Brokopondo",
+        "population": -1,
+        "latitude": 4.966667,
+        "longitude": -55
+    },
+    {
+        "name": "Marias Lust",
+        "country": "Suriname",
+        "province": "Saramacca",
+        "population": -1,
+        "latitude": 5.66087,
+        "longitude": -55.385795
+    },
+    {
+        "name": "Manillakondre",
+        "country": "Suriname",
+        "province": "Sipaliwini",
+        "population": -1,
+        "latitude": 5.12058,
+        "longitude": -54.380147
+    },
+    {
+        "name": "Malaitawa",
+        "country": "Suriname",
+        "province": "Sipaliwini",
+        "population": -1,
+        "latitude": 3.1333333,
+        "longitude": -54.2166667
+    },
+    {
+        "name": "Makami",
+        "country": "Suriname",
+        "province": "Brokopondo",
+        "population": -1,
+        "latitude": 4.906744,
+        "longitude": -55.092717
+    },
+    {
+        "name": "Maasstroom",
+        "country": "Suriname",
+        "province": "Commewijne",
+        "population": -1,
+        "latitude": 5.894492,
+        "longitude": -55.057245
+    },
+    {
+        "name": "Lemmiki",
+        "country": "Suriname",
+        "province": "Sipaliwini",
+        "population": -1,
+        "latitude": 4.919359,
+        "longitude": -55.566896
+    },
+    {
+        "name": "Leliëndaal",
+        "country": "Suriname",
+        "province": "Commewijne",
+        "population": -1,
+        "latitude": 5.8666667,
+        "longitude": -55.0333333
+    },
+    {
+        "name": "Leasowes",
+        "country": "Suriname",
+        "province": "Coronie",
+        "population": -1,
+        "latitude": 5.884696,
+        "longitude": -56.35574
+    },
+    {
+        "name": "La Ressource",
+        "country": "Suriname",
+        "province": "Commewijne",
+        "population": -1,
+        "latitude": 5.9166667,
+        "longitude": -55.1
+    },
+    {
+        "name": "La Providence",
+        "country": "Suriname",
+        "province": "Brokopondo",
+        "population": -1,
+        "latitude": 5.270869,
+        "longitude": -55.064492
+    },
+    {
+        "name": "La Poule",
+        "country": "Suriname",
+        "province": "Saramacca",
+        "population": -1,
+        "latitude": 5.757246,
+        "longitude": -55.424204
+    },
+    {
+        "name": "Langamankondre",
+        "country": "Suriname",
+        "province": "Marowijne",
+        "population": -1,
+        "latitude": 5.702174,
+        "longitude": -54.015217
+    },
+    {
+        "name": "Landsboerderij",
+        "country": "Suriname",
+        "province": "Paramaribo",
+        "population": -1,
+        "latitude": 5.8166667,
+        "longitude": -55.2166667
+    },
+    {
+        "name": "Krikie",
+        "country": "Suriname",
+        "province": "Brokopondo",
+        "population": -1,
+        "latitude": 4.948538,
+        "longitude": -55.007462
+    },
+    {
+        "name": "Kraka",
+        "country": "Suriname",
+        "province": "Para",
+        "population": -1,
+        "latitude": 5.346087,
+        "longitude": -55.112317
+    },
+    {
+        "name": "Klaverblad",
+        "country": "Suriname",
+        "province": "Commewijne",
+        "population": -1,
+        "latitude": 5.657971,
+        "longitude": -55.036521
+    },
+    {
+        "name": "Katwijk",
+        "country": "Suriname",
+        "province": "Commewijne",
+        "population": -1,
+        "latitude": 5.852899,
+        "longitude": -55.000145
+    },
+    {
+        "name": "Kapoesanti",
+        "country": "Suriname",
+        "province": "Sipaliwini",
+        "population": -1,
+        "latitude": 4.473624,
+        "longitude": -56.072608
+    },
+    {
+        "name": "Kapasie Kree",
+        "country": "Suriname",
+        "province": "Brokopondo",
+        "population": -1,
+        "latitude": 4.896949,
+        "longitude": -55.077409
+    },
+    {
+        "name": "Kalfoekondre",
+        "country": "Suriname",
+        "province": "Sipaliwini",
+        "population": -1,
+        "latitude": 5.1166667,
+        "longitude": -54.3833333
+    },
+    {
+        "name": "Kadjoe",
+        "country": "Suriname",
+        "province": "Brokopondo",
+        "population": -1,
+        "latitude": 4.927436,
+        "longitude": -55.057973
+    },
+    {
+        "name": "Kabelstation",
+        "country": "Suriname",
+        "province": "Brokopondo",
+        "population": -1,
+        "latitude": 4.905975,
+        "longitude": -55.079024
+    },
+    {
+        "name": "Kabelpont",
+        "country": "Suriname",
+        "province": "Saramacca",
+        "population": -1,
+        "latitude": 5.8333333,
+        "longitude": -55.45
+    },
+    {
+        "name": "Johannesburg",
+        "country": "Suriname",
+        "province": "Commewijne",
+        "population": -1,
+        "latitude": 5.906657,
+        "longitude": -55.070981
+    },
+    {
+        "name": "Java",
+        "country": "Suriname",
+        "province": "Para",
+        "population": -1,
+        "latitude": 5.393188,
+        "longitude": -54.668262
+    },
+    {
+        "name": "Janemale",
+        "country": "Suriname",
+        "province": "Sipaliwini",
+        "population": -1,
+        "latitude": 3.2166667,
+        "longitude": -54.1666667
+    },
+    {
+        "name": "Jacobkondre",
+        "country": "Suriname",
+        "province": "Sipaliwini",
+        "population": -1,
+        "latitude": 4.95,
+        "longitude": -55.5333333
+    },
+    {
+        "name": "Ingipoe",
+        "country": "Suriname",
+        "province": "Para",
+        "population": -1,
+        "latitude": 5.102754,
+        "longitude": -55.499565
+    },
+    {
+        "name": "Hoofdkamp",
+        "country": "Suriname",
+        "province": "Sipaliwini",
+        "population": -1,
+        "latitude": 2.9666667,
+        "longitude": -55.3666667
+    },
+    {
+        "name": "Hildesheim",
+        "country": "Suriname",
+        "province": "Saramacca",
+        "population": -1,
+        "latitude": 5.846377,
+        "longitude": -55.773768
+    },
+    {
+        "name": "Hertenrits",
+        "country": "Suriname",
+        "province": "Nickerie",
+        "population": -1,
+        "latitude": 5.904783,
+        "longitude": -56.641886
+    },
+    {
+        "name": "Herstelling",
+        "country": "Suriname",
+        "province": "Commewijne",
+        "population": -1,
+        "latitude": 5.612029,
+        "longitude": -54.733623
+    },
+    {
+        "name": "Herminadorp",
+        "country": "Suriname",
+        "province": "Sipaliwini",
+        "population": -1,
+        "latitude": 5.163334,
+        "longitude": -54.359274
+    },
+    {
+        "name": "Hamilton",
+        "country": "Suriname",
+        "province": "Coronie",
+        "population": -1,
+        "latitude": 5.854866,
+        "longitude": -56.260511
+    },
+    {
+        "name": "Hamburg",
+        "country": "Suriname",
+        "province": "Saramacca",
+        "population": -1,
+        "latitude": 5.766811,
+        "longitude": -55.353332
+    },
+    {
+        "name": "Haarlem",
+        "country": "Suriname",
+        "province": "Para",
+        "population": -1,
+        "latitude": 5.647536,
+        "longitude": -55.343332
+    },
+    {
+        "name": "Gwegwefoetoe",
+        "country": "Suriname",
+        "province": "Marowijne",
+        "population": -1,
+        "latitude": 5.303044,
+        "longitude": -54.235942
+    },
+    {
+        "name": "Gran Slee",
+        "country": "Suriname",
+        "province": "Sipaliwini",
+        "population": -1,
+        "latitude": 4.0333333,
+        "longitude": -55.4833333
+    },
+    {
+        "name": "Granmankondre",
+        "country": "Suriname",
+        "province": "Sipaliwini",
+        "population": -1,
+        "latitude": 4.4,
+        "longitude": -55.7833333
+    },
+    {
+        "name": "Grandam",
+        "country": "Suriname",
+        "province": "Sipaliwini",
+        "population": -1,
+        "latitude": 3.9666667,
+        "longitude": -55.5333333
+    },
+    {
+        "name": "Gonoe",
+        "country": "Suriname",
+        "province": "Sipaliwini",
+        "population": -1,
+        "latitude": 5.085652,
+        "longitude": -54.42261
+    },
+    {
+        "name": "Goejaba",
+        "country": "Suriname",
+        "province": "Sipaliwini",
+        "population": -1,
+        "latitude": 4.317102,
+        "longitude": -55.415798
+    },
+    {
+        "name": "Gloria",
+        "country": "Suriname",
+        "province": "Nickerie",
+        "population": -1,
+        "latitude": 5.8833333,
+        "longitude": -56.9
+    },
+    {
+        "name": "Gelderland",
+        "country": "Suriname",
+        "province": "Para",
+        "population": -1,
+        "latitude": 5.430724,
+        "longitude": -54.990725
+    },
+    {
+        "name": "Gege",
+        "country": "Suriname",
+        "province": "Brokopondo",
+        "population": -1,
+        "latitude": 4.7,
+        "longitude": -54.966667
+    },
+    {
+        "name": "Geertruidenberg",
+        "country": "Suriname",
+        "province": "Commewijne",
+        "population": -1,
+        "latitude": 5.8833333,
+        "longitude": -55.05
+    },
+    {
+        "name": "Ganiakondre",
+        "country": "Suriname",
+        "province": "Brokopondo",
+        "population": -1,
+        "latitude": 4.831025,
+        "longitude": -55.087947
+    },
+    {
+        "name": "Gakaba",
+        "country": "Suriname",
+        "province": "Sipaliwini",
+        "population": -1,
+        "latitude": 4.457392,
+        "longitude": -54.439856
+    },
+    {
+        "name": "Fransman Landing",
+        "country": "Suriname",
+        "province": "Sipaliwini",
+        "population": -1,
+        "latitude": 5.191095,
+        "longitude": -57.039658
+    },
+    {
+        "name": "Fossi Bergi",
+        "country": "Suriname",
+        "province": "Sipaliwini",
+        "population": -1,
+        "latitude": 5.2833333,
+        "longitude": -56.3833333
+    },
+    {
+        "name": "Fijetti",
+        "country": "Suriname",
+        "province": "Sipaliwini",
+        "population": -1,
+        "latitude": 4.3833333,
+        "longitude": -55.8
+    },
+    {
+        "name": "Elisabeth’s Hoop",
+        "country": "Suriname",
+        "province": "Commewijne",
+        "population": -1,
+        "latitude": 5.9,
+        "longitude": -55.033333
+    },
+    {
+        "name": "Eduardkondre",
+        "country": "Suriname",
+        "province": "Marowijne",
+        "population": -1,
+        "latitude": 5.452464,
+        "longitude": -54.098694
+    },
+    {
+        "name": "Dotti Bergi",
+        "country": "Suriname",
+        "province": "Sipaliwini",
+        "population": -1,
+        "latitude": 5.041539,
+        "longitude": -55.540461
+    },
+    {
+        "name": "Donderkamp",
+        "country": "Suriname",
+        "province": "Sipaliwini",
+        "population": -1,
+        "latitude": 5.341971,
+        "longitude": -56.354552
+    },
+    {
+        "name": "Dissiong",
+        "country": "Suriname",
+        "province": "Brokopondo",
+        "population": -1,
+        "latitude": 4.666667,
+        "longitude": -55.1
+    },
+    {
+        "name": "Dirkshoop",
+        "country": "Suriname",
+        "province": "Saramacca",
+        "population": -1,
+        "latitude": 5.7833333,
+        "longitude": -55.4833333
+    },
+    {
+        "name": "De Vrede",
+        "country": "Suriname",
+        "province": "Para",
+        "population": -1,
+        "latitude": 5.437246,
+        "longitude": -55.148262
+    },
+    {
+        "name": "Destombesburg",
+        "country": "Suriname",
+        "province": "Commewijne",
+        "population": -1,
+        "latitude": 5.681304,
+        "longitude": -54.73087
+    },
+    {
+        "name": "De Jong Zuid",
+        "country": "Suriname",
+        "province": "Brokopondo",
+        "population": -1,
+        "latitude": 5.0833333,
+        "longitude": -55.2333333
+    },
+    {
+        "name": "De Goede Hoop",
+        "country": "Suriname",
+        "province": "Sipaliwini",
+        "population": -1,
+        "latitude": 5.528695,
+        "longitude": -55.963914
+    },
+    {
+        "name": "De Drie Gebroeders",
+        "country": "Suriname",
+        "province": "Commewijne",
+        "population": -1,
+        "latitude": 5.6,
+        "longitude": -55.0666667
+    },
+    {
+        "name": "Dankbaarheid",
+        "country": "Suriname",
+        "province": "Saramacca",
+        "population": -1,
+        "latitude": 5.853043,
+        "longitude": -55.591738
+    },
+    {
+        "name": "Dang",
+        "country": "Suriname",
+        "province": "Sipaliwini",
+        "population": -1,
+        "latitude": 4.194056816113425,
+        "longitude": -55.430402755737305
+    },
+    {
+        "name": "Dam Parra",
+        "country": "Suriname",
+        "province": "Saramacca",
+        "population": -1,
+        "latitude": 5.636087,
+        "longitude": -55.408697
+    },
+    {
+        "name": "Dam",
+        "country": "Suriname",
+        "province": "Brokopondo",
+        "population": -1,
+        "latitude": 4.666667,
+        "longitude": -54.95
+    },
+    {
+        "name": "Dablasiekondre",
+        "country": "Suriname",
+        "province": "Sipaliwini",
+        "population": -1,
+        "latitude": 3.9,
+        "longitude": -54.8
+    },
+    {
+        "name": "Cupido",
+        "country": "Suriname",
+        "province": "Nickerie",
+        "population": -1,
+        "latitude": 5.65455,
+        "longitude": -56.660853
+    },
+    {
+        "name": "Crappahoek",
+        "country": "Suriname",
+        "province": "Nickerie",
+        "population": -1,
+        "latitude": 5.8833333,
+        "longitude": -56.9
+    },
+    {
+        "name": "Copie",
+        "country": "Suriname",
+        "province": "Para",
+        "population": -1,
+        "latitude": 5.510579,
+        "longitude": -54.807246
+    },
+    {
+        "name": "Copaivagogo",
+        "country": "Suriname",
+        "province": "Brokopondo",
+        "population": -1,
+        "latitude": 4.6,
+        "longitude": -55.166667
+    },
+    {
+        "name": "Clevia",
+        "country": "Suriname",
+        "province": "Commewijne",
+        "population": -1,
+        "latitude": 5.861813,
+        "longitude": -55.1158
+    },
+    {
+        "name": "Carolina",
+        "country": "Suriname",
+        "province": "Para",
+        "population": -1,
+        "latitude": 5.4,
+        "longitude": -55.0666667
+    },
+    {
+        "name": "Caledonia",
+        "country": "Suriname",
+        "province": "Saramacca",
+        "population": -1,
+        "latitude": 5.831884,
+        "longitude": -55.836086
+    },
+    {
+        "name": "Calbo",
+        "country": "Suriname",
+        "province": "Marowijne",
+        "population": -1,
+        "latitude": 5.79,
+        "longitude": -54.444928
+    },
+    {
+        "name": "Burnside",
+        "country": "Suriname",
+        "province": "Coronie",
+        "population": -1,
+        "latitude": 5.896375,
+        "longitude": -56.408177
+    },
+    {
+        "name": "Brokolonko",
+        "country": "Suriname",
+        "province": "Sipaliwini",
+        "population": -1,
+        "latitude": 5.032753,
+        "longitude": -55.542675
+    },
+    {
+        "name": "Broederschap",
+        "country": "Suriname",
+        "province": "Saramacca",
+        "population": -1,
+        "latitude": 5.860725,
+        "longitude": -55.54884
+    },
+    {
+        "name": "Boxel",
+        "country": "Suriname",
+        "province": "Commewijne",
+        "population": -1,
+        "latitude": 5.7166667,
+        "longitude": -55.1
+    },
+    {
+        "name": "Bottriekoe Santi",
+        "country": "Suriname",
+        "province": "Para",
+        "population": -1,
+        "latitude": 5.062436,
+        "longitude": -55.547845
+    },
+    {
+        "name": "Bombay",
+        "country": "Suriname",
+        "province": "Nickerie",
+        "population": -1,
+        "latitude": 5.8333333,
+        "longitude": -56.8166667
+    },
+    {
+        "name": "Bofe",
+        "country": "Suriname",
+        "province": "Sipaliwini",
+        "population": -1,
+        "latitude": 4.982511,
+        "longitude": -55.543728
+    },
+    {
+        "name": "Bilawatra",
+        "country": "Suriname",
+        "province": "Sipaliwini",
+        "population": -1,
+        "latitude": 4.930256,
+        "longitude": -55.535845
+    },
+    {
+        "name": "Bigiston",
+        "country": "Suriname",
+        "province": "Marowijne",
+        "population": -1,
+        "latitude": 5.394783,
+        "longitude": -54.142752
+    },
+    {
+        "name": "Biakronie",
+        "country": "Suriname",
+        "province": "Sipaliwini",
+        "population": -1,
+        "latitude": 3.8333333,
+        "longitude": -54.85
+    },
+    {
+        "name": "Bethania",
+        "country": "Suriname",
+        "province": "Saramacca",
+        "population": -1,
+        "latitude": 5.85,
+        "longitude": -55.4833333
+    },
+    {
+        "name": "Berlijn",
+        "country": "Suriname",
+        "province": "Para",
+        "population": -1,
+        "latitude": 5.422029,
+        "longitude": -55.207972
+    },
+    {
+        "name": "Bergen op Zoom",
+        "country": "Suriname",
+        "province": "Commewijne",
+        "population": -1,
+        "latitude": 5.538986,
+        "longitude": -55.040144
+    },
+    {
+        "name": "Berendslust",
+        "country": "Suriname",
+        "province": "Commewijne",
+        "population": -1,
+        "latitude": 5.592319,
+        "longitude": -55.043188
+    },
+    {
+        "name": "Basiakampoe",
+        "country": "Suriname",
+        "province": "Marowijne",
+        "population": -1,
+        "latitude": 5.630435,
+        "longitude": -54.199276
+    },
+    {
+        "name": "Baloemadam",
+        "country": "Suriname",
+        "province": "Sipaliwini",
+        "population": -1,
+        "latitude": 3.9833333,
+        "longitude": -55.5
+    },
+    {
+        "name": "Balin",
+        "country": "Suriname",
+        "province": "Sipaliwini",
+        "population": -1,
+        "latitude": 4.9333333,
+        "longitude": -55.55
+    },
+    {
+        "name": "Auca",
+        "country": "Suriname",
+        "province": "Brokopondo",
+        "population": -1,
+        "latitude": 5.35,
+        "longitude": -55.0333333
+    },
+    {
+        "name": "Atipakondre",
+        "country": "Suriname",
+        "province": "Sipaliwini",
+        "population": -1,
+        "latitude": 3.95,
+        "longitude": -54.8
+    },
+    {
+        "name": "Atereboto",
+        "country": "Suriname",
+        "province": "Sipaliwini",
+        "population": -1,
+        "latitude": 4.448261,
+        "longitude": -55.775652
+    },
+    {
+        "name": "Asognekondre",
+        "country": "Suriname",
+        "province": "Sipaliwini",
+        "population": -1,
+        "latitude": 4.217247,
+        "longitude": -54.554782
+    },
+    {
+        "name": "Asoenoebo",
+        "country": "Suriname",
+        "province": "Sipaliwini",
+        "population": -1,
+        "latitude": 4.616232,
+        "longitude": -55.68145
+    },
+    {
+        "name": "Asidonkondre",
+        "country": "Suriname",
+        "province": "Sipaliwini",
+        "population": -1,
+        "latitude": 3.8333333,
+        "longitude": -54.85
+    },
+    {
+        "name": "Asafiri Kondre",
+        "country": "Suriname",
+        "province": "Saramacca",
+        "population": -1,
+        "latitude": 5.477536,
+        "longitude": -55.900146
+    },
+    {
+        "name": "Apoekakondre",
+        "country": "Suriname",
+        "province": "Sipaliwini",
+        "population": -1,
+        "latitude": 3.9,
+        "longitude": -54.8
+    },
+    {
+        "name": "Anna Maria",
+        "country": "Suriname",
+        "province": "Saramacca",
+        "population": -1,
+        "latitude": 5.856667,
+        "longitude": -55.55855
+    },
+    {
+        "name": "Anapi",
+        "country": "Suriname",
+        "province": "Sipaliwini",
+        "population": -1,
+        "latitude": 2.35,
+        "longitude": -56.2833333
+    },
+    {
+        "name": "Akroikondre",
+        "country": "Suriname",
+        "province": "Marowijne",
+        "population": -1,
+        "latitude": 5.46029,
+        "longitude": -54.094056
+    },
+    {
+        "name": "Ajokojokondre",
+        "country": "Suriname",
+        "province": "Sipaliwini",
+        "population": -1,
+        "latitude": 3.9166667,
+        "longitude": -54.8
+    },
+    {
+        "name": "Adjama",
+        "country": "Suriname",
+        "province": "Brokopondo",
+        "population": -1,
+        "latitude": 4.811052,
+        "longitude": -54.995385
+    },
+    {
+        "name": "Abetwakondre",
+        "country": "Suriname",
+        "province": "Sipaliwini",
+        "population": -1,
+        "latitude": 3.9166667,
+        "longitude": -54.8
+    },
+    {
+        "name": "Abenekokondre",
+        "country": "Suriname",
+        "province": "Marowijne",
+        "population": -1,
+        "latitude": 5.307247,
+        "longitude": -54.226812
+    },
+    {
+        "name": "Abanna Kondre",
+        "country": "Suriname",
+        "province": "Brokopondo",
+        "population": -1,
+        "latitude": 5.1333333,
+        "longitude": -54.9833333
+    },
+    {
+        "name": "Tornassie",
+        "country": "Suriname",
+        "province": "Saramacca",
+        "population": -1,
+        "latitude": 5.143385,
+        "longitude": -54.368687
+    },
+    {
+        "name": "Amoeakondre",
+        "country": "Suriname",
+        "province": "Saramacca",
+        "population": -1,
+        "latitude": 5.077588,
+        "longitude": -54.425934
+    },
+    {
+        "name": "Jedinakondre",
+        "country": "Suriname",
+        "province": "Saramacca",
+        "population": -1,
+        "latitude": 5.071791,
+        "longitude": -54.416803
+    },
+    {
+        "name": "Sannetje Tabbetje",
+        "country": "Suriname",
+        "province": "Brokopondo",
+        "population": -1,
+        "latitude": 5.17855,
+        "longitude": -55.084927
+    },
+    {
+        "name": "Bastienkondre",
+        "country": "Suriname",
+        "province": "Saramacca",
+        "population": -1,
+        "latitude": 5.290869,
+        "longitude": -54.233187
+    },
+    {
+        "name": "Awara Soula",
+        "country": "Suriname",
+        "province": "Sipaliwini",
+        "population": -1,
+        "latitude": 3.42709,
+        "longitude": -54.017489
+    },
+    {
+        "name": "Kawatop",
+        "country": "Suriname",
+        "province": "Sipaliwini",
+        "population": -1,
+        "latitude": 3.213155,
+        "longitude": -54.197805
+    },
+    {
+        "name": "Dordrecht",
+        "country": "Suriname",
+        "province": "Commewijne",
+        "population": -1,
+        "latitude": 5.832129,
+        "longitude": -55.086306
+    },
+    {
+        "name": "Dorpsgemeente",
+        "country": "Suriname",
+        "province": "Wanica",
+        "population": -1,
+        "latitude": 5.775324,
+        "longitude": -55.311658
+    },
+    {
+        "name": "Boma",
+        "country": "Suriname",
+        "province": "Wanica",
+        "population": -1,
+        "latitude": 5.756002,
+        "longitude": -55.28089
+    },
+    {
+        "name": "Magenta",
+        "country": "Suriname",
+        "province": "Wanica",
+        "population": -1,
+        "latitude": 5.780462,
+        "longitude": -55.249662
+    },
+    {
+        "name": "Tawajari",
+        "country": "Suriname",
+        "province": "Saramacca",
+        "population": -1,
+        "latitude": 5.761491,
+        "longitude": -55.324588
+    },
+    {
+        "name": "Vredenburg",
+        "country": "Suriname",
+        "province": "Wanica",
+        "population": -1,
+        "latitude": 5.723239,
+        "longitude": -55.154827
+    },
+    {
+        "name": "Balin",
+        "country": "Suriname",
+        "province": "Brokopondo",
+        "population": -1,
+        "latitude": 5.024462,
+        "longitude": -54.992255
+    },
+    {
+        "name": "Froedoetabriki",
+        "country": "Suriname",
+        "province": "Brokopondo",
+        "population": -1,
+        "latitude": 4.844,
+        "longitude": -55.079409
+    },
+    {
+        "name": "Diendos",
+        "country": "Suriname",
+        "province": "Brokopondo",
+        "population": -1,
+        "latitude": 4.825923,
+        "longitude": -55.089563
+    },
+    {
+        "name": "Zorg en Hoop",
+        "country": "Suriname",
+        "province": "Paramaribo",
+        "population": -1,
+        "latitude": 5.809895,
+        "longitude": -55.185995
+    },
+    {
+        "name": "Tourtonne",
+        "country": "Suriname",
+        "province": "Paramaribo",
+        "population": -1,
+        "latitude": 5.848482,
+        "longitude": -55.146918
+    },
+    {
+        "name": "plantage Topibo",
+        "country": "Suriname",
+        "province": "Para",
+        "population": -1,
+        "latitude": 5.565891,
+        "longitude": -55.136351
+    },
+    {
+        "name": "Panapi",
+        "country": "Suriname",
+        "province": "Sipaliwini",
+        "population": -1,
+        "latitude": 2.9666667,
+        "longitude": -54.1833333
+    },
+    {
+        "name": "plantage Onoribo",
+        "country": "Suriname",
+        "province": "Para",
+        "population": -1,
+        "latitude": 5.605783,
+        "longitude": -55.132964
+    },
+    {
+        "name": "Morgenstond",
+        "country": "Suriname",
+        "province": "Paramaribo",
+        "population": -1,
+        "latitude": 5.855937,
+        "longitude": -55.127424
+    },
+    {
+        "name": "Mon Plaisir",
+        "country": "Suriname",
+        "province": "Paramaribo",
+        "population": -1,
+        "latitude": 5.843516,
+        "longitude": -55.125896
+    },
+    {
+        "name": "La Tour",
+        "country": "Suriname",
+        "province": "Paramaribo",
+        "population": -1,
+        "latitude": 5.792144,
+        "longitude": -55.185187
+    },
+    {
+        "name": "Geyersvlijt",
+        "country": "Suriname",
+        "province": "Paramaribo",
+        "population": -1,
+        "latitude": 5.851768,
+        "longitude": -55.125003
+    },
+    {
+        "name": "Elisabethshof",
+        "country": "Suriname",
+        "province": "Paramaribo",
+        "population": -1,
+        "latitude": 5.838011,
+        "longitude": -55.13053
+    },
+    {
+        "name": "Benzdorp (Monte Hermon)",
+        "country": "Suriname",
+        "province": "Sipaliwini",
+        "population": 600,
+        "latitude": 3.67206702419569,
+        "longitude": -54.1035461425781
+    },
+    {
+        "name": "Kabana-vo",
+        "country": "Suriname",
+        "province": "Sipaliwini",
+        "population": 120,
+        "latitude": 3.67410666904398,
+        "longitude": -54.0848833322525
+    },
+    {
+        "name": "Bernie’s Projekt",
+        "country": "Suriname",
+        "province": "Paramaribo",
+        "population": -1,
+        "latitude": 5.853532,
+        "longitude": -55.185418
+    },
+    {
+        "name": "Bernie’s Park",
+        "country": "Suriname",
+        "province": "Paramaribo",
+        "population": -1,
+        "latitude": 5.845908,
+        "longitude": -55.185346
+    },
+    {
+        "name": "De Boer Buiten",
+        "country": "Suriname",
+        "province": "Paramaribo",
+        "population": -1,
+        "latitude": 5.849328,
+        "longitude": -55.179005
+    },
+    {
+        "name": "Stolk Buiten",
+        "country": "Suriname",
+        "province": "Paramaribo",
+        "population": -1,
+        "latitude": 5.840516,
+        "longitude": -55.177841
+    },
+    {
+        "name": "Janki",
+        "country": "Suriname",
+        "province": "Paramaribo",
+        "population": -1,
+        "latitude": 5.841716,
+        "longitude": -55.198443
+    },
+    {
+        "name": "Stolk",
+        "country": "Suriname",
+        "province": "Paramaribo",
+        "population": -1,
+        "latitude": 5.838863,
+        "longitude": -55.201642
+    },
+    {
+        "name": "Van Dijk II",
+        "country": "Suriname",
+        "province": "Paramaribo",
+        "population": -1,
+        "latitude": 5.840438,
+        "longitude": -55.205551
+    },
+    {
+        "name": "Polanen",
+        "country": "Suriname",
+        "province": "Paramaribo",
+        "population": -1,
+        "latitude": 5.837671,
+        "longitude": -55.198464
+    },
+    {
+        "name": "Van Dijk I",
+        "country": "Suriname",
+        "province": "Paramaribo",
+        "population": -1,
+        "latitude": 5.835966,
+        "longitude": -55.198313
+    },
+    {
+        "name": "Shaw",
+        "country": "Suriname",
+        "province": "Paramaribo",
+        "population": -1,
+        "latitude": 5.834753,
+        "longitude": -55.191681
+    },
+    {
+        "name": "Zweers",
+        "country": "Suriname",
+        "province": "Paramaribo",
+        "population": -1,
+        "latitude": 5.836686,
+        "longitude": -55.188005
+    },
+    {
+        "name": "Belair",
+        "country": "Suriname",
+        "province": "Paramaribo",
+        "population": -1,
+        "latitude": 5.831343,
+        "longitude": -55.190582
+    },
+    {
+        "name": "Rosenberg",
+        "country": "Suriname",
+        "province": "Paramaribo",
+        "population": -1,
+        "latitude": 5.829448,
+        "longitude": -55.19206
+    },
+    {
+        "name": "Via Bella",
+        "country": "Suriname",
+        "province": "Paramaribo",
+        "population": -1,
+        "latitude": 5.824521,
+        "longitude": -55.191036
+    },
+    {
+        "name": "Volkswoning Projekt L’Hermitage",
+        "country": "Suriname",
+        "province": "Paramaribo",
+        "population": -1,
+        "latitude": 5.824986,
+        "longitude": -55.200763
+    },
+    {
+        "name": "Half Flora",
+        "country": "Suriname",
+        "province": "Paramaribo",
+        "population": -1,
+        "latitude": 5.81019,
+        "longitude": -55.203538
+    },
+    {
+        "name": "Bams",
+        "country": "Suriname",
+        "province": "Paramaribo",
+        "population": -1,
+        "latitude": 5.821072,
+        "longitude": -55.20968
+    },
+    {
+        "name": "Duisburg en Onverwacht",
+        "country": "Suriname",
+        "province": "Paramaribo",
+        "population": -1,
+        "latitude": 5.80644,
+        "longitude": -55.192672
+    },
+    {
+        "name": "Saron Zuid",
+        "country": "Suriname",
+        "province": "Paramaribo",
+        "population": -1,
+        "latitude": 5.797392,
+        "longitude": -55.176949
+    },
+    {
+        "name": "Land Van Dijk",
+        "country": "Suriname",
+        "province": "Paramaribo",
+        "population": -1,
+        "latitude": 5.816366,
+        "longitude": -55.171447
+    },
+    {
+        "name": "L’Hermitage",
+        "country": "Suriname",
+        "province": "Paramaribo",
+        "population": -1,
+        "latitude": 5.820159,
+        "longitude": -55.189335
+    },
+    {
+        "name": "Poelepantje",
+        "country": "Suriname",
+        "province": "Paramaribo",
+        "population": -1,
+        "latitude": 5.81508,
+        "longitude": -55.176828
+    },
+    {
+        "name": "Abrabrokie",
+        "country": "Suriname",
+        "province": "Paramaribo",
+        "population": -1,
+        "latitude": 5.809977,
+        "longitude": -55.176222
+    },
+    {
+        "name": "Ondrobon",
+        "country": "Suriname",
+        "province": "Paramaribo",
+        "population": -1,
+        "latitude": 5.82693,
+        "longitude": -55.170739
+    },
+    {
+        "name": "Bronsplein",
+        "country": "Suriname",
+        "province": "Paramaribo",
+        "population": -1,
+        "latitude": 5.822812,
+        "longitude": -55.172836
+    },
+    {
+        "name": "Doerga",
+        "country": "Suriname",
+        "province": "Paramaribo",
+        "population": -1,
+        "latitude": 5.821372,
+        "longitude": -55.187288
+    },
+    {
+        "name": "Van Kesselpark",
+        "country": "Suriname",
+        "province": "Paramaribo",
+        "population": -1,
+        "latitude": 5.816394,
+        "longitude": -55.192164
+    },
+    {
+        "name": "Balona Park",
+        "country": "Suriname",
+        "province": "Paramaribo",
+        "population": -1,
+        "latitude": 5.822559,
+        "longitude": -55.200401
+    },
+    {
+        "name": "Flamboyant",
+        "country": "Suriname",
+        "province": "Paramaribo",
+        "population": -1,
+        "latitude": 5.822036,
+        "longitude": -55.2063
+    },
+    {
+        "name": "Kalpoe",
+        "country": "Suriname",
+        "province": "Paramaribo",
+        "population": -1,
+        "latitude": 5.818903,
+        "longitude": -55.215511
+    },
+    {
+        "name": "Ramdjan",
+        "country": "Suriname",
+        "province": "Paramaribo",
+        "population": -1,
+        "latitude": 5.821966,
+        "longitude": -55.217615
+    },
+    {
+        "name": "Cupido",
+        "country": "Suriname",
+        "province": "Paramaribo",
+        "population": -1,
+        "latitude": 5.826688,
+        "longitude": -55.212869
+    },
+    {
+        "name": "Politiebond",
+        "country": "Suriname",
+        "province": "Paramaribo",
+        "population": -1,
+        "latitude": 5.827951,
+        "longitude": -55.221028
+    },
+    {
+        "name": "Naipal",
+        "country": "Suriname",
+        "province": "Paramaribo",
+        "population": -1,
+        "latitude": 5.840566,
+        "longitude": -55.214962
+    },
+    {
+        "name": "Militar",
+        "country": "Suriname",
+        "province": "Paramaribo",
+        "population": -1,
+        "latitude": 5.841606,
+        "longitude": -55.212805
+    },
+    {
+        "name": "Peu et Content",
+        "country": "Suriname",
+        "province": "Paramaribo",
+        "population": -1,
+        "latitude": 5.847568,
+        "longitude": -55.197143
+    },
+    {
+        "name": "Combe",
+        "country": "Suriname",
+        "province": "Paramaribo",
+        "population": -1,
+        "latitude": 5.833256,
+        "longitude": -55.145192
+    },
+    {
+        "name": "Ma Retraite III",
+        "country": "Suriname",
+        "province": "Paramaribo",
+        "population": -1,
+        "latitude": 5.845787,
+        "longitude": -55.142969
+    },
+    {
+        "name": "Ma Retraite II",
+        "country": "Suriname",
+        "province": "Paramaribo",
+        "population": -1,
+        "latitude": 5.840936,
+        "longitude": -55.144611
+    },
+    {
+        "name": "Flamingo Park",
+        "country": "Suriname",
+        "province": "Paramaribo",
+        "population": -1,
+        "latitude": 5.84066,
+        "longitude": -55.138406
+    },
+    {
+        "name": "Twee Kinderen",
+        "country": "Suriname",
+        "province": "Paramaribo",
+        "population": -1,
+        "latitude": 5.847707,
+        "longitude": -55.132838
+    },
+    {
+        "name": "Nawa",
+        "country": "Suriname",
+        "province": "Paramaribo",
+        "population": -1,
+        "latitude": 5.828388,
+        "longitude": -55.188544
+    },
+    {
+        "name": "Koeldipsing",
+        "country": "Suriname",
+        "province": "Paramaribo",
+        "population": -1,
+        "latitude": 5.807801,
+        "longitude": -55.18407
+    },
+    {
+        "name": "Binda",
+        "country": "Suriname",
+        "province": "Paramaribo",
+        "population": -1,
+        "latitude": 5.817861,
+        "longitude": -55.19741
+    },
+    {
+        "name": "Saron Noord",
+        "country": "Suriname",
+        "province": "Paramaribo",
+        "population": -1,
+        "latitude": 5.804605,
+        "longitude": -55.18243
+    },
+    {
+        "name": "Ephraimszegen",
+        "country": "Suriname",
+        "province": "Paramaribo",
+        "population": -1,
+        "latitude": 5.794461,
+        "longitude": -55.193269
+    },
+    {
+        "name": "Maikoe",
+        "country": "Suriname",
+        "province": "Paramaribo",
+        "population": -1,
+        "latitude": 5.849146,
+        "longitude": -55.155595
+    },
+    {
+        "name": "Vogeiwijjk",
+        "country": "Suriname",
+        "province": "Paramaribo",
+        "population": -1,
+        "latitude": 5.845614,
+        "longitude": -55.154999
+    },
+    {
+        "name": "Leonsburg",
+        "country": "Suriname",
+        "province": "Paramaribo",
+        "population": -1,
+        "latitude": 5.871561,
+        "longitude": -55.111228
+    },
+    {
+        "name": "plantage Osembo",
+        "country": "Suriname",
+        "province": "Para",
+        "population": -1,
+        "latitude": 5.59505,
+        "longitude": -55.15552
+    },
+    {
+        "name": "plantage De Vrijheid",
+        "country": "Suriname",
+        "province": "Para",
+        "population": -1,
+        "latitude": 5.58542,
+        "longitude": -55.14143
+    },
+    {
+        "name": "plantage Onverwacht",
+        "country": "Suriname",
+        "province": "Para",
+        "population": -1,
+        "latitude": 5.59027,
+        "longitude": -55.16428
+    },
+    {
+        "name": "plantage Mattewaribo",
+        "country": "Suriname",
+        "province": "Para",
+        "population": -1,
+        "latitude": 5.54292,
+        "longitude": -55.14832
+    },
+    {
+        "name": "plantage Gage d'Amour",
+        "country": "Suriname",
+        "province": "Para",
+        "population": -1,
+        "latitude": 5.528841,
+        "longitude": -55.168144
+    },
+    {
+        "name": "plantage Loefbeek",
+        "country": "Suriname",
+        "province": "Para",
+        "population": -1,
+        "latitude": 5.53455,
+        "longitude": -55.13709
+    },
+    {
+        "name": "plantage Jagersburg",
+        "country": "Suriname",
+        "province": "Para",
+        "population": -1,
+        "latitude": 5.51188,
+        "longitude": -55.14836
+    },
+    {
+        "name": "plantage Hanover",
+        "country": "Suriname",
+        "province": "Para",
+        "population": -1,
+        "latitude": 5.49921,
+        "longitude": -55.14721
+    },
+    {
+        "name": "plantage Beaulieu",
+        "country": "Suriname",
+        "province": "Para",
+        "population": -1,
+        "latitude": 5.48099,
+        "longitude": -55.14129
+    },
+    {
+        "name": "plantage Welgelegen",
+        "country": "Suriname",
+        "province": "Para",
+        "population": -1,
+        "latitude": 5.46452,
+        "longitude": -55.12983
+    },
+    {
+        "name": "plantage De Vrede",
+        "country": "Suriname",
+        "province": "Para",
+        "population": -1,
+        "latitude": 5.43447,
+        "longitude": -55.15231
+    },
+    {
+        "name": "plantage De Nieuwe Hoop",
+        "country": "Suriname",
+        "province": "Para",
+        "population": -1,
+        "latitude": 5.44076,
+        "longitude": -55.15635
+    },
+    {
+        "name": "plantage Zwitsersgrond",
+        "country": "Suriname",
+        "province": "Para",
+        "population": -1,
+        "latitude": 5.45496,
+        "longitude": -55.14242
+    },
+    {
+        "name": "plantage Leeuwenberg",
+        "country": "Suriname",
+        "province": "Para",
+        "population": -1,
+        "latitude": 5.46414,
+        "longitude": -55.14097
+    },
+    {
+        "name": "plantage Nieuw Door",
+        "country": "Suriname",
+        "province": "Para",
+        "population": -1,
+        "latitude": 5.47062,
+        "longitude": -55.14199
+    },
+    {
+        "name": "plantage Mawacabo",
+        "country": "Suriname",
+        "province": "Para",
+        "population": -1,
+        "latitude": 5.48504,
+        "longitude": -55.15927
+    },
+    {
+        "name": "plantage Vreeland",
+        "country": "Suriname",
+        "province": "Para",
+        "population": -1,
+        "latitude": 5.52524,
+        "longitude": -55.23554
+    },
+    {
+        "name": "plantage La Prosperité",
+        "country": "Suriname",
+        "province": "Para",
+        "population": -1,
+        "latitude": 5.51482,
+        "longitude": -55.21506
+    },
+    {
+        "name": "plantage De Vier Kinderen",
+        "country": "Suriname",
+        "province": "Para",
+        "population": -1,
+        "latitude": 5.4901,
+        "longitude": -55.22477
+    },
+    {
+        "name": "plantage Gloria",
+        "country": "Suriname",
+        "province": "Para",
+        "population": -1,
+        "latitude": 5.51896,
+        "longitude": -55.25357
+    },
+    {
+        "name": "plantage Indigoveld",
+        "country": "Suriname",
+        "province": "Para",
+        "population": -1,
+        "latitude": 5.50919,
+        "longitude": -55.25312
+    },
+    {
+        "name": "plantage Charlottenburg",
+        "country": "Suriname",
+        "province": "Para",
+        "population": -1,
+        "latitude": 5.46216,
+        "longitude": -55.22371
+    }
+]

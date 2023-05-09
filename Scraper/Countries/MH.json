@@ -1,0 +1,914 @@
+[
+    {
+        "name": "Majuro",
+        "country": "Marshall Islands",
+        "province": "Majuro Atoll",
+        "population": 25400,
+        "latitude": 7.08971365952458,
+        "longitude": 171.380270719528
+    },
+    {
+        "name": "Arno",
+        "country": "Marshall Islands",
+        "province": "Arno Atoll",
+        "population": 2068,
+        "latitude": 7.06690764021374,
+        "longitude": 171.554131507874
+    },
+    {
+        "name": "Ebaye",
+        "country": "Marshall Islands",
+        "province": "Kwajalein Atoll",
+        "population": 15000,
+        "latitude": 8.77478769005341,
+        "longitude": 167.7391880750656
+    },
+    {
+        "name": "Jabor",
+        "country": "Marshall Islands",
+        "province": "Jaluit Atoll",
+        "population": 1200,
+        "latitude": 5.92097746101827,
+        "longitude": 169.643347263336
+    },
+    {
+        "name": "Wotje",
+        "country": "Marshall Islands",
+        "province": "Wotje Atoll",
+        "population": 880,
+        "latitude": 9.45428992089001,
+        "longitude": 170.236737728119
+    },
+    {
+        "name": "Mili",
+        "country": "Marshall Islands",
+        "province": "Mili Atoll",
+        "population": 854,
+        "latitude": 6.08149746128009,
+        "longitude": 171.735019683838
+    },
+    {
+        "name": "Namdrik",
+        "country": "Marshall Islands",
+        "province": "Namdrik Atoll",
+        "population": 814,
+        "latitude": 5.59943570874847,
+        "longitude": 168.102815151215
+    },
+    {
+        "name": "Ebon",
+        "country": "Marshall Islands",
+        "province": "Ebon Atoll",
+        "population": 714,
+        "latitude": 4.58198612200241,
+        "longitude": 168.696355819702
+    },
+    {
+        "name": "Kili",
+        "country": "Marshall Islands",
+        "province": "Kili Island",
+        "population": 602,
+        "latitude": 5.6438743603362,
+        "longitude": 169.121088981628
+    },
+    {
+        "name": "Likiep",
+        "country": "Marshall Islands",
+        "province": "Likiep Atoll",
+        "population": 482,
+        "latitude": 9.82510988668808,
+        "longitude": 169.310646057129
+    },
+    {
+        "name": "Ebeye",
+        "country": "Marshall Islands",
+        "province": "Kwajalein Atoll",
+        "population": -1,
+        "latitude": 8.778888,
+        "longitude": 167.7380555
+    },
+    {
+        "name": "Enuebing",
+        "country": "Marshall Islands",
+        "province": "Ailinglaplap Atoll",
+        "population": -1,
+        "latitude": 7.27912360552605,
+        "longitude": 168.769655227661
+    },
+    {
+        "name": "Taroa",
+        "country": "Marshall Islands",
+        "province": "Maloelap Atoll",
+        "population": -1,
+        "latitude": 8.70575935817734,
+        "longitude": 171.227502822876
+    },
+    {
+        "name": "Lae",
+        "country": "Marshall Islands",
+        "province": "Lae Atoll",
+        "population": 319,
+        "latitude": 8.92217010359122,
+        "longitude": 166.26344203949
+    },
+    {
+        "name": "Utrik",
+        "country": "Marshall Islands",
+        "province": "Utrik Atoll",
+        "population": 409,
+        "latitude": 11.2277823313632,
+        "longitude": 169.847388267517
+    },
+    {
+        "name": "Ujae",
+        "country": "Marshall Islands",
+        "province": "Ujae Atoll",
+        "population": 448,
+        "latitude": 8.93217543784377,
+        "longitude": 165.764164924622
+    },
+    {
+        "name": "Rongelap",
+        "country": "Marshall Islands",
+        "province": "Rongelap Atoll",
+        "population": 19,
+        "latitude": 11.1635082034034,
+        "longitude": 166.894083023071
+    },
+    {
+        "name": "Lib",
+        "country": "Marshall Islands",
+        "province": "Lib Island",
+        "population": 115,
+        "latitude": 8.31220780942009,
+        "longitude": 167.376623153687
+    },
+    {
+        "name": "Rairik",
+        "country": "Marshall Islands",
+        "province": "Majuro Atoll",
+        "population": -1,
+        "latitude": 7.07184797530293,
+        "longitude": 171.311316490173
+    },
+    {
+        "name": "Jeh",
+        "country": "Marshall Islands",
+        "province": "Ailinglaplap Atoll",
+        "population": -1,
+        "latitude": 7.487835280480071,
+        "longitude": 168.9389991760254
+    },
+    {
+        "name": "Ailuk",
+        "country": "Marshall Islands",
+        "province": "Ailuk Atoll",
+        "population": 451,
+        "latitude": 10.2197159666229,
+        "longitude": 169.979674816132
+    },
+    {
+        "name": "Ajeltake",
+        "country": "Marshall Islands",
+        "province": "Majuro Atoll",
+        "population": -1,
+        "latitude": 7.07465883202729,
+        "longitude": 171.171369552612
+    },
+    {
+        "name": "Enewetak",
+        "country": "Marshall Islands",
+        "province": "Enewetak Atoll",
+        "population": -1,
+        "latitude": 11.3473464741367,
+        "longitude": 162.337331771851
+    },
+    {
+        "name": "Aur",
+        "country": "Marshall Islands",
+        "province": "Aur Atoll",
+        "population": 438,
+        "latitude": 8.14989628718224,
+        "longitude": 171.168687343597
+    },
+    {
+        "name": "Airok",
+        "country": "Marshall Islands",
+        "province": "Ailinglaplap Atoll",
+        "population": -1,
+        "latitude": 7.27716540537922,
+        "longitude": 168.820295333862
+    },
+    {
+        "name": "Loen",
+        "country": "Marshall Islands",
+        "province": "Namu Atoll",
+        "population": -1,
+        "latitude": 7.76006528626146,
+        "longitude": 168.230724334717
+    },
+    {
+        "name": "Mejit",
+        "country": "Marshall Islands",
+        "province": "Mejit Island",
+        "population": 300,
+        "latitude": 10.2753127816061,
+        "longitude": 170.864610671997
+    },
+    {
+        "name": "Jabat",
+        "country": "Marshall Islands",
+        "province": "Jabat Island",
+        "population": 112,
+        "latitude": 7.75002989577937,
+        "longitude": 168.975133895874
+    },
+    {
+        "name": "Wotho",
+        "country": "Marshall Islands",
+        "province": "Wotho Atoll",
+        "population": 160,
+        "latitude": 10.1657462912756,
+        "longitude": 166.010220050812
+    },
+    {
+        "name": "Laura",
+        "country": "Marshall Islands",
+        "province": "Majuro Atoll",
+        "population": -1,
+        "latitude": 7.14654278751874,
+        "longitude": 171.037044525146
+    },
+    {
+        "name": "Ebadon",
+        "country": "Marshall Islands",
+        "province": "Kwajalein Atoll",
+        "population": -1,
+        "latitude": 9.32449551272295,
+        "longitude": 166.831179857254
+    },
+    {
+        "name": "Lukwoj",
+        "country": "Marshall Islands",
+        "province": "Arno Atoll",
+        "population": -1,
+        "latitude": 7.01814029823454,
+        "longitude": 171.584858894348
+    },
+    {
+        "name": "Jabwan",
+        "country": "Marshall Islands",
+        "province": "Ailinglaplap Atoll",
+        "population": -1,
+        "latitude": 7.27784651944322,
+        "longitude": 168.79789352417
+    },
+    {
+        "name": "Woja",
+        "country": "Marshall Islands",
+        "province": "Ailinglaplap Atoll",
+        "population": -1,
+        "latitude": 7.438964577522481,
+        "longitude": 168.549542427063
+    },
+    {
+        "name": "Medyil",
+        "country": "Marshall Islands",
+        "province": "Ailinglaplap Atoll",
+        "population": -1,
+        "latitude": 7.527489501213648,
+        "longitude": 168.9404582977295
+    },
+    {
+        "name": "Tabal",
+        "country": "Marshall Islands",
+        "province": "Aur Atoll",
+        "population": -1,
+        "latitude": 8.30619903396804,
+        "longitude": 171.158108711243
+    },
+    {
+        "name": "Airok",
+        "country": "Marshall Islands",
+        "province": "Ailinglaplap Atoll",
+        "population": -1,
+        "latitude": 7.27861277152921,
+        "longitude": 168.821668624878
+    },
+    {
+        "name": "Jang",
+        "country": "Marshall Islands",
+        "province": "Maloelap Atoll",
+        "population": -1,
+        "latitude": 8.86049982836365,
+        "longitude": 171.063587665558
+    },
+    {
+        "name": "Japejiroi",
+        "country": "Marshall Islands",
+        "province": "Ebon Atoll",
+        "population": -1,
+        "latitude": 4.60414487978213,
+        "longitude": 168.762574195862
+    },
+    {
+        "name": "Chittoin",
+        "country": "Marshall Islands",
+        "province": "Ebon Atoll",
+        "population": -1,
+        "latitude": 4.57762273344594,
+        "longitude": 168.701848983765
+    },
+    {
+        "name": "Enajet",
+        "country": "Marshall Islands",
+        "province": "Mili Atoll",
+        "population": -1,
+        "latitude": 6.03882194642352,
+        "longitude": 171.943588256836
+    },
+    {
+        "name": "Lae",
+        "country": "Marshall Islands",
+        "province": "Lae Atoll",
+        "population": -1,
+        "latitude": 8.92488344169466,
+        "longitude": 166.265501976013
+    },
+    {
+        "name": "Majkin",
+        "country": "Marshall Islands",
+        "province": "Namu Atoll",
+        "population": -1,
+        "latitude": 8.16072903109544,
+        "longitude": 168.178582191467
+    },
+    {
+        "name": "Warwir",
+        "country": "Marshall Islands",
+        "province": "Arno Atoll",
+        "population": -1,
+        "latitude": 7.0034239072309,
+        "longitude": 171.595222949982
+    },
+    {
+        "name": "Langor",
+        "country": "Marshall Islands",
+        "province": "Arno Atoll",
+        "population": -1,
+        "latitude": 7.11826750326884,
+        "longitude": 171.932601928711
+    },
+    {
+        "name": "Woja",
+        "country": "Marshall Islands",
+        "province": "Majuro Atoll",
+        "population": -1,
+        "latitude": 7.10050939280738,
+        "longitude": 171.098113059998
+    },
+    {
+        "name": "Kolalen",
+        "country": "Marshall Islands",
+        "province": "Arno Atoll",
+        "population": -1,
+        "latitude": 7.04180055301412,
+        "longitude": 171.784780025482
+    },
+    {
+        "name": "Ine",
+        "country": "Marshall Islands",
+        "province": "Arno Atoll",
+        "population": -1,
+        "latitude": 6.9833333,
+        "longitude": 171.7
+    },
+    {
+        "name": "Wotho",
+        "country": "Marshall Islands",
+        "province": "Wotho Atoll",
+        "population": -1,
+        "latitude": 10.1671508223575,
+        "longitude": 166.009125709534
+    },
+    {
+        "name": "Enerein",
+        "country": "Marshall Islands",
+        "province": "Lae Atoll",
+        "population": -1,
+        "latitude": 8.92127978513018,
+        "longitude": 166.256983280182
+    },
+    {
+        "name": "Lukunwod",
+        "country": "Marshall Islands",
+        "province": "Mili Atoll",
+        "population": -1,
+        "latitude": 6.01193464391184,
+        "longitude": 172.064266204834
+    },
+    {
+        "name": "Chittakain",
+        "country": "Marshall Islands",
+        "province": "Ebon Atoll",
+        "population": -1,
+        "latitude": 4.58267057269365,
+        "longitude": 168.731889724731
+    },
+    {
+        "name": "Wolot",
+        "country": "Marshall Islands",
+        "province": "Maloelap Atoll",
+        "population": -1,
+        "latitude": 8.76734942758564,
+        "longitude": 171.175274848938
+    },
+    {
+        "name": "Kinnatkan",
+        "country": "Marshall Islands",
+        "province": "Mili Atoll",
+        "population": -1,
+        "latitude": 6.0700607544822,
+        "longitude": 171.896939277649
+    },
+    {
+        "name": "Boklulu",
+        "country": "Marshall Islands",
+        "province": "Lae Atoll",
+        "population": -1,
+        "latitude": 8.92148116687689,
+        "longitude": 166.219657659531
+    },
+    {
+        "name": "Enewa",
+        "country": "Marshall Islands",
+        "province": "Mili Atoll",
+        "population": -1,
+        "latitude": 6.02875003357882,
+        "longitude": 172.029247283936
+    },
+    {
+        "name": "Bikoniing",
+        "country": "Marshall Islands",
+        "province": "Mili Atoll",
+        "population": -1,
+        "latitude": 6.22708068825314,
+        "longitude": 171.801280975342
+    },
+    {
+        "name": "Bigen",
+        "country": "Marshall Islands",
+        "province": "Aur Atoll",
+        "population": -1,
+        "latitude": 8.358937223017717,
+        "longitude": 171.0446459054947
+    },
+    {
+        "name": "Jelbon",
+        "country": "Marshall Islands",
+        "province": "Mili Atoll",
+        "population": -1,
+        "latitude": 5.97121705799722,
+        "longitude": 172.114391326904
+    },
+    {
+        "name": "Kearkan",
+        "country": "Marshall Islands",
+        "province": "Mili Atoll",
+        "population": -1,
+        "latitude": 6.0700607544822,
+        "longitude": 171.875846385956
+    },
+    {
+        "name": "Anemaro",
+        "country": "Marshall Islands",
+        "province": "Mili Atoll",
+        "population": -1,
+        "latitude": 6.06229389724757,
+        "longitude": 172.104692459106
+    },
+    {
+        "name": "Buoj",
+        "country": "Marshall Islands",
+        "province": "Ailinglaplap Atoll",
+        "population": -1,
+        "latitude": 7.2833333,
+        "longitude": 168.75
+    },
+    {
+        "name": "Wodmej",
+        "country": "Marshall Islands",
+        "province": "Wotje Atoll",
+        "population": -1,
+        "latitude": 9.5512386294142,
+        "longitude": 170.149383544922
+    },
+    {
+        "name": "Jebal",
+        "country": "Marshall Islands",
+        "province": "Likiep Atoll",
+        "population": -1,
+        "latitude": 9.88997010610826,
+        "longitude": 169.272408485413
+    },
+    {
+        "name": "Melang",
+        "country": "Marshall Islands",
+        "province": "Likiep Atoll",
+        "population": -1,
+        "latitude": 9.89631168443059,
+        "longitude": 169.260091781616
+    },
+    {
+        "name": "Kaven",
+        "country": "Marshall Islands",
+        "province": "Maloelap Atoll",
+        "population": -1,
+        "latitude": 8.88829407713184,
+        "longitude": 170.840921401978
+    },
+    {
+        "name": "Mejatto",
+        "country": "Marshall Islands",
+        "province": "Jaluit Atoll",
+        "population": -1,
+        "latitude": 6.111773686848762,
+        "longitude": 169.58415627479553
+    },
+    {
+        "name": "Ailuk",
+        "country": "Marshall Islands",
+        "province": "Ailuk Atoll",
+        "population": -1,
+        "latitude": 10.2205184206482,
+        "longitude": 169.978194236755
+    },
+    {
+        "name": "Kili",
+        "country": "Marshall Islands",
+        "province": "Kili Island",
+        "population": -1,
+        "latitude": 5.64323375037543,
+        "longitude": 169.123449325562
+    },
+    {
+        "name": "Aur",
+        "country": "Marshall Islands",
+        "province": "Aur Atoll",
+        "population": -1,
+        "latitude": 8.14897230426701,
+        "longitude": 171.169899702072
+    },
+    {
+        "name": "Toka",
+        "country": "Marshall Islands",
+        "province": "Ebon Atoll",
+        "population": -1,
+        "latitude": 4.63622679946588,
+        "longitude": 168.652367591858
+    },
+    {
+        "name": "Enekoion",
+        "country": "Marshall Islands",
+        "province": "Ebon Atoll",
+        "population": -1,
+        "latitude": 4.66835003542487,
+        "longitude": 168.66818189621
+    },
+    {
+        "name": "Namdrik",
+        "country": "Marshall Islands",
+        "province": "Namdrik Atoll",
+        "population": -1,
+        "latitude": 5.59561310043963,
+        "longitude": 168.106656074524
+    },
+    {
+        "name": "Loen",
+        "country": "Marshall Islands",
+        "province": "Namu Atoll",
+        "population": -1,
+        "latitude": 7.76295679501432,
+        "longitude": 168.22731256485
+    },
+    {
+        "name": "Mae",
+        "country": "Marshall Islands",
+        "province": "Namu Atoll",
+        "population": -1,
+        "latitude": 7.82588469206106,
+        "longitude": 168.304710388184
+    },
+    {
+        "name": "Ujae",
+        "country": "Marshall Islands",
+        "province": "Ujae Atoll",
+        "population": -1,
+        "latitude": 8.93338369056403,
+        "longitude": 165.757234096527
+    },
+    {
+        "name": "New Rongelap",
+        "country": "Marshall Islands",
+        "province": "Rongelap Atoll",
+        "population": 19,
+        "latitude": 11.1612030370111,
+        "longitude": 166.891894340515
+    },
+    {
+        "name": "Utrik",
+        "country": "Marshall Islands",
+        "province": "Utrik Atoll",
+        "population": -1,
+        "latitude": 11.2250883039862,
+        "longitude": 169.846615791321
+    },
+    {
+        "name": "Jih",
+        "country": "Marshall Islands",
+        "province": "Ailinglaplap Atoll",
+        "population": -1,
+        "latitude": 7.59385539483835,
+        "longitude": 168.961658477783
+    },
+    {
+        "name": "Bikarej",
+        "country": "Marshall Islands",
+        "province": "Arno Atoll",
+        "population": -1,
+        "latitude": 7.23868078407884,
+        "longitude": 171.638588905334
+    },
+    {
+        "name": "Ulien",
+        "country": "Marshall Islands",
+        "province": "Arno Atoll",
+        "population": -1,
+        "latitude": 7.12158908796524,
+        "longitude": 171.568164825439
+    },
+    {
+        "name": "Arno",
+        "country": "Marshall Islands",
+        "province": "Arno Atoll",
+        "population": -1,
+        "latitude": 7.06111545596328,
+        "longitude": 171.555547714233
+    },
+    {
+        "name": "Malel",
+        "country": "Marshall Islands",
+        "province": "Arno Atoll",
+        "population": -1,
+        "latitude": 7.07610684244914,
+        "longitude": 171.858530044556
+    },
+    {
+        "name": "Kilange",
+        "country": "Marshall Islands",
+        "province": "Arno Atoll",
+        "population": -1,
+        "latitude": 7.08517809845001,
+        "longitude": 171.879644393921
+    },
+    {
+        "name": "Tinak",
+        "country": "Marshall Islands",
+        "province": "Arno Atoll",
+        "population": -1,
+        "latitude": 7.08922390625348,
+        "longitude": 171.905264854431
+    },
+    {
+        "name": "Enilok",
+        "country": "Marshall Islands",
+        "province": "Ebon Atoll",
+        "population": -1,
+        "latitude": 4.6106897091842,
+        "longitude": 168.668546676636
+    },
+    {
+        "name": "Meidj",
+        "country": "Marshall Islands",
+        "province": "Ebon Atoll",
+        "population": -1,
+        "latitude": 4.60589872886388,
+        "longitude": 168.680208921432
+    },
+    {
+        "name": "Jabat",
+        "country": "Marshall Islands",
+        "province": "Jabat Island",
+        "population": -1,
+        "latitude": 7.75207101153792,
+        "longitude": 168.974833488464
+    },
+    {
+        "name": "Lib",
+        "country": "Marshall Islands",
+        "province": "Lib Island",
+        "population": -1,
+        "latitude": 8.31460704740023,
+        "longitude": 167.374992370605
+    },
+    {
+        "name": "Likej",
+        "country": "Marshall Islands",
+        "province": "Mili Atoll",
+        "population": -1,
+        "latitude": 6.01607452163092,
+        "longitude": 172.05491065979
+    },
+    {
+        "name": "Wau",
+        "country": "Marshall Islands",
+        "province": "Mili Atoll",
+        "population": -1,
+        "latitude": 6.09165373581733,
+        "longitude": 172.108726501465
+    },
+    {
+        "name": "Inroj",
+        "country": "Marshall Islands",
+        "province": "Jaluit Atoll",
+        "population": -1,
+        "latitude": 6.07159704265452,
+        "longitude": 169.609336853027
+    },
+    {
+        "name": "Ajejen",
+        "country": "Marshall Islands",
+        "province": "Jaluit Atoll",
+        "population": -1,
+        "latitude": 6.05640466721776,
+        "longitude": 169.671306610107
+    },
+    {
+        "name": "Imiej",
+        "country": "Marshall Islands",
+        "province": "Jaluit Atoll",
+        "population": -1,
+        "latitude": 6.01236143688607,
+        "longitude": 169.720573425293
+    },
+    {
+        "name": "Jaluit",
+        "country": "Marshall Islands",
+        "province": "Jaluit Atoll",
+        "population": -1,
+        "latitude": 5.7943125094724,
+        "longitude": 169.59174156189
+    },
+    {
+        "name": "Ewo",
+        "country": "Marshall Islands",
+        "province": "Jaluit Atoll",
+        "population": -1,
+        "latitude": 5.83085916725554,
+        "longitude": 169.545736312866
+    },
+    {
+        "name": "Menge",
+        "country": "Marshall Islands",
+        "province": "Jaluit Atoll",
+        "population": -1,
+        "latitude": 5.84750930933604,
+        "longitude": 169.527969360352
+    },
+    {
+        "name": "Mejrirok",
+        "country": "Marshall Islands",
+        "province": "Jaluit Atoll",
+        "population": -1,
+        "latitude": 5.86347590324005,
+        "longitude": 169.524021148682
+    },
+    {
+        "name": "Pinglep",
+        "country": "Marshall Islands",
+        "province": "Jaluit Atoll",
+        "population": -1,
+        "latitude": 5.95072907644258,
+        "longitude": 169.431667327881
+    },
+    {
+        "name": "Airuk",
+        "country": "Marshall Islands",
+        "province": "Maloelap Atoll",
+        "population": -1,
+        "latitude": 8.49873097199982,
+        "longitude": 171.18926525116
+    },
+    {
+        "name": "Jelter",
+        "country": "Marshall Islands",
+        "province": "Majuro Atoll",
+        "population": -1,
+        "latitude": 7.21896891449878,
+        "longitude": 171.061334609985
+    },
+    {
+        "name": "Rita",
+        "country": "Marshall Islands",
+        "province": "Majuro Atoll",
+        "population": -1,
+        "latitude": 7.12442093284227,
+        "longitude": 171.357386112213
+    },
+    {
+        "name": "Arrak",
+        "country": "Marshall Islands",
+        "province": "Majuro Atoll",
+        "population": -1,
+        "latitude": 7.12252594083798,
+        "longitude": 171.052150726318
+    },
+    {
+        "name": "Ejit - relocation of Bikini inhabitants",
+        "country": "Marshall Islands",
+        "province": "Majuro Atoll",
+        "population": -1,
+        "latitude": 7.12361183609079,
+        "longitude": 171.349875926971
+    },
+    {
+        "name": "Enewetak",
+        "country": "Marshall Islands",
+        "province": "Enewetak Atoll",
+        "population": -1,
+        "latitude": 11.3509019122239,
+        "longitude": 162.341043949127
+    },
+    {
+        "name": "Mejatto",
+        "country": "Marshall Islands",
+        "province": "Kwajalein Atoll",
+        "population": -1,
+        "latitude": 9.31282836555023,
+        "longitude": 166.873880624771
+    },
+    {
+        "name": "Enubuj",
+        "country": "Marshall Islands",
+        "province": "Kwajalein Atoll",
+        "population": -1,
+        "latitude": 8.74839523480263,
+        "longitude": 167.685050368309
+    },
+    {
+        "name": "Ennylabegan local village",
+        "country": "Marshall Islands",
+        "province": "Kwajalein Atoll",
+        "population": -1,
+        "latitude": 8.79648662998842,
+        "longitude": 167.620639801025
+    },
+    {
+        "name": "Loi",
+        "country": "Marshall Islands",
+        "province": "Kwajalein Atoll",
+        "population": -1,
+        "latitude": 8.80738598436435,
+        "longitude": 167.733480334282
+    },
+    {
+        "name": "Dalap-Uliga-Dorrit",
+        "country": "Marshall Islands",
+        "province": "Marshall Islands",
+        "population": -1,
+        "latitude": 7.087,
+        "longitude": 171.377
+    },
+    {
+        "name": "Never Gonna Give You Up",
+        "country": "Marshall Islands",
+        "province": "Marshall Islands",
+        "population": 1,
+        "latitude": 6.30523,
+        "longitude": 169.44099
+    },
+    {
+        "name": "RMI Capitol",
+        "country": "Marshall Islands",
+        "province": "Majuro Atoll",
+        "population": -1,
+        "latitude": 7.08930908077281,
+        "longitude": 171.380496025085
+    },
+    {
+        "name": "Populated Nanij Islands",
+        "country": "Marshall Islands",
+        "province": "Jaluit Atoll",
+        "population": -1,
+        "latitude": 6.23426920885104,
+        "longitude": 169.509065151215
+    },
+    {
+        "name": "Eniwetak inhabitants temp settlement 1947-80",
+        "country": "Marshall Islands",
+        "province": "Ujelang",
+        "population": -1,
+        "latitude": 9.76981115619894,
+        "longitude": 160.969153046608
+    }
+]

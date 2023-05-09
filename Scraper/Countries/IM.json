@@ -1,0 +1,346 @@
+[
+    {
+        "name": "Douglas",
+        "country": "Isle of Man",
+        "province": "IM,GB",
+        "population": 26218,
+        "latitude": 54.15,
+        "longitude": -4.4833333
+    },
+    {
+        "name": "Port Erin",
+        "country": "Isle of Man",
+        "province": "IM,GB",
+        "population": 3530,
+        "latitude": 54.08487133938971,
+        "longitude": -4.750986099243164
+    },
+    {
+        "name": "Laxey",
+        "country": "Isle of Man",
+        "province": "IM,GB",
+        "population": 1768,
+        "latitude": 54.23016968488226,
+        "longitude": -4.399852752685547
+    },
+    {
+        "name": "Castletown",
+        "country": "Isle of Man",
+        "province": "IM,GB",
+        "population": 3100,
+        "latitude": 54.07444818108778,
+        "longitude": -4.653654098510742
+    },
+    {
+        "name": "Colby",
+        "country": "Isle of Man",
+        "province": "IM,GB",
+        "population": 289,
+        "latitude": 54.096650888407474,
+        "longitude": -4.705924987792969
+    },
+    {
+        "name": "Ramsey",
+        "country": "Isle of Man",
+        "province": "IM,GB",
+        "population": 7845,
+        "latitude": 54.32273091140164,
+        "longitude": -4.385261535644531
+    },
+    {
+        "name": "Peel",
+        "country": "Isle of Man",
+        "province": "IM,GB",
+        "population": 5374,
+        "latitude": 54.22209141875217,
+        "longitude": -4.690990447998047
+    },
+    {
+        "name": "Santon",
+        "country": "Isle of Man",
+        "province": "IM,GB",
+        "population": -1,
+        "latitude": 54.116667,
+        "longitude": -4.583333
+    },
+    {
+        "name": "Patrick",
+        "country": "Isle of Man",
+        "province": "IM,GB",
+        "population": -1,
+        "latitude": 54.20447431491241,
+        "longitude": -4.69416618347168
+    },
+    {
+        "name": "Onchan",
+        "country": "Isle of Man",
+        "province": "IM,GB",
+        "population": -1,
+        "latitude": 54.17328718204277,
+        "longitude": -4.453239440917969
+    },
+    {
+        "name": "Maughold",
+        "country": "Isle of Man",
+        "province": "IM,GB",
+        "population": -1,
+        "latitude": 54.298771142451606,
+        "longitude": -4.318442344665527
+    },
+    {
+        "name": "Jurby",
+        "country": "Isle of Man",
+        "province": "IM,GB",
+        "population": -1,
+        "latitude": 54.35940712747185,
+        "longitude": -4.521989822387695
+    },
+    {
+        "name": "Crosby",
+        "country": "Isle of Man",
+        "province": "IM,GB",
+        "population": -1,
+        "latitude": 54.1833333,
+        "longitude": -4.5666667
+    },
+    {
+        "name": "Ballasalla",
+        "country": "Isle of Man",
+        "province": "IM,GB",
+        "population": -1,
+        "latitude": 54.09589588943117,
+        "longitude": -4.629621505737305
+    },
+    {
+        "name": "Ballabeg",
+        "country": "Isle of Man",
+        "province": "IM,GB",
+        "population": -1,
+        "latitude": 54.1,
+        "longitude": -4.6833333
+    },
+    {
+        "name": "Andreas",
+        "country": "Isle of Man",
+        "province": "IM,GB",
+        "population": -1,
+        "latitude": 54.3666667,
+        "longitude": -4.4333333
+    },
+    {
+        "name": "Union Mills",
+        "country": "Isle of Man",
+        "province": "IM,GB",
+        "population": -1,
+        "latitude": 54.16956927194942,
+        "longitude": -4.5201873779296875
+    },
+    {
+        "name": "Sulby",
+        "country": "Isle of Man",
+        "province": "IM,GB",
+        "population": -1,
+        "latitude": 54.3228310274544,
+        "longitude": -4.47967529296875
+    },
+    {
+        "name": "Saint Johns",
+        "country": "Isle of Man",
+        "province": "IM,GB",
+        "population": -1,
+        "latitude": 54.2,
+        "longitude": -4.6333333
+    },
+    {
+        "name": "Port Soderick",
+        "country": "Isle of Man",
+        "province": "IM,GB",
+        "population": -1,
+        "latitude": 54.128650202989306,
+        "longitude": -4.541130065917969
+    },
+    {
+        "name": "Port Saint Mary",
+        "country": "Isle of Man",
+        "province": "IM,GB",
+        "population": -1,
+        "latitude": 54.07404530117836,
+        "longitude": -4.738583564758301
+    },
+    {
+        "name": "Lezayre",
+        "country": "Isle of Man",
+        "province": "IM,GB",
+        "population": -1,
+        "latitude": 54.3166667,
+        "longitude": -4.4166667
+    },
+    {
+        "name": "Kirkmichael",
+        "country": "Isle of Man",
+        "province": "IM,GB",
+        "population": -1,
+        "latitude": 54.28562114286921,
+        "longitude": -4.5874786376953125
+    },
+    {
+        "name": "Kirk Braddan",
+        "country": "Isle of Man",
+        "province": "IM,GB",
+        "population": -1,
+        "latitude": 54.166667,
+        "longitude": -4.516667
+    },
+    {
+        "name": "Glen Maye",
+        "country": "Isle of Man",
+        "province": "IM,GB",
+        "population": -1,
+        "latitude": 54.1833333,
+        "longitude": -4.7
+    },
+    {
+        "name": "Foxdale",
+        "country": "Isle of Man",
+        "province": "IM,GB",
+        "population": -1,
+        "latitude": 54.1666667,
+        "longitude": -4.6166667
+    },
+    {
+        "name": "Derbyhaven",
+        "country": "Isle of Man",
+        "province": "IM,GB",
+        "population": -1,
+        "latitude": 54.076462521988844,
+        "longitude": -4.623527526855469
+    },
+    {
+        "name": "Dalby",
+        "country": "Isle of Man",
+        "province": "IM,GB",
+        "population": -1,
+        "latitude": 54.1687904781842,
+        "longitude": -4.7292280197143555
+    },
+    {
+        "name": "Cregneash",
+        "country": "Isle of Man",
+        "province": "IM,GB",
+        "population": -1,
+        "latitude": 54.06961336412503,
+        "longitude": -4.768409729003906
+    },
+    {
+        "name": "Bride",
+        "country": "Isle of Man",
+        "province": "IM,GB",
+        "population": -1,
+        "latitude": 54.382556827712314,
+        "longitude": -4.389209747314453
+    },
+    {
+        "name": "Ballaugh",
+        "country": "Isle of Man",
+        "province": "IM,GB",
+        "population": -1,
+        "latitude": 54.31193154746405,
+        "longitude": -4.544563293457031
+    },
+    {
+        "name": "Barregarrow",
+        "country": "Isle of Man",
+        "province": "IM,GB",
+        "population": -1,
+        "latitude": 54.26252,
+        "longitude": -4.58272
+    },
+    {
+        "name": "Saint Marks",
+        "country": "Isle of Man",
+        "province": "IM,GB",
+        "population": -1,
+        "latitude": 54.1333333,
+        "longitude": -4.6
+    },
+    {
+        "name": "Ronaldsway",
+        "country": "Isle of Man",
+        "province": "IM,GB",
+        "population": -1,
+        "latitude": 54.0833333,
+        "longitude": -4.6166667
+    },
+    {
+        "name": "Dog Mills",
+        "country": "Isle of Man",
+        "province": "IM,GB",
+        "population": -1,
+        "latitude": 54.35,
+        "longitude": -4.3833333
+    },
+    {
+        "name": "Cranstal",
+        "country": "Isle of Man",
+        "province": "IM,GB",
+        "population": -1,
+        "latitude": 54.395600907274854,
+        "longitude": -4.369468688964844
+    },
+    {
+        "name": "Ballakinnag",
+        "country": "Isle of Man",
+        "province": "IM,GB",
+        "population": -1,
+        "latitude": 54.3333333,
+        "longitude": -4.55
+    },
+    {
+        "name": "Ballacannell",
+        "country": "Isle of Man",
+        "province": "IM,GB",
+        "population": -1,
+        "latitude": 54.21729890525679,
+        "longitude": -4.404959678649902
+    },
+    {
+        "name": "Little London",
+        "country": "Isle of Man",
+        "province": "IM,GB",
+        "population": -1,
+        "latitude": 54.24406,
+        "longitude": -4.57984
+    },
+    {
+        "name": "Shoughlaige-e-Caine",
+        "country": "Isle of Man",
+        "province": "IM,GB",
+        "population": -1,
+        "latitude": 54.25309,
+        "longitude": -4.58662
+    },
+    {
+        "name": "Orrisdale",
+        "country": "Isle of Man",
+        "province": "IM,GB",
+        "population": -1,
+        "latitude": 54.30481,
+        "longitude": -4.5752
+    },
+    {
+        "name": "Ballacarnane Beg",
+        "country": "Isle of Man",
+        "province": "IM,GB",
+        "population": -1,
+        "latitude": 54.26227,
+        "longitude": -4.61512
+    },
+    {
+        "name": "Cronk-y-Voddy",
+        "country": "Isle of Man",
+        "province": "IM,GB",
+        "population": -1,
+        "latitude": 54.24093,
+        "longitude": -4.60894
+    }
+]

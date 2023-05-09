@@ -1,0 +1,362 @@
+[
+    {
+        "name": "Saipan",
+        "country": "Northern Mariana Islands",
+        "province": "Saipan",
+        "population": 48220,
+        "latitude": 15.212327568734572,
+        "longitude": 145.7544994354248
+    },
+    {
+        "name": "San Jose",
+        "country": "Northern Mariana Islands",
+        "province": "Tinian",
+        "population": 15000,
+        "latitude": 14.9682292,
+        "longitude": 145.619981
+    },
+    {
+        "name": "Pagan Village",
+        "country": "Northern Mariana Islands",
+        "province": "Northern Islands",
+        "population": 50,
+        "latitude": 18.1253886943137,
+        "longitude": 145.759381055832
+    },
+    {
+        "name": "Alamagan Village",
+        "country": "Northern Mariana Islands",
+        "province": "Northern Islands",
+        "population": 15,
+        "latitude": 17.6125212843457,
+        "longitude": 145.8214661479
+    },
+    {
+        "name": "Carolinas Heights",
+        "country": "Northern Mariana Islands",
+        "province": "Tinian",
+        "population": 336,
+        "latitude": 14.9665522259585,
+        "longitude": 145.64914226532
+    },
+    {
+        "name": "Agrihan Village",
+        "country": "Northern Mariana Islands",
+        "province": "Northern Islands",
+        "population": 20,
+        "latitude": 18.7363806470344,
+        "longitude": 145.652951002121
+    },
+    {
+        "name": "Songsong",
+        "country": "Northern Mariana Islands",
+        "province": "Rota",
+        "population": -1,
+        "latitude": 14.1397222,
+        "longitude": 145.1411111
+    },
+    {
+        "name": "JP Tinian Town pre-WW2",
+        "country": "Northern Mariana Islands",
+        "province": "Tinian",
+        "population": -1,
+        "latitude": 14.9687392042922,
+        "longitude": 145.624369382858
+    },
+    {
+        "name": "Tanapag Village",
+        "country": "Northern Mariana Islands",
+        "province": "Saipan",
+        "population": -1,
+        "latitude": 15.242048642035,
+        "longitude": 145.756264328957
+    },
+    {
+        "name": "Capitol Hill Village",
+        "country": "Northern Mariana Islands",
+        "province": "Saipan",
+        "population": -1,
+        "latitude": 15.2082484873275,
+        "longitude": 145.753126144409
+    },
+    {
+        "name": "Dugi Village",
+        "country": "Northern Mariana Islands",
+        "province": "Rota",
+        "population": -1,
+        "latitude": 14.1885061209485,
+        "longitude": 145.278739929199
+    },
+    {
+        "name": "San Roque Village",
+        "country": "Northern Mariana Islands",
+        "province": "Saipan",
+        "population": -1,
+        "latitude": 15.2488908302635,
+        "longitude": 145.775527954102
+    },
+    {
+        "name": "Sinapalo Village",
+        "country": "Northern Mariana Islands",
+        "province": "Rota",
+        "population": -1,
+        "latitude": 14.166079274439,
+        "longitude": 145.231704711914
+    },
+    {
+        "name": "Dandan Village",
+        "country": "Northern Mariana Islands",
+        "province": "Saipan",
+        "population": -1,
+        "latitude": 15.1351118845805,
+        "longitude": 145.734039545059
+    },
+    {
+        "name": "Chalan Kanoa Village",
+        "country": "Northern Mariana Islands",
+        "province": "Saipan",
+        "population": -1,
+        "latitude": 15.146356354473092,
+        "longitude": 145.70303857326508
+    },
+    {
+        "name": "Koblerville Village",
+        "country": "Northern Mariana Islands",
+        "province": "Saipan",
+        "population": -1,
+        "latitude": 15.1238227995328,
+        "longitude": 145.702282190323
+    },
+    {
+        "name": "Navy Hill Village",
+        "country": "Northern Mariana Islands",
+        "province": "Saipan",
+        "population": -1,
+        "latitude": 15.2110852172771,
+        "longitude": 145.733942985535
+    },
+    {
+        "name": "San Vicente Village",
+        "country": "Northern Mariana Islands",
+        "province": "Saipan",
+        "population": -1,
+        "latitude": 15.1516456832587,
+        "longitude": 145.737601518631
+    },
+    {
+        "name": "Kagman Village",
+        "country": "Northern Mariana Islands",
+        "province": "Saipan",
+        "population": -1,
+        "latitude": 15.1735420453983,
+        "longitude": 145.78057050705
+    },
+    {
+        "name": "Puerto Rico Village",
+        "country": "Northern Mariana Islands",
+        "province": "Saipan",
+        "population": -1,
+        "latitude": 15.2196987033617,
+        "longitude": 145.732955932617
+    },
+    {
+        "name": "Achugao Hamlet",
+        "country": "Northern Mariana Islands",
+        "province": "Saipan",
+        "population": -1,
+        "latitude": 15.2316451909959,
+        "longitude": 145.767073631287
+    },
+    {
+        "name": "As Lito Hamlet",
+        "country": "Northern Mariana Islands",
+        "province": "Saipan",
+        "population": -1,
+        "latitude": 15.1296331285062,
+        "longitude": 145.72377204895
+    },
+    {
+        "name": "As Perdido Hamlet",
+        "country": "Northern Mariana Islands",
+        "province": "Saipan",
+        "population": -1,
+        "latitude": 15.1339001492201,
+        "longitude": 145.709202289581
+    },
+    {
+        "name": "Chalan Kiya Hamlet",
+        "country": "Northern Mariana Islands",
+        "province": "Saipan",
+        "population": -1,
+        "latitude": 15.1636426231627,
+        "longitude": 145.719094276428
+    },
+    {
+        "name": "Fina Sisu Hamlet",
+        "country": "Northern Mariana Islands",
+        "province": "Saipan",
+        "population": -1,
+        "latitude": 15.1455822321228,
+        "longitude": 145.719265937805
+    },
+    {
+        "name": "Matansa Hamlet",
+        "country": "Northern Mariana Islands",
+        "province": "Saipan",
+        "population": -1,
+        "latitude": 15.2508989340036,
+        "longitude": 145.785956382751
+    },
+    {
+        "name": "Papago Hamlet",
+        "country": "Northern Mariana Islands",
+        "province": "Saipan",
+        "population": -1,
+        "latitude": 15.1735834646008,
+        "longitude": 145.747032165527
+    },
+    {
+        "name": "Garapan Village",
+        "country": "Northern Mariana Islands",
+        "province": "Saipan",
+        "population": -1,
+        "latitude": 15.205453132145,
+        "longitude": 145.720252990723
+    },
+    {
+        "name": "Gualo Rai Village",
+        "country": "Northern Mariana Islands",
+        "province": "Saipan",
+        "population": -1,
+        "latitude": 15.1941522722349,
+        "longitude": 145.716819763184
+    },
+    {
+        "name": "San Antonio Village",
+        "country": "Northern Mariana Islands",
+        "province": "Saipan",
+        "population": -1,
+        "latitude": 15.1329939323481,
+        "longitude": 145.697159171104
+    },
+    {
+        "name": "San Jose Village",
+        "country": "Northern Mariana Islands",
+        "province": "Saipan",
+        "population": -1,
+        "latitude": 15.1685302619685,
+        "longitude": 145.710157155991
+    },
+    {
+        "name": "Susupe Village",
+        "country": "Northern Mariana Islands",
+        "province": "Saipan",
+        "population": -1,
+        "latitude": 15.1563420200257,
+        "longitude": 145.702577233315
+    },
+    {
+        "name": "Kagman I",
+        "country": "Northern Mariana Islands",
+        "province": "Saipan",
+        "population": -1,
+        "latitude": 15.1818050154837,
+        "longitude": 145.774154663086
+    },
+    {
+        "name": "Kagman II",
+        "country": "Northern Mariana Islands",
+        "province": "Saipan",
+        "population": -1,
+        "latitude": 15.1790610825727,
+        "longitude": 145.779250860214
+    },
+    {
+        "name": "Garapan - JP Marianas Capital Village pre-WW2",
+        "country": "Northern Mariana Islands",
+        "province": "Saipan",
+        "population": -1,
+        "latitude": 15.2051114750804,
+        "longitude": 145.720156431198
+    },
+    {
+        "name": "Muchot",
+        "country": "Northern Mariana Islands",
+        "province": "Saipan",
+        "population": -1,
+        "latitude": 15.2152056548019,
+        "longitude": 145.719866752625
+    },
+    {
+        "name": "Historic Maug Settlement",
+        "country": "Northern Mariana Islands",
+        "province": "Northern Islands",
+        "population": -1,
+        "latitude": 20.0273468283248,
+        "longitude": 145.233142375946
+    },
+    {
+        "name": "Intermittent Historic Settlements",
+        "country": "Northern Mariana Islands",
+        "province": "Northern Islands",
+        "population": -1,
+        "latitude": 19.6821114765021,
+        "longitude": 145.394697189331
+    },
+    {
+        "name": "former Songsong Village",
+        "country": "Northern Mariana Islands",
+        "province": "Northern Islands",
+        "population": -1,
+        "latitude": 17.585704381825,
+        "longitude": 145.824526548386
+    },
+    {
+        "name": "Copra Workers Settlement pre-WW2",
+        "country": "Northern Mariana Islands",
+        "province": "Northern Islands",
+        "population": -1,
+        "latitude": 16.7099862426426,
+        "longitude": 145.770463943481
+    },
+    {
+        "name": "Anatahan Village - abandoned since 1993",
+        "country": "Northern Mariana Islands",
+        "province": "Northern Islands",
+        "population": -1,
+        "latitude": 16.365397779645825,
+        "longitude": 145.6342077255249
+    },
+    {
+        "name": "Teneto Village",
+        "country": "Northern Mariana Islands",
+        "province": "Rota",
+        "population": -1,
+        "latitude": 14.1377304844693,
+        "longitude": 145.153512954712
+    },
+    {
+        "name": "Liyo Hamlet",
+        "country": "Northern Mariana Islands",
+        "province": "Rota",
+        "population": -1,
+        "latitude": 14.132694953524,
+        "longitude": 145.13522028923
+    },
+    {
+        "name": "Marpo Heights Hamlet",
+        "country": "Northern Mariana Islands",
+        "province": "Tinian",
+        "population": -1,
+        "latitude": 14.9797359465802,
+        "longitude": 145.636868476868
+    },
+    {
+        "name": "Kagman III",
+        "country": "Northern Mariana Islands",
+        "province": "Saipan",
+        "population": -1,
+        "latitude": 15.1697521540099,
+        "longitude": 145.780184268951
+    }
+]

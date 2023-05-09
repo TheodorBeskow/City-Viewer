@@ -1,0 +1,1258 @@
+[
+    {
+        "name": "Mamoudzou",
+        "country": "Mayotte",
+        "province": "Mamoudzou",
+        "population": 54831,
+        "latitude": -12.78234,
+        "longitude": 45.22878
+    },
+    {
+        "name": "Koungou",
+        "country": "Mayotte",
+        "province": "Koungou",
+        "population": 18118,
+        "latitude": -12.7336111,
+        "longitude": 45.2041667
+    },
+    {
+        "name": "Dzaoudzi",
+        "country": "Mayotte",
+        "province": "Dzaoudzi",
+        "population": 15339,
+        "latitude": -12.78339,
+        "longitude": 45.25693
+    },
+    {
+        "name": "Dembeni",
+        "country": "Mayotte",
+        "province": "Dembeni",
+        "population": 10141,
+        "latitude": -12.8436029600843,
+        "longitude": 45.1843643188477
+    },
+    {
+        "name": "Bandraboua",
+        "country": "Mayotte",
+        "province": "Bandraboua",
+        "population": 7880,
+        "latitude": -12.704399320354705,
+        "longitude": 45.1223087310791
+    },
+    {
+        "name": "Mtsamboro",
+        "country": "Mayotte",
+        "province": "Mtsamboro",
+        "population": 7724,
+        "latitude": -12.69981509697022,
+        "longitude": 45.0689435005188
+    },
+    {
+        "name": "Sada",
+        "country": "Mayotte",
+        "province": "Sada",
+        "population": 9832,
+        "latitude": -12.85054857341819,
+        "longitude": 45.10205268859863
+    },
+    {
+        "name": "Pamandzi",
+        "country": "Mayotte",
+        "province": "Pamandzi",
+        "population": 9077,
+        "latitude": -12.796735978398436,
+        "longitude": 45.27937889099121
+    },
+    {
+        "name": "Tsingoni",
+        "country": "Mayotte",
+        "province": "Tsingoni",
+        "population": 7602,
+        "latitude": -12.7872222,
+        "longitude": 45.1027778
+    },
+    {
+        "name": "Ouangani",
+        "country": "Mayotte",
+        "province": "Ouangani",
+        "population": 7272,
+        "latitude": -12.8463889,
+        "longitude": 45.1361111
+    },
+    {
+        "name": "M'Tsangamouji",
+        "country": "Mayotte",
+        "province": "M'Tsangamouji",
+        "population": 5028,
+        "latitude": -12.7594444,
+        "longitude": 45.0836111
+    },
+    {
+        "name": "Chiconi",
+        "country": "Mayotte",
+        "province": "Chiconi",
+        "population": 7204,
+        "latitude": -12.8333333,
+        "longitude": 45.1105556
+    },
+    {
+        "name": "Bandrélé",
+        "country": "Mayotte",
+        "province": "Bandrele",
+        "population": 6350,
+        "latitude": -12.91276,
+        "longitude": 45.19256
+    },
+    {
+        "name": "Chirongui",
+        "country": "Mayotte",
+        "province": "Chirongui",
+        "population": 6173,
+        "latitude": -12.9319444,
+        "longitude": 45.1483333
+    },
+    {
+        "name": "Bouéni",
+        "country": "Mayotte",
+        "province": "Bouéni",
+        "population": 5334,
+        "latitude": -12.9025,
+        "longitude": 45.0761111
+    },
+    {
+        "name": "Kani Kéli",
+        "country": "Mayotte",
+        "province": "Kani-Kéli",
+        "population": 4854,
+        "latitude": -12.9536111,
+        "longitude": 45.1033333
+    },
+    {
+        "name": "Acoua",
+        "country": "Mayotte",
+        "province": "Acoua",
+        "population": 4622,
+        "latitude": -12.72390751034865,
+        "longitude": 45.05819320678711
+    },
+    {
+        "name": "Passamainty",
+        "country": "Mayotte",
+        "province": "Mayotte",
+        "population": -1,
+        "latitude": -12.80201,
+        "longitude": 45.20818
+    },
+    {
+        "name": "Mtsahara",
+        "country": "Mayotte",
+        "province": "Mayotte",
+        "population": -1,
+        "latitude": -12.68137270598461,
+        "longitude": 45.082740783691406
+    },
+    {
+        "name": "Handréma",
+        "country": "Mayotte",
+        "province": "Mayotte",
+        "population": -1,
+        "latitude": -12.681121495065453,
+        "longitude": 45.09964942932129
+    },
+    {
+        "name": "Mtsangamboua",
+        "country": "Mayotte",
+        "province": "Mayotte",
+        "population": -1,
+        "latitude": -12.690332400007067,
+        "longitude": 45.109262466430664
+    },
+    {
+        "name": "Hamjago",
+        "country": "Mayotte",
+        "province": "Mayotte",
+        "population": -1,
+        "latitude": -12.688322776449724,
+        "longitude": 45.074501037597656
+    },
+    {
+        "name": "Mtsangadoua",
+        "country": "Mayotte",
+        "province": "Mayotte",
+        "population": -1,
+        "latitude": -12.711125,
+        "longitude": 45.051183
+    },
+    {
+        "name": "Mliha",
+        "country": "Mayotte",
+        "province": "Mayotte",
+        "population": -1,
+        "latitude": -12.750563,
+        "longitude": 45.055187
+    },
+    {
+        "name": "Mrowalé",
+        "country": "Mayotte",
+        "province": "Mayotte",
+        "population": -1,
+        "latitude": -12.788667,
+        "longitude": 45.12798
+    },
+    {
+        "name": "Longoni",
+        "country": "Mayotte",
+        "province": "Koungou",
+        "population": -1,
+        "latitude": -12.734264,
+        "longitude": 45.16298
+    },
+    {
+        "name": "Kangani",
+        "country": "Mayotte",
+        "province": "Mayotte",
+        "population": -1,
+        "latitude": -12.731861063132994,
+        "longitude": 45.18693923950195
+    },
+    {
+        "name": "Trévani",
+        "country": "Mayotte",
+        "province": "Mayotte",
+        "population": -1,
+        "latitude": -12.734372659562343,
+        "longitude": 45.198612213134766
+    },
+    {
+        "name": "Majikavo Koropa",
+        "country": "Mayotte",
+        "province": "Mayotte",
+        "population": -1,
+        "latitude": -12.747013983711,
+        "longitude": 45.220584869384766
+    },
+    {
+        "name": "Majikavo Lamir",
+        "country": "Mayotte",
+        "province": "Mayotte",
+        "population": -1,
+        "latitude": -12.755720224191847,
+        "longitude": 45.22968292236328
+    },
+    {
+        "name": "Vahibé",
+        "country": "Mayotte",
+        "province": "Mayotte",
+        "population": -1,
+        "latitude": -12.790242,
+        "longitude": 45.177067
+    },
+    {
+        "name": "Sohoa",
+        "country": "Mayotte",
+        "province": "Mayotte",
+        "population": -1,
+        "latitude": -12.822327,
+        "longitude": 45.105519
+    },
+    {
+        "name": "Labattoir",
+        "country": "Mayotte",
+        "province": "Dzaoudzi",
+        "population": -1,
+        "latitude": -12.77698,
+        "longitude": 45.28234
+    },
+    {
+        "name": "Tsararano",
+        "country": "Mayotte",
+        "province": "Mayotte",
+        "population": -1,
+        "latitude": -12.83528,
+        "longitude": 45.17355
+    },
+    {
+        "name": "Ongojou",
+        "country": "Mayotte",
+        "province": "Mayotte",
+        "population": -1,
+        "latitude": -12.83883,
+        "longitude": 45.16012
+    },
+    {
+        "name": "Barakani",
+        "country": "Mayotte",
+        "province": "Mayotte",
+        "population": -1,
+        "latitude": -12.837991,
+        "longitude": 45.131202
+    },
+    {
+        "name": "Mangajou",
+        "country": "Mayotte",
+        "province": "Mayotte",
+        "population": -1,
+        "latitude": -12.84404,
+        "longitude": 45.117164
+    },
+    {
+        "name": "Kavani",
+        "country": "Mayotte",
+        "province": "Chiconi",
+        "population": -1,
+        "latitude": -12.830989,
+        "longitude": 45.113644
+    },
+    {
+        "name": "Iloni",
+        "country": "Mayotte",
+        "province": "Mayotte",
+        "population": -1,
+        "latitude": -12.84553,
+        "longitude": 45.19037
+    },
+    {
+        "name": "Poroani",
+        "country": "Mayotte",
+        "province": "Mayotte",
+        "population": -1,
+        "latitude": -12.892255,
+        "longitude": 45.141209
+    },
+    {
+        "name": "Miréréni",
+        "country": "Mayotte",
+        "province": "Mayotte",
+        "population": -1,
+        "latitude": -12.907084,
+        "longitude": 45.152945
+    },
+    {
+        "name": "Hamouro",
+        "country": "Mayotte",
+        "province": "Bandrele",
+        "population": -1,
+        "latitude": -12.8813,
+        "longitude": 45.214938
+    },
+    {
+        "name": "Nyambadao",
+        "country": "Mayotte",
+        "province": "Mayotte",
+        "population": -1,
+        "latitude": -12.893463,
+        "longitude": 45.202138
+    },
+    {
+        "name": "Malamani",
+        "country": "Mayotte",
+        "province": "Mayotte",
+        "population": -1,
+        "latitude": -12.920489,
+        "longitude": 45.158363
+    },
+    {
+        "name": "Mramadoudou",
+        "country": "Mayotte",
+        "province": "Mayotte",
+        "population": -1,
+        "latitude": -12.928463,
+        "longitude": 45.153239
+    },
+    {
+        "name": "Mtsamoudou",
+        "country": "Mayotte",
+        "province": "Mayotte",
+        "population": -1,
+        "latitude": -12.962316,
+        "longitude": 45.174494
+    },
+    {
+        "name": "Dapani",
+        "country": "Mayotte",
+        "province": "Mayotte",
+        "population": -1,
+        "latitude": -12.971295,
+        "longitude": 45.160843
+    },
+    {
+        "name": "Mbouini",
+        "country": "Mayotte",
+        "province": "Mayotte",
+        "population": -1,
+        "latitude": -12.989531,
+        "longitude": 45.137353
+    },
+    {
+        "name": "Mronabéja",
+        "country": "Mayotte",
+        "province": "Mayotte",
+        "population": -1,
+        "latitude": -12.979497,
+        "longitude": 45.123859
+    },
+    {
+        "name": "Passi Kéli",
+        "country": "Mayotte",
+        "province": "Mayotte",
+        "population": -1,
+        "latitude": -12.98637,
+        "longitude": 45.127191
+    },
+    {
+        "name": "Choungui Kéli",
+        "country": "Mayotte",
+        "province": "Mayotte",
+        "population": -1,
+        "latitude": -12.9686111,
+        "longitude": 45.1308333
+    },
+    {
+        "name": "Choungui",
+        "country": "Mayotte",
+        "province": "Mayotte",
+        "population": -1,
+        "latitude": -12.962307,
+        "longitude": 45.126649
+    },
+    {
+        "name": "Tsimkoura",
+        "country": "Mayotte",
+        "province": "Mayotte",
+        "population": -1,
+        "latitude": -12.939336,
+        "longitude": 45.137392
+    },
+    {
+        "name": "Mzouazia",
+        "country": "Mayotte",
+        "province": "Mayotte",
+        "population": -1,
+        "latitude": -12.927168,
+        "longitude": 45.103355
+    },
+    {
+        "name": "Mouanatrindri",
+        "country": "Mayotte",
+        "province": "Mayotte",
+        "population": -1,
+        "latitude": -12.8996,
+        "longitude": 45.097921
+    },
+    {
+        "name": "Mbouanasta",
+        "country": "Mayotte",
+        "province": "Mayotte",
+        "population": -1,
+        "latitude": -12.944328,
+        "longitude": 45.101999
+    },
+    {
+        "name": "Kani Bé",
+        "country": "Mayotte",
+        "province": "Mayotte",
+        "population": -1,
+        "latitude": -12.96434621144207,
+        "longitude": 45.11162281036377
+    },
+    {
+        "name": "Sohoa",
+        "country": "Mayotte",
+        "province": "Mayotte",
+        "population": -1,
+        "latitude": -12.8333333,
+        "longitude": 45.1333333
+    },
+    {
+        "name": "Dzumogne",
+        "country": "Mayotte",
+        "province": "Mayotte",
+        "population": -1,
+        "latitude": -12.7166667,
+        "longitude": 45.1166667
+    },
+    {
+        "name": "Nyambo",
+        "country": "Mayotte",
+        "province": "Mayotte",
+        "population": -1,
+        "latitude": -12.709395,
+        "longitude": 45.122954
+    },
+    {
+        "name": "Dzoumonyé",
+        "country": "Mayotte",
+        "province": "Mayotte",
+        "population": -1,
+        "latitude": -12.720755,
+        "longitude": 45.118477
+    },
+    {
+        "name": "Kavani",
+        "country": "Mayotte",
+        "province": "Mayotte",
+        "population": -1,
+        "latitude": -12.78447,
+        "longitude": 45.22299
+    },
+    {
+        "name": "Mtsapéré",
+        "country": "Mayotte",
+        "province": "Mayotte",
+        "population": -1,
+        "latitude": -12.78636,
+        "longitude": 45.21732
+    },
+    {
+        "name": "Dzaoudzi",
+        "country": "Mayotte",
+        "province": "Mayotte",
+        "population": -1,
+        "latitude": -12.895891,
+        "longitude": 45.140538
+    },
+    {
+        "name": "Mtsatoundou",
+        "country": "Mayotte",
+        "province": "Mayotte",
+        "population": -1,
+        "latitude": -12.917899,
+        "longitude": 45.184938
+    },
+    {
+        "name": "M’Sapéré",
+        "country": "Mayotte",
+        "province": "Mayotte",
+        "population": -1,
+        "latitude": -12.78619,
+        "longitude": 45.21655
+    },
+    {
+        "name": "Kani Kele",
+        "country": "Mayotte",
+        "province": "Mayotte",
+        "population": -1,
+        "latitude": -12.95,
+        "longitude": 45.1
+    },
+    {
+        "name": "Bandele",
+        "country": "Mayotte",
+        "province": "Mayotte",
+        "population": -1,
+        "latitude": -12.9,
+        "longitude": 45.2
+    },
+    {
+        "name": "Chembényoumba",
+        "country": "Mayotte",
+        "province": "Mayotte",
+        "population": -1,
+        "latitude": -12.764716,
+        "longitude": 45.077927
+    },
+    {
+        "name": "Bouyouni",
+        "country": "Mayotte",
+        "province": "Mayotte",
+        "population": -1,
+        "latitude": -12.734621,
+        "longitude": 45.139138
+    },
+    {
+        "name": "Passamaïnti",
+        "country": "Mayotte",
+        "province": "Mayotte",
+        "population": -1,
+        "latitude": -12.801268,
+        "longitude": 45.210607
+    },
+    {
+        "name": "Tsoundzou 1",
+        "country": "Mayotte",
+        "province": "Mayotte",
+        "population": -1,
+        "latitude": -12.80615,
+        "longitude": 45.2023
+    },
+    {
+        "name": "Kwalé",
+        "country": "Mayotte",
+        "province": "Mayotte",
+        "population": -1,
+        "latitude": -12.805068,
+        "longitude": 45.197373
+    },
+    {
+        "name": "Kwalé Légion",
+        "country": "Mayotte",
+        "province": "Mayotte",
+        "population": -1,
+        "latitude": -12.797394,
+        "longitude": 45.188138
+    },
+    {
+        "name": "Hajangoua",
+        "country": "Mayotte",
+        "province": "Mayotte",
+        "population": -1,
+        "latitude": -12.86607,
+        "longitude": 45.19857
+    },
+    {
+        "name": "Saziley",
+        "country": "Mayotte",
+        "province": "Mayotte",
+        "population": -1,
+        "latitude": -12.984362,
+        "longitude": 45.181191
+    },
+    {
+        "name": "Ongoujou",
+        "country": "Mayotte",
+        "province": "Mayotte",
+        "population": -1,
+        "latitude": -12.85,
+        "longitude": 45.1666667
+    },
+    {
+        "name": "Ironi Kely",
+        "country": "Mayotte",
+        "province": "Dembeni",
+        "population": -1,
+        "latitude": -12.8333333,
+        "longitude": 45.2166667
+    },
+    {
+        "name": "Angoro",
+        "country": "Mayotte",
+        "province": "Mayotte",
+        "population": -1,
+        "latitude": -12.75,
+        "longitude": 45.2333333
+    },
+    {
+        "name": "Mgnambani",
+        "country": "Mayotte",
+        "province": "Mayotte",
+        "population": -1,
+        "latitude": -12.93585,
+        "longitude": 45.166383
+    },
+    {
+        "name": "Moutsoumbatsou",
+        "country": "Mayotte",
+        "province": "Mayotte",
+        "population": -1,
+        "latitude": -12.751318,
+        "longitude": 45.049603
+    },
+    {
+        "name": "Tanaraki",
+        "country": "Mayotte",
+        "province": "Mayotte",
+        "population": -1,
+        "latitude": -12.759073,
+        "longitude": 45.07015
+    },
+    {
+        "name": "Hachénoua",
+        "country": "Mayotte",
+        "province": "Mayotte",
+        "population": -1,
+        "latitude": -12.788287,
+        "longitude": 45.112981
+    },
+    {
+        "name": "Combani",
+        "country": "Mayotte",
+        "province": "Mayotte",
+        "population": -1,
+        "latitude": -12.788025,
+        "longitude": 45.134053
+    },
+    {
+        "name": "Miréréni",
+        "country": "Mayotte",
+        "province": "Mayotte",
+        "population": -1,
+        "latitude": -12.788675,
+        "longitude": 45.14113
+    },
+    {
+        "name": "Mitséni",
+        "country": "Mayotte",
+        "province": "Mayotte",
+        "population": -1,
+        "latitude": -12.738622,
+        "longitude": 45.145722
+    },
+    {
+        "name": "Bandrajou",
+        "country": "Mayotte",
+        "province": "Mayotte",
+        "population": -1,
+        "latitude": -12.748291,
+        "longitude": 45.220533
+    },
+    {
+        "name": "Kaouéni",
+        "country": "Mayotte",
+        "province": "Mayotte",
+        "population": -1,
+        "latitude": -12.771206546281771,
+        "longitude": 45.22418975830078
+    },
+    {
+        "name": "Tsoundzou 2",
+        "country": "Mayotte",
+        "province": "Mayotte",
+        "population": -1,
+        "latitude": -12.81845,
+        "longitude": 45.1972
+    },
+    {
+        "name": "Kwalé",
+        "country": "Mayotte",
+        "province": "Mayotte",
+        "population": -1,
+        "latitude": -12.795278,
+        "longitude": 45.164167
+    },
+    {
+        "name": "Vahibé",
+        "country": "Mayotte",
+        "province": "Mayotte",
+        "population": -1,
+        "latitude": -12.781944,
+        "longitude": 45.170556
+    },
+    {
+        "name": "Foungoujou",
+        "country": "Mayotte",
+        "province": "Mayotte",
+        "population": -1,
+        "latitude": -12.786512,
+        "longitude": 45.261616
+    },
+    {
+        "name": "Mronyombéni",
+        "country": "Mayotte",
+        "province": "Mayotte",
+        "population": -1,
+        "latitude": -12.787917,
+        "longitude": 45.26443
+    },
+    {
+        "name": "Ironi Bé",
+        "country": "Mayotte",
+        "province": "Mayotte",
+        "population": -1,
+        "latitude": -12.832123,
+        "longitude": 45.192847
+    },
+    {
+        "name": "Hapandzo",
+        "country": "Mayotte",
+        "province": "Mayotte",
+        "population": -1,
+        "latitude": -12.834992,
+        "longitude": 45.131696
+    },
+    {
+        "name": "Kahani",
+        "country": "Mayotte",
+        "province": "Mayotte",
+        "population": -1,
+        "latitude": -12.823852938612799,
+        "longitude": 45.13140678405762
+    },
+    {
+        "name": "Coconi",
+        "country": "Mayotte",
+        "province": "Mayotte",
+        "population": -1,
+        "latitude": -12.834603,
+        "longitude": 45.13694
+    },
+    {
+        "name": "Djivani",
+        "country": "Mayotte",
+        "province": "Mayotte",
+        "population": -1,
+        "latitude": -12.833422,
+        "longitude": 45.12334
+    },
+    {
+        "name": "Doujani",
+        "country": "Mayotte",
+        "province": "Mayotte",
+        "population": -1,
+        "latitude": -12.845136,
+        "longitude": 45.108555
+    },
+    {
+        "name": "Bandrani",
+        "country": "Mayotte",
+        "province": "Mayotte",
+        "population": -1,
+        "latitude": -12.847296,
+        "longitude": 45.104574
+    },
+    {
+        "name": "Florence",
+        "country": "Mayotte",
+        "province": "Mayotte",
+        "population": -1,
+        "latitude": -12.861813,
+        "longitude": 45.194643
+    },
+    {
+        "name": "Maboungani",
+        "country": "Mayotte",
+        "province": "Mayotte",
+        "population": -1,
+        "latitude": -12.872423,
+        "longitude": 45.199809
+    },
+    {
+        "name": "Mtsangachéhi",
+        "country": "Mayotte",
+        "province": "Mayotte",
+        "population": -1,
+        "latitude": -12.886007,
+        "longitude": 45.131223
+    },
+    {
+        "name": "Mounadzini",
+        "country": "Mayotte",
+        "province": "Mayotte",
+        "population": -1,
+        "latitude": -12.895377,
+        "longitude": 45.142217
+    },
+    {
+        "name": "Mréréni Kéli",
+        "country": "Mayotte",
+        "province": "Mayotte",
+        "population": -1,
+        "latitude": -12.905305,
+        "longitude": 45.151706
+    },
+    {
+        "name": "Mréréni Bé",
+        "country": "Mayotte",
+        "province": "Mayotte",
+        "population": -1,
+        "latitude": -12.905803,
+        "longitude": 45.155241
+    },
+    {
+        "name": "Kavani",
+        "country": "Mayotte",
+        "province": "Mayotte",
+        "population": -1,
+        "latitude": -12.914966,
+        "longitude": 45.195643
+    },
+    {
+        "name": "Bambo Est",
+        "country": "Mayotte",
+        "province": "Mayotte",
+        "population": -1,
+        "latitude": -12.928877,
+        "longitude": 45.176732
+    },
+    {
+        "name": "Rampe Cannelle",
+        "country": "Mayotte",
+        "province": "Mayotte",
+        "population": -1,
+        "latitude": -12.939187,
+        "longitude": 45.142721
+    },
+    {
+        "name": "Majiméouni",
+        "country": "Mayotte",
+        "province": "Mayotte",
+        "population": -1,
+        "latitude": -12.925214,
+        "longitude": 45.107213
+    },
+    {
+        "name": "Hanyoundrou",
+        "country": "Mayotte",
+        "province": "Mayotte",
+        "population": -1,
+        "latitude": -12.903315,
+        "longitude": 45.100932
+    },
+    {
+        "name": "Bambo Ouest",
+        "country": "Mayotte",
+        "province": "Mayotte",
+        "population": -1,
+        "latitude": -12.924291,
+        "longitude": 45.089891
+    },
+    {
+        "name": "Ngouja",
+        "country": "Mayotte",
+        "province": "Mayotte",
+        "population": -1,
+        "latitude": -12.961604,
+        "longitude": 45.084501
+    },
+    {
+        "name": "Zoumougine",
+        "country": "Mayotte",
+        "province": "Mayotte",
+        "population": -1,
+        "latitude": -12.7333333,
+        "longitude": 45.1333333
+    },
+    {
+        "name": "Trivani",
+        "country": "Mayotte",
+        "province": "Koungou",
+        "population": -1,
+        "latitude": -12.75,
+        "longitude": 45.2166667
+    },
+    {
+        "name": "Sada",
+        "country": "Mayotte",
+        "province": "Mayotte",
+        "population": -1,
+        "latitude": -12.85,
+        "longitude": 45.1166667
+    },
+    {
+        "name": "Proani",
+        "country": "Mayotte",
+        "province": "Mayotte",
+        "population": -1,
+        "latitude": -12.9,
+        "longitude": 45.1333333
+    },
+    {
+        "name": "M'Zioizie",
+        "country": "Mayotte",
+        "province": "Mayotte",
+        "population": -1,
+        "latitude": -12.933333,
+        "longitude": 45.133333
+    },
+    {
+        "name": "M'Samouni",
+        "country": "Mayotte",
+        "province": "Bandrele",
+        "population": -1,
+        "latitude": -12.883333,
+        "longitude": 45.166667
+    },
+    {
+        "name": "Mouroni Sanga",
+        "country": "Mayotte",
+        "province": "Bandrele",
+        "population": -1,
+        "latitude": -13,
+        "longitude": 45.1666667
+    },
+    {
+        "name": "Mouroni Abeja",
+        "country": "Mayotte",
+        "province": "Mayotte",
+        "population": -1,
+        "latitude": -12.9833333,
+        "longitude": 45.1333333
+    },
+    {
+        "name": "Mouramedoudou",
+        "country": "Mayotte",
+        "province": "Mayotte",
+        "population": -1,
+        "latitude": -12.9333333,
+        "longitude": 45.1666667
+    },
+    {
+        "name": "Moliha",
+        "country": "Mayotte",
+        "province": "Mayotte",
+        "population": -1,
+        "latitude": -12.7666667,
+        "longitude": 45.0833333
+    },
+    {
+        "name": "Mirereni",
+        "country": "Mayotte",
+        "province": "Mayotte",
+        "population": -1,
+        "latitude": -12.9166667,
+        "longitude": 45.1833333
+    },
+    {
+        "name": "Miambani",
+        "country": "Mayotte",
+        "province": "Bandrele",
+        "population": -1,
+        "latitude": -12.95,
+        "longitude": 45.2
+    },
+    {
+        "name": "M'Ferrolliet",
+        "country": "Mayotte",
+        "province": "Tsingoni",
+        "population": -1,
+        "latitude": -12.766667,
+        "longitude": 45.133333
+    },
+    {
+        "name": "Longoni",
+        "country": "Mayotte",
+        "province": "Koungou",
+        "population": -1,
+        "latitude": -12.75,
+        "longitude": 45.1833333
+    },
+    {
+        "name": "Keledjou",
+        "country": "Mayotte",
+        "province": "M'Tsangamouji",
+        "population": -1,
+        "latitude": -12.9833333,
+        "longitude": 45.2166667
+    },
+    {
+        "name": "Combani",
+        "country": "Mayotte",
+        "province": "Mayotte",
+        "population": -1,
+        "latitude": -12.8,
+        "longitude": 45.1666667
+    },
+    {
+        "name": "Chingoni",
+        "country": "Mayotte",
+        "province": "Mayotte",
+        "population": -1,
+        "latitude": -12.8,
+        "longitude": 45.1333333
+    },
+    {
+        "name": "Boeni",
+        "country": "Mayotte",
+        "province": "Mayotte",
+        "population": -1,
+        "latitude": -12.9166667,
+        "longitude": 45.1
+    },
+    {
+        "name": "Bandamagi",
+        "country": "Mayotte",
+        "province": "Tsingoni",
+        "population": -1,
+        "latitude": -12.7666667,
+        "longitude": 45.1666667
+    },
+    {
+        "name": "Bandaboa",
+        "country": "Mayotte",
+        "province": "Mayotte",
+        "population": -1,
+        "latitude": -12.7166667,
+        "longitude": 45.15
+    },
+    {
+        "name": "Balembo",
+        "country": "Mayotte",
+        "province": "Mayotte",
+        "population": -1,
+        "latitude": -12.9833333,
+        "longitude": 45.1833333
+    },
+    {
+        "name": "Anguebacao",
+        "country": "Mayotte",
+        "province": "Bandrele",
+        "population": -1,
+        "latitude": -12.8833333,
+        "longitude": 45.2333333
+    },
+    {
+        "name": "Amoro",
+        "country": "Mayotte",
+        "province": "Bandrele",
+        "population": -1,
+        "latitude": -12.8833333,
+        "longitude": 45.2333333
+    },
+    {
+        "name": "Ajangua",
+        "country": "Mayotte",
+        "province": "Dembeni",
+        "population": -1,
+        "latitude": -12.8666667,
+        "longitude": 45.2166667
+    },
+    {
+        "name": "Mouanamanga",
+        "country": "Mayotte",
+        "province": "Mayotte",
+        "population": -1,
+        "latitude": -12.910921,
+        "longitude": 45.080785
+    },
+    {
+        "name": "Sakouli",
+        "country": "Mayotte",
+        "province": "Mayotte",
+        "population": -1,
+        "latitude": -12.890593,
+        "longitude": 45.21077
+    },
+    {
+        "name": "Mraféni",
+        "country": "Mayotte",
+        "province": "Mayotte",
+        "population": -1,
+        "latitude": -12.89255,
+        "longitude": 45.205916
+    },
+    {
+        "name": "Komojou",
+        "country": "Mayotte",
+        "province": "Mayotte",
+        "population": -1,
+        "latitude": -12.854886,
+        "longitude": 45.100362
+    },
+    {
+        "name": "Bouchini",
+        "country": "Mayotte",
+        "province": "Mayotte",
+        "population": -1,
+        "latitude": -12.689958,
+        "longitude": 45.105266
+    },
+    {
+        "name": "Courtomel",
+        "country": "Mayotte",
+        "province": "Mayotte",
+        "population": -1,
+        "latitude": -12.791526,
+        "longitude": 45.163317
+    },
+    {
+        "name": "Doujani",
+        "country": "Mayotte",
+        "province": "Mayotte",
+        "population": -1,
+        "latitude": -12.79389,
+        "longitude": 45.21492
+    },
+    {
+        "name": "Sohoa Kéli",
+        "country": "Mayotte",
+        "province": "Mayotte",
+        "population": -1,
+        "latitude": -12.823948,
+        "longitude": 45.107743
+    },
+    {
+        "name": "Sohoa Kavani",
+        "country": "Mayotte",
+        "province": "Mayotte",
+        "population": -1,
+        "latitude": -12.821267,
+        "longitude": 45.108252
+    },
+    {
+        "name": "La Ferme",
+        "country": "Mayotte",
+        "province": "Dzaoudzi",
+        "population": -1,
+        "latitude": -12.789856,
+        "longitude": 45.27733
+    },
+    {
+        "name": "Manyassini",
+        "country": "Mayotte",
+        "province": "Mayotte",
+        "population": -1,
+        "latitude": -12.891365,
+        "longitude": 45.143508
+    },
+    {
+        "name": "Kadjifoutchéni",
+        "country": "Mayotte",
+        "province": "Mayotte",
+        "population": -1,
+        "latitude": -12.701451,
+        "longitude": 45.123975
+    },
+    {
+        "name": "Mgombani",
+        "country": "Mayotte",
+        "province": "Mayotte",
+        "population": -1,
+        "latitude": -12.706335,
+        "longitude": 45.121699
+    },
+    {
+        "name": "Sandravouangué",
+        "country": "Mayotte",
+        "province": "Mayotte",
+        "population": -1,
+        "latitude": -12.797738,
+        "longitude": 45.2738
+    },
+    {
+        "name": "Bandrabassi",
+        "country": "Mayotte",
+        "province": "Mayotte",
+        "population": -1,
+        "latitude": -12.799641,
+        "longitude": 45.275788
+    },
+    {
+        "name": "Bahoni",
+        "country": "Mayotte",
+        "province": "Mayotte",
+        "population": -1,
+        "latitude": -12.799999,
+        "longitude": 45.282533
+    },
+    {
+        "name": "Vitalémengou",
+        "country": "Mayotte",
+        "province": "Mayotte",
+        "population": -1,
+        "latitude": -12.791505,
+        "longitude": 45.282991
+    },
+    {
+        "name": "Bandrahari",
+        "country": "Mayotte",
+        "province": "Mayotte",
+        "population": -1,
+        "latitude": -12.794734,
+        "longitude": 45.284221
+    },
+    {
+        "name": "Le Jardin",
+        "country": "Mayotte",
+        "province": "Mayotte",
+        "population": -1,
+        "latitude": -12.794992,
+        "longitude": 45.274981
+    },
+    {
+        "name": "Totorossa",
+        "country": "Mayotte",
+        "province": "Mayotte",
+        "population": -1,
+        "latitude": -12.78061,
+        "longitude": 45.279254
+    }
+]

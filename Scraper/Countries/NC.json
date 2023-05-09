@@ -1,0 +1,5962 @@
+[
+    {
+        "name": "Noumea",
+        "country": "New Caledonia",
+        "province": "South Province",
+        "population": 93060,
+        "latitude": -22.27407,
+        "longitude": 166.44884
+    },
+    {
+        "name": "Wé",
+        "country": "New Caledonia",
+        "province": "Loyalty Islands",
+        "population": 10375,
+        "latitude": -20.9168692821121,
+        "longitude": 167.264614105225
+    },
+    {
+        "name": "Mont-Dore",
+        "country": "New Caledonia",
+        "province": "South Province",
+        "population": 24680,
+        "latitude": -22.26257,
+        "longitude": 166.56621
+    },
+    {
+        "name": "Païta",
+        "country": "New Caledonia",
+        "province": "South Province",
+        "population": 12617,
+        "latitude": -22.13105,
+        "longitude": 166.35717
+    },
+    {
+        "name": "Dumbéa",
+        "country": "New Caledonia",
+        "province": "South Province",
+        "population": 19346,
+        "latitude": -22.157574,
+        "longitude": 166.457199
+    },
+    {
+        "name": "Koné",
+        "country": "New Caledonia",
+        "province": "North Province",
+        "population": 4572,
+        "latitude": -21.059511650753155,
+        "longitude": 164.86581802368164
+    },
+    {
+        "name": "Bourail",
+        "country": "New Caledonia",
+        "province": "South Province",
+        "population": 4826,
+        "latitude": -21.5669,
+        "longitude": 165.49736
+    },
+    {
+        "name": "Poindimié",
+        "country": "New Caledonia",
+        "province": "North Province",
+        "population": 4885,
+        "latitude": -20.93714,
+        "longitude": 165.33121
+    },
+    {
+        "name": "Houaïlou",
+        "country": "New Caledonia",
+        "province": "North Province",
+        "population": 4562,
+        "latitude": -21.2833333,
+        "longitude": 165.6166667
+    },
+    {
+        "name": "Poum",
+        "country": "New Caledonia",
+        "province": "North Province",
+        "population": 1405,
+        "latitude": -20.2333333,
+        "longitude": 164.0166667
+    },
+    {
+        "name": "Fayaoué",
+        "country": "New Caledonia",
+        "province": "Loyalty Islands",
+        "population": 4411,
+        "latitude": -20.65284,
+        "longitude": 166.53641
+    },
+    {
+        "name": "Tadine",
+        "country": "New Caledonia",
+        "province": "Loyalty Islands",
+        "population": 7492,
+        "latitude": -21.54751,
+        "longitude": 167.880195
+    },
+    {
+        "name": "Touho",
+        "country": "New Caledonia",
+        "province": "North Province",
+        "population": 2283,
+        "latitude": -20.79094,
+        "longitude": 165.24987
+    },
+    {
+        "name": "Plum",
+        "country": "New Caledonia",
+        "province": "South Province",
+        "population": -1,
+        "latitude": -22.27226,
+        "longitude": 166.6144
+    },
+    {
+        "name": "Ouåco",
+        "country": "New Caledonia",
+        "province": "North Province",
+        "population": -1,
+        "latitude": -20.83531,
+        "longitude": 164.46945
+    },
+    {
+        "name": "La Roche",
+        "country": "New Caledonia",
+        "province": "Loyalty Islands",
+        "population": -1,
+        "latitude": -21.47799,
+        "longitude": 168.02593
+    },
+    {
+        "name": "Hienghène",
+        "country": "New Caledonia",
+        "province": "North Province",
+        "population": 2668,
+        "latitude": -20.683333,
+        "longitude": 164.933333
+    },
+    {
+        "name": "Chépénéhé",
+        "country": "New Caledonia",
+        "province": "Loyalty Islands",
+        "population": -1,
+        "latitude": -20.783333,
+        "longitude": 167.15
+    },
+    {
+        "name": "Wakuarori",
+        "country": "New Caledonia",
+        "province": "Loyalty Islands",
+        "population": -1,
+        "latitude": -21.437434,
+        "longitude": 167.890214
+    },
+    {
+        "name": "Thogoon",
+        "country": "New Caledonia",
+        "province": "Loyalty Islands",
+        "population": -1,
+        "latitude": -21.396187,
+        "longitude": 167.90118
+    },
+    {
+        "name": "Tenan",
+        "country": "New Caledonia",
+        "province": "Loyalty Islands",
+        "population": -1,
+        "latitude": -21.404957,
+        "longitude": 167.894443
+    },
+    {
+        "name": "Sarraméa",
+        "country": "New Caledonia",
+        "province": "South Province",
+        "population": 623,
+        "latitude": -21.65,
+        "longitude": 165.85
+    },
+    {
+        "name": "Saint-Louis",
+        "country": "New Caledonia",
+        "province": "New Caledonia",
+        "population": -1,
+        "latitude": -22.2333333,
+        "longitude": 166.55
+    },
+    {
+        "name": "Pouembout",
+        "country": "New Caledonia",
+        "province": "North Province",
+        "population": 1511,
+        "latitude": -21.1333333,
+        "longitude": 164.9
+    },
+    {
+        "name": "Pouébo",
+        "country": "New Caledonia",
+        "province": "North Province",
+        "population": 2391,
+        "latitude": -20.4,
+        "longitude": 164.5666667
+    },
+    {
+        "name": "Potê",
+        "country": "New Caledonia",
+        "province": "South Province",
+        "population": -1,
+        "latitude": -21.45399,
+        "longitude": 165.49114
+    },
+    {
+        "name": "Poro",
+        "country": "New Caledonia",
+        "province": "North Province",
+        "population": -1,
+        "latitude": -21.3166667,
+        "longitude": 165.6333333
+    },
+    {
+        "name": "Pont des Français",
+        "country": "New Caledonia",
+        "province": "South Province",
+        "population": -1,
+        "latitude": -22.22028,
+        "longitude": 166.494457
+    },
+    {
+        "name": "Ponérihouen",
+        "country": "New Caledonia",
+        "province": "North Province",
+        "population": 2739,
+        "latitude": -21.083333,
+        "longitude": 165.4
+    },
+    {
+        "name": "Paagoumène",
+        "country": "New Caledonia",
+        "province": "New Caledonia",
+        "population": -1,
+        "latitude": -20.483333,
+        "longitude": 164.183333
+    },
+    {
+        "name": "Mou",
+        "country": "New Caledonia",
+        "province": "Loyalty Islands",
+        "population": -1,
+        "latitude": -21.09357,
+        "longitude": 167.39902
+    },
+    {
+        "name": "Menaku",
+        "country": "New Caledonia",
+        "province": "Loyalty Islands",
+        "population": -1,
+        "latitude": -21.44342,
+        "longitude": 167.969079
+    },
+    {
+        "name": "La Foa",
+        "country": "New Caledonia",
+        "province": "South Province",
+        "population": 2947,
+        "latitude": -21.7107855531002,
+        "longitude": 165.82763671875
+    },
+    {
+        "name": "Koumac",
+        "country": "New Caledonia",
+        "province": "North Province",
+        "population": 3060,
+        "latitude": -20.5666667,
+        "longitude": 164.2833333
+    },
+    {
+        "name": "Kaewatin",
+        "country": "New Caledonia",
+        "province": "Loyalty Islands",
+        "population": -1,
+        "latitude": -21.395941,
+        "longitude": 167.935625
+    },
+    {
+        "name": "Kaala-Gomén",
+        "country": "New Caledonia",
+        "province": "North Province",
+        "population": 1897,
+        "latitude": -20.666667,
+        "longitude": 164.4
+    },
+    {
+        "name": "Farino",
+        "country": "New Caledonia",
+        "province": "South Province",
+        "population": 480,
+        "latitude": -21.6666667,
+        "longitude": 165.7666667
+    },
+    {
+        "name": "Canala",
+        "country": "New Caledonia",
+        "province": "North Province",
+        "population": 3538,
+        "latitude": -21.5333333,
+        "longitude": 165.95
+    },
+    {
+        "name": "Bouloupari",
+        "country": "New Caledonia",
+        "province": "South Province",
+        "population": 2146,
+        "latitude": -21.862258,
+        "longitude": 166.051216
+    },
+    {
+        "name": "La Tontouta",
+        "country": "New Caledonia",
+        "province": "South Province",
+        "population": -1,
+        "latitude": -22.01284876245966,
+        "longitude": 166.22374534606934
+    },
+    {
+        "name": "Yaté-Village",
+        "country": "New Caledonia",
+        "province": "New Caledonia",
+        "population": -1,
+        "latitude": -22.15,
+        "longitude": 166.9
+    },
+    {
+        "name": "Yaté-Barrage",
+        "country": "New Caledonia",
+        "province": "New Caledonia",
+        "population": 1871,
+        "latitude": -22.15,
+        "longitude": 166.8833333
+    },
+    {
+        "name": "Wala",
+        "country": "New Caledonia",
+        "province": "North Province",
+        "population": 890,
+        "latitude": -19.71161,
+        "longitude": 163.64702
+    },
+    {
+        "name": "Wagap",
+        "country": "New Caledonia",
+        "province": "New Caledonia",
+        "population": -1,
+        "latitude": -20.8833333,
+        "longitude": 165.2666667
+    },
+    {
+        "name": "Wadrilla",
+        "country": "New Caledonia",
+        "province": "New Caledonia",
+        "population": -1,
+        "latitude": -20.59615,
+        "longitude": 166.56446
+    },
+    {
+        "name": "Wabao",
+        "country": "New Caledonia",
+        "province": "Loyalty Islands",
+        "population": -1,
+        "latitude": -21.602369,
+        "longitude": 167.936678
+    },
+    {
+        "name": "Voh",
+        "country": "New Caledonia",
+        "province": "North Province",
+        "population": 2272,
+        "latitude": -20.9666667,
+        "longitude": 164.7
+    },
+    {
+        "name": "Vao",
+        "country": "New Caledonia",
+        "province": "South Province",
+        "population": 1862,
+        "latitude": -22.66645,
+        "longitude": 167.49627
+    },
+    {
+        "name": "Station de Muéo",
+        "country": "New Caledonia",
+        "province": "New Caledonia",
+        "population": -1,
+        "latitude": -21.3,
+        "longitude": 165.0166667
+    },
+    {
+        "name": "Saint-Joseph",
+        "country": "New Caledonia",
+        "province": "New Caledonia",
+        "population": -1,
+        "latitude": -20.4579,
+        "longitude": 166.59651
+    },
+    {
+        "name": "Ro",
+        "country": "New Caledonia",
+        "province": "Loyalty Islands",
+        "population": -1,
+        "latitude": -21.392526,
+        "longitude": 167.862328
+    },
+    {
+        "name": "Poya",
+        "country": "New Caledonia",
+        "province": "North Province",
+        "population": 2617,
+        "latitude": -21.35,
+        "longitude": 165.15
+    },
+    {
+        "name": "Ouinané-Nétéa",
+        "country": "New Caledonia",
+        "province": "South Province",
+        "population": -1,
+        "latitude": -21.920164,
+        "longitude": 166.159642
+    },
+    {
+        "name": "Ouégoa",
+        "country": "New Caledonia",
+        "province": "North Province",
+        "population": 2127,
+        "latitude": -20.35,
+        "longitude": 164.4333333
+    },
+    {
+        "name": "Oubatche",
+        "country": "New Caledonia",
+        "province": "New Caledonia",
+        "population": -1,
+        "latitude": -20.4333333,
+        "longitude": 164.6333333
+    },
+    {
+        "name": "Ouaméo",
+        "country": "New Caledonia",
+        "province": "New Caledonia",
+        "population": -1,
+        "latitude": -22.6,
+        "longitude": 167.433333
+    },
+    {
+        "name": "Ouaméni",
+        "country": "New Caledonia",
+        "province": "New Caledonia",
+        "population": -1,
+        "latitude": -21.8,
+        "longitude": 165.966667
+    },
+    {
+        "name": "Ognat",
+        "country": "New Caledonia",
+        "province": "New Caledonia",
+        "population": -1,
+        "latitude": -20.47635,
+        "longitude": 166.65236
+    },
+    {
+        "name": "Népoui",
+        "country": "New Caledonia",
+        "province": "North Province",
+        "population": -1,
+        "latitude": -21.32832,
+        "longitude": 164.99851
+    },
+    {
+        "name": "Nece",
+        "country": "New Caledonia",
+        "province": "Loyalty Islands",
+        "population": -1,
+        "latitude": -21.491608,
+        "longitude": 167.838982
+    },
+    {
+        "name": "Moindou",
+        "country": "New Caledonia",
+        "province": "South Province",
+        "population": 609,
+        "latitude": -21.7,
+        "longitude": 165.6833333
+    },
+    {
+        "name": "Luengoni",
+        "country": "New Caledonia",
+        "province": "New Caledonia",
+        "population": -1,
+        "latitude": -21.0333333,
+        "longitude": 167.4166667
+    },
+    {
+        "name": "Lékine",
+        "country": "New Caledonia",
+        "province": "New Caledonia",
+        "population": -1,
+        "latitude": -20.69408,
+        "longitude": 166.48926
+    },
+    {
+        "name": "Kouaoua",
+        "country": "New Caledonia",
+        "province": "North Province",
+        "population": -1,
+        "latitude": -21.395540730090616,
+        "longitude": 165.8269500732422
+    },
+    {
+        "name": "Gillês",
+        "country": "New Caledonia",
+        "province": "South Province",
+        "population": -1,
+        "latitude": -21.892184,
+        "longitude": 166.018887
+    },
+    {
+        "name": "Fonwhary",
+        "country": "New Caledonia",
+        "province": "New Caledonia",
+        "population": -1,
+        "latitude": -21.6833333,
+        "longitude": 165.7833333
+    },
+    {
+        "name": "Doking",
+        "country": "New Caledonia",
+        "province": "New Caledonia",
+        "population": -1,
+        "latitude": -20.7,
+        "longitude": 167.1666667
+    },
+    {
+        "name": "Congouma",
+        "country": "New Caledonia",
+        "province": "New Caledonia",
+        "population": -1,
+        "latitude": -20.75,
+        "longitude": 165.0833333
+    },
+    {
+        "name": "Awé",
+        "country": "New Caledonia",
+        "province": "New Caledonia",
+        "population": -1,
+        "latitude": -19.683333,
+        "longitude": 163.65
+    },
+    {
+        "name": "Winikuye",
+        "country": "New Caledonia",
+        "province": "Loyalty Islands",
+        "population": -1,
+        "latitude": -21.542721,
+        "longitude": 167.876733
+    },
+    {
+        "name": "Webegunin",
+        "country": "New Caledonia",
+        "province": "Loyalty Islands",
+        "population": -1,
+        "latitude": -21.52125,
+        "longitude": 167.852467
+    },
+    {
+        "name": "Wakone",
+        "country": "New Caledonia",
+        "province": "Loyalty Islands",
+        "population": -1,
+        "latitude": -21.459321,
+        "longitude": 168.092945
+    },
+    {
+        "name": "Yaté",
+        "country": "New Caledonia",
+        "province": "South Province",
+        "population": -1,
+        "latitude": -22.166667,
+        "longitude": 166.95
+    },
+    {
+        "name": "Tuo",
+        "country": "New Caledonia",
+        "province": "Loyalty Islands",
+        "population": -1,
+        "latitude": -21.49792,
+        "longitude": 167.894613
+    },
+    {
+        "name": "Trapour",
+        "country": "New Caledonia",
+        "province": "New Caledonia",
+        "population": -1,
+        "latitude": -20.93559,
+        "longitude": 167.31474
+    },
+    {
+        "name": "Tonghoué",
+        "country": "New Caledonia",
+        "province": "South Province",
+        "population": -1,
+        "latitude": -22.200003,
+        "longitude": 166.479688
+    },
+    {
+        "name": "Tomo",
+        "country": "New Caledonia",
+        "province": "South Province",
+        "population": -1,
+        "latitude": -21.957711,
+        "longitude": 166.149238
+    },
+    {
+        "name": "Tinip",
+        "country": "New Caledonia",
+        "province": "New Caledonia",
+        "population": -1,
+        "latitude": -20.7666667,
+        "longitude": 164.45
+    },
+    {
+        "name": "Tiéti",
+        "country": "New Caledonia",
+        "province": "New Caledonia",
+        "population": -1,
+        "latitude": -20.9333333,
+        "longitude": 165.3
+    },
+    {
+        "name": "Tié",
+        "country": "New Caledonia",
+        "province": "New Caledonia",
+        "population": -1,
+        "latitude": -20.9,
+        "longitude": 165.2833333
+    },
+    {
+        "name": "Tia",
+        "country": "New Caledonia",
+        "province": "New Caledonia",
+        "population": -1,
+        "latitude": -21.7166667,
+        "longitude": 165.8
+    },
+    {
+        "name": "Thuma",
+        "country": "New Caledonia",
+        "province": "Loyalty Islands",
+        "population": -1,
+        "latitude": -21.487727,
+        "longitude": 167.895642
+    },
+    {
+        "name": "Thio",
+        "country": "New Caledonia",
+        "province": "South Province",
+        "population": 2748,
+        "latitude": -21.6166667,
+        "longitude": 166.2166667
+    },
+    {
+        "name": "Témala",
+        "country": "New Caledonia",
+        "province": "New Caledonia",
+        "population": -1,
+        "latitude": -20.9,
+        "longitude": 164.683333
+    },
+    {
+        "name": "Tawainedr",
+        "country": "New Caledonia",
+        "province": "Loyalty Islands",
+        "population": -1,
+        "latitude": -21.501997,
+        "longitude": 168.083006
+    },
+    {
+        "name": "Taode",
+        "country": "New Caledonia",
+        "province": "Loyalty Islands",
+        "population": -1,
+        "latitude": -21.450436,
+        "longitude": 167.910388
+    },
+    {
+        "name": "Takedji",
+        "country": "New Caledonia",
+        "province": "New Caledonia",
+        "population": -1,
+        "latitude": -20.4666667,
+        "longitude": 166.6
+    },
+    {
+        "name": "Ruete",
+        "country": "New Caledonia",
+        "province": "Loyalty Islands",
+        "population": -1,
+        "latitude": -21.540276,
+        "longitude": 167.890443
+    },
+    {
+        "name": "Prony",
+        "country": "New Caledonia",
+        "province": "South Province",
+        "population": -1,
+        "latitude": -22.320012,
+        "longitude": 166.824134
+    },
+    {
+        "name": "Pouéo",
+        "country": "New Caledonia",
+        "province": "New Caledonia",
+        "population": -1,
+        "latitude": -21.5166667,
+        "longitude": 165.5166667
+    },
+    {
+        "name": "Port-Saïd",
+        "country": "New Caledonia",
+        "province": "Loyalty Islands",
+        "population": -1,
+        "latitude": -21.512903,
+        "longitude": 167.908807
+    },
+    {
+        "name": "Pierra",
+        "country": "New Caledonia",
+        "province": "New Caledonia",
+        "population": -1,
+        "latitude": -21.7166667,
+        "longitude": 165.8666667
+    },
+    {
+        "name": "Peyec",
+        "country": "New Caledonia",
+        "province": "Loyalty Islands",
+        "population": -1,
+        "latitude": -21.453655,
+        "longitude": 167.978473
+    },
+    {
+        "name": "Pewaet",
+        "country": "New Caledonia",
+        "province": "Loyalty Islands",
+        "population": -1,
+        "latitude": -21.547716,
+        "longitude": 168.072756
+    },
+    {
+        "name": "Penelo",
+        "country": "New Caledonia",
+        "province": "Loyalty Islands",
+        "population": -1,
+        "latitude": -21.572054,
+        "longitude": 168.089643
+    },
+    {
+        "name": "Ouyaguette",
+        "country": "New Caledonia",
+        "province": "New Caledonia",
+        "population": -1,
+        "latitude": -20.6666667,
+        "longitude": 164.6833333
+    },
+    {
+        "name": "Ouloup",
+        "country": "New Caledonia",
+        "province": "New Caledonia",
+        "population": -1,
+        "latitude": -20.64969,
+        "longitude": 166.56874
+    },
+    {
+        "name": "Ouenpouès",
+        "country": "New Caledonia",
+        "province": "New Caledonia",
+        "population": -1,
+        "latitude": -20.65,
+        "longitude": 164.9166667
+    },
+    {
+        "name": "Ouengo-Pouéaï",
+        "country": "New Caledonia",
+        "province": "New Caledonia",
+        "population": -1,
+        "latitude": -20.7833333,
+        "longitude": 164.7333333
+    },
+    {
+        "name": "Ouara",
+        "country": "New Caledonia",
+        "province": "South Province",
+        "population": -1,
+        "latitude": -22.42392,
+        "longitude": 166.840132
+    },
+    {
+        "name": "Ognahu",
+        "country": "New Caledonia",
+        "province": "New Caledonia",
+        "population": -1,
+        "latitude": -20.66343,
+        "longitude": 166.56482
+    },
+    {
+        "name": "Nimbaye",
+        "country": "New Caledonia",
+        "province": "New Caledonia",
+        "population": -1,
+        "latitude": -21.0833333,
+        "longitude": 165.3333333
+    },
+    {
+        "name": "Hnidenod",
+        "country": "New Caledonia",
+        "province": "Loyalty Islands",
+        "population": -1,
+        "latitude": -21.565432,
+        "longitude": 167.877574
+    },
+    {
+        "name": "Nessadiou",
+        "country": "New Caledonia",
+        "province": "New Caledonia",
+        "population": -1,
+        "latitude": -21.62815,
+        "longitude": 165.53178
+    },
+    {
+        "name": "Néouta",
+        "country": "New Caledonia",
+        "province": "New Caledonia",
+        "population": -1,
+        "latitude": -21.0666667,
+        "longitude": 165.3833333
+    },
+    {
+        "name": "Nato",
+        "country": "New Caledonia",
+        "province": "New Caledonia",
+        "population": -1,
+        "latitude": -21.05,
+        "longitude": 165.3666667
+    },
+    {
+        "name": "Nassirah",
+        "country": "New Caledonia",
+        "province": "South Province",
+        "population": -1,
+        "latitude": -21.801521,
+        "longitude": 166.062927
+    },
+    {
+        "name": "Nassandou",
+        "country": "New Caledonia",
+        "province": "South Province",
+        "population": -1,
+        "latitude": -22.082278,
+        "longitude": 166.257292
+    },
+    {
+        "name": "Napoémien",
+        "country": "New Caledonia",
+        "province": "New Caledonia",
+        "population": -1,
+        "latitude": -20.9666667,
+        "longitude": 165.35
+    },
+    {
+        "name": "Nakéty",
+        "country": "New Caledonia",
+        "province": "New Caledonia",
+        "population": -1,
+        "latitude": -21.55,
+        "longitude": 166.0333333
+    },
+    {
+        "name": "Mouly",
+        "country": "New Caledonia",
+        "province": "New Caledonia",
+        "population": -1,
+        "latitude": -20.72224,
+        "longitude": 166.42236
+    },
+    {
+        "name": "Mou",
+        "country": "New Caledonia",
+        "province": "New Caledonia",
+        "population": -1,
+        "latitude": -21.09755,
+        "longitude": 165.44209
+    },
+    {
+        "name": "Medu",
+        "country": "New Caledonia",
+        "province": "Loyalty Islands",
+        "population": -1,
+        "latitude": -21.621743,
+        "longitude": 167.952844
+    },
+    {
+        "name": "Méa-Mébara",
+        "country": "New Caledonia",
+        "province": "New Caledonia",
+        "population": -1,
+        "latitude": -21.4666667,
+        "longitude": 165.7833333
+    },
+    {
+        "name": "Kaewaura",
+        "country": "New Caledonia",
+        "province": "Loyalty Islands",
+        "population": -1,
+        "latitude": -21.471279,
+        "longitude": 167.958214
+    },
+    {
+        "name": "La Coulée",
+        "country": "New Caledonia",
+        "province": "South Province",
+        "population": -1,
+        "latitude": -22.23127,
+        "longitude": 166.57582
+    },
+    {
+        "name": "Kuenthio",
+        "country": "New Caledonia",
+        "province": "New Caledonia",
+        "population": -1,
+        "latitude": -21.7833333,
+        "longitude": 166.0833333
+    },
+    {
+        "name": "Koutio",
+        "country": "New Caledonia",
+        "province": "South Province",
+        "population": -1,
+        "latitude": -22.2056,
+        "longitude": 166.462399
+    },
+    {
+        "name": "Koua",
+        "country": "New Caledonia",
+        "province": "New Caledonia",
+        "population": -1,
+        "latitude": -21.3333333,
+        "longitude": 165.7666667
+    },
+    {
+        "name": "Koligoh-Gomen",
+        "country": "New Caledonia",
+        "province": "New Caledonia",
+        "population": -1,
+        "latitude": -20.6833333,
+        "longitude": 164.4666667
+    },
+    {
+        "name": "Kokengone",
+        "country": "New Caledonia",
+        "province": "New Caledonia",
+        "population": -1,
+        "latitude": -20.85,
+        "longitude": 165.25
+    },
+    {
+        "name": "Koindé",
+        "country": "New Caledonia",
+        "province": "New Caledonia",
+        "population": -1,
+        "latitude": -21.6166667,
+        "longitude": 165.95
+    },
+    {
+        "name": "Kodle",
+        "country": "New Caledonia",
+        "province": "New Caledonia",
+        "population": -1,
+        "latitude": -21.11285,
+        "longitude": 167.40486
+    },
+    {
+        "name": "Kirinata",
+        "country": "New Caledonia",
+        "province": "New Caledonia",
+        "population": -1,
+        "latitude": -20.81373,
+        "longitude": 167.24891
+    },
+    {
+        "name": "Kezien",
+        "country": "New Caledonia",
+        "province": "Loyalty Islands",
+        "population": -1,
+        "latitude": -21.597371,
+        "longitude": 167.89818
+    },
+    {
+        "name": "Karenga",
+        "country": "New Caledonia",
+        "province": "South Province",
+        "population": -1,
+        "latitude": -22.016979,
+        "longitude": 166.237091
+    },
+    {
+        "name": "Karembé",
+        "country": "New Caledonia",
+        "province": "New Caledonia",
+        "population": -1,
+        "latitude": -20.6333333,
+        "longitude": 164.3166667
+    },
+    {
+        "name": "Kalen",
+        "country": "New Caledonia",
+        "province": "Loyalty Islands",
+        "population": -1,
+        "latitude": -21.497989,
+        "longitude": 167.842707
+    },
+    {
+        "name": "Inagod",
+        "country": "New Caledonia",
+        "province": "Loyalty Islands",
+        "population": -1,
+        "latitude": -21.01745,
+        "longitude": 167.37413
+    },
+    {
+        "name": "Hnawayaca",
+        "country": "New Caledonia",
+        "province": "Loyalty Islands",
+        "population": -1,
+        "latitude": -21.441622,
+        "longitude": 167.861251
+    },
+    {
+        "name": "Hnaenedr",
+        "country": "New Caledonia",
+        "province": "Loyalty Islands",
+        "population": -1,
+        "latitude": -21.472173,
+        "longitude": 168.004047
+    },
+    {
+        "name": "Hnadidi",
+        "country": "New Caledonia",
+        "province": "Loyalty Islands",
+        "population": -1,
+        "latitude": -21.455747,
+        "longitude": 168.101021
+    },
+    {
+        "name": "Gouaro",
+        "country": "New Caledonia",
+        "province": "New Caledonia",
+        "population": -1,
+        "latitude": -21.6,
+        "longitude": 165.4333333
+    },
+    {
+        "name": "Gondou",
+        "country": "New Caledonia",
+        "province": "New Caledonia",
+        "population": -1,
+        "latitude": -21.35,
+        "longitude": 165.4333333
+    },
+    {
+        "name": "Ete",
+        "country": "New Caledonia",
+        "province": "Loyalty Islands",
+        "population": -1,
+        "latitude": -21.519636,
+        "longitude": 167.854001
+    },
+    {
+        "name": "Enene",
+        "country": "New Caledonia",
+        "province": "Loyalty Islands",
+        "population": -1,
+        "latitude": -21.516687,
+        "longitude": 168.057747
+    },
+    {
+        "name": "Douéoulou",
+        "country": "New Caledonia",
+        "province": "New Caledonia",
+        "population": -1,
+        "latitude": -20.933333,
+        "longitude": 167.083333
+    },
+    {
+        "name": "Dothio",
+        "country": "New Caledonia",
+        "province": "New Caledonia",
+        "population": -1,
+        "latitude": -21.5666667,
+        "longitude": 166.1
+    },
+    {
+        "name": "Diahot-Paraoua",
+        "country": "New Caledonia",
+        "province": "New Caledonia",
+        "population": -1,
+        "latitude": -20.3666667,
+        "longitude": 164.4333333
+    },
+    {
+        "name": "Cuaden",
+        "country": "New Caledonia",
+        "province": "Loyalty Islands",
+        "population": -1,
+        "latitude": -21.547633,
+        "longitude": 168.095381
+    },
+    {
+        "name": "La Conception",
+        "country": "New Caledonia",
+        "province": "South Province",
+        "population": -1,
+        "latitude": -22.224305,
+        "longitude": 166.501102
+    },
+    {
+        "name": "Ceni",
+        "country": "New Caledonia",
+        "province": "Loyalty Islands",
+        "population": -1,
+        "latitude": -21.471689,
+        "longitude": 168.01267
+    },
+    {
+        "name": "Cengeite",
+        "country": "New Caledonia",
+        "province": "Loyalty Islands",
+        "population": -1,
+        "latitude": -21.59415,
+        "longitude": 167.897363
+    },
+    {
+        "name": "La Briquetterie",
+        "country": "New Caledonia",
+        "province": "South Province",
+        "population": -1,
+        "latitude": -22.262808,
+        "longitude": 166.570618
+    },
+    {
+        "name": "Bouérabat",
+        "country": "New Caledonia",
+        "province": "New Caledonia",
+        "population": -1,
+        "latitude": -20.3,
+        "longitude": 164.066667
+    },
+    {
+        "name": "Boguen",
+        "country": "New Caledonia",
+        "province": "New Caledonia",
+        "population": -1,
+        "latitude": -21.6,
+        "longitude": 165.5666667
+    },
+    {
+        "name": "Beshe",
+        "country": "New Caledonia",
+        "province": "Loyalty Islands",
+        "population": -1,
+        "latitude": -21.524811,
+        "longitude": 167.854728
+    },
+    {
+        "name": "Balagam",
+        "country": "New Caledonia",
+        "province": "New Caledonia",
+        "population": -1,
+        "latitude": -20.35,
+        "longitude": 164.4
+    },
+    {
+        "name": "Balade",
+        "country": "New Caledonia",
+        "province": "New Caledonia",
+        "population": -1,
+        "latitude": -20.3166667,
+        "longitude": 164.5
+    },
+    {
+        "name": "Toka",
+        "country": "New Caledonia",
+        "province": "Loyalty Islands",
+        "population": -1,
+        "latitude": -21.094279,
+        "longitude": 167.796852
+    },
+    {
+        "name": "Némokwêdö",
+        "country": "New Caledonia",
+        "province": "South Province",
+        "population": -1,
+        "latitude": -21.825818,
+        "longitude": 166.115807
+    },
+    {
+        "name": "Xwê Pwé",
+        "country": "New Caledonia",
+        "province": "South Province",
+        "population": -1,
+        "latitude": -21.90208,
+        "longitude": 166.013818
+    },
+    {
+        "name": "Lotissement Axelle II",
+        "country": "New Caledonia",
+        "province": "New Caledonia",
+        "population": -1,
+        "latitude": -22.123487411166114,
+        "longitude": 166.36738300323486
+    },
+    {
+        "name": "Kana",
+        "country": "New Caledonia",
+        "province": "New Caledonia",
+        "population": -1,
+        "latitude": -22.625,
+        "longitude": 167.4208333
+    },
+    {
+        "name": "Zoze",
+        "country": "New Caledonia",
+        "province": "New Caledonia",
+        "population": -1,
+        "latitude": -21.05,
+        "longitude": 167.4333333
+    },
+    {
+        "name": "Yenghébane",
+        "country": "New Caledonia",
+        "province": "New Caledonia",
+        "population": -1,
+        "latitude": -20.1,
+        "longitude": 163.9666667
+    },
+    {
+        "name": "Yambé",
+        "country": "New Caledonia",
+        "province": "New Caledonia",
+        "population": -1,
+        "latitude": -20.45,
+        "longitude": 164.65
+    },
+    {
+        "name": "Yahoué",
+        "country": "New Caledonia",
+        "province": "South Province",
+        "population": -1,
+        "latitude": -22.207257,
+        "longitude": 166.485738
+    },
+    {
+        "name": "Wiwatoul",
+        "country": "New Caledonia",
+        "province": "New Caledonia",
+        "population": -1,
+        "latitude": -21.09259,
+        "longitude": 167.35044
+    },
+    {
+        "name": "Wenghé",
+        "country": "New Caledonia",
+        "province": "New Caledonia",
+        "population": -1,
+        "latitude": -20.65,
+        "longitude": 166.55
+    },
+    {
+        "name": "Wenéki",
+        "country": "New Caledonia",
+        "province": "New Caledonia",
+        "population": -1,
+        "latitude": -20.44861,
+        "longitude": 166.60634
+    },
+    {
+        "name": "Wédoumel",
+        "country": "New Caledonia",
+        "province": "New Caledonia",
+        "population": -1,
+        "latitude": -20.9833333,
+        "longitude": 167.1166667
+    },
+    {
+        "name": "Wéaa",
+        "country": "New Caledonia",
+        "province": "New Caledonia",
+        "population": -1,
+        "latitude": -19.66092,
+        "longitude": 163.65571
+    },
+    {
+        "name": "Watahu",
+        "country": "New Caledonia",
+        "province": "New Caledonia",
+        "population": -1,
+        "latitude": -20.6333333,
+        "longitude": 166.55
+    },
+    {
+        "name": "Wassagne",
+        "country": "New Caledonia",
+        "province": "New Caledonia",
+        "population": -1,
+        "latitude": -21,
+        "longitude": 167.3833333
+    },
+    {
+        "name": "Wassadieuhu",
+        "country": "New Caledonia",
+        "province": "New Caledonia",
+        "population": -1,
+        "latitude": -20.65,
+        "longitude": 166.55
+    },
+    {
+        "name": "Wara",
+        "country": "New Caledonia",
+        "province": "New Caledonia",
+        "population": -1,
+        "latitude": -21.2666667,
+        "longitude": 165.6
+    },
+    {
+        "name": "Wapan",
+        "country": "New Caledonia",
+        "province": "New Caledonia",
+        "population": -1,
+        "latitude": -22.56769,
+        "longitude": 167.44769
+    },
+    {
+        "name": "Wanap",
+        "country": "New Caledonia",
+        "province": "New Caledonia",
+        "population": -1,
+        "latitude": -20.5666667,
+        "longitude": 164.2666667
+    },
+    {
+        "name": "Wakat",
+        "country": "New Caledonia",
+        "province": "New Caledonia",
+        "population": -1,
+        "latitude": -20.6833333,
+        "longitude": 166.5333333
+    },
+    {
+        "name": "Wacamadra",
+        "country": "New Caledonia",
+        "province": "Loyalty Islands",
+        "population": -1,
+        "latitude": -21.46741,
+        "longitude": 168.03102
+    },
+    {
+        "name": "Vieux-Touho",
+        "country": "New Caledonia",
+        "province": "New Caledonia",
+        "population": -1,
+        "latitude": -20.77814,
+        "longitude": 165.20704
+    },
+    {
+        "name": "Yejele",
+        "country": "New Caledonia",
+        "province": "Loyalty Islands",
+        "population": -1,
+        "latitude": -21.596093,
+        "longitude": 167.905813
+    },
+    {
+        "name": "Vallée du Génie",
+        "country": "New Caledonia",
+        "province": "New Caledonia",
+        "population": -1,
+        "latitude": -22.2666667,
+        "longitude": 166.45
+    },
+    {
+        "name": "Vallée des Colons",
+        "country": "New Caledonia",
+        "province": "New Caledonia",
+        "population": -1,
+        "latitude": -22.27031,
+        "longitude": 166.45218
+    },
+    {
+        "name": "Tunney",
+        "country": "New Caledonia",
+        "province": "New Caledonia",
+        "population": -1,
+        "latitude": -20.65,
+        "longitude": 164.3666667
+    },
+    {
+        "name": "Tû",
+        "country": "New Caledonia",
+        "province": "New Caledonia",
+        "population": -1,
+        "latitude": -21.2666667,
+        "longitude": 165.5833333
+    },
+    {
+        "name": "Tsendia",
+        "country": "New Caledonia",
+        "province": "New Caledonia",
+        "population": -1,
+        "latitude": -21.5333333,
+        "longitude": 166.0333333
+    },
+    {
+        "name": "Troulala",
+        "country": "New Caledonia",
+        "province": "New Caledonia",
+        "population": -1,
+        "latitude": -20.65,
+        "longitude": 164.3666667
+    },
+    {
+        "name": "Trégon",
+        "country": "New Caledonia",
+        "province": "New Caledonia",
+        "population": -1,
+        "latitude": -20.6833333,
+        "longitude": 164.3833333
+    },
+    {
+        "name": "Toul",
+        "country": "New Caledonia",
+        "province": "New Caledonia",
+        "population": -1,
+        "latitude": -21.0833333,
+        "longitude": 167.4166667
+    },
+    {
+        "name": "Touaourou",
+        "country": "New Caledonia",
+        "province": "New Caledonia",
+        "population": -1,
+        "latitude": -22.1833333,
+        "longitude": 166.9666667
+    },
+    {
+        "name": "Tonlon",
+        "country": "New Caledonia",
+        "province": "New Caledonia",
+        "population": -1,
+        "latitude": -20.55,
+        "longitude": 164.2666667
+    },
+    {
+        "name": "Tongouin",
+        "country": "New Caledonia",
+        "province": "South Province",
+        "population": -1,
+        "latitude": -22.107743,
+        "longitude": 166.202241
+    },
+    {
+        "name": "Tonga",
+        "country": "New Caledonia",
+        "province": "New Caledonia",
+        "population": -1,
+        "latitude": -20.72585,
+        "longitude": 166.42532
+    },
+    {
+        "name": "Toen",
+        "country": "New Caledonia",
+        "province": "Loyalty Islands",
+        "population": -1,
+        "latitude": -21.49626,
+        "longitude": 167.842502
+    },
+    {
+        "name": "Tiwaka",
+        "country": "New Caledonia",
+        "province": "New Caledonia",
+        "population": -1,
+        "latitude": -20.9,
+        "longitude": 165.2166667
+    },
+    {
+        "name": "Tiponite",
+        "country": "New Caledonia",
+        "province": "New Caledonia",
+        "population": -1,
+        "latitude": -20.7833333,
+        "longitude": 165.1833333
+    },
+    {
+        "name": "Tipindjé",
+        "country": "New Caledonia",
+        "province": "New Caledonia",
+        "population": -1,
+        "latitude": -20.7333333,
+        "longitude": 165
+    },
+    {
+        "name": "Tiouandé",
+        "country": "New Caledonia",
+        "province": "New Caledonia",
+        "population": -1,
+        "latitude": -20.75,
+        "longitude": 165.05
+    },
+    {
+        "name": "Tiouandé",
+        "country": "New Caledonia",
+        "province": "New Caledonia",
+        "population": -1,
+        "latitude": -20.7333333,
+        "longitude": 165.0333333
+    },
+    {
+        "name": "Tiouamak",
+        "country": "New Caledonia",
+        "province": "New Caledonia",
+        "population": -1,
+        "latitude": -20.7333333,
+        "longitude": 164.9166667
+    },
+    {
+        "name": "Tiouaé",
+        "country": "New Caledonia",
+        "province": "New Caledonia",
+        "population": -1,
+        "latitude": -20.8,
+        "longitude": 165.15
+    },
+    {
+        "name": "Tingeting",
+        "country": "New Caledonia",
+        "province": "New Caledonia",
+        "population": -1,
+        "latitude": -20.7333333,
+        "longitude": 167.2666667
+    },
+    {
+        "name": "Tindo",
+        "country": "New Caledonia",
+        "province": "New Caledonia",
+        "population": -1,
+        "latitude": -20.7166667,
+        "longitude": 164.8166667
+    },
+    {
+        "name": "Tindéa",
+        "country": "New Caledonia",
+        "province": "New Caledonia",
+        "population": -1,
+        "latitude": -21.65,
+        "longitude": 165.7333333
+    },
+    {
+        "name": "Timothée",
+        "country": "New Caledonia",
+        "province": "New Caledonia",
+        "population": -1,
+        "latitude": -20.4333333,
+        "longitude": 164.4166667
+    },
+    {
+        "name": "Timbia",
+        "country": "New Caledonia",
+        "province": "South Province",
+        "population": -1,
+        "latitude": -22.137068,
+        "longitude": 166.223767
+    },
+    {
+        "name": "Tilwit",
+        "country": "New Caledonia",
+        "province": "New Caledonia",
+        "population": -1,
+        "latitude": -20.55,
+        "longitude": 164.4666667
+    },
+    {
+        "name": "Tilougne",
+        "country": "New Caledonia",
+        "province": "New Caledonia",
+        "population": -1,
+        "latitude": -20.6666667,
+        "longitude": 164.9333333
+    },
+    {
+        "name": "Tiéta",
+        "country": "New Caledonia",
+        "province": "New Caledonia",
+        "population": -1,
+        "latitude": -20.9333333,
+        "longitude": 164.7333333
+    },
+    {
+        "name": "Tiendanite",
+        "country": "New Caledonia",
+        "province": "New Caledonia",
+        "population": -1,
+        "latitude": -20.7666667,
+        "longitude": 164.9
+    },
+    {
+        "name": "Tiébaghi",
+        "country": "New Caledonia",
+        "province": "New Caledonia",
+        "population": -1,
+        "latitude": -20.45,
+        "longitude": 164.2166667
+    },
+    {
+        "name": "Tié",
+        "country": "New Caledonia",
+        "province": "New Caledonia",
+        "population": -1,
+        "latitude": -20.1166667,
+        "longitude": 163.9833333
+    },
+    {
+        "name": "Tibarama",
+        "country": "New Caledonia",
+        "province": "New Caledonia",
+        "population": -1,
+        "latitude": -20.9333333,
+        "longitude": 165.3833333
+    },
+    {
+        "name": "Tiari",
+        "country": "New Caledonia",
+        "province": "New Caledonia",
+        "population": -1,
+        "latitude": -20.25,
+        "longitude": 164.35
+    },
+    {
+        "name": "Tiaré",
+        "country": "New Caledonia",
+        "province": "South Province",
+        "population": -1,
+        "latitude": -22.16261,
+        "longitude": 166.278659
+    },
+    {
+        "name": "Tiaou-Tiwaka",
+        "country": "New Caledonia",
+        "province": "New Caledonia",
+        "population": -1,
+        "latitude": -20.9,
+        "longitude": 165.2
+    },
+    {
+        "name": "Tiaoué",
+        "country": "New Caledonia",
+        "province": "New Caledonia",
+        "population": -1,
+        "latitude": -21,
+        "longitude": 164.9166667
+    },
+    {
+        "name": "Tiamou",
+        "country": "New Caledonia",
+        "province": "New Caledonia",
+        "population": -1,
+        "latitude": -21.0166667,
+        "longitude": 164.8833333
+    },
+    {
+        "name": "Tiakana",
+        "country": "New Caledonia",
+        "province": "New Caledonia",
+        "population": -1,
+        "latitude": -21,
+        "longitude": 164.8833333
+    },
+    {
+        "name": "Tiabet",
+        "country": "New Caledonia",
+        "province": "New Caledonia",
+        "population": -1,
+        "latitude": -20.1333333,
+        "longitude": 164.0166667
+    },
+    {
+        "name": "Thuahaïk",
+        "country": "New Caledonia",
+        "province": "New Caledonia",
+        "population": -1,
+        "latitude": -21.0166667,
+        "longitude": 167.2833333
+    },
+    {
+        "name": "Thonon",
+        "country": "New Caledonia",
+        "province": "New Caledonia",
+        "population": -1,
+        "latitude": -20.6166667,
+        "longitude": 164.4666667
+    },
+    {
+        "name": "Téouta",
+        "country": "New Caledonia",
+        "province": "New Caledonia",
+        "population": -1,
+        "latitude": -20.4,
+        "longitude": 166.6166667
+    },
+    {
+        "name": "Tenjaï",
+        "country": "New Caledonia",
+        "province": "New Caledonia",
+        "population": -1,
+        "latitude": -20.55,
+        "longitude": 164.2666667
+    },
+    {
+        "name": "Ténem",
+        "country": "New Caledonia",
+        "province": "New Caledonia",
+        "population": -1,
+        "latitude": -20.6666667,
+        "longitude": 164.9333333
+    },
+    {
+        "name": "Tendo",
+        "country": "New Caledonia",
+        "province": "New Caledonia",
+        "population": -1,
+        "latitude": -20.7166667,
+        "longitude": 164.8166667
+    },
+    {
+        "name": "Tenda",
+        "country": "New Caledonia",
+        "province": "New Caledonia",
+        "population": -1,
+        "latitude": -21.55,
+        "longitude": 166.0333333
+    },
+    {
+        "name": "Téméline",
+        "country": "New Caledonia",
+        "province": "New Caledonia",
+        "population": -1,
+        "latitude": -20.5333333,
+        "longitude": 164.5666667
+    },
+    {
+        "name": "Téganpaïk",
+        "country": "New Caledonia",
+        "province": "New Caledonia",
+        "population": -1,
+        "latitude": -20.7333333,
+        "longitude": 165.0666667
+    },
+    {
+        "name": "Tchaulé",
+        "country": "New Caledonia",
+        "province": "New Caledonia",
+        "population": -1,
+        "latitude": -20.05,
+        "longitude": 163.8166667
+    },
+    {
+        "name": "Tchambouenne",
+        "country": "New Caledonia",
+        "province": "New Caledonia",
+        "population": -1,
+        "latitude": -20.4166667,
+        "longitude": 164.6
+    },
+    {
+        "name": "Tchamba",
+        "country": "New Caledonia",
+        "province": "New Caledonia",
+        "population": -1,
+        "latitude": -21.0333333,
+        "longitude": 165.2833333
+    },
+    {
+        "name": "Tarbeville",
+        "country": "New Caledonia",
+        "province": "New Caledonia",
+        "population": -1,
+        "latitude": -21.2166667,
+        "longitude": 164.8666667
+    },
+    {
+        "name": "Tarap",
+        "country": "New Caledonia",
+        "province": "New Caledonia",
+        "population": -1,
+        "latitude": -20.3666667,
+        "longitude": 164.45
+    },
+    {
+        "name": "Taradi",
+        "country": "New Caledonia",
+        "province": "New Caledonia",
+        "population": -1,
+        "latitude": -21.5166667,
+        "longitude": 165.9166667
+    },
+    {
+        "name": "Taom",
+        "country": "New Caledonia",
+        "province": "New Caledonia",
+        "population": -1,
+        "latitude": -20.85,
+        "longitude": 164.55
+    },
+    {
+        "name": "Tao",
+        "country": "New Caledonia",
+        "province": "New Caledonia",
+        "population": -1,
+        "latitude": -20.55,
+        "longitude": 164.8
+    },
+    {
+        "name": "Taïté",
+        "country": "New Caledonia",
+        "province": "New Caledonia",
+        "population": -1,
+        "latitude": -20.7833333,
+        "longitude": 165.0833333
+    },
+    {
+        "name": "Taanlô",
+        "country": "New Caledonia",
+        "province": "New Caledonia",
+        "population": -1,
+        "latitude": -20.0166667,
+        "longitude": 163.9333333
+    },
+    {
+        "name": "Station Ouanéko",
+        "country": "New Caledonia",
+        "province": "New Caledonia",
+        "population": -1,
+        "latitude": -21.4666667,
+        "longitude": 165.1666667
+    },
+    {
+        "name": "Station de Ta",
+        "country": "New Caledonia",
+        "province": "New Caledonia",
+        "population": -1,
+        "latitude": -21.0166667,
+        "longitude": 164.7166667
+    },
+    {
+        "name": "Station de Beaupré",
+        "country": "New Caledonia",
+        "province": "New Caledonia",
+        "population": -1,
+        "latitude": -21.4666667,
+        "longitude": 165.1833333
+    },
+    {
+        "name": "Station Castex",
+        "country": "New Caledonia",
+        "province": "New Caledonia",
+        "population": -1,
+        "latitude": -20.7333333,
+        "longitude": 164.8666667
+    },
+    {
+        "name": "Siloam",
+        "country": "New Caledonia",
+        "province": "New Caledonia",
+        "population": -1,
+        "latitude": -20.7666667,
+        "longitude": 167.1166667
+    },
+    {
+        "name": "Shuane",
+        "country": "New Caledonia",
+        "province": "New Caledonia",
+        "population": -1,
+        "latitude": -21.4666667,
+        "longitude": 167.9666667
+    },
+    {
+        "name": "Shoup",
+        "country": "New Caledonia",
+        "province": "New Caledonia",
+        "population": -1,
+        "latitude": -20.7833333,
+        "longitude": 167.2666667
+    },
+    {
+        "name": "Saint-Yves",
+        "country": "New Caledonia",
+        "province": "New Caledonia",
+        "population": -1,
+        "latitude": -21.1,
+        "longitude": 165.3
+    },
+    {
+        "name": "Saint-Vincent",
+        "country": "New Caledonia",
+        "province": "South Province",
+        "population": -1,
+        "latitude": -22.062321,
+        "longitude": 166.272874
+    },
+    {
+        "name": "Saint-Thomas",
+        "country": "New Caledonia",
+        "province": "New Caledonia",
+        "population": -1,
+        "latitude": -20.95,
+        "longitude": 165.2333333
+    },
+    {
+        "name": "Saint-Roch",
+        "country": "New Caledonia",
+        "province": "New Caledonia",
+        "population": -1,
+        "latitude": -21.7,
+        "longitude": 166.4
+    },
+    {
+        "name": "Saint-Pierre",
+        "country": "New Caledonia",
+        "province": "New Caledonia",
+        "population": -1,
+        "latitude": -21.6833333,
+        "longitude": 166.15
+    },
+    {
+        "name": "Saint-Pierre",
+        "country": "New Caledonia",
+        "province": "New Caledonia",
+        "population": -1,
+        "latitude": -20.65,
+        "longitude": 164.4
+    },
+    {
+        "name": "Saint-Pierre",
+        "country": "New Caledonia",
+        "province": "New Caledonia",
+        "population": -1,
+        "latitude": -20.4333333,
+        "longitude": 164.4333333
+    },
+    {
+        "name": "Saint-Philippe II",
+        "country": "New Caledonia",
+        "province": "New Caledonia",
+        "population": -1,
+        "latitude": -21.6166667,
+        "longitude": 166.2333333
+    },
+    {
+        "name": "Saint-Philippe I",
+        "country": "New Caledonia",
+        "province": "New Caledonia",
+        "population": -1,
+        "latitude": -21.6333333,
+        "longitude": 166.2
+    },
+    {
+        "name": "Saint-Paul",
+        "country": "New Caledonia",
+        "province": "New Caledonia",
+        "population": -1,
+        "latitude": -21.65,
+        "longitude": 166.1666667
+    },
+    {
+        "name": "Saint-Paul",
+        "country": "New Caledonia",
+        "province": "New Caledonia",
+        "population": -1,
+        "latitude": -20.95,
+        "longitude": 165.2666667
+    },
+    {
+        "name": "Saint-Paul",
+        "country": "New Caledonia",
+        "province": "New Caledonia",
+        "population": -1,
+        "latitude": -20.7666667,
+        "longitude": 167.2666667
+    },
+    {
+        "name": "Saint-Paul",
+        "country": "New Caledonia",
+        "province": "New Caledonia",
+        "population": -1,
+        "latitude": -20.4333333,
+        "longitude": 164.4333333
+    },
+    {
+        "name": "Saint-Paul",
+        "country": "New Caledonia",
+        "province": "New Caledonia",
+        "population": -1,
+        "latitude": -20.35,
+        "longitude": 164.5333333
+    },
+    {
+        "name": "Saint-Michel",
+        "country": "New Caledonia",
+        "province": "New Caledonia",
+        "population": -1,
+        "latitude": -21.6666667,
+        "longitude": 166.1666667
+    },
+    {
+        "name": "Saint-Michel",
+        "country": "New Caledonia",
+        "province": "New Caledonia",
+        "population": -1,
+        "latitude": -20.95,
+        "longitude": 165.2333333
+    },
+    {
+        "name": "Saint-Michel",
+        "country": "New Caledonia",
+        "province": "New Caledonia",
+        "population": -1,
+        "latitude": -20.4333333,
+        "longitude": 164.4333333
+    },
+    {
+        "name": "Saint-Louis",
+        "country": "New Caledonia",
+        "province": "New Caledonia",
+        "population": -1,
+        "latitude": -20.75,
+        "longitude": 165.0833333
+    },
+    {
+        "name": "Saint-Louis",
+        "country": "New Caledonia",
+        "province": "New Caledonia",
+        "population": -1,
+        "latitude": -20.4333333,
+        "longitude": 164.4166667
+    },
+    {
+        "name": "Saint-Louis",
+        "country": "New Caledonia",
+        "province": "New Caledonia",
+        "population": -1,
+        "latitude": -20.3666667,
+        "longitude": 164.5666667
+    },
+    {
+        "name": "Saint-Léonard",
+        "country": "New Caledonia",
+        "province": "New Caledonia",
+        "population": -1,
+        "latitude": -20.9,
+        "longitude": 165.2333333
+    },
+    {
+        "name": "Saint-Joseph",
+        "country": "New Caledonia",
+        "province": "New Caledonia",
+        "population": -1,
+        "latitude": -21.75,
+        "longitude": 166.45
+    },
+    {
+        "name": "Saint-Joseph",
+        "country": "New Caledonia",
+        "province": "New Caledonia",
+        "population": -1,
+        "latitude": -20.7833333,
+        "longitude": 167.2666667
+    },
+    {
+        "name": "Saint-Joseph",
+        "country": "New Caledonia",
+        "province": "New Caledonia",
+        "population": -1,
+        "latitude": -20.45,
+        "longitude": 164.4333333
+    },
+    {
+        "name": "Saint-Joseph",
+        "country": "New Caledonia",
+        "province": "New Caledonia",
+        "population": -1,
+        "latitude": -20.4,
+        "longitude": 164.5666667
+    },
+    {
+        "name": "Saint-Joachim",
+        "country": "New Caledonia",
+        "province": "New Caledonia",
+        "population": -1,
+        "latitude": -20.4333333,
+        "longitude": 164.45
+    },
+    {
+        "name": "Saint-Jean-Baptiste",
+        "country": "New Caledonia",
+        "province": "New Caledonia",
+        "population": -1,
+        "latitude": -21.7666667,
+        "longitude": 166.4666667
+    },
+    {
+        "name": "Saint-Jean-Baptiste",
+        "country": "New Caledonia",
+        "province": "New Caledonia",
+        "population": -1,
+        "latitude": -20.4333333,
+        "longitude": 164.4333333
+    },
+    {
+        "name": "Saint-Gabriel",
+        "country": "New Caledonia",
+        "province": "New Caledonia",
+        "population": -1,
+        "latitude": -21.65,
+        "longitude": 166.3
+    },
+    {
+        "name": "Saint-Gabriel",
+        "country": "New Caledonia",
+        "province": "New Caledonia",
+        "population": -1,
+        "latitude": -20.3833333,
+        "longitude": 164.5666667
+    },
+    {
+        "name": "Saint-Gabriel",
+        "country": "New Caledonia",
+        "province": "New Caledonia",
+        "population": -1,
+        "latitude": -20.3333333,
+        "longitude": 164.5166667
+    },
+    {
+        "name": "Saint-François",
+        "country": "New Caledonia",
+        "province": "New Caledonia",
+        "population": -1,
+        "latitude": -20.4333333,
+        "longitude": 164.4166667
+    },
+    {
+        "name": "Saint-Ferdinand",
+        "country": "New Caledonia",
+        "province": "New Caledonia",
+        "population": -1,
+        "latitude": -20.3833333,
+        "longitude": 164.4166667
+    },
+    {
+        "name": "Sainte-Thérèse",
+        "country": "New Caledonia",
+        "province": "New Caledonia",
+        "population": -1,
+        "latitude": -20.9666667,
+        "longitude": 165.2166667
+    },
+    {
+        "name": "Sainte-Thérèse",
+        "country": "New Caledonia",
+        "province": "New Caledonia",
+        "population": -1,
+        "latitude": -20.95,
+        "longitude": 165.2333333
+    },
+    {
+        "name": "Sainte-Marie",
+        "country": "New Caledonia",
+        "province": "New Caledonia",
+        "population": -1,
+        "latitude": -20.3833333,
+        "longitude": 164.5666667
+    },
+    {
+        "name": "Sainte-Marie",
+        "country": "New Caledonia",
+        "province": "New Caledonia",
+        "population": -1,
+        "latitude": -20.3333333,
+        "longitude": 164.5166667
+    },
+    {
+        "name": "Sainte-Anne",
+        "country": "New Caledonia",
+        "province": "New Caledonia",
+        "population": -1,
+        "latitude": -20.4333333,
+        "longitude": 164.45
+    },
+    {
+        "name": "Saint-Denis",
+        "country": "New Caledonia",
+        "province": "New Caledonia",
+        "population": -1,
+        "latitude": -21.1,
+        "longitude": 165.3333333
+    },
+    {
+        "name": "Saint-Denis",
+        "country": "New Caledonia",
+        "province": "New Caledonia",
+        "population": -1,
+        "latitude": -20.9,
+        "longitude": 165.2833333
+    },
+    {
+        "name": "Saint-Denis",
+        "country": "New Caledonia",
+        "province": "New Caledonia",
+        "population": -1,
+        "latitude": -20.4,
+        "longitude": 164.5666667
+    },
+    {
+        "name": "Saint-Denis",
+        "country": "New Caledonia",
+        "province": "New Caledonia",
+        "population": -1,
+        "latitude": -20.3166667,
+        "longitude": 164.5
+    },
+    {
+        "name": "Saint-Adolphe",
+        "country": "New Caledonia",
+        "province": "New Caledonia",
+        "population": -1,
+        "latitude": -20.3833333,
+        "longitude": 164.5666667
+    },
+    {
+        "name": "Sailali",
+        "country": "New Caledonia",
+        "province": "Loyalty Islands",
+        "population": -1,
+        "latitude": -21.458827,
+        "longitude": 167.979388
+    },
+    {
+        "name": "Roibahon",
+        "country": "New Caledonia",
+        "province": "New Caledonia",
+        "population": -1,
+        "latitude": -21.3,
+        "longitude": 165.5833333
+    },
+    {
+        "name": "Roï",
+        "country": "New Caledonia",
+        "province": "New Caledonia",
+        "population": -1,
+        "latitude": -21.4666667,
+        "longitude": 167.95
+    },
+    {
+        "name": "Rawa",
+        "country": "New Caledonia",
+        "province": "Loyalty Islands",
+        "population": -1,
+        "latitude": -21.495154,
+        "longitude": 167.976652
+    },
+    {
+        "name": "Poum-Titch",
+        "country": "New Caledonia",
+        "province": "New Caledonia",
+        "population": -1,
+        "latitude": -20.2333333,
+        "longitude": 164.0166667
+    },
+    {
+        "name": "Poum-Plage",
+        "country": "New Caledonia",
+        "province": "New Caledonia",
+        "population": -1,
+        "latitude": -20.2333333,
+        "longitude": 164.0333333
+    },
+    {
+        "name": "Pouiou",
+        "country": "New Caledonia",
+        "province": "New Caledonia",
+        "population": -1,
+        "latitude": -20.8333333,
+        "longitude": 165.25
+    },
+    {
+        "name": "Pouiembeng",
+        "country": "New Caledonia",
+        "province": "New Caledonia",
+        "population": -1,
+        "latitude": -20.6833333,
+        "longitude": 164.8833333
+    },
+    {
+        "name": "Pouépaï",
+        "country": "New Caledonia",
+        "province": "New Caledonia",
+        "population": -1,
+        "latitude": -20.7833333,
+        "longitude": 164.8
+    },
+    {
+        "name": "Pouéné",
+        "country": "New Caledonia",
+        "province": "New Caledonia",
+        "population": -1,
+        "latitude": -20.6833333,
+        "longitude": 164.4833333
+    },
+    {
+        "name": "Pouendiap",
+        "country": "New Caledonia",
+        "province": "New Caledonia",
+        "population": -1,
+        "latitude": -20.7166667,
+        "longitude": 164.9
+    },
+    {
+        "name": "Poué Koué",
+        "country": "New Caledonia",
+        "province": "New Caledonia",
+        "population": -1,
+        "latitude": -20.8166667,
+        "longitude": 164.4833333
+    },
+    {
+        "name": "Pouedjane Maladj",
+        "country": "New Caledonia",
+        "province": "New Caledonia",
+        "population": -1,
+        "latitude": -20.3666667,
+        "longitude": 164.2
+    },
+    {
+        "name": "Pouébadou",
+        "country": "New Caledonia",
+        "province": "New Caledonia",
+        "population": -1,
+        "latitude": -20.5166667,
+        "longitude": 164.55
+    },
+    {
+        "name": "Popidéry",
+        "country": "New Caledonia",
+        "province": "New Caledonia",
+        "population": -1,
+        "latitude": -21.8333333,
+        "longitude": 165.85
+    },
+    {
+        "name": "Ponibok",
+        "country": "New Caledonia",
+        "province": "Loyalty Islands",
+        "population": -1,
+        "latitude": -21.502885,
+        "longitude": 167.973739
+    },
+    {
+        "name": "Pombéï",
+        "country": "New Caledonia",
+        "province": "New Caledonia",
+        "population": -1,
+        "latitude": -20.8833333,
+        "longitude": 165.1833333
+    },
+    {
+        "name": "Poinda",
+        "country": "New Caledonia",
+        "province": "New Caledonia",
+        "population": -1,
+        "latitude": -21.0333333,
+        "longitude": 164.9666667
+    },
+    {
+        "name": "Poët",
+        "country": "New Caledonia",
+        "province": "New Caledonia",
+        "population": -1,
+        "latitude": -21.35,
+        "longitude": 165.6
+    },
+    {
+        "name": "Pocquereux",
+        "country": "New Caledonia",
+        "province": "New Caledonia",
+        "population": -1,
+        "latitude": -21.7,
+        "longitude": 165.9166667
+    },
+    {
+        "name": "Pô",
+        "country": "New Caledonia",
+        "province": "New Caledonia",
+        "population": -1,
+        "latitude": -21.1833333,
+        "longitude": 165.3833333
+    },
+    {
+        "name": "Plaine aux Cailloux",
+        "country": "New Caledonia",
+        "province": "South Province",
+        "population": -1,
+        "latitude": -22.093186,
+        "longitude": 166.369931
+    },
+    {
+        "name": "Pinjen",
+        "country": "New Caledonia",
+        "province": "New Caledonia",
+        "population": -1,
+        "latitude": -21.05,
+        "longitude": 164.7666667
+    },
+    {
+        "name": "Pindache",
+        "country": "New Caledonia",
+        "province": "New Caledonia",
+        "population": -1,
+        "latitude": -20.7,
+        "longitude": 165
+    },
+    {
+        "name": "Pilmango",
+        "country": "New Caledonia",
+        "province": "New Caledonia",
+        "population": -1,
+        "latitude": -21.1,
+        "longitude": 167.4166667
+    },
+    {
+        "name": "Petit Moné",
+        "country": "New Caledonia",
+        "province": "New Caledonia",
+        "population": -1,
+        "latitude": -21.1666667,
+        "longitude": 165.5666667
+    },
+    {
+        "name": "Petit Gouli",
+        "country": "New Caledonia",
+        "province": "New Caledonia",
+        "population": -1,
+        "latitude": -21.65,
+        "longitude": 165.8333333
+    },
+    {
+        "name": "Petit-Borindi",
+        "country": "New Caledonia",
+        "province": "New Caledonia",
+        "population": -1,
+        "latitude": -21.8,
+        "longitude": 166.4833333
+    },
+    {
+        "name": "Perlou",
+        "country": "New Caledonia",
+        "province": "New Caledonia",
+        "population": -1,
+        "latitude": -21.4166667,
+        "longitude": 165.45
+    },
+    {
+        "name": "Peorawa",
+        "country": "New Caledonia",
+        "province": "Loyalty Islands",
+        "population": -1,
+        "latitude": -21.515647,
+        "longitude": 168.050322
+    },
+    {
+        "name": "Penisi",
+        "country": "New Caledonia",
+        "province": "New Caledonia",
+        "population": -1,
+        "latitude": -19.5666667,
+        "longitude": 163.6
+    },
+    {
+        "name": "Pélaoui",
+        "country": "New Caledonia",
+        "province": "New Caledonia",
+        "population": -1,
+        "latitude": -21.0666667,
+        "longitude": 164.8833333
+    },
+    {
+        "name": "Pédé",
+        "country": "New Caledonia",
+        "province": "New Caledonia",
+        "population": -1,
+        "latitude": -21.5833333,
+        "longitude": 167.8666667
+    },
+    {
+        "name": "Pavé",
+        "country": "New Caledonia",
+        "province": "New Caledonia",
+        "population": -1,
+        "latitude": -19.65,
+        "longitude": 163.6333333
+    },
+    {
+        "name": "Patho",
+        "country": "New Caledonia",
+        "province": "Loyalty Islands",
+        "population": -1,
+        "latitude": -21.579911,
+        "longitude": 168.106101
+    },
+    {
+        "name": "Paraouyé",
+        "country": "New Caledonia",
+        "province": "New Caledonia",
+        "population": -1,
+        "latitude": -21.2833333,
+        "longitude": 165.65
+    },
+    {
+        "name": "Paraoua",
+        "country": "New Caledonia",
+        "province": "New Caledonia",
+        "population": -1,
+        "latitude": -20.35,
+        "longitude": 164.45
+    },
+    {
+        "name": "Parahoui",
+        "country": "New Caledonia",
+        "province": "New Caledonia",
+        "population": -1,
+        "latitude": -21.5166667,
+        "longitude": 165.9833333
+    },
+    {
+        "name": "Papalé",
+        "country": "New Caledonia",
+        "province": "New Caledonia",
+        "population": -1,
+        "latitude": -20.7833333,
+        "longitude": 167.2666667
+    },
+    {
+        "name": "Paouta",
+        "country": "New Caledonia",
+        "province": "New Caledonia",
+        "population": -1,
+        "latitude": -21.0666667,
+        "longitude": 165
+    },
+    {
+        "name": "Paop",
+        "country": "New Caledonia",
+        "province": "New Caledonia",
+        "population": -1,
+        "latitude": -20.55,
+        "longitude": 164.2666667
+    },
+    {
+        "name": "Paola",
+        "country": "New Caledonia",
+        "province": "New Caledonia",
+        "population": -1,
+        "latitude": -20.7833333,
+        "longitude": 165.1
+    },
+    {
+        "name": "Panouma",
+        "country": "New Caledonia",
+        "province": "New Caledonia",
+        "population": -1,
+        "latitude": -20.5333333,
+        "longitude": 164.2833333
+    },
+    {
+        "name": "Panié",
+        "country": "New Caledonia",
+        "province": "New Caledonia",
+        "population": -1,
+        "latitude": -20.6,
+        "longitude": 164.8333333
+    },
+    {
+        "name": "Pangou",
+        "country": "New Caledonia",
+        "province": "New Caledonia",
+        "population": -1,
+        "latitude": -20.6,
+        "longitude": 164.6333333
+    },
+    {
+        "name": "Panane",
+        "country": "New Caledonia",
+        "province": "New Caledonia",
+        "population": -1,
+        "latitude": -19.5833333,
+        "longitude": 163.5833333
+    },
+    {
+        "name": "Panaki",
+        "country": "New Caledonia",
+        "province": "New Caledonia",
+        "population": -1,
+        "latitude": -20.9833333,
+        "longitude": 164.8833333
+    },
+    {
+        "name": "Pambou",
+        "country": "New Caledonia",
+        "province": "New Caledonia",
+        "population": -1,
+        "latitude": -20.9666667,
+        "longitude": 165.4
+    },
+    {
+        "name": "Pam",
+        "country": "New Caledonia",
+        "province": "New Caledonia",
+        "population": -1,
+        "latitude": -20.25,
+        "longitude": 164.3
+    },
+    {
+        "name": "Païta",
+        "country": "New Caledonia",
+        "province": "New Caledonia",
+        "population": -1,
+        "latitude": -20.65,
+        "longitude": 164.4166667
+    },
+    {
+        "name": "Païromé",
+        "country": "New Caledonia",
+        "province": "New Caledonia",
+        "population": -1,
+        "latitude": -19.76549,
+        "longitude": 163.68582
+    },
+    {
+        "name": "Paimboas",
+        "country": "New Caledonia",
+        "province": "New Caledonia",
+        "population": -1,
+        "latitude": -20.55,
+        "longitude": 164.55
+    },
+    {
+        "name": "Pagou",
+        "country": "New Caledonia",
+        "province": "New Caledonia",
+        "population": -1,
+        "latitude": -20.55,
+        "longitude": 164.2666667
+    },
+    {
+        "name": "Pabou",
+        "country": "New Caledonia",
+        "province": "New Caledonia",
+        "population": -1,
+        "latitude": -20.3,
+        "longitude": 164.1
+    },
+    {
+        "name": "Paama",
+        "country": "New Caledonia",
+        "province": "New Caledonia",
+        "population": -1,
+        "latitude": -20.95,
+        "longitude": 165.4
+    },
+    {
+        "name": "Paalo",
+        "country": "New Caledonia",
+        "province": "New Caledonia",
+        "population": -1,
+        "latitude": -20.4666667,
+        "longitude": 164.7
+    },
+    {
+        "name": "Ouroué",
+        "country": "New Caledonia",
+        "province": "New Caledonia",
+        "population": -1,
+        "latitude": -21.6,
+        "longitude": 166.2
+    },
+    {
+        "name": "Ouro",
+        "country": "New Caledonia",
+        "province": "New Caledonia",
+        "population": -1,
+        "latitude": -22.65,
+        "longitude": 167.4333333
+    },
+    {
+        "name": "Ouo",
+        "country": "New Caledonia",
+        "province": "New Caledonia",
+        "population": -1,
+        "latitude": -22.65,
+        "longitude": 167.4166667
+    },
+    {
+        "name": "Oundjo",
+        "country": "New Caledonia",
+        "province": "New Caledonia",
+        "population": -1,
+        "latitude": -21.05,
+        "longitude": 164.7
+    },
+    {
+        "name": "Ounao",
+        "country": "New Caledonia",
+        "province": "New Caledonia",
+        "population": -1,
+        "latitude": -20.9166667,
+        "longitude": 165.2333333
+    },
+    {
+        "name": "Oumbaïna",
+        "country": "New Caledonia",
+        "province": "New Caledonia",
+        "population": -1,
+        "latitude": -20.05,
+        "longitude": 163.7833333
+    },
+    {
+        "name": "Ouitchamba",
+        "country": "New Caledonia",
+        "province": "New Caledonia",
+        "population": -1,
+        "latitude": -21.8166667,
+        "longitude": 165.95
+    },
+    {
+        "name": "Ouipouin",
+        "country": "New Caledonia",
+        "province": "New Caledonia",
+        "population": -1,
+        "latitude": -21.65,
+        "longitude": 165.9666667
+    },
+    {
+        "name": "Ouingo",
+        "country": "New Caledonia",
+        "province": "New Caledonia",
+        "population": -1,
+        "latitude": -21.2833333,
+        "longitude": 165.5166667
+    },
+    {
+        "name": "Ouindo",
+        "country": "New Caledonia",
+        "province": "New Caledonia",
+        "population": -1,
+        "latitude": -21.6333333,
+        "longitude": 166.1
+    },
+    {
+        "name": "Ouindo",
+        "country": "New Caledonia",
+        "province": "New Caledonia",
+        "population": -1,
+        "latitude": -20.9833333,
+        "longitude": 165.4
+    },
+    {
+        "name": "Ouessoin",
+        "country": "New Caledonia",
+        "province": "New Caledonia",
+        "population": -1,
+        "latitude": -21.3166667,
+        "longitude": 165.5666667
+    },
+    {
+        "name": "Ouéroupimé",
+        "country": "New Caledonia",
+        "province": "New Caledonia",
+        "population": -1,
+        "latitude": -21.5,
+        "longitude": 165.7166667
+    },
+    {
+        "name": "Ouénia",
+        "country": "New Caledonia",
+        "province": "New Caledonia",
+        "population": -1,
+        "latitude": -20.5166667,
+        "longitude": 164.5166667
+    },
+    {
+        "name": "Ouenguip",
+        "country": "New Caledonia",
+        "province": "New Caledonia",
+        "population": -1,
+        "latitude": -20.6333333,
+        "longitude": 164.9
+    },
+    {
+        "name": "Ouéné",
+        "country": "New Caledonia",
+        "province": "New Caledonia",
+        "population": -1,
+        "latitude": -20.5333333,
+        "longitude": 164.5333333
+    },
+    {
+        "name": "Ouendji",
+        "country": "New Caledonia",
+        "province": "New Caledonia",
+        "population": -1,
+        "latitude": -21.3333333,
+        "longitude": 165.3166667
+    },
+    {
+        "name": "Ouendé",
+        "country": "New Caledonia",
+        "province": "New Caledonia",
+        "population": -1,
+        "latitude": -20.65,
+        "longitude": 164.4166667
+    },
+    {
+        "name": "Ouéna",
+        "country": "New Caledonia",
+        "province": "New Caledonia",
+        "population": -1,
+        "latitude": -21.4166667,
+        "longitude": 165.8166667
+    },
+    {
+        "name": "Ouémou",
+        "country": "New Caledonia",
+        "province": "New Caledonia",
+        "population": -1,
+        "latitude": -20.6166667,
+        "longitude": 164.6
+    },
+    {
+        "name": "Ouémou",
+        "country": "New Caledonia",
+        "province": "New Caledonia",
+        "population": -1,
+        "latitude": -20.6,
+        "longitude": 164.5666667
+    },
+    {
+        "name": "Ouélis",
+        "country": "New Caledonia",
+        "province": "New Caledonia",
+        "population": -1,
+        "latitude": -20.8833333,
+        "longitude": 164.6833333
+    },
+    {
+        "name": "Ouéholle",
+        "country": "New Caledonia",
+        "province": "New Caledonia",
+        "population": -1,
+        "latitude": -20.6,
+        "longitude": 164.5333333
+    },
+    {
+        "name": "Oué Hava",
+        "country": "New Caledonia",
+        "province": "New Caledonia",
+        "population": -1,
+        "latitude": -20.7666667,
+        "longitude": 165.0333333
+    },
+    {
+        "name": "Ouébia",
+        "country": "New Caledonia",
+        "province": "New Caledonia",
+        "population": -1,
+        "latitude": -20.6166667,
+        "longitude": 164.6333333
+    },
+    {
+        "name": "Oua Tom",
+        "country": "New Caledonia",
+        "province": "New Caledonia",
+        "population": -1,
+        "latitude": -21.8,
+        "longitude": 165.9
+    },
+    {
+        "name": "Ouaté",
+        "country": "New Caledonia",
+        "province": "New Caledonia",
+        "population": -1,
+        "latitude": -21.1833333,
+        "longitude": 165.1166667
+    },
+    {
+        "name": "Ouassé",
+        "country": "New Caledonia",
+        "province": "New Caledonia",
+        "population": -1,
+        "latitude": -21.4666667,
+        "longitude": 166.0333333
+    },
+    {
+        "name": "Ouarenndi",
+        "country": "New Caledonia",
+        "province": "New Caledonia",
+        "population": -1,
+        "latitude": -20.4,
+        "longitude": 164.45
+    },
+    {
+        "name": "Ouaré",
+        "country": "New Caledonia",
+        "province": "New Caledonia",
+        "population": -1,
+        "latitude": -20.6833333,
+        "longitude": 164.9333333
+    },
+    {
+        "name": "Ouarap",
+        "country": "New Caledonia",
+        "province": "New Caledonia",
+        "population": -1,
+        "latitude": -20.7166667,
+        "longitude": 164.9333333
+    },
+    {
+        "name": "Ouapan",
+        "country": "New Caledonia",
+        "province": "New Caledonia",
+        "population": -1,
+        "latitude": -20.8,
+        "longitude": 164.7166667
+    },
+    {
+        "name": "Oua-Oué",
+        "country": "New Caledonia",
+        "province": "New Caledonia",
+        "population": -1,
+        "latitude": -21.6166667,
+        "longitude": 165.5833333
+    },
+    {
+        "name": "Ouan Kout",
+        "country": "New Caledonia",
+        "province": "New Caledonia",
+        "population": -1,
+        "latitude": -20.7833333,
+        "longitude": 164.9833333
+    },
+    {
+        "name": "Ouanap II",
+        "country": "New Caledonia",
+        "province": "New Caledonia",
+        "population": -1,
+        "latitude": -20.5666667,
+        "longitude": 164.2666667
+    },
+    {
+        "name": "Ouanap I",
+        "country": "New Caledonia",
+        "province": "New Caledonia",
+        "population": -1,
+        "latitude": -20.55,
+        "longitude": 164.2666667
+    },
+    {
+        "name": "Ouanane",
+        "country": "New Caledonia",
+        "province": "New Caledonia",
+        "population": -1,
+        "latitude": -20.65,
+        "longitude": 164.7333333
+    },
+    {
+        "name": "Ouanane",
+        "country": "New Caledonia",
+        "province": "New Caledonia",
+        "population": -1,
+        "latitude": -20.6333333,
+        "longitude": 164.7333333
+    },
+    {
+        "name": "Ouanache",
+        "country": "New Caledonia",
+        "province": "New Caledonia",
+        "population": -1,
+        "latitude": -20.75,
+        "longitude": 165.0666667
+    },
+    {
+        "name": "Ouamba",
+        "country": "New Caledonia",
+        "province": "New Caledonia",
+        "population": -1,
+        "latitude": -20.6833333,
+        "longitude": 164.45
+    },
+    {
+        "name": "Oualanga",
+        "country": "New Caledonia",
+        "province": "New Caledonia",
+        "population": -1,
+        "latitude": -20.6333333,
+        "longitude": 164.4333333
+    },
+    {
+        "name": "Ouakaya",
+        "country": "New Caledonia",
+        "province": "New Caledonia",
+        "population": -1,
+        "latitude": -21.3166667,
+        "longitude": 165.6333333
+    },
+    {
+        "name": "Ouaïème",
+        "country": "New Caledonia",
+        "province": "New Caledonia",
+        "population": -1,
+        "latitude": -20.6166667,
+        "longitude": 164.85
+    },
+    {
+        "name": "Ouahat",
+        "country": "New Caledonia",
+        "province": "New Caledonia",
+        "population": -1,
+        "latitude": -20.7333333,
+        "longitude": 164.7
+    },
+    {
+        "name": "Ouaène",
+        "country": "New Caledonia",
+        "province": "New Caledonia",
+        "population": -1,
+        "latitude": -20.5833333,
+        "longitude": 164.6166667
+    },
+    {
+        "name": "Ono",
+        "country": "New Caledonia",
+        "province": "New Caledonia",
+        "population": -1,
+        "latitude": -19.65,
+        "longitude": 163.6333333
+    },
+    {
+        "name": "Ometteux",
+        "country": "New Caledonia",
+        "province": "New Caledonia",
+        "population": -1,
+        "latitude": -21.0166667,
+        "longitude": 165.4
+    },
+    {
+        "name": "Olane",
+        "country": "New Caledonia",
+        "province": "New Caledonia",
+        "population": -1,
+        "latitude": -20.1,
+        "longitude": 164.05
+    },
+    {
+        "name": "Ogné",
+        "country": "New Caledonia",
+        "province": "New Caledonia",
+        "population": -1,
+        "latitude": -20.4333333,
+        "longitude": 166.6333333
+    },
+    {
+        "name": "Nonhoué",
+        "country": "New Caledonia",
+        "province": "New Caledonia",
+        "population": -1,
+        "latitude": -21.5166667,
+        "longitude": 165.95
+    },
+    {
+        "name": "Nomoudja",
+        "country": "New Caledonia",
+        "province": "New Caledonia",
+        "population": -1,
+        "latitude": -20.1333333,
+        "longitude": 164.0666667
+    },
+    {
+        "name": "Noet",
+        "country": "New Caledonia",
+        "province": "New Caledonia",
+        "population": -1,
+        "latitude": -20.2666667,
+        "longitude": 164.2166667
+    },
+    {
+        "name": "Noéli",
+        "country": "New Caledonia",
+        "province": "New Caledonia",
+        "population": -1,
+        "latitude": -21.0166667,
+        "longitude": 164.95
+    },
+    {
+        "name": "Nindiah",
+        "country": "New Caledonia",
+        "province": "New Caledonia",
+        "population": -1,
+        "latitude": -21.3,
+        "longitude": 165.5833333
+    },
+    {
+        "name": "Nimaha",
+        "country": "New Caledonia",
+        "province": "New Caledonia",
+        "population": -1,
+        "latitude": -20.6166667,
+        "longitude": 166.5666667
+    },
+    {
+        "name": "Nili",
+        "country": "New Caledonia",
+        "province": "New Caledonia",
+        "population": -1,
+        "latitude": -21.7,
+        "longitude": 165.8166667
+    },
+    {
+        "name": "Niéré",
+        "country": "New Caledonia",
+        "province": "New Caledonia",
+        "population": -1,
+        "latitude": -21.4666667,
+        "longitude": 168.0833333
+    },
+    {
+        "name": "Ni",
+        "country": "New Caledonia",
+        "province": "New Caledonia",
+        "population": -1,
+        "latitude": -21.4333333,
+        "longitude": 165.4833333
+    },
+    {
+        "name": "Néya",
+        "country": "New Caledonia",
+        "province": "New Caledonia",
+        "population": -1,
+        "latitude": -21.2166667,
+        "longitude": 165.5833333
+    },
+    {
+        "name": "Névaho",
+        "country": "New Caledonia",
+        "province": "New Caledonia",
+        "population": -1,
+        "latitude": -21,
+        "longitude": 165.3666667
+    },
+    {
+        "name": "Nétéa",
+        "country": "New Caledonia",
+        "province": "New Caledonia",
+        "population": -1,
+        "latitude": -21.2333333,
+        "longitude": 165.2
+    },
+    {
+        "name": "Netchaot",
+        "country": "New Caledonia",
+        "province": "New Caledonia",
+        "population": -1,
+        "latitude": -21.0166667,
+        "longitude": 165.0166667
+    },
+    {
+        "name": "Nesson",
+        "country": "New Caledonia",
+        "province": "New Caledonia",
+        "population": -1,
+        "latitude": -21.2666667,
+        "longitude": 165.6166667
+    },
+    {
+        "name": "Néssapoué",
+        "country": "New Caledonia",
+        "province": "New Caledonia",
+        "population": -1,
+        "latitude": -20.9666667,
+        "longitude": 165.3666667
+    },
+    {
+        "name": "Nessa Kouya",
+        "country": "New Caledonia",
+        "province": "New Caledonia",
+        "population": -1,
+        "latitude": -21.2833333,
+        "longitude": 165.5166667
+    },
+    {
+        "name": "Nérin",
+        "country": "New Caledonia",
+        "province": "New Caledonia",
+        "population": -1,
+        "latitude": -21.3333333,
+        "longitude": 165.35
+    },
+    {
+        "name": "Néra",
+        "country": "New Caledonia",
+        "province": "New Caledonia",
+        "population": -1,
+        "latitude": -21.6166667,
+        "longitude": 165.4833333
+    },
+    {
+        "name": "Népou",
+        "country": "New Caledonia",
+        "province": "New Caledonia",
+        "population": -1,
+        "latitude": -21.3666667,
+        "longitude": 165.1
+    },
+    {
+        "name": "Néouio",
+        "country": "New Caledonia",
+        "province": "New Caledonia",
+        "population": -1,
+        "latitude": -21.2833333,
+        "longitude": 165.6333333
+    },
+    {
+        "name": "Néoua",
+        "country": "New Caledonia",
+        "province": "New Caledonia",
+        "population": -1,
+        "latitude": -21.4333333,
+        "longitude": 165.6333333
+    },
+    {
+        "name": "Némengui",
+        "country": "New Caledonia",
+        "province": "New Caledonia",
+        "population": -1,
+        "latitude": -21.5333333,
+        "longitude": 165.95
+    },
+    {
+        "name": "Néméara",
+        "country": "New Caledonia",
+        "province": "New Caledonia",
+        "population": -1,
+        "latitude": -21.50047,
+        "longitude": 165.48054
+    },
+    {
+        "name": "Nékoué",
+        "country": "New Caledonia",
+        "province": "New Caledonia",
+        "population": -1,
+        "latitude": -21.2666667,
+        "longitude": 165.6
+    },
+    {
+        "name": "Nékliaï",
+        "country": "New Caledonia",
+        "province": "New Caledonia",
+        "population": -1,
+        "latitude": -21.3,
+        "longitude": 165.1833333
+    },
+    {
+        "name": "Négropo",
+        "country": "New Caledonia",
+        "province": "New Caledonia",
+        "population": -1,
+        "latitude": -21.5333333,
+        "longitude": 165.9
+    },
+    {
+        "name": "Nédivin",
+        "country": "New Caledonia",
+        "province": "New Caledonia",
+        "population": -1,
+        "latitude": -21.3,
+        "longitude": 165.5666667
+    },
+    {
+        "name": "Nédiouen",
+        "country": "New Caledonia",
+        "province": "New Caledonia",
+        "population": -1,
+        "latitude": -21.2666667,
+        "longitude": 165.6166667
+    },
+    {
+        "name": "Nébouéba",
+        "country": "New Caledonia",
+        "province": "New Caledonia",
+        "population": -1,
+        "latitude": -21.1,
+        "longitude": 165.3
+    },
+    {
+        "name": "Néavin",
+        "country": "New Caledonia",
+        "province": "New Caledonia",
+        "population": -1,
+        "latitude": -21.1666667,
+        "longitude": 165.4833333
+    },
+    {
+        "name": "Néaria",
+        "country": "New Caledonia",
+        "province": "New Caledonia",
+        "population": -1,
+        "latitude": -21.2666667,
+        "longitude": 165.6
+    },
+    {
+        "name": "Néaoua",
+        "country": "New Caledonia",
+        "province": "New Caledonia",
+        "population": -1,
+        "latitude": -21.3333333,
+        "longitude": 165.65
+    },
+    {
+        "name": "Néami",
+        "country": "New Caledonia",
+        "province": "New Caledonia",
+        "population": -1,
+        "latitude": -20.9833333,
+        "longitude": 164.9666667
+    },
+    {
+        "name": "Ndji",
+        "country": "New Caledonia",
+        "province": "South Province",
+        "population": -1,
+        "latitude": -22.457707,
+        "longitude": 166.782377
+    },
+    {
+        "name": "Ndé",
+        "country": "New Caledonia",
+        "province": "South Province",
+        "population": -1,
+        "latitude": -22.150703,
+        "longitude": 166.307879
+    },
+    {
+        "name": "Nathalo",
+        "country": "New Caledonia",
+        "province": "New Caledonia",
+        "population": -1,
+        "latitude": -20.7833333,
+        "longitude": 167.2666667
+    },
+    {
+        "name": "Natchaom",
+        "country": "New Caledonia",
+        "province": "New Caledonia",
+        "population": -1,
+        "latitude": -20.7166667,
+        "longitude": 167.2166667
+    },
+    {
+        "name": "Nataé",
+        "country": "New Caledonia",
+        "province": "New Caledonia",
+        "population": -1,
+        "latitude": -21.0666667,
+        "longitude": 167.4333333
+    },
+    {
+        "name": "Nanon",
+        "country": "New Caledonia",
+        "province": "New Caledonia",
+        "population": -1,
+        "latitude": -21.5666667,
+        "longitude": 165.8833333
+    },
+    {
+        "name": "Naniouni",
+        "country": "New Caledonia",
+        "province": "South Province",
+        "population": -1,
+        "latitude": -22.124352,
+        "longitude": 166.29426
+    },
+    {
+        "name": "Nang",
+        "country": "New Caledonia",
+        "province": "Loyalty Islands",
+        "population": -1,
+        "latitude": -20.80595,
+        "longitude": 167.22646
+    },
+    {
+        "name": "Nanémühata",
+        "country": "New Caledonia",
+        "province": "New Caledonia",
+        "population": -1,
+        "latitude": -20.7,
+        "longitude": 167.2166667
+    },
+    {
+        "name": "Camp de Nandaï",
+        "country": "New Caledonia",
+        "province": "New Caledonia",
+        "population": -1,
+        "latitude": -21.50966,
+        "longitude": 165.46088
+    },
+    {
+        "name": "Nandaï",
+        "country": "New Caledonia",
+        "province": "New Caledonia",
+        "population": -1,
+        "latitude": -21.51389,
+        "longitude": 165.45972
+    },
+    {
+        "name": "Nanawa",
+        "country": "New Caledonia",
+        "province": "New Caledonia",
+        "population": -1,
+        "latitude": -20.7666667,
+        "longitude": 167.1
+    },
+    {
+        "name": "Naméméhu",
+        "country": "New Caledonia",
+        "province": "New Caledonia",
+        "population": -1,
+        "latitude": -20.65,
+        "longitude": 166.55
+    },
+    {
+        "name": "Namélagat",
+        "country": "New Caledonia",
+        "province": "New Caledonia",
+        "population": -1,
+        "latitude": -21.09879,
+        "longitude": 167.35173
+    },
+    {
+        "name": "Namamate",
+        "country": "New Caledonia",
+        "province": "New Caledonia",
+        "population": -1,
+        "latitude": -21.0333333,
+        "longitude": 167.4166667
+    },
+    {
+        "name": "Nakutakoin",
+        "country": "New Caledonia",
+        "province": "South Province",
+        "population": -1,
+        "latitude": -22.165612,
+        "longitude": 166.42478
+    },
+    {
+        "name": "Naïa",
+        "country": "New Caledonia",
+        "province": "South Province",
+        "population": -1,
+        "latitude": -22.15903,
+        "longitude": 166.26037
+    },
+    {
+        "name": "Mutchaweng",
+        "country": "New Caledonia",
+        "province": "New Caledonia",
+        "population": -1,
+        "latitude": -20.7333333,
+        "longitude": 167.1666667
+    },
+    {
+        "name": "Mouane",
+        "country": "New Caledonia",
+        "province": "New Caledonia",
+        "population": -1,
+        "latitude": -19.6,
+        "longitude": 163.6
+    },
+    {
+        "name": "Montfaoué",
+        "country": "New Caledonia",
+        "province": "New Caledonia",
+        "population": -1,
+        "latitude": -21.2666667,
+        "longitude": 165.3
+    },
+    {
+        "name": "Monéo",
+        "country": "New Caledonia",
+        "province": "New Caledonia",
+        "population": -1,
+        "latitude": -21.15,
+        "longitude": 165.4833333
+    },
+    {
+        "name": "Moméa",
+        "country": "New Caledonia",
+        "province": "New Caledonia",
+        "population": -1,
+        "latitude": -21.6666667,
+        "longitude": 165.6333333
+    },
+    {
+        "name": "Moindah",
+        "country": "New Caledonia",
+        "province": "New Caledonia",
+        "population": -1,
+        "latitude": -21.4166667,
+        "longitude": 165.2333333
+    },
+    {
+        "name": "Mia",
+        "country": "New Caledonia",
+        "province": "New Caledonia",
+        "population": -1,
+        "latitude": -21.55,
+        "longitude": 165.9833333
+    },
+    {
+        "name": "Mévegon",
+        "country": "New Caledonia",
+        "province": "New Caledonia",
+        "population": -1,
+        "latitude": -21.1833333,
+        "longitude": 165.5666667
+    },
+    {
+        "name": "Méoui",
+        "country": "New Caledonia",
+        "province": "New Caledonia",
+        "population": -1,
+        "latitude": -21.3166667,
+        "longitude": 165.65
+    },
+    {
+        "name": "Méomo",
+        "country": "New Caledonia",
+        "province": "New Caledonia",
+        "population": -1,
+        "latitude": -21.2333333,
+        "longitude": 165.6
+    },
+    {
+        "name": "Ménérémé",
+        "country": "New Caledonia",
+        "province": "New Caledonia",
+        "population": -1,
+        "latitude": -21.5166667,
+        "longitude": 165.9333333
+    },
+    {
+        "name": "Méhoué",
+        "country": "New Caledonia",
+        "province": "New Caledonia",
+        "population": -1,
+        "latitude": -21.5166667,
+        "longitude": 165.95
+    },
+    {
+        "name": "Médaouya",
+        "country": "New Caledonia",
+        "province": "New Caledonia",
+        "population": -1,
+        "latitude": -21.3,
+        "longitude": 165.5166667
+    },
+    {
+        "name": "Méchin",
+        "country": "New Caledonia",
+        "province": "New Caledonia",
+        "population": -1,
+        "latitude": -21.5,
+        "longitude": 165.7333333
+    },
+    {
+        "name": "Mebuet",
+        "country": "New Caledonia",
+        "province": "Loyalty Islands",
+        "population": -1,
+        "latitude": -21.512099,
+        "longitude": 167.84869
+    },
+    {
+        "name": "Meareu",
+        "country": "New Caledonia",
+        "province": "New Caledonia",
+        "population": -1,
+        "latitude": -21.3,
+        "longitude": 165.5833333
+    },
+    {
+        "name": "Méaré",
+        "country": "New Caledonia",
+        "province": "New Caledonia",
+        "population": -1,
+        "latitude": -21.7333333,
+        "longitude": 165.8333333
+    },
+    {
+        "name": "Mé",
+        "country": "New Caledonia",
+        "province": "New Caledonia",
+        "population": -1,
+        "latitude": -21.3166667,
+        "longitude": 165.5666667
+    },
+    {
+        "name": "Manguine",
+        "country": "New Caledonia",
+        "province": "New Caledonia",
+        "population": -1,
+        "latitude": -20.4,
+        "longitude": 164.4166667
+    },
+    {
+        "name": "Mangou",
+        "country": "New Caledonia",
+        "province": "New Caledonia",
+        "population": -1,
+        "latitude": -21.0666667,
+        "longitude": 165.4166667
+    },
+    {
+        "name": "Manéko",
+        "country": "New Caledonia",
+        "province": "New Caledonia",
+        "population": -1,
+        "latitude": -21.2833333,
+        "longitude": 165.5833333
+    },
+    {
+        "name": "Mamié",
+        "country": "New Caledonia",
+        "province": "New Caledonia",
+        "population": -1,
+        "latitude": -22.0666667,
+        "longitude": 166.9
+    },
+    {
+        "name": "Malhec",
+        "country": "New Caledonia",
+        "province": "New Caledonia",
+        "population": -1,
+        "latitude": -20.3333333,
+        "longitude": 164.1833333
+    },
+    {
+        "name": "Malabou",
+        "country": "New Caledonia",
+        "province": "New Caledonia",
+        "population": -1,
+        "latitude": -20.3,
+        "longitude": 164.1166667
+    },
+    {
+        "name": "Maïna",
+        "country": "New Caledonia",
+        "province": "New Caledonia",
+        "population": -1,
+        "latitude": -20.7333333,
+        "longitude": 165.05
+    },
+    {
+        "name": "Mahamaté",
+        "country": "New Caledonia",
+        "province": "New Caledonia",
+        "population": -1,
+        "latitude": -20.2333333,
+        "longitude": 164.3166667
+    },
+    {
+        "name": "Luécilla",
+        "country": "New Caledonia",
+        "province": "New Caledonia",
+        "population": -1,
+        "latitude": -20.9,
+        "longitude": 167.2666667
+    },
+    {
+        "name": "Lounéou",
+        "country": "New Caledonia",
+        "province": "New Caledonia",
+        "population": -1,
+        "latitude": -20.95,
+        "longitude": 167.3666667
+    },
+    {
+        "name": "Lot",
+        "country": "New Caledonia",
+        "province": "Loyalty Islands",
+        "population": -1,
+        "latitude": -21.387469,
+        "longitude": 167.855267
+    },
+    {
+        "name": "Lo",
+        "country": "New Caledonia",
+        "province": "New Caledonia",
+        "population": -1,
+        "latitude": -21.4833333,
+        "longitude": 167.8333333
+    },
+    {
+        "name": "Lion",
+        "country": "New Caledonia",
+        "province": "Loyalty Islands",
+        "population": -1,
+        "latitude": -21.475662,
+        "longitude": 167.937281
+    },
+    {
+        "name": "Lindéralique",
+        "country": "New Caledonia",
+        "province": "New Caledonia",
+        "population": -1,
+        "latitude": -20.6833333,
+        "longitude": 164.9666667
+    },
+    {
+        "name": "Les Pirogues",
+        "country": "New Caledonia",
+        "province": "New Caledonia",
+        "population": -1,
+        "latitude": -22.2833333,
+        "longitude": 166.6833333
+    },
+    {
+        "name": "Les Charmes",
+        "country": "New Caledonia",
+        "province": "New Caledonia",
+        "population": -1,
+        "latitude": -20.5833333,
+        "longitude": 164.4166667
+    },
+    {
+        "name": "Le Gabé",
+        "country": "New Caledonia",
+        "province": "New Caledonia",
+        "population": -1,
+        "latitude": -21.6,
+        "longitude": 165.45
+    },
+    {
+        "name": "Le Cresson",
+        "country": "New Caledonia",
+        "province": "New Caledonia",
+        "population": -1,
+        "latitude": -20.4833333,
+        "longitude": 164.3
+    },
+    {
+        "name": "Le Caillou",
+        "country": "New Caledonia",
+        "province": "New Caledonia",
+        "population": -1,
+        "latitude": -22.1333333,
+        "longitude": 166.9333333
+    },
+    {
+        "name": "Le Caillou",
+        "country": "New Caledonia",
+        "province": "New Caledonia",
+        "population": -1,
+        "latitude": -20.35,
+        "longitude": 164.4333333
+    },
+    {
+        "name": "La Tarodière",
+        "country": "New Caledonia",
+        "province": "New Caledonia",
+        "population": -1,
+        "latitude": -21.9666667,
+        "longitude": 166.1666667
+    },
+    {
+        "name": "La Résidence",
+        "country": "New Caledonia",
+        "province": "New Caledonia",
+        "population": -1,
+        "latitude": -21.6833333,
+        "longitude": 165.6833333
+    },
+    {
+        "name": "La Médouya",
+        "country": "New Caledonia",
+        "province": "New Caledonia",
+        "population": -1,
+        "latitude": -21.6666667,
+        "longitude": 165.6833333
+    },
+    {
+        "name": "La Couvelée",
+        "country": "New Caledonia",
+        "province": "South Province",
+        "population": -1,
+        "latitude": -22.139002,
+        "longitude": 166.465353
+    },
+    {
+        "name": "La Bouverie",
+        "country": "New Caledonia",
+        "province": "New Caledonia",
+        "population": -1,
+        "latitude": -20.5,
+        "longitude": 164.2666667
+    },
+    {
+        "name": "Kuto",
+        "country": "New Caledonia",
+        "province": "New Caledonia",
+        "population": -1,
+        "latitude": -22.66043,
+        "longitude": 167.44881
+    },
+    {
+        "name": "Kurin",
+        "country": "New Caledonia",
+        "province": "Loyalty Islands",
+        "population": -1,
+        "latitude": -21.598973,
+        "longitude": 168.109048
+    },
+    {
+        "name": "Kuiné",
+        "country": "New Caledonia",
+        "province": "New Caledonia",
+        "population": -1,
+        "latitude": -21.5333333,
+        "longitude": 165.9666667
+    },
+    {
+        "name": "Kumo",
+        "country": "New Caledonia",
+        "province": "New Caledonia",
+        "population": -1,
+        "latitude": -20.7826,
+        "longitude": 167.22221
+    },
+    {
+        "name": "Koum",
+        "country": "New Caledonia",
+        "province": "New Caledonia",
+        "population": -1,
+        "latitude": -20.5333333,
+        "longitude": 164.3333333
+    },
+    {
+        "name": "Koulnoué",
+        "country": "New Caledonia",
+        "province": "New Caledonia",
+        "population": -1,
+        "latitude": -20.6833333,
+        "longitude": 164.9833333
+    },
+    {
+        "name": "Kouarga",
+        "country": "New Caledonia",
+        "province": "New Caledonia",
+        "population": -1,
+        "latitude": -21.7333333,
+        "longitude": 166.0666667
+    },
+    {
+        "name": "Kouaré",
+        "country": "New Caledonia",
+        "province": "New Caledonia",
+        "population": -1,
+        "latitude": -21.6666667,
+        "longitude": 166.0666667
+    },
+    {
+        "name": "Koua",
+        "country": "New Caledonia",
+        "province": "South Province",
+        "population": -1,
+        "latitude": -21.746381,
+        "longitude": 166.089309
+    },
+    {
+        "name": "Kopélia",
+        "country": "New Caledonia",
+        "province": "New Caledonia",
+        "population": -1,
+        "latitude": -21.5666667,
+        "longitude": 166.0166667
+    },
+    {
+        "name": "Koout",
+        "country": "New Caledonia",
+        "province": "New Caledonia",
+        "population": -1,
+        "latitude": -20.6833333,
+        "longitude": 164.9666667
+    },
+    {
+        "name": "Konoé-Chaoué",
+        "country": "New Caledonia",
+        "province": "New Caledonia",
+        "population": -1,
+        "latitude": -21.49602,
+        "longitude": 165.70956
+    },
+    {
+        "name": "Konio",
+        "country": "New Caledonia",
+        "province": "New Caledonia",
+        "population": -1,
+        "latitude": -20.6,
+        "longitude": 164.4
+    },
+    {
+        "name": "Koniambo",
+        "country": "New Caledonia",
+        "province": "New Caledonia",
+        "population": -1,
+        "latitude": -21.0333333,
+        "longitude": 164.8666667
+    },
+    {
+        "name": "Koh",
+        "country": "New Caledonia",
+        "province": "New Caledonia",
+        "population": -1,
+        "latitude": -21.55,
+        "longitude": 165.8333333
+    },
+    {
+        "name": "Koh",
+        "country": "New Caledonia",
+        "province": "New Caledonia",
+        "population": -1,
+        "latitude": -21.5333333,
+        "longitude": 165.8333333
+    },
+    {
+        "name": "Koé",
+        "country": "New Caledonia",
+        "province": "New Caledonia",
+        "population": -1,
+        "latitude": -20.8,
+        "longitude": 165.2666667
+    },
+    {
+        "name": "Kikoé",
+        "country": "New Caledonia",
+        "province": "New Caledonia",
+        "population": -1,
+        "latitude": -21.4333333,
+        "longitude": 165.5
+    },
+    {
+        "name": "Kéré",
+        "country": "New Caledonia",
+        "province": "New Caledonia",
+        "population": -1,
+        "latitude": -22.6833333,
+        "longitude": 167.4833333
+    },
+    {
+        "name": "Kénérou",
+        "country": "New Caledonia",
+        "province": "New Caledonia",
+        "population": -1,
+        "latitude": -21.55,
+        "longitude": 165.8833333
+    },
+    {
+        "name": "Kédeigne",
+        "country": "New Caledonia",
+        "province": "New Caledonia",
+        "population": -1,
+        "latitude": -21.0333333,
+        "longitude": 167.2166667
+    },
+    {
+        "name": "Kavatch",
+        "country": "New Caledonia",
+        "province": "New Caledonia",
+        "population": -1,
+        "latitude": -20.7166667,
+        "longitude": 164.8166667
+    },
+    {
+        "name": "Katrikoin",
+        "country": "New Caledonia",
+        "province": "New Caledonia",
+        "population": -1,
+        "latitude": -21.5666667,
+        "longitude": 165.7
+    },
+    {
+        "name": "Kasouri",
+        "country": "New Caledonia",
+        "province": "New Caledonia",
+        "population": -1,
+        "latitude": -21.4166667,
+        "longitude": 165.8333333
+    },
+    {
+        "name": "Karagreu",
+        "country": "New Caledonia",
+        "province": "New Caledonia",
+        "population": -1,
+        "latitude": -21.4,
+        "longitude": 165.3833333
+    },
+    {
+        "name": "Kapoué",
+        "country": "New Caledonia",
+        "province": "New Caledonia",
+        "population": -1,
+        "latitude": -21.2833333,
+        "longitude": 165.6333333
+    },
+    {
+        "name": "Kaora",
+        "country": "New Caledonia",
+        "province": "New Caledonia",
+        "population": -1,
+        "latitude": -21.2166667,
+        "longitude": 165.5666667
+    },
+    {
+        "name": "Kanono",
+        "country": "New Caledonia",
+        "province": "New Caledonia",
+        "population": -1,
+        "latitude": -20.9,
+        "longitude": 167.2666667
+    },
+    {
+        "name": "Kamoui",
+        "country": "New Caledonia",
+        "province": "New Caledonia",
+        "population": -1,
+        "latitude": -21.35,
+        "longitude": 165.65
+    },
+    {
+        "name": "Kamé",
+        "country": "New Caledonia",
+        "province": "New Caledonia",
+        "population": -1,
+        "latitude": -22.65,
+        "longitude": 167.4833333
+    },
+    {
+        "name": "Kalédicta",
+        "country": "New Caledonia",
+        "province": "New Caledonia",
+        "population": -1,
+        "latitude": -20.8666667,
+        "longitude": 164.6833333
+    },
+    {
+        "name": "Kako",
+        "country": "New Caledonia",
+        "province": "New Caledonia",
+        "population": -1,
+        "latitude": -21.5333333,
+        "longitude": 165.9
+    },
+    {
+        "name": "Kabéyourou",
+        "country": "New Caledonia",
+        "province": "New Caledonia",
+        "population": -1,
+        "latitude": -21.3833333,
+        "longitude": 165.4
+    },
+    {
+        "name": "Juvénat Sainte-Thérèse",
+        "country": "New Caledonia",
+        "province": "New Caledonia",
+        "population": -1,
+        "latitude": -22.1333333,
+        "longitude": 166.3166667
+    },
+    {
+        "name": "Ina",
+        "country": "New Caledonia",
+        "province": "New Caledonia",
+        "population": -1,
+        "latitude": -20.9333333,
+        "longitude": 165.35
+    },
+    {
+        "name": "Huneté",
+        "country": "New Caledonia",
+        "province": "New Caledonia",
+        "population": -1,
+        "latitude": -20.7666667,
+        "longitude": 167.1
+    },
+    {
+        "name": "Houts",
+        "country": "New Caledonia",
+        "province": "New Caledonia",
+        "population": -1,
+        "latitude": -21.0166667,
+        "longitude": 167.4
+    },
+    {
+        "name": "Houone",
+        "country": "New Caledonia",
+        "province": "New Caledonia",
+        "population": -1,
+        "latitude": -20.05,
+        "longitude": 163.8
+    },
+    {
+        "name": "Honem",
+        "country": "New Caledonia",
+        "province": "New Caledonia",
+        "population": -1,
+        "latitude": -20.9166667,
+        "longitude": 167.2833333
+    },
+    {
+        "name": "Hô",
+        "country": "New Caledonia",
+        "province": "New Caledonia",
+        "population": -1,
+        "latitude": -21.1833333,
+        "longitude": 165.5333333
+    },
+    {
+        "name": "Hnassé",
+        "country": "New Caledonia",
+        "province": "New Caledonia",
+        "population": -1,
+        "latitude": -20.9166667,
+        "longitude": 167.2666667
+    },
+    {
+        "name": "Hnapalou",
+        "country": "New Caledonia",
+        "province": "New Caledonia",
+        "population": -1,
+        "latitude": -20.9,
+        "longitude": 167.2666667
+    },
+    {
+        "name": "Hnaeu",
+        "country": "New Caledonia",
+        "province": "New Caledonia",
+        "population": -1,
+        "latitude": -20.9833333,
+        "longitude": 167.3833333
+    },
+    {
+        "name": "Hmélek",
+        "country": "New Caledonia",
+        "province": "New Caledonia",
+        "population": -1,
+        "latitude": -21.0465,
+        "longitude": 167.28787
+    },
+    {
+        "name": "Haute Tamoa",
+        "country": "New Caledonia",
+        "province": "South Province",
+        "population": -1,
+        "latitude": -22.062521,
+        "longitude": 166.29864
+    },
+    {
+        "name": "Haute Pouéo",
+        "country": "New Caledonia",
+        "province": "New Caledonia",
+        "population": -1,
+        "latitude": -21.4833333,
+        "longitude": 165.5166667
+    },
+    {
+        "name": "Haute Couvelée",
+        "country": "New Caledonia",
+        "province": "South Province",
+        "population": -1,
+        "latitude": -22.128174,
+        "longitude": 166.465447
+    },
+    {
+        "name": "Haut-Coulna",
+        "country": "New Caledonia",
+        "province": "New Caledonia",
+        "population": -1,
+        "latitude": -20.6333333,
+        "longitude": 164.7333333
+    },
+    {
+        "name": "Hapétra",
+        "country": "New Caledonia",
+        "province": "New Caledonia",
+        "population": -1,
+        "latitude": -20.9333333,
+        "longitude": 167.15
+    },
+    {
+        "name": "Haouli",
+        "country": "New Caledonia",
+        "province": "New Caledonia",
+        "population": -1,
+        "latitude": -21.5333333,
+        "longitude": 165.85
+    },
+    {
+        "name": "Guéhi",
+        "country": "New Caledonia",
+        "province": "New Caledonia",
+        "population": -1,
+        "latitude": -20.6666667,
+        "longitude": 166.5333333
+    },
+    {
+        "name": "Grondu",
+        "country": "New Caledonia",
+        "province": "New Caledonia",
+        "population": -1,
+        "latitude": -21.0833333,
+        "longitude": 165.3833333
+    },
+    {
+        "name": "Grombaou",
+        "country": "New Caledonia",
+        "province": "New Caledonia",
+        "population": -1,
+        "latitude": -21.0333333,
+        "longitude": 164.8666667
+    },
+    {
+        "name": "Grochain",
+        "country": "New Caledonia",
+        "province": "New Caledonia",
+        "population": -1,
+        "latitude": -21.0833333,
+        "longitude": 165.3833333
+    },
+    {
+        "name": "Grand Gouli",
+        "country": "New Caledonia",
+        "province": "New Caledonia",
+        "population": -1,
+        "latitude": -21.6333333,
+        "longitude": 165.8166667
+    },
+    {
+        "name": "Grand-Borindi",
+        "country": "New Caledonia",
+        "province": "New Caledonia",
+        "population": -1,
+        "latitude": -21.7333333,
+        "longitude": 166.45
+    },
+    {
+        "name": "Goyetta",
+        "country": "New Caledonia",
+        "province": "New Caledonia",
+        "population": -1,
+        "latitude": -21.1,
+        "longitude": 165.35
+    },
+    {
+        "name": "Gouareu",
+        "country": "New Caledonia",
+        "province": "New Caledonia",
+        "population": -1,
+        "latitude": -21.3,
+        "longitude": 165.6333333
+    },
+    {
+        "name": "Gouaraoui",
+        "country": "New Caledonia",
+        "province": "New Caledonia",
+        "population": -1,
+        "latitude": -21.3166667,
+        "longitude": 165.5666667
+    },
+    {
+        "name": "Gossanat",
+        "country": "New Caledonia",
+        "province": "New Caledonia",
+        "population": -1,
+        "latitude": -20.45351,
+        "longitude": 166.61659
+    },
+    {
+        "name": "Goro",
+        "country": "New Caledonia",
+        "province": "New Caledonia",
+        "population": -1,
+        "latitude": -22.2833333,
+        "longitude": 167.0166667
+    },
+    {
+        "name": "Gondé",
+        "country": "New Caledonia",
+        "province": "New Caledonia",
+        "population": -1,
+        "latitude": -21.3,
+        "longitude": 165.4666667
+    },
+    {
+        "name": "Golone",
+        "country": "New Caledonia",
+        "province": "New Caledonia",
+        "population": -1,
+        "latitude": -20.2666667,
+        "longitude": 164.1166667
+    },
+    {
+        "name": "Gohapin",
+        "country": "New Caledonia",
+        "province": "New Caledonia",
+        "population": -1,
+        "latitude": -21.21866,
+        "longitude": 165.2727
+    },
+    {
+        "name": "Goa",
+        "country": "New Caledonia",
+        "province": "New Caledonia",
+        "population": -1,
+        "latitude": -21.1166667,
+        "longitude": 165.3
+    },
+    {
+        "name": "Ghio",
+        "country": "New Caledonia",
+        "province": "New Caledonia",
+        "population": -1,
+        "latitude": -21.5166667,
+        "longitude": 166.1
+    },
+    {
+        "name": "Gélima",
+        "country": "New Caledonia",
+        "province": "New Caledonia",
+        "population": -1,
+        "latitude": -21.5333333,
+        "longitude": 165.9833333
+    },
+    {
+        "name": "Ganem",
+        "country": "New Caledonia",
+        "province": "New Caledonia",
+        "population": -1,
+        "latitude": -20.7,
+        "longitude": 164.9333333
+    },
+    {
+        "name": "Gamaï",
+        "country": "New Caledonia",
+        "province": "New Caledonia",
+        "population": -1,
+        "latitude": -20.7,
+        "longitude": 164.4833333
+    },
+    {
+        "name": "Galilée",
+        "country": "New Caledonia",
+        "province": "New Caledonia",
+        "population": -1,
+        "latitude": -20.9333333,
+        "longitude": 165.2666667
+    },
+    {
+        "name": "Galagaoui",
+        "country": "New Caledonia",
+        "province": "New Caledonia",
+        "population": -1,
+        "latitude": -20.55,
+        "longitude": 164.2666667
+    },
+    {
+        "name": "Gala",
+        "country": "New Caledonia",
+        "province": "New Caledonia",
+        "population": -1,
+        "latitude": -20.75,
+        "longitude": 164.8833333
+    },
+    {
+        "name": "Gadji",
+        "country": "New Caledonia",
+        "province": "New Caledonia",
+        "population": -1,
+        "latitude": -22.55,
+        "longitude": 167.4333333
+    },
+    {
+        "name": "Forêt Plate",
+        "country": "New Caledonia",
+        "province": "New Caledonia",
+        "population": -1,
+        "latitude": -21.1333333,
+        "longitude": 165.1166667
+    },
+    {
+        "name": "Forêt Noire",
+        "country": "New Caledonia",
+        "province": "New Caledonia",
+        "population": -1,
+        "latitude": -21.7666667,
+        "longitude": 165.85
+    },
+    {
+        "name": "Foaobanik",
+        "country": "New Caledonia",
+        "province": "New Caledonia",
+        "population": -1,
+        "latitude": -20.9166667,
+        "longitude": 164.75
+    },
+    {
+        "name": "Fayawa",
+        "country": "New Caledonia",
+        "province": "New Caledonia",
+        "population": -1,
+        "latitude": -20.70622,
+        "longitude": 166.46733
+    },
+    {
+        "name": "Ethi",
+        "country": "New Caledonia",
+        "province": "New Caledonia",
+        "population": -1,
+        "latitude": -21.5,
+        "longitude": 167.85
+    },
+    {
+        "name": "Eni",
+        "country": "New Caledonia",
+        "province": "Loyalty Islands",
+        "population": -1,
+        "latitude": -21.627436,
+        "longitude": 167.948264
+    },
+    {
+        "name": "Ema",
+        "country": "New Caledonia",
+        "province": "New Caledonia",
+        "population": -1,
+        "latitude": -21.5666667,
+        "longitude": 165.9
+    },
+    {
+        "name": "Eacho",
+        "country": "New Caledonia",
+        "province": "New Caledonia",
+        "population": -1,
+        "latitude": -20.7833333,
+        "longitude": 167.1333333
+    },
+    {
+        "name": "Donéva",
+        "country": "New Caledonia",
+        "province": "New Caledonia",
+        "population": -1,
+        "latitude": -21.3,
+        "longitude": 165.6
+    },
+    {
+        "name": "Dogny",
+        "country": "New Caledonia",
+        "province": "New Caledonia",
+        "population": -1,
+        "latitude": -21.6666667,
+        "longitude": 165.9333333
+    },
+    {
+        "name": "Diakana",
+        "country": "New Caledonia",
+        "province": "New Caledonia",
+        "population": -1,
+        "latitude": -21,
+        "longitude": 164.8666667
+    },
+    {
+        "name": "Diahoué",
+        "country": "New Caledonia",
+        "province": "New Caledonia",
+        "population": -1,
+        "latitude": -20.4666667,
+        "longitude": 164.6833333
+    },
+    {
+        "name": "Cradji",
+        "country": "New Caledonia",
+        "province": "New Caledonia",
+        "population": -1,
+        "latitude": -21.3166667,
+        "longitude": 165.15
+    },
+    {
+        "name": "Coula",
+        "country": "New Caledonia",
+        "province": "New Caledonia",
+        "population": -1,
+        "latitude": -21.35,
+        "longitude": 165.45
+    },
+    {
+        "name": "Colnett",
+        "country": "New Caledonia",
+        "province": "New Caledonia",
+        "population": -1,
+        "latitude": -20.4833333,
+        "longitude": 164.7333333
+    },
+    {
+        "name": "Chaïnon",
+        "country": "New Caledonia",
+        "province": "New Caledonia",
+        "population": -1,
+        "latitude": -21.4833333,
+        "longitude": 165.8166667
+    },
+    {
+        "name": "Chagrin",
+        "country": "New Caledonia",
+        "province": "New Caledonia",
+        "population": -1,
+        "latitude": -20.4833333,
+        "longitude": 164.25
+    },
+    {
+        "name": "Caavatch",
+        "country": "New Caledonia",
+        "province": "New Caledonia",
+        "population": -1,
+        "latitude": -20.7166667,
+        "longitude": 164.8333333
+    },
+    {
+        "name": "Bwéo",
+        "country": "New Caledonia",
+        "province": "New Caledonia",
+        "population": -1,
+        "latitude": -19.7333333,
+        "longitude": 163.6666667
+    },
+    {
+        "name": "Bui",
+        "country": "New Caledonia",
+        "province": "New Caledonia",
+        "population": -1,
+        "latitude": -20.4333333,
+        "longitude": 164.4
+    },
+    {
+        "name": "Boyen",
+        "country": "New Caledonia",
+        "province": "New Caledonia",
+        "population": -1,
+        "latitude": -20.8166667,
+        "longitude": 164.6166667
+    },
+    {
+        "name": "Bouirou",
+        "country": "New Caledonia",
+        "province": "New Caledonia",
+        "population": -1,
+        "latitude": -21.44248,
+        "longitude": 165.53281
+    },
+    {
+        "name": "Bouérégaou",
+        "country": "New Caledonia",
+        "province": "New Caledonia",
+        "population": -1,
+        "latitude": -21.45,
+        "longitude": 165.5166667
+    },
+    {
+        "name": "Bouélas",
+        "country": "New Caledonia",
+        "province": "New Caledonia",
+        "population": -1,
+        "latitude": -20.55,
+        "longitude": 164.5666667
+    },
+    {
+        "name": "Bouélas",
+        "country": "New Caledonia",
+        "province": "New Caledonia",
+        "population": -1,
+        "latitude": -20.5333333,
+        "longitude": 164.55
+    },
+    {
+        "name": "Bouarou",
+        "country": "New Caledonia",
+        "province": "New Caledonia",
+        "population": -1,
+        "latitude": -20.2666667,
+        "longitude": 164.2
+    },
+    {
+        "name": "Bouabondo",
+        "country": "New Caledonia",
+        "province": "New Caledonia",
+        "population": -1,
+        "latitude": -20.1333333,
+        "longitude": 164.0166667
+    },
+    {
+        "name": "Boréaré",
+        "country": "New Caledonia",
+        "province": "New Caledonia",
+        "population": -1,
+        "latitude": -21.3666667,
+        "longitude": 165.4666667
+    },
+    {
+        "name": "Bopope",
+        "country": "New Caledonia",
+        "province": "New Caledonia",
+        "population": -1,
+        "latitude": -20.9166667,
+        "longitude": 165.0666667
+    },
+    {
+        "name": "Boné",
+        "country": "New Caledonia",
+        "province": "New Caledonia",
+        "population": -1,
+        "latitude": -21.5666667,
+        "longitude": 168.0166667
+    },
+    {
+        "name": "Bondé",
+        "country": "New Caledonia",
+        "province": "New Caledonia",
+        "population": -1,
+        "latitude": -20.4333333,
+        "longitude": 164.4333333
+    },
+    {
+        "name": "Bogui",
+        "country": "New Caledonia",
+        "province": "New Caledonia",
+        "population": -1,
+        "latitude": -21.3666667,
+        "longitude": 165.4333333
+    },
+    {
+        "name": "Boéareu",
+        "country": "New Caledonia",
+        "province": "New Caledonia",
+        "population": -1,
+        "latitude": -21.3166667,
+        "longitude": 165.5666667
+    },
+    {
+        "name": "Bobeitio",
+        "country": "New Caledonia",
+        "province": "New Caledonia",
+        "population": -1,
+        "latitude": -20.9666667,
+        "longitude": 165
+    },
+    {
+        "name": "Boara",
+        "country": "New Caledonia",
+        "province": "New Caledonia",
+        "population": -1,
+        "latitude": -21.5666667,
+        "longitude": 165.9
+    },
+    {
+        "name": "Boara",
+        "country": "New Caledonia",
+        "province": "New Caledonia",
+        "population": -1,
+        "latitude": -20.1166667,
+        "longitude": 164
+    },
+    {
+        "name": "Boakaine",
+        "country": "New Caledonia",
+        "province": "New Caledonia",
+        "population": -1,
+        "latitude": -21.5,
+        "longitude": 165.9333333
+    },
+    {
+        "name": "Faubourg Blanchot",
+        "country": "New Caledonia",
+        "province": "South Province",
+        "population": -1,
+        "latitude": -22.281856,
+        "longitude": 166.454103
+    },
+    {
+        "name": "Bétsèda",
+        "country": "New Caledonia",
+        "province": "New Caledonia",
+        "population": -1,
+        "latitude": -21.4833333,
+        "longitude": 167.8666667
+    },
+    {
+        "name": "Bernheim",
+        "country": "New Caledonia",
+        "province": "New Caledonia",
+        "population": -1,
+        "latitude": -21.2333333,
+        "longitude": 165.0333333
+    },
+    {
+        "name": "Bayes",
+        "country": "New Caledonia",
+        "province": "New Caledonia",
+        "population": -1,
+        "latitude": -20.95,
+        "longitude": 165.4
+    },
+    {
+        "name": "Basse-Poya",
+        "country": "New Caledonia",
+        "province": "New Caledonia",
+        "population": -1,
+        "latitude": -21.3333333,
+        "longitude": 165.15
+    },
+    {
+        "name": "Bas-Coulna",
+        "country": "New Caledonia",
+        "province": "New Caledonia",
+        "population": -1,
+        "latitude": -20.6833333,
+        "longitude": 164.7833333
+    },
+    {
+        "name": "Baoum",
+        "country": "New Caledonia",
+        "province": "New Caledonia",
+        "population": -1,
+        "latitude": -20.2333333,
+        "longitude": 164.3166667
+    },
+    {
+        "name": "Baoui",
+        "country": "New Caledonia",
+        "province": "New Caledonia",
+        "population": -1,
+        "latitude": -20.7,
+        "longitude": 164.4666667
+    },
+    {
+        "name": "Banout",
+        "country": "New Caledonia",
+        "province": "New Caledonia",
+        "population": -1,
+        "latitude": -20.62487,
+        "longitude": 166.55183
+    },
+    {
+        "name": "Balaguet",
+        "country": "New Caledonia",
+        "province": "New Caledonia",
+        "population": -1,
+        "latitude": -20.2833333,
+        "longitude": 164.25
+    },
+    {
+        "name": "Balaba",
+        "country": "New Caledonia",
+        "province": "New Caledonia",
+        "population": -1,
+        "latitude": -20.6833333,
+        "longitude": 166.5166667
+    },
+    {
+        "name": "Bakouya",
+        "country": "New Caledonia",
+        "province": "New Caledonia",
+        "population": -1,
+        "latitude": -21.5666667,
+        "longitude": 165.4833333
+    },
+    {
+        "name": "Baco",
+        "country": "New Caledonia",
+        "province": "New Caledonia",
+        "population": -1,
+        "latitude": -21.0666667,
+        "longitude": 164.9
+    },
+    {
+        "name": "Babouillat",
+        "country": "New Caledonia",
+        "province": "New Caledonia",
+        "population": -1,
+        "latitude": -20.3833333,
+        "longitude": 164.1333333
+    },
+    {
+        "name": "Baaba",
+        "country": "New Caledonia",
+        "province": "New Caledonia",
+        "population": -1,
+        "latitude": -20.0833333,
+        "longitude": 163.9833333
+    },
+    {
+        "name": "Bâ",
+        "country": "New Caledonia",
+        "province": "New Caledonia",
+        "population": -1,
+        "latitude": -21.2,
+        "longitude": 165.55
+    },
+    {
+        "name": "Azareu",
+        "country": "New Caledonia",
+        "province": "South Province",
+        "population": -1,
+        "latitude": -21.45814,
+        "longitude": 165.47088
+    },
+    {
+        "name": "Awi",
+        "country": "New Caledonia",
+        "province": "Loyalty Islands",
+        "population": -1,
+        "latitude": -21.607713,
+        "longitude": 167.948914
+    },
+    {
+        "name": "Auteuil",
+        "country": "New Caledonia",
+        "province": "South Province",
+        "population": -1,
+        "latitude": -22.207756,
+        "longitude": 166.474048
+    },
+    {
+        "name": "Atha",
+        "country": "New Caledonia",
+        "province": "Loyalty Islands",
+        "population": -1,
+        "latitude": -21.47205,
+        "longitude": 168.016308
+    },
+    {
+        "name": "Atéou",
+        "country": "New Caledonia",
+        "province": "New Caledonia",
+        "population": -1,
+        "latitude": -20.95,
+        "longitude": 164.9
+    },
+    {
+        "name": "Arama",
+        "country": "New Caledonia",
+        "province": "New Caledonia",
+        "population": -1,
+        "latitude": -20.2666667,
+        "longitude": 164.2
+    },
+    {
+        "name": "Aoumou",
+        "country": "New Caledonia",
+        "province": "New Caledonia",
+        "population": -1,
+        "latitude": -21.4,
+        "longitude": 165.8166667
+    },
+    {
+        "name": "Anézitch",
+        "country": "New Caledonia",
+        "province": "New Caledonia",
+        "population": -1,
+        "latitude": -20.7,
+        "longitude": 167.1833333
+    },
+    {
+        "name": "Anéo",
+        "country": "New Caledonia",
+        "province": "New Caledonia",
+        "population": -1,
+        "latitude": -21.0833333,
+        "longitude": 167.4333333
+    },
+    {
+        "name": "Amouéma",
+        "country": "New Caledonia",
+        "province": "New Caledonia",
+        "population": -1,
+        "latitude": -20.9,
+        "longitude": 165.1666667
+    },
+    {
+        "name": "Amoa",
+        "country": "New Caledonia",
+        "province": "New Caledonia",
+        "population": -1,
+        "latitude": -20.78071,
+        "longitude": 165.22305
+    },
+    {
+        "name": "Akaouane",
+        "country": "New Caledonia",
+        "province": "New Caledonia",
+        "population": -1,
+        "latitude": -21.09921,
+        "longitude": 167.39924
+    },
+    {
+        "name": "Xéré",
+        "country": "New Caledonia",
+        "province": "South Province",
+        "population": -1,
+        "latitude": -22.28636,
+        "longitude": 167.01141
+    },
+    {
+        "name": "Huiwatrul",
+        "country": "New Caledonia",
+        "province": "New Caledonia",
+        "population": -1,
+        "latitude": -21.087766,
+        "longitude": 167.354661
+    },
+    {
+        "name": "Huathalo",
+        "country": "New Caledonia",
+        "province": "Loyalty Islands",
+        "population": -1,
+        "latitude": -20.79086,
+        "longitude": 167.25286
+    },
+    {
+        "name": "Kèrèji",
+        "country": "New Caledonia",
+        "province": "New Caledonia",
+        "population": -1,
+        "latitude": -21.5775,
+        "longitude": 166.0188
+    },
+    {
+        "name": "Anse Vata",
+        "country": "New Caledonia",
+        "province": "South Province",
+        "population": -1,
+        "latitude": -22.30037,
+        "longitude": 166.44347
+    },
+    {
+        "name": "La Roche Percee",
+        "country": "New Caledonia",
+        "province": "New Caledonia",
+        "population": -1,
+        "latitude": -21.61383,
+        "longitude": 165.46556
+    },
+    {
+        "name": "Traput",
+        "country": "New Caledonia",
+        "province": "New Caledonia",
+        "population": -1,
+        "latitude": -20.92741,
+        "longitude": 167.30259
+    },
+    {
+        "name": "Jozip",
+        "country": "New Caledonia",
+        "province": "New Caledonia",
+        "population": -1,
+        "latitude": -20.9418,
+        "longitude": 167.33697
+    },
+    {
+        "name": "Yuate Tremwatre",
+        "country": "New Caledonia",
+        "province": "South Province",
+        "population": -1,
+        "latitude": -22.62542,
+        "longitude": 167.49082
+    },
+    {
+        "name": "Vieux Tuho",
+        "country": "New Caledonia",
+        "province": "New Caledonia",
+        "population": -1,
+        "latitude": -20.77048,
+        "longitude": 165.16404
+    },
+    {
+        "name": "Tene",
+        "country": "New Caledonia",
+        "province": "New Caledonia",
+        "population": -1,
+        "latitude": -21.58027,
+        "longitude": 165.54405
+    },
+    {
+        "name": "Padawa",
+        "country": "New Caledonia",
+        "province": "Loyalty Islands",
+        "population": -1,
+        "latitude": -21.460552,
+        "longitude": 167.841508
+    },
+    {
+        "name": "Webehned",
+        "country": "New Caledonia",
+        "province": "Loyalty Islands",
+        "population": -1,
+        "latitude": -21.486661,
+        "longitude": 167.838302
+    },
+    {
+        "name": "Wadiric",
+        "country": "New Caledonia",
+        "province": "Loyalty Islands",
+        "population": -1,
+        "latitude": -21.481814,
+        "longitude": 167.834095
+    },
+    {
+        "name": "Pawaguam",
+        "country": "New Caledonia",
+        "province": "Loyalty Islands",
+        "population": -1,
+        "latitude": -21.504656,
+        "longitude": 167.84594
+    },
+    {
+        "name": "Esho",
+        "country": "New Caledonia",
+        "province": "Loyalty Islands",
+        "population": -1,
+        "latitude": -21.500526,
+        "longitude": 167.844855
+    },
+    {
+        "name": "Wateta",
+        "country": "New Caledonia",
+        "province": "Loyalty Islands",
+        "population": -1,
+        "latitude": -21.542611,
+        "longitude": 167.873764
+    },
+    {
+        "name": "Hnaridimen",
+        "country": "New Caledonia",
+        "province": "Loyalty Islands",
+        "population": -1,
+        "latitude": -21.556725,
+        "longitude": 167.878342
+    },
+    {
+        "name": "La Kaw",
+        "country": "New Caledonia",
+        "province": "Loyalty Islands",
+        "population": -1,
+        "latitude": -21.595941,
+        "longitude": 167.885991
+    },
+    {
+        "name": "Bone",
+        "country": "New Caledonia",
+        "province": "Loyalty Islands",
+        "population": -1,
+        "latitude": -21.463836,
+        "longitude": 167.931663
+    },
+    {
+        "name": "Cerethi",
+        "country": "New Caledonia",
+        "province": "Loyalty Islands",
+        "population": -1,
+        "latitude": -21.575745,
+        "longitude": 168.08419
+    },
+    {
+        "name": "Denaco",
+        "country": "New Caledonia",
+        "province": "Loyalty Islands",
+        "population": -1,
+        "latitude": -21.569371,
+        "longitude": 168.087573
+    },
+    {
+        "name": "Wacebeu",
+        "country": "New Caledonia",
+        "province": "Loyalty Islands",
+        "population": -1,
+        "latitude": -21.492665,
+        "longitude": 167.878167
+    },
+    {
+        "name": "Degene",
+        "country": "New Caledonia",
+        "province": "Loyalty Islands",
+        "population": -1,
+        "latitude": -21.488278,
+        "longitude": 167.864071
+    },
+    {
+        "name": "Udekeu",
+        "country": "New Caledonia",
+        "province": "Loyalty Islands",
+        "population": -1,
+        "latitude": -21.486768,
+        "longitude": 167.870831
+    },
+    {
+        "name": "Cadralo",
+        "country": "New Caledonia",
+        "province": "Loyalty Islands",
+        "population": -1,
+        "latitude": -21.392124,
+        "longitude": 167.934421
+    },
+    {
+        "name": "Peucade",
+        "country": "New Caledonia",
+        "province": "Loyalty Islands",
+        "population": -1,
+        "latitude": -21.470146,
+        "longitude": 168.098322
+    },
+    {
+        "name": "Watha",
+        "country": "New Caledonia",
+        "province": "Loyalty Islands",
+        "population": -1,
+        "latitude": -21.4653,
+        "longitude": 167.962652
+    },
+    {
+        "name": "Wiawia",
+        "country": "New Caledonia",
+        "province": "Loyalty Islands",
+        "population": -1,
+        "latitude": -21.475509,
+        "longitude": 168.024941
+    },
+    {
+        "name": "Loi",
+        "country": "New Caledonia",
+        "province": "Loyalty Islands",
+        "population": -1,
+        "latitude": -21.561603,
+        "longitude": 167.876652
+    },
+    {
+        "name": "Hnabaek",
+        "country": "New Caledonia",
+        "province": "Loyalty Islands",
+        "population": -1,
+        "latitude": -21.466531,
+        "longitude": 168.070865
+    },
+    {
+        "name": "Kaeguahnakun",
+        "country": "New Caledonia",
+        "province": "Loyalty Islands",
+        "population": -1,
+        "latitude": -21.461844,
+        "longitude": 168.075618
+    },
+    {
+        "name": "Uni",
+        "country": "New Caledonia",
+        "province": "Loyalty Islands",
+        "population": -1,
+        "latitude": -21.620954,
+        "longitude": 167.951597
+    },
+    {
+        "name": "Waetetubene",
+        "country": "New Caledonia",
+        "province": "Loyalty Islands",
+        "population": -1,
+        "latitude": -21.622573,
+        "longitude": 167.954162
+    },
+    {
+        "name": "Padawa",
+        "country": "New Caledonia",
+        "province": "Loyalty Islands",
+        "population": -1,
+        "latitude": -21.606413,
+        "longitude": 167.947738
+    },
+    {
+        "name": "Jore",
+        "country": "New Caledonia",
+        "province": "Loyalty Islands",
+        "population": -1,
+        "latitude": -21.603757,
+        "longitude": 167.934356
+    },
+    {
+        "name": "Ninic",
+        "country": "New Caledonia",
+        "province": "Loyalty Islands",
+        "population": -1,
+        "latitude": -21.601883,
+        "longitude": 167.928026
+    },
+    {
+        "name": "Papa",
+        "country": "New Caledonia",
+        "province": "Loyalty Islands",
+        "population": -1,
+        "latitude": -21.446601,
+        "longitude": 167.972262
+    },
+    {
+        "name": "Wahmetu",
+        "country": "New Caledonia",
+        "province": "Loyalty Islands",
+        "population": -1,
+        "latitude": -21.456212,
+        "longitude": 167.918476
+    },
+    {
+        "name": "Ferme Nord",
+        "country": "New Caledonia",
+        "province": "South Province",
+        "population": -1,
+        "latitude": -22.256759,
+        "longitude": 166.391568
+    },
+    {
+        "name": "Ouémo",
+        "country": "New Caledonia",
+        "province": "South Province",
+        "population": -1,
+        "latitude": -22.274408,
+        "longitude": 166.476603
+    },
+    {
+        "name": "Les Koghis",
+        "country": "New Caledonia",
+        "province": "South Province",
+        "population": -1,
+        "latitude": -22.18063,
+        "longitude": 166.491373
+    },
+    {
+        "name": "La Rhumerie",
+        "country": "New Caledonia",
+        "province": "South Province",
+        "population": -1,
+        "latitude": -22.154982,
+        "longitude": 166.467756
+    },
+    {
+        "name": "La Caféirie",
+        "country": "New Caledonia",
+        "province": "South Province",
+        "population": -1,
+        "latitude": -22.150629,
+        "longitude": 166.478295
+    },
+    {
+        "name": "Nondoué",
+        "country": "New Caledonia",
+        "province": "South Province",
+        "population": -1,
+        "latitude": -22.129262,
+        "longitude": 166.443236
+    },
+    {
+        "name": "Katiramona",
+        "country": "New Caledonia",
+        "province": "South Province",
+        "population": -1,
+        "latitude": -22.134541,
+        "longitude": 166.431695
+    },
+    {
+        "name": "Val Fleuri",
+        "country": "New Caledonia",
+        "province": "South Province",
+        "population": -1,
+        "latitude": -22.12066,
+        "longitude": 166.433053
+    },
+    {
+        "name": "Val Suzon",
+        "country": "New Caledonia",
+        "province": "South Province",
+        "population": -1,
+        "latitude": -22.114832,
+        "longitude": 166.423614
+    },
+    {
+        "name": "Ondémia",
+        "country": "New Caledonia",
+        "province": "South Province",
+        "population": -1,
+        "latitude": -22.127929,
+        "longitude": 166.343337
+    },
+    {
+        "name": "La Pépinière",
+        "country": "New Caledonia",
+        "province": "South Province",
+        "population": -1,
+        "latitude": -22.1723,
+        "longitude": 166.46754
+    },
+    {
+        "name": "L'Ermitage",
+        "country": "New Caledonia",
+        "province": "South Province",
+        "population": -1,
+        "latitude": -22.17925,
+        "longitude": 166.476789
+    },
+    {
+        "name": "Saint-Laurent",
+        "country": "New Caledonia",
+        "province": "South Province",
+        "population": -1,
+        "latitude": -22.077427,
+        "longitude": 166.306543
+    },
+    {
+        "name": "Quatrième Kilomètre",
+        "country": "New Caledonia",
+        "province": "South Province",
+        "population": -1,
+        "latitude": -22.24616,
+        "longitude": 166.461586
+    },
+    {
+        "name": "Sixième Kilomètre",
+        "country": "New Caledonia",
+        "province": "South Province",
+        "population": -1,
+        "latitude": -22.236331,
+        "longitude": 166.475432
+    },
+    {
+        "name": "Cinquième Kilomètre",
+        "country": "New Caledonia",
+        "province": "South Province",
+        "population": -1,
+        "latitude": -22.244918,
+        "longitude": 166.469571
+    },
+    {
+        "name": "Septième Kilomètre",
+        "country": "New Caledonia",
+        "province": "South Province",
+        "population": -1,
+        "latitude": -22.23135,
+        "longitude": 166.480824
+    },
+    {
+        "name": "Nakouta",
+        "country": "New Caledonia",
+        "province": "South Province",
+        "population": -1,
+        "latitude": -22.161799,
+        "longitude": 166.263358
+    },
+    {
+        "name": "Enghoué",
+        "country": "New Caledonia",
+        "province": "South Province",
+        "population": -1,
+        "latitude": -22.147439,
+        "longitude": 166.245069
+    },
+    {
+        "name": "Karikaté",
+        "country": "New Caledonia",
+        "province": "South Province",
+        "population": -1,
+        "latitude": -22.10747,
+        "longitude": 166.18778
+    },
+    {
+        "name": "Neto",
+        "country": "New Caledonia",
+        "province": "South Province",
+        "population": -1,
+        "latitude": -22.121572,
+        "longitude": 166.214732
+    },
+    {
+        "name": "Port Ouenghi",
+        "country": "New Caledonia",
+        "province": "South Province",
+        "population": -1,
+        "latitude": -21.902551,
+        "longitude": 166.06786
+    },
+    {
+        "name": "Tagi",
+        "country": "New Caledonia",
+        "province": "South Province",
+        "population": -1,
+        "latitude": -21.803228,
+        "longitude": 166.066377
+    },
+    {
+        "name": "Saint-Maurice",
+        "country": "New Caledonia",
+        "province": "South Province",
+        "population": -1,
+        "latitude": -21.767149,
+        "longitude": 166.113235
+    },
+    {
+        "name": "Anderson",
+        "country": "New Caledonia",
+        "province": "South Province",
+        "population": -1,
+        "latitude": -21.870501,
+        "longitude": 166.0433
+    },
+    {
+        "name": "Station de Ouinané",
+        "country": "New Caledonia",
+        "province": "South Province",
+        "population": -1,
+        "latitude": -21.928171,
+        "longitude": 166.138667
+    },
+    {
+        "name": "Val Boisé",
+        "country": "New Caledonia",
+        "province": "South Province",
+        "population": -1,
+        "latitude": -22.271055,
+        "longitude": 166.612435
+    },
+    {
+        "name": "Ié",
+        "country": "New Caledonia",
+        "province": "South Province",
+        "population": -1,
+        "latitude": -22.387243,
+        "longitude": 166.770195
+    },
+    {
+        "name": "Teu",
+        "country": "New Caledonia",
+        "province": "South Province",
+        "population": -1,
+        "latitude": -22.340412,
+        "longitude": 166.720317
+    },
+    {
+        "name": "La Forestière",
+        "country": "New Caledonia",
+        "province": "South Province",
+        "population": -1,
+        "latitude": -22.295519,
+        "longitude": 166.690141
+    },
+    {
+        "name": "Vallée du Tir",
+        "country": "New Caledonia",
+        "province": "South Province",
+        "population": -1,
+        "latitude": -22.260899,
+        "longitude": 166.447148
+    },
+    {
+        "name": "Ouaté",
+        "country": "New Caledonia",
+        "province": "New Caledonia",
+        "population": -1,
+        "latitude": -21.1833333,
+        "longitude": 165.1333333
+    },
+    {
+        "name": "Nouville",
+        "country": "New Caledonia",
+        "province": "South Province",
+        "population": -1,
+        "latitude": -22.260242,
+        "longitude": 166.402251
+    },
+    {
+        "name": "Normandie",
+        "country": "New Caledonia",
+        "province": "South Province",
+        "population": -1,
+        "latitude": -22.2225,
+        "longitude": 166.480073
+    },
+    {
+        "name": "Havila",
+        "country": "New Caledonia",
+        "province": "Loyalty Islands",
+        "population": -1,
+        "latitude": -20.89322,
+        "longitude": 167.26045
+    },
+    {
+        "name": "Dosip",
+        "country": "New Caledonia",
+        "province": "New Caledonia",
+        "population": -1,
+        "latitude": -20.94525,
+        "longitude": 167.3386
+    },
+    {
+        "name": "N'Gea",
+        "country": "New Caledonia",
+        "province": "New Caledonia",
+        "population": -1,
+        "latitude": -22.28953,
+        "longitude": 166.45411
+    },
+    {
+        "name": "Artillerie",
+        "country": "New Caledonia",
+        "province": "New Caledonia",
+        "population": -1,
+        "latitude": -22.27972,
+        "longitude": 166.43897
+    },
+    {
+        "name": "Citre Ville",
+        "country": "New Caledonia",
+        "province": "New Caledonia",
+        "population": -1,
+        "latitude": -22.2696,
+        "longitude": 166.44051
+    },
+    {
+        "name": "Quarter du Fish",
+        "country": "New Caledonia",
+        "province": "New Caledonia",
+        "population": -1,
+        "latitude": -21.55349,
+        "longitude": 165.48951
+    },
+    {
+        "name": "Saoui",
+        "country": "New Caledonia",
+        "province": "New Caledonia",
+        "population": -1,
+        "latitude": -21.50303,
+        "longitude": 165.53581
+    },
+    {
+        "name": "Lotissment Bernard",
+        "country": "New Caledonia",
+        "province": "New Caledonia",
+        "population": -1,
+        "latitude": -22.1349,
+        "longitude": 166.36271
+    },
+    {
+        "name": "Beauvallon",
+        "country": "New Caledonia",
+        "province": "New Caledonia",
+        "population": -1,
+        "latitude": -22.12433,
+        "longitude": 166.33533
+    },
+    {
+        "name": "Zi De Paita",
+        "country": "New Caledonia",
+        "province": "New Caledonia",
+        "population": -1,
+        "latitude": -22.1545,
+        "longitude": 166.37537
+    },
+    {
+        "name": "Savanah",
+        "country": "New Caledonia",
+        "province": "New Caledonia",
+        "population": -1,
+        "latitude": -22.16149,
+        "longitude": 166.39
+    },
+    {
+        "name": "Tindu",
+        "country": "New Caledonia",
+        "province": "New Caledonia",
+        "population": -1,
+        "latitude": -22.23119,
+        "longitude": 166.42004
+    },
+    {
+        "name": "Numbo",
+        "country": "New Caledonia",
+        "province": "New Caledonia",
+        "population": -1,
+        "latitude": -22.23683,
+        "longitude": 166.41729
+    },
+    {
+        "name": "Logicoop",
+        "country": "New Caledonia",
+        "province": "New Caledonia",
+        "population": -1,
+        "latitude": -22.23528,
+        "longitude": 166.43455
+    },
+    {
+        "name": "Montravel",
+        "country": "New Caledonia",
+        "province": "New Caledonia",
+        "population": -1,
+        "latitude": -22.25165,
+        "longitude": 166.45467
+    },
+    {
+        "name": "Ports De Fer",
+        "country": "New Caledonia",
+        "province": "New Caledonia",
+        "population": -1,
+        "latitude": -22.25796,
+        "longitude": 166.46081
+    },
+    {
+        "name": "Kamere",
+        "country": "New Caledonia",
+        "province": "New Caledonia",
+        "population": -1,
+        "latitude": -22.23,
+        "longitude": 166.43244
+    },
+    {
+        "name": "Tuband",
+        "country": "New Caledonia",
+        "province": "New Caledonia",
+        "population": -1,
+        "latitude": -22.29239,
+        "longitude": 166.45381
+    },
+    {
+        "name": "Motor Pool",
+        "country": "New Caledonia",
+        "province": "New Caledonia",
+        "population": -1,
+        "latitude": -22.29196,
+        "longitude": 166.44746
+    },
+    {
+        "name": "Receiving",
+        "country": "New Caledonia",
+        "province": "New Caledonia",
+        "population": -1,
+        "latitude": -22.29227,
+        "longitude": 166.4427
+    },
+    {
+        "name": "Baie Des Citrons",
+        "country": "New Caledonia",
+        "province": "New Caledonia",
+        "population": -1,
+        "latitude": -22.29072,
+        "longitude": 166.43639
+    },
+    {
+        "name": "Kiamu",
+        "country": "New Caledonia",
+        "province": "Loyalty Islands",
+        "population": -1,
+        "latitude": -21.604336,
+        "longitude": 168.111234
+    },
+    {
+        "name": "Layekec",
+        "country": "New Caledonia",
+        "province": "Loyalty Islands",
+        "population": -1,
+        "latitude": -21.502663,
+        "longitude": 167.898434
+    },
+    {
+        "name": "Degit",
+        "country": "New Caledonia",
+        "province": "Loyalty Islands",
+        "population": -1,
+        "latitude": -21.379891,
+        "longitude": 167.810967
+    },
+    {
+        "name": "Pewapa",
+        "country": "New Caledonia",
+        "province": "Loyalty Islands",
+        "population": -1,
+        "latitude": -21.407659,
+        "longitude": 167.89704
+    },
+    {
+        "name": "Wadreral",
+        "country": "New Caledonia",
+        "province": "Loyalty Islands",
+        "population": -1,
+        "latitude": -21.598154,
+        "longitude": 167.929899
+    },
+    {
+        "name": "Hmede",
+        "country": "New Caledonia",
+        "province": "Loyalty Islands",
+        "population": -1,
+        "latitude": -21.601167,
+        "longitude": 167.930798
+    },
+    {
+        "name": "Wabet",
+        "country": "New Caledonia",
+        "province": "Loyalty Islands",
+        "population": -1,
+        "latitude": -21.600542,
+        "longitude": 167.939918
+    },
+    {
+        "name": "Tha",
+        "country": "New Caledonia",
+        "province": "Loyalty Islands",
+        "population": -1,
+        "latitude": -21.60142,
+        "longitude": 167.925668
+    },
+    {
+        "name": "Kuretheb",
+        "country": "New Caledonia",
+        "province": "Loyalty Islands",
+        "population": -1,
+        "latitude": -21.60048,
+        "longitude": 167.921455
+    },
+    {
+        "name": "Waco",
+        "country": "New Caledonia",
+        "province": "Loyalty Islands",
+        "population": -1,
+        "latitude": -21.458185,
+        "longitude": 167.921997
+    },
+    {
+        "name": "Peolo",
+        "country": "New Caledonia",
+        "province": "Loyalty Islands",
+        "population": -1,
+        "latitude": -21.470843,
+        "longitude": 167.93723
+    },
+    {
+        "name": "Takadic",
+        "country": "New Caledonia",
+        "province": "Loyalty Islands",
+        "population": -1,
+        "latitude": -21.46755,
+        "longitude": 167.936712
+    },
+    {
+        "name": "Rivière Salée",
+        "country": "New Caledonia",
+        "province": "South Province",
+        "population": -1,
+        "latitude": -22.231444,
+        "longitude": 166.464206
+    },
+    {
+        "name": "Magenta",
+        "country": "New Caledonia",
+        "province": "South Province",
+        "population": -1,
+        "latitude": -22.26867,
+        "longitude": 166.471222
+    },
+    {
+        "name": "Haut Magenta",
+        "country": "New Caledonia",
+        "province": "South Province",
+        "population": -1,
+        "latitude": -22.264289,
+        "longitude": 166.460652
+    },
+    {
+        "name": "Montagne Coupée",
+        "country": "New Caledonia",
+        "province": "South Province",
+        "population": -1,
+        "latitude": -22.255267,
+        "longitude": 166.450648
+    },
+    {
+        "name": "Val Plaisance",
+        "country": "New Caledonia",
+        "province": "South Province",
+        "population": -1,
+        "latitude": -22.300476,
+        "longitude": 166.454695
+    },
+    {
+        "name": "Trianon",
+        "country": "New Caledonia",
+        "province": "South Province",
+        "population": -1,
+        "latitude": -22.287097,
+        "longitude": 166.449128
+    },
+    {
+        "name": "Orphelinat",
+        "country": "New Caledonia",
+        "province": "South Province",
+        "population": -1,
+        "latitude": -22.282383,
+        "longitude": 166.444366
+    },
+    {
+        "name": "Quartier Latin",
+        "country": "New Caledonia",
+        "province": "South Province",
+        "population": -1,
+        "latitude": -22.275383,
+        "longitude": 166.446512
+    },
+    {
+        "name": "Centre Ville",
+        "country": "New Caledonia",
+        "province": "South Province",
+        "population": -1,
+        "latitude": -22.270646,
+        "longitude": 166.441128
+    },
+    {
+        "name": "Tina",
+        "country": "New Caledonia",
+        "province": "South Province",
+        "population": -1,
+        "latitude": -22.234369,
+        "longitude": 166.496305
+    },
+    {
+        "name": "Sainte-Marie",
+        "country": "New Caledonia",
+        "province": "South Province",
+        "population": -1,
+        "latitude": -22.277267,
+        "longitude": 166.45803
+    },
+    {
+        "name": "Quai Manto",
+        "country": "New Caledonia",
+        "province": "South Province",
+        "population": -1,
+        "latitude": -22.037359,
+        "longitude": 166.213366
+    },
+    {
+        "name": "Hunamwi",
+        "country": "New Caledonia",
+        "province": "South Province",
+        "population": -1,
+        "latitude": -21.908782,
+        "longitude": 166.099949
+    },
+    {
+        "name": "Wêwé",
+        "country": "New Caledonia",
+        "province": "South Province",
+        "population": -1,
+        "latitude": -21.974909,
+        "longitude": 166.08511
+    },
+    {
+        "name": "Néchira",
+        "country": "New Caledonia",
+        "province": "South Province",
+        "population": -1,
+        "latitude": -21.816386,
+        "longitude": 166.053232
+    },
+    {
+        "name": "Ya",
+        "country": "New Caledonia",
+        "province": "South Province",
+        "population": -1,
+        "latitude": -21.799244,
+        "longitude": 166.057101
+    },
+    {
+        "name": "Lotissement Les Jardins de Plum",
+        "country": "New Caledonia",
+        "province": "South Province",
+        "population": -1,
+        "latitude": -22.263978,
+        "longitude": 166.615238
+    },
+    {
+        "name": "Lotissement Clos d'Eden",
+        "country": "New Caledonia",
+        "province": "South Province",
+        "population": -1,
+        "latitude": -22.270966,
+        "longitude": 166.618822
+    },
+    {
+        "name": "Lotissement Colardeau",
+        "country": "New Caledonia",
+        "province": "South Province",
+        "population": -1,
+        "latitude": -22.2724,
+        "longitude": 166.627782
+    },
+    {
+        "name": "Léoni",
+        "country": "New Caledonia",
+        "province": "South Province",
+        "population": -1,
+        "latitude": -22.290648,
+        "longitude": 166.601869
+    },
+    {
+        "name": "Bellevue",
+        "country": "New Caledonia",
+        "province": "South Province",
+        "population": -1,
+        "latitude": -22.284316,
+        "longitude": 166.593925
+    },
+    {
+        "name": "Goélands",
+        "country": "New Caledonia",
+        "province": "South Province",
+        "population": -1,
+        "latitude": -22.288019,
+        "longitude": 166.590878
+    }
+]

@@ -1,0 +1,26 @@
+[
+    {
+        "name": "King Edward Point",
+        "country": "South Georgia and South Sandwich Islands",
+        "province": "South Georgia and South Sandwich Islands",
+        "population": 22,
+        "latitude": -54.28298,
+        "longitude": -36.49398
+    },
+    {
+        "name": "Grytviken",
+        "country": "South Georgia and South Sandwich Islands",
+        "province": "GS,GB",
+        "population": 2,
+        "latitude": -54.2811116049432,
+        "longitude": -36.5091991424561
+    },
+    {
+        "name": "Stromness",
+        "country": "South Georgia and South Sandwich Islands",
+        "province": "South Georgia and South Sandwich Islands",
+        "population": -1,
+        "latitude": -54.1561111,
+        "longitude": -36.7161111
+    }
+]

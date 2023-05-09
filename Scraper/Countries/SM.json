@@ -1,0 +1,194 @@
+[
+    {
+        "name": "San Marino",
+        "country": "San Marino",
+        "province": "San Marino",
+        "population": 4500,
+        "latitude": 43.936667,
+        "longitude": 12.446389
+    },
+    {
+        "name": "Borgo Maggiore",
+        "country": "San Marino",
+        "province": "Borgo Maggiore",
+        "population": 6424,
+        "latitude": 43.9419270402388,
+        "longitude": 12.4473810195923
+    },
+    {
+        "name": "Serravalle",
+        "country": "San Marino",
+        "province": "Serravalle",
+        "population": 9258,
+        "latitude": 43.96897463596662,
+        "longitude": 12.481670379638672
+    },
+    {
+        "name": "Fiorentino",
+        "country": "San Marino",
+        "province": "Fiorentino",
+        "population": 2510,
+        "latitude": 43.910013284405544,
+        "longitude": 12.457380294799805
+    },
+    {
+        "name": "Faetano",
+        "country": "San Marino",
+        "province": "Faetano",
+        "population": 1177,
+        "latitude": 43.9283136288617,
+        "longitude": 12.497978210449219
+    },
+    {
+        "name": "Acquaviva",
+        "country": "San Marino",
+        "province": "Acquaviva",
+        "population": 1530,
+        "latitude": 43.945928574078486,
+        "longitude": 12.418498992919922
+    },
+    {
+        "name": "Poggio Chiesanuova",
+        "country": "San Marino",
+        "province": "Chiesanuova",
+        "population": 951,
+        "latitude": 43.904509715341135,
+        "longitude": 12.421417236328125
+    },
+    {
+        "name": "Montegiardino",
+        "country": "San Marino",
+        "province": "Montegiardino",
+        "population": 910,
+        "latitude": 43.90877657163917,
+        "longitude": 12.482013702392578
+    },
+    {
+        "name": "Domagnano",
+        "country": "San Marino",
+        "province": "Domagnano",
+        "population": 3161,
+        "latitude": 43.94961,
+        "longitude": 12.46828
+    },
+    {
+        "name": "Falciano",
+        "country": "San Marino",
+        "province": "Serravalle",
+        "population": 1000,
+        "latitude": 43.9833333,
+        "longitude": 12.5
+    },
+    {
+        "name": "Dogana",
+        "country": "San Marino",
+        "province": "Serravalle",
+        "population": -1,
+        "latitude": 43.9803399104441,
+        "longitude": 12.4905109405518
+    },
+    {
+        "name": "Ventoso",
+        "country": "San Marino",
+        "province": "San Marino",
+        "population": -1,
+        "latitude": 43.9546414069898,
+        "longitude": 12.440471649169922
+    },
+    {
+        "name": "Cailungo",
+        "country": "San Marino",
+        "province": "San Marino",
+        "population": -1,
+        "latitude": 43.951860854404934,
+        "longitude": 12.453603744506836
+    },
+    {
+        "name": "Torraccia",
+        "country": "San Marino",
+        "province": "San Marino",
+        "population": 150,
+        "latitude": 43.95241697532966,
+        "longitude": 12.507247924804688
+    },
+    {
+        "name": "Santa Mustiola",
+        "country": "San Marino",
+        "province": "San Marino",
+        "population": -1,
+        "latitude": 43.933876806882296,
+        "longitude": 12.438583374023438
+    },
+    {
+        "name": "Cerbaiola",
+        "country": "San Marino",
+        "province": "Montegiardino",
+        "population": -1,
+        "latitude": 43.90345841393034,
+        "longitude": 12.476831674575806
+    },
+    {
+        "name": "Valdragone",
+        "country": "San Marino",
+        "province": "San Marino",
+        "population": -1,
+        "latitude": 43.94021201471064,
+        "longitude": 12.456221580505371
+    },
+    {
+        "name": "Casole",
+        "country": "San Marino",
+        "province": "San Marino",
+        "population": -1,
+        "latitude": 43.916969314912535,
+        "longitude": 12.444419860839844
+    },
+    {
+        "name": "Cà Rigo",
+        "country": "San Marino",
+        "province": "Borgo Maggiore",
+        "population": -1,
+        "latitude": 43.94277680933282,
+        "longitude": 12.445482015609741
+    },
+    {
+        "name": "Gualdicciolo",
+        "country": "San Marino",
+        "province": "Acquaviva",
+        "population": -1,
+        "latitude": 43.9498216998256,
+        "longitude": 12.4072551727295
+    },
+    {
+        "name": "Murata",
+        "country": "San Marino",
+        "province": "San Marino",
+        "population": -1,
+        "latitude": 43.9201533598047,
+        "longitude": 12.4514579772949
+    },
+    {
+        "name": "Fiorina",
+        "country": "San Marino",
+        "province": "Serravalle",
+        "population": -1,
+        "latitude": 43.95797789836312,
+        "longitude": 12.476863861083984
+    },
+    {
+        "name": "Piandivello",
+        "country": "San Marino",
+        "province": "Domagnano",
+        "population": -1,
+        "latitude": 43.95003,
+        "longitude": 12.48669
+    },
+    {
+        "name": "Lesignano",
+        "country": "San Marino",
+        "province": "San Marino",
+        "population": -1,
+        "latitude": 43.96175,
+        "longitude": 12.4842
+    }
+]

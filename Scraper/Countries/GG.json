@@ -1,0 +1,2074 @@
+[
+    {
+        "name": "St Peter Port",
+        "country": "Guernsey",
+        "province": "GG,GB",
+        "population": 16488,
+        "latitude": 49.45981231002438,
+        "longitude": -2.535266876220703
+    },
+    {
+        "name": "Sark",
+        "country": "Guernsey",
+        "province": "GG,GB",
+        "population": 600,
+        "latitude": 49.4333056844985,
+        "longitude": -2.35622406005859
+    },
+    {
+        "name": "La Seigneurie",
+        "country": "Guernsey",
+        "province": "GG,GB",
+        "population": 170,
+        "latitude": 49.4377778,
+        "longitude": -2.3625
+    },
+    {
+        "name": "St. Sampson",
+        "country": "Guernsey",
+        "province": "GG,GB",
+        "population": 8966,
+        "latitude": 49.4838889,
+        "longitude": -2.5233333
+    },
+    {
+        "name": "Saint Anne",
+        "country": "Guernsey",
+        "province": "GG,GB",
+        "population": -1,
+        "latitude": 49.71549,
+        "longitude": -2.20757
+    },
+    {
+        "name": "Braye du Valle",
+        "country": "Guernsey",
+        "province": "GG,GB",
+        "population": -1,
+        "latitude": 49.4872222,
+        "longitude": -2.5352778
+    },
+    {
+        "name": "St. Saviour",
+        "country": "Guernsey",
+        "province": "GG,GB",
+        "population": -1,
+        "latitude": 49.4569444,
+        "longitude": -2.6358333
+    },
+    {
+        "name": "Torteval",
+        "country": "Guernsey",
+        "province": "GG,GB",
+        "population": -1,
+        "latitude": 49.4333333,
+        "longitude": -2.65
+    },
+    {
+        "name": "Houmets",
+        "country": "Guernsey",
+        "province": "GG,GB",
+        "population": -1,
+        "latitude": 49.4766667,
+        "longitude": -2.5747222
+    },
+    {
+        "name": "St Martin",
+        "country": "Guernsey",
+        "province": "GG,GB",
+        "population": -1,
+        "latitude": 49.437129103234724,
+        "longitude": -2.554793357849121
+    },
+    {
+        "name": "Castel",
+        "country": "Guernsey",
+        "province": "GG,GB",
+        "population": -1,
+        "latitude": 49.46756627540957,
+        "longitude": -2.6001548767089844
+    },
+    {
+        "name": "Saint Andrew",
+        "country": "Guernsey",
+        "province": "GG,GB",
+        "population": -1,
+        "latitude": 49.44389,
+        "longitude": -2.58018
+    },
+    {
+        "name": "Vale",
+        "country": "Guernsey",
+        "province": "GG,GB",
+        "population": -1,
+        "latitude": 49.48577,
+        "longitude": -2.51956
+    },
+    {
+        "name": "La Rochelle",
+        "country": "Guernsey",
+        "province": "GG,GB",
+        "population": -1,
+        "latitude": 49.4994444,
+        "longitude": -2.5088889
+    },
+    {
+        "name": "St. Johns",
+        "country": "Guernsey",
+        "province": "GG,GB",
+        "population": -1,
+        "latitude": 49.465,
+        "longitude": -2.54
+    },
+    {
+        "name": "St. Germain",
+        "country": "Guernsey",
+        "province": "GG,GB",
+        "population": -1,
+        "latitude": 49.4675,
+        "longitude": -2.5958333
+    },
+    {
+        "name": "St. George",
+        "country": "Guernsey",
+        "province": "GG,GB",
+        "population": -1,
+        "latitude": 49.4655556,
+        "longitude": -2.5894444
+    },
+    {
+        "name": "Grandes Rocques",
+        "country": "Guernsey",
+        "province": "GG,GB",
+        "population": -1,
+        "latitude": 49.48658,
+        "longitude": -2.58505
+    },
+    {
+        "name": "La Fregondée",
+        "country": "Guernsey",
+        "province": "GG,GB",
+        "population": -1,
+        "latitude": 49.429722,
+        "longitude": -2.37
+    },
+    {
+        "name": "Mont St",
+        "country": "Guernsey",
+        "province": "GG,GB",
+        "population": -1,
+        "latitude": 49.4569444,
+        "longitude": -2.6236111
+    },
+    {
+        "name": "Rohais Manor",
+        "country": "Guernsey",
+        "province": "GG,GB",
+        "population": -1,
+        "latitude": 49.4591667,
+        "longitude": -2.5630556
+    },
+    {
+        "name": "Paradis",
+        "country": "Guernsey",
+        "province": "GG,GB",
+        "population": -1,
+        "latitude": 49.5,
+        "longitude": -2.516667
+    },
+    {
+        "name": "Les Nicolles",
+        "country": "Guernsey",
+        "province": "GG,GB",
+        "population": -1,
+        "latitude": 49.4305556,
+        "longitude": -2.5813889
+    },
+    {
+        "name": "Le Mont Durand",
+        "country": "Guernsey",
+        "province": "GG,GB",
+        "population": -1,
+        "latitude": 49.4502778,
+        "longitude": -2.5491667
+    },
+    {
+        "name": "La Ville Roussel",
+        "country": "Guernsey",
+        "province": "GG,GB",
+        "population": -1,
+        "latitude": 49.4372222,
+        "longitude": -2.3552778
+    },
+    {
+        "name": "La Ramée",
+        "country": "Guernsey",
+        "province": "GG,GB",
+        "population": -1,
+        "latitude": 49.471389,
+        "longitude": -2.556111
+    },
+    {
+        "name": "King’s Mills",
+        "country": "Guernsey",
+        "province": "GG,GB",
+        "population": -1,
+        "latitude": 49.457778,
+        "longitude": -2.603056
+    },
+    {
+        "name": "Braye",
+        "country": "Guernsey",
+        "province": "GG,GB",
+        "population": -1,
+        "latitude": 49.466667,
+        "longitude": -2.55
+    },
+    {
+        "name": "Hougue Anthan",
+        "country": "Guernsey",
+        "province": "GG,GB",
+        "population": -1,
+        "latitude": 49.4286111,
+        "longitude": -2.6513889
+    },
+    {
+        "name": "Les Fontaines",
+        "country": "Guernsey",
+        "province": "GG,GB",
+        "population": -1,
+        "latitude": 49.4308333,
+        "longitude": -2.6580556
+    },
+    {
+        "name": "Les Simons",
+        "country": "Guernsey",
+        "province": "GG,GB",
+        "population": -1,
+        "latitude": 49.4275,
+        "longitude": -2.6386111
+    },
+    {
+        "name": "Le Planel",
+        "country": "Guernsey",
+        "province": "GG,GB",
+        "population": -1,
+        "latitude": 49.4277778,
+        "longitude": -2.6322222
+    },
+    {
+        "name": "Les Sages",
+        "country": "Guernsey",
+        "province": "GG,GB",
+        "population": -1,
+        "latitude": 49.4341667,
+        "longitude": -2.6394444
+    },
+    {
+        "name": "Le Coudré",
+        "country": "Guernsey",
+        "province": "GG,GB",
+        "population": -1,
+        "latitude": 49.4366667,
+        "longitude": -2.6433333
+    },
+    {
+        "name": "Les Clercs",
+        "country": "Guernsey",
+        "province": "GG,GB",
+        "population": -1,
+        "latitude": 49.4361111,
+        "longitude": -2.65
+    },
+    {
+        "name": "La Lague",
+        "country": "Guernsey",
+        "province": "GG,GB",
+        "population": -1,
+        "latitude": 49.4336111,
+        "longitude": -2.6597222
+    },
+    {
+        "name": "Les Galliennes",
+        "country": "Guernsey",
+        "province": "GG,GB",
+        "population": -1,
+        "latitude": 49.4313889,
+        "longitude": -2.6511111
+    },
+    {
+        "name": "Les Jehans",
+        "country": "Guernsey",
+        "province": "GG,GB",
+        "population": -1,
+        "latitude": 49.4302778,
+        "longitude": -2.6338889
+    },
+    {
+        "name": "Les Falles",
+        "country": "Guernsey",
+        "province": "GG,GB",
+        "population": -1,
+        "latitude": 49.4327778,
+        "longitude": -2.6311111
+    },
+    {
+        "name": "Les Laurens",
+        "country": "Guernsey",
+        "province": "GG,GB",
+        "population": -1,
+        "latitude": 49.4252778,
+        "longitude": -2.6252778
+    },
+    {
+        "name": "Les Bruliaux",
+        "country": "Guernsey",
+        "province": "GG,GB",
+        "population": -1,
+        "latitude": 49.425,
+        "longitude": -2.6161111
+    },
+    {
+        "name": "La Corbière",
+        "country": "Guernsey",
+        "province": "GG,GB",
+        "population": -1,
+        "latitude": 49.4241667,
+        "longitude": -2.6125
+    },
+    {
+        "name": "Les Marchez",
+        "country": "Guernsey",
+        "province": "GG,GB",
+        "population": -1,
+        "latitude": 49.4280556,
+        "longitude": -2.6175
+    },
+    {
+        "name": "La Croix",
+        "country": "Guernsey",
+        "province": "GG,GB",
+        "population": -1,
+        "latitude": 49.4288889,
+        "longitude": -2.6144444
+    },
+    {
+        "name": "Les Heches",
+        "country": "Guernsey",
+        "province": "GG,GB",
+        "population": -1,
+        "latitude": 49.43,
+        "longitude": -2.6172222
+    },
+    {
+        "name": "Le Manoir",
+        "country": "Guernsey",
+        "province": "GG,GB",
+        "population": -1,
+        "latitude": 49.4261111,
+        "longitude": -2.6108333
+    },
+    {
+        "name": "La Roberge",
+        "country": "Guernsey",
+        "province": "GG,GB",
+        "population": -1,
+        "latitude": 49.4236111,
+        "longitude": -2.6038889
+    },
+    {
+        "name": "Le Gouffre",
+        "country": "Guernsey",
+        "province": "GG,GB",
+        "population": -1,
+        "latitude": 49.4213889,
+        "longitude": -2.5955556
+    },
+    {
+        "name": "La Vrangue",
+        "country": "Guernsey",
+        "province": "GG,GB",
+        "population": -1,
+        "latitude": 49.4247222,
+        "longitude": -2.6005556
+    },
+    {
+        "name": "Les Villets",
+        "country": "Guernsey",
+        "province": "GG,GB",
+        "population": -1,
+        "latitude": 49.4247222,
+        "longitude": -2.5966667
+    },
+    {
+        "name": "L’Epinel",
+        "country": "Guernsey",
+        "province": "GG,GB",
+        "population": -1,
+        "latitude": 49.426111,
+        "longitude": -2.601944
+    },
+    {
+        "name": "Le Bigard",
+        "country": "Guernsey",
+        "province": "GG,GB",
+        "population": -1,
+        "latitude": 49.4247222,
+        "longitude": -2.6052778
+    },
+    {
+        "name": "La Villiaze",
+        "country": "Guernsey",
+        "province": "GG,GB",
+        "population": -1,
+        "latitude": 49.4272222,
+        "longitude": -2.6058333
+    },
+    {
+        "name": "Le Landes",
+        "country": "Guernsey",
+        "province": "GG,GB",
+        "population": -1,
+        "latitude": 49.4297222,
+        "longitude": -2.5986111
+    },
+    {
+        "name": "La Planque",
+        "country": "Guernsey",
+        "province": "GG,GB",
+        "population": -1,
+        "latitude": 49.4311111,
+        "longitude": -2.6005556
+    },
+    {
+        "name": "Mont Plaisir",
+        "country": "Guernsey",
+        "province": "GG,GB",
+        "population": -1,
+        "latitude": 49.4302778,
+        "longitude": -2.6036111
+    },
+    {
+        "name": "Les Nouettes",
+        "country": "Guernsey",
+        "province": "GG,GB",
+        "population": -1,
+        "latitude": 49.4311111,
+        "longitude": -2.6061111
+    },
+    {
+        "name": "Le Gron",
+        "country": "Guernsey",
+        "province": "GG,GB",
+        "population": -1,
+        "latitude": 49.4388889,
+        "longitude": -2.6086111
+    },
+    {
+        "name": "Les Bas Courtils",
+        "country": "Guernsey",
+        "province": "GG,GB",
+        "population": -1,
+        "latitude": 49.4394444,
+        "longitude": -2.6019444
+    },
+    {
+        "name": "La Villiaze",
+        "country": "Guernsey",
+        "province": "GG,GB",
+        "population": -1,
+        "latitude": 49.4375,
+        "longitude": -2.5916667
+    },
+    {
+        "name": "Le Bouillon",
+        "country": "Guernsey",
+        "province": "GG,GB",
+        "population": -1,
+        "latitude": 49.4413889,
+        "longitude": -2.5908333
+    },
+    {
+        "name": "Les Vauxbelets",
+        "country": "Guernsey",
+        "province": "GG,GB",
+        "population": -1,
+        "latitude": 49.4422222,
+        "longitude": -2.5875
+    },
+    {
+        "name": "Le Roussel",
+        "country": "Guernsey",
+        "province": "GG,GB",
+        "population": -1,
+        "latitude": 49.4361111,
+        "longitude": -2.5855556
+    },
+    {
+        "name": "Les Pieces",
+        "country": "Guernsey",
+        "province": "GG,GB",
+        "population": -1,
+        "latitude": 49.4333333,
+        "longitude": -2.5830556
+    },
+    {
+        "name": "La Tourgie",
+        "country": "Guernsey",
+        "province": "GG,GB",
+        "population": -1,
+        "latitude": 49.4330556,
+        "longitude": -2.5886111
+    },
+    {
+        "name": "Le Chéne",
+        "country": "Guernsey",
+        "province": "GG,GB",
+        "population": -1,
+        "latitude": 49.4322222,
+        "longitude": -2.5858333
+    },
+    {
+        "name": "Le Bourg",
+        "country": "Guernsey",
+        "province": "GG,GB",
+        "population": -1,
+        "latitude": 49.4313889,
+        "longitude": -2.5925
+    },
+    {
+        "name": "Les Houards",
+        "country": "Guernsey",
+        "province": "GG,GB",
+        "population": -1,
+        "latitude": 49.4216667,
+        "longitude": -2.5944444
+    },
+    {
+        "name": "Le Bordage",
+        "country": "Guernsey",
+        "province": "GG,GB",
+        "population": -1,
+        "latitude": 49.4286111,
+        "longitude": -2.5894444
+    },
+    {
+        "name": "Le Variouf",
+        "country": "Guernsey",
+        "province": "GG,GB",
+        "population": -1,
+        "latitude": 49.4269444,
+        "longitude": -2.5877778
+    },
+    {
+        "name": "Les Fontenelles",
+        "country": "Guernsey",
+        "province": "GG,GB",
+        "population": -1,
+        "latitude": 49.4236111,
+        "longitude": -2.5913889
+    },
+    {
+        "name": "Icart",
+        "country": "Guernsey",
+        "province": "GG,GB",
+        "population": -1,
+        "latitude": 49.4219444,
+        "longitude": -2.5608333
+    },
+    {
+        "name": "Val au Bourg",
+        "country": "Guernsey",
+        "province": "GG,GB",
+        "population": -1,
+        "latitude": 49.4261111,
+        "longitude": -2.5580556
+    },
+    {
+        "name": "La Fosse",
+        "country": "Guernsey",
+        "province": "GG,GB",
+        "population": -1,
+        "latitude": 49.4297222,
+        "longitude": -2.5547222
+    },
+    {
+        "name": "Le Vallon",
+        "country": "Guernsey",
+        "province": "GG,GB",
+        "population": -1,
+        "latitude": 49.4302778,
+        "longitude": -2.545
+    },
+    {
+        "name": "Jerbourg",
+        "country": "Guernsey",
+        "province": "GG,GB",
+        "population": -1,
+        "latitude": 49.4247222,
+        "longitude": -2.5336111
+    },
+    {
+        "name": "La Bouvée",
+        "country": "Guernsey",
+        "province": "GG,GB",
+        "population": -1,
+        "latitude": 49.4288889,
+        "longitude": -2.5369444
+    },
+    {
+        "name": "Village de Putron",
+        "country": "Guernsey",
+        "province": "GG,GB",
+        "population": -1,
+        "latitude": 49.4383333,
+        "longitude": -2.5427778
+    },
+    {
+        "name": "Les Terres",
+        "country": "Guernsey",
+        "province": "GG,GB",
+        "population": -1,
+        "latitude": 49.4497222,
+        "longitude": -2.5366667
+    },
+    {
+        "name": "Salerie",
+        "country": "Guernsey",
+        "province": "GG,GB",
+        "population": -1,
+        "latitude": 49.4616667,
+        "longitude": -2.5341667
+    },
+    {
+        "name": "Longstore",
+        "country": "Guernsey",
+        "province": "GG,GB",
+        "population": -1,
+        "latitude": 49.465,
+        "longitude": -2.5366667
+    },
+    {
+        "name": "Cocagne",
+        "country": "Guernsey",
+        "province": "GG,GB",
+        "population": -1,
+        "latitude": 49.4922222,
+        "longitude": -2.5086111
+    },
+    {
+        "name": "La Miellette",
+        "country": "Guernsey",
+        "province": "GG,GB",
+        "population": -1,
+        "latitude": 49.4988889,
+        "longitude": -2.5044444
+    },
+    {
+        "name": "La Turquie",
+        "country": "Guernsey",
+        "province": "GG,GB",
+        "population": -1,
+        "latitude": 49.4941667,
+        "longitude": -2.5055556
+    },
+    {
+        "name": "Fontenelle",
+        "country": "Guernsey",
+        "province": "GG,GB",
+        "population": -1,
+        "latitude": 49.5016667,
+        "longitude": -2.515
+    },
+    {
+        "name": "La Moye",
+        "country": "Guernsey",
+        "province": "GG,GB",
+        "population": -1,
+        "latitude": 49.4997222,
+        "longitude": -2.5138889
+    },
+    {
+        "name": "La Lande",
+        "country": "Guernsey",
+        "province": "GG,GB",
+        "population": -1,
+        "latitude": 49.5030556,
+        "longitude": -2.5083333
+    },
+    {
+        "name": "Les Mielles",
+        "country": "Guernsey",
+        "province": "GG,GB",
+        "population": -1,
+        "latitude": 49.4988889,
+        "longitude": -2.5202778
+    },
+    {
+        "name": "Clos du Valle",
+        "country": "Guernsey",
+        "province": "GG,GB",
+        "population": -1,
+        "latitude": 49.4966667,
+        "longitude": -2.5180556
+    },
+    {
+        "name": "L’Ancresse",
+        "country": "Guernsey",
+        "province": "GG,GB",
+        "population": -1,
+        "latitude": 49.498056,
+        "longitude": -2.526111
+    },
+    {
+        "name": "Le Marais",
+        "country": "Guernsey",
+        "province": "GG,GB",
+        "population": -1,
+        "latitude": 49.4966667,
+        "longitude": -2.5277778
+    },
+    {
+        "name": "Closios",
+        "country": "Guernsey",
+        "province": "GG,GB",
+        "population": -1,
+        "latitude": 49.4961111,
+        "longitude": -2.5341667
+    },
+    {
+        "name": "Les Hautgards",
+        "country": "Guernsey",
+        "province": "GG,GB",
+        "population": -1,
+        "latitude": 49.4944444,
+        "longitude": -2.525
+    },
+    {
+        "name": "Le Hurel",
+        "country": "Guernsey",
+        "province": "GG,GB",
+        "population": -1,
+        "latitude": 49.495,
+        "longitude": -2.5297222
+    },
+    {
+        "name": "Les Laudes",
+        "country": "Guernsey",
+        "province": "GG,GB",
+        "population": -1,
+        "latitude": 49.4958333,
+        "longitude": -2.52
+    },
+    {
+        "name": "Hougue Moulin",
+        "country": "Guernsey",
+        "province": "GG,GB",
+        "population": -1,
+        "latitude": 49.4930556,
+        "longitude": -2.5144444
+    },
+    {
+        "name": "Bordeaux",
+        "country": "Guernsey",
+        "province": "GG,GB",
+        "population": -1,
+        "latitude": 49.4897222,
+        "longitude": -2.5094444
+    },
+    {
+        "name": "Fortebrie",
+        "country": "Guernsey",
+        "province": "GG,GB",
+        "population": -1,
+        "latitude": 49.4888889,
+        "longitude": -2.5147222
+    },
+    {
+        "name": "Maresquet",
+        "country": "Guernsey",
+        "province": "GG,GB",
+        "population": -1,
+        "latitude": 49.4869444,
+        "longitude": -2.5152778
+    },
+    {
+        "name": "North Side",
+        "country": "Guernsey",
+        "province": "GG,GB",
+        "population": -1,
+        "latitude": 49.4852778,
+        "longitude": -2.5161111
+    },
+    {
+        "name": "Les Monmains",
+        "country": "Guernsey",
+        "province": "GG,GB",
+        "population": -1,
+        "latitude": 49.4833333,
+        "longitude": -2.5141667
+    },
+    {
+        "name": "Le Tertre",
+        "country": "Guernsey",
+        "province": "GG,GB",
+        "population": -1,
+        "latitude": 49.4880556,
+        "longitude": -2.5225
+    },
+    {
+        "name": "The Bridge",
+        "country": "Guernsey",
+        "province": "GG,GB",
+        "population": -1,
+        "latitude": 49.4830556,
+        "longitude": -2.5216667
+    },
+    {
+        "name": "South Side",
+        "country": "Guernsey",
+        "province": "GG,GB",
+        "population": -1,
+        "latitude": 49.4816667,
+        "longitude": -2.5158333
+    },
+    {
+        "name": "La Robergerie",
+        "country": "Guernsey",
+        "province": "GG,GB",
+        "population": -1,
+        "latitude": 49.4811111,
+        "longitude": -2.5263889
+    },
+    {
+        "name": "Bailloterie",
+        "country": "Guernsey",
+        "province": "GG,GB",
+        "population": -1,
+        "latitude": 49.4894444,
+        "longitude": -2.5319444
+    },
+    {
+        "name": "Maraitaine",
+        "country": "Guernsey",
+        "province": "GG,GB",
+        "population": -1,
+        "latitude": 49.4902778,
+        "longitude": -2.5269444
+    },
+    {
+        "name": "Baugy",
+        "country": "Guernsey",
+        "province": "GG,GB",
+        "population": -1,
+        "latitude": 49.4908333,
+        "longitude": -2.5255556
+    },
+    {
+        "name": "Hall",
+        "country": "Guernsey",
+        "province": "GG,GB",
+        "population": -1,
+        "latitude": 49.4902778,
+        "longitude": -2.5227778
+    },
+    {
+        "name": "Friquet",
+        "country": "Guernsey",
+        "province": "GG,GB",
+        "population": -1,
+        "latitude": 49.4908333,
+        "longitude": -2.5313889
+    },
+    {
+        "name": "La Grève",
+        "country": "Guernsey",
+        "province": "GG,GB",
+        "population": -1,
+        "latitude": 49.4933333,
+        "longitude": -2.5336111
+    },
+    {
+        "name": "Ivy Gate",
+        "country": "Guernsey",
+        "province": "GG,GB",
+        "population": -1,
+        "latitude": 49.4927778,
+        "longitude": -2.5369444
+    },
+    {
+        "name": "Les Sauvagees",
+        "country": "Guernsey",
+        "province": "GG,GB",
+        "population": -1,
+        "latitude": 49.4836111,
+        "longitude": -2.5355556
+    },
+    {
+        "name": "La Tonelle",
+        "country": "Guernsey",
+        "province": "GG,GB",
+        "population": -1,
+        "latitude": 49.4741667,
+        "longitude": -2.5305556
+    },
+    {
+        "name": "Bouet",
+        "country": "Guernsey",
+        "province": "GG,GB",
+        "population": -1,
+        "latitude": 49.4680556,
+        "longitude": -2.5411111
+    },
+    {
+        "name": "Amherst",
+        "country": "Guernsey",
+        "province": "GG,GB",
+        "population": -1,
+        "latitude": 49.4636111,
+        "longitude": -2.5436111
+    },
+    {
+        "name": "La Colombelle",
+        "country": "Guernsey",
+        "province": "GG,GB",
+        "population": -1,
+        "latitude": 49.4461111,
+        "longitude": -2.5475
+    },
+    {
+        "name": "Rozel",
+        "country": "Guernsey",
+        "province": "GG,GB",
+        "population": -1,
+        "latitude": 49.4508333,
+        "longitude": -2.5416667
+    },
+    {
+        "name": "Fort George",
+        "country": "Guernsey",
+        "province": "GG,GB",
+        "population": -1,
+        "latitude": 49.4463889,
+        "longitude": -2.54
+    },
+    {
+        "name": "Les Camps du Moulin",
+        "country": "Guernsey",
+        "province": "GG,GB",
+        "population": -1,
+        "latitude": 49.4336111,
+        "longitude": -2.55
+    },
+    {
+        "name": "Courtes Fallaizes",
+        "country": "Guernsey",
+        "province": "GG,GB",
+        "population": -1,
+        "latitude": 49.4311111,
+        "longitude": -2.5425
+    },
+    {
+        "name": "La Beilleuse",
+        "country": "Guernsey",
+        "province": "GG,GB",
+        "population": -1,
+        "latitude": 49.4375,
+        "longitude": -2.555
+    },
+    {
+        "name": "Les Hubits",
+        "country": "Guernsey",
+        "province": "GG,GB",
+        "population": -1,
+        "latitude": 49.4422222,
+        "longitude": -2.5483333
+    },
+    {
+        "name": "Ville au Roi",
+        "country": "Guernsey",
+        "province": "GG,GB",
+        "population": -1,
+        "latitude": 49.4463889,
+        "longitude": -2.5538889
+    },
+    {
+        "name": "Choisi",
+        "country": "Guernsey",
+        "province": "GG,GB",
+        "population": -1,
+        "latitude": 49.4555556,
+        "longitude": -2.5480556
+    },
+    {
+        "name": "Les Quartiers",
+        "country": "Guernsey",
+        "province": "GG,GB",
+        "population": -1,
+        "latitude": 49.4730556,
+        "longitude": -2.5516667
+    },
+    {
+        "name": "Coutanchez",
+        "country": "Guernsey",
+        "province": "GG,GB",
+        "population": -1,
+        "latitude": 49.4716667,
+        "longitude": -2.5491667
+    },
+    {
+        "name": "La Garenne",
+        "country": "Guernsey",
+        "province": "GG,GB",
+        "population": -1,
+        "latitude": 49.4944444,
+        "longitude": -2.54
+    },
+    {
+        "name": "Le Picquerel",
+        "country": "Guernsey",
+        "province": "GG,GB",
+        "population": -1,
+        "latitude": 49.4913889,
+        "longitude": -2.5494444
+    },
+    {
+        "name": "L’Islet",
+        "country": "Guernsey",
+        "province": "GG,GB",
+        "population": -1,
+        "latitude": 49.487778,
+        "longitude": -2.545
+    },
+    {
+        "name": "Les Gigands",
+        "country": "Guernsey",
+        "province": "GG,GB",
+        "population": -1,
+        "latitude": 49.4825,
+        "longitude": -2.5408333
+    },
+    {
+        "name": "Baubigny",
+        "country": "Guernsey",
+        "province": "GG,GB",
+        "population": -1,
+        "latitude": 49.4819444,
+        "longitude": -2.5430556
+    },
+    {
+        "name": "Braeside",
+        "country": "Guernsey",
+        "province": "GG,GB",
+        "population": -1,
+        "latitude": 49.4858333,
+        "longitude": -2.5444444
+    },
+    {
+        "name": "Grand Fort",
+        "country": "Guernsey",
+        "province": "GG,GB",
+        "population": -1,
+        "latitude": 49.4841667,
+        "longitude": -2.5444444
+    },
+    {
+        "name": "Hougue Nicolle",
+        "country": "Guernsey",
+        "province": "GG,GB",
+        "population": -1,
+        "latitude": 49.4769444,
+        "longitude": -2.5466667
+    },
+    {
+        "name": "Grandes Capelles",
+        "country": "Guernsey",
+        "province": "GG,GB",
+        "population": -1,
+        "latitude": 49.4791667,
+        "longitude": -2.5525
+    },
+    {
+        "name": "Hougues Magues",
+        "country": "Guernsey",
+        "province": "GG,GB",
+        "population": -1,
+        "latitude": 49.4813889,
+        "longitude": -2.5491667
+    },
+    {
+        "name": "Les Capelles",
+        "country": "Guernsey",
+        "province": "GG,GB",
+        "population": -1,
+        "latitude": 49.48081,
+        "longitude": -2.55273
+    },
+    {
+        "name": "Les Salines",
+        "country": "Guernsey",
+        "province": "GG,GB",
+        "population": -1,
+        "latitude": 49.485,
+        "longitude": -2.5561111
+    },
+    {
+        "name": "Les Martins",
+        "country": "Guernsey",
+        "province": "GG,GB",
+        "population": -1,
+        "latitude": 49.4877778,
+        "longitude": -2.5563889
+    },
+    {
+        "name": "Le Houmet",
+        "country": "Guernsey",
+        "province": "GG,GB",
+        "population": -1,
+        "latitude": 49.4925,
+        "longitude": -2.5538889
+    },
+    {
+        "name": "Les Dicas",
+        "country": "Guernsey",
+        "province": "GG,GB",
+        "population": -1,
+        "latitude": 49.4944444,
+        "longitude": -2.5555556
+    },
+    {
+        "name": "Rousse",
+        "country": "Guernsey",
+        "province": "GG,GB",
+        "population": -1,
+        "latitude": 49.4969444,
+        "longitude": -2.555
+    },
+    {
+        "name": "Le Vaugrat",
+        "country": "Guernsey",
+        "province": "GG,GB",
+        "population": -1,
+        "latitude": 49.4905556,
+        "longitude": -2.5611111
+    },
+    {
+        "name": "Les Vardes",
+        "country": "Guernsey",
+        "province": "GG,GB",
+        "population": -1,
+        "latitude": 49.4941667,
+        "longitude": -2.5630556
+    },
+    {
+        "name": "Pulais",
+        "country": "Guernsey",
+        "province": "GG,GB",
+        "population": -1,
+        "latitude": 49.4952778,
+        "longitude": -2.5680556
+    },
+    {
+        "name": "La Passèe",
+        "country": "Guernsey",
+        "province": "GG,GB",
+        "population": -1,
+        "latitude": 49.4916667,
+        "longitude": -2.5683333
+    },
+    {
+        "name": "Pleinheaume",
+        "country": "Guernsey",
+        "province": "GG,GB",
+        "population": -1,
+        "latitude": 49.4861111,
+        "longitude": -2.5636111
+    },
+    {
+        "name": "Goubeys",
+        "country": "Guernsey",
+        "province": "GG,GB",
+        "population": -1,
+        "latitude": 49.4841667,
+        "longitude": -2.5727778
+    },
+    {
+        "name": "Les Maingys",
+        "country": "Guernsey",
+        "province": "GG,GB",
+        "population": -1,
+        "latitude": 49.4833333,
+        "longitude": -2.57
+    },
+    {
+        "name": "Vingtaine de l’Epine",
+        "country": "Guernsey",
+        "province": "GG,GB",
+        "population": -1,
+        "latitude": 49.48168,
+        "longitude": -2.57449
+    },
+    {
+        "name": "Grandes Mielles",
+        "country": "Guernsey",
+        "province": "GG,GB",
+        "population": -1,
+        "latitude": 49.4833333,
+        "longitude": -2.5763889
+    },
+    {
+        "name": "Les Genâts",
+        "country": "Guernsey",
+        "province": "GG,GB",
+        "population": -1,
+        "latitude": 49.47674,
+        "longitude": -2.57853
+    },
+    {
+        "name": "Mare de Carteret",
+        "country": "Guernsey",
+        "province": "GG,GB",
+        "population": -1,
+        "latitude": 49.4813889,
+        "longitude": -2.5811111
+    },
+    {
+        "name": "Albècq",
+        "country": "Guernsey",
+        "province": "GG,GB",
+        "population": -1,
+        "latitude": 49.47102,
+        "longitude": -2.60239
+    },
+    {
+        "name": "Les Annevilles",
+        "country": "Guernsey",
+        "province": "GG,GB",
+        "population": -1,
+        "latitude": 49.4788889,
+        "longitude": -2.5622222
+    },
+    {
+        "name": "Camp du Roi",
+        "country": "Guernsey",
+        "province": "GG,GB",
+        "population": -1,
+        "latitude": 49.4766667,
+        "longitude": -2.5616667
+    },
+    {
+        "name": "Les Baissieres",
+        "country": "Guernsey",
+        "province": "GG,GB",
+        "population": -1,
+        "latitude": 49.4669444,
+        "longitude": -2.5630556
+    },
+    {
+        "name": "Les Varendes",
+        "country": "Guernsey",
+        "province": "GG,GB",
+        "population": -1,
+        "latitude": 49.4619444,
+        "longitude": -2.5666667
+    },
+    {
+        "name": "L’Aumone",
+        "country": "Guernsey",
+        "province": "GG,GB",
+        "population": -1,
+        "latitude": 49.463333,
+        "longitude": -2.57
+    },
+    {
+        "name": "La Sergentee",
+        "country": "Guernsey",
+        "province": "GG,GB",
+        "population": -1,
+        "latitude": 49.4658333,
+        "longitude": -2.5738889
+    },
+    {
+        "name": "La Chaumière",
+        "country": "Guernsey",
+        "province": "GG,GB",
+        "population": -1,
+        "latitude": 49.4572222,
+        "longitude": -2.5730556
+    },
+    {
+        "name": "Les Touillets",
+        "country": "Guernsey",
+        "province": "GG,GB",
+        "population": -1,
+        "latitude": 49.4569444,
+        "longitude": -2.5777778
+    },
+    {
+        "name": "Le Preel",
+        "country": "Guernsey",
+        "province": "GG,GB",
+        "population": -1,
+        "latitude": 49.4580556,
+        "longitude": -2.5816667
+    },
+    {
+        "name": "Beaucamps",
+        "country": "Guernsey",
+        "province": "GG,GB",
+        "population": -1,
+        "latitude": 49.4622222,
+        "longitude": -2.5802778
+    },
+    {
+        "name": "Beaucamps de Bas",
+        "country": "Guernsey",
+        "province": "GG,GB",
+        "population": -1,
+        "latitude": 49.4638889,
+        "longitude": -2.5808333
+    },
+    {
+        "name": "Mont Plaisant",
+        "country": "Guernsey",
+        "province": "GG,GB",
+        "population": -1,
+        "latitude": 49.4675,
+        "longitude": -2.5891667
+    },
+    {
+        "name": "Le Villocq",
+        "country": "Guernsey",
+        "province": "GG,GB",
+        "population": -1,
+        "latitude": 49.4680556,
+        "longitude": -2.5758333
+    },
+    {
+        "name": "La Planque",
+        "country": "Guernsey",
+        "province": "GG,GB",
+        "population": -1,
+        "latitude": 49.4675,
+        "longitude": -2.5791667
+    },
+    {
+        "name": "Les Mourains",
+        "country": "Guernsey",
+        "province": "GG,GB",
+        "population": -1,
+        "latitude": 49.4697222,
+        "longitude": -2.5825
+    },
+    {
+        "name": "Pleinmont",
+        "country": "Guernsey",
+        "province": "GG,GB",
+        "population": -1,
+        "latitude": 49.4319444,
+        "longitude": -2.6672222
+    },
+    {
+        "name": "Côbo",
+        "country": "Guernsey",
+        "province": "GG,GB",
+        "population": -1,
+        "latitude": 49.47426,
+        "longitude": -2.59273
+    },
+    {
+        "name": "Blanches Rocques",
+        "country": "Guernsey",
+        "province": "GG,GB",
+        "population": -1,
+        "latitude": 49.4691667,
+        "longitude": -2.5911111
+    },
+    {
+        "name": "Le Tertre",
+        "country": "Guernsey",
+        "province": "GG,GB",
+        "population": -1,
+        "latitude": 49.4688889,
+        "longitude": -2.5938889
+    },
+    {
+        "name": "Vazon",
+        "country": "Guernsey",
+        "province": "GG,GB",
+        "population": -1,
+        "latitude": 49.4627778,
+        "longitude": -2.6125
+    },
+    {
+        "name": "Le Gele",
+        "country": "Guernsey",
+        "province": "GG,GB",
+        "population": -1,
+        "latitude": 49.4605556,
+        "longitude": -2.6127778
+    },
+    {
+        "name": "Hall",
+        "country": "Guernsey",
+        "province": "GG,GB",
+        "population": -1,
+        "latitude": 49.4588889,
+        "longitude": -2.6113889
+    },
+    {
+        "name": "Les Lohiers",
+        "country": "Guernsey",
+        "province": "GG,GB",
+        "population": -1,
+        "latitude": 49.4488889,
+        "longitude": -2.6108333
+    },
+    {
+        "name": "Neuf Chemin",
+        "country": "Guernsey",
+        "province": "GG,GB",
+        "population": -1,
+        "latitude": 49.4488889,
+        "longitude": -2.6152778
+    },
+    {
+        "name": "Les Buttes",
+        "country": "Guernsey",
+        "province": "GG,GB",
+        "population": -1,
+        "latitude": 49.4441667,
+        "longitude": -2.6116667
+    },
+    {
+        "name": "Sous l’Eglise",
+        "country": "Guernsey",
+        "province": "GG,GB",
+        "population": -1,
+        "latitude": 49.444167,
+        "longitude": -2.616667
+    },
+    {
+        "name": "Les Brehauts",
+        "country": "Guernsey",
+        "province": "GG,GB",
+        "population": -1,
+        "latitude": 49.4355556,
+        "longitude": -2.6216667
+    },
+    {
+        "name": "Les Islets",
+        "country": "Guernsey",
+        "province": "GG,GB",
+        "population": -1,
+        "latitude": 49.44,
+        "longitude": -2.6283333
+    },
+    {
+        "name": "L’Eclet",
+        "country": "Guernsey",
+        "province": "GG,GB",
+        "population": -1,
+        "latitude": 49.442778,
+        "longitude": -2.631944
+    },
+    {
+        "name": "Les Clos Landais",
+        "country": "Guernsey",
+        "province": "GG,GB",
+        "population": -1,
+        "latitude": 49.4475,
+        "longitude": -2.6305556
+    },
+    {
+        "name": "Les Padins",
+        "country": "Guernsey",
+        "province": "GG,GB",
+        "population": -1,
+        "latitude": 49.4475,
+        "longitude": -2.6241667
+    },
+    {
+        "name": "Les Vinaires",
+        "country": "Guernsey",
+        "province": "GG,GB",
+        "population": -1,
+        "latitude": 49.4411111,
+        "longitude": -2.6347222
+    },
+    {
+        "name": "L’Erée",
+        "country": "Guernsey",
+        "province": "GG,GB",
+        "population": -1,
+        "latitude": 49.454167,
+        "longitude": -2.651667
+    },
+    {
+        "name": "Rocque Poisson",
+        "country": "Guernsey",
+        "province": "GG,GB",
+        "population": -1,
+        "latitude": 49.4508333,
+        "longitude": -2.6497222
+    },
+    {
+        "name": "Les Marais",
+        "country": "Guernsey",
+        "province": "GG,GB",
+        "population": -1,
+        "latitude": 49.4508333,
+        "longitude": -2.6461111
+    },
+    {
+        "name": "Claire Mare",
+        "country": "Guernsey",
+        "province": "GG,GB",
+        "population": -1,
+        "latitude": 49.4561111,
+        "longitude": -2.6461111
+    },
+    {
+        "name": "Les Adams",
+        "country": "Guernsey",
+        "province": "GG,GB",
+        "population": -1,
+        "latitude": 49.4536111,
+        "longitude": -2.6461111
+    },
+    {
+        "name": "La Rocque",
+        "country": "Guernsey",
+        "province": "GG,GB",
+        "population": -1,
+        "latitude": 49.4597222,
+        "longitude": -2.6463889
+    },
+    {
+        "name": "Le Catioroc",
+        "country": "Guernsey",
+        "province": "GG,GB",
+        "population": -1,
+        "latitude": 49.4577778,
+        "longitude": -2.6411111
+    },
+    {
+        "name": "Richmond",
+        "country": "Guernsey",
+        "province": "GG,GB",
+        "population": -1,
+        "latitude": 49.4622222,
+        "longitude": -2.6280556
+    },
+    {
+        "name": "Perelle",
+        "country": "Guernsey",
+        "province": "GG,GB",
+        "population": -1,
+        "latitude": 49.4580556,
+        "longitude": -2.6358333
+    },
+    {
+        "name": "Le Marais",
+        "country": "Guernsey",
+        "province": "GG,GB",
+        "population": -1,
+        "latitude": 49.46,
+        "longitude": -2.6222222
+    },
+    {
+        "name": "Les Martins",
+        "country": "Guernsey",
+        "province": "GG,GB",
+        "population": -1,
+        "latitude": 49.4297222,
+        "longitude": -2.6266667
+    },
+    {
+        "name": "Le Pont",
+        "country": "Guernsey",
+        "province": "GG,GB",
+        "population": -1,
+        "latitude": 49.4333333,
+        "longitude": -2.6263889
+    },
+    {
+        "name": "Les Buttes",
+        "country": "Guernsey",
+        "province": "GG,GB",
+        "population": -1,
+        "latitude": 49.4352778,
+        "longitude": -2.6269444
+    },
+    {
+        "name": "Les Reveaux",
+        "country": "Guernsey",
+        "province": "GG,GB",
+        "population": -1,
+        "latitude": 49.4383333,
+        "longitude": -2.6316667
+    },
+    {
+        "name": "La Hougue Falle",
+        "country": "Guernsey",
+        "province": "GG,GB",
+        "population": -1,
+        "latitude": 49.4363889,
+        "longitude": -2.6338889
+    },
+    {
+        "name": "Le Douit",
+        "country": "Guernsey",
+        "province": "GG,GB",
+        "population": -1,
+        "latitude": 49.4438889,
+        "longitude": -2.6405556
+    },
+    {
+        "name": "Les Arquets",
+        "country": "Guernsey",
+        "province": "GG,GB",
+        "population": -1,
+        "latitude": 49.4425,
+        "longitude": -2.6433333
+    },
+    {
+        "name": "La Pomare",
+        "country": "Guernsey",
+        "province": "GG,GB",
+        "population": -1,
+        "latitude": 49.4472222,
+        "longitude": -2.6447222
+    },
+    {
+        "name": "La Saline",
+        "country": "Guernsey",
+        "province": "GG,GB",
+        "population": -1,
+        "latitude": 49.4463889,
+        "longitude": -2.6486111
+    },
+    {
+        "name": "Le Câtillion",
+        "country": "Guernsey",
+        "province": "GG,GB",
+        "population": -1,
+        "latitude": 49.4416667,
+        "longitude": -2.65
+    },
+    {
+        "name": "La Houguette",
+        "country": "Guernsey",
+        "province": "GG,GB",
+        "population": -1,
+        "latitude": 49.45,
+        "longitude": -2.6391667
+    },
+    {
+        "name": "Les Paysans",
+        "country": "Guernsey",
+        "province": "GG,GB",
+        "population": -1,
+        "latitude": 49.4461111,
+        "longitude": -2.6358333
+    },
+    {
+        "name": "Frie Baton",
+        "country": "Guernsey",
+        "province": "GG,GB",
+        "population": -1,
+        "latitude": 49.4513889,
+        "longitude": -2.6302778
+    },
+    {
+        "name": "Girouette",
+        "country": "Guernsey",
+        "province": "GG,GB",
+        "population": -1,
+        "latitude": 49.4544444,
+        "longitude": -2.6336111
+    },
+    {
+        "name": "Groignêt",
+        "country": "Guernsey",
+        "province": "GG,GB",
+        "population": -1,
+        "latitude": 49.4566667,
+        "longitude": -2.5955556
+    },
+    {
+        "name": "La Porte",
+        "country": "Guernsey",
+        "province": "GG,GB",
+        "population": -1,
+        "latitude": 49.4594444,
+        "longitude": -2.5972222
+    },
+    {
+        "name": "Les Grantez",
+        "country": "Guernsey",
+        "province": "GG,GB",
+        "population": -1,
+        "latitude": 49.4516667,
+        "longitude": -2.5983333
+    },
+    {
+        "name": "Les Jaonnets",
+        "country": "Guernsey",
+        "province": "GG,GB",
+        "population": -1,
+        "latitude": 49.4488889,
+        "longitude": -2.5966667
+    },
+    {
+        "name": "Fauxquets",
+        "country": "Guernsey",
+        "province": "GG,GB",
+        "population": -1,
+        "latitude": 49.4491667,
+        "longitude": -2.5925
+    },
+    {
+        "name": "Camptréhard",
+        "country": "Guernsey",
+        "province": "GG,GB",
+        "population": -1,
+        "latitude": 49.4488889,
+        "longitude": -2.58
+    },
+    {
+        "name": "Les Niaux",
+        "country": "Guernsey",
+        "province": "GG,GB",
+        "population": -1,
+        "latitude": 49.4511111,
+        "longitude": -2.5819444
+    },
+    {
+        "name": "Les Gouies",
+        "country": "Guernsey",
+        "province": "GG,GB",
+        "population": -1,
+        "latitude": 49.4416667,
+        "longitude": -2.5755556
+    },
+    {
+        "name": "Four Cabot",
+        "country": "Guernsey",
+        "province": "GG,GB",
+        "population": -1,
+        "latitude": 49.4458333,
+        "longitude": -2.5738889
+    },
+    {
+        "name": "Les Pages",
+        "country": "Guernsey",
+        "province": "GG,GB",
+        "population": -1,
+        "latitude": 49.4325,
+        "longitude": -2.5719444
+    },
+    {
+        "name": "Hatnez",
+        "country": "Guernsey",
+        "province": "GG,GB",
+        "population": -1,
+        "latitude": 49.4341667,
+        "longitude": -2.5786111
+    },
+    {
+        "name": "La Villette",
+        "country": "Guernsey",
+        "province": "GG,GB",
+        "population": -1,
+        "latitude": 49.4313889,
+        "longitude": -2.5683333
+    },
+    {
+        "name": "Mouilpied",
+        "country": "Guernsey",
+        "province": "GG,GB",
+        "population": -1,
+        "latitude": 49.4366667,
+        "longitude": -2.5680556
+    },
+    {
+        "name": "Carmel",
+        "country": "Guernsey",
+        "province": "GG,GB",
+        "population": -1,
+        "latitude": 49.44,
+        "longitude": -2.5597222
+    },
+    {
+        "name": "Les Hurlaux",
+        "country": "Guernsey",
+        "province": "GG,GB",
+        "population": -1,
+        "latitude": 49.4438889,
+        "longitude": -2.5619444
+    },
+    {
+        "name": "La Monnaie",
+        "country": "Guernsey",
+        "province": "GG,GB",
+        "population": -1,
+        "latitude": 49.4527778,
+        "longitude": -2.5716667
+    },
+    {
+        "name": "Le Foulon",
+        "country": "Guernsey",
+        "province": "GG,GB",
+        "population": -1,
+        "latitude": 49.4588889,
+        "longitude": -2.5572222
+    },
+    {
+        "name": "Woodlands",
+        "country": "Guernsey",
+        "province": "GG,GB",
+        "population": -1,
+        "latitude": 49.4577778,
+        "longitude": -2.5875
+    },
+    {
+        "name": "Saumarez",
+        "country": "Guernsey",
+        "province": "GG,GB",
+        "population": -1,
+        "latitude": 49.4666667,
+        "longitude": -2.6
+    },
+    {
+        "name": "Roque Tourgis",
+        "country": "Guernsey",
+        "province": "GG,GB",
+        "population": -1,
+        "latitude": 49.716667,
+        "longitude": -2.216667
+    },
+    {
+        "name": "Hautnez",
+        "country": "Guernsey",
+        "province": "GG,GB",
+        "population": -1,
+        "latitude": 49.4333333,
+        "longitude": -2.6
+    },
+    {
+        "name": "Calais",
+        "country": "Guernsey",
+        "province": "GG,GB",
+        "population": -1,
+        "latitude": 49.4336111,
+        "longitude": -2.5397222
+    },
+    {
+        "name": "Braye",
+        "country": "Guernsey",
+        "province": "GG,GB",
+        "population": -1,
+        "latitude": 49.72215,
+        "longitude": -2.20212
+    },
+    {
+        "name": "Beauregard",
+        "country": "Guernsey",
+        "province": "GG,GB",
+        "population": -1,
+        "latitude": 49.4302778,
+        "longitude": -2.3694444
+    },
+    {
+        "name": "Bailiffs Cross",
+        "country": "Guernsey",
+        "province": "GG,GB",
+        "population": -1,
+        "latitude": 49.4491667,
+        "longitude": -2.5633333
+    },
+    {
+        "name": "Saint Martin",
+        "country": "Guernsey",
+        "province": "GG,GB",
+        "population": -1,
+        "latitude": 49.44234744921032,
+        "longitude": -2.571272850036621
+    },
+    {
+        "name": "Herm",
+        "country": "Guernsey",
+        "province": "GG,GB",
+        "population": -1,
+        "latitude": 49.46963007379906,
+        "longitude": -2.4528908729553223
+    },
+    {
+        "name": "Le Fort",
+        "country": "Guernsey",
+        "province": "GG,GB",
+        "population": -1,
+        "latitude": 49.4422222,
+        "longitude": -2.3583333
+    },
+    {
+        "name": "Le Grand Fort",
+        "country": "Guernsey",
+        "province": "GG,GB",
+        "population": -1,
+        "latitude": 49.4413889,
+        "longitude": -2.3591667
+    },
+    {
+        "name": "La Tour",
+        "country": "Guernsey",
+        "province": "GG,GB",
+        "population": -1,
+        "latitude": 49.4416667,
+        "longitude": -2.3597222
+    },
+    {
+        "name": "La Génétière",
+        "country": "Guernsey",
+        "province": "GG,GB",
+        "population": -1,
+        "latitude": 49.4394444,
+        "longitude": -2.3575
+    },
+    {
+        "name": "Duval",
+        "country": "Guernsey",
+        "province": "GG,GB",
+        "population": -1,
+        "latitude": 49.4138889,
+        "longitude": -2.3772222
+    },
+    {
+        "name": "La Donnellerie",
+        "country": "Guernsey",
+        "province": "GG,GB",
+        "population": -1,
+        "latitude": 49.4133333,
+        "longitude": -2.3761111
+    },
+    {
+        "name": "Le Clos Bourel",
+        "country": "Guernsey",
+        "province": "GG,GB",
+        "population": -1,
+        "latitude": 49.4247222,
+        "longitude": -2.3630556
+    },
+    {
+        "name": "Le Dos d’Âne",
+        "country": "Guernsey",
+        "province": "GG,GB",
+        "population": -1,
+        "latitude": 49.425833,
+        "longitude": -2.365833
+    },
+    {
+        "name": "La Forge",
+        "country": "Guernsey",
+        "province": "GG,GB",
+        "population": -1,
+        "latitude": 49.4291667,
+        "longitude": -2.3508333
+    },
+    {
+        "name": "La Collinette",
+        "country": "Guernsey",
+        "province": "GG,GB",
+        "population": -1,
+        "latitude": 49.4316667,
+        "longitude": -2.3533333
+    },
+    {
+        "name": "La Vaurocque",
+        "country": "Guernsey",
+        "province": "GG,GB",
+        "population": -1,
+        "latitude": 49.43054,
+        "longitude": -2.36558
+    },
+    {
+        "name": "Saye Farm",
+        "country": "Guernsey",
+        "province": "GG,GB",
+        "population": -1,
+        "latitude": 49.72861,
+        "longitude": -2.1798
+    },
+    {
+        "name": "Crabby",
+        "country": "Guernsey",
+        "province": "GG,GB",
+        "population": -1,
+        "latitude": 49.72058,
+        "longitude": -2.2089
+    },
+    {
+        "name": "Newtown",
+        "country": "Guernsey",
+        "province": "GG,GB",
+        "population": -1,
+        "latitude": 49.7191667,
+        "longitude": -2.1997222
+    },
+    {
+        "name": "Butes",
+        "country": "Guernsey",
+        "province": "GG,GB",
+        "population": -1,
+        "latitude": 49.7181,
+        "longitude": -2.20735
+    },
+    {
+        "name": "La Picaterre",
+        "country": "Guernsey",
+        "province": "GG,GB",
+        "population": -1,
+        "latitude": 49.7191,
+        "longitude": -2.21164
+    },
+    {
+        "name": "Rose Farm",
+        "country": "Guernsey",
+        "province": "GG,GB",
+        "population": -1,
+        "latitude": 49.71066,
+        "longitude": -2.21958
+    },
+    {
+        "name": "Carteret",
+        "country": "Guernsey",
+        "province": "GG,GB",
+        "population": -1,
+        "latitude": 49.48,
+        "longitude": -2.58788
+    },
+    {
+        "name": "Vale Village",
+        "country": "Guernsey",
+        "province": "GG,GB",
+        "population": -1,
+        "latitude": 49.48226,
+        "longitude": -2.56492
+    },
+    {
+        "name": "Delancey",
+        "country": "Guernsey",
+        "province": "GG,GB",
+        "population": -1,
+        "latitude": 49.47774,
+        "longitude": -2.52497
+    },
+    {
+        "name": "Les Rouvets",
+        "country": "Guernsey",
+        "province": "GG,GB",
+        "population": -1,
+        "latitude": 49.48084,
+        "longitude": -2.56501
+    }
+]

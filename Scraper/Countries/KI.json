@@ -1,0 +1,1658 @@
+[
+    {
+        "name": "Tarawa",
+        "country": "Kiribati",
+        "province": "Gilbert Islands",
+        "population": 40311,
+        "latitude": 1.3277999013685535,
+        "longitude": 172.97695755958557
+    },
+    {
+        "name": "Teaoraereke Village",
+        "country": "Kiribati",
+        "province": "Gilbert Islands",
+        "population": 3939,
+        "latitude": 1.33308779161521,
+        "longitude": 173.011622428894
+    },
+    {
+        "name": "Betio Village",
+        "country": "Kiribati",
+        "province": "Gilbert Islands",
+        "population": 12509,
+        "latitude": 1.35797182779281,
+        "longitude": 172.921049594879
+    },
+    {
+        "name": "Bairiki Village",
+        "country": "Kiribati",
+        "province": "Gilbert Islands",
+        "population": 2766,
+        "latitude": 1.32923717894639,
+        "longitude": 172.975219488144
+    },
+    {
+        "name": "Bikenibeu Village",
+        "country": "Kiribati",
+        "province": "Gilbert Islands",
+        "population": 6170,
+        "latitude": 1.3673032755621,
+        "longitude": 173.124146461487
+    },
+    {
+        "name": "Eita Village",
+        "country": "Kiribati",
+        "province": "Gilbert Islands",
+        "population": 2299,
+        "latitude": 1.36154352413924,
+        "longitude": 173.081134557724
+    },
+    {
+        "name": "Bonriki Village",
+        "country": "Kiribati",
+        "province": "Gilbert Islands",
+        "population": 2119,
+        "latitude": 1.3808069960282,
+        "longitude": 173.138866424561
+    },
+    {
+        "name": "Tabwakea Village",
+        "country": "Kiribati",
+        "province": "Line Islands",
+        "population": 1881,
+        "latitude": 2.01643313819976,
+        "longitude": -157.487726211548
+    },
+    {
+        "name": "Temaiku Village",
+        "country": "Kiribati",
+        "province": "Gilbert Islands",
+        "population": 2011,
+        "latitude": 1.36292178993372,
+        "longitude": 173.162260651588
+    },
+    {
+        "name": "Makin Village",
+        "country": "Kiribati",
+        "province": "Gilbert Islands",
+        "population": 1834,
+        "latitude": 3.36440351561738,
+        "longitude": 172.983518242836
+    },
+    {
+        "name": "Rawannawi Village",
+        "country": "Kiribati",
+        "province": "Gilbert Islands",
+        "population": 1075,
+        "latitude": 2.05378882550443,
+        "longitude": 173.263535499573
+    },
+    {
+        "name": "London Village",
+        "country": "Kiribati",
+        "province": "Line Islands",
+        "population": 1829,
+        "latitude": 1.98486669889752,
+        "longitude": -157.475023269653
+    },
+    {
+        "name": "Ambo Village",
+        "country": "Kiribati",
+        "province": "Gilbert Islands",
+        "population": 1688,
+        "latitude": 1.3531666544137,
+        "longitude": 173.042585849762
+    },
+    {
+        "name": "Utiroa Village",
+        "country": "Kiribati",
+        "province": "Gilbert Islands",
+        "population": 571,
+        "latitude": -1.21424167977587,
+        "longitude": 174.75866317749
+    },
+    {
+        "name": "Toboiaki Village",
+        "country": "Kiribati",
+        "province": "Gilbert Islands",
+        "population": 668,
+        "latitude": -0.73841852161333,
+        "longitude": 174.454216361046
+    },
+    {
+        "name": "Ubanteman Village",
+        "country": "Kiribati",
+        "province": "Gilbert Islands",
+        "population": 112,
+        "latitude": 1.93500679862851,
+        "longitude": 172.931408286095
+    },
+    {
+        "name": "Teteirio Village",
+        "country": "Kiribati",
+        "province": "Gilbert Islands",
+        "population": 74,
+        "latitude": -1.34312724363687,
+        "longitude": 175.99925994873
+    },
+    {
+        "name": "Terikiai Village",
+        "country": "Kiribati",
+        "province": "Gilbert Islands",
+        "population": 255,
+        "latitude": -1.16466368633969,
+        "longitude": 174.718810915947
+    },
+    {
+        "name": "Matang Village",
+        "country": "Kiribati",
+        "province": "Gilbert Islands",
+        "population": 548,
+        "latitude": -0.670579859254819,
+        "longitude": 174.449543952942
+    },
+    {
+        "name": "Tebunginako Village",
+        "country": "Kiribati",
+        "province": "Gilbert Islands",
+        "population": 358,
+        "latitude": 1.91656898481175,
+        "longitude": 172.945876121521
+    },
+    {
+        "name": "Tebikerai Village",
+        "country": "Kiribati",
+        "province": "Gilbert Islands",
+        "population": 75,
+        "latitude": 1.00788729468427,
+        "longitude": 173.003921806812
+    },
+    {
+        "name": "Tanaeang Village",
+        "country": "Kiribati",
+        "province": "Gilbert Islands",
+        "population": 514,
+        "latitude": -1.13765392980752,
+        "longitude": 174.677413702011
+    },
+    {
+        "name": "Takarano Village",
+        "country": "Kiribati",
+        "province": "Gilbert Islands",
+        "population": 300,
+        "latitude": 1.94986842073772,
+        "longitude": 172.912273406982
+    },
+    {
+        "name": "Tabutoa Village",
+        "country": "Kiribati",
+        "province": "Gilbert Islands",
+        "population": 139,
+        "latitude": -1.331757775663,
+        "longitude": 176.423740983009
+    },
+    {
+        "name": "Taburao Village",
+        "country": "Kiribati",
+        "province": "Gilbert Islands",
+        "population": 221,
+        "latitude": 1.85372131276517,
+        "longitude": 172.997444272041
+    },
+    {
+        "name": "Tabukiniberu Village",
+        "country": "Kiribati",
+        "province": "Gilbert Islands",
+        "population": 97,
+        "latitude": -1.33780719725579,
+        "longitude": 175.984486341476
+    },
+    {
+        "name": "Taborio Village",
+        "country": "Kiribati",
+        "province": "Gilbert Islands",
+        "population": 845,
+        "latitude": 1.52008698582604,
+        "longitude": 173.003023266792
+    },
+    {
+        "name": "Tabontebike Village",
+        "country": "Kiribati",
+        "province": "Gilbert Islands",
+        "population": 391,
+        "latitude": 1.72545096110577,
+        "longitude": 172.989649772644
+    },
+    {
+        "name": "Tabomatang Village",
+        "country": "Kiribati",
+        "province": "Gilbert Islands",
+        "population": 87,
+        "latitude": -1.39711003520948,
+        "longitude": 176.481180489063
+    },
+    {
+        "name": "Taboiaki Village",
+        "country": "Kiribati",
+        "province": "Gilbert Islands",
+        "population": 349,
+        "latitude": -1.36804335435313,
+        "longitude": 176.013615131378
+    },
+    {
+        "name": "Tabiauea Village",
+        "country": "Kiribati",
+        "province": "Gilbert Islands",
+        "population": 183,
+        "latitude": 0.927462006842221,
+        "longitude": 173.027721047401
+    },
+    {
+        "name": "Rungata",
+        "country": "Kiribati",
+        "province": "Gilbert Islands",
+        "population": 933,
+        "latitude": -1.34244078668914,
+        "longitude": 176.43566608429
+    },
+    {
+        "name": "Roreti Village",
+        "country": "Kiribati",
+        "province": "Gilbert Islands",
+        "population": 764,
+        "latitude": -2.6551227672483,
+        "longitude": 176.833019256592
+    },
+    {
+        "name": "Nuka Village",
+        "country": "Kiribati",
+        "province": "Gilbert Islands",
+        "population": 348,
+        "latitude": -1.33044652939459,
+        "longitude": 175.995126664639
+    },
+    {
+        "name": "Nikumanu Village",
+        "country": "Kiribati",
+        "province": "Gilbert Islands",
+        "population": 316,
+        "latitude": -1.38369221311699,
+        "longitude": 176.474311351776
+    },
+    {
+        "name": "Muribenua Village",
+        "country": "Kiribati",
+        "province": "Gilbert Islands",
+        "population": 240,
+        "latitude": -1.32417452585729,
+        "longitude": 176.415812373161
+    },
+    {
+        "name": "Morikao Village",
+        "country": "Kiribati",
+        "province": "Gilbert Islands",
+        "population": 400,
+        "latitude": 1.8601820418174173,
+        "longitude": 172.99072265625
+    },
+    {
+        "name": "Marenanuka Village",
+        "country": "Kiribati",
+        "province": "Gilbert Islands",
+        "population": 71,
+        "latitude": 1.48734581111945,
+        "longitude": 173.026371896267
+    },
+    {
+        "name": "Manriki Village",
+        "country": "Kiribati",
+        "province": "Gilbert Islands",
+        "population": 197,
+        "latitude": -1.35566577479429,
+        "longitude": 176.450981497765
+    },
+    {
+        "name": "Koinawa Village",
+        "country": "Kiribati",
+        "province": "Gilbert Islands",
+        "population": 453,
+        "latitude": 1.8655007321306134,
+        "longitude": 172.98774003982544
+    },
+    {
+        "name": "Aiaki",
+        "country": "Kiribati",
+        "province": "Gilbert Islands",
+        "population": 186,
+        "latitude": -1.89417419969938,
+        "longitude": 175.615071058273
+    },
+    {
+        "name": "Buariki Village",
+        "country": "Kiribati",
+        "province": "Gilbert Islands",
+        "population": 597,
+        "latitude": 1.60909239198686,
+        "longitude": 172.955263853073
+    },
+    {
+        "name": "Buariki Village",
+        "country": "Kiribati",
+        "province": "Gilbert Islands",
+        "population": 447,
+        "latitude": -1.4779263654324786,
+        "longitude": 175.05640983581543
+    },
+    {
+        "name": "Borotiam Village",
+        "country": "Kiribati",
+        "province": "Gilbert Islands",
+        "population": 338,
+        "latitude": 1.8952089663456055,
+        "longitude": 172.9710218310356
+    },
+    {
+        "name": "Banraeaba Village",
+        "country": "Kiribati",
+        "province": "Gilbert Islands",
+        "population": 1789,
+        "latitude": 1.34539576795919,
+        "longitude": 173.034635782242
+    },
+    {
+        "name": "Autukia Village",
+        "country": "Kiribati",
+        "province": "Gilbert Islands",
+        "population": 163,
+        "latitude": -0.650781108749851,
+        "longitude": 174.437146782875
+    },
+    {
+        "name": "Aonobuaka Village",
+        "country": "Kiribati",
+        "province": "Gilbert Islands",
+        "population": 372,
+        "latitude": 1.8790118488144545,
+        "longitude": 172.98505783081055
+    },
+    {
+        "name": "Antai Village",
+        "country": "Kiribati",
+        "province": "Gilbert Islands",
+        "population": 165,
+        "latitude": 2.03772727271513,
+        "longitude": 173.282187581062
+    },
+    {
+        "name": "Abaokoro Village",
+        "country": "Kiribati",
+        "province": "Gilbert Islands",
+        "population": 294,
+        "latitude": 1.49701725820564,
+        "longitude": 173.01528096199
+    },
+    {
+        "name": "Napia Village",
+        "country": "Kiribati",
+        "province": "Line Islands",
+        "population": 250,
+        "latitude": 3.85489887990235,
+        "longitude": -159.360229969025
+    },
+    {
+        "name": "Matanibike Village",
+        "country": "Kiribati",
+        "province": "Line Islands",
+        "population": 191,
+        "latitude": 4.69048469898086,
+        "longitude": -160.408952236176
+    },
+    {
+        "name": "Tereitannano Village",
+        "country": "Kiribati",
+        "province": "Line Islands",
+        "population": 249,
+        "latitude": 3.83401402310707,
+        "longitude": -159.34752702713
+    },
+    {
+        "name": "Tenenebo Village",
+        "country": "Kiribati",
+        "province": "Line Islands",
+        "population": 461,
+        "latitude": 3.84418354572444,
+        "longitude": -159.352698326111
+    },
+    {
+        "name": "Betania Village",
+        "country": "Kiribati",
+        "province": "Line Islands",
+        "population": 260,
+        "latitude": 3.89526482232045,
+        "longitude": -159.386124014854
+    },
+    {
+        "name": "Tereitaki Village",
+        "country": "Kiribati",
+        "province": "Line Islands",
+        "population": 438,
+        "latitude": 3.90364605274846,
+        "longitude": -159.387502670288
+    },
+    {
+        "name": "Poland Village",
+        "country": "Kiribati",
+        "province": "Line Islands",
+        "population": 235,
+        "latitude": 1.86480372725824,
+        "longitude": -157.55154132843
+    },
+    {
+        "name": "Uteute Village",
+        "country": "Kiribati",
+        "province": "Line Islands",
+        "population": 72,
+        "latitude": 4.69384226307173,
+        "longitude": -160.378139019012
+    },
+    {
+        "name": "Arabata Village",
+        "country": "Kiribati",
+        "province": "Line Islands",
+        "population": 190,
+        "latitude": 4.67951369235671,
+        "longitude": -160.397429466248
+    },
+    {
+        "name": "Aramari Gilberts Village",
+        "country": "Kiribati",
+        "province": "Line Islands",
+        "population": 358,
+        "latitude": 3.81773183041474,
+        "longitude": -159.32555437088
+    },
+    {
+        "name": "Tetabakea",
+        "country": "Kiribati",
+        "province": "Gilbert Islands",
+        "population": -1,
+        "latitude": -0.800339777201683,
+        "longitude": 174.452998638153
+    },
+    {
+        "name": "Tabiang Village",
+        "country": "Kiribati",
+        "province": "Gilbert Islands",
+        "population": 591,
+        "latitude": 0.485892432163336,
+        "longitude": 173.829374313354
+    },
+    {
+        "name": "Buota",
+        "country": "Kiribati",
+        "province": "Gilbert Islands",
+        "population": -1,
+        "latitude": 1.78304852983639,
+        "longitude": 173.044828176498
+    },
+    {
+        "name": "Buariki",
+        "country": "Kiribati",
+        "province": "Gilbert Islands",
+        "population": -1,
+        "latitude": -0.587935262294331,
+        "longitude": 174.364802241325
+    },
+    {
+        "name": "Kabangaki Village",
+        "country": "Kiribati",
+        "province": "Gilbert Islands",
+        "population": 363,
+        "latitude": 0.313731056295055,
+        "longitude": 173.929409980774
+    },
+    {
+        "name": "Baretoa Village",
+        "country": "Kiribati",
+        "province": "Gilbert Islands",
+        "population": 310,
+        "latitude": 0.430120362062516,
+        "longitude": 173.905972838402
+    },
+    {
+        "name": "Autokia Village",
+        "country": "Kiribati",
+        "province": "Gilbert Islands",
+        "population": 204,
+        "latitude": -1.29682315019079,
+        "longitude": 175.970088243484
+    },
+    {
+        "name": "Aubeangai",
+        "country": "Kiribati",
+        "province": "Gilbert Islands",
+        "population": -1,
+        "latitude": -0.686006844360837,
+        "longitude": 174.452741146088
+    },
+    {
+        "name": "former Paris Village",
+        "country": "Kiribati",
+        "province": "Line Islands",
+        "population": -1,
+        "latitude": 1.93324827193584,
+        "longitude": -157.491030693054
+    },
+    {
+        "name": "Napari",
+        "country": "Kiribati",
+        "province": "Line Islands",
+        "population": 194,
+        "latitude": 3.90805606634179,
+        "longitude": -159.388318061829
+    },
+    {
+        "name": "Banana",
+        "country": "Kiribati",
+        "province": "Kiribati",
+        "population": -1,
+        "latitude": 1.96865,
+        "longitude": -157.39361
+    },
+    {
+        "name": "Tebanga Village",
+        "country": "Kiribati",
+        "province": "Gilbert Islands",
+        "population": 287,
+        "latitude": 1.71546155553695,
+        "longitude": 173.00624191761
+    },
+    {
+        "name": "Tebanga Village",
+        "country": "Kiribati",
+        "province": "Gilbert Islands",
+        "population": 246,
+        "latitude": 0.357391304792127,
+        "longitude": 173.935289382935
+    },
+    {
+        "name": "Taratai Village",
+        "country": "Kiribati",
+        "province": "Gilbert Islands",
+        "population": 203,
+        "latitude": 1.54880046174647,
+        "longitude": 172.991827726364
+    },
+    {
+        "name": "Tanimaiaki Village",
+        "country": "Kiribati",
+        "province": "Gilbert Islands",
+        "population": 276,
+        "latitude": 1.7551990238783,
+        "longitude": 173.041673898697
+    },
+    {
+        "name": "Tabuiroa Village",
+        "country": "Kiribati",
+        "province": "Gilbert Islands",
+        "population": 324,
+        "latitude": 1.80710149931074,
+        "longitude": 173.035912513733
+    },
+    {
+        "name": "Tabuarorae Village",
+        "country": "Kiribati",
+        "province": "Gilbert Islands",
+        "population": 246,
+        "latitude": -1.94231967663904,
+        "longitude": 175.576157569885
+    },
+    {
+        "name": "Tabonuea Village",
+        "country": "Kiribati",
+        "province": "Gilbert Islands",
+        "population": 244,
+        "latitude": 3.09612163954311,
+        "longitude": 172.823122143745
+    },
+    {
+        "name": "Antereen Village",
+        "country": "Kiribati",
+        "province": "Gilbert Islands",
+        "population": 108,
+        "latitude": -0.864507533931006,
+        "longitude": 169.52840924263
+    },
+    {
+        "name": "Tabewa Village",
+        "country": "Kiribati",
+        "province": "Gilbert Islands",
+        "population": 58,
+        "latitude": -0.854144643945912,
+        "longitude": 169.522325992584
+    },
+    {
+        "name": "Umwa Village",
+        "country": "Kiribati",
+        "province": "Gilbert Islands",
+        "population": 135,
+        "latitude": -0.870536448653182,
+        "longitude": 169.541916847229
+    },
+    {
+        "name": "Nikutoru Village",
+        "country": "Kiribati",
+        "province": "Gilbert Islands",
+        "population": 168,
+        "latitude": -1.4822271933141,
+        "longitude": 175.068190097809
+    },
+    {
+        "name": "Kuria Village",
+        "country": "Kiribati",
+        "province": "Gilbert Islands",
+        "population": 219,
+        "latitude": 1.8575950722317256,
+        "longitude": 172.99257338047028
+    },
+    {
+        "name": "Keuea Village",
+        "country": "Kiribati",
+        "province": "Gilbert Islands",
+        "population": 221,
+        "latitude": 3.13124420086922,
+        "longitude": 172.904419898987
+    },
+    {
+        "name": "Kariatebike Village",
+        "country": "Kiribati",
+        "province": "Gilbert Islands",
+        "population": 140,
+        "latitude": 0.404564952738393,
+        "longitude": 173.919877409935
+    },
+    {
+        "name": "Buota Village",
+        "country": "Kiribati",
+        "province": "Gilbert Islands",
+        "population": 259,
+        "latitude": 2.0154332934411,
+        "longitude": 173.260070085526
+    },
+    {
+        "name": "Buota Village",
+        "country": "Kiribati",
+        "province": "Gilbert Islands",
+        "population": 1373,
+        "latitude": 1.39078189520514,
+        "longitude": 173.130819797516
+    },
+    {
+        "name": "Nawerewere Village",
+        "country": "Kiribati",
+        "province": "Gilbert Islands",
+        "population": 1780,
+        "latitude": 1.36361896688347,
+        "longitude": 173.139349222183
+    },
+    {
+        "name": "Banana Village",
+        "country": "Kiribati",
+        "province": "Line Islands",
+        "population": 1170,
+        "latitude": 1.98329050551312,
+        "longitude": -157.365256547928
+    },
+    {
+        "name": "Ukiangang Village",
+        "country": "Kiribati",
+        "province": "Gilbert Islands",
+        "population": 338,
+        "latitude": 3.04983168019357,
+        "longitude": 172.76247471571
+    },
+    {
+        "name": "Tuarabu Village",
+        "country": "Kiribati",
+        "province": "Gilbert Islands",
+        "population": 484,
+        "latitude": 1.79807765153104,
+        "longitude": 173.0389970541
+    },
+    {
+        "name": "Tewai Village",
+        "country": "Kiribati",
+        "province": "Gilbert Islands",
+        "population": 331,
+        "latitude": -1.4448440349256,
+        "longitude": 175.011686682701
+    },
+    {
+        "name": "Temotu Village",
+        "country": "Kiribati",
+        "province": "Gilbert Islands",
+        "population": 116,
+        "latitude": 2.03535233656429,
+        "longitude": 173.258471488953
+    },
+    {
+        "name": "Temotu Village",
+        "country": "Kiribati",
+        "province": "Gilbert Islands",
+        "population": 210,
+        "latitude": -0.805515932298082,
+        "longitude": 174.453814029694
+    },
+    {
+        "name": "Katabanga Village",
+        "country": "Kiribati",
+        "province": "Gilbert Islands",
+        "population": 77,
+        "latitude": -1.50087831750096,
+        "longitude": 175.069536566734
+    },
+    {
+        "name": "Tekuanga Village",
+        "country": "Kiribati",
+        "province": "Gilbert Islands",
+        "population": 207,
+        "latitude": 2.03004490453612,
+        "longitude": 173.285497426987
+    },
+    {
+        "name": "Tekatirirake Village",
+        "country": "Kiribati",
+        "province": "Gilbert Islands",
+        "population": 486,
+        "latitude": 0.4666667,
+        "longitude": 173.8666667
+    },
+    {
+        "name": "Tekarakan Village",
+        "country": "Kiribati",
+        "province": "Gilbert Islands",
+        "population": 362,
+        "latitude": 1.99311756420718,
+        "longitude": 173.251905441284
+    },
+    {
+        "name": "Aiwa Village",
+        "country": "Kiribati",
+        "province": "Gilbert Islands",
+        "population": 145,
+        "latitude": -1.3882506344478,
+        "longitude": 174.90226328373
+    },
+    {
+        "name": "Tearinibai Village",
+        "country": "Kiribati",
+        "province": "Gilbert Islands",
+        "population": 317,
+        "latitude": 1.59039395714024,
+        "longitude": 172.969731688499
+    },
+    {
+        "name": "Temanoku Village",
+        "country": "Kiribati",
+        "province": "Gilbert Islands",
+        "population": 289,
+        "latitude": -0.599087289009807,
+        "longitude": 174.378304481506
+    },
+    {
+        "name": "Tabontebike Village",
+        "country": "Kiribati",
+        "province": "Gilbert Islands",
+        "population": 305,
+        "latitude": 0.423511582427323,
+        "longitude": 173.911514282227
+    },
+    {
+        "name": "Tanimaiaki Village",
+        "country": "Kiribati",
+        "province": "Gilbert Islands",
+        "population": 250,
+        "latitude": 3.10105504535936,
+        "longitude": 172.877635359764
+    },
+    {
+        "name": "Tamaroa Village",
+        "country": "Kiribati",
+        "province": "Gilbert Islands",
+        "population": 492,
+        "latitude": -2.63211247125514,
+        "longitude": 176.816250085831
+    },
+    {
+        "name": "Taku Village",
+        "country": "Kiribati",
+        "province": "Gilbert Islands",
+        "population": 158,
+        "latitude": -1.52304173795288,
+        "longitude": 175.06543815136
+    },
+    {
+        "name": "Tabiteuea Village",
+        "country": "Kiribati",
+        "province": "Gilbert Islands",
+        "population": 391,
+        "latitude": 1.42301232806937,
+        "longitude": 173.09987783432
+    },
+    {
+        "name": "Tabiang Village",
+        "country": "Kiribati",
+        "province": "Gilbert Islands",
+        "population": 416,
+        "latitude": -1.29498898847222,
+        "longitude": 175.959348678589
+    },
+    {
+        "name": "Rotuma Village",
+        "country": "Kiribati",
+        "province": "Gilbert Islands",
+        "population": 625,
+        "latitude": -0.631250485163152,
+        "longitude": 174.414331912994
+    },
+    {
+        "name": "Norauea Village",
+        "country": "Kiribati",
+        "province": "Gilbert Islands",
+        "population": 311,
+        "latitude": 1.99980293287728,
+        "longitude": 173.292181491852
+    },
+    {
+        "name": "Rongorongo Village",
+        "country": "Kiribati",
+        "province": "Gilbert Islands",
+        "population": 315,
+        "latitude": -1.32040970721417,
+        "longitude": 175.992232561111
+    },
+    {
+        "name": "Abamakoro Village",
+        "country": "Kiribati",
+        "province": "Gilbert Islands",
+        "population": 210,
+        "latitude": -0.546521303371548,
+        "longitude": 174.248651862144
+    },
+    {
+        "name": "Tekabwibwi Village",
+        "country": "Kiribati",
+        "province": "Gilbert Islands",
+        "population": 145,
+        "latitude": -1.11823849949803,
+        "longitude": 174.663171172142
+    },
+    {
+        "name": "Nuatabu Village",
+        "country": "Kiribati",
+        "province": "Gilbert Islands",
+        "population": 199,
+        "latitude": 1.56146118770092,
+        "longitude": 172.975814938545
+    },
+    {
+        "name": "Benuaroa Village",
+        "country": "Kiribati",
+        "province": "Gilbert Islands",
+        "population": 162,
+        "latitude": -0.563689317438934,
+        "longitude": 174.308475852013
+    },
+    {
+        "name": "Nabeina Village",
+        "country": "Kiribati",
+        "province": "Gilbert Islands",
+        "population": 414,
+        "latitude": 1.43579712100673,
+        "longitude": 173.079181909561
+    },
+    {
+        "name": "Manoku Village",
+        "country": "Kiribati",
+        "province": "Gilbert Islands",
+        "population": 247,
+        "latitude": 0.331975152294452,
+        "longitude": 173.938175439835
+    },
+    {
+        "name": "Kuma Village",
+        "country": "Kiribati",
+        "province": "Gilbert Islands",
+        "population": 635,
+        "latitude": 3.1731519036823,
+        "longitude": 172.959721684456
+    },
+    {
+        "name": "Eriko Village",
+        "country": "Kiribati",
+        "province": "Gilbert Islands",
+        "population": 265,
+        "latitude": -1.35924820036723,
+        "longitude": 176.002242565155
+    },
+    {
+        "name": "Teuabu Village",
+        "country": "Kiribati",
+        "province": "Gilbert Islands",
+        "population": 304,
+        "latitude": -0.581133534220026,
+        "longitude": 174.350913763046
+    },
+    {
+        "name": "Eita Village",
+        "country": "Kiribati",
+        "province": "Gilbert Islands",
+        "population": 814,
+        "latitude": -1.17799684281966,
+        "longitude": 174.727882146835
+    },
+    {
+        "name": "Binoinano",
+        "country": "Kiribati",
+        "province": "Gilbert Islands",
+        "population": 369,
+        "latitude": 0.40867935775129,
+        "longitude": 173.916224241257
+    },
+    {
+        "name": "Aoniman Village",
+        "country": "Kiribati",
+        "province": "Gilbert Islands",
+        "population": 101,
+        "latitude": -1.30922784050996,
+        "longitude": 175.985548496246
+    },
+    {
+        "name": "Abatao Village",
+        "country": "Kiribati",
+        "province": "Gilbert Islands",
+        "population": 421,
+        "latitude": 1.3991425443605783,
+        "longitude": 173.1183636188507
+    },
+    {
+        "name": "Tanekore Village",
+        "country": "Kiribati",
+        "province": "Line Islands",
+        "population": 203,
+        "latitude": 4.69682556283434,
+        "longitude": -160.405572652817
+    },
+    {
+        "name": "Fareturaina - Gilberts Village",
+        "country": "Kiribati",
+        "province": "Line Islands",
+        "population": 152,
+        "latitude": 3.81385660160596,
+        "longitude": -159.311499595642
+    },
+    {
+        "name": "Kanton Village",
+        "country": "Kiribati",
+        "province": "Phoenix Islands",
+        "population": 41,
+        "latitude": -2.77677432485371,
+        "longitude": -171.716791391373
+    },
+    {
+        "name": "Bakaka Village",
+        "country": "Kiribati",
+        "province": "Gilbert Islands",
+        "population": 559,
+        "latitude": -2.50016225160714,
+        "longitude": 175.979797840118
+    },
+    {
+        "name": "Barebuka Village",
+        "country": "Kiribati",
+        "province": "Gilbert Islands",
+        "population": 164,
+        "latitude": -2.49252253066211,
+        "longitude": 175.969825387001
+    },
+    {
+        "name": "Bakarawa Village",
+        "country": "Kiribati",
+        "province": "Gilbert Islands",
+        "population": 152,
+        "latitude": -2.51001262936193,
+        "longitude": 175.987600386143
+    },
+    {
+        "name": "Tekawa Village",
+        "country": "Kiribati",
+        "province": "Gilbert Islands",
+        "population": 164,
+        "latitude": -1.80065398339871,
+        "longitude": 175.525479912758
+    },
+    {
+        "name": "Temao Village",
+        "country": "Kiribati",
+        "province": "Gilbert Islands",
+        "population": 348,
+        "latitude": -1.83356422311853,
+        "longitude": 175.5499792099
+    },
+    {
+        "name": "Tanaeag Village",
+        "country": "Kiribati",
+        "province": "Gilbert Islands",
+        "population": 249,
+        "latitude": -1.80768056822784,
+        "longitude": 175.53625702858
+    },
+    {
+        "name": "Buariki Village",
+        "country": "Kiribati",
+        "province": "Gilbert Islands",
+        "population": 213,
+        "latitude": -1.81801798961169,
+        "longitude": 175.554764270782
+    },
+    {
+        "name": "Otowae Village",
+        "country": "Kiribati",
+        "province": "Gilbert Islands",
+        "population": 238,
+        "latitude": -1.86934497711579,
+        "longitude": 175.583292245865
+    },
+    {
+        "name": "Tekaman Village",
+        "country": "Kiribati",
+        "province": "Gilbert Islands",
+        "population": 248,
+        "latitude": -1.13064400901117,
+        "longitude": 174.663299918175
+    },
+    {
+        "name": "Bangai Village",
+        "country": "Kiribati",
+        "province": "Gilbert Islands",
+        "population": 35,
+        "latitude": -1.3562154736737,
+        "longitude": 174.87231105566
+    },
+    {
+        "name": "Tenatorua Village",
+        "country": "Kiribati",
+        "province": "Gilbert Islands",
+        "population": 122,
+        "latitude": -1.34225844653001,
+        "longitude": 174.851515889168
+    },
+    {
+        "name": "Kabuna Village",
+        "country": "Kiribati",
+        "province": "Gilbert Islands",
+        "population": 204,
+        "latitude": -1.28831734811629,
+        "longitude": 174.798311591148
+    },
+    {
+        "name": "Tauma Village",
+        "country": "Kiribati",
+        "province": "Gilbert Islands",
+        "population": 204,
+        "latitude": -1.23790407320822,
+        "longitude": 174.78422999382
+    },
+    {
+        "name": "Buota Village",
+        "country": "Kiribati",
+        "province": "Gilbert Islands",
+        "population": 343,
+        "latitude": -1.1544411993934,
+        "longitude": 174.70489025116
+    },
+    {
+        "name": "Taungaeaka Village",
+        "country": "Kiribati",
+        "province": "Gilbert Islands",
+        "population": 117,
+        "latitude": -1.45583756882506,
+        "longitude": 175.032712519169
+    },
+    {
+        "name": "Takaeang Village",
+        "country": "Kiribati",
+        "province": "Gilbert Islands",
+        "population": 320,
+        "latitude": 0.170974477699847,
+        "longitude": 173.561829328537
+    },
+    {
+        "name": "Baurua Village",
+        "country": "Kiribati",
+        "province": "Gilbert Islands",
+        "population": 329,
+        "latitude": 0.127200975832128,
+        "longitude": 173.615559339523
+    },
+    {
+        "name": "Buariki Village",
+        "country": "Kiribati",
+        "province": "Gilbert Islands",
+        "population": 509,
+        "latitude": 0.177079157255558,
+        "longitude": 173.637151122093
+    },
+    {
+        "name": "Buariki Village",
+        "country": "Kiribati",
+        "province": "Gilbert Islands",
+        "population": 199,
+        "latitude": 0.214983912506134,
+        "longitude": 173.414951562881
+    },
+    {
+        "name": "Oneeke Village",
+        "country": "Kiribati",
+        "province": "Gilbert Islands",
+        "population": 188,
+        "latitude": 0.251233666717872,
+        "longitude": 173.393212258816
+    },
+    {
+        "name": "Manenaua Village",
+        "country": "Kiribati",
+        "province": "Gilbert Islands",
+        "population": 246,
+        "latitude": 0.246167021621468,
+        "longitude": 173.398740291595
+    },
+    {
+        "name": "Tabontebike Village",
+        "country": "Kiribati",
+        "province": "Gilbert Islands",
+        "population": 119,
+        "latitude": 0.230562064664589,
+        "longitude": 173.41144323349
+    },
+    {
+        "name": "Norauea Village",
+        "country": "Kiribati",
+        "province": "Gilbert Islands",
+        "population": 219,
+        "latitude": 0.206038805826474,
+        "longitude": 173.415319025517
+    },
+    {
+        "name": "Bouatoa Village",
+        "country": "Kiribati",
+        "province": "Gilbert Islands",
+        "population": 111,
+        "latitude": 0.202372249391112,
+        "longitude": 173.41950327158
+    },
+    {
+        "name": "Abatiku Village",
+        "country": "Kiribati",
+        "province": "Gilbert Islands",
+        "population": 191,
+        "latitude": 0.388429169728136,
+        "longitude": 173.777012228966
+    },
+    {
+        "name": "Bike Village",
+        "country": "Kiribati",
+        "province": "Gilbert Islands",
+        "population": 17,
+        "latitude": 0.344777112637945,
+        "longitude": 173.848230242729
+    },
+    {
+        "name": "Bangotantekabaia Village",
+        "country": "Kiribati",
+        "province": "Gilbert Islands",
+        "population": 336,
+        "latitude": 0.378805619501262,
+        "longitude": 173.927312493324
+    },
+    {
+        "name": "Kauma Village",
+        "country": "Kiribati",
+        "province": "Gilbert Islands",
+        "population": 172,
+        "latitude": 0.461662184509833,
+        "longitude": 173.87357711792
+    },
+    {
+        "name": "Tekaranga Village",
+        "country": "Kiribati",
+        "province": "Gilbert Islands",
+        "population": 114,
+        "latitude": 1.00098703134646,
+        "longitude": 173.031975030899
+    },
+    {
+        "name": "Tematantongo Village",
+        "country": "Kiribati",
+        "province": "Gilbert Islands",
+        "population": 148,
+        "latitude": 0.99252057881176,
+        "longitude": 173.04555773735
+    },
+    {
+        "name": "Bubutei Village",
+        "country": "Kiribati",
+        "province": "Gilbert Islands",
+        "population": 473,
+        "latitude": 0.872220681117435,
+        "longitude": 173.003940582275
+    },
+    {
+        "name": "Raweai Village",
+        "country": "Kiribati",
+        "province": "Gilbert Islands",
+        "population": 191,
+        "latitude": 0.899500849995201,
+        "longitude": 173.018381595612
+    },
+    {
+        "name": "Aobike Village",
+        "country": "Kiribati",
+        "province": "Gilbert Islands",
+        "population": 98,
+        "latitude": 0.984826466780013,
+        "longitude": 173.053507804871
+    },
+    {
+        "name": "Tebanga Village",
+        "country": "Kiribati",
+        "province": "Gilbert Islands",
+        "population": 260,
+        "latitude": 0.96734368352931,
+        "longitude": 173.063917458057
+    },
+    {
+        "name": "Temwangaua Village",
+        "country": "Kiribati",
+        "province": "Gilbert Islands",
+        "population": 111,
+        "latitude": 0.964200581128581,
+        "longitude": 173.063673377037
+    },
+    {
+        "name": "Toora Village",
+        "country": "Kiribati",
+        "province": "Gilbert Islands",
+        "population": 107,
+        "latitude": 0.959555649744906,
+        "longitude": 173.062852621078
+    },
+    {
+        "name": "Tebwangetua Village",
+        "country": "Kiribati",
+        "province": "Gilbert Islands",
+        "population": 112,
+        "latitude": 0.938468333317732,
+        "longitude": 173.039689064026
+    },
+    {
+        "name": "Teitai Village",
+        "country": "Kiribati",
+        "province": "Gilbert Islands",
+        "population": 36,
+        "latitude": 0.935250112766848,
+        "longitude": 173.035869598389
+    },
+    {
+        "name": "Bainuna Village",
+        "country": "Kiribati",
+        "province": "Gilbert Islands",
+        "population": 246,
+        "latitude": 1.98638391764061,
+        "longitude": 173.297980427742
+    },
+    {
+        "name": "Kiebu Village",
+        "country": "Kiribati",
+        "province": "Gilbert Islands",
+        "population": 551,
+        "latitude": 3.32341952341099,
+        "longitude": 172.974618673325
+    },
+    {
+        "name": "Bikati Village",
+        "country": "Kiribati",
+        "province": "Gilbert Islands",
+        "population": 203,
+        "latitude": 3.25999889670988,
+        "longitude": 172.688040733337
+    },
+    {
+        "name": "Tanimainiku Village",
+        "country": "Kiribati",
+        "province": "Gilbert Islands",
+        "population": 229,
+        "latitude": 3.09910525471233,
+        "longitude": 172.895375490189
+    },
+    {
+        "name": "Nuotaea Village",
+        "country": "Kiribati",
+        "province": "Gilbert Islands",
+        "population": 481,
+        "latitude": 1.88622845804397,
+        "longitude": 172.806803584099
+    },
+    {
+        "name": "Ribono Village",
+        "country": "Kiribati",
+        "province": "Gilbert Islands",
+        "population": 271,
+        "latitude": 1.9624513726857,
+        "longitude": 172.863017320633
+    },
+    {
+        "name": "Aoneaba Village",
+        "country": "Kiribati",
+        "province": "Gilbert Islands",
+        "population": 48,
+        "latitude": 1.7189549043327,
+        "longitude": 173.01947593689
+    },
+    {
+        "name": "Tebero Village",
+        "country": "Kiribati",
+        "province": "Gilbert Islands",
+        "population": 167,
+        "latitude": 1.82076854872556,
+        "longitude": 173.021364212036
+    },
+    {
+        "name": "Tebangaroi Village",
+        "country": "Kiribati",
+        "province": "Gilbert Islands",
+        "population": 34,
+        "latitude": 1.55534533189402,
+        "longitude": 172.985588908195
+    },
+    {
+        "name": "Tanaea Village",
+        "country": "Kiribati",
+        "province": "Gilbert Islands",
+        "population": 91,
+        "latitude": 1.38830962572512,
+        "longitude": 173.134210109711
+    },
+    {
+        "name": "Kainaba Village",
+        "country": "Kiribati",
+        "province": "Gilbert Islands",
+        "population": 219,
+        "latitude": 1.45383192321196,
+        "longitude": 173.060953617096
+    },
+    {
+        "name": "Tabonibara Village",
+        "country": "Kiribati",
+        "province": "Gilbert Islands",
+        "population": 300,
+        "latitude": 1.47810869496329,
+        "longitude": 173.029743432999
+    },
+    {
+        "name": "Nanikai Village",
+        "country": "Kiribati",
+        "province": "Gilbert Islands",
+        "population": 803,
+        "latitude": 1.33015424741154,
+        "longitude": 172.997798323631
+    },
+    {
+        "name": "Taborio Village",
+        "country": "Kiribati",
+        "province": "Gilbert Islands",
+        "population": 955,
+        "latitude": 1.35621279221606,
+        "longitude": 173.054001331329
+    },
+    {
+        "name": "Tangintebu Village",
+        "country": "Kiribati",
+        "province": "Gilbert Islands",
+        "population": 94,
+        "latitude": 1.35769295638428,
+        "longitude": 173.070287704468
+    },
+    {
+        "name": "Abarao Village",
+        "country": "Kiribati",
+        "province": "Gilbert Islands",
+        "population": 908,
+        "latitude": 1.36301295923862,
+        "longitude": 173.10965180397
+    },
+    {
+        "name": "Antebuka Village",
+        "country": "Kiribati",
+        "province": "Gilbert Islands",
+        "population": 390,
+        "latitude": 1.34008645241282,
+        "longitude": 173.026980757713
+    },
+    {
+        "name": "Aontena Gilberts Village",
+        "country": "Kiribati",
+        "province": "Line Islands",
+        "population": 177,
+        "latitude": 3.85048858885815,
+        "longitude": -159.360830783844
+    },
+    {
+        "name": "Abaiang Village",
+        "country": "Kiribati",
+        "province": "Line Islands",
+        "population": 91,
+        "latitude": 4.68882729674197,
+        "longitude": -160.365972518921
+    },
+    {
+        "name": "Tekaitara Village",
+        "country": "Kiribati",
+        "province": "Line Islands",
+        "population": 34,
+        "latitude": 4.69716773260077,
+        "longitude": -160.387237071991
+    },
+    {
+        "name": "Kauamwmwe Village",
+        "country": "Kiribati",
+        "province": "Line Islands",
+        "population": 106,
+        "latitude": 4.69052747059947,
+        "longitude": -160.371208190918
+    },
+    {
+        "name": "Onouea Village",
+        "country": "Kiribati",
+        "province": "Line Islands",
+        "population": 176,
+        "latitude": 4.67053145362913,
+        "longitude": -160.375971794128
+    },
+    {
+        "name": "Makeitari Village",
+        "country": "Kiribati",
+        "province": "Line Islands",
+        "population": 92,
+        "latitude": 4.67228513785391,
+        "longitude": -160.380842685699
+    },
+    {
+        "name": "Tebakauto",
+        "country": "Kiribati",
+        "province": "Gilbert Islands",
+        "population": -1,
+        "latitude": -0.808154964285674,
+        "longitude": 174.457343816757
+    },
+    {
+        "name": "Taribo",
+        "country": "Kiribati",
+        "province": "Gilbert Islands",
+        "population": -1,
+        "latitude": -2.64352657453203,
+        "longitude": 176.82540178299
+    },
+    {
+        "name": "Notoue",
+        "country": "Kiribati",
+        "province": "Gilbert Islands",
+        "population": -1,
+        "latitude": 1.5114184383607,
+        "longitude": 173.012496829033
+    },
+    {
+        "name": "Karaka settlement 1940",
+        "country": "Kiribati",
+        "province": "Phoenix Islands",
+        "population": -1,
+        "latitude": -4.67147245546578,
+        "longitude": -174.538711309433
+    },
+    {
+        "name": "failed Gilbertese Settlement 2005",
+        "country": "Kiribati",
+        "province": "Phoenix Islands",
+        "population": -1,
+        "latitude": -4.51785340695605,
+        "longitude": -172.224415540695
+    },
+    {
+        "name": "Diggers Camp 1900",
+        "country": "Kiribati",
+        "province": "Phoenix Islands",
+        "population": -1,
+        "latitude": -4.45427123388691,
+        "longitude": -171.262221336365
+    },
+    {
+        "name": "Gilbertese Settlement 1940",
+        "country": "Kiribati",
+        "province": "Phoenix Islands",
+        "population": -1,
+        "latitude": -4.45462421602743,
+        "longitude": -171.262146234512
+    },
+    {
+        "name": "Digger Settlement 1870",
+        "country": "Kiribati",
+        "province": "Phoenix Islands",
+        "population": -1,
+        "latitude": -3.59533875443885,
+        "longitude": -174.126133918762
+    },
+    {
+        "name": "Diggers Camp 1870",
+        "country": "Kiribati",
+        "province": "Phoenix Islands",
+        "population": -1,
+        "latitude": -3.7217,
+        "longitude": -170.7143
+    },
+    {
+        "name": "Diggers Camp 1870",
+        "country": "Kiribati",
+        "province": "Phoenix Islands",
+        "population": -1,
+        "latitude": -3.11643362508757,
+        "longitude": -171.090892553329
+    },
+    {
+        "name": "Settlement Ruins",
+        "country": "Kiribati",
+        "province": "Phoenix Islands",
+        "population": -1,
+        "latitude": -3.13803074922716,
+        "longitude": -171.090688705444
+    },
+    {
+        "name": "old GB-Village",
+        "country": "Kiribati",
+        "province": "Phoenix Islands",
+        "population": -1,
+        "latitude": -2.81897947388629,
+        "longitude": -171.711131930351
+    },
+    {
+        "name": "Tanimainiku",
+        "country": "Kiribati",
+        "province": "Gilbert Islands",
+        "population": -1,
+        "latitude": 0.478902843216805,
+        "longitude": 173.855810165405
+    },
+    {
+        "name": "Tokamauea Village",
+        "country": "Kiribati",
+        "province": "Gilbert Islands",
+        "population": -1,
+        "latitude": 0.482397638587464,
+        "longitude": 173.825039863586
+    },
+    {
+        "name": "Terokea",
+        "country": "Kiribati",
+        "province": "Gilbert Islands",
+        "population": -1,
+        "latitude": 1.98329586671767,
+        "longitude": 173.299664855003
+    },
+    {
+        "name": "Teraereke",
+        "country": "Kiribati",
+        "province": "Gilbert Islands",
+        "population": -1,
+        "latitude": 1.971233112654338,
+        "longitude": 173.29276621341705
+    },
+    {
+        "name": "Guano Diggers and Planters Settlement",
+        "country": "Kiribati",
+        "province": "Line Islands",
+        "population": -1,
+        "latitude": 3.85636540365387,
+        "longitude": -159.361624717712
+    },
+    {
+        "name": "Diggers and Planters Settlement",
+        "country": "Kiribati",
+        "province": "Line Islands",
+        "population": -1,
+        "latitude": -11.4245883669081,
+        "longitude": -151.825647354126
+    },
+    {
+        "name": "Diggers and Planters Settlement",
+        "country": "Kiribati",
+        "province": "Line Islands",
+        "population": -1,
+        "latitude": -9.998098342071543,
+        "longitude": -150.2307415008545
+    },
+    {
+        "name": "Diggers Settlement",
+        "country": "Kiribati",
+        "province": "Line Islands",
+        "population": -1,
+        "latitude": -5.63397685747888,
+        "longitude": -155.92632651329
+    },
+    {
+        "name": "Diggers Settlement",
+        "country": "Kiribati",
+        "province": "Line Islands",
+        "population": -1,
+        "latitude": -4.01335425017136,
+        "longitude": -154.969979524612
+    }
+]

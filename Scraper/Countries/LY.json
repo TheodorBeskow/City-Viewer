@@ -1,0 +1,7186 @@
+[
+    {
+        "name": "Tripoli",
+        "country": "Libya",
+        "province": "Tripoli",
+        "population": 1150989,
+        "latitude": 32.88743,
+        "longitude": 13.18733
+    },
+    {
+        "name": "Misratah",
+        "country": "Libya",
+        "province": "Mişrātah",
+        "population": 386120,
+        "latitude": 32.375352,
+        "longitude": 15.092543
+    },
+    {
+        "name": "Tarhuna",
+        "country": "Libya",
+        "province": "Al Marqab",
+        "population": 210697,
+        "latitude": 32.435015,
+        "longitude": 13.633198
+    },
+    {
+        "name": "Az Zāwīyah",
+        "country": "Libya",
+        "province": "Az Zāwiyah",
+        "population": 200000,
+        "latitude": 32.757102,
+        "longitude": 12.727639
+    },
+    {
+        "name": "Al Khums",
+        "country": "Libya",
+        "province": "Al Marqab",
+        "population": 201943,
+        "latitude": 32.648613,
+        "longitude": 14.261909
+    },
+    {
+        "name": "Benghazi",
+        "country": "Libya",
+        "province": "Banghāzī",
+        "population": 807250,
+        "latitude": 32.11486,
+        "longitude": 20.06859
+    },
+    {
+        "name": "Sabha",
+        "country": "Libya",
+        "province": "Sabhā",
+        "population": 130000,
+        "latitude": 27.037662,
+        "longitude": 14.428325
+    },
+    {
+        "name": "Zawiya",
+        "country": "Libya",
+        "province": "Az Zāwiyah",
+        "population": 186123,
+        "latitude": 32.752222,
+        "longitude": 12.727778
+    },
+    {
+        "name": "Tobruk",
+        "country": "Libya",
+        "province": "Al Buţnān",
+        "population": 121052,
+        "latitude": 32.089631,
+        "longitude": 23.953852
+    },
+    {
+        "name": "Ajdabiya",
+        "country": "Libya",
+        "province": "Al Wāḩāt",
+        "population": 416000,
+        "latitude": 30.755454,
+        "longitude": 20.226255
+    },
+    {
+        "name": "Sirte",
+        "country": "Libya",
+        "province": "Surt",
+        "population": 128123,
+        "latitude": 31.208924,
+        "longitude": 16.588661
+    },
+    {
+        "name": "Al Ajaylat",
+        "country": "Libya",
+        "province": "An Nuqāţ al Khams",
+        "population": 130546,
+        "latitude": 32.75718,
+        "longitude": 12.37633
+    },
+    {
+        "name": "Darnah",
+        "country": "Libya",
+        "province": "Darnah",
+        "population": 78782,
+        "latitude": 32.767041,
+        "longitude": 22.636686
+    },
+    {
+        "name": "Al Marj",
+        "country": "Libya",
+        "province": "Al Marj",
+        "population": 85315,
+        "latitude": 32.492574,
+        "longitude": 20.829089
+    },
+    {
+        "name": "Al Bayḑā’",
+        "country": "Libya",
+        "province": "Al Jabal al Akhḑar",
+        "population": 74594,
+        "latitude": 32.762723,
+        "longitude": 21.755063
+    },
+    {
+        "name": "Zliten",
+        "country": "Libya",
+        "province": "Mişrātah",
+        "population": 109972,
+        "latitude": 32.467385,
+        "longitude": 14.568737
+    },
+    {
+        "name": "Gharyan",
+        "country": "Libya",
+        "province": "Jabal al Gharbi",
+        "population": 85219,
+        "latitude": 32.172222,
+        "longitude": 13.020278
+    },
+    {
+        "name": "Şabrātah",
+        "country": "Libya",
+        "province": "Az Zāwiyah",
+        "population": 102038,
+        "latitude": 32.793351,
+        "longitude": 12.48845
+    },
+    {
+        "name": "Murzuk",
+        "country": "Libya",
+        "province": "Murzuq",
+        "population": 43732,
+        "latitude": 25.9155154196912,
+        "longitude": 13.9183902740479
+    },
+    {
+        "name": "Zuwarah",
+        "country": "Libya",
+        "province": "An Nuqāţ al Khams",
+        "population": 45000,
+        "latitude": 32.931203,
+        "longitude": 12.081992
+    },
+    {
+        "name": "Bani Walid",
+        "country": "Libya",
+        "province": "Mişrātah",
+        "population": 46350,
+        "latitude": 31.74554,
+        "longitude": 13.98354
+    },
+    {
+        "name": "Al Jumayl",
+        "country": "Libya",
+        "province": "An Nuqāţ al Khams",
+        "population": 102000,
+        "latitude": 32.852863,
+        "longitude": 12.061201
+    },
+    {
+        "name": "Nālūt",
+        "country": "Libya",
+        "province": "Nālūt",
+        "population": 26256,
+        "latitude": 31.86848,
+        "longitude": 10.981202
+    },
+    {
+        "name": "Al Burayqah",
+        "country": "Libya",
+        "province": "Al Wāḩāt",
+        "population": 13780,
+        "latitude": 30.40624,
+        "longitude": 19.573857
+    },
+    {
+        "name": "Yafran",
+        "country": "Libya",
+        "province": "Jabal al Gharbi",
+        "population": 67638,
+        "latitude": 32.063292,
+        "longitude": 12.528593
+    },
+    {
+        "name": "Tājūrā’",
+        "country": "Libya",
+        "province": "Tripoli",
+        "population": 100000,
+        "latitude": 32.881667,
+        "longitude": 13.350556
+    },
+    {
+        "name": "Hūn",
+        "country": "Libya",
+        "province": "Al Jufrah",
+        "population": 18878,
+        "latitude": 29.126839,
+        "longitude": 15.947721
+    },
+    {
+        "name": "Ghat",
+        "country": "Libya",
+        "province": "Ghāt",
+        "population": 24347,
+        "latitude": 24.96334,
+        "longitude": 10.18003
+    },
+    {
+        "name": "Brak",
+        "country": "Libya",
+        "province": "Ash Shāţiʼ",
+        "population": 39444,
+        "latitude": 27.549558,
+        "longitude": 14.271385
+    },
+    {
+        "name": "Zintan",
+        "country": "Libya",
+        "province": "Jabal al Gharbi",
+        "population": 33000,
+        "latitude": 31.93155,
+        "longitude": 12.25291
+    },
+    {
+        "name": "Ubari",
+        "country": "Libya",
+        "province": "Wādī al Ḩayāt",
+        "population": 42975,
+        "latitude": 26.590339,
+        "longitude": 12.775111
+    },
+    {
+        "name": "Al Jadīd",
+        "country": "Libya",
+        "province": "Sabhā",
+        "population": 126386,
+        "latitude": 27.05,
+        "longitude": 14.4
+    },
+    {
+        "name": "Idrī",
+        "country": "Libya",
+        "province": "Ash Shāţiʼ",
+        "population": 4611,
+        "latitude": 27.44707,
+        "longitude": 13.051729
+    },
+    {
+        "name": "Cyrene",
+        "country": "Libya",
+        "province": "Shahhat",
+        "population": -1,
+        "latitude": 32.8277778,
+        "longitude": 21.8622222
+    },
+    {
+        "name": "Bardia",
+        "country": "Libya",
+        "province": "Al Buţnān",
+        "population": 9149,
+        "latitude": 31.75601,
+        "longitude": 25.0853
+    },
+    {
+        "name": "Sūsah",
+        "country": "Libya",
+        "province": "Al Jabal al Akhḑar",
+        "population": -1,
+        "latitude": 32.897025,
+        "longitude": 21.965829
+    },
+    {
+        "name": "Qaryat Sulūq",
+        "country": "Libya",
+        "province": "Banghāzī",
+        "population": 15543,
+        "latitude": 31.668183,
+        "longitude": 20.252046
+    },
+    {
+        "name": "Az Zuwaytīnah",
+        "country": "Libya",
+        "province": "Al Wāḩāt",
+        "population": 21015,
+        "latitude": 30.952202,
+        "longitude": 20.120221
+    },
+    {
+        "name": "At Tāj",
+        "country": "Libya",
+        "province": "Al Kufrah",
+        "population": 46050,
+        "latitude": 24.204866,
+        "longitude": 23.285702
+    },
+    {
+        "name": "Tūkrah",
+        "country": "Libya",
+        "province": "Al Marj",
+        "population": 23164,
+        "latitude": 32.534137,
+        "longitude": 20.579106
+    },
+    {
+        "name": "Al Qubbah",
+        "country": "Libya",
+        "province": "Darnah",
+        "population": 24631,
+        "latitude": 32.756842,
+        "longitude": 22.241057
+    },
+    {
+        "name": "Al Jawf",
+        "country": "Libya",
+        "province": "Al Kufrah",
+        "population": 17320,
+        "latitude": 24.1989044383255,
+        "longitude": 23.2909297943115
+    },
+    {
+        "name": "Al Abyār",
+        "country": "Libya",
+        "province": "Al Marj",
+        "population": 32563,
+        "latitude": 32.18999580541844,
+        "longitude": 20.596532821655273
+    },
+    {
+        "name": "Madīnat Ţulmaythah",
+        "country": "Libya",
+        "province": "Al Marj",
+        "population": -1,
+        "latitude": 32.703591,
+        "longitude": 20.93868
+    },
+    {
+        "name": "Qaşr al Qarabūllī",
+        "country": "Libya",
+        "province": "Tripoli",
+        "population": -1,
+        "latitude": 32.745065,
+        "longitude": 13.714668
+    },
+    {
+        "name": "Mizdah",
+        "country": "Libya",
+        "province": "Jabal al Gharbi",
+        "population": 26107,
+        "latitude": 31.449341,
+        "longitude": 12.985298
+    },
+    {
+        "name": "Zalţan",
+        "country": "Libya",
+        "province": "An Nuqāţ al Khams",
+        "population": 17700,
+        "latitude": 32.946993,
+        "longitude": 11.866682
+    },
+    {
+        "name": "Waddān",
+        "country": "Libya",
+        "province": "Al Jufrah",
+        "population": 27590,
+        "latitude": 29.161403,
+        "longitude": 16.139043
+    },
+    {
+        "name": "Şurmān",
+        "country": "Libya",
+        "province": "Az Zāwiyah",
+        "population": 25235,
+        "latitude": 32.756681,
+        "longitude": 12.571587
+    },
+    {
+        "name": "Ghadames",
+        "country": "Libya",
+        "province": "Nālūt",
+        "population": 7000,
+        "latitude": 30.133661,
+        "longitude": 9.500723
+    },
+    {
+        "name": "Al ‘Azīzīyah",
+        "country": "Libya",
+        "province": "Al Jafārah",
+        "population": 4000,
+        "latitude": 32.531944,
+        "longitude": 13.0175
+    },
+    {
+        "name": "Massah",
+        "country": "Libya",
+        "province": "Al Jabal al Akhḑar",
+        "population": -1,
+        "latitude": 32.752489,
+        "longitude": 21.628067
+    },
+    {
+        "name": "Daryānah",
+        "country": "Libya",
+        "province": "Banghāzī",
+        "population": -1,
+        "latitude": 32.347507,
+        "longitude": 20.309329
+    },
+    {
+        "name": "Zāwiyat Masūs",
+        "country": "Libya",
+        "province": "Al Marj",
+        "population": -1,
+        "latitude": 31.579171,
+        "longitude": 21.009681
+    },
+    {
+        "name": "Mukhaylá",
+        "country": "Libya",
+        "province": "Darnah",
+        "population": -1,
+        "latitude": 32.160052,
+        "longitude": 22.27845
+    },
+    {
+        "name": "Sulunţah",
+        "country": "Libya",
+        "province": "Al Jabal al Akhḑar",
+        "population": -1,
+        "latitude": 32.591363,
+        "longitude": 21.717738
+    },
+    {
+        "name": "Awjilah",
+        "country": "Libya",
+        "province": "Al Wāḩāt",
+        "population": 6610,
+        "latitude": 29.1080556,
+        "longitude": 21.2869444
+    },
+    {
+        "name": "Qaryat al Qawārishah",
+        "country": "Libya",
+        "province": "Banghāzī",
+        "population": -1,
+        "latitude": 32.009712,
+        "longitude": 20.084325
+    },
+    {
+        "name": "Al Maqrūn",
+        "country": "Libya",
+        "province": "Banghāzī",
+        "population": -1,
+        "latitude": 31.441107,
+        "longitude": 20.151176
+    },
+    {
+        "name": "Al Jaghbūb",
+        "country": "Libya",
+        "province": "Al Buţnān",
+        "population": 2768,
+        "latitude": 29.7426188489312,
+        "longitude": 24.5167636871338
+    },
+    {
+        "name": "Qaryat al Fā’idīyah",
+        "country": "Libya",
+        "province": "Al Jabal al Akhḑar",
+        "population": -1,
+        "latitude": 32.688446,
+        "longitude": 21.906042
+    },
+    {
+        "name": "Al Abraq",
+        "country": "Libya",
+        "province": "Al Jabal al Akhḑar",
+        "population": -1,
+        "latitude": 32.789914,
+        "longitude": 22.000498
+    },
+    {
+        "name": "Sha‘wā’",
+        "country": "Libya",
+        "province": "Nālūt",
+        "population": -1,
+        "latitude": 30.986881,
+        "longitude": 10.551651
+    },
+    {
+        "name": "Qaşr Khiyār",
+        "country": "Libya",
+        "province": "Tripoli",
+        "population": -1,
+        "latitude": 32.696768,
+        "longitude": 13.846344
+    },
+    {
+        "name": "Bint Bayyah",
+        "country": "Libya",
+        "province": "Wādī al Ḩayāt",
+        "population": -1,
+        "latitude": 26.645494,
+        "longitude": 13.652459
+    },
+    {
+        "name": "Marādah",
+        "country": "Libya",
+        "province": "Al Wāḩāt",
+        "population": 2229,
+        "latitude": 29.22054,
+        "longitude": 19.204539
+    },
+    {
+        "name": "Jādū",
+        "country": "Libya",
+        "province": "Jabal al Gharbi",
+        "population": 6013,
+        "latitude": 31.955061,
+        "longitude": 12.029013
+    },
+    {
+        "name": "Jaddā’im",
+        "country": "Libya",
+        "province": "Az Zāwiyah",
+        "population": -1,
+        "latitude": 32.78,
+        "longitude": 12.782778
+    },
+    {
+        "name": "Sūknah",
+        "country": "Libya",
+        "province": "Al Jufrah",
+        "population": -1,
+        "latitude": 29.069411,
+        "longitude": 15.782664
+    },
+    {
+        "name": "Buwayrāt al Ḩasūn",
+        "country": "Libya",
+        "province": "Surt",
+        "population": -1,
+        "latitude": 31.399369,
+        "longitude": 15.725759
+    },
+    {
+        "name": "Qaryat az Zarrūq",
+        "country": "Libya",
+        "province": "Mişrātah",
+        "population": -1,
+        "latitude": 32.374898,
+        "longitude": 15.133481
+    },
+    {
+        "name": "Ash Shuwayrif",
+        "country": "Libya",
+        "province": "Jabal al Gharbi",
+        "population": -1,
+        "latitude": 29.983333,
+        "longitude": 14.266667
+    },
+    {
+        "name": "Ar Ruḩaybāt",
+        "country": "Libya",
+        "province": "Jabal al Gharbi",
+        "population": -1,
+        "latitude": 31.757222,
+        "longitude": 11.87
+    },
+    {
+        "name": "An Nawfalīyah",
+        "country": "Libya",
+        "province": "Surt",
+        "population": -1,
+        "latitude": 30.777844,
+        "longitude": 17.83544
+    },
+    {
+        "name": "Al ‘Awinat",
+        "country": "Libya",
+        "province": "LY.30",
+        "population": -1,
+        "latitude": 25.781226,
+        "longitude": 10.561331
+    },
+    {
+        "name": "Al Qaţrūn",
+        "country": "Libya",
+        "province": "Murzuq",
+        "population": 4500,
+        "latitude": 24.951389,
+        "longitude": 14.648611
+    },
+    {
+        "name": "Al Qaryāt ash Sharqīyah",
+        "country": "Libya",
+        "province": "Jabal al Gharbi",
+        "population": -1,
+        "latitude": 30.388027,
+        "longitude": 13.580269
+    },
+    {
+        "name": "Qaryat al Qaddāḩīyah",
+        "country": "Libya",
+        "province": "Mişrātah",
+        "population": -1,
+        "latitude": 31.360157,
+        "longitude": 15.247602
+    },
+    {
+        "name": "Al Hīshah",
+        "country": "Libya",
+        "province": "Mişrātah",
+        "population": -1,
+        "latitude": 31.648268,
+        "longitude": 15.275985
+    },
+    {
+        "name": "Qaryat Abū Qurayn",
+        "country": "Libya",
+        "province": "Mişrātah",
+        "population": -1,
+        "latitude": 31.448929,
+        "longitude": 15.25345
+    },
+    {
+        "name": "Qaryat Bū Nujaym",
+        "country": "Libya",
+        "province": "Surt",
+        "population": -1,
+        "latitude": 30.581648,
+        "longitude": 15.395789
+    },
+    {
+        "name": "Abū Kammāsh",
+        "country": "Libya",
+        "province": "An Nuqāţ al Khams",
+        "population": -1,
+        "latitude": 33.073898,
+        "longitude": 11.73633
+    },
+    {
+        "name": "Qasr Abu Hadi",
+        "country": "Libya",
+        "province": "Surt",
+        "population": 4890,
+        "latitude": 31.059257388896818,
+        "longitude": 16.65904998779297
+    },
+    {
+        "name": "Rāshidah",
+        "country": "Libya",
+        "province": "Al Wāḩāt",
+        "population": -1,
+        "latitude": 29.016667,
+        "longitude": 21.516667
+    },
+    {
+        "name": "Al Ḩamāmah",
+        "country": "Libya",
+        "province": "Al Jabal al Akhḑar",
+        "population": -1,
+        "latitude": 32.915324,
+        "longitude": 21.632432
+    },
+    {
+        "name": "Qirnādah",
+        "country": "Libya",
+        "province": "Al Jabal al Akhḑar",
+        "population": -1,
+        "latitude": 32.731739,
+        "longitude": 21.903503
+    },
+    {
+        "name": "Qaryat Umm aş Şafā’",
+        "country": "Libya",
+        "province": "Banghāzī",
+        "population": -1,
+        "latitude": 31.839065,
+        "longitude": 20.10756
+    },
+    {
+        "name": "Qaryat Qunfūdhah",
+        "country": "Libya",
+        "province": "Banghāzī",
+        "population": -1,
+        "latitude": 32.029059,
+        "longitude": 20.016385
+    },
+    {
+        "name": "Qaryat ‘Ā’ilat Zaydān",
+        "country": "Libya",
+        "province": "Al Buţnān",
+        "population": -1,
+        "latitude": 32.09034,
+        "longitude": 23.902833
+    },
+    {
+        "name": "Qandūlah",
+        "country": "Libya",
+        "province": "Al Jabal al Akhḑar",
+        "population": -1,
+        "latitude": 32.537984,
+        "longitude": 21.575251
+    },
+    {
+        "name": "Qamīnis",
+        "country": "Libya",
+        "province": "Banghāzī",
+        "population": -1,
+        "latitude": 31.657601,
+        "longitude": 20.016969
+    },
+    {
+        "name": "Maslīwah",
+        "country": "Libya",
+        "province": "Al Wāḩāt",
+        "population": -1,
+        "latitude": 29.05,
+        "longitude": 21.5
+    },
+    {
+        "name": "Martūbah",
+        "country": "Libya",
+        "province": "Darnah",
+        "population": -1,
+        "latitude": 32.574212,
+        "longitude": 22.763531
+    },
+    {
+        "name": "Manşūrah",
+        "country": "Libya",
+        "province": "Al Jabal al Akhḑar",
+        "population": -1,
+        "latitude": 32.833333,
+        "longitude": 21.85
+    },
+    {
+        "name": "Kuhūf Tuḩūdīyah",
+        "country": "Libya",
+        "province": "Al Jabal al Akhḑar",
+        "population": -1,
+        "latitude": 32.716141,
+        "longitude": 21.87127
+    },
+    {
+        "name": "Khaḑrā’",
+        "country": "Libya",
+        "province": "Al Jabal al Akhḑar",
+        "population": -1,
+        "latitude": 32.550833,
+        "longitude": 21.782322
+    },
+    {
+        "name": "Kambūt",
+        "country": "Libya",
+        "province": "Al Buţnān",
+        "population": -1,
+        "latitude": 31.904341,
+        "longitude": 24.478404
+    },
+    {
+        "name": "Kāf Miyās",
+        "country": "Libya",
+        "province": "Al Jabal al Akhḑar",
+        "population": -1,
+        "latitude": 32.722222,
+        "longitude": 21.702778
+    },
+    {
+        "name": "Jikharrah",
+        "country": "Libya",
+        "province": "Al Wāḩāt",
+        "population": -1,
+        "latitude": 29.283333,
+        "longitude": 21.633333
+    },
+    {
+        "name": "Qaryat Jardīnah",
+        "country": "Libya",
+        "province": "Banghāzī",
+        "population": -1,
+        "latitude": 31.792471,
+        "longitude": 20.203539
+    },
+    {
+        "name": "Jardas al ‘Abīd",
+        "country": "Libya",
+        "province": "Al Marj",
+        "population": -1,
+        "latitude": 32.303373,
+        "longitude": 20.986151
+    },
+    {
+        "name": "Jakharrah",
+        "country": "Libya",
+        "province": "Al Wāḩāt",
+        "population": -1,
+        "latitude": 29.216667,
+        "longitude": 21.566667
+    },
+    {
+        "name": "Farzūghah",
+        "country": "Libya",
+        "province": "Al Marj",
+        "population": -1,
+        "latitude": 32.499292,
+        "longitude": 20.702968
+    },
+    {
+        "name": "Zāwiyat Janzūr",
+        "country": "Libya",
+        "province": "Al Buţnān",
+        "population": -1,
+        "latitude": 31.970666,
+        "longitude": 24.748135
+    },
+    {
+        "name": "Zāwiyat Umm Rukbah",
+        "country": "Libya",
+        "province": "Al Buţnān",
+        "population": -1,
+        "latitude": 31.927143,
+        "longitude": 24.919058
+    },
+    {
+        "name": "Zāwiyat aţ Ţīlīmūn",
+        "country": "Libya",
+        "province": "Banghāzī",
+        "population": -1,
+        "latitude": 31.58883,
+        "longitude": 20.173648
+    },
+    {
+        "name": "Zāwiyat at Tarīt",
+        "country": "Libya",
+        "province": "Darnah",
+        "population": -1,
+        "latitude": 32.787013,
+        "longitude": 22.077167
+    },
+    {
+        "name": "Zāwiyat al ‘Izzīyāt",
+        "country": "Libya",
+        "province": "Darnah",
+        "population": -1,
+        "latitude": 32.254584,
+        "longitude": 22.666181
+    },
+    {
+        "name": "Umm ar Rizam",
+        "country": "Libya",
+        "province": "Darnah",
+        "population": -1,
+        "latitude": 32.533325,
+        "longitude": 23.00904
+    },
+    {
+        "name": "Qabr Umm al Hīshah",
+        "country": "Libya",
+        "province": "Al Wāḩāt",
+        "population": -1,
+        "latitude": 30.149484,
+        "longitude": 20.052288
+    },
+    {
+        "name": "Tāknis",
+        "country": "Libya",
+        "province": "Al Marj",
+        "population": -1,
+        "latitude": 32.480135,
+        "longitude": 21.124579
+    },
+    {
+        "name": "Qaryat Sīdī Mahyūb",
+        "country": "Libya",
+        "province": "Al Marj",
+        "population": -1,
+        "latitude": 32.24665,
+        "longitude": 20.737955
+    },
+    {
+        "name": "Qaryat Sīdī Khalīfah",
+        "country": "Libya",
+        "province": "Banghāzī",
+        "population": -1,
+        "latitude": 32.256231,
+        "longitude": 20.196913
+    },
+    {
+        "name": "Bi’r Bin Ghunaymah",
+        "country": "Libya",
+        "province": "Al Jabal al Akhḑar",
+        "population": -1,
+        "latitude": 31.183333,
+        "longitude": 21.883333
+    },
+    {
+        "name": "Bi’r al Ashhab",
+        "country": "Libya",
+        "province": "Al Buţnān",
+        "population": -1,
+        "latitude": 31.916667,
+        "longitude": 24.7
+    },
+    {
+        "name": "Buzaymah",
+        "country": "Libya",
+        "province": "Al Kufrah",
+        "population": -1,
+        "latitude": 24.916667,
+        "longitude": 22.033333
+    },
+    {
+        "name": "Qaryat Baţţah",
+        "country": "Libya",
+        "province": "Al Marj",
+        "population": -1,
+        "latitude": 32.659882,
+        "longitude": 21.109606
+    },
+    {
+        "name": "Az Zāwiyah",
+        "country": "Libya",
+        "province": "Al Buţnān",
+        "population": -1,
+        "latitude": 31.981099,
+        "longitude": 24.657198
+    },
+    {
+        "name": "At Tamīmī",
+        "country": "Libya",
+        "province": "Darnah",
+        "population": -1,
+        "latitude": 32.336365,
+        "longitude": 23.057583
+    },
+    {
+        "name": "At Tabān",
+        "country": "Libya",
+        "province": "Al Jabal al Akhḑar",
+        "population": -1,
+        "latitude": 32.205746,
+        "longitude": 21.512179
+    },
+    {
+        "name": "Aş Şafşāf",
+        "country": "Libya",
+        "province": "Al Jabal al Akhḑar",
+        "population": -1,
+        "latitude": 32.779666,
+        "longitude": 21.949765
+    },
+    {
+        "name": "Ash Shurraf",
+        "country": "Libya",
+        "province": "Al Wāḩāt",
+        "population": -1,
+        "latitude": 29.05,
+        "longitude": 21.516667
+    },
+    {
+        "name": "Ash Shawāshinah",
+        "country": "Libya",
+        "province": "Al Wāḩāt",
+        "population": -1,
+        "latitude": 29.171667,
+        "longitude": 21.294167
+    },
+    {
+        "name": "Ar Rajmah",
+        "country": "Libya",
+        "province": "Banghāzī",
+        "population": -1,
+        "latitude": 32.071546,
+        "longitude": 20.341675
+    },
+    {
+        "name": "Al Qayqab",
+        "country": "Libya",
+        "province": "Al Jabal al Akhḑar",
+        "population": -1,
+        "latitude": 32.725807,
+        "longitude": 22.020614
+    },
+    {
+        "name": "Al Mawāḩī",
+        "country": "Libya",
+        "province": "Al Wāḩāt",
+        "population": -1,
+        "latitude": 29.483333,
+        "longitude": 22.483333
+    },
+    {
+        "name": "Al Muḩayshī",
+        "country": "Libya",
+        "province": "Banghāzī",
+        "population": -1,
+        "latitude": 32.137671,
+        "longitude": 20.117812
+    },
+    {
+        "name": "Al Labbah",
+        "country": "Libya",
+        "province": "Al Wāḩāt",
+        "population": -1,
+        "latitude": 29.033333,
+        "longitude": 21.566667
+    },
+    {
+        "name": "Al Kuwayfīyah",
+        "country": "Libya",
+        "province": "Banghāzī",
+        "population": -1,
+        "latitude": 32.201638,
+        "longitude": 20.169072
+    },
+    {
+        "name": "Al Hīrī",
+        "country": "Libya",
+        "province": "Al Wāḩāt",
+        "population": -1,
+        "latitude": 29.05,
+        "longitude": 21.516667
+    },
+    {
+        "name": "Al Ḩanīyah",
+        "country": "Libya",
+        "province": "Al Jabal al Akhḑar",
+        "population": -1,
+        "latitude": 32.840986,
+        "longitude": 21.520857
+    },
+    {
+        "name": "Eastern Al Fuwayhāt",
+        "country": "Libya",
+        "province": "Banghāzī",
+        "population": -1,
+        "latitude": 32.098122,
+        "longitude": 20.115389
+    },
+    {
+        "name": "Qaryat al Bayyāḑah",
+        "country": "Libya",
+        "province": "Al Marj",
+        "population": -1,
+        "latitude": 32.565013,
+        "longitude": 21.254147
+    },
+    {
+        "name": "Al Athrūn",
+        "country": "Libya",
+        "province": "Darnah",
+        "population": -1,
+        "latitude": 32.866657,
+        "longitude": 22.278656
+    },
+    {
+        "name": "‘Akramah",
+        "country": "Libya",
+        "province": "Al Buţnān",
+        "population": -1,
+        "latitude": 32.033333,
+        "longitude": 23.683333
+    },
+    {
+        "name": "Aḩqāf ar Rūzāt",
+        "country": "Libya",
+        "province": "Al Jabal al Akhḑar",
+        "population": -1,
+        "latitude": 32.831723,
+        "longitude": 21.904776
+    },
+    {
+        "name": "Aḩqāf al Jabhīyah",
+        "country": "Libya",
+        "province": "Al Jabal al Akhḑar",
+        "population": -1,
+        "latitude": 32.724167,
+        "longitude": 21.721389
+    },
+    {
+        "name": "Aḩqāf al Jabbārāt",
+        "country": "Libya",
+        "province": "Al Jabal al Akhḑar",
+        "population": -1,
+        "latitude": 32.683277,
+        "longitude": 21.910986
+    },
+    {
+        "name": "Sīdī Bin Zīnah",
+        "country": "Libya",
+        "province": "An Nuqāţ al Khams",
+        "population": -1,
+        "latitude": 32.887184,
+        "longitude": 11.987289
+    },
+    {
+        "name": "Ra’s Lānūf",
+        "country": "Libya",
+        "province": "Bin Jawwad",
+        "population": -1,
+        "latitude": 30.50994,
+        "longitude": 18.55956
+    },
+    {
+        "name": "Qurjī",
+        "country": "Libya",
+        "province": "Tripoli",
+        "population": -1,
+        "latitude": 32.866667,
+        "longitude": 13.15
+    },
+    {
+        "name": "Qāwāt",
+        "country": "Libya",
+        "province": "Murzuq",
+        "population": -1,
+        "latitude": 25.933333,
+        "longitude": 14.1
+    },
+    {
+        "name": "Qaşr Bin Ghashīr",
+        "country": "Libya",
+        "province": "Tripoli",
+        "population": -1,
+        "latitude": 32.683333,
+        "longitude": 13.183333
+    },
+    {
+        "name": "Qaşr Aḩmad al Qiblīyah",
+        "country": "Libya",
+        "province": "Mişrātah",
+        "population": -1,
+        "latitude": 32.371839,
+        "longitude": 15.198805
+    },
+    {
+        "name": "Qaryat Mazghūrah",
+        "country": "Libya",
+        "province": "Jabal al Gharbi",
+        "population": -1,
+        "latitude": 31.96591,
+        "longitude": 11.969077
+    },
+    {
+        "name": "Qaryat Bū Ruwayyah",
+        "country": "Libya",
+        "province": "Mişrātah",
+        "population": -1,
+        "latitude": 32.389037,
+        "longitude": 14.953947
+    },
+    {
+        "name": "Qaryat Bishr",
+        "country": "Libya",
+        "province": "Al Wāḩāt",
+        "population": -1,
+        "latitude": 30.291448,
+        "longitude": 19.425428
+    },
+    {
+        "name": "Qaryat Bin Ḩasan",
+        "country": "Libya",
+        "province": "Al Marqab",
+        "population": -1,
+        "latitude": 32.684167,
+        "longitude": 14.134167
+    },
+    {
+        "name": "Qaryat az Zurayqī",
+        "country": "Libya",
+        "province": "Al Marqab",
+        "population": -1,
+        "latitude": 32.435024,
+        "longitude": 14.897337
+    },
+    {
+        "name": "Qaryat aş Şūwāk ‘Ayn Ghulū",
+        "country": "Libya",
+        "province": "Mişrātah",
+        "population": -1,
+        "latitude": 32.347276,
+        "longitude": 15.125736
+    },
+    {
+        "name": "Qaryat al Maghāribah",
+        "country": "Libya",
+        "province": "Mişrātah",
+        "population": -1,
+        "latitude": 32.395797,
+        "longitude": 15.118439
+    },
+    {
+        "name": "Qaryat al Barrānī",
+        "country": "Libya",
+        "province": "Banghāzī",
+        "population": -1,
+        "latitude": 31.856684,
+        "longitude": 19.985603
+    },
+    {
+        "name": "Qarqārish",
+        "country": "Libya",
+        "province": "Tripoli",
+        "population": -1,
+        "latitude": 32.869722,
+        "longitude": 13.107778
+    },
+    {
+        "name": "Qabīlat Wādinah",
+        "country": "Libya",
+        "province": "Al Marqab",
+        "population": -1,
+        "latitude": 32.571745,
+        "longitude": 14.039464
+    },
+    {
+        "name": "Qabīlat Takūt",
+        "country": "Libya",
+        "province": "Nālūt",
+        "population": -1,
+        "latitude": 31.953034,
+        "longitude": 11.04454
+    },
+    {
+        "name": "Qabīlat Lawātah",
+        "country": "Libya",
+        "province": "Al Marqab",
+        "population": -1,
+        "latitude": 32.557713,
+        "longitude": 14.014005
+    },
+    {
+        "name": "Qabīlat Bin Musallam",
+        "country": "Libya",
+        "province": "Al Marqab",
+        "population": -1,
+        "latitude": 32.602688,
+        "longitude": 14.050188
+    },
+    {
+        "name": "Qabīlat az Zarībah",
+        "country": "Libya",
+        "province": "Jabal al Gharbi",
+        "population": -1,
+        "latitude": 32.1575,
+        "longitude": 12.842222
+    },
+    {
+        "name": "Qabīlat Awlād aţ Ţāmid",
+        "country": "Libya",
+        "province": "Mişrātah",
+        "population": -1,
+        "latitude": 31.996716,
+        "longitude": 15.190932
+    },
+    {
+        "name": "Qabīlat ash Shurfah",
+        "country": "Libya",
+        "province": "Al Marqab",
+        "population": -1,
+        "latitude": 32.603213,
+        "longitude": 13.970674
+    },
+    {
+        "name": "Qabīlat ash Sha‘āfīyīn",
+        "country": "Libya",
+        "province": "Al Marqab",
+        "population": -1,
+        "latitude": 32.57125,
+        "longitude": 13.883551
+    },
+    {
+        "name": "Qabīlat ar Raḩbah",
+        "country": "Libya",
+        "province": "Al Jafārah",
+        "population": -1,
+        "latitude": 32.25,
+        "longitude": 13.033333
+    },
+    {
+        "name": "Qabīlat al Qalīl",
+        "country": "Libya",
+        "province": "Al Marqab",
+        "population": -1,
+        "latitude": 32.580718,
+        "longitude": 13.989743
+    },
+    {
+        "name": "Qabīlat al Mu‘ammarīyīn",
+        "country": "Libya",
+        "province": "Al Marqab",
+        "population": -1,
+        "latitude": 32.471457,
+        "longitude": 13.889025
+    },
+    {
+        "name": "Nasamah",
+        "country": "Libya",
+        "province": "Jabal al Gharbi",
+        "population": -1,
+        "latitude": 31.396019,
+        "longitude": 13.330522
+    },
+    {
+        "name": "Minţaqat al Ghanīmah",
+        "country": "Libya",
+        "province": "Al Marqab",
+        "population": -1,
+        "latitude": 32.696949,
+        "longitude": 14.042745
+    },
+    {
+        "name": "Misiqwīn",
+        "country": "Libya",
+        "province": "Murzuq",
+        "population": -1,
+        "latitude": 26.16634,
+        "longitude": 14.954544
+    },
+    {
+        "name": "Murquş",
+        "country": "Libya",
+        "province": "Nālūt",
+        "population": -1,
+        "latitude": 31.843457,
+        "longitude": 11.570467
+    },
+    {
+        "name": "Kābāw",
+        "country": "Libya",
+        "province": "Nālūt",
+        "population": -1,
+        "latitude": 31.84724,
+        "longitude": 11.330553
+    },
+    {
+        "name": "Qaryat Jītāl",
+        "country": "Libya",
+        "province": "Jabal al Gharbi",
+        "population": -1,
+        "latitude": 31.896695,
+        "longitude": 11.881526
+    },
+    {
+        "name": "Qaryat Jarrūfah",
+        "country": "Libya",
+        "province": "Banghāzī",
+        "population": -1,
+        "latitude": 31.81614,
+        "longitude": 19.979662
+    },
+    {
+        "name": "Jarmah",
+        "country": "Libya",
+        "province": "Wādī al Ḩayāt",
+        "population": -1,
+        "latitude": 26.533333,
+        "longitude": 13.066667
+    },
+    {
+        "name": "Janzūr",
+        "country": "Libya",
+        "province": "Al Jafārah",
+        "population": -1,
+        "latitude": 32.818682,
+        "longitude": 13.017266
+    },
+    {
+        "name": "Jannāwan",
+        "country": "Libya",
+        "province": "Jabal al Gharbi",
+        "population": -1,
+        "latitude": 31.963994,
+        "longitude": 12.006141
+    },
+    {
+        "name": "Jammārah",
+        "country": "Libya",
+        "province": "Jabal al Gharbi",
+        "population": -1,
+        "latitude": 31.936742,
+        "longitude": 11.9958
+    },
+    {
+        "name": "Zīzāw",
+        "country": "Libya",
+        "province": "Murzuq",
+        "population": -1,
+        "latitude": 25.9,
+        "longitude": 14.166667
+    },
+    {
+        "name": "Zillah",
+        "country": "Libya",
+        "province": "Al Jufrah",
+        "population": -1,
+        "latitude": 28.550988,
+        "longitude": 17.543576
+    },
+    {
+        "name": "Zawīlah",
+        "country": "Libya",
+        "province": "Murzuq",
+        "population": -1,
+        "latitude": 26.161882,
+        "longitude": 15.125216
+    },
+    {
+        "name": "Wāzin",
+        "country": "Libya",
+        "province": "Nālūt",
+        "population": -1,
+        "latitude": 31.942004,
+        "longitude": 10.66532
+    },
+    {
+        "name": "Umm al Ḩamām",
+        "country": "Libya",
+        "province": "Murzuq",
+        "population": -1,
+        "latitude": 25.994461,
+        "longitude": 13.640022
+    },
+    {
+        "name": "Umm al Aḩrār",
+        "country": "Libya",
+        "province": "Ash Shāţiʼ",
+        "population": -1,
+        "latitude": 27.508768,
+        "longitude": 15.027345
+    },
+    {
+        "name": "Qaryat Tūnīn",
+        "country": "Libya",
+        "province": "Nālūt",
+        "population": -1,
+        "latitude": 30.135341,
+        "longitude": 9.46578
+    },
+    {
+        "name": "Tmassah",
+        "country": "Libya",
+        "province": "Murzuq",
+        "population": -1,
+        "latitude": 26.394827,
+        "longitude": 15.784775
+    },
+    {
+        "name": "Tāwurghah",
+        "country": "Libya",
+        "province": "Mişrātah",
+        "population": -1,
+        "latitude": 32.01195,
+        "longitude": 15.113521
+    },
+    {
+        "name": "Tasāwah",
+        "country": "Libya",
+        "province": "Wādī al Ḩayāt",
+        "population": -1,
+        "latitude": 26.087398,
+        "longitude": 13.508745
+    },
+    {
+        "name": "Tarāghin",
+        "country": "Libya",
+        "province": "Murzuq",
+        "population": -1,
+        "latitude": 25.923333,
+        "longitude": 14.420556
+    },
+    {
+        "name": "Taqrūtīn",
+        "country": "Libya",
+        "province": "Wādī al Ḩayāt",
+        "population": -1,
+        "latitude": 26.101536,
+        "longitude": 13.626633
+    },
+    {
+        "name": "Tannūshāt",
+        "country": "Libya",
+        "province": "Nālūt",
+        "population": -1,
+        "latitude": 31.855468,
+        "longitude": 11.468677
+    },
+    {
+        "name": "Tamzāwah",
+        "country": "Libya",
+        "province": "Ash Shāţiʼ",
+        "population": -1,
+        "latitude": 27.571542,
+        "longitude": 14.202337
+    },
+    {
+        "name": "Ţamīnah",
+        "country": "Libya",
+        "province": "Mişrātah",
+        "population": -1,
+        "latitude": 32.25,
+        "longitude": 15.083333
+    },
+    {
+        "name": "Taghrinnah",
+        "country": "Libya",
+        "province": "Jabal al Gharbi",
+        "population": -1,
+        "latitude": 32.132778,
+        "longitude": 12.992778
+    },
+    {
+        "name": "Sūq al Jum‘ah",
+        "country": "Libya",
+        "province": "Al Marqab",
+        "population": -1,
+        "latitude": 32.469468,
+        "longitude": 14.485394
+    },
+    {
+        "name": "Sīnāwin",
+        "country": "Libya",
+        "province": "Nālūt",
+        "population": -1,
+        "latitude": 31.026035,
+        "longitude": 10.602375
+    },
+    {
+        "name": "Ḩijārah",
+        "country": "Libya",
+        "province": "Sabhā",
+        "population": -1,
+        "latitude": 27.023005,
+        "longitude": 14.456425
+    },
+    {
+        "name": "Ghaddūwah",
+        "country": "Libya",
+        "province": "Sabhā",
+        "population": -1,
+        "latitude": 26.436282,
+        "longitude": 14.275843
+    },
+    {
+        "name": "Funqul",
+        "country": "Libya",
+        "province": "Murzuq",
+        "population": -1,
+        "latitude": 25.966667,
+        "longitude": 14.25
+    },
+    {
+        "name": "Faşātah",
+        "country": "Libya",
+        "province": "Nālūt",
+        "population": -1,
+        "latitude": 31.864167,
+        "longitude": 11.379444
+    },
+    {
+        "name": "Daraj",
+        "country": "Libya",
+        "province": "Nālūt",
+        "population": -1,
+        "latitude": 30.16502,
+        "longitude": 10.458036
+    },
+    {
+        "name": "Bū Ghaylān",
+        "country": "Libya",
+        "province": "Al Jafārah",
+        "population": -1,
+        "latitude": 32.273634,
+        "longitude": 13.02909
+    },
+    {
+        "name": "Bin Ghashīr",
+        "country": "Libya",
+        "province": "Tripoli",
+        "population": -1,
+        "latitude": 32.687778,
+        "longitude": 13.173889
+    },
+    {
+        "name": "Tuquţţah",
+        "country": "Libya",
+        "province": "Nālūt",
+        "population": -1,
+        "latitude": 30.192415,
+        "longitude": 10.449446
+    },
+    {
+        "name": "Baldat al ‘Uqaybah",
+        "country": "Libya",
+        "province": "Jabal al Gharbi",
+        "population": -1,
+        "latitude": 31.994774,
+        "longitude": 12.304328
+    },
+    {
+        "name": "Qaryat al Qī‘ān",
+        "country": "Libya",
+        "province": "Nālūt",
+        "population": -1,
+        "latitude": 32.055716,
+        "longitude": 11.543018
+    },
+    {
+        "name": "Az Zurqān",
+        "country": "Libya",
+        "province": "Jabal al Gharbi",
+        "population": -1,
+        "latitude": 32.015883,
+        "longitude": 12.508514
+    },
+    {
+        "name": "‘Ayn Zārah",
+        "country": "Libya",
+        "province": "Tripoli",
+        "population": -1,
+        "latitude": 32.813333,
+        "longitude": 13.269722
+    },
+    {
+        "name": "Awlād Muḑīf",
+        "country": "Libya",
+        "province": "Jabal al Gharbi",
+        "population": -1,
+        "latitude": 32.174167,
+        "longitude": 12.863889
+    },
+    {
+        "name": "Tanahmū",
+        "country": "Libya",
+        "province": "Wādī al Ḩayāt",
+        "population": -1,
+        "latitude": 26.624564,
+        "longitude": 13.623316
+    },
+    {
+        "name": "Aş Şāliḩāt",
+        "country": "Libya",
+        "province": "Jabal al Gharbi",
+        "population": -1,
+        "latitude": 32.127222,
+        "longitude": 13.1
+    },
+    {
+        "name": "Ashkidah",
+        "country": "Libya",
+        "province": "Ash Shāţiʼ",
+        "population": -1,
+        "latitude": 27.560606,
+        "longitude": 14.448585
+    },
+    {
+        "name": "Al Ya‘āqīb",
+        "country": "Libya",
+        "province": "Jabal al Gharbi",
+        "population": -1,
+        "latitude": 32.128611,
+        "longitude": 12.945278
+    },
+    {
+        "name": "Al Wīgh",
+        "country": "Libya",
+        "province": "Murzuq",
+        "population": -1,
+        "latitude": 24.190735,
+        "longitude": 14.548586
+    },
+    {
+        "name": "Al Wāţīyah",
+        "country": "Libya",
+        "province": "An Nuqāţ al Khams",
+        "population": -1,
+        "latitude": 32.476356,
+        "longitude": 11.767903
+    },
+    {
+        "name": "Al ‘Uqaylah",
+        "country": "Libya",
+        "province": "Al Wāḩāt",
+        "population": -1,
+        "latitude": 30.257108,
+        "longitude": 19.200979
+    },
+    {
+        "name": "Quşay‘ah",
+        "country": "Libya",
+        "province": "Al Marqab",
+        "population": -1,
+        "latitude": 32.478469,
+        "longitude": 13.951162
+    },
+    {
+        "name": "Al Qurḑah",
+        "country": "Libya",
+        "province": "Ash Shāţiʼ",
+        "population": -1,
+        "latitude": 27.492796,
+        "longitude": 13.972881
+    },
+    {
+        "name": "Al Qawāsim",
+        "country": "Libya",
+        "province": "Jabal al Gharbi",
+        "population": -1,
+        "latitude": 32.184182,
+        "longitude": 13.060451
+    },
+    {
+        "name": "Al Qaşabāt",
+        "country": "Libya",
+        "province": "Al Marqab",
+        "population": -1,
+        "latitude": 32.585972,
+        "longitude": 14.039329
+    },
+    {
+        "name": "Al Qaryāt al Gharbīyah",
+        "country": "Libya",
+        "province": "Jabal al Gharbi",
+        "population": -1,
+        "latitude": 30.412411,
+        "longitude": 13.418526
+    },
+    {
+        "name": "Al Māyah",
+        "country": "Libya",
+        "province": "Al Jafārah",
+        "population": -1,
+        "latitude": 32.801944,
+        "longitude": 12.879167
+    },
+    {
+        "name": "Al Masūfīyīn",
+        "country": "Libya",
+        "province": "Jabal al Gharbi",
+        "population": -1,
+        "latitude": 32.056144,
+        "longitude": 12.991325
+    },
+    {
+        "name": "Al Mashāshiţah",
+        "country": "Libya",
+        "province": "Al Jafārah",
+        "population": -1,
+        "latitude": 32.798421,
+        "longitude": 12.999143
+    },
+    {
+        "name": "Al Karmah",
+        "country": "Libya",
+        "province": "Banghāzī",
+        "population": -1,
+        "latitude": 31.980243,
+        "longitude": 19.995981
+    },
+    {
+        "name": "Al Jawsh",
+        "country": "Libya",
+        "province": "Nālūt",
+        "population": -1,
+        "latitude": 32,
+        "longitude": 11.666667
+    },
+    {
+        "name": "Al Ghīrān",
+        "country": "Libya",
+        "province": "Mişrātah",
+        "population": -1,
+        "latitude": 32.35,
+        "longitude": 15.033333
+    },
+    {
+        "name": "Al Fuqahā’",
+        "country": "Libya",
+        "province": "Al Jufrah",
+        "population": -1,
+        "latitude": 27.810993,
+        "longitude": 16.38953
+    },
+    {
+        "name": "Al Barakāt",
+        "country": "Libya",
+        "province": "Ghāt",
+        "population": -1,
+        "latitude": 24.894004,
+        "longitude": 10.183363
+    },
+    {
+        "name": "Ad Duwaysah",
+        "country": "Libya",
+        "province": "Ash Shāţiʼ",
+        "population": -1,
+        "latitude": 27.502506,
+        "longitude": 13.963649
+    },
+    {
+        "name": "Ad Dāfīnah",
+        "country": "Libya",
+        "province": "Al Marqab",
+        "population": -1,
+        "latitude": 32.413427,
+        "longitude": 14.792968
+    },
+    {
+        "name": "Abū Zayyān",
+        "country": "Libya",
+        "province": "Jabal al Gharbi",
+        "population": -1,
+        "latitude": 32.099722,
+        "longitude": 12.978611
+    },
+    {
+        "name": "Shahhat",
+        "country": "Libya",
+        "province": "LY.49",
+        "population": -1,
+        "latitude": 32.8043018862344,
+        "longitude": 21.8660545349121
+    },
+    {
+        "name": "Qaşr al Jady",
+        "country": "Libya",
+        "province": "Al Buţnān",
+        "population": -1,
+        "latitude": 31.852868,
+        "longitude": 24.7878
+    },
+    {
+        "name": "Qaryūnus",
+        "country": "Libya",
+        "province": "Banghāzī",
+        "population": -1,
+        "latitude": 32.063899,
+        "longitude": 20.051989
+    },
+    {
+        "name": "Qaryat ‘Umar al Mukhtār",
+        "country": "Libya",
+        "province": "Al Jabal al Akhḑar",
+        "population": -1,
+        "latitude": 32.629781,
+        "longitude": 21.676512
+    },
+    {
+        "name": "Qaryat Sīdī Shāhir ad Dīn",
+        "country": "Libya",
+        "province": "Al Marj",
+        "population": -1,
+        "latitude": 32.661067,
+        "longitude": 20.854223
+    },
+    {
+        "name": "Qaryat Qāryūnis",
+        "country": "Libya",
+        "province": "Banghāzī",
+        "population": -1,
+        "latitude": 32.051951,
+        "longitude": 20.041498
+    },
+    {
+        "name": "Qaryat al Malīḩah",
+        "country": "Libya",
+        "province": "Banghāzī",
+        "population": -1,
+        "latitude": 31.831051,
+        "longitude": 20.063596
+    },
+    {
+        "name": "Qaryat al Lūfīyah",
+        "country": "Libya",
+        "province": "Banghāzī",
+        "population": -1,
+        "latitude": 31.867045,
+        "longitude": 20.04771
+    },
+    {
+        "name": "Qaryat al ‘Imāmah",
+        "country": "Libya",
+        "province": "Al Buţnān",
+        "population": -1,
+        "latitude": 32.098232,
+        "longitude": 23.89006
+    },
+    {
+        "name": "Qaryat al Barakāt",
+        "country": "Libya",
+        "province": "Banghāzī",
+        "population": -1,
+        "latitude": 31.766283,
+        "longitude": 20.031479
+    },
+    {
+        "name": "Qaryat al Barakāt",
+        "country": "Libya",
+        "province": "Banghāzī",
+        "population": -1,
+        "latitude": 31.776775,
+        "longitude": 20.027965
+    },
+    {
+        "name": "Marāwah",
+        "country": "Libya",
+        "province": "Al Jabal al Akhḑar",
+        "population": -1,
+        "latitude": 32.485735,
+        "longitude": 21.409578
+    },
+    {
+        "name": "Kurkūrah",
+        "country": "Libya",
+        "province": "Banghāzī",
+        "population": -1,
+        "latitude": 31.426098,
+        "longitude": 20.026848
+    },
+    {
+        "name": "Karsah",
+        "country": "Libya",
+        "province": "Darnah",
+        "population": -1,
+        "latitude": 32.8472,
+        "longitude": 22.419895
+    },
+    {
+        "name": "Jālū",
+        "country": "Libya",
+        "province": "Al Wāḩāt",
+        "population": 3334,
+        "latitude": 29.033333,
+        "longitude": 21.55
+    },
+    {
+        "name": "Dār al Kīsh",
+        "country": "Libya",
+        "province": "Banghāzī",
+        "population": -1,
+        "latitude": 32.094074,
+        "longitude": 20.071051
+    },
+    {
+        "name": "Zāwiyat Bishārah",
+        "country": "Libya",
+        "province": "Darnah",
+        "population": -1,
+        "latitude": 32.766952,
+        "longitude": 22.220321
+    },
+    {
+        "name": "Zāwiyat al Muraşşaş",
+        "country": "Libya",
+        "province": "Al Buţnān",
+        "population": -1,
+        "latitude": 32.12927,
+        "longitude": 23.66934
+    },
+    {
+        "name": "Zāwiyat al Manastīr",
+        "country": "Libya",
+        "province": "Al Buţnān",
+        "population": -1,
+        "latitude": 31.797302,
+        "longitude": 24.93395
+    },
+    {
+        "name": "Zāwiyat al Ḩabīb",
+        "country": "Libya",
+        "province": "Darnah",
+        "population": -1,
+        "latitude": 32.81368,
+        "longitude": 22.293427
+    },
+    {
+        "name": "Zahrah",
+        "country": "Libya",
+        "province": "Darnah",
+        "population": -1,
+        "latitude": 32.866667,
+        "longitude": 22.283333
+    },
+    {
+        "name": "Tīkah",
+        "country": "Libya",
+        "province": "Banghāzī",
+        "population": -1,
+        "latitude": 31.910395,
+        "longitude": 20.018614
+    },
+    {
+        "name": "Tansulūkh",
+        "country": "Libya",
+        "province": "Banghāzī",
+        "population": -1,
+        "latitude": 32.38373,
+        "longitude": 20.374867
+    },
+    {
+        "name": "Benina",
+        "country": "Libya",
+        "province": "Banghāzī",
+        "population": -1,
+        "latitude": 32.08556,
+        "longitude": 20.25699
+    },
+    {
+        "name": "Al Būmbah",
+        "country": "Libya",
+        "province": "Darnah",
+        "population": -1,
+        "latitude": 32.438605,
+        "longitude": 23.067229
+    },
+    {
+        "name": "‘Ayn Mārrah",
+        "country": "Libya",
+        "province": "Darnah",
+        "population": -1,
+        "latitude": 32.75,
+        "longitude": 22.383333
+    },
+    {
+        "name": "Aş Şābirī al Gharbī",
+        "country": "Libya",
+        "province": "Banghāzī",
+        "population": -1,
+        "latitude": 32.135811,
+        "longitude": 20.078481
+    },
+    {
+        "name": "An Nawwāqīyah",
+        "country": "Libya",
+        "province": "Banghāzī",
+        "population": -1,
+        "latitude": 31.927414,
+        "longitude": 20.168654
+    },
+    {
+        "name": "Al Qarz̧abah",
+        "country": "Libya",
+        "province": "Al Buţnān",
+        "population": -1,
+        "latitude": 32.137501,
+        "longitude": 23.480468
+    },
+    {
+        "name": "Al Mabnī",
+        "country": "Libya",
+        "province": "Banghāzī",
+        "population": -1,
+        "latitude": 32.427921,
+        "longitude": 20.450022
+    },
+    {
+        "name": "Qaryat al Ghadrah",
+        "country": "Libya",
+        "province": "Banghāzī",
+        "population": -1,
+        "latitude": 31.807573,
+        "longitude": 20.059151
+    },
+    {
+        "name": "Al Fājir",
+        "country": "Libya",
+        "province": "Al Qubbah",
+        "population": -1,
+        "latitude": 32.883333,
+        "longitude": 22.2
+    },
+    {
+        "name": "Al Birkah",
+        "country": "Libya",
+        "province": "Banghāzī",
+        "population": -1,
+        "latitude": 32.099986,
+        "longitude": 20.081718
+    },
+    {
+        "name": "Al Ashhab",
+        "country": "Libya",
+        "province": "Al Buţnān",
+        "population": -1,
+        "latitude": 31.888697,
+        "longitude": 24.657193
+    },
+    {
+        "name": "Al ‘Adam",
+        "country": "Libya",
+        "province": "Al Buţnān",
+        "population": -1,
+        "latitude": 31.866439,
+        "longitude": 23.925773
+    },
+    {
+        "name": "Shakshūk",
+        "country": "Libya",
+        "province": "Jabal al Gharbi",
+        "population": -1,
+        "latitude": 32.020235,
+        "longitude": 11.949509
+    },
+    {
+        "name": "Samnū",
+        "country": "Libya",
+        "province": "Sabhā",
+        "population": -1,
+        "latitude": 27.274591,
+        "longitude": 14.881896
+    },
+    {
+        "name": "Ra’s aţ Ţabl",
+        "country": "Libya",
+        "province": "Jabal al Gharbi",
+        "population": -1,
+        "latitude": 31.301598,
+        "longitude": 13.492678
+    },
+    {
+        "name": "Ra’s Judayr",
+        "country": "Libya",
+        "province": "An Nuqāţ al Khams",
+        "population": -1,
+        "latitude": 33.148497,
+        "longitude": 11.567551
+    },
+    {
+        "name": "Quţţah",
+        "country": "Libya",
+        "province": "Ash Shāţiʼ",
+        "population": -1,
+        "latitude": 27.4839,
+        "longitude": 13.791632
+    },
+    {
+        "name": "Qirrīm",
+        "country": "Libya",
+        "province": "Al Marqab",
+        "population": -1,
+        "latitude": 32.634167,
+        "longitude": 13.982222
+    },
+    {
+        "name": "Qarzah",
+        "country": "Libya",
+        "province": "Mişrātah",
+        "population": -1,
+        "latitude": 30.965925,
+        "longitude": 14.569801
+    },
+    {
+        "name": "Qīrah",
+        "country": "Libya",
+        "province": "Ash Shāţiʼ",
+        "population": -1,
+        "latitude": 27.585947,
+        "longitude": 14.353748
+    },
+    {
+        "name": "Qayqām",
+        "country": "Libya",
+        "province": "Ash Shāţiʼ",
+        "population": -1,
+        "latitude": 27.564076,
+        "longitude": 14.182386
+    },
+    {
+        "name": "Qaşr Khulayf",
+        "country": "Libya",
+        "province": "Wādī al Ḩayāt",
+        "population": -1,
+        "latitude": 26.7,
+        "longitude": 13.866667
+    },
+    {
+        "name": "Qaşr al Ḩājj",
+        "country": "Libya",
+        "province": "Jabal al Gharbi",
+        "population": -1,
+        "latitude": 32.041355,
+        "longitude": 12.170357
+    },
+    {
+        "name": "Qaşr al Fawqānī",
+        "country": "Libya",
+        "province": "Nālūt",
+        "population": -1,
+        "latitude": 31.033333,
+        "longitude": 10.6
+    },
+    {
+        "name": "Qaşbat Diyāb",
+        "country": "Libya",
+        "province": "Nālūt",
+        "population": -1,
+        "latitude": 30.181897,
+        "longitude": 10.450194
+    },
+    {
+        "name": "Tīnīnāy",
+        "country": "Libya",
+        "province": "Mişrātah",
+        "population": -1,
+        "latitude": 31.393341,
+        "longitude": 13.740824
+    },
+    {
+        "name": "Qaryat Shumaykh",
+        "country": "Libya",
+        "province": "Mişrātah",
+        "population": -1,
+        "latitude": 31.411687,
+        "longitude": 13.951865
+    },
+    {
+        "name": "Qaryat Rufaydah",
+        "country": "Libya",
+        "province": "Mişrātah",
+        "population": -1,
+        "latitude": 32.33158,
+        "longitude": 15.097398
+    },
+    {
+        "name": "Qaryat Nadbās",
+        "country": "Libya",
+        "province": "Jabal al Gharbi",
+        "population": -1,
+        "latitude": 31.950901,
+        "longitude": 11.968819
+    },
+    {
+        "name": "Qaryat Mazzū",
+        "country": "Libya",
+        "province": "Jabal al Gharbi",
+        "population": -1,
+        "latitude": 31.945948,
+        "longitude": 12.019758
+    },
+    {
+        "name": "Qaryat Marwān",
+        "country": "Libya",
+        "province": "Jabal al Gharbi",
+        "population": -1,
+        "latitude": 32.138611,
+        "longitude": 13.069167
+    },
+    {
+        "name": "Qaryat Hanshīr al Budūr",
+        "country": "Libya",
+        "province": "Al Marqab",
+        "population": -1,
+        "latitude": 32.61961,
+        "longitude": 14.149891
+    },
+    {
+        "name": "Qaryat Abū Fakhīrah",
+        "country": "Libya",
+        "province": "Banghāzī",
+        "population": -1,
+        "latitude": 31.945809,
+        "longitude": 19.975972
+    },
+    {
+        "name": "Qaryat Bin Tallīs",
+        "country": "Libya",
+        "province": "Al Marqab",
+        "population": -1,
+        "latitude": 31.80054,
+        "longitude": 14.071682
+    },
+    {
+        "name": "Qaryat Awlād Duwāb",
+        "country": "Libya",
+        "province": "Jabal al Gharbi",
+        "population": -1,
+        "latitude": 30.676693,
+        "longitude": 13.253398
+    },
+    {
+        "name": "Qaryat aş Şawādiq",
+        "country": "Libya",
+        "province": "Mişrātah",
+        "population": -1,
+        "latitude": 32.021898,
+        "longitude": 15.121111
+    },
+    {
+        "name": "Qaryat aş Şabāyah",
+        "country": "Libya",
+        "province": "Mişrātah",
+        "population": -1,
+        "latitude": 31.402167,
+        "longitude": 14.233419
+    },
+    {
+        "name": "Qaryat an Nadwah",
+        "country": "Libya",
+        "province": "Jabal al Gharbi",
+        "population": -1,
+        "latitude": 31.874124,
+        "longitude": 11.891478
+    },
+    {
+        "name": "Qaryat al Wuqayyāt",
+        "country": "Libya",
+        "province": "Al Marqab",
+        "population": -1,
+        "latitude": 32.419714,
+        "longitude": 14.58998
+    },
+    {
+        "name": "Qaryat al Qaţ‘",
+        "country": "Libya",
+        "province": "Jabal al Gharbi",
+        "population": -1,
+        "latitude": 31.865771,
+        "longitude": 11.894277
+    },
+    {
+        "name": "Qaryat al Mayāmīn",
+        "country": "Libya",
+        "province": "Tripoli",
+        "population": -1,
+        "latitude": 32.233333,
+        "longitude": 13.053889
+    },
+    {
+        "name": "Qaryat al Ma‘ānīn",
+        "country": "Libya",
+        "province": "Jabal al Gharbi",
+        "population": -1,
+        "latitude": 32.067512,
+        "longitude": 12.544915
+    },
+    {
+        "name": "Qaryat al Khirbah",
+        "country": "Libya",
+        "province": "Jabal al Gharbi",
+        "population": -1,
+        "latitude": 31.880755,
+        "longitude": 11.895035
+    },
+    {
+        "name": "Qaryat al Kamshāt",
+        "country": "Libya",
+        "province": "Jabal al Gharbi",
+        "population": -1,
+        "latitude": 32.142778,
+        "longitude": 13.106389
+    },
+    {
+        "name": "Qaryat al Hanādah",
+        "country": "Libya",
+        "province": "Al Marqab",
+        "population": -1,
+        "latitude": 32.676892,
+        "longitude": 14.157688
+    },
+    {
+        "name": "Qaryat al Habārah",
+        "country": "Libya",
+        "province": "Mişrātah",
+        "population": -1,
+        "latitude": 32.361646,
+        "longitude": 15.148768
+    },
+    {
+        "name": "Qaryat al Ghūţ",
+        "country": "Libya",
+        "province": "Mişrātah",
+        "population": -1,
+        "latitude": 32.385917,
+        "longitude": 15.10749
+    },
+    {
+        "name": "Qaryat al Fayāşilah",
+        "country": "Libya",
+        "province": "Jabal al Gharbi",
+        "population": -1,
+        "latitude": 31.85192,
+        "longitude": 11.767405
+    },
+    {
+        "name": "Qaryat al ‘Amrūnī",
+        "country": "Libya",
+        "province": "Jabal al Gharbi",
+        "population": -1,
+        "latitude": 32.131111,
+        "longitude": 12.634167
+    },
+    {
+        "name": "Qabīlat Za‘farān",
+        "country": "Libya",
+        "province": "Al Marqab",
+        "population": -1,
+        "latitude": 32.589722,
+        "longitude": 14.036389
+    },
+    {
+        "name": "Qabīlat Sīdī Mu‘ammar",
+        "country": "Libya",
+        "province": "Al Marqab",
+        "population": -1,
+        "latitude": 32.495915,
+        "longitude": 13.880365
+    },
+    {
+        "name": "Qabīlat Saqīn",
+        "country": "Libya",
+        "province": "Jabal al Gharbi",
+        "population": -1,
+        "latitude": 32.099444,
+        "longitude": 13.057222
+    },
+    {
+        "name": "Qabīlat Salimah",
+        "country": "Libya",
+        "province": "Al Marqab",
+        "population": -1,
+        "latitude": 32.64329,
+        "longitude": 13.954129
+    },
+    {
+        "name": "Qabīlat Qubā‘",
+        "country": "Libya",
+        "province": "Jabal al Gharbi",
+        "population": -1,
+        "latitude": 32.086389,
+        "longitude": 13.011667
+    },
+    {
+        "name": "Qabīlat Indārah",
+        "country": "Libya",
+        "province": "Al Marqab",
+        "population": -1,
+        "latitude": 32.608889,
+        "longitude": 14.026667
+    },
+    {
+        "name": "Qabīlat Banī Salīm",
+        "country": "Libya",
+        "province": "Al Marqab",
+        "population": -1,
+        "latitude": 32.627935,
+        "longitude": 14.026945
+    },
+    {
+        "name": "Qabīlat Banī Layth",
+        "country": "Libya",
+        "province": "Al Marqab",
+        "population": -1,
+        "latitude": 32.569365,
+        "longitude": 14.016645
+    },
+    {
+        "name": "Qabīlat Badarthan",
+        "country": "Libya",
+        "province": "Jabal al Gharbi",
+        "population": -1,
+        "latitude": 32.166111,
+        "longitude": 13.047222
+    },
+    {
+        "name": "Qabīlat Awlād ‘Ārif",
+        "country": "Libya",
+        "province": "Al Marqab",
+        "population": -1,
+        "latitude": 32.619089,
+        "longitude": 13.901382
+    },
+    {
+        "name": "Qabīlat ash Shuţaywīyah",
+        "country": "Libya",
+        "province": "Al Marqab",
+        "population": -1,
+        "latitude": 32.292663,
+        "longitude": 14.67405
+    },
+    {
+        "name": "Qabīlat al Fawātīr",
+        "country": "Libya",
+        "province": "Al Marqab",
+        "population": -1,
+        "latitude": 32.569293,
+        "longitude": 13.918834
+    },
+    {
+        "name": "Qabīlat al ‘Amārīyīn",
+        "country": "Libya",
+        "province": "Al Marqab",
+        "population": -1,
+        "latitude": 32.601174,
+        "longitude": 13.910834
+    },
+    {
+        "name": "Qabīlat al ‘Abādīlah",
+        "country": "Libya",
+        "province": "Al Marqab",
+        "population": -1,
+        "latitude": 32.280329,
+        "longitude": 14.697217
+    },
+    {
+        "name": "Qabīlah",
+        "country": "Libya",
+        "province": "Jabal al Gharbi",
+        "population": -1,
+        "latitude": 32.161667,
+        "longitude": 13.1025
+    },
+    {
+        "name": "Na‘īmah",
+        "country": "Libya",
+        "province": "Al Marqab",
+        "population": -1,
+        "latitude": 32.431625,
+        "longitude": 14.668864
+    },
+    {
+        "name": "Amḩayyah",
+        "country": "Libya",
+        "province": "Tripoli",
+        "population": -1,
+        "latitude": 32.403349,
+        "longitude": 13.55386
+    },
+    {
+        "name": "Bab al-Azizia",
+        "country": "Libya",
+        "province": "Tripoli",
+        "population": -1,
+        "latitude": 32.878138,
+        "longitude": 13.16822
+    },
+    {
+        "name": "Zāwiyat as Samāḩ",
+        "country": "Libya",
+        "province": "Al Marqab",
+        "population": -1,
+        "latitude": 32.575272,
+        "longitude": 13.995744
+    },
+    {
+        "name": "Mazra‘at Katarīllā",
+        "country": "Libya",
+        "province": "Tripoli",
+        "population": -1,
+        "latitude": 32.465444,
+        "longitude": 13.715983
+    },
+    {
+        "name": "Masallātah",
+        "country": "Libya",
+        "province": "Al Marqab",
+        "population": 23702,
+        "latitude": 32.6166667,
+        "longitude": 14
+    },
+    {
+        "name": "Majdūl",
+        "country": "Libya",
+        "province": "Murzuq",
+        "population": -1,
+        "latitude": 25.864722,
+        "longitude": 15.111667
+    },
+    {
+        "name": "Madrūsah",
+        "country": "Libya",
+        "province": "Murzuq",
+        "population": -1,
+        "latitude": 24.785383,
+        "longitude": 14.532039
+    },
+    {
+        "name": "Kammūn",
+        "country": "Libya",
+        "province": "Jabal al Gharbi",
+        "population": -1,
+        "latitude": 32.136215,
+        "longitude": 13.031962
+    },
+    {
+        "name": "Īnīr",
+        "country": "Libya",
+        "province": "Jabal al Gharbi",
+        "population": -1,
+        "latitude": 31.922222,
+        "longitude": 11.946667
+    },
+    {
+        "name": "Sawānī Bin Ādam",
+        "country": "Libya",
+        "province": "Al Jafārah",
+        "population": -1,
+        "latitude": 32.712525,
+        "longitude": 13.067253
+    },
+    {
+        "name": "Zāwiyat al Maḩjūb",
+        "country": "Libya",
+        "province": "Mişrātah",
+        "population": -1,
+        "latitude": 32.384427,
+        "longitude": 14.988151
+    },
+    {
+        "name": "Zāwiyat al ‘Amārīyīn",
+        "country": "Libya",
+        "province": "Al Marqab",
+        "population": -1,
+        "latitude": 32.591667,
+        "longitude": 13.987778
+    },
+    {
+        "name": "Zalwāz",
+        "country": "Libya",
+        "province": "Ash Shāţiʼ",
+        "population": -1,
+        "latitude": 27.571636,
+        "longitude": 14.257235
+    },
+    {
+        "name": "Wīfāt",
+        "country": "Libya",
+        "province": "Jabal al Gharbi",
+        "population": -1,
+        "latitude": 31.937109,
+        "longitude": 11.956113
+    },
+    {
+        "name": "Wāw al Kabīr",
+        "country": "Libya",
+        "province": "Murzuq",
+        "population": -1,
+        "latitude": 25.322222,
+        "longitude": 16.715278
+    },
+    {
+        "name": "Wānzīraf",
+        "country": "Libya",
+        "province": "Jabal al Gharbi",
+        "population": -1,
+        "latitude": 31.859321,
+        "longitude": 11.869527
+    },
+    {
+        "name": "Wanzarīk",
+        "country": "Libya",
+        "province": "Ash Shāţiʼ",
+        "population": -1,
+        "latitude": 27.4812,
+        "longitude": 13.33017
+    },
+    {
+        "name": "Umm Şaffār",
+        "country": "Libya",
+        "province": "Nālūt",
+        "population": -1,
+        "latitude": 31.889328,
+        "longitude": 11.56151
+    },
+    {
+        "name": "Umm az Zarsān",
+        "country": "Libya",
+        "province": "Jabal al Gharbi",
+        "population": -1,
+        "latitude": 32.03378,
+        "longitude": 12.554011
+    },
+    {
+        "name": "Umm al ‘Iz̧ām",
+        "country": "Libya",
+        "province": "Murzuq",
+        "population": -1,
+        "latitude": 26.05,
+        "longitude": 15.466667
+    },
+    {
+        "name": "Umm al Arānib",
+        "country": "Libya",
+        "province": "Murzuq",
+        "population": -1,
+        "latitude": 26.133863,
+        "longitude": 14.737203
+    },
+    {
+        "name": "Umm al ‘Abīd",
+        "country": "Libya",
+        "province": "Ash Shāţiʼ",
+        "population": -1,
+        "latitude": 27.516667,
+        "longitude": 15.033333
+    },
+    {
+        "name": "Tuzugu",
+        "country": "Libya",
+        "province": "Libya",
+        "population": -1,
+        "latitude": 22.3666667,
+        "longitude": 19.5333333
+    },
+    {
+        "name": "Tuwaywā",
+        "country": "Libya",
+        "province": "Murzuq",
+        "population": -1,
+        "latitude": 26.146287,
+        "longitude": 14.693648
+    },
+    {
+        "name": "Tūskīn",
+        "country": "Libya",
+        "province": "Wādī al Ḩayāt",
+        "population": -1,
+        "latitude": 26.583333,
+        "longitude": 13.566667
+    },
+    {
+        "name": "Tuwaysh",
+        "country": "Libya",
+        "province": "Wādī al Ḩayāt",
+        "population": -1,
+        "latitude": 26.540176,
+        "longitude": 13.100186
+    },
+    {
+        "name": "Tuwaywā",
+        "country": "Libya",
+        "province": "Wādī al Ḩayāt",
+        "population": -1,
+        "latitude": 26.55848,
+        "longitude": 13.148759
+    },
+    {
+        "name": "Tmīsān",
+        "country": "Libya",
+        "province": "Ash Shāţiʼ",
+        "population": -1,
+        "latitude": 27.488554,
+        "longitude": 13.125706
+    },
+    {
+        "name": "Tirakt",
+        "country": "Libya",
+        "province": "Nālūt",
+        "population": -1,
+        "latitude": 31.864722,
+        "longitude": 11.133056
+    },
+    {
+        "name": "Tinzight",
+        "country": "Libya",
+        "province": "Nālūt",
+        "population": -1,
+        "latitude": 31.887932,
+        "longitude": 11.572505
+    },
+    {
+        "name": "Tījī",
+        "country": "Libya",
+        "province": "Nālūt",
+        "population": -1,
+        "latitude": 32.014931,
+        "longitude": 11.354609
+    },
+    {
+        "name": "Tfalfalt",
+        "country": "Libya",
+        "province": "Nālūt",
+        "population": -1,
+        "latitude": 30.183333,
+        "longitude": 10.4
+    },
+    {
+        "name": "Tāzmarāyit",
+        "country": "Libya",
+        "province": "Jabal al Gharbi",
+        "population": -1,
+        "latitude": 32.078995,
+        "longitude": 12.563714
+    },
+    {
+        "name": "Tardīyah",
+        "country": "Libya",
+        "province": "Jabal al Gharbi",
+        "population": -1,
+        "latitude": 31.984275,
+        "longitude": 12.114625
+    },
+    {
+        "name": "Tandimmīrah",
+        "country": "Libya",
+        "province": "Nālūt",
+        "population": -1,
+        "latitude": 31.864167,
+        "longitude": 11.501667
+    },
+    {
+        "name": "Tamazdah",
+        "country": "Libya",
+        "province": "Jabal al Gharbi",
+        "population": -1,
+        "latitude": 31.918627,
+        "longitude": 11.948273
+    },
+    {
+        "name": "Tamanhint",
+        "country": "Libya",
+        "province": "Sabhā",
+        "population": -1,
+        "latitude": 27.207383,
+        "longitude": 14.62726
+    },
+    {
+        "name": "Tākbāl",
+        "country": "Libya",
+        "province": "Jabal al Gharbi",
+        "population": -1,
+        "latitude": 32.124167,
+        "longitude": 12.633889
+    },
+    {
+        "name": "Tajarhī",
+        "country": "Libya",
+        "province": "Murzuq",
+        "population": -1,
+        "latitude": 24.37,
+        "longitude": 14.470833
+    },
+    {
+        "name": "Tāghmah",
+        "country": "Libya",
+        "province": "Jabal al Gharbi",
+        "population": -1,
+        "latitude": 32.097071,
+        "longitude": 12.549946
+    },
+    {
+        "name": "Ţabaqah",
+        "country": "Libya",
+        "province": "Jabal al Gharbi",
+        "population": -1,
+        "latitude": 30.433116,
+        "longitude": 13.304314
+    },
+    {
+        "name": "Tabālūt",
+        "country": "Libya",
+        "province": "Jabal al Gharbi",
+        "population": -1,
+        "latitude": 32.093056,
+        "longitude": 12.961944
+    },
+    {
+        "name": "Sūq al Khamīs",
+        "country": "Libya",
+        "province": "Al Marqab",
+        "population": -1,
+        "latitude": 32.587162,
+        "longitude": 14.346945
+    },
+    {
+        "name": "Sūq al Jum‘ah",
+        "country": "Libya",
+        "province": "Tripoli",
+        "population": -1,
+        "latitude": 32.883333,
+        "longitude": 13.233333
+    },
+    {
+        "name": "Qaryat Sūq al Jum‘ah",
+        "country": "Libya",
+        "province": "Tripoli",
+        "population": -1,
+        "latitude": 32.622765,
+        "longitude": 13.673187
+    },
+    {
+        "name": "Sūq al ‘Alāliqah",
+        "country": "Libya",
+        "province": "An Nuqāţ al Khams",
+        "population": -1,
+        "latitude": 32.755331,
+        "longitude": 12.476021
+    },
+    {
+        "name": "Sīdī aş Şayd",
+        "country": "Libya",
+        "province": "Tripoli",
+        "population": -1,
+        "latitude": 32.334617,
+        "longitude": 13.479417
+    },
+    {
+        "name": "Al Ḩummayrah",
+        "country": "Libya",
+        "province": "Murzuq",
+        "population": -1,
+        "latitude": 26.113604,
+        "longitude": 14.809132
+    },
+    {
+        "name": "Qarāqārah",
+        "country": "Libya",
+        "province": "Wādī al Ḩayāt",
+        "population": -1,
+        "latitude": 26.549253,
+        "longitude": 13.212135
+    },
+    {
+        "name": "Funduq al Jaḩsh",
+        "country": "Libya",
+        "province": "Tripoli",
+        "population": -1,
+        "latitude": 32.733333,
+        "longitude": 13.833333
+    },
+    {
+        "name": "Funduq al ‘Allūş",
+        "country": "Libya",
+        "province": "Tripoli",
+        "population": -1,
+        "latitude": 32.709403,
+        "longitude": 13.940024
+    },
+    {
+        "name": "Dūjāl",
+        "country": "Libya",
+        "province": "Wādī al Ḩayāt",
+        "population": -1,
+        "latitude": 26.126821,
+        "longitude": 13.694117
+    },
+    {
+        "name": "Dabdab",
+        "country": "Libya",
+        "province": "Ash Shāţiʼ",
+        "population": -1,
+        "latitude": 27.586259,
+        "longitude": 14.418285
+    },
+    {
+        "name": "Curni Ebredaa",
+        "country": "Libya",
+        "province": "Murzuq",
+        "population": -1,
+        "latitude": 23.366667,
+        "longitude": 15.4
+    },
+    {
+        "name": "Burayk",
+        "country": "Libya",
+        "province": "Wādī al Ḩayāt",
+        "population": -1,
+        "latitude": 26.552801,
+        "longitude": 13.11418
+    },
+    {
+        "name": "Bū al Ashhar",
+        "country": "Libya",
+        "province": "Tripoli",
+        "population": -1,
+        "latitude": 32.883333,
+        "longitude": 13.316667
+    },
+    {
+        "name": "Bi’r al Ghanam",
+        "country": "Libya",
+        "province": "Az Zāwiyah",
+        "population": -1,
+        "latitude": 32.309117,
+        "longitude": 12.569349
+    },
+    {
+        "name": "Bin Jawwād",
+        "country": "Libya",
+        "province": "Surt",
+        "population": -1,
+        "latitude": 30.804179,
+        "longitude": 18.077204
+    },
+    {
+        "name": "Barqin",
+        "country": "Libya",
+        "province": "Ash Shāţiʼ",
+        "population": -1,
+        "latitude": 27.548007,
+        "longitude": 13.629145
+    },
+    {
+        "name": "Barqāwī",
+        "country": "Libya",
+        "province": "Ash Shāţiʼ",
+        "population": -1,
+        "latitude": 27.574932,
+        "longitude": 14.233275
+    },
+    {
+        "name": "Baqqālah",
+        "country": "Libya",
+        "province": "Baladīyat Ghadāmis",
+        "population": -1,
+        "latitude": 31.84623,
+        "longitude": 11.584399
+    },
+    {
+        "name": "Banī Yakhlaf",
+        "country": "Libya",
+        "province": "Al Jafārah",
+        "population": -1,
+        "latitude": 32.232778,
+        "longitude": 13.01
+    },
+    {
+        "name": "Baldat Raqraq",
+        "country": "Libya",
+        "province": "Jabal al Gharbi",
+        "population": -1,
+        "latitude": 31.921909,
+        "longitude": 11.956797
+    },
+    {
+        "name": "Baldat Jurayjin",
+        "country": "Libya",
+        "province": "Baladīyat Ghadāmis",
+        "population": -1,
+        "latitude": 31.879911,
+        "longitude": 11.606188
+    },
+    {
+        "name": "Baldat Diqqī",
+        "country": "Libya",
+        "province": "Nālūt",
+        "population": -1,
+        "latitude": 31.946111,
+        "longitude": 11.669722
+    },
+    {
+        "name": "Baldat al Qawāsim",
+        "country": "Libya",
+        "province": "Jabal al Gharbi",
+        "population": -1,
+        "latitude": 31.85,
+        "longitude": 12.216667
+    },
+    {
+        "name": "Baldat al Kurūmah",
+        "country": "Libya",
+        "province": "Jabal al Gharbi",
+        "population": -1,
+        "latitude": 31.863481,
+        "longitude": 11.887292
+    },
+    {
+        "name": "Az Zuwayyah",
+        "country": "Libya",
+        "province": "Jabal al Gharbi",
+        "population": -1,
+        "latitude": 32.108611,
+        "longitude": 13.022222
+    },
+    {
+        "name": "Az Zīghan",
+        "country": "Libya",
+        "province": "Ash Shāţiʼ",
+        "population": -1,
+        "latitude": 27.36853,
+        "longitude": 14.907863
+    },
+    {
+        "name": "Az Zaytūnah",
+        "country": "Libya",
+        "province": "Murzuq",
+        "population": -1,
+        "latitude": 25.95,
+        "longitude": 14.533333
+    },
+    {
+        "name": "Az Zarqān",
+        "country": "Libya",
+        "province": "Murzuq",
+        "population": -1,
+        "latitude": 25.975833,
+        "longitude": 13.795
+    },
+    {
+        "name": "‘Ayn al Ghazāyā",
+        "country": "Libya",
+        "province": "Baladīyat Ghadāmis",
+        "population": -1,
+        "latitude": 31.903999,
+        "longitude": 10.810638
+    },
+    {
+        "name": "Awlād Maḩmūd",
+        "country": "Libya",
+        "province": "Nālūt",
+        "population": -1,
+        "latitude": 31.827852,
+        "longitude": 11.047063
+    },
+    {
+        "name": "Awlād Khalīfah",
+        "country": "Libya",
+        "province": "Jabal al Gharbi",
+        "population": -1,
+        "latitude": 31.953256,
+        "longitude": 12.254183
+    },
+    {
+        "name": "Awlād Bū Ra’s",
+        "country": "Libya",
+        "province": "Jabal al Gharbi",
+        "population": -1,
+        "latitude": 32.183598,
+        "longitude": 13.07155
+    },
+    {
+        "name": "Awlād ‘Alī",
+        "country": "Libya",
+        "province": "Jabal al Gharbi",
+        "population": -1,
+        "latitude": 32.015795,
+        "longitude": 12.371538
+    },
+    {
+        "name": "As Sulţān",
+        "country": "Libya",
+        "province": "Surt",
+        "population": -1,
+        "latitude": 31.11445,
+        "longitude": 17.150175
+    },
+    {
+        "name": "As Subayţāt",
+        "country": "Libya",
+        "province": "Wādī al Ḩayāt",
+        "population": -1,
+        "latitude": 26.097633,
+        "longitude": 13.692999
+    },
+    {
+        "name": "Snūdah",
+        "country": "Libya",
+        "province": "Wādī al Ḩayāt",
+        "population": -1,
+        "latitude": 26.636918,
+        "longitude": 13.64755
+    },
+    {
+        "name": "As Sawā‘idīyah",
+        "country": "Libya",
+        "province": "Tripoli",
+        "population": -1,
+        "latitude": 32.220278,
+        "longitude": 13.082778
+    },
+    {
+        "name": "As Salāmāt",
+        "country": "Libya",
+        "province": "Jabal al Gharbi",
+        "population": -1,
+        "latitude": 31.876886,
+        "longitude": 11.780284
+    },
+    {
+        "name": "As Sidādah",
+        "country": "Libya",
+        "province": "Mişrātah",
+        "population": -1,
+        "latitude": 31.517496,
+        "longitude": 14.754982
+    },
+    {
+        "name": "Ash Shurūf",
+        "country": "Libya",
+        "province": "Al Marqab",
+        "population": -1,
+        "latitude": 32.583333,
+        "longitude": 13.95
+    },
+    {
+        "name": "Ash Shiyāb",
+        "country": "Libya",
+        "province": "Jabal al Gharbi",
+        "population": -1,
+        "latitude": 31.883228,
+        "longitude": 11.791861
+    },
+    {
+        "name": "Ash Shaykh Bū ‘Ujaylah",
+        "country": "Libya",
+        "province": "An Nuqāţ al Khams",
+        "population": -1,
+        "latitude": 32.733889,
+        "longitude": 12.395
+    },
+    {
+        "name": "Ash Shawāţī",
+        "country": "Libya",
+        "province": "Mişrātah",
+        "population": -1,
+        "latitude": 32.375499,
+        "longitude": 15.165495
+    },
+    {
+        "name": "Ash Shaqārinah",
+        "country": "Libya",
+        "province": "Jabal al Gharbi",
+        "population": -1,
+        "latitude": 32.072778,
+        "longitude": 12.522783
+    },
+    {
+        "name": "Ash Shabārī",
+        "country": "Libya",
+        "province": "Jabal al Gharbi",
+        "population": -1,
+        "latitude": 31.962908,
+        "longitude": 12.01909
+    },
+    {
+        "name": "Ar Rūmīyah",
+        "country": "Libya",
+        "province": "Jabal al Gharbi",
+        "population": -1,
+        "latitude": 32.016667,
+        "longitude": 12.516667
+    },
+    {
+        "name": "Ar Rayāyinah",
+        "country": "Libya",
+        "province": "Jabal al Gharbi",
+        "population": -1,
+        "latitude": 32.026836,
+        "longitude": 12.356431
+    },
+    {
+        "name": "Ar Raqabah",
+        "country": "Libya",
+        "province": "Wādī al Ḩayāt",
+        "population": -1,
+        "latitude": 26.598016,
+        "longitude": 13.55843
+    },
+    {
+        "name": "Āqār al ‘Atabah",
+        "country": "Libya",
+        "province": "Wādī al Ḩayāt",
+        "population": -1,
+        "latitude": 26.095889,
+        "longitude": 13.556605
+    },
+    {
+        "name": "Āqār",
+        "country": "Libya",
+        "province": "Ash Shāţiʼ",
+        "population": -1,
+        "latitude": 27.539144,
+        "longitude": 14.162506
+    },
+    {
+        "name": "An Nuşf",
+        "country": "Libya",
+        "province": "Ash Shāţiʼ",
+        "population": -1,
+        "latitude": 27.537229,
+        "longitude": 14.259977
+    },
+    {
+        "name": "An Nāşirīyah",
+        "country": "Libya",
+        "province": "Al Jafārah",
+        "population": -1,
+        "latitude": 32.632778,
+        "longitude": 12.873611
+    },
+    {
+        "name": "Al Quşayr",
+        "country": "Libya",
+        "province": "Jabal al Gharbi",
+        "population": -1,
+        "latitude": 31.962156,
+        "longitude": 12.021262
+    },
+    {
+        "name": "Al Qurādīyīn",
+        "country": "Libya",
+        "province": "Jabal al Gharbi",
+        "population": -1,
+        "latitude": 32.063889,
+        "longitude": 12.545
+    },
+    {
+        "name": "Al Qaḩāşāt",
+        "country": "Libya",
+        "province": "Jabal al Gharbi",
+        "population": -1,
+        "latitude": 32.116667,
+        "longitude": 13.016667
+    },
+    {
+        "name": "Al Muţrad",
+        "country": "Libya",
+        "province": "Az Zāwiyah",
+        "population": -1,
+        "latitude": 32.761667,
+        "longitude": 12.615833
+    },
+    {
+        "name": "Al Malāqī",
+        "country": "Libya",
+        "province": "Murzuq",
+        "population": -1,
+        "latitude": 23.333333,
+        "longitude": 15.5
+    },
+    {
+        "name": "Al Maḩrūqah",
+        "country": "Libya",
+        "province": "Ash Shāţiʼ",
+        "population": -1,
+        "latitude": 27.505057,
+        "longitude": 14.013548
+    },
+    {
+        "name": "Al Maghāribah",
+        "country": "Libya",
+        "province": "Jabal al Gharbi",
+        "population": -1,
+        "latitude": 32.086944,
+        "longitude": 12.973056
+    },
+    {
+        "name": "Al Khirbah",
+        "country": "Libya",
+        "province": "Nālūt",
+        "population": -1,
+        "latitude": 31.84157,
+        "longitude": 11.150016
+    },
+    {
+        "name": "Al Khazūr",
+        "country": "Libya",
+        "province": "Jabal al Gharbi",
+        "population": -1,
+        "latitude": 32.092434,
+        "longitude": 12.626614
+    },
+    {
+        "name": "Al Kharā’iq",
+        "country": "Libya",
+        "province": "Wādī al Ḩayāt",
+        "population": -1,
+        "latitude": 26.55,
+        "longitude": 13.183333
+    },
+    {
+        "name": "Al Khalā’ifah",
+        "country": "Libya",
+        "province": "Jabal al Gharbi",
+        "population": -1,
+        "latitude": 32.01098,
+        "longitude": 12.479149
+    },
+    {
+        "name": "Al Khaḑrā’",
+        "country": "Libya",
+        "province": "Al Marqab",
+        "population": -1,
+        "latitude": 32.444033,
+        "longitude": 13.767353
+    },
+    {
+        "name": "Al Karārīm",
+        "country": "Libya",
+        "province": "Mişrātah",
+        "population": -1,
+        "latitude": 32.392214,
+        "longitude": 15.057102
+    },
+    {
+        "name": "Al Juḩaysh",
+        "country": "Libya",
+        "province": "Jabal al Gharbi",
+        "population": -1,
+        "latitude": 32.1375,
+        "longitude": 12.654167
+    },
+    {
+        "name": "Al Ḩaţīyah",
+        "country": "Libya",
+        "province": "Wādī al Ḩayāt",
+        "population": -1,
+        "latitude": 26.574152,
+        "longitude": 12.916503
+    },
+    {
+        "name": "Al Ḩarābah",
+        "country": "Libya",
+        "province": "Nālūt",
+        "population": -1,
+        "latitude": 31.773889,
+        "longitude": 11.543611
+    },
+    {
+        "name": "Al Hanshīr",
+        "country": "Libya",
+        "province": "Tripoli",
+        "population": -1,
+        "latitude": 32.897623,
+        "longitude": 13.237559
+    },
+    {
+        "name": "Al Ḩamrā’",
+        "country": "Libya",
+        "province": "Wādī al Ḩayāt",
+        "population": -1,
+        "latitude": 26.711152,
+        "longitude": 13.876899
+    },
+    {
+        "name": "Al Ḩamīdīyah",
+        "country": "Libya",
+        "province": "Tripoli",
+        "population": -1,
+        "latitude": 32.884444,
+        "longitude": 13.390833
+    },
+    {
+        "name": "Al Hadāri‘ah",
+        "country": "Libya",
+        "province": "Mişrātah",
+        "population": -1,
+        "latitude": 32.010722,
+        "longitude": 15.178908
+    },
+    {
+        "name": "Az Zaram",
+        "country": "Libya",
+        "province": "Nālūt",
+        "population": -1,
+        "latitude": 32.002005,
+        "longitude": 10.835291
+    },
+    {
+        "name": "Al Fuqahā’",
+        "country": "Libya",
+        "province": "Al Marqab",
+        "population": -1,
+        "latitude": 31.783333,
+        "longitude": 14.05
+    },
+    {
+        "name": "Al Fujayj",
+        "country": "Libya",
+        "province": "Wādī al Ḩayāt",
+        "population": -1,
+        "latitude": 26.542428,
+        "longitude": 13.315857
+    },
+    {
+        "name": "Al Fawāḑil",
+        "country": "Libya",
+        "province": "Jabal al Gharbi",
+        "population": -1,
+        "latitude": 32.009338,
+        "longitude": 12.305511
+    },
+    {
+        "name": "Al Fātiḩ",
+        "country": "Libya",
+        "province": "Tripoli",
+        "population": -1,
+        "latitude": 32.832222,
+        "longitude": 13.253333
+    },
+    {
+        "name": "Al Bayḑān",
+        "country": "Libya",
+        "province": "Murzuq",
+        "population": -1,
+        "latitude": 25.838056,
+        "longitude": 14.213056
+    },
+    {
+        "name": "Al Bakkī",
+        "country": "Libya",
+        "province": "Murzuq",
+        "population": -1,
+        "latitude": 24.927641,
+        "longitude": 14.579173
+    },
+    {
+        "name": "Al Budayr",
+        "country": "Libya",
+        "province": "Murzuq",
+        "population": -1,
+        "latitude": 26.15897,
+        "longitude": 14.847851
+    },
+    {
+        "name": "Al ‘Assah",
+        "country": "Libya",
+        "province": "An Nuqāţ al Khams",
+        "population": -1,
+        "latitude": 32.829949,
+        "longitude": 11.629261
+    },
+    {
+        "name": "Al Aşābi‘ah",
+        "country": "Libya",
+        "province": "Jabal al Gharbi",
+        "population": -1,
+        "latitude": 32.033333,
+        "longitude": 12.866667
+    },
+    {
+        "name": "Al Abyaḑ",
+        "country": "Libya",
+        "province": "Wādī al Ḩayāt",
+        "population": -1,
+        "latitude": 26.757768,
+        "longitude": 13.998256
+    },
+    {
+        "name": "Ad Dayāsīr",
+        "country": "Libya",
+        "province": "Jabal al Gharbi",
+        "population": -1,
+        "latitude": 32.145556,
+        "longitude": 12.987222
+    },
+    {
+        "name": "Abyār as Sabābīl",
+        "country": "Libya",
+        "province": "Tripoli",
+        "population": -1,
+        "latitude": 32.851389,
+        "longitude": 13.441944
+    },
+    {
+        "name": "Abū Salīm",
+        "country": "Libya",
+        "province": "LY.61",
+        "population": -1,
+        "latitude": 32.84264,
+        "longitude": 13.17093
+    },
+    {
+        "name": "Al Jazīrah",
+        "country": "Libya",
+        "province": "Banghāzī",
+        "population": -1,
+        "latitude": 32.089373,
+        "longitude": 20.057537
+    },
+    {
+        "name": "Al Madinah ar Riyaddiyyah",
+        "country": "Libya",
+        "province": "Banghāzī",
+        "population": -1,
+        "latitude": 32.100152,
+        "longitude": 20.069061
+    },
+    {
+        "name": "Ras Abaydah",
+        "country": "Libya",
+        "province": "Banghāzī",
+        "population": -1,
+        "latitude": 32.107584,
+        "longitude": 20.083195
+    },
+    {
+        "name": "Bāb Ta’ Jūra‘",
+        "country": "Libya",
+        "province": "Tripoli",
+        "population": -1,
+        "latitude": 32.893814,
+        "longitude": 13.225372
+    },
+    {
+        "name": "Az Zatārnah",
+        "country": "Libya",
+        "province": "Tripoli",
+        "population": -1,
+        "latitude": 32.70431,
+        "longitude": 13.47644
+    },
+    {
+        "name": "Mātris",
+        "country": "Libya",
+        "province": "Nālūt",
+        "population": -1,
+        "latitude": 30.192511,
+        "longitude": 10.365342
+    },
+    {
+        "name": "Sawānī al Qawārishah",
+        "country": "Libya",
+        "province": "Banghāzī",
+        "population": -1,
+        "latitude": 32.005929,
+        "longitude": 20.060632
+    },
+    {
+        "name": "As Salmānī al Gharbī",
+        "country": "Libya",
+        "province": "Banghāzī",
+        "population": -1,
+        "latitude": 32.113374,
+        "longitude": 20.090976
+    },
+    {
+        "name": "Aş Şābirī ash Sharqī",
+        "country": "Libya",
+        "province": "Banghāzī",
+        "population": -1,
+        "latitude": 32.130818,
+        "longitude": 20.089927
+    },
+    {
+        "name": "Qaryat Umm ad Danānīr",
+        "country": "Libya",
+        "province": "Banghāzī",
+        "population": -1,
+        "latitude": 31.89788,
+        "longitude": 20.053923
+    },
+    {
+        "name": "Qaryat Maqrūn",
+        "country": "Libya",
+        "province": "Al Buţnān",
+        "population": -1,
+        "latitude": 32.108826,
+        "longitude": 23.834776
+    },
+    {
+        "name": "Qaryat aţ Ţayrah",
+        "country": "Libya",
+        "province": "Al Buţnān",
+        "population": -1,
+        "latitude": 32.061416,
+        "longitude": 23.980031
+    },
+    {
+        "name": "Qaryat al ‘Unayzī",
+        "country": "Libya",
+        "province": "Banghāzī",
+        "population": -1,
+        "latitude": 32.152479,
+        "longitude": 20.127508
+    },
+    {
+        "name": "Qaryat al Majārīs",
+        "country": "Libya",
+        "province": "Banghāzī",
+        "population": -1,
+        "latitude": 32.016156,
+        "longitude": 20.026279
+    },
+    {
+        "name": "Musā‘id",
+        "country": "Libya",
+        "province": "Al Buţnān",
+        "population": -1,
+        "latitude": 31.609366,
+        "longitude": 25.049719
+    },
+    {
+        "name": "Madīnat Bayāḑ",
+        "country": "Libya",
+        "province": "Al Buţnān",
+        "population": -1,
+        "latitude": 32.00911,
+        "longitude": 23.977527
+    },
+    {
+        "name": "Lamlūdah",
+        "country": "Libya",
+        "province": "Darnah",
+        "population": -1,
+        "latitude": 32.780718,
+        "longitude": 22.14291
+    },
+    {
+        "name": "Kamb al ‘Ajjāj",
+        "country": "Libya",
+        "province": "Banghāzī",
+        "population": -1,
+        "latitude": 32.09727,
+        "longitude": 20.256593
+    },
+    {
+        "name": "Ḩīshān al ‘Aryāt",
+        "country": "Libya",
+        "province": "Banghāzī",
+        "population": -1,
+        "latitude": 32.282384,
+        "longitude": 20.231139
+    },
+    {
+        "name": "Ḩīshān al ‘Arabāt",
+        "country": "Libya",
+        "province": "Banghāzī",
+        "population": -1,
+        "latitude": 32.289852,
+        "longitude": 20.23691
+    },
+    {
+        "name": "Garden City",
+        "country": "Libya",
+        "province": "Banghāzī",
+        "population": -1,
+        "latitude": 32.086399,
+        "longitude": 20.108444
+    },
+    {
+        "name": "Dakākīn Ḩamīd",
+        "country": "Libya",
+        "province": "Banghāzī",
+        "population": -1,
+        "latitude": 32.137835,
+        "longitude": 20.080969
+    },
+    {
+        "name": "Bū Maryam",
+        "country": "Libya",
+        "province": "Banghāzī",
+        "population": -1,
+        "latitude": 32.144369,
+        "longitude": 20.507447
+    },
+    {
+        "name": "Zīghan",
+        "country": "Libya",
+        "province": "Al Kufrah",
+        "population": -1,
+        "latitude": 25.483333,
+        "longitude": 22.133333
+    },
+    {
+        "name": "Zāwiyat Umm Ḩufayn",
+        "country": "Libya",
+        "province": "Darnah",
+        "population": -1,
+        "latitude": 32.570255,
+        "longitude": 23.074487
+    },
+    {
+        "name": "Bū ath Thāmir",
+        "country": "Libya",
+        "province": "Darnah",
+        "population": -1,
+        "latitude": 32.788377,
+        "longitude": 22.303871
+    },
+    {
+        "name": "Aţ Ţallāb",
+        "country": "Libya",
+        "province": "Al Kufrah",
+        "population": -1,
+        "latitude": 24.016667,
+        "longitude": 23.166667
+    },
+    {
+        "name": "Al ‘Uwaynāt",
+        "country": "Libya",
+        "province": "Al Kufrah",
+        "population": -1,
+        "latitude": 21.566667,
+        "longitude": 24.833333
+    },
+    {
+        "name": "Al ‘Uwaylīyah ash Sharqīyah",
+        "country": "Libya",
+        "province": "Al Marj",
+        "population": -1,
+        "latitude": 32.566667,
+        "longitude": 21.033333
+    },
+    {
+        "name": "Al Qa‘rah",
+        "country": "Libya",
+        "province": "Al Buţnān",
+        "population": -1,
+        "latitude": 31.953893,
+        "longitude": 24.202181
+    },
+    {
+        "name": "Al Maqārīn",
+        "country": "Libya",
+        "province": "Banghāzī",
+        "population": -1,
+        "latitude": 32.155562,
+        "longitude": 20.136734
+    },
+    {
+        "name": "Al Ḩimādah",
+        "country": "Libya",
+        "province": "Banghāzī",
+        "population": -1,
+        "latitude": 32.42317,
+        "longitude": 20.612554
+    },
+    {
+        "name": "Al Burdī",
+        "country": "Libya",
+        "province": "Al Buţnān",
+        "population": -1,
+        "latitude": 31.766667,
+        "longitude": 25.083333
+    },
+    {
+        "name": "Shatal al Ghābāt",
+        "country": "Libya",
+        "province": "Tripoli",
+        "population": -1,
+        "latitude": 32.852222,
+        "longitude": 13.285833
+    },
+    {
+        "name": "Şayyād",
+        "country": "Libya",
+        "province": "Al Jafārah",
+        "population": -1,
+        "latitude": 32.816667,
+        "longitude": 12.95
+    },
+    {
+        "name": "Sawānī Fassānū",
+        "country": "Libya",
+        "province": "Jabal al Gharbi",
+        "population": -1,
+        "latitude": 31.307393,
+        "longitude": 12.792965
+    },
+    {
+        "name": "Sadrūs",
+        "country": "Libya",
+        "province": "Jabal al Gharbi",
+        "population": -1,
+        "latitude": 32.184444,
+        "longitude": 13.099444
+    },
+    {
+        "name": "Quwayjilah",
+        "country": "Libya",
+        "province": "Jabal al Gharbi",
+        "population": -1,
+        "latitude": 32.104722,
+        "longitude": 12.676389
+    },
+    {
+        "name": "Qaşr Larocu",
+        "country": "Libya",
+        "province": "Wādī al Ḩayāt",
+        "population": -1,
+        "latitude": 26.533333,
+        "longitude": 13.316667
+    },
+    {
+        "name": "Qaşr Barrūrū",
+        "country": "Libya",
+        "province": "Wādī al Ḩayāt",
+        "population": -1,
+        "latitude": 26.666667,
+        "longitude": 13.75
+    },
+    {
+        "name": "Qaşr al Waţ’ānī",
+        "country": "Libya",
+        "province": "Nālūt",
+        "population": -1,
+        "latitude": 31.033333,
+        "longitude": 10.6
+    },
+    {
+        "name": "Qaryat Su‘ūd",
+        "country": "Libya",
+        "province": "Mişrātah",
+        "population": -1,
+        "latitude": 32.385678,
+        "longitude": 15.132361
+    },
+    {
+        "name": "Qaryat Şūr A‘rābī",
+        "country": "Libya",
+        "province": "Mişrātah",
+        "population": -1,
+        "latitude": 32.388718,
+        "longitude": 15.109198
+    },
+    {
+        "name": "Qaryat Şawwān",
+        "country": "Libya",
+        "province": "Al Jufrah",
+        "population": -1,
+        "latitude": 29.173895,
+        "longitude": 16.155978
+    },
+    {
+        "name": "Qaryat Ra’s ath Thūmah",
+        "country": "Libya",
+        "province": "Mişrātah",
+        "population": -1,
+        "latitude": 32.38249,
+        "longitude": 15.090876
+    },
+    {
+        "name": "Qaryat Ra’s ‘Alī",
+        "country": "Libya",
+        "province": "Mişrātah",
+        "population": -1,
+        "latitude": 32.379019,
+        "longitude": 15.1072
+    },
+    {
+        "name": "Qaryat Qarārah",
+        "country": "Libya",
+        "province": "Mişrātah",
+        "population": -1,
+        "latitude": 32.380092,
+        "longitude": 15.117874
+    },
+    {
+        "name": "Qaryat Ḩujjājah",
+        "country": "Libya",
+        "province": "Al Marqab",
+        "population": -1,
+        "latitude": 32.457584,
+        "longitude": 14.558689
+    },
+    {
+        "name": "Qaryat Ḩasan al Ḩājj",
+        "country": "Libya",
+        "province": "Mişrātah",
+        "population": -1,
+        "latitude": 32.387549,
+        "longitude": 15.116168
+    },
+    {
+        "name": "Qaryat Dajājirah",
+        "country": "Libya",
+        "province": "Mişrātah",
+        "population": -1,
+        "latitude": 32.338415,
+        "longitude": 15.131285
+    },
+    {
+        "name": "Qaryat Banī Musallam",
+        "country": "Libya",
+        "province": "Al Marqab",
+        "population": -1,
+        "latitude": 32.596667,
+        "longitude": 14.0475
+    },
+    {
+        "name": "Qaryat ‘Ayn Bū al Qā’id",
+        "country": "Libya",
+        "province": "Mişrātah",
+        "population": -1,
+        "latitude": 32.361805,
+        "longitude": 15.115424
+    },
+    {
+        "name": "Qaryat ‘Ayn az Zayt",
+        "country": "Libya",
+        "province": "Mişrātah",
+        "population": -1,
+        "latitude": 32.343025,
+        "longitude": 15.140877
+    },
+    {
+        "name": "Qaryat ‘Ayn Abū Shaybah",
+        "country": "Libya",
+        "province": "Mişrātah",
+        "population": -1,
+        "latitude": 32.300029,
+        "longitude": 15.092632
+    },
+    {
+        "name": "Qaryat Awlād Dhu’ayb",
+        "country": "Libya",
+        "province": "Jabal al Gharbi",
+        "population": -1,
+        "latitude": 30.716667,
+        "longitude": 13.3
+    },
+    {
+        "name": "Qaryat as Subaykhāt",
+        "country": "Libya",
+        "province": "Mişrātah",
+        "population": -1,
+        "latitude": 32.394395,
+        "longitude": 15.124852
+    },
+    {
+        "name": "Qaryat ash Shuyyāb",
+        "country": "Libya",
+        "province": "Jabal al Gharbi",
+        "population": -1,
+        "latitude": 30.910471,
+        "longitude": 13.077813
+    },
+    {
+        "name": "Qaryat aş Şawābīyah",
+        "country": "Libya",
+        "province": "Mişrātah",
+        "population": -1,
+        "latitude": 32.35215,
+        "longitude": 15.116873
+    },
+    {
+        "name": "Qaryat ar Rūş",
+        "country": "Libya",
+        "province": "Mişrātah",
+        "population": -1,
+        "latitude": 32.373889,
+        "longitude": 15.169799
+    },
+    {
+        "name": "Qaryat ar Ru’aysāt",
+        "country": "Libya",
+        "province": "Mişrātah",
+        "population": -1,
+        "latitude": 32.366009,
+        "longitude": 15.111405
+    },
+    {
+        "name": "Qaryat ar Ra‘īţāt",
+        "country": "Libya",
+        "province": "Mişrātah",
+        "population": -1,
+        "latitude": 32.366987,
+        "longitude": 15.158834
+    },
+    {
+        "name": "Qaryat an Nushayh",
+        "country": "Libya",
+        "province": "Nālūt",
+        "population": -1,
+        "latitude": 31.923829,
+        "longitude": 10.761184
+    },
+    {
+        "name": "Qaryat al Kārrān",
+        "country": "Libya",
+        "province": "Mişrātah",
+        "population": -1,
+        "latitude": 32.360157,
+        "longitude": 15.126019
+    },
+    {
+        "name": "Qaryat al Ḩuwayjāt",
+        "country": "Libya",
+        "province": "Al Marqab",
+        "population": -1,
+        "latitude": 32.619299,
+        "longitude": 14.141647
+    },
+    {
+        "name": "Qaryat al Hamā’imah",
+        "country": "Libya",
+        "province": "Jabal al Gharbi",
+        "population": -1,
+        "latitude": 32.028889,
+        "longitude": 12.529167
+    },
+    {
+        "name": "Qaryat al Bayḑā’",
+        "country": "Libya",
+        "province": "Jabal al Gharbi",
+        "population": -1,
+        "latitude": 32.110044,
+        "longitude": 13.330273
+    },
+    {
+        "name": "Qaryat al Barāhimah",
+        "country": "Libya",
+        "province": "Jabal al Gharbi",
+        "population": -1,
+        "latitude": 32.023104,
+        "longitude": 12.506176
+    },
+    {
+        "name": "Qaryat ad Dabābisah",
+        "country": "Libya",
+        "province": "Mişrātah",
+        "population": -1,
+        "latitude": 32.294135,
+        "longitude": 15.096477
+    },
+    {
+        "name": "Qaryat Abū ‘Ayyād",
+        "country": "Libya",
+        "province": "Jabal al Gharbi",
+        "population": -1,
+        "latitude": 32.123889,
+        "longitude": 12.97
+    },
+    {
+        "name": "Qaryat Abū al Aḩnāsh",
+        "country": "Libya",
+        "province": "Banghāzī",
+        "population": -1,
+        "latitude": 31.78456,
+        "longitude": 19.960124
+    },
+    {
+        "name": "Qabīlat Sūq ad Dāwūn",
+        "country": "Libya",
+        "province": "Al Marqab",
+        "population": -1,
+        "latitude": 32.456586,
+        "longitude": 13.909511
+    },
+    {
+        "name": "Qabīlat Sīlīn",
+        "country": "Libya",
+        "province": "Al Marqab",
+        "population": -1,
+        "latitude": 32.668257,
+        "longitude": 14.173922
+    },
+    {
+        "name": "Qabīlat Dirsūnah",
+        "country": "Libya",
+        "province": "Al Marqab",
+        "population": -1,
+        "latitude": 32.335711,
+        "longitude": 14.653833
+    },
+    {
+        "name": "Qabīlat az Zintān al ‘Umyān",
+        "country": "Libya",
+        "province": "Jabal al Gharbi",
+        "population": -1,
+        "latitude": 31.05,
+        "longitude": 12.366667
+    },
+    {
+        "name": "Qabīlat Awlād ‘Umar",
+        "country": "Libya",
+        "province": "Al Marqab",
+        "population": -1,
+        "latitude": 32.685178,
+        "longitude": 14.145245
+    },
+    {
+        "name": "Qabīlat Awlād Dhiyāb",
+        "country": "Libya",
+        "province": "Tripoli",
+        "population": -1,
+        "latitude": 32.902222,
+        "longitude": 13.270833
+    },
+    {
+        "name": "Qabīlat Awlād Bin Aḩmad",
+        "country": "Libya",
+        "province": "Al Jafārah",
+        "population": -1,
+        "latitude": 32.836111,
+        "longitude": 13.072222
+    },
+    {
+        "name": "Qabīlat Awlād Ba‘ayyū",
+        "country": "Libya",
+        "province": "Mişrātah",
+        "population": -1,
+        "latitude": 32.369491,
+        "longitude": 15.061102
+    },
+    {
+        "name": "Qabīlat Awlād Abū Şuḩayyirah",
+        "country": "Libya",
+        "province": "Az Zāwiyah",
+        "population": -1,
+        "latitude": 32.780367,
+        "longitude": 12.714122
+    },
+    {
+        "name": "Qabīlat Awlād Abū Salāmah",
+        "country": "Libya",
+        "province": "Tripoli",
+        "population": -1,
+        "latitude": 32.261708,
+        "longitude": 13.053439
+    },
+    {
+        "name": "Qabīlat aş Şaqū‘",
+        "country": "Libya",
+        "province": "Al Marqab",
+        "population": -1,
+        "latitude": 32.365266,
+        "longitude": 14.671823
+    },
+    {
+        "name": "Qabīlat ash Shurfah",
+        "country": "Libya",
+        "province": "Al Marqab",
+        "population": -1,
+        "latitude": 32.583143,
+        "longitude": 14.285821
+    },
+    {
+        "name": "Qabīlat ar Raḩūmāt",
+        "country": "Libya",
+        "province": "Al Marqab",
+        "population": -1,
+        "latitude": 32.333676,
+        "longitude": 14.544443
+    },
+    {
+        "name": "Qabīlat al Qazzīr",
+        "country": "Libya",
+        "province": "Mişrātah",
+        "population": -1,
+        "latitude": 32.350272,
+        "longitude": 15.07225
+    },
+    {
+        "name": "Qabīlat al Maqşabah",
+        "country": "Libya",
+        "province": "Mişrātah",
+        "population": -1,
+        "latitude": 32.370688,
+        "longitude": 15.090095
+    },
+    {
+        "name": "Qabīlat al Malā’iţah",
+        "country": "Libya",
+        "province": "Mişrātah",
+        "population": -1,
+        "latitude": 32.375659,
+        "longitude": 15.186483
+    },
+    {
+        "name": "Qabīlat al Khums",
+        "country": "Libya",
+        "province": "Al Marqab",
+        "population": -1,
+        "latitude": 32.656965,
+        "longitude": 14.201575
+    },
+    {
+        "name": "Qabīlat al Kawārighilīyah",
+        "country": "Libya",
+        "province": "Al Marqab",
+        "population": -1,
+        "latitude": 32.460712,
+        "longitude": 14.514692
+    },
+    {
+        "name": "Qabīlat al Karāwinah",
+        "country": "Libya",
+        "province": "Al Marqab",
+        "population": -1,
+        "latitude": 32.616111,
+        "longitude": 13.962222
+    },
+    {
+        "name": "Qabīlat al Ḩājj ‘Umrān",
+        "country": "Libya",
+        "province": "Jabal al Gharbi",
+        "population": -1,
+        "latitude": 32.125,
+        "longitude": 12.993611
+    },
+    {
+        "name": "Qabīlat al Fawātīr",
+        "country": "Libya",
+        "province": "Al Marqab",
+        "population": -1,
+        "latitude": 32.262732,
+        "longitude": 14.67918
+    },
+    {
+        "name": "Qabīlat al ‘Aţāyā",
+        "country": "Libya",
+        "province": "Al Marqab",
+        "population": -1,
+        "latitude": 32.266932,
+        "longitude": 14.686191
+    },
+    {
+        "name": "Qabīlat al Afāḑil",
+        "country": "Libya",
+        "province": "Al Marqab",
+        "population": -1,
+        "latitude": 32.641929,
+        "longitude": 14.165716
+    },
+    {
+        "name": "Miskah",
+        "country": "Libya",
+        "province": "Jabal al Gharbi",
+        "population": -1,
+        "latitude": 32.016667,
+        "longitude": 12.816667
+    },
+    {
+        "name": "Minţaqat Zāwiyat Sīdī ‘Aţīyah",
+        "country": "Libya",
+        "province": "Al Marqab",
+        "population": -1,
+        "latitude": 32.590278,
+        "longitude": 14.001111
+    },
+    {
+        "name": "Minţaqat Wādī Harāwah",
+        "country": "Libya",
+        "province": "Surt",
+        "population": -1,
+        "latitude": 31.052633,
+        "longitude": 17.283905
+    },
+    {
+        "name": "Minţaqat al Ḩashshān",
+        "country": "Libya",
+        "province": "Al Jafārah",
+        "population": -1,
+        "latitude": 32.7425,
+        "longitude": 12.914722
+    },
+    {
+        "name": "Maghwah",
+        "country": "Libya",
+        "province": "Murzuq",
+        "population": -1,
+        "latitude": 25.901328,
+        "longitude": 14.569052
+    },
+    {
+        "name": "Ma‘fan",
+        "country": "Libya",
+        "province": "Murzuq",
+        "population": -1,
+        "latitude": 25.916667,
+        "longitude": 14.483333
+    },
+    {
+        "name": "Kiklah",
+        "country": "Libya",
+        "province": "Jabal al Gharbi",
+        "population": -1,
+        "latitude": 32.083333,
+        "longitude": 12.7
+    },
+    {
+        "name": "Ki‘ām",
+        "country": "Libya",
+        "province": "Jabal al Gharbi",
+        "population": -1,
+        "latitude": 32.110278,
+        "longitude": 13.006111
+    },
+    {
+        "name": "Khulayf",
+        "country": "Libya",
+        "province": "Wādī al Ḩayāt",
+        "population": -1,
+        "latitude": 26.694386,
+        "longitude": 13.822231
+    },
+    {
+        "name": "Jandūbah",
+        "country": "Libya",
+        "province": "Jabal al Gharbi",
+        "population": -1,
+        "latitude": 32.100833,
+        "longitude": 12.681667
+    },
+    {
+        "name": "Za‘rārah",
+        "country": "Libya",
+        "province": "Nālūt",
+        "population": -1,
+        "latitude": 31.920649,
+        "longitude": 11.652961
+    },
+    {
+        "name": "Wurīran",
+        "country": "Libya",
+        "province": "Al Marqab",
+        "population": -1,
+        "latitude": 32.483333,
+        "longitude": 14.566667
+    },
+    {
+        "name": "Wisādān",
+        "country": "Libya",
+        "province": "Jabal al Gharbi",
+        "population": -1,
+        "latitude": 32.082222,
+        "longitude": 12.981667
+    },
+    {
+        "name": "Umm Shuwayshah",
+        "country": "Libya",
+        "province": "Tripoli",
+        "population": -1,
+        "latitude": 32.233333,
+        "longitude": 13.366667
+    },
+    {
+        "name": "Tārūt",
+        "country": "Libya",
+        "province": "Ash Shāţiʼ",
+        "population": -1,
+        "latitude": 27.525575,
+        "longitude": 13.912212
+    },
+    {
+        "name": "Ţarmīşah",
+        "country": "Libya",
+        "province": "Jabal al Gharbi",
+        "population": -1,
+        "latitude": 31.992221,
+        "longitude": 12.047763
+    },
+    {
+        "name": "Tarbū",
+        "country": "Libya",
+        "province": "Murzuq",
+        "population": -1,
+        "latitude": 26.020244,
+        "longitude": 15.164911
+    },
+    {
+        "name": "Sūq al Khamīs",
+        "country": "Libya",
+        "province": "Tripoli",
+        "population": -1,
+        "latitude": 32.527664,
+        "longitude": 13.219778
+    },
+    {
+        "name": "Sūq al Aḩad",
+        "country": "Libya",
+        "province": "Tripoli",
+        "population": -1,
+        "latitude": 32.551667,
+        "longitude": 13.441944
+    },
+    {
+        "name": "Sūq ad Dawāwidah",
+        "country": "Libya",
+        "province": "An Nuqāţ al Khams",
+        "population": -1,
+        "latitude": 32.830058,
+        "longitude": 12.030775
+    },
+    {
+        "name": "Sīdī as Sā’iḩ",
+        "country": "Libya",
+        "province": "Tripoli",
+        "population": -1,
+        "latitude": 32.561111,
+        "longitude": 13.253611
+    },
+    {
+        "name": "Heg’ Hagel",
+        "country": "Libya",
+        "province": "Murzuq",
+        "population": -1,
+        "latitude": 25.928611,
+        "longitude": 14.038056
+    },
+    {
+        "name": "Hayy al Andalus",
+        "country": "Libya",
+        "province": "Tripoli",
+        "population": -1,
+        "latitude": 32.866667,
+        "longitude": 13.116667
+    },
+    {
+        "name": "Ḩawsh Wārid",
+        "country": "Libya",
+        "province": "Banghāzī",
+        "population": -1,
+        "latitude": 31.913191,
+        "longitude": 19.985171
+    },
+    {
+        "name": "Ḩawsh ash Shuwayyim",
+        "country": "Libya",
+        "province": "Banghāzī",
+        "population": -1,
+        "latitude": 31.922394,
+        "longitude": 19.973619
+    },
+    {
+        "name": "Ḩarqah",
+        "country": "Libya",
+        "province": "Jabal al Gharbi",
+        "population": -1,
+        "latitude": 32.056134,
+        "longitude": 12.702556
+    },
+    {
+        "name": "Ghawāţ",
+        "country": "Libya",
+        "province": "Murzuq",
+        "population": -1,
+        "latitude": 25.9,
+        "longitude": 14.016667
+    },
+    {
+        "name": "Funduq Tarbānah",
+        "country": "Libya",
+        "province": "Al Marqab",
+        "population": -1,
+        "latitude": 32.566667,
+        "longitude": 14.233333
+    },
+    {
+        "name": "Funduq ash Shaybānī",
+        "country": "Libya",
+        "province": "Al Jafārah",
+        "population": -1,
+        "latitude": 32.383333,
+        "longitude": 13.05
+    },
+    {
+        "name": "Funduq an Naqqāzah",
+        "country": "Libya",
+        "province": "Al Marqab",
+        "population": -1,
+        "latitude": 32.7,
+        "longitude": 14.066667
+    },
+    {
+        "name": "Dūshīn",
+        "country": "Libya",
+        "province": "Jabal al Gharbi",
+        "population": -1,
+        "latitude": 31.86431,
+        "longitude": 11.822395
+    },
+    {
+        "name": "Dulaym",
+        "country": "Libya",
+        "province": "Murzuq",
+        "population": -1,
+        "latitude": 25.943056,
+        "longitude": 14.066667
+    },
+    {
+        "name": "Dannūn",
+        "country": "Libya",
+        "province": "Jabal al Gharbi",
+        "population": -1,
+        "latitude": 32.113269,
+        "longitude": 12.936904
+    },
+    {
+        "name": "Buqayqīlah",
+        "country": "Libya",
+        "province": "Nālūt",
+        "population": -1,
+        "latitude": 31.861684,
+        "longitude": 11.583983
+    },
+    {
+        "name": "Banī Wazīr",
+        "country": "Libya",
+        "province": "Jabal al Gharbi",
+        "population": -1,
+        "latitude": 32.085833,
+        "longitude": 12.984722
+    },
+    {
+        "name": "Baldat al ‘Umyān",
+        "country": "Libya",
+        "province": "Jabal al Gharbi",
+        "population": -1,
+        "latitude": 31.920954,
+        "longitude": 12.223098
+    },
+    {
+        "name": "Baldat ad Duwayb",
+        "country": "Libya",
+        "province": "Jabal al Gharbi",
+        "population": -1,
+        "latitude": 31.932353,
+        "longitude": 12.231781
+    },
+    {
+        "name": "Bāb Qarqārish",
+        "country": "Libya",
+        "province": "Tripoli",
+        "population": -1,
+        "latitude": 32.881944,
+        "longitude": 13.155
+    },
+    {
+        "name": "Az Zahrā’",
+        "country": "Libya",
+        "province": "Al Jafārah",
+        "population": -1,
+        "latitude": 32.678894,
+        "longitude": 12.873267
+    },
+    {
+        "name": "Awlād Yūsuf",
+        "country": "Libya",
+        "province": "Jabal al Gharbi",
+        "population": -1,
+        "latitude": 32.070556,
+        "longitude": 12.681944
+    },
+    {
+        "name": "Awlād Sīdī Khalīfah",
+        "country": "Libya",
+        "province": "Jabal al Gharbi",
+        "population": -1,
+        "latitude": 31.948857,
+        "longitude": 12.235946
+    },
+    {
+        "name": "Awlād Sālim",
+        "country": "Libya",
+        "province": "Tripoli",
+        "population": -1,
+        "latitude": 32.209167,
+        "longitude": 13.048333
+    },
+    {
+        "name": "Awlād Sa‘īd",
+        "country": "Libya",
+        "province": "Jabal al Gharbi",
+        "population": -1,
+        "latitude": 32.083089,
+        "longitude": 12.669016
+    },
+    {
+        "name": "Awlād Rayyān",
+        "country": "Libya",
+        "province": "Jabal al Gharbi",
+        "population": -1,
+        "latitude": 31.983333,
+        "longitude": 12.3
+    },
+    {
+        "name": "Awlād Qalāsī",
+        "country": "Libya",
+        "province": "Jabal al Gharbi",
+        "population": -1,
+        "latitude": 32.079167,
+        "longitude": 12.689167
+    },
+    {
+        "name": "Awlād Mas‘ūd",
+        "country": "Libya",
+        "province": "Jabal al Gharbi",
+        "population": -1,
+        "latitude": 31.9724,
+        "longitude": 12.121976
+    },
+    {
+        "name": "Awlād Khalaf Allāh",
+        "country": "Libya",
+        "province": "Jabal al Gharbi",
+        "population": -1,
+        "latitude": 32.038411,
+        "longitude": 12.517729
+    },
+    {
+        "name": "Awlād Jābir",
+        "country": "Libya",
+        "province": "Jabal al Gharbi",
+        "population": -1,
+        "latitude": 31.949107,
+        "longitude": 12.15422
+    },
+    {
+        "name": "Awlād ‘Īsá",
+        "country": "Libya",
+        "province": "Jabal al Gharbi",
+        "population": -1,
+        "latitude": 32.075833,
+        "longitude": 12.689444
+    },
+    {
+        "name": "Awlād ‘Īsá",
+        "country": "Libya",
+        "province": "Jabal al Gharbi",
+        "population": -1,
+        "latitude": 31.937661,
+        "longitude": 12.238069
+    },
+    {
+        "name": "Awlād ‘Inān",
+        "country": "Libya",
+        "province": "Jabal al Gharbi",
+        "population": -1,
+        "latitude": 31.978228,
+        "longitude": 12.139712
+    },
+    {
+        "name": "Awlād Bin Ya‘qūb",
+        "country": "Libya",
+        "province": "Jabal al Gharbi",
+        "population": -1,
+        "latitude": 32.151022,
+        "longitude": 12.993648
+    },
+    {
+        "name": "Awlād ‘Aţīyah",
+        "country": "Libya",
+        "province": "Jabal al Gharbi",
+        "population": -1,
+        "latitude": 31.933333,
+        "longitude": 12.166667
+    },
+    {
+        "name": "Awlād Abū Salāmah",
+        "country": "Libya",
+        "province": "Al Jafārah",
+        "population": -1,
+        "latitude": 32.25,
+        "longitude": 13.033333
+    },
+    {
+        "name": "Awlād ‘Abd al Mawlá",
+        "country": "Libya",
+        "province": "Jabal al Gharbi",
+        "population": -1,
+        "latitude": 32.08299,
+        "longitude": 12.631897
+    },
+    {
+        "name": "Awlād ‘Abd al Jalīl",
+        "country": "Libya",
+        "province": "Jabal al Gharbi",
+        "population": -1,
+        "latitude": 31.95,
+        "longitude": 12.133333
+    },
+    {
+        "name": "Aţ Ţuwaybīyah",
+        "country": "Libya",
+        "province": "Az Zāwiyah",
+        "population": -1,
+        "latitude": 32.768668,
+        "longitude": 12.839386
+    },
+    {
+        "name": "At Taribjah",
+        "country": "Libya",
+        "province": "Banghāzī",
+        "population": -1,
+        "latitude": 31.873825,
+        "longitude": 19.949591
+    },
+    {
+        "name": "Aţ Ţalā’i‘īyah",
+        "country": "Libya",
+        "province": "Jabal al Gharbi",
+        "population": -1,
+        "latitude": 32.038056,
+        "longitude": 12.881944
+    },
+    {
+        "name": "As Sawādinah",
+        "country": "Libya",
+        "province": "Jabal al Gharbi",
+        "population": -1,
+        "latitude": 32.033333,
+        "longitude": 12.666667
+    },
+    {
+        "name": "Aş Şābirīyah",
+        "country": "Libya",
+        "province": "Az Zāwiyah",
+        "population": -1,
+        "latitude": 32.728333,
+        "longitude": 12.641111
+    },
+    {
+        "name": "Ash Shi‘tāf",
+        "country": "Libya",
+        "province": "Jabal al Gharbi",
+        "population": -1,
+        "latitude": 32.078056,
+        "longitude": 13.02
+    },
+    {
+        "name": "Ash Shi‘āfīyīn",
+        "country": "Libya",
+        "province": "Al Marqab",
+        "population": -1,
+        "latitude": 32.592222,
+        "longitude": 13.869972
+    },
+    {
+        "name": "Ash Shaqqī",
+        "country": "Libya",
+        "province": "Jabal al Gharbi",
+        "population": -1,
+        "latitude": 31.99652,
+        "longitude": 12.083085
+    },
+    {
+        "name": "Ash Sha‘binīyah",
+        "country": "Libya",
+        "province": "Jabal al Gharbi",
+        "population": -1,
+        "latitude": 31.951307,
+        "longitude": 12.237416
+    },
+    {
+        "name": "Ar Rajūbāt",
+        "country": "Libya",
+        "province": "Mişrātah",
+        "population": -1,
+        "latitude": 32.35,
+        "longitude": 15.1
+    },
+    {
+        "name": "Ar Rābiţah",
+        "country": "Libya",
+        "province": "Az Zāwiyah",
+        "population": -1,
+        "latitude": 32.233333,
+        "longitude": 12.566667
+    },
+    {
+        "name": "‘Aqqār",
+        "country": "Libya",
+        "province": "Murzuq",
+        "population": -1,
+        "latitude": 25.963333,
+        "longitude": 13.531389
+    },
+    {
+        "name": "Anzū",
+        "country": "Libya",
+        "province": "Jabal al Gharbi",
+        "population": -1,
+        "latitude": 32.053056,
+        "longitude": 12.664444
+    },
+    {
+        "name": "An Nāqūr",
+        "country": "Libya",
+        "province": "Jabal al Gharbi",
+        "population": -1,
+        "latitude": 32.046111,
+        "longitude": 12.657222
+    },
+    {
+        "name": "Al Qawātī",
+        "country": "Libya",
+        "province": "Jabal al Gharbi",
+        "population": -1,
+        "latitude": 32.098889,
+        "longitude": 12.672222
+    },
+    {
+        "name": "Al Qarāyā",
+        "country": "Libya",
+        "province": "Wādī al Ḩayāt",
+        "population": -1,
+        "latitude": 26.533333,
+        "longitude": 13.366667
+    },
+    {
+        "name": "Al Qanāfidh",
+        "country": "Libya",
+        "province": "Jabal al Gharbi",
+        "population": -1,
+        "latitude": 31.84092,
+        "longitude": 11.830432
+    },
+    {
+        "name": "Al Mashwashīn",
+        "country": "Libya",
+        "province": "Jabal al Gharbi",
+        "population": -1,
+        "latitude": 32.062054,
+        "longitude": 12.530393
+    },
+    {
+        "name": "Al Maqāşibah al Qiblīyah",
+        "country": "Libya",
+        "province": "Mişrātah",
+        "population": -1,
+        "latitude": 32.342247,
+        "longitude": 15.103578
+    },
+    {
+        "name": "Al Maqāşibah al Baḩrīyah",
+        "country": "Libya",
+        "province": "Mişrātah",
+        "population": -1,
+        "latitude": 32.357565,
+        "longitude": 15.102413
+    },
+    {
+        "name": "Al Ma‘mūrah",
+        "country": "Libya",
+        "province": "Al Jafārah",
+        "population": -1,
+        "latitude": 32.719167,
+        "longitude": 12.856944
+    },
+    {
+        "name": "Al Ma‘mūrah",
+        "country": "Libya",
+        "province": "Jabal al Gharbi",
+        "population": -1,
+        "latitude": 32.028333,
+        "longitude": 12.573056
+    },
+    {
+        "name": "Al Majābirah",
+        "country": "Libya",
+        "province": "Nālūt",
+        "population": -1,
+        "latitude": 31.86,
+        "longitude": 11.159167
+    },
+    {
+        "name": "Al Maḩjūb",
+        "country": "Libya",
+        "province": "LY.58",
+        "population": -1,
+        "latitude": 32.4333333,
+        "longitude": 14.9833333
+    },
+    {
+        "name": "Al Maghāsil",
+        "country": "Libya",
+        "province": "Al Marqab",
+        "population": -1,
+        "latitude": 32.577727,
+        "longitude": 14.181579
+    },
+    {
+        "name": "Al Lamāmīsh",
+        "country": "Libya",
+        "province": "Jabal al Gharbi",
+        "population": -1,
+        "latitude": 32.17855,
+        "longitude": 13.078634
+    },
+    {
+        "name": "Al Kulaybah",
+        "country": "Libya",
+        "province": "Jabal al Gharbi",
+        "population": -1,
+        "latitude": 32.0475,
+        "longitude": 13.003889
+    },
+    {
+        "name": "Al Kashālifah",
+        "country": "Libya",
+        "province": "Jabal al Gharbi",
+        "population": -1,
+        "latitude": 32.119722,
+        "longitude": 13.025833
+    },
+    {
+        "name": "Al Jawsh aş Şaghīr",
+        "country": "Libya",
+        "province": "Nālūt",
+        "population": -1,
+        "latitude": 31.994557,
+        "longitude": 11.678938
+    },
+    {
+        "name": "Al Jawsh al Kabīr",
+        "country": "Libya",
+        "province": "Nālūt",
+        "population": -1,
+        "latitude": 31.994434,
+        "longitude": 11.660846
+    },
+    {
+        "name": "Al Jawāhilīyah",
+        "country": "Libya",
+        "province": "Tripoli",
+        "population": -1,
+        "latitude": 32.209863,
+        "longitude": 13.0375
+    },
+    {
+        "name": "Al Ja‘āfirah",
+        "country": "Libya",
+        "province": "Jabal al Gharbi",
+        "population": -1,
+        "latitude": 32.15,
+        "longitude": 13.283333
+    },
+    {
+        "name": "Al Ḩurshah",
+        "country": "Libya",
+        "province": "Az Zāwiyah",
+        "population": -1,
+        "latitude": 32.764722,
+        "longitude": 12.673889
+    },
+    {
+        "name": "Al Ḩalamah",
+        "country": "Libya",
+        "province": "Mişrātah",
+        "population": -1,
+        "latitude": 31.7558333,
+        "longitude": 14.0180556
+    },
+    {
+        "name": "Al Ḩajarah",
+        "country": "Libya",
+        "province": "Jabal al Gharbi",
+        "population": -1,
+        "latitude": 32.120278,
+        "longitude": 12.967778
+    },
+    {
+        "name": "Al Ghurayfah",
+        "country": "Libya",
+        "province": "Wādī al Ḩayāt",
+        "population": -1,
+        "latitude": 26.521612,
+        "longitude": 13.010717
+    },
+    {
+        "name": "Al Ghuraybāt",
+        "country": "Libya",
+        "province": "Wādī al Ḩayāt",
+        "population": -1,
+        "latitude": 26.6,
+        "longitude": 13.566667
+    },
+    {
+        "name": "Al Fuqar",
+        "country": "Libya",
+        "province": "Wādī al Ḩayāt",
+        "population": -1,
+        "latitude": 26.566667,
+        "longitude": 13.166667
+    },
+    {
+        "name": "Al Fawātīr",
+        "country": "Libya",
+        "province": "Al Marqab",
+        "population": -1,
+        "latitude": 32.450788,
+        "longitude": 14.563795
+    },
+    {
+        "name": "Al Bayāţinah",
+        "country": "Libya",
+        "province": "Jabal al Gharbi",
+        "population": -1,
+        "latitude": 32.033922,
+        "longitude": 12.526144
+    },
+    {
+        "name": "Al Barāhimah",
+        "country": "Libya",
+        "province": "Jabal al Gharbi",
+        "population": -1,
+        "latitude": 31.933333,
+        "longitude": 12.183333
+    },
+    {
+        "name": "Al ‘Alāwinah",
+        "country": "Libya",
+        "province": "Jabal al Gharbi",
+        "population": -1,
+        "latitude": 32.053333,
+        "longitude": 12.569722
+    },
+    {
+        "name": "Abū ‘Īsá",
+        "country": "Libya",
+        "province": "Az Zāwiyah",
+        "population": -1,
+        "latitude": 32.753059,
+        "longitude": 12.631052
+    },
+    {
+        "name": "Abū ar Rīsh",
+        "country": "Libya",
+        "province": "Az Zāwiyah",
+        "population": -1,
+        "latitude": 32.728439,
+        "longitude": 12.496397
+    },
+    {
+        "name": "Tabalino",
+        "country": "Libya",
+        "province": "Banghāzī",
+        "population": -1,
+        "latitude": 32.076724,
+        "longitude": 20.058009
+    },
+    {
+        "name": "Al Fuwayhāt al Gharbīyah",
+        "country": "Libya",
+        "province": "Banghāzī",
+        "population": -1,
+        "latitude": 32.064961,
+        "longitude": 20.080591
+    },
+    {
+        "name": "The University Neighborhood",
+        "country": "Libya",
+        "province": "Banghāzī",
+        "population": -1,
+        "latitude": 32.052804,
+        "longitude": 20.06572
+    },
+    {
+        "name": "Venice Neighborhood",
+        "country": "Libya",
+        "province": "Banghāzī",
+        "population": -1,
+        "latitude": 32.060948,
+        "longitude": 20.066389
+    },
+    {
+        "name": "Al Kish Number 1",
+        "country": "Libya",
+        "province": "Banghāzī",
+        "population": -1,
+        "latitude": 32.083196,
+        "longitude": 20.069202
+    },
+    {
+        "name": "Al Kish Number 2",
+        "country": "Libya",
+        "province": "Banghāzī",
+        "population": -1,
+        "latitude": 32.087209,
+        "longitude": 20.077621
+    },
+    {
+        "name": "Dāwūd al Gharbī",
+        "country": "Libya",
+        "province": "Banghāzī",
+        "population": -1,
+        "latitude": 32.087563,
+        "longitude": 20.07589
+    },
+    {
+        "name": "Azzytun Neighborhood",
+        "country": "Libya",
+        "province": "Banghāzī",
+        "population": -1,
+        "latitude": 32.086304,
+        "longitude": 20.085922
+    },
+    {
+        "name": "Sīdī Ḩusayn",
+        "country": "Libya",
+        "province": "Banghāzī",
+        "population": -1,
+        "latitude": 32.116725,
+        "longitude": 20.075979
+    },
+    {
+        "name": "Beloun",
+        "country": "Libya",
+        "province": "Banghāzī",
+        "population": -1,
+        "latitude": 32.06939,
+        "longitude": 20.092728
+    },
+    {
+        "name": "Buhidima",
+        "country": "Libya",
+        "province": "Banghāzī",
+        "population": -1,
+        "latitude": 32.076125,
+        "longitude": 20.120665
+    },
+    {
+        "name": "Al Laythī",
+        "country": "Libya",
+        "province": "Banghāzī",
+        "population": -1,
+        "latitude": 32.097094,
+        "longitude": 20.129192
+    },
+    {
+        "name": "As Salmānī ash Sharqī",
+        "country": "Libya",
+        "province": "Banghāzī",
+        "population": -1,
+        "latitude": 32.123503,
+        "longitude": 20.102301
+    },
+    {
+        "name": "Ard Zwawa al Bahria",
+        "country": "Libya",
+        "province": "Banghāzī",
+        "population": -1,
+        "latitude": 32.133192,
+        "longitude": 20.096147
+    },
+    {
+        "name": "Al Hawary",
+        "country": "Libya",
+        "province": "Banghāzī",
+        "population": -1,
+        "latitude": 32.064782,
+        "longitude": 20.149332
+    },
+    {
+        "name": "Wāmīs",
+        "country": "Libya",
+        "province": "Jabal al Gharbi",
+        "population": -1,
+        "latitude": 31.646763,
+        "longitude": 12.69642
+    },
+    {
+        "name": "Ash Shuqayqah",
+        "country": "Libya",
+        "province": "Jabal al Gharbi",
+        "population": -1,
+        "latitude": 31.639736,
+        "longitude": 12.806855
+    },
+    {
+        "name": "Al Hilāl",
+        "country": "Libya",
+        "province": "Darnah",
+        "population": -1,
+        "latitude": 32.884516,
+        "longitude": 22.184221
+    },
+    {
+        "name": "Al Ghazālah",
+        "country": "Libya",
+        "province": "Darnah",
+        "population": -1,
+        "latitude": 32.146174,
+        "longitude": 23.356914
+    },
+    {
+        "name": "Qabr Jīrah",
+        "country": "Libya",
+        "province": "Banghāzī",
+        "population": -1,
+        "latitude": 32.133048,
+        "longitude": 20.432353
+    },
+    {
+        "name": "Al Manşūr",
+        "country": "Libya",
+        "province": "Ash Shāţiʼ",
+        "population": -1,
+        "latitude": 27.489395,
+        "longitude": 13.028115
+    },
+    {
+        "name": "Takarkībah",
+        "country": "Libya",
+        "province": "Wādī al Ḩayāt",
+        "population": -1,
+        "latitude": 26.56074,
+        "longitude": 13.244841
+    },
+    {
+        "name": "Ad Dīsah",
+        "country": "Libya",
+        "province": "Wādī al Ḩayāt",
+        "population": -1,
+        "latitude": 26.58755,
+        "longitude": 12.817069
+    },
+    {
+        "name": "Faywīt",
+        "country": "Libya",
+        "province": "Ghāt",
+        "population": -1,
+        "latitude": 24.950623,
+        "longitude": 10.081412
+    },
+    {
+        "name": "Al Ḩaţīyah",
+        "country": "Libya",
+        "province": "Ash Shāţiʼ",
+        "population": -1,
+        "latitude": 27.557754,
+        "longitude": 13.54597
+    },
+    {
+        "name": "Nazlah",
+        "country": "Libya",
+        "province": "Wādī al Ḩayāt",
+        "population": -1,
+        "latitude": 26.615614,
+        "longitude": 13.561002
+    },
+    {
+        "name": "Bin Ḩārith",
+        "country": "Libya",
+        "province": "Wādī al Ḩayāt",
+        "population": -1,
+        "latitude": 26.747648,
+        "longitude": 13.945016
+    },
+    {
+        "name": "Al Zramga",
+        "country": "Libya",
+        "province": "Libya",
+        "population": -1,
+        "latitude": 32.75783,
+        "longitude": 12.40871
+    },
+    {
+        "name": "Mallūk",
+        "country": "Libya",
+        "province": "Mişrātah",
+        "population": -1,
+        "latitude": 32.016341,
+        "longitude": 15.038749
+    },
+    {
+        "name": "Qal‘at al Wasaţ",
+        "country": "Libya",
+        "province": "Mişrātah",
+        "population": -1,
+        "latitude": 31.436094,
+        "longitude": 14.003279
+    },
+    {
+        "name": "Zāzamt",
+        "country": "Libya",
+        "province": "Mişrātah",
+        "population": -1,
+        "latitude": 30.927202,
+        "longitude": 14.732165
+    },
+    {
+        "name": "Antalāt",
+        "country": "Libya",
+        "province": "Banghāzī",
+        "population": -1,
+        "latitude": 31.135556,
+        "longitude": 20.601111
+    },
+    {
+        "name": "Ri’āsat Difā‘ Barqah",
+        "country": "Libya",
+        "province": "Banghāzī",
+        "population": -1,
+        "latitude": 32.066667,
+        "longitude": 20.25
+    },
+    {
+        "name": "Qaşr Lībiyā",
+        "country": "Libya",
+        "province": "Al Jabal al Akhḑar",
+        "population": -1,
+        "latitude": 32.633333,
+        "longitude": 21.416667
+    },
+    {
+        "name": "Qaşr al ‘Urayyiḑ",
+        "country": "Libya",
+        "province": "Banghāzī",
+        "population": -1,
+        "latitude": 31.931022,
+        "longitude": 20.032067
+    },
+    {
+        "name": "Qaryat Qaşr al ‘Ajūz",
+        "country": "Libya",
+        "province": "Banghāzī",
+        "population": -1,
+        "latitude": 32.3,
+        "longitude": 20.266667
+    },
+    {
+        "name": "Posto Trucchi",
+        "country": "Libya",
+        "province": "Al Kufrah",
+        "population": -1,
+        "latitude": 26.016667,
+        "longitude": 22.233333
+    },
+    {
+        "name": "Nuqţat al Khaţţābīyah",
+        "country": "Libya",
+        "province": "Al Buţnān",
+        "population": -1,
+        "latitude": 31.7705,
+        "longitude": 25.041895
+    },
+    {
+        "name": "Ma‘tan as Sārah",
+        "country": "Libya",
+        "province": "Al Kufrah",
+        "population": -1,
+        "latitude": 21.683333,
+        "longitude": 21.866667
+    },
+    {
+        "name": "Kuhūf Bū Qalbūţ",
+        "country": "Libya",
+        "province": "Darnah",
+        "population": -1,
+        "latitude": 32.759901,
+        "longitude": 22.248839
+    },
+    {
+        "name": "Khīshān al Budūr",
+        "country": "Libya",
+        "province": "Banghāzī",
+        "population": -1,
+        "latitude": 31.697444,
+        "longitude": 20.007565
+    },
+    {
+        "name": "Jardas al Aḩrār",
+        "country": "Libya",
+        "province": "Al Marj",
+        "population": -1,
+        "latitude": 32.283333,
+        "longitude": 20.983333
+    },
+    {
+        "name": "Ḩīshān ‘Ā’ilat Bāqī",
+        "country": "Libya",
+        "province": "Banghāzī",
+        "population": -1,
+        "latitude": 32.267864,
+        "longitude": 20.204604
+    },
+    {
+        "name": "Ḩawsh Barjī",
+        "country": "Libya",
+        "province": "Banghāzī",
+        "population": -1,
+        "latitude": 32.283333,
+        "longitude": 20.216667
+    },
+    {
+        "name": "Ghawţ al Ḩişān",
+        "country": "Libya",
+        "province": "Banghāzī",
+        "population": -1,
+        "latitude": 32.186582,
+        "longitude": 20.615347
+    },
+    {
+        "name": "Zāwiyat al ‘Urqūb",
+        "country": "Libya",
+        "province": "Al Jabal al Akhḑar",
+        "population": -1,
+        "latitude": 32.833333,
+        "longitude": 21.6
+    },
+    {
+        "name": "Sūq al ‘Ajāj",
+        "country": "Libya",
+        "province": "Al Buţnān",
+        "population": -1,
+        "latitude": 32.076856,
+        "longitude": 23.947339
+    },
+    {
+        "name": "Sulţān",
+        "country": "Libya",
+        "province": "Banghāzī",
+        "population": -1,
+        "latitude": 31.093961,
+        "longitude": 20.223287
+    },
+    {
+        "name": "Aş Şaq‘ābī",
+        "country": "Libya",
+        "province": "Banghāzī",
+        "population": -1,
+        "latitude": 32.170258,
+        "longitude": 20.137572
+    },
+    {
+        "name": "Al ‘Urūbah",
+        "country": "Libya",
+        "province": "Banghāzī",
+        "population": -1,
+        "latitude": 32.117664,
+        "longitude": 20.129275
+    },
+    {
+        "name": "Al Qadhādhimah",
+        "country": "Libya",
+        "province": "Banghāzī",
+        "population": -1,
+        "latitude": 31.633333,
+        "longitude": 20.133333
+    },
+    {
+        "name": "Al Mukhaylī",
+        "country": "Libya",
+        "province": "Al Qubbah",
+        "population": -1,
+        "latitude": 32.15,
+        "longitude": 22.2
+    },
+    {
+        "name": "Al Milayţānīyah",
+        "country": "Libya",
+        "province": "Banghāzī",
+        "population": -1,
+        "latitude": 32.366667,
+        "longitude": 20.633333
+    },
+    {
+        "name": "Al Masīl",
+        "country": "Libya",
+        "province": "Al Marj",
+        "population": -1,
+        "latitude": 32.266667,
+        "longitude": 20.966667
+    },
+    {
+        "name": "Al Lathāmah",
+        "country": "Libya",
+        "province": "Banghāzī",
+        "population": -1,
+        "latitude": 32.145931,
+        "longitude": 20.091089
+    },
+    {
+        "name": "Al ‘Izzīyāt",
+        "country": "Libya",
+        "province": "LY.55",
+        "population": -1,
+        "latitude": 32.25,
+        "longitude": 20.066667
+    },
+    {
+        "name": "Al Hawwārī",
+        "country": "Libya",
+        "province": "Al Kufrah",
+        "population": -1,
+        "latitude": 24.316667,
+        "longitude": 23.166667
+    },
+    {
+        "name": "‘Ā’ilat Lamwīs",
+        "country": "Libya",
+        "province": "Banghāzī",
+        "population": -1,
+        "latitude": 32.134163,
+        "longitude": 20.229183
+    },
+    {
+        "name": "Banī Yakhlif",
+        "country": "Libya",
+        "province": "Al Jafārah",
+        "population": -1,
+        "latitude": 32.232778,
+        "longitude": 13.038611
+    },
+    {
+        "name": "Qaşabat Mādī",
+        "country": "Libya",
+        "province": "Jabal al Gharbi",
+        "population": -1,
+        "latitude": 32.074439,
+        "longitude": 12.536582
+    },
+    {
+        "name": "Qaşabat ‘Akkah",
+        "country": "Libya",
+        "province": "Jabal al Gharbi",
+        "population": -1,
+        "latitude": 32.049961,
+        "longitude": 12.587273
+    },
+    {
+        "name": "Qaryat Umm an Na‘ām",
+        "country": "Libya",
+        "province": "Jabal al Gharbi",
+        "population": -1,
+        "latitude": 30.767922,
+        "longitude": 13.135313
+    },
+    {
+        "name": "Qaryat T",
+        "country": "Libya",
+        "province": "Nālūt",
+        "population": -1,
+        "latitude": 30.212565,
+        "longitude": 10.463204
+    },
+    {
+        "name": "Qaryat Şūr al ‘Ūd",
+        "country": "Libya",
+        "province": "Mişrātah",
+        "population": -1,
+        "latitude": 32.386233,
+        "longitude": 15.136257
+    },
+    {
+        "name": "Qaryat Ra’s Abū Ḩammār",
+        "country": "Libya",
+        "province": "Mişrātah",
+        "population": -1,
+        "latitude": 32.364852,
+        "longitude": 15.153593
+    },
+    {
+        "name": "Qaryat Qārāt",
+        "country": "Libya",
+        "province": "Jabal al Gharbi",
+        "population": -1,
+        "latitude": 32.2025,
+        "longitude": 13.068611
+    },
+    {
+        "name": "Qaryat Qārāt",
+        "country": "Libya",
+        "province": "Tripoli",
+        "population": -1,
+        "latitude": 32.211944,
+        "longitude": 13.075833
+    },
+    {
+        "name": "Qaryat Nābūkar",
+        "country": "Libya",
+        "province": "Jabal al Gharbi",
+        "population": -1,
+        "latitude": 32.160278,
+        "longitude": 13.0375
+    },
+    {
+        "name": "Qaryat Ismā‘īl",
+        "country": "Libya",
+        "province": "Mişrātah",
+        "population": -1,
+        "latitude": 32.394054,
+        "longitude": 15.1404
+    },
+    {
+        "name": "Qaryat Ballālah",
+        "country": "Libya",
+        "province": "Mişrātah",
+        "population": -1,
+        "latitude": 32.372156,
+        "longitude": 15.165282
+    },
+    {
+        "name": "Qaryat ‘Ayn Makhlūf",
+        "country": "Libya",
+        "province": "Mişrātah",
+        "population": -1,
+        "latitude": 32.341312,
+        "longitude": 15.12711
+    },
+    {
+        "name": "Qaryat ‘Ayn Kurayyim",
+        "country": "Libya",
+        "province": "Mişrātah",
+        "population": -1,
+        "latitude": 32.38867,
+        "longitude": 15.137866
+    },
+    {
+        "name": "Qaryat ‘Ayn Fakrūnah",
+        "country": "Libya",
+        "province": "Mişrātah",
+        "population": -1,
+        "latitude": 32.370176,
+        "longitude": 15.105153
+    },
+    {
+        "name": "Qaryat ‘Ayn al Madham",
+        "country": "Libya",
+        "province": "Mişrātah",
+        "population": -1,
+        "latitude": 32.351022,
+        "longitude": 15.132487
+    },
+    {
+        "name": "Qaryat ‘Ayn al Kabīr",
+        "country": "Libya",
+        "province": "Mişrātah",
+        "population": -1,
+        "latitude": 32.323387,
+        "longitude": 15.106961
+    },
+    {
+        "name": "Qaryat ‘Ayn Abū Ghūlah",
+        "country": "Libya",
+        "province": "Mişrātah",
+        "population": -1,
+        "latitude": 32.355889,
+        "longitude": 15.134972
+    },
+    {
+        "name": "Qaryat Awlād Jamā‘ah",
+        "country": "Libya",
+        "province": "Tripoli",
+        "population": -1,
+        "latitude": 32.22,
+        "longitude": 13.048333
+    },
+    {
+        "name": "Qaryat Awlād Abū Sha‘‘ālah",
+        "country": "Libya",
+        "province": "Mişrātah",
+        "population": -1,
+        "latitude": 32.374341,
+        "longitude": 15.152061
+    },
+    {
+        "name": "Qaryat Awlā Bin Shayyah",
+        "country": "Libya",
+        "province": "Mişrātah",
+        "population": -1,
+        "latitude": 32.378776,
+        "longitude": 15.134015
+    },
+    {
+        "name": "Qaryat ar Ramlah",
+        "country": "Libya",
+        "province": "Mişrātah",
+        "population": -1,
+        "latitude": 32.385234,
+        "longitude": 15.1288
+    },
+    {
+        "name": "Qaryat ‘Arīfah",
+        "country": "Libya",
+        "province": "Tripoli",
+        "population": -1,
+        "latitude": 32.225556,
+        "longitude": 13.045278
+    },
+    {
+        "name": "Qaryat al Wafāwāt",
+        "country": "Libya",
+        "province": "Mişrātah",
+        "population": -1,
+        "latitude": 32.396418,
+        "longitude": 15.120603
+    },
+    {
+        "name": "Qaryat at Tawālikīyah",
+        "country": "Libya",
+        "province": "Mişrātah",
+        "population": -1,
+        "latitude": 32.391812,
+        "longitude": 15.118885
+    },
+    {
+        "name": "Qaryat al Quşaybāt",
+        "country": "Libya",
+        "province": "Mişrātah",
+        "population": -1,
+        "latitude": 32.402388,
+        "longitude": 15.090156
+    },
+    {
+        "name": "Qaryat al Jaţāliwah",
+        "country": "Libya",
+        "province": "Mişrātah",
+        "population": -1,
+        "latitude": 32.38621,
+        "longitude": 15.154689
+    },
+    {
+        "name": "Qaryat al Ja‘āfirah",
+        "country": "Libya",
+        "province": "Mişrātah",
+        "population": -1,
+        "latitude": 32.375233,
+        "longitude": 15.149201
+    },
+    {
+        "name": "Qaryat al Ḩalībīyah",
+        "country": "Libya",
+        "province": "Banghāzī",
+        "population": -1,
+        "latitude": 31.92137,
+        "longitude": 19.961453
+    },
+    {
+        "name": "Qaryat al Ghawīl",
+        "country": "Libya",
+        "province": "Mişrātah",
+        "population": -1,
+        "latitude": 32.37278,
+        "longitude": 15.129613
+    },
+    {
+        "name": "Qaryat al ‘Awā’idah",
+        "country": "Libya",
+        "province": "Mişrātah",
+        "population": -1,
+        "latitude": 32.395038,
+        "longitude": 15.104847
+    },
+    {
+        "name": "Qaryat al ‘Arīmah",
+        "country": "Libya",
+        "province": "Mişrātah",
+        "population": -1,
+        "latitude": 31.432791,
+        "longitude": 13.976104
+    },
+    {
+        "name": "Qaryat ad Dawā’irah",
+        "country": "Libya",
+        "province": "Mişrātah",
+        "population": -1,
+        "latitude": 31.371928,
+        "longitude": 14.5386
+    },
+    {
+        "name": "Qaryat ad Darārifah",
+        "country": "Libya",
+        "province": "Al Jafārah",
+        "population": -1,
+        "latitude": 32.2175,
+        "longitude": 13.017222
+    },
+    {
+        "name": "Qaryat Abū Shārwal",
+        "country": "Libya",
+        "province": "Mişrātah",
+        "population": -1,
+        "latitude": 32.392299,
+        "longitude": 15.13265
+    },
+    {
+        "name": "Qabīlat Warjīn",
+        "country": "Libya",
+        "province": "Jabal al Gharbi",
+        "population": -1,
+        "latitude": 32.01,
+        "longitude": 12.463333
+    },
+    {
+        "name": "Qabīlat Mantar",
+        "country": "Libya",
+        "province": "Mişrātah",
+        "population": -1,
+        "latitude": 32.387427,
+        "longitude": 15.065952
+    },
+    {
+        "name": "Qabīlat Dajībītah",
+        "country": "Libya",
+        "province": "Tripoli",
+        "population": -1,
+        "latitude": 32.903294,
+        "longitude": 13.256687
+    },
+    {
+        "name": "Qabīlat Awlād Zā’id",
+        "country": "Libya",
+        "province": "Al Marqab",
+        "population": -1,
+        "latitude": 32.647951,
+        "longitude": 14.16204
+    },
+    {
+        "name": "Qabīlat Awlād Jābir",
+        "country": "Libya",
+        "province": "Jabal al Gharbi",
+        "population": -1,
+        "latitude": 31.994447,
+        "longitude": 12.339784
+    },
+    {
+        "name": "Qabīlat Awlād ‘Izāz",
+        "country": "Libya",
+        "province": "Jabal al Gharbi",
+        "population": -1,
+        "latitude": 32.155556,
+        "longitude": 12.831944
+    },
+    {
+        "name": "Qabīlat Awlād ‘Īsá",
+        "country": "Libya",
+        "province": "Al Marqab",
+        "population": -1,
+        "latitude": 32.658333,
+        "longitude": 14.151667
+    },
+    {
+        "name": "Qabīlat Awlād Ḩāmid",
+        "country": "Libya",
+        "province": "LY.58",
+        "population": -1,
+        "latitude": 32,
+        "longitude": 15.1833333
+    },
+    {
+        "name": "Qabīlat Awlād aş Şaghīr",
+        "country": "Libya",
+        "province": "Jabal al Gharbi",
+        "population": -1,
+        "latitude": 32.016682,
+        "longitude": 12.457565
+    },
+    {
+        "name": "Qabīlat Awlād ‘Āmir",
+        "country": "Libya",
+        "province": "Jabal al Gharbi",
+        "population": -1,
+        "latitude": 32.000832,
+        "longitude": 12.332124
+    },
+    {
+        "name": "Qabīlat ar Raqā’iqīyah",
+        "country": "Libya",
+        "province": "Jabal al Gharbi",
+        "population": -1,
+        "latitude": 31.043365,
+        "longitude": 13.203108
+    },
+    {
+        "name": "Qabīlat ar Rāghah",
+        "country": "Libya",
+        "province": "Al Marqab",
+        "population": -1,
+        "latitude": 32.559944,
+        "longitude": 13.900874
+    },
+    {
+        "name": "Qabīlat ar Radādah",
+        "country": "Libya",
+        "province": "Al Marqab",
+        "population": -1,
+        "latitude": 32.597403,
+        "longitude": 13.936463
+    },
+    {
+        "name": "Qabīlat an Naţţāţāt",
+        "country": "Libya",
+        "province": "Jabal al Gharbi",
+        "population": -1,
+        "latitude": 32.144198,
+        "longitude": 13.029262
+    },
+    {
+        "name": "Qabīlat al Qanawāt",
+        "country": "Libya",
+        "province": "Al Marqab",
+        "population": -1,
+        "latitude": 32.576111,
+        "longitude": 14.360278
+    },
+    {
+        "name": "Qabīlat al Karāritah",
+        "country": "Libya",
+        "province": "Al Marqab",
+        "population": -1,
+        "latitude": 32.58342,
+        "longitude": 13.884217
+    },
+    {
+        "name": "Qabīlat al Jawābir",
+        "country": "Libya",
+        "province": "Al Marqab",
+        "population": -1,
+        "latitude": 32.642854,
+        "longitude": 13.905799
+    },
+    {
+        "name": "Qabīlat al Ḩurmah",
+        "country": "Libya",
+        "province": "Al Marqab",
+        "population": -1,
+        "latitude": 32.29835,
+        "longitude": 14.680897
+    },
+    {
+        "name": "Qabīlat al Fawātīr",
+        "country": "Libya",
+        "province": "Al Marqab",
+        "population": -1,
+        "latitude": 32.564917,
+        "longitude": 13.931673
+    },
+    {
+        "name": "Qabīlat al Bakākishah",
+        "country": "Libya",
+        "province": "Al Marqab",
+        "population": -1,
+        "latitude": 32.451825,
+        "longitude": 14.538886
+    },
+    {
+        "name": "Qabīlat al ‘Aql",
+        "country": "Libya",
+        "province": "Al Marqab",
+        "population": -1,
+        "latitude": 32.654113,
+        "longitude": 14.161906
+    },
+    {
+        "name": "Qabīlat al Abqār",
+        "country": "Libya",
+        "province": "Al Jafārah",
+        "population": -1,
+        "latitude": 32.262277,
+        "longitude": 13.031941
+    },
+    {
+        "name": "Qabīlat al ‘Abādinah",
+        "country": "Libya",
+        "province": "Al Marqab",
+        "population": -1,
+        "latitude": 32.324788,
+        "longitude": 14.723116
+    },
+    {
+        "name": "Qabīlat Abū Saḩāmah",
+        "country": "Libya",
+        "province": "Tripoli",
+        "population": -1,
+        "latitude": 32.267524,
+        "longitude": 13.04379
+    },
+    {
+        "name": "Mu‘askar Jālū",
+        "country": "Libya",
+        "province": "Tripoli",
+        "population": -1,
+        "latitude": 32.866667,
+        "longitude": 13.166667
+    },
+    {
+        "name": "Misqūwīn",
+        "country": "Libya",
+        "province": "LY.30",
+        "population": -1,
+        "latitude": 26.15,
+        "longitude": 14.7166667
+    },
+    {
+        "name": "Minţaqat ad Daghdūghī",
+        "country": "Libya",
+        "province": "Al Marqab",
+        "population": -1,
+        "latitude": 32.345637,
+        "longitude": 14.525322
+    },
+    {
+        "name": "Māzūzah",
+        "country": "Libya",
+        "province": "Jabal al Gharbi",
+        "population": -1,
+        "latitude": 31.266667,
+        "longitude": 13.05
+    },
+    {
+        "name": "Mazra‘at Ţīţānū",
+        "country": "Libya",
+        "province": "Tripoli",
+        "population": -1,
+        "latitude": 32.471275,
+        "longitude": 13.719016
+    },
+    {
+        "name": "Mazra‘at Sāqīl",
+        "country": "Libya",
+        "province": "Tripoli",
+        "population": -1,
+        "latitude": 32.464544,
+        "longitude": 13.704653
+    },
+    {
+        "name": "Mazra‘at Sāqīl",
+        "country": "Libya",
+        "province": "Tripoli",
+        "population": -1,
+        "latitude": 32.434296,
+        "longitude": 13.648675
+    },
+    {
+        "name": "Māryān",
+        "country": "Libya",
+        "province": "Jabal al Gharbi",
+        "population": -1,
+        "latitude": 32.057512,
+        "longitude": 12.561667
+    },
+    {
+        "name": "Ki‘ām",
+        "country": "Libya",
+        "province": "Al Marqab",
+        "population": -1,
+        "latitude": 32.522778,
+        "longitude": 14.438025
+    },
+    {
+        "name": "Irmābḩat az Zintān",
+        "country": "Libya",
+        "province": "Jabal al Gharbi",
+        "population": -1,
+        "latitude": 31.11256,
+        "longitude": 12.258908
+    },
+    {
+        "name": "Zāwiyat al Maḩjūb",
+        "country": "Libya",
+        "province": "Al Marqab",
+        "population": -1,
+        "latitude": 32.016667,
+        "longitude": 14.683333
+    },
+    {
+        "name": "‘Uwaynāt Wanīn",
+        "country": "Libya",
+        "province": "Jabal al Gharbi",
+        "population": -1,
+        "latitude": 28.5,
+        "longitude": 12.7
+    },
+    {
+        "name": "Ţamzīn",
+        "country": "Libya",
+        "province": "Nālūt",
+        "population": -1,
+        "latitude": 31.856478,
+        "longitude": 11.420958
+    },
+    {
+        "name": "Tālāt",
+        "country": "Libya",
+        "province": "Nālūt",
+        "population": -1,
+        "latitude": 31.844722,
+        "longitude": 11.223889
+    },
+    {
+        "name": "Taglin",
+        "country": "Libya",
+        "province": "Wādī al Ḩayāt",
+        "population": -1,
+        "latitude": 26.55,
+        "longitude": 12.9
+    },
+    {
+        "name": "Sūq Qamāţah al Gharbīyah",
+        "country": "Libya",
+        "province": "Jabal al Gharbi",
+        "population": -1,
+        "latitude": 32.166667,
+        "longitude": 13.383333
+    },
+    {
+        "name": "Sūq as Sabt",
+        "country": "Libya",
+        "province": "Tripoli",
+        "population": -1,
+        "latitude": 32.65,
+        "longitude": 13.2
+    },
+    {
+        "name": "Sūq al Jum‘ah",
+        "country": "Libya",
+        "province": "Tripoli",
+        "population": -1,
+        "latitude": 32.262183,
+        "longitude": 13.376447
+    },
+    {
+        "name": "Sūq al ‘Alāliqah",
+        "country": "Libya",
+        "province": "An Nuqāţ al Khams",
+        "population": -1,
+        "latitude": 32.75,
+        "longitude": 11.983333
+    },
+    {
+        "name": "Sīdī Bin al Bashīrī",
+        "country": "Libya",
+        "province": "Tripoli",
+        "population": -1,
+        "latitude": 32.683333,
+        "longitude": 13.566667
+    },
+    {
+        "name": "Sīdī ‘Alī",
+        "country": "Libya",
+        "province": "Wādī al Ḩayāt",
+        "population": -1,
+        "latitude": 26.65,
+        "longitude": 13.7
+    },
+    {
+        "name": "Ghurām",
+        "country": "Libya",
+        "province": "Jabal al Gharbi",
+        "population": -1,
+        "latitude": 32.055652,
+        "longitude": 12.573115
+    },
+    {
+        "name": "Fayşalān",
+        "country": "Libya",
+        "province": "Jabal al Gharbi",
+        "population": -1,
+        "latitude": 32.095,
+        "longitude": 13.013611
+    },
+    {
+        "name": "‘Eoj Wāhş",
+        "country": "Libya",
+        "province": "Al Kufrah",
+        "population": -1,
+        "latitude": 22.283333,
+        "longitude": 19.766667
+    },
+    {
+        "name": "Emi Madema",
+        "country": "Libya",
+        "province": "Murzuq",
+        "population": -1,
+        "latitude": 23.75,
+        "longitude": 15.3
+    },
+    {
+        "name": "Dashrah",
+        "country": "Libya",
+        "province": "Jabal al Gharbi",
+        "population": -1,
+        "latitude": 31.870666,
+        "longitude": 11.772408
+    },
+    {
+        "name": "Dahmān",
+        "country": "Libya",
+        "province": "Az Zāwiyah",
+        "population": -1,
+        "latitude": 32.785833,
+        "longitude": 12.515278
+    },
+    {
+        "name": "Bū Sittah",
+        "country": "Libya",
+        "province": "Tripoli",
+        "population": -1,
+        "latitude": 32.899722,
+        "longitude": 13.219444
+    },
+    {
+        "name": "Bū Jabalayn",
+        "country": "Libya",
+        "province": "Jabal al Gharbi",
+        "population": -1,
+        "latitude": 31.969173,
+        "longitude": 12.018255
+    },
+    {
+        "name": "Bishr",
+        "country": "Libya",
+        "province": "LY.47",
+        "population": -1,
+        "latitude": 30.3,
+        "longitude": 19.2166667
+    },
+    {
+        "name": "Bi’r Dūfān",
+        "country": "Libya",
+        "province": "Al Marqab",
+        "population": -1,
+        "latitude": 31.96841,
+        "longitude": 14.602158
+    },
+    {
+        "name": "Bi’r ‘Ayyād",
+        "country": "Libya",
+        "province": "Jabal al Gharbi",
+        "population": -1,
+        "latitude": 32.131731,
+        "longitude": 12.464537
+    },
+    {
+        "name": "Bi’r Abū al Ghurāb",
+        "country": "Libya",
+        "province": "Jabal al Gharbi",
+        "population": -1,
+        "latitude": 30.633333,
+        "longitude": 13.6
+    },
+    {
+        "name": "Bin Yaḩyá",
+        "country": "Libya",
+        "province": "Jabal al Gharbi",
+        "population": -1,
+        "latitude": 32.128056,
+        "longitude": 13.006667
+    },
+    {
+        "name": "Barāshīn",
+        "country": "Libya",
+        "province": "Jabal al Gharbi",
+        "population": -1,
+        "latitude": 32.140619,
+        "longitude": 13.020436
+    },
+    {
+        "name": "Baldat Awlād Mīlād",
+        "country": "Libya",
+        "province": "Jabal al Gharbi",
+        "population": -1,
+        "latitude": 31.929536,
+        "longitude": 12.21679
+    },
+    {
+        "name": "Bāb ‘Akkārah",
+        "country": "Libya",
+        "province": "Tripoli",
+        "population": -1,
+        "latitude": 32.8766,
+        "longitude": 13.181577
+    },
+    {
+        "name": "Az Zamāmiqah",
+        "country": "Libya",
+        "province": "Al Jafārah",
+        "population": -1,
+        "latitude": 32.248056,
+        "longitude": 13.036944
+    },
+    {
+        "name": "Awlād Yaḩyá",
+        "country": "Libya",
+        "province": "Jabal al Gharbi",
+        "population": -1,
+        "latitude": 32.01652,
+        "longitude": 12.517714
+    },
+    {
+        "name": "Awlād Yaḩyá",
+        "country": "Libya",
+        "province": "Jabal al Gharbi",
+        "population": -1,
+        "latitude": 32.022598,
+        "longitude": 12.521357
+    },
+    {
+        "name": "Awlād Sa‘īd",
+        "country": "Libya",
+        "province": "Jabal al Gharbi",
+        "population": -1,
+        "latitude": 32.057138,
+        "longitude": 12.51468
+    },
+    {
+        "name": "Awlād Mūshād",
+        "country": "Libya",
+        "province": "Jabal al Gharbi",
+        "population": -1,
+        "latitude": 32.087778,
+        "longitude": 12.8975
+    },
+    {
+        "name": "Awlād Manşūr",
+        "country": "Libya",
+        "province": "Jabal al Gharbi",
+        "population": -1,
+        "latitude": 32.206389,
+        "longitude": 13.048333
+    },
+    {
+        "name": "Awlād Manşūr",
+        "country": "Libya",
+        "province": "Jabal al Gharbi",
+        "population": -1,
+        "latitude": 32.009378,
+        "longitude": 12.477711
+    },
+    {
+        "name": "Awlād Khalīfah",
+        "country": "Libya",
+        "province": "Jabal al Gharbi",
+        "population": -1,
+        "latitude": 32.041944,
+        "longitude": 12.523889
+    },
+    {
+        "name": "Awlād Jarbū‘",
+        "country": "Libya",
+        "province": "Jabal al Gharbi",
+        "population": -1,
+        "latitude": 32.180131,
+        "longitude": 13.083156
+    },
+    {
+        "name": "Awlād Ḩāmid",
+        "country": "Libya",
+        "province": "Jabal al Gharbi",
+        "population": -1,
+        "latitude": 31.953753,
+        "longitude": 12.231526
+    },
+    {
+        "name": "Awlād Ḩamad",
+        "country": "Libya",
+        "province": "Jabal al Gharbi",
+        "population": -1,
+        "latitude": 32.035278,
+        "longitude": 12.522778
+    },
+    {
+        "name": "Awlād Bū Jadīd",
+        "country": "Libya",
+        "province": "Jabal al Gharbi",
+        "population": -1,
+        "latitude": 31.871796,
+        "longitude": 11.888813
+    },
+    {
+        "name": "Awlād Bin Aḩmad",
+        "country": "Libya",
+        "province": "Tripoli",
+        "population": -1,
+        "latitude": 32.833333,
+        "longitude": 13.116667
+    },
+    {
+        "name": "Awlād Badr",
+        "country": "Libya",
+        "province": "Jabal al Gharbi",
+        "population": -1,
+        "latitude": 32.018866,
+        "longitude": 11.967217
+    },
+    {
+        "name": "Awlād ‘Azzām",
+        "country": "Libya",
+        "province": "Jabal al Gharbi",
+        "population": -1,
+        "latitude": 32.144612,
+        "longitude": 13.008315
+    },
+    {
+        "name": "Awlād ‘Alī Bū al Qāsim",
+        "country": "Libya",
+        "province": "Jabal al Gharbi",
+        "population": -1,
+        "latitude": 32.046275,
+        "longitude": 12.572336
+    },
+    {
+        "name": "Awlād ‘Alī",
+        "country": "Libya",
+        "province": "Jabal al Gharbi",
+        "population": -1,
+        "latitude": 32.159167,
+        "longitude": 13.004167
+    },
+    {
+        "name": "Awlād Abū Suhayyirah",
+        "country": "Libya",
+        "province": "Az Zāwiyah",
+        "population": -1,
+        "latitude": 32.766667,
+        "longitude": 12.75
+    },
+    {
+        "name": "Awlād ‘Abd Allāh",
+        "country": "Libya",
+        "province": "Jabal al Gharbi",
+        "population": -1,
+        "latitude": 32.050219,
+        "longitude": 12.576845
+    },
+    {
+        "name": "Awlād ‘Abd al ‘Azīz ‘Inān",
+        "country": "Libya",
+        "province": "Jabal al Gharbi",
+        "population": -1,
+        "latitude": 32.003203,
+        "longitude": 12.315082
+    },
+    {
+        "name": "Awlād ‘Abd ad Dā’im",
+        "country": "Libya",
+        "province": "Jabal al Gharbi",
+        "population": -1,
+        "latitude": 31.95441,
+        "longitude": 12.252286
+    },
+    {
+        "name": "Asyādī al ‘Amārīyīn",
+        "country": "Libya",
+        "province": "Tripoli",
+        "population": -1,
+        "latitude": 32.65648,
+        "longitude": 13.831826
+    },
+    {
+        "name": "As Sidrah",
+        "country": "Libya",
+        "province": "Bin Jawwad",
+        "population": -1,
+        "latitude": 30.65,
+        "longitude": 18.3666667
+    },
+    {
+        "name": "As Sawānī",
+        "country": "Libya",
+        "province": "Al Jafārah",
+        "population": -1,
+        "latitude": 32.716667,
+        "longitude": 13.066667
+    },
+    {
+        "name": "As Saqā’if",
+        "country": "Libya",
+        "province": "Jabal al Gharbi",
+        "population": -1,
+        "latitude": 32.150833,
+        "longitude": 13.028889
+    },
+    {
+        "name": "Ash Sharshārah",
+        "country": "Libya",
+        "province": "Tripoli",
+        "population": -1,
+        "latitude": 32.466667,
+        "longitude": 13.616667
+    },
+    {
+        "name": "Asbī‘ah",
+        "country": "Libya",
+        "province": "Tripoli",
+        "population": -1,
+        "latitude": 32.516667,
+        "longitude": 13.166667
+    },
+    {
+        "name": "Ar Rujbān",
+        "country": "Libya",
+        "province": "Jabal al Gharbi",
+        "population": -1,
+        "latitude": 31.95,
+        "longitude": 12.166667
+    },
+    {
+        "name": "Ar Raqabah",
+        "country": "Libya",
+        "province": "Wādī al Ḩayāt",
+        "population": -1,
+        "latitude": 26.633333,
+        "longitude": 13.633333
+    },
+    {
+        "name": "An Nakhlayn",
+        "country": "Libya",
+        "province": "Jabal al Gharbi",
+        "population": -1,
+        "latitude": 32.202918,
+        "longitude": 13.044992
+    },
+    {
+        "name": "Amzīr",
+        "country": "Libya",
+        "province": "Jabal al Gharbi",
+        "population": -1,
+        "latitude": 32.069444,
+        "longitude": 12.694167
+    },
+    {
+        "name": "Al ‘Urqūb",
+        "country": "Libya",
+        "province": "Jabal al Gharbi",
+        "population": -1,
+        "latitude": 31.946448,
+        "longitude": 12.217953
+    },
+    {
+        "name": "Al ‘Urbān",
+        "country": "Libya",
+        "province": "Jabal al Gharbi",
+        "population": -1,
+        "latitude": 32.166667,
+        "longitude": 13.15
+    },
+    {
+        "name": "Al ‘Ubayyāt",
+        "country": "Libya",
+        "province": "Jabal al Gharbi",
+        "population": -1,
+        "latitude": 32.083056,
+        "longitude": 12.695278
+    },
+    {
+        "name": "Al Quşayr",
+        "country": "Libya",
+        "province": "Jabal al Gharbi",
+        "population": -1,
+        "latitude": 32.071526,
+        "longitude": 12.547652
+    },
+    {
+        "name": "Al Qal‘ah",
+        "country": "Libya",
+        "province": "Jabal al Gharbi",
+        "population": -1,
+        "latitude": 32.049235,
+        "longitude": 12.560269
+    },
+    {
+        "name": "Al Qābil",
+        "country": "Libya",
+        "province": "Jabal al Gharbi",
+        "population": -1,
+        "latitude": 32.194722,
+        "longitude": 13.026944
+    },
+    {
+        "name": "Al Manāşīr",
+        "country": "Libya",
+        "province": "Jabal al Gharbi",
+        "population": -1,
+        "latitude": 32.161389,
+        "longitude": 12.831667
+    },
+    {
+        "name": "Al Ma‘mūrah",
+        "country": "Libya",
+        "province": "Jabal al Gharbi",
+        "population": -1,
+        "latitude": 32.029658,
+        "longitude": 12.559247
+    },
+    {
+        "name": "Al Mallāḩah al Gharbīyah",
+        "country": "Libya",
+        "province": "Jabal al Gharbi",
+        "population": -1,
+        "latitude": 30.45,
+        "longitude": 11.933333
+    },
+    {
+        "name": "Al Mallāḩah al Baḩrīyah",
+        "country": "Libya",
+        "province": "Jabal al Gharbi",
+        "population": -1,
+        "latitude": 30.683333,
+        "longitude": 12.066667
+    },
+    {
+        "name": "Al La‘āqīb",
+        "country": "Libya",
+        "province": "Jabal al Gharbi",
+        "population": -1,
+        "latitude": 32.067778,
+        "longitude": 12.676389
+    },
+    {
+        "name": "Al Ḩuwayjāt",
+        "country": "Libya",
+        "province": "Al Marqab",
+        "population": -1,
+        "latitude": 32.367552,
+        "longitude": 14.591166
+    },
+    {
+        "name": "Al Ḩawāmid",
+        "country": "Libya",
+        "province": "Nālūt",
+        "population": -1,
+        "latitude": 31.975278,
+        "longitude": 11.162222
+    },
+    {
+        "name": "Al Ḩāshiyah al Ḩamrā’",
+        "country": "Libya",
+        "province": "Az Zāwiyah",
+        "population": -1,
+        "latitude": 32.732174,
+        "longitude": 12.560853
+    },
+    {
+        "name": "Al Burayqah",
+        "country": "Libya",
+        "province": "LY.47",
+        "population": -1,
+        "latitude": 30.4,
+        "longitude": 19.3833333
+    },
+    {
+        "name": "Al Buḩūr",
+        "country": "Libya",
+        "province": "Jabal al Gharbi",
+        "population": -1,
+        "latitude": 32.054781,
+        "longitude": 12.563179
+    },
+    {
+        "name": "Al Bakhābikhah",
+        "country": "Libya",
+        "province": "Jabal al Gharbi",
+        "population": -1,
+        "latitude": 32.066473,
+        "longitude": 12.545483
+    },
+    {
+        "name": "Al ‘Amāmirah",
+        "country": "Libya",
+        "province": "Al Marqab",
+        "population": -1,
+        "latitude": 32.454722,
+        "longitude": 14.106944
+    },
+    {
+        "name": "Ahl al Wādī",
+        "country": "Libya",
+        "province": "Jabal al Gharbi",
+        "population": -1,
+        "latitude": 32.00451,
+        "longitude": 12.469756
+    },
+    {
+        "name": "Ad Dāwūn",
+        "country": "Libya",
+        "province": "Tripoli",
+        "population": -1,
+        "latitude": 32.433333,
+        "longitude": 13.466667
+    },
+    {
+        "name": "Abū Ghaylān",
+        "country": "Libya",
+        "province": "Al Jafārah",
+        "population": -1,
+        "latitude": 32.266667,
+        "longitude": 13.016667
+    },
+    {
+        "name": "Al Babsá",
+        "country": "Libya",
+        "province": "Banghāzī",
+        "population": -1,
+        "latitude": 32.081209,
+        "longitude": 20.078722
+    },
+    {
+        "name": "Eastern Dawud",
+        "country": "Libya",
+        "province": "Banghāzī",
+        "population": -1,
+        "latitude": 32.103005,
+        "longitude": 20.090262
+    },
+    {
+        "name": "Dāwūd al Qiblī",
+        "country": "Libya",
+        "province": "Banghāzī",
+        "population": -1,
+        "latitude": 32.103829,
+        "longitude": 20.092905
+    },
+    {
+        "name": "Dāwūd al Baḩrī",
+        "country": "Libya",
+        "province": "Banghāzī",
+        "population": -1,
+        "latitude": 32.107484,
+        "longitude": 20.093779
+    },
+    {
+        "name": "Minţaqat al Mājūrī",
+        "country": "Libya",
+        "province": "Banghāzī",
+        "population": -1,
+        "latitude": 32.096817,
+        "longitude": 20.09489
+    },
+    {
+        "name": "Al-Fatih Neighborhood",
+        "country": "Libya",
+        "province": "Banghāzī",
+        "population": -1,
+        "latitude": 32.103818,
+        "longitude": 20.108693
+    },
+    {
+        "name": "Ar Ruwaysāt",
+        "country": "Libya",
+        "province": "Banghāzī",
+        "population": -1,
+        "latitude": 32.101827,
+        "longitude": 20.085799
+    },
+    {
+        "name": "Bin Yunus",
+        "country": "Libya",
+        "province": "Banghāzī",
+        "population": -1,
+        "latitude": 32.112577,
+        "longitude": 20.096052
+    },
+    {
+        "name": "Fīllāt al Malik Idrīs",
+        "country": "Libya",
+        "province": "Banghāzī",
+        "population": -1,
+        "latitude": 32.110886,
+        "longitude": 20.112277
+    },
+    {
+        "name": "Ash Shābī",
+        "country": "Libya",
+        "province": "Banghāzī",
+        "population": -1,
+        "latitude": 32.119711,
+        "longitude": 20.053069
+    },
+    {
+        "name": "Sīdī Sālim",
+        "country": "Libya",
+        "province": "Banghāzī",
+        "population": -1,
+        "latitude": 32.121967,
+        "longitude": 20.060766
+    },
+    {
+        "name": "Bālkhayr",
+        "country": "Libya",
+        "province": "Banghāzī",
+        "population": -1,
+        "latitude": 32.123062,
+        "longitude": 20.062724
+    },
+    {
+        "name": "Akhraybīsh",
+        "country": "Libya",
+        "province": "Banghāzī",
+        "population": -1,
+        "latitude": 32.125948,
+        "longitude": 20.065942
+    },
+    {
+        "name": "Ash Sharīf",
+        "country": "Libya",
+        "province": "Banghāzī",
+        "population": -1,
+        "latitude": 32.12273,
+        "longitude": 20.067203
+    },
+    {
+        "name": "Bin ‘Īsá",
+        "country": "Libya",
+        "province": "Banghāzī",
+        "population": -1,
+        "latitude": 32.119744,
+        "longitude": 20.066125
+    },
+    {
+        "name": "Al Wuḩayshī",
+        "country": "Libya",
+        "province": "Banghāzī",
+        "population": -1,
+        "latitude": 32.119246,
+        "longitude": 20.064715
+    },
+    {
+        "name": "Ad Durāwī",
+        "country": "Libya",
+        "province": "Banghāzī",
+        "population": -1,
+        "latitude": 32.118168,
+        "longitude": 20.062724
+    },
+    {
+        "name": "Ghuraybīl",
+        "country": "Libya",
+        "province": "Banghāzī",
+        "population": -1,
+        "latitude": 32.117255,
+        "longitude": 20.060634
+    },
+    {
+        "name": "Minţaqat ‘Abd Allāh Şāliḩ al ‘Uqaylī",
+        "country": "Libya",
+        "province": "Banghāzī",
+        "population": -1,
+        "latitude": 32.08369,
+        "longitude": 20.118674
+    },
+    {
+        "name": "Fīllāt al Khalīj",
+        "country": "Libya",
+        "province": "Banghāzī",
+        "population": -1,
+        "latitude": 32.086543,
+        "longitude": 20.130054
+    },
+    {
+        "name": "Qatar Neighborhood",
+        "country": "Libya",
+        "province": "Banghāzī",
+        "population": -1,
+        "latitude": 32.089131,
+        "longitude": 20.141866
+    },
+    {
+        "name": "Ḩayy Barzakh Lāyira’",
+        "country": "Libya",
+        "province": "Banghāzī",
+        "population": -1,
+        "latitude": 32.110464,
+        "longitude": 20.136741
+    },
+    {
+        "name": "Al Masākin Bū ‘Aţanī",
+        "country": "Libya",
+        "province": "Banghāzī",
+        "population": -1,
+        "latitude": 32.114877,
+        "longitude": 20.149017
+    },
+    {
+        "name": "Zamzam Neighborhood",
+        "country": "Libya",
+        "province": "Banghāzī",
+        "population": -1,
+        "latitude": 32.085016,
+        "longitude": 20.149813
+    },
+    {
+        "name": "Ḩayy as Salām",
+        "country": "Libya",
+        "province": "Banghāzī",
+        "population": -1,
+        "latitude": 32.146281,
+        "longitude": 20.115274
+    },
+    {
+        "name": "Ḩayy Sīdī Yūnus",
+        "country": "Libya",
+        "province": "Banghāzī",
+        "population": -1,
+        "latitude": 32.138683,
+        "longitude": 20.105138
+    },
+    {
+        "name": "Arḑ Shabnah",
+        "country": "Libya",
+        "province": "Banghāzī",
+        "population": -1,
+        "latitude": 32.136974,
+        "longitude": 20.126123
+    },
+    {
+        "name": "Arḑ ash Sharīf",
+        "country": "Libya",
+        "province": "Banghāzī",
+        "population": -1,
+        "latitude": 32.123404,
+        "longitude": 20.119654
+    },
+    {
+        "name": "‘Imārāt as Sīratī",
+        "country": "Libya",
+        "province": "Banghāzī",
+        "population": -1,
+        "latitude": 32.117034,
+        "longitude": 20.122192
+    },
+    {
+        "name": "Al Madīnah al Qadīmah",
+        "country": "Libya",
+        "province": "Banghāzī",
+        "population": -1,
+        "latitude": 32.121047,
+        "longitude": 20.066918
+    },
+    {
+        "name": "Shahat",
+        "country": "Libya",
+        "province": "LY.49",
+        "population": -1,
+        "latitude": 32.82673550222331,
+        "longitude": 21.863350868225098
+    },
+    {
+        "name": "Al Madīnah al Qadīmah",
+        "country": "Libya",
+        "province": "Tripoli",
+        "population": -1,
+        "latitude": 32.896949,
+        "longitude": 13.175177
+    },
+    {
+        "name": "Bāb al Farnaj",
+        "country": "Libya",
+        "province": "Tripoli",
+        "population": -1,
+        "latitude": 32.87403,
+        "longitude": 13.218789
+    },
+    {
+        "name": "Bāb Tarhūnah",
+        "country": "Libya",
+        "province": "Tripoli",
+        "population": -1,
+        "latitude": 32.884646,
+        "longitude": 13.224028
+    },
+    {
+        "name": "Bāb al ‘Amrūş",
+        "country": "Libya",
+        "province": "Tripoli",
+        "population": -1,
+        "latitude": 32.896847,
+        "longitude": 13.219927
+    },
+    {
+        "name": "Bāb Ban Ghashīr",
+        "country": "Libya",
+        "province": "Tripoli",
+        "population": -1,
+        "latitude": 32.877717,
+        "longitude": 13.194072
+    },
+    {
+        "name": "Al Marj al Jadīdah",
+        "country": "Libya",
+        "province": "Al Marj",
+        "population": -1,
+        "latitude": 32.488202,
+        "longitude": 20.838262
+    },
+    {
+        "name": "Al Farnaj",
+        "country": "Libya",
+        "province": "Tripoli",
+        "population": -1,
+        "latitude": 32.85135,
+        "longitude": 13.23823
+    },
+    {
+        "name": "Khallat al Qamūdī",
+        "country": "Libya",
+        "province": "Tripoli",
+        "population": -1,
+        "latitude": 32.68942,
+        "longitude": 13.44762
+    },
+    {
+        "name": "Kontangyi",
+        "country": "Libya",
+        "province": "Al Kufrah",
+        "population": -1,
+        "latitude": 21.14356,
+        "longitude": 21.14356
+    },
+    {
+        "name": "Hayy as Sina'i",
+        "country": "Libya",
+        "province": "Tripoli",
+        "population": -1,
+        "latitude": 32.41162,
+        "longitude": 13.23787
+    },
+    {
+        "name": "Akar Etba",
+        "country": "Libya",
+        "province": "Murzuq",
+        "population": -1,
+        "latitude": 26.09371,
+        "longitude": 13.55683
+    },
+    {
+        "name": "Sbitat",
+        "country": "Libya",
+        "province": "Murzuq",
+        "population": -1,
+        "latitude": 26.09489,
+        "longitude": 13.68678
+    },
+    {
+        "name": "Minţaqat al Lathāmah",
+        "country": "Libya",
+        "province": "Banghāzī",
+        "population": -1,
+        "latitude": 32.150592,
+        "longitude": 20.095568
+    },
+    {
+        "name": "Qaryat al Baladīyah",
+        "country": "Libya",
+        "province": "Tripoli",
+        "population": -1,
+        "latitude": 32.869167,
+        "longitude": 13.182778
+    },
+    {
+        "name": "Karzaz",
+        "country": "Libya",
+        "province": "Mişrātah",
+        "population": -1,
+        "latitude": 32.32261,
+        "longitude": 15.08637
+    },
+    {
+        "name": "Ballouzah District",
+        "country": "Libya",
+        "province": "LY.61",
+        "population": -1,
+        "latitude": 32.84776,
+        "longitude": 13.18492
+    },
+    {
+        "name": "Alhadba Alkhadra",
+        "country": "Libya",
+        "province": "LY.61",
+        "population": -1,
+        "latitude": 32.84372,
+        "longitude": 13.19123
+    },
+    {
+        "name": "Hay Demsheq",
+        "country": "Libya",
+        "province": "LY.61",
+        "population": -1,
+        "latitude": 32.85508,
+        "longitude": 13.19896
+    },
+    {
+        "name": "Al Dahra",
+        "country": "Libya",
+        "province": "LY.61",
+        "population": -1,
+        "latitude": 32.89159,
+        "longitude": 13.19286
+    },
+    {
+        "name": "Ra's Al Hilal",
+        "country": "Libya",
+        "province": "LY.55",
+        "population": -1,
+        "latitude": 32.88297,
+        "longitude": 22.18251
+    },
+    {
+        "name": "Al Jazeera",
+        "country": "Libya",
+        "province": "Mişrātah",
+        "population": -1,
+        "latitude": 32.4054,
+        "longitude": 15.03709
+    },
+    {
+        "name": "Ribat",
+        "country": "Libya",
+        "province": "Surt",
+        "population": -1,
+        "latitude": 31.20193,
+        "longitude": 16.58411
+    }
+]

@@ -1,0 +1,66 @@
+[
+    {
+        "name": "Monaco",
+        "country": "Monaco",
+        "province": "Monaco",
+        "population": 32965,
+        "latitude": 43.73718,
+        "longitude": 7.42145
+    },
+    {
+        "name": "Monte Carlo",
+        "country": "Monaco",
+        "province": "Monaco",
+        "population": 16012,
+        "latitude": 43.739755155962825,
+        "longitude": 7.427315711975098
+    },
+    {
+        "name": "La Condamine",
+        "country": "Monaco",
+        "province": "Monaco",
+        "population": 12167,
+        "latitude": 43.734395,
+        "longitude": 7.420238
+    },
+    {
+        "name": "Fontvieille",
+        "country": "Monaco",
+        "province": "Monaco",
+        "population": 3602,
+        "latitude": 43.726866,
+        "longitude": 7.417664
+    },
+    {
+        "name": "Moneghetti",
+        "country": "Monaco",
+        "province": "Monaco",
+        "population": 3000,
+        "latitude": 43.736791,
+        "longitude": 7.416468
+    },
+    {
+        "name": "Saint-Roman",
+        "country": "Monaco",
+        "province": "Monaco",
+        "population": 3000,
+        "latitude": 43.748901169464,
+        "longitude": 7.43422508239746
+    },
+    {
+        "name": "Beausoleil",
+        "country": "Monaco",
+        "province": "Monaco",
+        "population": -1,
+        "latitude": 43.743902,
+        "longitude": 7.418431
+    },
+    {
+        "name": "Les Révoires",
+        "country": "Monaco",
+        "province": "Monaco",
+        "population": -1,
+        "latitude": 43.734217,
+        "longitude": 7.413058
+    }
+]

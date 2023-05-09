@@ -1,0 +1,322 @@
+[
+    {
+        "name": "Victoria",
+        "country": "Seychelles",
+        "province": "English River",
+        "population": 22881,
+        "latitude": -4.62001,
+        "longitude": 55.45501
+    },
+    {
+        "name": "Bel Ombre",
+        "country": "Seychelles",
+        "province": "Bel Ombre",
+        "population": 4163,
+        "latitude": -4.6166667,
+        "longitude": 55.4166667
+    },
+    {
+        "name": "Anse Boileau",
+        "country": "Seychelles",
+        "province": "Anse Boileau",
+        "population": 4183,
+        "latitude": -4.7166667,
+        "longitude": 55.4833333
+    },
+    {
+        "name": "Takamaka",
+        "country": "Seychelles",
+        "province": "Takamaka",
+        "population": 2580,
+        "latitude": -4.7666667,
+        "longitude": 55.5
+    },
+    {
+        "name": "Cascade",
+        "country": "Seychelles",
+        "province": "Cascade",
+        "population": 4088,
+        "latitude": -4.66915,
+        "longitude": 55.49952
+    },
+    {
+        "name": "Beau Vallon",
+        "country": "Seychelles",
+        "province": "Beau Vallon",
+        "population": 4142,
+        "latitude": -4.620913210902812,
+        "longitude": 55.430145263671875
+    },
+    {
+        "name": "Anse Royale",
+        "country": "Seychelles",
+        "province": "Anse Royale",
+        "population": 3818,
+        "latitude": -4.7333333,
+        "longitude": 55.5166667
+    },
+    {
+        "name": "Port Glaud",
+        "country": "Seychelles",
+        "province": "Port Glaud",
+        "population": 2174,
+        "latitude": -4.66256,
+        "longitude": 55.41841
+    },
+    {
+        "name": "Anse Lazio",
+        "country": "Seychelles",
+        "province": "Baie Sainte Anne",
+        "population": 210,
+        "latitude": -4.29583,
+        "longitude": 55.70249
+    },
+    {
+        "name": "Saint Louis",
+        "country": "Seychelles",
+        "province": "Saint Louis",
+        "population": 86,
+        "latitude": -4.62457,
+        "longitude": 55.44441
+    },
+    {
+        "name": "La Passe",
+        "country": "Seychelles",
+        "province": "La Digue",
+        "population": -1,
+        "latitude": -4.34808,
+        "longitude": 55.83269
+    },
+    {
+        "name": "Misere",
+        "country": "Seychelles",
+        "province": "Grand Anse Mahe",
+        "population": -1,
+        "latitude": -4.6666667,
+        "longitude": 55.4666667
+    },
+    {
+        "name": "De Quincey Village",
+        "country": "Seychelles",
+        "province": "Anse Etoile",
+        "population": -1,
+        "latitude": -4.602604911169984,
+        "longitude": 55.45692443847656
+    },
+    {
+        "name": "Cote d'Or",
+        "country": "Seychelles",
+        "province": "Baie Sainte Anne",
+        "population": -1,
+        "latitude": -4.3199654041299285,
+        "longitude": 55.75338363647461
+    },
+    {
+        "name": "Anse Kerlan",
+        "country": "Seychelles",
+        "province": "Grand Anse Praslin",
+        "population": -1,
+        "latitude": -4.3052443251551,
+        "longitude": 55.6845045089722
+    },
+    {
+        "name": "Machabee",
+        "country": "Seychelles",
+        "province": "Glacis",
+        "population": -1,
+        "latitude": -4.56523,
+        "longitude": 55.4457
+    },
+    {
+        "name": "L’Espérance",
+        "country": "Seychelles",
+        "province": "Anse Boileau",
+        "population": -1,
+        "latitude": -4.716667,
+        "longitude": 55.483333
+    },
+    {
+        "name": "La Réunion",
+        "country": "Seychelles",
+        "province": "La Digue",
+        "population": -1,
+        "latitude": -4.35544,
+        "longitude": 55.83527
+    },
+    {
+        "name": "Anse Volbert Village",
+        "country": "Seychelles",
+        "province": "Baie Sainte Anne",
+        "population": -1,
+        "latitude": -4.3166667,
+        "longitude": 55.7333333
+    },
+    {
+        "name": "Eden Island",
+        "country": "Seychelles",
+        "province": "Mont Fleuri",
+        "population": -1,
+        "latitude": -4.63875,
+        "longitude": 55.47679
+    },
+    {
+        "name": "Grand Anse",
+        "country": "Seychelles",
+        "province": "Grand Anse Praslin",
+        "population": -1,
+        "latitude": -4.33109,
+        "longitude": 55.72206
+    },
+    {
+        "name": "Anse aux Pins",
+        "country": "Seychelles",
+        "province": "Anse-aux-Pins",
+        "population": -1,
+        "latitude": -4.7034,
+        "longitude": 55.52055
+    },
+    {
+        "name": "Anse des Genets",
+        "country": "Seychelles",
+        "province": "Pointe Larue",
+        "population": -1,
+        "latitude": -4.67323,
+        "longitude": 55.5131
+    },
+    {
+        "name": "Baie Lazare",
+        "country": "Seychelles",
+        "province": "Baie Lazare",
+        "population": -1,
+        "latitude": -4.74971,
+        "longitude": 55.4754
+    },
+    {
+        "name": "Silhouette Island",
+        "country": "Seychelles",
+        "province": "Outer Islands",
+        "population": -1,
+        "latitude": -4.48599,
+        "longitude": 55.25262
+    },
+    {
+        "name": "Quatre Bornes",
+        "country": "Seychelles",
+        "province": "Takamaka",
+        "population": -1,
+        "latitude": -4.77873,
+        "longitude": 55.51012
+    },
+    {
+        "name": "Pointe Au Sel",
+        "country": "Seychelles",
+        "province": "Au Cap",
+        "population": -1,
+        "latitude": -4.72834,
+        "longitude": 55.52416
+    },
+    {
+        "name": "Pointe La Rue",
+        "country": "Seychelles",
+        "province": "Seychelles",
+        "population": -1,
+        "latitude": -4.6808,
+        "longitude": 55.52108
+    },
+    {
+        "name": "Vista do Mar",
+        "country": "Seychelles",
+        "province": "Glacis",
+        "population": -1,
+        "latitude": -4.57578,
+        "longitude": 55.4368
+    },
+    {
+        "name": "Ile au Cerf",
+        "country": "Seychelles",
+        "province": "Mont Fleuri",
+        "population": -1,
+        "latitude": -4.63108,
+        "longitude": 55.49278
+    },
+    {
+        "name": "North Island",
+        "country": "Seychelles",
+        "province": "Outer Islands",
+        "population": -1,
+        "latitude": -4.39342,
+        "longitude": 55.24407
+    },
+    {
+        "name": "La Gouge",
+        "country": "Seychelles",
+        "province": "Anse Etoile",
+        "population": -1,
+        "latitude": -4.59093,
+        "longitude": 55.4462
+    },
+    {
+        "name": "Maldive Village",
+        "country": "Seychelles",
+        "province": "Anse Etoile",
+        "population": 15,
+        "latitude": -4.59093,
+        "longitude": 55.45225
+    },
+    {
+        "name": "Cap Samy",
+        "country": "Seychelles",
+        "province": "Baie Sainte Anne",
+        "population": -1,
+        "latitude": -4.33036,
+        "longitude": 55.76008
+    },
+    {
+        "name": "Bel Air",
+        "country": "Seychelles",
+        "province": "Bel Air",
+        "population": 45,
+        "latitude": -4.62947,
+        "longitude": 55.44547
+    },
+    {
+        "name": "Mont Buxton",
+        "country": "Seychelles",
+        "province": "Mont Buxton",
+        "population": 76,
+        "latitude": -4.61638,
+        "longitude": 55.44821
+    },
+    {
+        "name": "Saint Anne",
+        "country": "Seychelles",
+        "province": "Les Mamelles",
+        "population": -1,
+        "latitude": -4.61362,
+        "longitude": 55.49666
+    },
+    {
+        "name": "South Point",
+        "country": "Seychelles",
+        "province": "Mont Fleuri",
+        "population": -1,
+        "latitude": -4.63937,
+        "longitude": 55.50344
+    },
+    {
+        "name": "Fairview",
+        "country": "Seychelles",
+        "province": "Plaisance",
+        "population": -1,
+        "latitude": -4.65877,
+        "longitude": 55.46431
+    },
+    {
+        "name": "Roche Caïman",
+        "country": "Seychelles",
+        "province": "Roche Caiman",
+        "population": -1,
+        "latitude": -4.6401,
+        "longitude": 55.46879
+    }
+]

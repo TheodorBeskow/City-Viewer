@@ -1,0 +1,2034 @@
+[
+    {
+        "name": "Nuuk",
+        "country": "Greenland",
+        "province": "Sermersooq",
+        "population": 14798,
+        "latitude": 64.1834737080207,
+        "longitude": -51.7215728759766
+    },
+    {
+        "name": "Sisimiut",
+        "country": "Greenland",
+        "province": "Qeqqata",
+        "population": 5227,
+        "latitude": 66.93946311326351,
+        "longitude": -53.67349684238434
+    },
+    {
+        "name": "Ilulissat",
+        "country": "Greenland",
+        "province": "Avannaata",
+        "population": 4413,
+        "latitude": 69.21981,
+        "longitude": -51.09861
+    },
+    {
+        "name": "Qaqortoq",
+        "country": "Greenland",
+        "province": "Kujalleq",
+        "population": 3224,
+        "latitude": 60.71839,
+        "longitude": -46.03561
+    },
+    {
+        "name": "Aasiaat",
+        "country": "Greenland",
+        "province": "Qeqertalik",
+        "population": 3005,
+        "latitude": 68.70869,
+        "longitude": -52.86366
+    },
+    {
+        "name": "Paamiut",
+        "country": "Greenland",
+        "province": "Sermersooq",
+        "population": 1308,
+        "latitude": 61.9940155717195,
+        "longitude": -49.6677598357201
+    },
+    {
+        "name": "Maniitsoq",
+        "country": "Greenland",
+        "province": "Qeqqata",
+        "population": 2534,
+        "latitude": 65.41506,
+        "longitude": -52.89822
+    },
+    {
+        "name": "Tasiilaq",
+        "country": "Greenland",
+        "province": "Sermersooq",
+        "population": 1985,
+        "latitude": 65.6145110066365,
+        "longitude": -37.6367568969727
+    },
+    {
+        "name": "Uummannaq",
+        "country": "Greenland",
+        "province": "Avannaata",
+        "population": 1407,
+        "latitude": 70.67442,
+        "longitude": -52.12545
+    },
+    {
+        "name": "Qaanaaq",
+        "country": "Greenland",
+        "province": "Avannaata",
+        "population": 646,
+        "latitude": 77.46666177375096,
+        "longitude": -69.23154830932617
+    },
+    {
+        "name": "Upernavik",
+        "country": "Greenland",
+        "province": "Avannaata",
+        "population": 1129,
+        "latitude": 72.7872,
+        "longitude": -56.14436
+    },
+    {
+        "name": "Kangerlussuaq",
+        "country": "Greenland",
+        "province": "Qeqqata",
+        "population": 508,
+        "latitude": 67.0087607264974,
+        "longitude": -50.6893730163574
+    },
+    {
+        "name": "Qeqertarsuaq",
+        "country": "Greenland",
+        "province": "Avannaata",
+        "population": 839,
+        "latitude": 69.2472134660986,
+        "longitude": -53.5368168354034
+    },
+    {
+        "name": "Qasigiannguit",
+        "country": "Greenland",
+        "province": "Qeqertalik",
+        "population": 1081,
+        "latitude": 68.8192611288469,
+        "longitude": -51.1922121047974
+    },
+    {
+        "name": "Narsarsuaq",
+        "country": "Greenland",
+        "province": "Kujalleq",
+        "population": 123,
+        "latitude": 61.15667,
+        "longitude": -45.42536
+    },
+    {
+        "name": "Narsaq",
+        "country": "Greenland",
+        "province": "Kujalleq",
+        "population": 1346,
+        "latitude": 60.91298,
+        "longitude": -46.05055
+    },
+    {
+        "name": "Nanortalik",
+        "country": "Greenland",
+        "province": "Kujalleq",
+        "population": 1185,
+        "latitude": 60.14169,
+        "longitude": -45.24069
+    },
+    {
+        "name": "Kangaatsiaq",
+        "country": "Greenland",
+        "province": "GL.05",
+        "population": 520,
+        "latitude": 68.30647956821224,
+        "longitude": -53.46405386924744
+    },
+    {
+        "name": "Ittoqqortoormiit",
+        "country": "Greenland",
+        "province": "Sermersooq",
+        "population": 345,
+        "latitude": 70.48456263765769,
+        "longitude": -21.96220636367798
+    },
+    {
+        "name": "Tasiusaq",
+        "country": "Greenland",
+        "province": "Avannaata",
+        "population": 252,
+        "latitude": 73.3690236866226,
+        "longitude": -56.0575461387634
+    },
+    {
+        "name": "Upernavik Kujalleq",
+        "country": "Greenland",
+        "province": "Avannaata",
+        "population": 205,
+        "latitude": 72.15507862993809,
+        "longitude": -55.52409768104553
+    },
+    {
+        "name": "Qullissat",
+        "country": "Greenland",
+        "province": "Qeqertalik",
+        "population": -1,
+        "latitude": 70.08733,
+        "longitude": -53.00628
+    },
+    {
+        "name": "Qassiarsuk",
+        "country": "Greenland",
+        "province": "Kujalleq",
+        "population": 39,
+        "latitude": 61.14958,
+        "longitude": -45.51452
+    },
+    {
+        "name": "Kulusuk",
+        "country": "Greenland",
+        "province": "Sermersooq",
+        "population": 241,
+        "latitude": 65.575377,
+        "longitude": -37.184672
+    },
+    {
+        "name": "Nuussuaq",
+        "country": "Greenland",
+        "province": "Avannaata",
+        "population": 181,
+        "latitude": 74.1111658561519,
+        "longitude": -57.0596194267273
+    },
+    {
+        "name": "Kangaamiut",
+        "country": "Greenland",
+        "province": "Qeqqata",
+        "population": 293,
+        "latitude": 65.82503,
+        "longitude": -53.34279
+    },
+    {
+        "name": "Kangilinnguit",
+        "country": "Greenland",
+        "province": "Sermersooq",
+        "population": 164,
+        "latitude": 61.23238,
+        "longitude": -48.096
+    },
+    {
+        "name": "Narsaq",
+        "country": "Greenland",
+        "province": "Kujalleq",
+        "population": 66,
+        "latitude": 60.004875907746,
+        "longitude": -44.6653139591217
+    },
+    {
+        "name": "Qeqertarsuatsiaat",
+        "country": "Greenland",
+        "province": "Sermersooq",
+        "population": 169,
+        "latitude": 63.0881549490434,
+        "longitude": -50.6776678562164
+    },
+    {
+        "name": "Akunnaaq",
+        "country": "Greenland",
+        "province": "GL.05",
+        "population": 66,
+        "latitude": 68.74415,
+        "longitude": -52.3299
+    },
+    {
+        "name": "Aappilattoq",
+        "country": "Greenland",
+        "province": "Avannaata",
+        "population": 149,
+        "latitude": 72.883333,
+        "longitude": -55.6
+    },
+    {
+        "name": "Siorapaluk",
+        "country": "Greenland",
+        "province": "GL.05",
+        "population": 43,
+        "latitude": 77.78549138407622,
+        "longitude": -70.63157558441162
+    },
+    {
+        "name": "Savissivik",
+        "country": "Greenland",
+        "province": "Avannaata",
+        "population": 55,
+        "latitude": 76.01972286522644,
+        "longitude": -65.11493682861328
+    },
+    {
+        "name": "Qeqertat",
+        "country": "Greenland",
+        "province": "Avannaata",
+        "population": 23,
+        "latitude": 77.509722,
+        "longitude": -66.647778
+    },
+    {
+        "name": "Perlernerit",
+        "country": "Greenland",
+        "province": "Avannaata",
+        "population": -1,
+        "latitude": 75.927222,
+        "longitude": -66.448889
+    },
+    {
+        "name": "Moriusaq",
+        "country": "Greenland",
+        "province": "Avannaata",
+        "population": 21,
+        "latitude": 76.756111,
+        "longitude": -69.886389
+    },
+    {
+        "name": "Thule",
+        "country": "Greenland",
+        "province": "GL.05",
+        "population": -1,
+        "latitude": 76.56253,
+        "longitude": -68.7836
+    },
+    {
+        "name": "Umiattuartivit",
+        "country": "Greenland",
+        "province": "Sermersooq",
+        "population": -1,
+        "latitude": 65.9,
+        "longitude": -37.983333
+    },
+    {
+        "name": "Ukkusissat",
+        "country": "Greenland",
+        "province": "Avannaata",
+        "population": 154,
+        "latitude": 71.04962664122395,
+        "longitude": -51.88690423965454
+    },
+    {
+        "name": "Tiniteqilaaq",
+        "country": "Greenland",
+        "province": "Sermersooq",
+        "population": 96,
+        "latitude": 65.88872727503872,
+        "longitude": -37.77869939804077
+    },
+    {
+        "name": "Tasiusaq",
+        "country": "Greenland",
+        "province": "Kujalleq",
+        "population": 53,
+        "latitude": 60.19405466353088,
+        "longitude": -44.8171591758728
+    },
+    {
+        "name": "Ammassivik",
+        "country": "Greenland",
+        "province": "Kujalleq",
+        "population": 32,
+        "latitude": 60.59673450203059,
+        "longitude": -45.38633465766907
+    },
+    {
+        "name": "Sermiligaaq",
+        "country": "Greenland",
+        "province": "Sermersooq",
+        "population": 209,
+        "latitude": 65.9073366206314,
+        "longitude": -36.37980401515961
+    },
+    {
+        "name": "Sarfannguit",
+        "country": "Greenland",
+        "province": "Qeqqata",
+        "population": 96,
+        "latitude": 66.89785,
+        "longitude": -52.85986
+    },
+    {
+        "name": "Saqqaq",
+        "country": "Greenland",
+        "province": "Avannaata",
+        "population": 132,
+        "latitude": 70.00962,
+        "longitude": -51.94532
+    },
+    {
+        "name": "Saattut",
+        "country": "Greenland",
+        "province": "GL.05",
+        "population": 226,
+        "latitude": 70.81117903513818,
+        "longitude": -51.63130044937134
+    },
+    {
+        "name": "Saarloq",
+        "country": "Greenland",
+        "province": "Kujalleq",
+        "population": 21,
+        "latitude": 60.53761229135715,
+        "longitude": -46.02765083312988
+    },
+    {
+        "name": "Oqaatsut",
+        "country": "Greenland",
+        "province": "GL.05",
+        "population": 29,
+        "latitude": 69.34254,
+        "longitude": -51.00673
+    },
+    {
+        "name": "Qoornoq",
+        "country": "Greenland",
+        "province": "Sermersooq",
+        "population": 2,
+        "latitude": 64.533333,
+        "longitude": -51.1
+    },
+    {
+        "name": "Qeqertaq",
+        "country": "Greenland",
+        "province": "GL.05",
+        "population": 114,
+        "latitude": 69.99737684886036,
+        "longitude": -51.30246162414551
+    },
+    {
+        "name": "Qassimiut",
+        "country": "Greenland",
+        "province": "Kujalleq",
+        "population": 20,
+        "latitude": 60.783333,
+        "longitude": -47.166667
+    },
+    {
+        "name": "Qaarsut",
+        "country": "Greenland",
+        "province": "Avannaata",
+        "population": 174,
+        "latitude": 70.733333,
+        "longitude": -52.65
+    },
+    {
+        "name": "Kangersuatsiaq",
+        "country": "Greenland",
+        "province": "Avannaata",
+        "population": 130,
+        "latitude": 72.37994191649514,
+        "longitude": -55.54738998413086
+    },
+    {
+        "name": "Bluie East One",
+        "country": "Greenland",
+        "province": "Kujalleq",
+        "population": 4,
+        "latitude": 60.05587,
+        "longitude": -43.15923
+    },
+    {
+        "name": "Nuugaatsiaq",
+        "country": "Greenland",
+        "province": "Avannaata",
+        "population": 99,
+        "latitude": 71.53563,
+        "longitude": -53.2124
+    },
+    {
+        "name": "Niaqornat",
+        "country": "Greenland",
+        "province": "GL.05",
+        "population": 35,
+        "latitude": 70.78939880914912,
+        "longitude": -53.6642861366272
+    },
+    {
+        "name": "Niaqornaarsuk",
+        "country": "Greenland",
+        "province": "GL.05",
+        "population": 249,
+        "latitude": 68.2329975986053,
+        "longitude": -52.8617960214615
+    },
+    {
+        "name": "Napasoq",
+        "country": "Greenland",
+        "province": "Qeqqata",
+        "population": 80,
+        "latitude": 65.05,
+        "longitude": -52.4
+    },
+    {
+        "name": "Naajat",
+        "country": "Greenland",
+        "province": "Avannaata",
+        "population": 49,
+        "latitude": 73.15,
+        "longitude": -55.816667
+    },
+    {
+        "name": "Myggbukta",
+        "country": "Greenland",
+        "province": "Østgrønland",
+        "population": -1,
+        "latitude": 73.49,
+        "longitude": -21.556389
+    },
+    {
+        "name": "Lichtenau",
+        "country": "Greenland",
+        "province": "Kujalleq",
+        "population": 6,
+        "latitude": 60.55,
+        "longitude": -45.466667
+    },
+    {
+        "name": "Kuummiit",
+        "country": "Greenland",
+        "province": "Sermersooq",
+        "population": 248,
+        "latitude": 65.8646893018223,
+        "longitude": -37.00478553771973
+    },
+    {
+        "name": "Kuuk",
+        "country": "Greenland",
+        "province": "Avannaata",
+        "population": -1,
+        "latitude": 73.7,
+        "longitude": -56.216667
+    },
+    {
+        "name": "Kullorsuaq",
+        "country": "Greenland",
+        "province": "Avannaata",
+        "population": 453,
+        "latitude": 74.57849490152404,
+        "longitude": -57.220938205718994
+    },
+    {
+        "name": "Killuusat",
+        "country": "Greenland",
+        "province": "Qeqertalik",
+        "population": -1,
+        "latitude": 69.383333,
+        "longitude": -52.766667
+    },
+    {
+        "name": "Kapisillit",
+        "country": "Greenland",
+        "province": "Sermersooq",
+        "population": 52,
+        "latitude": 64.43518,
+        "longitude": -50.2713
+    },
+    {
+        "name": "Kangerluarsoruseq",
+        "country": "Greenland",
+        "province": "Sermersooq",
+        "population": 6,
+        "latitude": 63.69776,
+        "longitude": -51.54446
+    },
+    {
+        "name": "Ivittuut",
+        "country": "Greenland",
+        "province": "Sermersooq",
+        "population": 11,
+        "latitude": 61.20693,
+        "longitude": -48.17225
+    },
+    {
+        "name": "Kap Hope",
+        "country": "Greenland",
+        "province": "Sermersooq",
+        "population": 9,
+        "latitude": 70.45879824977504,
+        "longitude": -22.32975482940674
+    },
+    {
+        "name": "Itilleq",
+        "country": "Greenland",
+        "province": "Qeqqata",
+        "population": 89,
+        "latitude": 66.583333,
+        "longitude": -53.5
+    },
+    {
+        "name": "Isortoq",
+        "country": "Greenland",
+        "province": "Sermersooq",
+        "population": 64,
+        "latitude": 65.54846963866558,
+        "longitude": -38.975586891174316
+    },
+    {
+        "name": "Illulik",
+        "country": "Greenland",
+        "province": "Avannaata",
+        "population": -1,
+        "latitude": 74.35,
+        "longitude": -56.7
+    },
+    {
+        "name": "Illorsuit",
+        "country": "Greenland",
+        "province": "Avannaata",
+        "population": 97,
+        "latitude": 71.24165078213906,
+        "longitude": -53.564701080322266
+    },
+    {
+        "name": "Ikerasak",
+        "country": "Greenland",
+        "province": "Avannaata",
+        "population": 233,
+        "latitude": 70.50164077962025,
+        "longitude": -51.30246162414551
+    },
+    {
+        "name": "Ikerasaarsuk",
+        "country": "Greenland",
+        "province": "GL.05",
+        "population": 98,
+        "latitude": 68.14019392124348,
+        "longitude": -53.4455680847168
+    },
+    {
+        "name": "Ikamiut",
+        "country": "Greenland",
+        "province": "Qeqertalik",
+        "population": 86,
+        "latitude": 68.63424723533738,
+        "longitude": -51.82544946670532
+    },
+    {
+        "name": "Iginniarfik",
+        "country": "Greenland",
+        "province": "Qeqertalik",
+        "population": 76,
+        "latitude": 68.14789,
+        "longitude": -53.1716
+    },
+    {
+        "name": "Igaliku",
+        "country": "Greenland",
+        "province": "Kujalleq",
+        "population": 21,
+        "latitude": 60.98765932535258,
+        "longitude": -45.42069911956787
+    },
+    {
+        "name": "Kitsissuarsuit",
+        "country": "Greenland",
+        "province": "GL.05",
+        "population": 50,
+        "latitude": 68.85682,
+        "longitude": -53.12199
+    },
+    {
+        "name": "Ikigaat",
+        "country": "Greenland",
+        "province": "Kujalleq",
+        "population": -1,
+        "latitude": 59.983333,
+        "longitude": -44.7
+    },
+    {
+        "name": "Diskofjord",
+        "country": "Greenland",
+        "province": "Qeqertalik",
+        "population": 11,
+        "latitude": 69.483333,
+        "longitude": -53.95
+    },
+    {
+        "name": "Ilimanaq",
+        "country": "Greenland",
+        "province": "GL.05",
+        "population": 84,
+        "latitude": 69.08113,
+        "longitude": -51.11479
+    },
+    {
+        "name": "Agto",
+        "country": "Greenland",
+        "province": "Qeqertalik",
+        "population": 203,
+        "latitude": 67.9409690869553,
+        "longitude": -53.6236506700516
+    },
+    {
+        "name": "Atammik",
+        "country": "Greenland",
+        "province": "Qeqqata",
+        "population": 196,
+        "latitude": 64.8,
+        "longitude": -52.216667
+    },
+    {
+        "name": "Ataa",
+        "country": "Greenland",
+        "province": "Avannaata",
+        "population": -1,
+        "latitude": 69.766667,
+        "longitude": -50.95
+    },
+    {
+        "name": "Arsuk",
+        "country": "Greenland",
+        "province": "Sermersooq",
+        "population": 73,
+        "latitude": 61.17456,
+        "longitude": -48.45117
+    },
+    {
+        "name": "Alluitsup Paa",
+        "country": "Greenland",
+        "province": "Kujalleq",
+        "population": 202,
+        "latitude": 60.4626608571808,
+        "longitude": -45.5695134401321
+    },
+    {
+        "name": "Aappilattoq",
+        "country": "Greenland",
+        "province": "Kujalleq",
+        "population": 100,
+        "latitude": 60.15030627376753,
+        "longitude": -44.285030364990234
+    },
+    {
+        "name": "Eqalugaarsuit",
+        "country": "Greenland",
+        "province": "Kujalleq",
+        "population": 49,
+        "latitude": 60.62323949976588,
+        "longitude": -45.909998416900635
+    },
+    {
+        "name": "Summit Camp",
+        "country": "Greenland",
+        "province": "Østgrønland",
+        "population": -1,
+        "latitude": 72.57928698030096,
+        "longitude": -38.453006744384766
+    },
+    {
+        "name": "Tikeraasaq",
+        "country": "Greenland",
+        "province": "Avannaata",
+        "population": -1,
+        "latitude": 77.361389,
+        "longitude": -68.464167
+    },
+    {
+        "name": "Quínissut",
+        "country": "Greenland",
+        "province": "Avannaata",
+        "population": -1,
+        "latitude": 77.5325,
+        "longitude": -67.767222
+    },
+    {
+        "name": "Qeqertarsuaq",
+        "country": "Greenland",
+        "province": "Avannaata",
+        "population": 2,
+        "latitude": 77.4275,
+        "longitude": -70.189167
+    },
+    {
+        "name": "Qeqertaq",
+        "country": "Greenland",
+        "province": "Avannaata",
+        "population": -1,
+        "latitude": 76.034444,
+        "longitude": -65.986389
+    },
+    {
+        "name": "Qassisalik",
+        "country": "Greenland",
+        "province": "Avannaata",
+        "population": -1,
+        "latitude": 77.333333,
+        "longitude": -71.533333
+    },
+    {
+        "name": "Qangattaat",
+        "country": "Greenland",
+        "province": "Avannaata",
+        "population": -1,
+        "latitude": 77.383333,
+        "longitude": -72.466667
+    },
+    {
+        "name": "Pituffik",
+        "country": "Greenland",
+        "province": "GL.05",
+        "population": 235,
+        "latitude": 76.54495,
+        "longitude": -68.78703
+    },
+    {
+        "name": "Nunatarsuaq",
+        "country": "Greenland",
+        "province": "Avannaata",
+        "population": -1,
+        "latitude": 77.423889,
+        "longitude": -66.574722
+    },
+    {
+        "name": "Neqi",
+        "country": "Greenland",
+        "province": "Avannaata",
+        "population": -1,
+        "latitude": 77.86168,
+        "longitude": -71.55355
+    },
+    {
+        "name": "Narsaq",
+        "country": "Greenland",
+        "province": "GL.05",
+        "population": -1,
+        "latitude": 77.2959956645443,
+        "longitude": -68.8653945922852
+    },
+    {
+        "name": "Narsaarsuk",
+        "country": "Greenland",
+        "province": "GL.05",
+        "population": -1,
+        "latitude": 76.44732,
+        "longitude": -69.30794
+    },
+    {
+        "name": "Kangerluarsuk",
+        "country": "Greenland",
+        "province": "Avannaata",
+        "population": -1,
+        "latitude": 77.556667,
+        "longitude": -68.585
+    },
+    {
+        "name": "Itilleq",
+        "country": "Greenland",
+        "province": "Avannaata",
+        "population": -1,
+        "latitude": 77.224444,
+        "longitude": -69.489167
+    },
+    {
+        "name": "Etah",
+        "country": "Greenland",
+        "province": "Avannaata",
+        "population": -1,
+        "latitude": 78.31366,
+        "longitude": -72.58468
+    },
+    {
+        "name": "Uunartoq",
+        "country": "Greenland",
+        "province": "Sermersooq",
+        "population": -1,
+        "latitude": 70.41472,
+        "longitude": -21.97603
+    },
+    {
+        "name": "Uunartoq",
+        "country": "Greenland",
+        "province": "Qeqertalik",
+        "population": -1,
+        "latitude": 69.9,
+        "longitude": -52.6
+    },
+    {
+        "name": "Uummannatsiaq",
+        "country": "Greenland",
+        "province": "Avannaata",
+        "population": -1,
+        "latitude": 70.566667,
+        "longitude": -51.683333
+    },
+    {
+        "name": "Uummannaq",
+        "country": "Greenland",
+        "province": "Sermersooq",
+        "population": -1,
+        "latitude": 64.483333,
+        "longitude": -50.783333
+    },
+    {
+        "name": "Utoqqarmiut",
+        "country": "Greenland",
+        "province": "Sermersooq",
+        "population": -1,
+        "latitude": 63.8,
+        "longitude": -51.466667
+    },
+    {
+        "name": "Tussaaq",
+        "country": "Greenland",
+        "province": "GL.05",
+        "population": -1,
+        "latitude": 73.04826,
+        "longitude": -56.17964
+    },
+    {
+        "name": "Tuapaat",
+        "country": "Greenland",
+        "province": "Kujalleq",
+        "population": -1,
+        "latitude": 60.116667,
+        "longitude": -45.166667
+    },
+    {
+        "name": "Toqqusaq",
+        "country": "Greenland",
+        "province": "Qeqqata",
+        "population": -1,
+        "latitude": 64.866667,
+        "longitude": -52.2
+    },
+    {
+        "name": "Tiniteqilaarmiit",
+        "country": "Greenland",
+        "province": "Sermersooq",
+        "population": -1,
+        "latitude": 63.383333,
+        "longitude": -41.116667
+    },
+    {
+        "name": "Tartunaq",
+        "country": "Greenland",
+        "province": "Avannaata",
+        "population": -1,
+        "latitude": 70.033333,
+        "longitude": -52.216667
+    },
+    {
+        "name": "Søndre Igaliku",
+        "country": "Greenland",
+        "province": "Kujalleq",
+        "population": -1,
+        "latitude": 60.9,
+        "longitude": -45.283333
+    },
+    {
+        "name": "Skansen",
+        "country": "Greenland",
+        "province": "Qeqertalik",
+        "population": -1,
+        "latitude": 69.433333,
+        "longitude": -52.45
+    },
+    {
+        "name": "Sermiarsuit",
+        "country": "Greenland",
+        "province": "Avannaata",
+        "population": -1,
+        "latitude": 70.566667,
+        "longitude": -52.1
+    },
+    {
+        "name": "Saqqarliit",
+        "country": "Greenland",
+        "province": "Qeqqata",
+        "population": -1,
+        "latitude": 66.866667,
+        "longitude": -52.466667
+    },
+    {
+        "name": "Sammisoq",
+        "country": "Greenland",
+        "province": "Kujalleq",
+        "population": -1,
+        "latitude": 59.990833,
+        "longitude": -43.932222
+    },
+    {
+        "name": "Qooqqut",
+        "country": "Greenland",
+        "province": "Sermersooq",
+        "population": 1,
+        "latitude": 64.266667,
+        "longitude": -50.9
+    },
+    {
+        "name": "Qeqertarsuatsiaq",
+        "country": "Greenland",
+        "province": "Qeqertalik",
+        "population": -1,
+        "latitude": 68.416667,
+        "longitude": -53.25
+    },
+    {
+        "name": "Qeqertarsuaq",
+        "country": "Greenland",
+        "province": "Sermersooq",
+        "population": 986,
+        "latitude": 62.116667,
+        "longitude": -49.783333
+    },
+    {
+        "name": "Portusooq",
+        "country": "Greenland",
+        "province": "Kujalleq",
+        "population": -1,
+        "latitude": 60.55,
+        "longitude": -45.233333
+    },
+    {
+        "name": "Nuuk",
+        "country": "Greenland",
+        "province": "Kujalleq",
+        "population": -1,
+        "latitude": 60.24017,
+        "longitude": -44.15815
+    },
+    {
+        "name": "Nuugaaq",
+        "country": "Greenland",
+        "province": "Avannaata",
+        "population": -1,
+        "latitude": 69.966667,
+        "longitude": -51.266667
+    },
+    {
+        "name": "Nordre Huse",
+        "country": "Greenland",
+        "province": "Avannaata",
+        "population": -1,
+        "latitude": 69.116667,
+        "longitude": -51.083333
+    },
+    {
+        "name": "Nivaaq",
+        "country": "Greenland",
+        "province": "Qeqertalik",
+        "population": -1,
+        "latitude": 68.616667,
+        "longitude": -52.416667
+    },
+    {
+        "name": "Narsaq",
+        "country": "Greenland",
+        "province": "Sermersooq",
+        "population": -1,
+        "latitude": 64.00167,
+        "longitude": -51.63378
+    },
+    {
+        "name": "Maarmorilik",
+        "country": "Greenland",
+        "province": "Avannaata",
+        "population": 50,
+        "latitude": 71.133333,
+        "longitude": -51.283333
+    },
+    {
+        "name": "Kittorsaq",
+        "country": "Greenland",
+        "province": "Avannaata",
+        "population": -1,
+        "latitude": 73.95,
+        "longitude": -56.733333
+    },
+    {
+        "name": "Ittumiit",
+        "country": "Greenland",
+        "province": "Sermersooq",
+        "population": -1,
+        "latitude": 65.583333,
+        "longitude": -37.583333
+    },
+    {
+        "name": "Ittorisseq",
+        "country": "Greenland",
+        "province": "Sermersooq",
+        "population": -1,
+        "latitude": 70.45,
+        "longitude": -22.45
+    },
+    {
+        "name": "Itilleq",
+        "country": "Greenland",
+        "province": "Kujalleq",
+        "population": -1,
+        "latitude": 59.883333,
+        "longitude": -43.733333
+    },
+    {
+        "name": "Qullissaaqqat",
+        "country": "Greenland",
+        "province": "Qeqertalik",
+        "population": -1,
+        "latitude": 70.033333,
+        "longitude": -52.95
+    },
+    {
+        "name": "Aqisserniaq",
+        "country": "Greenland",
+        "province": "Qeqertalik",
+        "population": -1,
+        "latitude": 67.866667,
+        "longitude": -53.6
+    },
+    {
+        "name": "Akulliit",
+        "country": "Greenland",
+        "province": "Qeqertalik",
+        "population": -1,
+        "latitude": 68.666667,
+        "longitude": -51.25
+    },
+    {
+        "name": "Aappilattorq",
+        "country": "Greenland",
+        "province": "Kujalleq",
+        "population": -1,
+        "latitude": 60.166667,
+        "longitude": -44.5
+    },
+    {
+        "name": "Innarsuit Settlement",
+        "country": "Greenland",
+        "province": "Avannaata",
+        "population": -1,
+        "latitude": 73.19909991453669,
+        "longitude": -56.01254940032959
+    },
+    {
+        "name": "Upernavissuaq",
+        "country": "Greenland",
+        "province": "Avannaata",
+        "population": -1,
+        "latitude": 77.316667,
+        "longitude": -71.833333
+    },
+    {
+        "name": "Ulussat",
+        "country": "Greenland",
+        "province": "Avannaata",
+        "population": -1,
+        "latitude": 77.383333,
+        "longitude": -71.066667
+    },
+    {
+        "name": "Nunatami",
+        "country": "Greenland",
+        "province": "Avannaata",
+        "population": -1,
+        "latitude": 80,
+        "longitude": -66
+    },
+    {
+        "name": "Nunat",
+        "country": "Greenland",
+        "province": "Avannaata",
+        "population": -1,
+        "latitude": 77.389444,
+        "longitude": -67.529722
+    },
+    {
+        "name": "Natsilivik",
+        "country": "Greenland",
+        "province": "Avannaata",
+        "population": -1,
+        "latitude": 77.175,
+        "longitude": -70.7375
+    },
+    {
+        "name": "Kiatak",
+        "country": "Greenland",
+        "province": "Avannaata",
+        "population": -1,
+        "latitude": 77.35,
+        "longitude": -71.466667
+    },
+    {
+        "name": "Appaarsuit",
+        "country": "Greenland",
+        "province": "Avannaata",
+        "population": -1,
+        "latitude": 77.416667,
+        "longitude": -72.666667
+    },
+    {
+        "name": "Vester Ejland",
+        "country": "Greenland",
+        "province": "GL.05",
+        "population": -1,
+        "latitude": 68.62338,
+        "longitude": -53.52399
+    },
+    {
+        "name": "Vandreblokken",
+        "country": "Greenland",
+        "province": "Sermersooq",
+        "population": -1,
+        "latitude": 70.65,
+        "longitude": -24
+    },
+    {
+        "name": "Uummannaarsuk",
+        "country": "Greenland",
+        "province": "Qeqqata",
+        "population": -1,
+        "latitude": 66.85,
+        "longitude": -53.583333
+    },
+    {
+        "name": "Upernaviarsuk",
+        "country": "Greenland",
+        "province": "Kujalleq",
+        "population": 13,
+        "latitude": 60.75,
+        "longitude": -45.883333
+    },
+    {
+        "name": "Ujarasussuk",
+        "country": "Greenland",
+        "province": "Qeqertalik",
+        "population": -1,
+        "latitude": 69.86223,
+        "longitude": -52.43605
+    },
+    {
+        "name": "Ujaraat",
+        "country": "Greenland",
+        "province": "Sermersooq",
+        "population": -1,
+        "latitude": 62.116667,
+        "longitude": -49.383333
+    },
+    {
+        "name": "Tununngasoq",
+        "country": "Greenland",
+        "province": "Qeqertalik",
+        "population": -1,
+        "latitude": 68.1,
+        "longitude": -53.183333
+    },
+    {
+        "name": "Timmiarmiut",
+        "country": "Greenland",
+        "province": "Kujalleq",
+        "population": -1,
+        "latitude": 62.533333,
+        "longitude": -42.216667
+    },
+    {
+        "name": "Timerliit",
+        "country": "Greenland",
+        "province": "Qeqqata",
+        "population": 7,
+        "latitude": 65.833333,
+        "longitude": -53.25
+    },
+    {
+        "name": "Skjoldungen",
+        "country": "Greenland",
+        "province": "Sermersooq",
+        "population": -1,
+        "latitude": 63.21955,
+        "longitude": -41.40284
+    },
+    {
+        "name": "Saqqaq",
+        "country": "Greenland",
+        "province": "Qeqqata",
+        "population": -1,
+        "latitude": 66.7,
+        "longitude": -53.466667
+    },
+    {
+        "name": "Saqqamiut",
+        "country": "Greenland",
+        "province": "Kujalleq",
+        "population": 5,
+        "latitude": 60.816667,
+        "longitude": -47.416667
+    },
+    {
+        "name": "Ritenbenk",
+        "country": "Greenland",
+        "province": "Avannaata",
+        "population": -1,
+        "latitude": 69.76153,
+        "longitude": -51.30014
+    },
+    {
+        "name": "Qunnermiut",
+        "country": "Greenland",
+        "province": "Kujalleq",
+        "population": -1,
+        "latitude": 60.45,
+        "longitude": -45.25
+    },
+    {
+        "name": "Qipingasoq",
+        "country": "Greenland",
+        "province": "Qeqertalik",
+        "population": -1,
+        "latitude": 68.283333,
+        "longitude": -53.15
+    },
+    {
+        "name": "Qíngeq",
+        "country": "Greenland",
+        "province": "Sermersooq",
+        "population": -1,
+        "latitude": 65.966667,
+        "longitude": -37.116667
+    },
+    {
+        "name": "Qernertuarssuit",
+        "country": "Greenland",
+        "province": "Sermersooq",
+        "population": 1,
+        "latitude": 65.716667,
+        "longitude": -37.3
+    },
+    {
+        "name": "Qeertartivatsiaq",
+        "country": "Greenland",
+        "province": "Sermersooq",
+        "population": -1,
+        "latitude": 65.833333,
+        "longitude": -38.016667
+    },
+    {
+        "name": "Qallimiut",
+        "country": "Greenland",
+        "province": "Kujalleq",
+        "population": 12,
+        "latitude": 60.7,
+        "longitude": -45.333333
+    },
+    {
+        "name": "Pingorsuaq",
+        "country": "Greenland",
+        "province": "Kujalleq",
+        "population": -1,
+        "latitude": 60.35,
+        "longitude": -45.416667
+    },
+    {
+        "name": "Paarnakajiit",
+        "country": "Greenland",
+        "province": "Sermersooq",
+        "population": -1,
+        "latitude": 66.083333,
+        "longitude": -37.633333
+    },
+    {
+        "name": "Narssarmiut",
+        "country": "Greenland",
+        "province": "Qeqqata",
+        "population": -1,
+        "latitude": 65.883333,
+        "longitude": -53.3
+    },
+    {
+        "name": "Narsatsiaat",
+        "country": "Greenland",
+        "province": "Sermersooq",
+        "population": -1,
+        "latitude": 62.1,
+        "longitude": -49.366667
+    },
+    {
+        "name": "Narsaq",
+        "country": "Greenland",
+        "province": "Kujalleq",
+        "population": -1,
+        "latitude": 60.5,
+        "longitude": -43.416667
+    },
+    {
+        "name": "Narsalik",
+        "country": "Greenland",
+        "province": "Sermersooq",
+        "population": -1,
+        "latitude": 61.616667,
+        "longitude": -49.35
+    },
+    {
+        "name": "Marraat",
+        "country": "Greenland",
+        "province": "Qeqertalik",
+        "population": -1,
+        "latitude": 69.366667,
+        "longitude": -52.783333
+    },
+    {
+        "name": "Killiat",
+        "country": "Greenland",
+        "province": "Qeqertalik",
+        "population": -1,
+        "latitude": 68.283333,
+        "longitude": -53.783333
+    },
+    {
+        "name": "Kiinnarissoq",
+        "country": "Greenland",
+        "province": "Sermersooq",
+        "population": -1,
+        "latitude": 62.166667,
+        "longitude": -49.3
+    },
+    {
+        "name": "Kangikasîk",
+        "country": "Greenland",
+        "province": "Kujalleq",
+        "population": -1,
+        "latitude": 60.516667,
+        "longitude": -45.65
+    },
+    {
+        "name": "Kangigdlermiut",
+        "country": "Greenland",
+        "province": "Sermersooq",
+        "population": -1,
+        "latitude": 62.816667,
+        "longitude": -50.4
+    },
+    {
+        "name": "Kangerluarsuk",
+        "country": "Greenland",
+        "province": "Qeqqata",
+        "population": -1,
+        "latitude": 65.416667,
+        "longitude": -52.533333
+    },
+    {
+        "name": "Kangeq",
+        "country": "Greenland",
+        "province": "Sermersooq",
+        "population": -1,
+        "latitude": 64.116667,
+        "longitude": -52.05
+    },
+    {
+        "name": "Kangaarsuk",
+        "country": "Greenland",
+        "province": "Avannaata",
+        "population": -1,
+        "latitude": 72,
+        "longitude": -55.6
+    },
+    {
+        "name": "Iterlak",
+        "country": "Greenland",
+        "province": "Kujalleq",
+        "population": 2,
+        "latitude": 60.916667,
+        "longitude": -45.3
+    },
+    {
+        "name": "Innalik",
+        "country": "Greenland",
+        "province": "Qeqertalik",
+        "population": -1,
+        "latitude": 68.45,
+        "longitude": -53.5
+    },
+    {
+        "name": "Illorsuit",
+        "country": "Greenland",
+        "province": "Kujalleq",
+        "population": 4,
+        "latitude": 61.066667,
+        "longitude": -46.25
+    },
+    {
+        "name": "Illorpaat",
+        "country": "Greenland",
+        "province": "Kujalleq",
+        "population": -1,
+        "latitude": 60.45,
+        "longitude": -45.333333
+    },
+    {
+        "name": "Ikorfat",
+        "country": "Greenland",
+        "province": "Avannaata",
+        "population": -1,
+        "latitude": 69.983333,
+        "longitude": -51.433333
+    },
+    {
+        "name": "Ikkamiut",
+        "country": "Greenland",
+        "province": "Qeqqata",
+        "population": -1,
+        "latitude": 65.633333,
+        "longitude": -52.8
+    },
+    {
+        "name": "Ikerasaarsuk",
+        "country": "Greenland",
+        "province": "Avannaata",
+        "population": -1,
+        "latitude": 73.533333,
+        "longitude": -56.433333
+    },
+    {
+        "name": "Ikerasaarsuk",
+        "country": "Greenland",
+        "province": "Qeqqata",
+        "population": -1,
+        "latitude": 66.816667,
+        "longitude": -53.1
+    },
+    {
+        "name": "Illunnguaq",
+        "country": "Greenland",
+        "province": "Avannaata",
+        "population": -1,
+        "latitude": 70.666667,
+        "longitude": -51.916667
+    },
+    {
+        "name": "Illuluarsuit",
+        "country": "Greenland",
+        "province": "Qeqertalik",
+        "population": -1,
+        "latitude": 70.05,
+        "longitude": -54.833333
+    },
+    {
+        "name": "Camp Lloyd",
+        "country": "Greenland",
+        "province": "Qeqqata",
+        "population": -1,
+        "latitude": 66.97266,
+        "longitude": -50.92924
+    },
+    {
+        "name": "Avigaat",
+        "country": "Greenland",
+        "province": "Sermersooq",
+        "population": -1,
+        "latitude": 62.233333,
+        "longitude": -49.833333
+    },
+    {
+        "name": "Aallaaniarfinnguaq",
+        "country": "Greenland",
+        "province": "Avannaata",
+        "population": -1,
+        "latitude": 70.7,
+        "longitude": -54.583333
+    },
+    {
+        "name": "Ataa",
+        "country": "Greenland",
+        "province": "Avannaata",
+        "population": -1,
+        "latitude": 70.316667,
+        "longitude": -53
+    },
+    {
+        "name": "Assaqutaq",
+        "country": "Greenland",
+        "province": "Qeqqata",
+        "population": -1,
+        "latitude": 66.916667,
+        "longitude": -53.466667
+    },
+    {
+        "name": "Aputiteeq",
+        "country": "Greenland",
+        "province": "Sermersooq",
+        "population": -1,
+        "latitude": 67.783333,
+        "longitude": -32.283333
+    },
+    {
+        "name": "Appat",
+        "country": "Greenland",
+        "province": "Avannaata",
+        "population": -1,
+        "latitude": 70.916667,
+        "longitude": -52.166667
+    },
+    {
+        "name": "Appamiut",
+        "country": "Greenland",
+        "province": "Qeqqata",
+        "population": -1,
+        "latitude": 65.666667,
+        "longitude": -53.183333
+    },
+    {
+        "name": "Anorliuitsoq",
+        "country": "Greenland",
+        "province": "Kujalleq",
+        "population": -1,
+        "latitude": 60.083333,
+        "longitude": -44.216667
+    },
+    {
+        "name": "Akulliit",
+        "country": "Greenland",
+        "province": "Qeqertalik",
+        "population": -1,
+        "latitude": 68.383333,
+        "longitude": -53.333333
+    },
+    {
+        "name": "Akuliaruseq",
+        "country": "Greenland",
+        "province": "Kujalleq",
+        "population": 7,
+        "latitude": 60.466667,
+        "longitude": -45.483333
+    },
+    {
+        "name": "Akínátsiait",
+        "country": "Greenland",
+        "province": "Sermersooq",
+        "population": -1,
+        "latitude": 65.53054,
+        "longitude": -37.17596
+    },
+    {
+        "name": "Aasivik",
+        "country": "Greenland",
+        "province": "Sermersooq",
+        "population": -1,
+        "latitude": 62.2,
+        "longitude": -49.333333
+    },
+    {
+        "name": "Aalatsivik",
+        "country": "Greenland",
+        "province": "Qeqertalik",
+        "population": -1,
+        "latitude": 68.166667,
+        "longitude": -52.833333
+    },
+    {
+        "name": "Kap Tobin",
+        "country": "Greenland",
+        "province": "Sermersooq",
+        "population": -1,
+        "latitude": 70.41141,
+        "longitude": -21.94659
+    },
+    {
+        "name": "Eripassut",
+        "country": "Greenland",
+        "province": "Avannaata",
+        "population": -1,
+        "latitude": 77.783056,
+        "longitude": -70.309722
+    },
+    {
+        "name": "Uummannatsiaq",
+        "country": "Greenland",
+        "province": "Avannaata",
+        "population": -1,
+        "latitude": 70.533333,
+        "longitude": -51.266667
+    },
+    {
+        "name": "Ukîverajik",
+        "country": "Greenland",
+        "province": "Sermersooq",
+        "population": -1,
+        "latitude": 65.75,
+        "longitude": -37.916667
+    },
+    {
+        "name": "Sivtingaleq",
+        "country": "Greenland",
+        "province": "Sermersooq",
+        "population": -1,
+        "latitude": 65.55348,
+        "longitude": -37.21419
+    },
+    {
+        "name": "Simiutaq",
+        "country": "Greenland",
+        "province": "Sermersooq",
+        "population": -1,
+        "latitude": 65.866667,
+        "longitude": -37.033333
+    },
+    {
+        "name": "Saarloq",
+        "country": "Greenland",
+        "province": "Sermersooq",
+        "population": -1,
+        "latitude": 64.366667,
+        "longitude": -51.666667
+    },
+    {
+        "name": "Qeqertat",
+        "country": "Greenland",
+        "province": "Avannaata",
+        "population": -1,
+        "latitude": 70.983333,
+        "longitude": -52.25
+    },
+    {
+        "name": "Qeqertaarsuk",
+        "country": "Greenland",
+        "province": "Avannaata",
+        "population": -1,
+        "latitude": 70,
+        "longitude": -50.75
+    },
+    {
+        "name": "Pitorqeq",
+        "country": "Greenland",
+        "province": "Avannaata",
+        "population": -1,
+        "latitude": 69.2152,
+        "longitude": -51.1193
+    },
+    {
+        "name": "Nuussuutaa",
+        "country": "Greenland",
+        "province": "Avannaata",
+        "population": -1,
+        "latitude": 70.666667,
+        "longitude": -54.6
+    },
+    {
+        "name": "Niaqornaq",
+        "country": "Greenland",
+        "province": "Kujalleq",
+        "population": -1,
+        "latitude": 61,
+        "longitude": -46.133333
+    },
+    {
+        "name": "Neriunaq",
+        "country": "Greenland",
+        "province": "Sermersooq",
+        "population": 7,
+        "latitude": 64.466667,
+        "longitude": -50.316667
+    },
+    {
+        "name": "Neria",
+        "country": "Greenland",
+        "province": "Sermersooq",
+        "population": -1,
+        "latitude": 61.616667,
+        "longitude": -49.116667
+    },
+    {
+        "name": "Napasulissuaq",
+        "country": "Greenland",
+        "province": "Qeqertalik",
+        "population": -1,
+        "latitude": 70.3,
+        "longitude": -54.483333
+    },
+    {
+        "name": "Naajat",
+        "country": "Greenland",
+        "province": "Avannaata",
+        "population": -1,
+        "latitude": 71.583333,
+        "longitude": -53.466667
+    },
+    {
+        "name": "Manermiut",
+        "country": "Greenland",
+        "province": "Qeqertalik",
+        "population": -1,
+        "latitude": 68.6,
+        "longitude": -53.133333
+    },
+    {
+        "name": "Kronprinsen Ejland",
+        "country": "Greenland",
+        "province": "Qeqertalik",
+        "population": -1,
+        "latitude": 69.016667,
+        "longitude": -53.316667
+    },
+    {
+        "name": "Kanissut",
+        "country": "Greenland",
+        "province": "GL.05",
+        "population": -1,
+        "latitude": 70.82715,
+        "longitude": -54.11831
+    },
+    {
+        "name": "Kangilineq",
+        "country": "Greenland",
+        "province": "Sermersooq",
+        "population": -1,
+        "latitude": 61.95,
+        "longitude": -49.466667
+    },
+    {
+        "name": "Kangikitsoq",
+        "country": "Greenland",
+        "province": "Kujalleq",
+        "population": -1,
+        "latitude": 60.45,
+        "longitude": -44.783333
+    },
+    {
+        "name": "Kangerup Nuua",
+        "country": "Greenland",
+        "province": "Avannaata",
+        "population": -1,
+        "latitude": 70.05,
+        "longitude": -52.35
+    },
+    {
+        "name": "Inussuk",
+        "country": "Greenland",
+        "province": "Avannaata",
+        "population": -1,
+        "latitude": 70.033333,
+        "longitude": -50.533333
+    },
+    {
+        "name": "Illorsuit",
+        "country": "Greenland",
+        "province": "Avannaata",
+        "population": -1,
+        "latitude": 72.283333,
+        "longitude": -55.866667
+    },
+    {
+        "name": "Illorpaat",
+        "country": "Greenland",
+        "province": "Qeqertalik",
+        "population": -1,
+        "latitude": 70.233333,
+        "longitude": -54.8
+    },
+    {
+        "name": "Ikerasak",
+        "country": "Greenland",
+        "province": "Qeqqata",
+        "population": -1,
+        "latitude": 66.866667,
+        "longitude": -53.433333
+    },
+    {
+        "name": "Ikerasak",
+        "country": "Greenland",
+        "province": "Qeqqata",
+        "population": -1,
+        "latitude": 65.183333,
+        "longitude": -52.283333
+    },
+    {
+        "name": "Íkáteq",
+        "country": "Greenland",
+        "province": "Sermersooq",
+        "population": -1,
+        "latitude": 65.94651,
+        "longitude": -36.66756
+    },
+    {
+        "name": "Igssalik",
+        "country": "Greenland",
+        "province": "Sermersooq",
+        "population": -1,
+        "latitude": 65.516667,
+        "longitude": -39.016667
+    },
+    {
+        "name": "Gamle Egedesminde",
+        "country": "Greenland",
+        "province": "Qeqertalik",
+        "population": -1,
+        "latitude": 67.65,
+        "longitude": -53.583333
+    },
+    {
+        "name": "Finnsbu",
+        "country": "Greenland",
+        "province": "Sermersooq",
+        "population": -1,
+        "latitude": 63.383333,
+        "longitude": -41.3
+    },
+    {
+        "name": "Eqi",
+        "country": "Greenland",
+        "province": "Avannaata",
+        "population": -1,
+        "latitude": 69.133333,
+        "longitude": -51.083333
+    },
+    {
+        "name": "Arsivik",
+        "country": "Greenland",
+        "province": "Avannaata",
+        "population": -1,
+        "latitude": 69.85,
+        "longitude": -50.7
+    },
+    {
+        "name": "Uvdle",
+        "country": "Greenland",
+        "province": "Avannaata",
+        "population": -1,
+        "latitude": 76.588611,
+        "longitude": -68.31
+    },
+    {
+        "name": "Qeqertaq",
+        "country": "Greenland",
+        "province": "Avannaata",
+        "population": -1,
+        "latitude": 76.041111,
+        "longitude": -65.988611
+    },
+    {
+        "name": "Kangeq",
+        "country": "Greenland",
+        "province": "Avannaata",
+        "population": -1,
+        "latitude": 77.266667,
+        "longitude": -69.1
+    },
+    {
+        "name": "Umiartorfik",
+        "country": "Greenland",
+        "province": "Avannaata",
+        "population": -1,
+        "latitude": 70.516667,
+        "longitude": -51.933333
+    },
+    {
+        "name": "Sermilik",
+        "country": "Greenland",
+        "province": "Kujalleq",
+        "population": -1,
+        "latitude": 60.45,
+        "longitude": -44.883333
+    },
+    {
+        "name": "Qarajat",
+        "country": "Greenland",
+        "province": "Sermersooq",
+        "population": -1,
+        "latitude": 63.966667,
+        "longitude": -51.533333
+    },
+    {
+        "name": "Nûssaq",
+        "country": "Greenland",
+        "province": "Avannaata",
+        "population": -1,
+        "latitude": 70.43828,
+        "longitude": -54.05355
+    },
+    {
+        "name": "Nuliarfik",
+        "country": "Greenland",
+        "province": "Avannaata",
+        "population": -1,
+        "latitude": 71.516667,
+        "longitude": -52.883333
+    },
+    {
+        "name": "Itivnera",
+        "country": "Greenland",
+        "province": "Sermersooq",
+        "population": -1,
+        "latitude": 64.383333,
+        "longitude": -50.4
+    },
+    {
+        "name": "Ikerasak",
+        "country": "Greenland",
+        "province": "Avannaata",
+        "population": -1,
+        "latitude": 72.266667,
+        "longitude": -55.133333
+    },
+    {
+        "name": "Igdlúnguaq",
+        "country": "Greenland",
+        "province": "Sermersooq",
+        "population": -1,
+        "latitude": 64.25,
+        "longitude": -50.966667
+    },
+    {
+        "name": "Igdlukorssuit",
+        "country": "Greenland",
+        "province": "Avannaata",
+        "population": -1,
+        "latitude": 72.233333,
+        "longitude": -55.933333
+    },
+    {
+        "name": "Igdlukavsak",
+        "country": "Greenland",
+        "province": "Avannaata",
+        "population": -1,
+        "latitude": 72.2,
+        "longitude": -55.816667
+    },
+    {
+        "name": "Igdluiartorfik",
+        "country": "Greenland",
+        "province": "Avannaata",
+        "population": -1,
+        "latitude": 72.666667,
+        "longitude": -56.15
+    },
+    {
+        "name": "Akuliaruseq",
+        "country": "Greenland",
+        "province": "Avannaata",
+        "population": -1,
+        "latitude": 71.033333,
+        "longitude": -51.966667
+    },
+    {
+        "name": "Qaarsoq",
+        "country": "Greenland",
+        "province": "Kujalleq",
+        "population": -1,
+        "latitude": 60.483333,
+        "longitude": -45.866667
+    },
+    {
+        "name": "Ippik",
+        "country": "Greenland",
+        "province": "Kujalleq",
+        "population": -1,
+        "latitude": 60.5,
+        "longitude": -45.283333
+    },
+    {
+        "name": "Mid-Ice",
+        "country": "Greenland",
+        "province": "Østgrønland",
+        "population": -1,
+        "latitude": 71.166667,
+        "longitude": -39.933333
+    },
+    {
+        "name": "Torgilsbu",
+        "country": "Greenland",
+        "province": "Kujalleq",
+        "population": -1,
+        "latitude": 60.53989,
+        "longitude": -43.22056
+    }
+]

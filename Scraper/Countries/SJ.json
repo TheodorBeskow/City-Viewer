@@ -1,0 +1,82 @@
+[
+    {
+        "name": "Longyearbyen",
+        "country": "Svalbard and Jan Mayen",
+        "province": "SJ,NO",
+        "population": 2368,
+        "latitude": 78.22334,
+        "longitude": 15.64689
+    },
+    {
+        "name": "Barentsburg",
+        "country": "Svalbard and Jan Mayen",
+        "province": "SJ,NO",
+        "population": 455,
+        "latitude": 78.06435,
+        "longitude": 14.21169
+    },
+    {
+        "name": "Pyramiden",
+        "country": "Svalbard and Jan Mayen",
+        "province": "Svalbard",
+        "population": 5,
+        "latitude": 78.65425,
+        "longitude": 16.32895
+    },
+    {
+        "name": "Sveagruva",
+        "country": "Svalbard and Jan Mayen",
+        "province": "SJ,NO",
+        "population": 300,
+        "latitude": 77.900294,
+        "longitude": 16.720064
+    },
+    {
+        "name": "Olonkinbyen",
+        "country": "Svalbard and Jan Mayen",
+        "province": "SJ,NO",
+        "population": 14,
+        "latitude": 70.9221,
+        "longitude": -8.7187
+    },
+    {
+        "name": "Ny-Ålesund",
+        "country": "Svalbard and Jan Mayen",
+        "province": "SJ,NO",
+        "population": 35,
+        "latitude": 78.92373413498508,
+        "longitude": 11.924972534179688
+    },
+    {
+        "name": "Nybyen",
+        "country": "Svalbard and Jan Mayen",
+        "province": "Svalbard",
+        "population": -1,
+        "latitude": 78.20185204551899,
+        "longitude": 15.591187477111816
+    },
+    {
+        "name": "Haugen",
+        "country": "Svalbard and Jan Mayen",
+        "province": "Svalbard",
+        "population": -1,
+        "latitude": 78.2166667,
+        "longitude": 15.6333333
+    },
+    {
+        "name": "Grumantbyen",
+        "country": "Svalbard and Jan Mayen",
+        "province": "Svalbard and Jan Mayen",
+        "population": -1,
+        "latitude": 78.172932,
+        "longitude": 15.095616
+    },
+    {
+        "name": "Jan Mayen",
+        "country": "Svalbard and Jan Mayen",
+        "province": "SJ,NO",
+        "population": -1,
+        "latitude": 70.9498384223142,
+        "longitude": -8.63800048828125
+    }
+]

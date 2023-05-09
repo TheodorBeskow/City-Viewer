@@ -1,0 +1,3770 @@
+[
+    {
+        "name": "Weno",
+        "country": "Micronesia",
+        "province": "Chuuk",
+        "population": 13856,
+        "latitude": 7.44648,
+        "longitude": 151.84135
+    },
+    {
+        "name": "Tofol",
+        "country": "Micronesia",
+        "province": "Kosrae",
+        "population": 9686,
+        "latitude": 5.32478867337961,
+        "longitude": 163.007814288139
+    },
+    {
+        "name": "Kolonia",
+        "country": "Micronesia",
+        "province": "Pohnpei",
+        "population": 6074,
+        "latitude": 6.964,
+        "longitude": 158.2062
+    },
+    {
+        "name": "Colonia",
+        "country": "Micronesia",
+        "province": "Yap",
+        "population": 7371,
+        "latitude": 9.51637538871319,
+        "longitude": 138.121667504311
+    },
+    {
+        "name": "Kolonia Town",
+        "country": "Micronesia",
+        "province": "Pohnpei",
+        "population": 5681,
+        "latitude": 6.964,
+        "longitude": 158.206
+    },
+    {
+        "name": "Palikir",
+        "country": "Micronesia",
+        "province": "Pohnpei",
+        "population": -1,
+        "latitude": 6.92477068593837,
+        "longitude": 158.161089420319
+    },
+    {
+        "name": "Nema",
+        "country": "Micronesia",
+        "province": "Chuuk",
+        "population": 995,
+        "latitude": 6.98921820946817,
+        "longitude": 152.57376909256
+    },
+    {
+        "name": "Lukunor Village",
+        "country": "Micronesia",
+        "province": "Chuuk",
+        "population": 927,
+        "latitude": 5.507,
+        "longitude": 153.821
+    },
+    {
+        "name": "Satowan Village",
+        "country": "Micronesia",
+        "province": "Chuuk",
+        "population": 955,
+        "latitude": 5.334,
+        "longitude": 153.7385
+    },
+    {
+        "name": "Kuttu Village",
+        "country": "Micronesia",
+        "province": "Chuuk",
+        "population": 873,
+        "latitude": 5.456743787398765,
+        "longitude": 153.45964908599854
+    },
+    {
+        "name": "Pulap Village",
+        "country": "Micronesia",
+        "province": "Chuuk",
+        "population": 905,
+        "latitude": 7.63664745865287,
+        "longitude": 149.427881240845
+    },
+    {
+        "name": "Gachpar",
+        "country": "Micronesia",
+        "province": "Yap",
+        "population": -1,
+        "latitude": 9.54040442578875,
+        "longitude": 138.185348510742
+    },
+    {
+        "name": "Worwoq",
+        "country": "Micronesia",
+        "province": "Yap",
+        "population": -1,
+        "latitude": 9.51024882480512,
+        "longitude": 138.121597766876
+    },
+    {
+        "name": "Baleabaat",
+        "country": "Micronesia",
+        "province": "Yap",
+        "population": -1,
+        "latitude": 9.50419622212324,
+        "longitude": 138.122026920319
+    },
+    {
+        "name": "Malawaay",
+        "country": "Micronesia",
+        "province": "Yap",
+        "population": -1,
+        "latitude": 9.56611922702003,
+        "longitude": 138.126350641251
+    },
+    {
+        "name": "Qatliw",
+        "country": "Micronesia",
+        "province": "Yap",
+        "population": -1,
+        "latitude": 9.55462953737572,
+        "longitude": 138.102060556412
+    },
+    {
+        "name": "Waalooy",
+        "country": "Micronesia",
+        "province": "Yap",
+        "population": -1,
+        "latitude": 9.58536834763173,
+        "longitude": 138.173568248749
+    },
+    {
+        "name": "Oumoar",
+        "country": "Micronesia",
+        "province": "Pohnpei",
+        "population": -1,
+        "latitude": 6.93764172714846,
+        "longitude": 158.173019886017
+    },
+    {
+        "name": "Malem Village",
+        "country": "Micronesia",
+        "province": "Kosrae",
+        "population": -1,
+        "latitude": 5.2860125137289,
+        "longitude": 163.026010394096
+    },
+    {
+        "name": "Lelu Village",
+        "country": "Micronesia",
+        "province": "Kosrae",
+        "population": -1,
+        "latitude": 5.3335883504512,
+        "longitude": 163.022367954254
+    },
+    {
+        "name": "Walung",
+        "country": "Micronesia",
+        "province": "Kosrae",
+        "population": -1,
+        "latitude": 5.3077778,
+        "longitude": 162.9152778
+    },
+    {
+        "name": "Woriilaq",
+        "country": "Micronesia",
+        "province": "Yap",
+        "population": -1,
+        "latitude": 9.58522024094967,
+        "longitude": 138.14851641655
+    },
+    {
+        "name": "Qadibweq",
+        "country": "Micronesia",
+        "province": "Yap",
+        "population": -1,
+        "latitude": 9.5478212371489,
+        "longitude": 138.096857070923
+    },
+    {
+        "name": "Leebinaew",
+        "country": "Micronesia",
+        "province": "Yap",
+        "population": -1,
+        "latitude": 9.52814146938166,
+        "longitude": 138.179833889008
+    },
+    {
+        "name": "Laay",
+        "country": "Micronesia",
+        "province": "Yap",
+        "population": -1,
+        "latitude": 9.45494607282787,
+        "longitude": 138.065153360367
+    },
+    {
+        "name": "Gargey",
+        "country": "Micronesia",
+        "province": "Yap",
+        "population": -1,
+        "latitude": 9.55709995919267,
+        "longitude": 138.128346204758
+    },
+    {
+        "name": "Faraq",
+        "country": "Micronesia",
+        "province": "Yap",
+        "population": -1,
+        "latitude": 9.48567797953157,
+        "longitude": 138.069273233414
+    },
+    {
+        "name": "Choqol",
+        "country": "Micronesia",
+        "province": "Yap",
+        "population": -1,
+        "latitude": 9.58997549105738,
+        "longitude": 138.177972435951
+    },
+    {
+        "name": "Rumuuq",
+        "country": "Micronesia",
+        "province": "Yap",
+        "population": -1,
+        "latitude": 9.5427321157782,
+        "longitude": 138.124907612801
+    },
+    {
+        "name": "Bugol",
+        "country": "Micronesia",
+        "province": "Yap",
+        "population": -1,
+        "latitude": 9.51587807242134,
+        "longitude": 138.155586719513
+    },
+    {
+        "name": "Feeduqor",
+        "country": "Micronesia",
+        "province": "Yap",
+        "population": -1,
+        "latitude": 9.50339202210074,
+        "longitude": 138.074820041656
+    },
+    {
+        "name": "Luweech",
+        "country": "Micronesia",
+        "province": "Yap",
+        "population": -1,
+        "latitude": 9.48685788598097,
+        "longitude": 138.082796931267
+    },
+    {
+        "name": "Magachgil",
+        "country": "Micronesia",
+        "province": "Yap",
+        "population": -1,
+        "latitude": 9.44532591349418,
+        "longitude": 138.064101934433
+    },
+    {
+        "name": "Malaay",
+        "country": "Micronesia",
+        "province": "Yap",
+        "population": -1,
+        "latitude": 9.4622192215641,
+        "longitude": 138.057809472084
+    },
+    {
+        "name": "Meechoqol",
+        "country": "Micronesia",
+        "province": "Yap",
+        "population": -1,
+        "latitude": 9.61852145732818,
+        "longitude": 138.150490522385
+    },
+    {
+        "name": "Qaringeel",
+        "country": "Micronesia",
+        "province": "Yap",
+        "population": -1,
+        "latitude": 9.52220557466749,
+        "longitude": 138.081793785095
+    },
+    {
+        "name": "Qayirech",
+        "country": "Micronesia",
+        "province": "Yap",
+        "population": -1,
+        "latitude": 9.57935939607058,
+        "longitude": 138.124794960022
+    },
+    {
+        "name": "Tawoowaay",
+        "country": "Micronesia",
+        "province": "Yap",
+        "population": -1,
+        "latitude": 9.44720975024017,
+        "longitude": 138.058238625526
+    },
+    {
+        "name": "Wachaelaeb",
+        "country": "Micronesia",
+        "province": "Yap",
+        "population": -1,
+        "latitude": 9.59716377925024,
+        "longitude": 138.178911209106
+    },
+    {
+        "name": "Weenfaraq",
+        "country": "Micronesia",
+        "province": "Yap",
+        "population": -1,
+        "latitude": 9.62006055441005,
+        "longitude": 138.158885836601
+    },
+    {
+        "name": "Tunuk",
+        "country": "Micronesia",
+        "province": "Chuuk",
+        "population": -1,
+        "latitude": 7.37921450752861,
+        "longitude": 151.723701953888
+    },
+    {
+        "name": "Meseran",
+        "country": "Micronesia",
+        "province": "Chuuk",
+        "population": -1,
+        "latitude": 7.38728485714349,
+        "longitude": 151.885240674019
+    },
+    {
+        "name": "Petiw",
+        "country": "Micronesia",
+        "province": "Chuuk",
+        "population": -1,
+        "latitude": 7.44050184315743,
+        "longitude": 151.875600814819
+    },
+    {
+        "name": "Nukuno",
+        "country": "Micronesia",
+        "province": "Chuuk",
+        "population": -1,
+        "latitude": 7.364148042427419,
+        "longitude": 151.87300443649292
+    },
+    {
+        "name": "Nukuoro Village",
+        "country": "Micronesia",
+        "province": "Pohnpei",
+        "population": 362,
+        "latitude": 3.83626203326918,
+        "longitude": 154.971406459808
+    },
+    {
+        "name": "Unikappi",
+        "country": "Micronesia",
+        "province": "Chuuk",
+        "population": -1,
+        "latitude": 7.33450838618235,
+        "longitude": 151.559422016144
+    },
+    {
+        "name": "Winipis",
+        "country": "Micronesia",
+        "province": "Chuuk",
+        "population": -1,
+        "latitude": 7.44532637540755,
+        "longitude": 151.885256767273
+    },
+    {
+        "name": "Tafunsak Village",
+        "country": "Micronesia",
+        "province": "Kosrae",
+        "population": -1,
+        "latitude": 5.36710875484291,
+        "longitude": 162.985192537308
+    },
+    {
+        "name": "Roro",
+        "country": "Micronesia",
+        "province": "Chuuk",
+        "population": -1,
+        "latitude": 7.37923578748393,
+        "longitude": 151.87682390213
+    },
+    {
+        "name": "Peniesene",
+        "country": "Micronesia",
+        "province": "Chuuk",
+        "population": -1,
+        "latitude": 7.45569867397841,
+        "longitude": 151.87388420105
+    },
+    {
+        "name": "Monowe",
+        "country": "Micronesia",
+        "province": "Chuuk",
+        "population": -1,
+        "latitude": 7.3780973084366,
+        "longitude": 151.710602045059
+    },
+    {
+        "name": "Muanon",
+        "country": "Micronesia",
+        "province": "Chuuk",
+        "population": -1,
+        "latitude": 7.375799061435,
+        "longitude": 151.883786916733
+    },
+    {
+        "name": "Mechitiw",
+        "country": "Micronesia",
+        "province": "Chuuk",
+        "population": -1,
+        "latitude": 7.46139003598669,
+        "longitude": 151.858681440353
+    },
+    {
+        "name": "Kukuwu",
+        "country": "Micronesia",
+        "province": "Chuuk",
+        "population": -1,
+        "latitude": 7.330140213784604,
+        "longitude": 151.83907985687256
+    },
+    {
+        "name": "Dienpo",
+        "country": "Micronesia",
+        "province": "Pohnpei",
+        "population": -1,
+        "latitude": 6.83128671635581,
+        "longitude": 158.157033920288
+    },
+    {
+        "name": "Yinuuf",
+        "country": "Micronesia",
+        "province": "Yap",
+        "population": -1,
+        "latitude": 9.494048349155,
+        "longitude": 138.09844493866
+    },
+    {
+        "name": "Yin",
+        "country": "Micronesia",
+        "province": "Yap",
+        "population": -1,
+        "latitude": 9.58296689559859,
+        "longitude": 138.11763882637
+    },
+    {
+        "name": "Yabach",
+        "country": "Micronesia",
+        "province": "Yap",
+        "population": -1,
+        "latitude": 9.49805885835352,
+        "longitude": 138.06797504425
+    },
+    {
+        "name": "Wuluuq",
+        "country": "Micronesia",
+        "province": "Yap",
+        "population": -1,
+        "latitude": 9.57475739821843,
+        "longitude": 138.129816055298
+    },
+    {
+        "name": "Wanyaan",
+        "country": "Micronesia",
+        "province": "Yap",
+        "population": -1,
+        "latitude": 9.54865707309976,
+        "longitude": 138.190407156944
+    },
+    {
+        "name": "Thabeeth",
+        "country": "Micronesia",
+        "province": "Yap",
+        "population": -1,
+        "latitude": 9.45494607282787,
+        "longitude": 138.059027194977
+    },
+    {
+        "name": "Tageegiin",
+        "country": "Micronesia",
+        "province": "Yap",
+        "population": -1,
+        "latitude": 9.51941217675098,
+        "longitude": 138.082759380341
+    },
+    {
+        "name": "Ruunuw",
+        "country": "Micronesia",
+        "province": "Yap",
+        "population": -1,
+        "latitude": 9.5866378308258,
+        "longitude": 138.125385046005
+    },
+    {
+        "name": "Meqruur",
+        "country": "Micronesia",
+        "province": "Yap",
+        "population": -1,
+        "latitude": 9.52175059095802,
+        "longitude": 138.143752813339
+    },
+    {
+        "name": "Meay",
+        "country": "Micronesia",
+        "province": "Yap",
+        "population": -1,
+        "latitude": 9.55824258934229,
+        "longitude": 138.185434341431
+    },
+    {
+        "name": "Maaq",
+        "country": "Micronesia",
+        "province": "Yap",
+        "population": -1,
+        "latitude": 9.52766533190131,
+        "longitude": 138.161787986755
+    },
+    {
+        "name": "Maakiy",
+        "country": "Micronesia",
+        "province": "Yap",
+        "population": -1,
+        "latitude": 9.55849650663226,
+        "longitude": 138.16305398941
+    },
+    {
+        "name": "Gaqnaqun - temp LL",
+        "country": "Micronesia",
+        "province": "Yap",
+        "population": -1,
+        "latitude": 9.63832291343346,
+        "longitude": 138.160629272461
+    },
+    {
+        "name": "Binaew",
+        "country": "Micronesia",
+        "province": "Yap",
+        "population": -1,
+        "latitude": 9.53136860590819,
+        "longitude": 138.085436224937
+    },
+    {
+        "name": "Peey",
+        "country": "Micronesia",
+        "province": "Yap",
+        "population": -1,
+        "latitude": 9.56140596205359,
+        "longitude": 138.169641494751
+    },
+    {
+        "name": "Lamear",
+        "country": "Micronesia",
+        "province": "Yap",
+        "population": -1,
+        "latitude": 9.48443457596498,
+        "longitude": 138.078441023827
+    },
+    {
+        "name": "Palaaw",
+        "country": "Micronesia",
+        "province": "Yap",
+        "population": -1,
+        "latitude": 9.5763760390558,
+        "longitude": 138.149889707565
+    },
+    {
+        "name": "Teanfaar",
+        "country": "Micronesia",
+        "province": "Yap",
+        "population": -1,
+        "latitude": 9.53845761831967,
+        "longitude": 138.178567886353
+    },
+    {
+        "name": "Wugeem",
+        "country": "Micronesia",
+        "province": "Yap",
+        "population": -1,
+        "latitude": 9.45246962186676,
+        "longitude": 138.062868118286
+    },
+    {
+        "name": "Peniemwan",
+        "country": "Micronesia",
+        "province": "Chuuk",
+        "population": -1,
+        "latitude": 7.38678478702569,
+        "longitude": 151.741152405739
+    },
+    {
+        "name": "Sapitiu",
+        "country": "Micronesia",
+        "province": "Chuuk",
+        "population": -1,
+        "latitude": 7.39054327889347,
+        "longitude": 151.59283965826
+    },
+    {
+        "name": "Sapotiw",
+        "country": "Micronesia",
+        "province": "Chuuk",
+        "population": -1,
+        "latitude": 7.29408652642426,
+        "longitude": 151.887338161469
+    },
+    {
+        "name": "Sounting",
+        "country": "Micronesia",
+        "province": "Pohnpei",
+        "population": -1,
+        "latitude": 6.97270114698986,
+        "longitude": 158.222823143005
+    },
+    {
+        "name": "Tomwara",
+        "country": "Micronesia",
+        "province": "Pohnpei",
+        "population": -1,
+        "latitude": 6.96152970231044,
+        "longitude": 158.237500190735
+    },
+    {
+        "name": "Ununo",
+        "country": "Micronesia",
+        "province": "Chuuk",
+        "population": -1,
+        "latitude": 7.3665101915915,
+        "longitude": 151.819295883179
+    },
+    {
+        "name": "Wininis",
+        "country": "Micronesia",
+        "province": "Chuuk",
+        "population": -1,
+        "latitude": 7.35932794225492,
+        "longitude": 151.850345134735
+    },
+    {
+        "name": "Wonip",
+        "country": "Micronesia",
+        "province": "Chuuk",
+        "population": -1,
+        "latitude": 7.33275793003816,
+        "longitude": 151.609225273132
+    },
+    {
+        "name": "Mochon",
+        "country": "Micronesia",
+        "province": "Chuuk",
+        "population": -1,
+        "latitude": 7.30888932228407,
+        "longitude": 151.884006857872
+    },
+    {
+        "name": "Messa",
+        "country": "Micronesia",
+        "province": "Chuuk",
+        "population": -1,
+        "latitude": 7.35581657802869,
+        "longitude": 151.85201883316
+    },
+    {
+        "name": "Manukun",
+        "country": "Micronesia",
+        "province": "Chuuk",
+        "population": -1,
+        "latitude": 7.30870841400655,
+        "longitude": 151.87429189682
+    },
+    {
+        "name": "Foupo",
+        "country": "Micronesia",
+        "province": "Chuuk",
+        "population": -1,
+        "latitude": 7.3626264712107,
+        "longitude": 151.631648540497
+    },
+    {
+        "name": "Fongen",
+        "country": "Micronesia",
+        "province": "Chuuk",
+        "population": -1,
+        "latitude": 7.35501853682975,
+        "longitude": 151.822922229767
+    },
+    {
+        "name": "Fanomo",
+        "country": "Micronesia",
+        "province": "Chuuk",
+        "population": -1,
+        "latitude": 7.38347047822088,
+        "longitude": 151.718809604645
+    },
+    {
+        "name": "Amachang",
+        "country": "Micronesia",
+        "province": "Chuuk",
+        "population": -1,
+        "latitude": 7.35355013727505,
+        "longitude": 151.636401414871
+    },
+    {
+        "name": "Penia",
+        "country": "Micronesia",
+        "province": "Chuuk",
+        "population": -1,
+        "latitude": 7.45334764115987,
+        "longitude": 151.877081394196
+    },
+    {
+        "name": "Tunuk",
+        "country": "Micronesia",
+        "province": "Chuuk",
+        "population": -1,
+        "latitude": 7.45783161364493,
+        "longitude": 151.864292621613
+    },
+    {
+        "name": "Epinup",
+        "country": "Micronesia",
+        "province": "Chuuk",
+        "population": -1,
+        "latitude": 7.43502830186904,
+        "longitude": 151.861975193024
+    },
+    {
+        "name": "Mwanitiw",
+        "country": "Micronesia",
+        "province": "Chuuk",
+        "population": -1,
+        "latitude": 7.37906554781267,
+        "longitude": 151.705076694489
+    },
+    {
+        "name": "Lelu",
+        "country": "Micronesia",
+        "province": "Kosrae",
+        "population": -1,
+        "latitude": 5.3335883504512,
+        "longitude": 163.022480607033
+    },
+    {
+        "name": "Tafunsak",
+        "country": "Micronesia",
+        "province": "Kosrae",
+        "population": -1,
+        "latitude": 5.36709807304387,
+        "longitude": 162.98532128334
+    },
+    {
+        "name": "Malem",
+        "country": "Micronesia",
+        "province": "Kosrae",
+        "population": -1,
+        "latitude": 5.2859911473112,
+        "longitude": 163.026085495949
+    },
+    {
+        "name": "Utwe",
+        "country": "Micronesia",
+        "province": "Kosrae",
+        "population": -1,
+        "latitude": 5.27485647266407,
+        "longitude": 162.976563870907
+    },
+    {
+        "name": "Satawal",
+        "country": "Micronesia",
+        "province": "Yap",
+        "population": -1,
+        "latitude": 7.382,
+        "longitude": 147.0322
+    },
+    {
+        "name": "Eauripik",
+        "country": "Micronesia",
+        "province": "Yap",
+        "population": -1,
+        "latitude": 6.687,
+        "longitude": 143.0375
+    },
+    {
+        "name": "Sorol",
+        "country": "Micronesia",
+        "province": "Yap",
+        "population": -1,
+        "latitude": 8.1435,
+        "longitude": 140.394
+    },
+    {
+        "name": "Fassarai",
+        "country": "Micronesia",
+        "province": "Yap",
+        "population": -1,
+        "latitude": 9.90273769221894,
+        "longitude": 139.656175374985
+    },
+    {
+        "name": "Kapingamarangi",
+        "country": "Micronesia",
+        "province": "Pohnpei",
+        "population": -1,
+        "latitude": 1.07861078102007,
+        "longitude": 154.80751812458038
+    },
+    {
+        "name": "Winifei",
+        "country": "Micronesia",
+        "province": "Chuuk",
+        "population": -1,
+        "latitude": 7.33122561019612,
+        "longitude": 151.637978553772
+    },
+    {
+        "name": "Sapou",
+        "country": "Micronesia",
+        "province": "Chuuk",
+        "population": -1,
+        "latitude": 7.3876412897544,
+        "longitude": 151.891779899597
+    },
+    {
+        "name": "Sapotiu",
+        "country": "Micronesia",
+        "province": "Chuuk",
+        "population": -1,
+        "latitude": 7.31430589500208,
+        "longitude": 151.847534179688
+    },
+    {
+        "name": "Relong",
+        "country": "Micronesia",
+        "province": "Chuuk",
+        "population": -1,
+        "latitude": 7.36052499188927,
+        "longitude": 149.197763800621
+    },
+    {
+        "name": "Pwene",
+        "country": "Micronesia",
+        "province": "Chuuk",
+        "population": -1,
+        "latitude": 7.36710604704995,
+        "longitude": 151.865526437759
+    },
+    {
+        "name": "Pohnmangahng",
+        "country": "Micronesia",
+        "province": "Pohnpei",
+        "population": -1,
+        "latitude": 6.9666667,
+        "longitude": 158.2333333
+    },
+    {
+        "name": "Penior",
+        "country": "Micronesia",
+        "province": "Chuuk",
+        "population": -1,
+        "latitude": 7.37916130763581,
+        "longitude": 151.896135807037
+    },
+    {
+        "name": "Pwel Weita",
+        "country": "Micronesia",
+        "province": "Pohnpei",
+        "population": -1,
+        "latitude": 6.8702685664406,
+        "longitude": 158.162457346916
+    },
+    {
+        "name": "Pata",
+        "country": "Micronesia",
+        "province": "Chuuk",
+        "population": -1,
+        "latitude": 7.3884392721693,
+        "longitude": 151.876223087311
+    },
+    {
+        "name": "Onongoch",
+        "country": "Micronesia",
+        "province": "Chuuk",
+        "population": -1,
+        "latitude": 7.35137945077656,
+        "longitude": 151.824488639832
+    },
+    {
+        "name": "Nukan",
+        "country": "Micronesia",
+        "province": "Chuuk",
+        "population": -1,
+        "latitude": 7.3651907945112365,
+        "longitude": 151.87644839286804
+    },
+    {
+        "name": "Nin Soksok",
+        "country": "Micronesia",
+        "province": "Pohnpei",
+        "population": -1,
+        "latitude": 6.96969798211433,
+        "longitude": 158.223413228989
+    },
+    {
+        "name": "Nepononong",
+        "country": "Micronesia",
+        "province": "Chuuk",
+        "population": -1,
+        "latitude": 7.30072709358123,
+        "longitude": 151.888952851295
+    },
+    {
+        "name": "Nechap",
+        "country": "Micronesia",
+        "province": "Chuuk",
+        "population": -1,
+        "latitude": 7.37925706743823,
+        "longitude": 151.862983703613
+    },
+    {
+        "name": "Chun",
+        "country": "Micronesia",
+        "province": "Chuuk",
+        "population": -1,
+        "latitude": 7.37525641804024,
+        "longitude": 151.862554550171
+    },
+    {
+        "name": "Awak Powe",
+        "country": "Micronesia",
+        "province": "Pohnpei",
+        "population": -1,
+        "latitude": 6.96689714079235,
+        "longitude": 158.262176513672
+    },
+    {
+        "name": "Alohkapw",
+        "country": "Micronesia",
+        "province": "Pohnpei",
+        "population": -1,
+        "latitude": 6.91837497379331,
+        "longitude": 158.289170265198
+    },
+    {
+        "name": "Tooruw",
+        "country": "Micronesia",
+        "province": "Yap",
+        "population": -1,
+        "latitude": 9.60948771537173,
+        "longitude": 138.176290690899
+    },
+    {
+        "name": "Thool",
+        "country": "Micronesia",
+        "province": "Yap",
+        "population": -1,
+        "latitude": 9.53583364284005,
+        "longitude": 138.168182373047
+    },
+    {
+        "name": "Riy - temp LL",
+        "country": "Micronesia",
+        "province": "Yap",
+        "population": -1,
+        "latitude": 9.63079172720501,
+        "longitude": 138.16011428833
+    },
+    {
+        "name": "Qamun",
+        "country": "Micronesia",
+        "province": "Yap",
+        "population": -1,
+        "latitude": 9.55255056036903,
+        "longitude": 138.17803144455
+    },
+    {
+        "name": "Qamin",
+        "country": "Micronesia",
+        "province": "Yap",
+        "population": -1,
+        "latitude": 9.61098982970195,
+        "longitude": 138.15929889679
+    },
+    {
+        "name": "Neel",
+        "country": "Micronesia",
+        "province": "Yap",
+        "population": -1,
+        "latitude": 9.47852437908618,
+        "longitude": 138.06827545166
+    },
+    {
+        "name": "Mulroq",
+        "country": "Micronesia",
+        "province": "Yap",
+        "population": -1,
+        "latitude": 9.51683037958039,
+        "longitude": 138.110461235046
+    },
+    {
+        "name": "Dachangar",
+        "country": "Micronesia",
+        "province": "Yap",
+        "population": -1,
+        "latitude": 9.51357136186191,
+        "longitude": 138.104281425476
+    },
+    {
+        "name": "Beenik",
+        "country": "Micronesia",
+        "province": "Yap",
+        "population": -1,
+        "latitude": 9.50720137390196,
+        "longitude": 138.112306594849
+    },
+    {
+        "name": "Bechyal",
+        "country": "Micronesia",
+        "province": "Yap",
+        "population": -1,
+        "latitude": 9.6155172888881,
+        "longitude": 138.172586560249
+    },
+    {
+        "name": "Dugor",
+        "country": "Micronesia",
+        "province": "Yap",
+        "population": -1,
+        "latitude": 9.53393442218762,
+        "longitude": 138.117054104805
+    },
+    {
+        "name": "Rumung",
+        "country": "Micronesia",
+        "province": "Yap",
+        "population": -1,
+        "latitude": 9.622,
+        "longitude": 138.154
+    },
+    {
+        "name": "Muyuub",
+        "country": "Micronesia",
+        "province": "Yap",
+        "population": -1,
+        "latitude": 9.55604196489252,
+        "longitude": 138.182601928711
+    },
+    {
+        "name": "Qaaf",
+        "country": "Micronesia",
+        "province": "Yap",
+        "population": -1,
+        "latitude": 9.51615318365094,
+        "longitude": 138.152604103088
+    },
+    {
+        "name": "Bineaw",
+        "country": "Micronesia",
+        "province": "Yap",
+        "population": -1,
+        "latitude": 9.54002352954996,
+        "longitude": 138.180048465729
+    },
+    {
+        "name": "Taafniith",
+        "country": "Micronesia",
+        "province": "Yap",
+        "population": -1,
+        "latitude": 9.49082086042959,
+        "longitude": 138.067545890808
+    },
+    {
+        "name": "Talangith",
+        "country": "Micronesia",
+        "province": "Yap",
+        "population": -1,
+        "latitude": 9.59145124477568,
+        "longitude": 138.154224157333
+    },
+    {
+        "name": "Iras",
+        "country": "Micronesia",
+        "province": "Chuuk",
+        "population": -1,
+        "latitude": 7.458432664591585,
+        "longitude": 151.84354305267334
+    },
+    {
+        "name": "Pohnrakied Village",
+        "country": "Micronesia",
+        "province": "Pohnpei",
+        "population": -1,
+        "latitude": 6.96195569173516,
+        "longitude": 158.205174207687
+    },
+    {
+        "name": "Pokochou",
+        "country": "Micronesia",
+        "province": "Chuuk",
+        "population": -1,
+        "latitude": 7.37146853581762,
+        "longitude": 151.57821893692
+    },
+    {
+        "name": "Supun",
+        "country": "Micronesia",
+        "province": "Chuuk",
+        "population": -1,
+        "latitude": 7.36537167982714,
+        "longitude": 151.880407333374
+    },
+    {
+        "name": "Tolokas",
+        "country": "Micronesia",
+        "province": "Chuuk",
+        "population": -1,
+        "latitude": 7.376613025279713,
+        "longitude": 151.6072779893875
+    },
+    {
+        "name": "Lugav",
+        "country": "Micronesia",
+        "province": "Chuuk",
+        "population": -1,
+        "latitude": 7.35738605486707,
+        "longitude": 149.198825955391
+    },
+    {
+        "name": "Feini",
+        "country": "Micronesia",
+        "province": "Chuuk",
+        "population": -1,
+        "latitude": 7.34606973663999,
+        "longitude": 151.830056905746
+    },
+    {
+        "name": "Fason",
+        "country": "Micronesia",
+        "province": "Chuuk",
+        "population": -1,
+        "latitude": 7.340408809215537,
+        "longitude": 151.63179874420166
+    },
+    {
+        "name": "Aun",
+        "country": "Micronesia",
+        "province": "Chuuk",
+        "population": -1,
+        "latitude": 7.33338043346769,
+        "longitude": 151.851181983948
+    },
+    {
+        "name": "Peniemuan",
+        "country": "Micronesia",
+        "province": "Chuuk",
+        "population": -1,
+        "latitude": 7.36348834086278,
+        "longitude": 151.79495215416
+    },
+    {
+        "name": "Sapotiw",
+        "country": "Micronesia",
+        "province": "Chuuk",
+        "population": -1,
+        "latitude": 7.35667846091181,
+        "longitude": 151.665186882019
+    },
+    {
+        "name": "Chukienu",
+        "country": "Micronesia",
+        "province": "Chuuk",
+        "population": -1,
+        "latitude": 7.35327348174276,
+        "longitude": 151.621091365814
+    },
+    {
+        "name": "Fankachau",
+        "country": "Micronesia",
+        "province": "Chuuk",
+        "population": -1,
+        "latitude": 7.38419398916514,
+        "longitude": 151.884827613831
+    },
+    {
+        "name": "Kapingamarangi Village",
+        "country": "Micronesia",
+        "province": "Pohnpei",
+        "population": 474,
+        "latitude": 1.07860541755256,
+        "longitude": 154.807579815388
+    },
+    {
+        "name": "Ngatik",
+        "country": "Micronesia",
+        "province": "Pohnpei",
+        "population": 640,
+        "latitude": 5.7884898017693,
+        "longitude": 157.159541845322
+    },
+    {
+        "name": "Wonpiepi",
+        "country": "Micronesia",
+        "province": "Chuuk",
+        "population": -1,
+        "latitude": 7.38681138651428,
+        "longitude": 151.880450248718
+    },
+    {
+        "name": "Winisi",
+        "country": "Micronesia",
+        "province": "Chuuk",
+        "population": -1,
+        "latitude": 7.409601239441593,
+        "longitude": 151.663556098938
+    },
+    {
+        "name": "Wichukuno - temp LL",
+        "country": "Micronesia",
+        "province": "Chuuk",
+        "population": -1,
+        "latitude": 7.35163482620948,
+        "longitude": 151.611456871033
+    },
+    {
+        "name": "JP Dublon Town WW2",
+        "country": "Micronesia",
+        "province": "Chuuk",
+        "population": -1,
+        "latitude": 7.37238358898595,
+        "longitude": 151.888861656189
+    },
+    {
+        "name": "Sopuo",
+        "country": "Micronesia",
+        "province": "Chuuk",
+        "population": -1,
+        "latitude": 7.31555095252679,
+        "longitude": 151.84001326561
+    },
+    {
+        "name": "Sapou",
+        "country": "Micronesia",
+        "province": "Chuuk",
+        "population": -1,
+        "latitude": 7.28772787820439,
+        "longitude": 151.879114508629
+    },
+    {
+        "name": "Sapota",
+        "country": "Micronesia",
+        "province": "Chuuk",
+        "population": -1,
+        "latitude": 7.31713653357695,
+        "longitude": 151.851804256439
+    },
+    {
+        "name": "Saporanong",
+        "country": "Micronesia",
+        "province": "Chuuk",
+        "population": -1,
+        "latitude": 7.3401906705325,
+        "longitude": 151.838800907135
+    },
+    {
+        "name": "Saponong",
+        "country": "Micronesia",
+        "province": "Chuuk",
+        "population": -1,
+        "latitude": 7.37289431551352,
+        "longitude": 151.882939338684
+    },
+    {
+        "name": "Sapore",
+        "country": "Micronesia",
+        "province": "Chuuk",
+        "population": -1,
+        "latitude": 7.33746126772425,
+        "longitude": 151.849679946899
+    },
+    {
+        "name": "Sapitiw",
+        "country": "Micronesia",
+        "province": "Chuuk",
+        "population": -1,
+        "latitude": 7.3839918318146,
+        "longitude": 151.600888967514
+    },
+    {
+        "name": "Manukun",
+        "country": "Micronesia",
+        "province": "Chuuk",
+        "population": -1,
+        "latitude": 7.33705158983409,
+        "longitude": 151.839852333069
+    },
+    {
+        "name": "Saladak",
+        "country": "Micronesia",
+        "province": "Pohnpei",
+        "population": -1,
+        "latitude": 6.95356362886069,
+        "longitude": 158.154619932175
+    },
+    {
+        "name": "Rewo",
+        "country": "Micronesia",
+        "province": "Chuuk",
+        "population": -1,
+        "latitude": 7.35435882168867,
+        "longitude": 149.194271564484
+    },
+    {
+        "name": "Putukte",
+        "country": "Micronesia",
+        "province": "Kosrae",
+        "population": -1,
+        "latitude": 5.34803076385855,
+        "longitude": 163.022437691689
+    },
+    {
+        "name": "Tepat",
+        "country": "Micronesia",
+        "province": "Kosrae",
+        "population": -1,
+        "latitude": 5.35529457084844,
+        "longitude": 162.975654602051
+    },
+    {
+        "name": "Finfokoa",
+        "country": "Micronesia",
+        "province": "Kosrae",
+        "population": -1,
+        "latitude": 5.3632739769632725,
+        "longitude": 163.02161693572998
+    },
+    {
+        "name": "Peniata",
+        "country": "Micronesia",
+        "province": "Chuuk",
+        "population": -1,
+        "latitude": 7.39408362662644,
+        "longitude": 151.597863435745
+    },
+    {
+        "name": "Paliais",
+        "country": "Micronesia",
+        "province": "Pohnpei",
+        "population": -1,
+        "latitude": 6.95733368581553,
+        "longitude": 158.226320743561
+    },
+    {
+        "name": "Opun",
+        "country": "Micronesia",
+        "province": "Chuuk",
+        "population": -1,
+        "latitude": 7.35584849964679,
+        "longitude": 151.787785291672
+    },
+    {
+        "name": "Nukanap",
+        "country": "Micronesia",
+        "province": "Chuuk",
+        "population": -1,
+        "latitude": 7.37608634296289,
+        "longitude": 151.900244951248
+    },
+    {
+        "name": "Nukaf",
+        "country": "Micronesia",
+        "province": "Chuuk",
+        "population": -1,
+        "latitude": 7.37911874771697,
+        "longitude": 151.577172875404
+    },
+    {
+        "name": "Neton",
+        "country": "Micronesia",
+        "province": "Chuuk",
+        "population": -1,
+        "latitude": 7.34428208313527,
+        "longitude": 151.590192317963
+    },
+    {
+        "name": "Nepon",
+        "country": "Micronesia",
+        "province": "Chuuk",
+        "population": -1,
+        "latitude": 7.29036180620277,
+        "longitude": 151.885042190552
+    },
+    {
+        "name": "Nemwan",
+        "country": "Micronesia",
+        "province": "Chuuk",
+        "population": -1,
+        "latitude": 7.45082106467252,
+        "longitude": 151.892783045769
+    },
+    {
+        "name": "Neiwe",
+        "country": "Micronesia",
+        "province": "Chuuk",
+        "population": -1,
+        "latitude": 7.413995225966774,
+        "longitude": 151.8460214138031
+    },
+    {
+        "name": "Nechocho",
+        "country": "Micronesia",
+        "province": "Chuuk",
+        "population": -1,
+        "latitude": 7.32609655681556,
+        "longitude": 151.625490188599
+    },
+    {
+        "name": "Pahlap",
+        "country": "Micronesia",
+        "province": "Pohnpei",
+        "population": -1,
+        "latitude": 6.9468328304958,
+        "longitude": 158.274579048157
+    },
+    {
+        "name": "Kepin Lahpar",
+        "country": "Micronesia",
+        "province": "Pohnpei",
+        "population": -1,
+        "latitude": 6.93452118427766,
+        "longitude": 158.136219978333
+    },
+    {
+        "name": "Munien",
+        "country": "Micronesia",
+        "province": "Chuuk",
+        "population": -1,
+        "latitude": 7.321574002267282,
+        "longitude": 151.61534070968628
+    },
+    {
+        "name": "Kuplu Te",
+        "country": "Micronesia",
+        "province": "Kosrae",
+        "population": -1,
+        "latitude": 5.26348655915704,
+        "longitude": 162.986040115356
+    },
+    {
+        "name": "Malsu",
+        "country": "Micronesia",
+        "province": "Kosrae",
+        "population": -1,
+        "latitude": 5.36863625018089,
+        "longitude": 162.994564175606
+    },
+    {
+        "name": "Ipat",
+        "country": "Micronesia",
+        "province": "Pohnpei",
+        "population": -1,
+        "latitude": 6.95672664479079,
+        "longitude": 158.196483850479
+    },
+    {
+        "name": "Inkoeya",
+        "country": "Micronesia",
+        "province": "Kosrae",
+        "population": -1,
+        "latitude": 5.36852943244952,
+        "longitude": 163.015909194946
+    },
+    {
+        "name": "Foup",
+        "country": "Micronesia",
+        "province": "Chuuk",
+        "population": -1,
+        "latitude": 7.37112805043514,
+        "longitude": 151.623060107231
+    },
+    {
+        "name": "Finfukul",
+        "country": "Micronesia",
+        "province": "Kosrae",
+        "population": -1,
+        "latitude": 5.36820897914315,
+        "longitude": 163.007079362869
+    },
+    {
+        "name": "Finaunpes",
+        "country": "Micronesia",
+        "province": "Kosrae",
+        "population": -1,
+        "latitude": 5.36780307137997,
+        "longitude": 163.019170761108
+    },
+    {
+        "name": "Fanip",
+        "country": "Micronesia",
+        "province": "Chuuk",
+        "population": -1,
+        "latitude": 7.363041445696765,
+        "longitude": 151.78557515144348
+    },
+    {
+        "name": "Danipei",
+        "country": "Micronesia",
+        "province": "Pohnpei",
+        "population": -1,
+        "latitude": 6.97912806811898,
+        "longitude": 158.192720711231
+    },
+    {
+        "name": "Chukuram",
+        "country": "Micronesia",
+        "province": "Chuuk",
+        "population": -1,
+        "latitude": 7.34908106527257,
+        "longitude": 151.598432064056
+    },
+    {
+        "name": "Guroor",
+        "country": "Micronesia",
+        "province": "Yap",
+        "population": -1,
+        "latitude": 9.44730500013902,
+        "longitude": 138.067052364349
+    },
+    {
+        "name": "Tabnifiy",
+        "country": "Micronesia",
+        "province": "Yap",
+        "population": -1,
+        "latitude": 9.47132829919626,
+        "longitude": 138.06969165802
+    },
+    {
+        "name": "Wanead",
+        "country": "Micronesia",
+        "province": "Yap",
+        "population": -1,
+        "latitude": 9.6070758558805,
+        "longitude": 138.177495002747
+    },
+    {
+        "name": "Raeng",
+        "country": "Micronesia",
+        "province": "Yap",
+        "population": -1,
+        "latitude": 9.56687567086871,
+        "longitude": 138.10644865036
+    },
+    {
+        "name": "Qokaaw",
+        "country": "Micronesia",
+        "province": "Yap",
+        "population": -1,
+        "latitude": 9.54275327652337,
+        "longitude": 138.097672462463
+    },
+    {
+        "name": "Nimaar",
+        "country": "Micronesia",
+        "province": "Yap",
+        "population": -1,
+        "latitude": 9.51935927126702,
+        "longitude": 138.11976313591
+    },
+    {
+        "name": "Ngoof",
+        "country": "Micronesia",
+        "province": "Yap",
+        "population": -1,
+        "latitude": 9.47737619115934,
+        "longitude": 138.07034611702
+    },
+    {
+        "name": "Ngolog",
+        "country": "Micronesia",
+        "province": "Yap",
+        "population": -1,
+        "latitude": 9.51365601206581,
+        "longitude": 138.116367459297
+    },
+    {
+        "name": "Ngariy",
+        "country": "Micronesia",
+        "province": "Yap",
+        "population": -1,
+        "latitude": 9.45744367198199,
+        "longitude": 138.065979480743
+    },
+    {
+        "name": "Maqweach",
+        "country": "Micronesia",
+        "province": "Yap",
+        "population": -1,
+        "latitude": 9.52892973997253,
+        "longitude": 138.123840093613
+    },
+    {
+        "name": "Malaaf",
+        "country": "Micronesia",
+        "province": "Yap",
+        "population": -1,
+        "latitude": 9.59503745822227,
+        "longitude": 138.156595230103
+    },
+    {
+        "name": "Leang",
+        "country": "Micronesia",
+        "province": "Yap",
+        "population": -1,
+        "latitude": 9.53378100278753,
+        "longitude": 138.18603515625
+    },
+    {
+        "name": "Keeng",
+        "country": "Micronesia",
+        "province": "Yap",
+        "population": -1,
+        "latitude": 9.52590890789729,
+        "longitude": 138.123523592949
+    },
+    {
+        "name": "Kanif",
+        "country": "Micronesia",
+        "province": "Yap",
+        "population": -1,
+        "latitude": 9.52762300853758,
+        "longitude": 138.084679841995
+    },
+    {
+        "name": "Kadaay",
+        "country": "Micronesia",
+        "province": "Yap",
+        "population": -1,
+        "latitude": 9.53672241098939,
+        "longitude": 138.087201118469
+    },
+    {
+        "name": "Gilfith",
+        "country": "Micronesia",
+        "province": "Yap",
+        "population": -1,
+        "latitude": 9.57320222622657,
+        "longitude": 138.1108045578
+    },
+    {
+        "name": "Dulkaan",
+        "country": "Micronesia",
+        "province": "Yap",
+        "population": -1,
+        "latitude": 9.46493636061018,
+        "longitude": 138.068404197693
+    },
+    {
+        "name": "Doqomchuuy",
+        "country": "Micronesia",
+        "province": "Yap",
+        "population": -1,
+        "latitude": 9.52516824446421,
+        "longitude": 138.151230812073
+    },
+    {
+        "name": "Dechumur",
+        "country": "Micronesia",
+        "province": "Yap",
+        "population": -1,
+        "latitude": 9.51869530674688,
+        "longitude": 138.161031603813
+    },
+    {
+        "name": "Bulwol - temp LL",
+        "country": "Micronesia",
+        "province": "Yap",
+        "population": -1,
+        "latitude": 9.63443041119633,
+        "longitude": 138.14715385437
+    },
+    {
+        "name": "Gachalaaw",
+        "country": "Micronesia",
+        "province": "Yap",
+        "population": -1,
+        "latitude": 9.46138052873795,
+        "longitude": 138.063962459564
+    },
+    {
+        "name": "Gitaem",
+        "country": "Micronesia",
+        "province": "Yap",
+        "population": -1,
+        "latitude": 9.50635485494435,
+        "longitude": 138.105483055115
+    },
+    {
+        "name": "Magaaf",
+        "country": "Micronesia",
+        "province": "Yap",
+        "population": -1,
+        "latitude": 9.53164370465956,
+        "longitude": 138.087930679321
+    },
+    {
+        "name": "Daabach",
+        "country": "Micronesia",
+        "province": "Yap",
+        "population": -1,
+        "latitude": 9.54316591079169,
+        "longitude": 138.144063949585
+    },
+    {
+        "name": "Qanooth",
+        "country": "Micronesia",
+        "province": "Yap",
+        "population": -1,
+        "latitude": 9.44294464443595,
+        "longitude": 138.061623573303
+    },
+    {
+        "name": "Gael",
+        "country": "Micronesia",
+        "province": "Yap",
+        "population": -1,
+        "latitude": 9.47065101332384,
+        "longitude": 138.064992427826
+    },
+    {
+        "name": "Teab",
+        "country": "Micronesia",
+        "province": "Yap",
+        "population": -1,
+        "latitude": 9.52123212041079,
+        "longitude": 138.145995140076
+    },
+    {
+        "name": "Pohnseiuh",
+        "country": "Micronesia",
+        "province": "Pohnpei",
+        "population": -1,
+        "latitude": 6.8178641653376,
+        "longitude": 158.216965198517
+    },
+    {
+        "name": "Pukusruk Te",
+        "country": "Micronesia",
+        "province": "Kosrae",
+        "population": -1,
+        "latitude": 5.35593549085187,
+        "longitude": 163.020930290222
+    },
+    {
+        "name": "Ifalik Village",
+        "country": "Micronesia",
+        "province": "Yap",
+        "population": 561,
+        "latitude": 7.25439271989096,
+        "longitude": 144.453383982182
+    },
+    {
+        "name": "Pwudoi",
+        "country": "Micronesia",
+        "province": "Pohnpei",
+        "population": -1,
+        "latitude": 6.85080200722057,
+        "longitude": 158.161250352859
+    },
+    {
+        "name": "Seidihne",
+        "country": "Micronesia",
+        "province": "Pohnpei",
+        "population": -1,
+        "latitude": 6.9432969927507,
+        "longitude": 158.274965286255
+    },
+    {
+        "name": "Rekihpas",
+        "country": "Micronesia",
+        "province": "Pohnpei",
+        "population": -1,
+        "latitude": 6.8217950942402,
+        "longitude": 158.182429075241
+    },
+    {
+        "name": "Reou",
+        "country": "Micronesia",
+        "province": "Pohnpei",
+        "population": -1,
+        "latitude": 6.95543801124249,
+        "longitude": 158.190443515778
+    },
+    {
+        "name": "Roie",
+        "country": "Micronesia",
+        "province": "Pohnpei",
+        "population": -1,
+        "latitude": 6.96990032361487,
+        "longitude": 158.177461624146
+    },
+    {
+        "name": "Sakariso",
+        "country": "Micronesia",
+        "province": "Pohnpei",
+        "population": -1,
+        "latitude": 6.98770070871582,
+        "longitude": 158.298343420029
+    },
+    {
+        "name": "Sakartik",
+        "country": "Micronesia",
+        "province": "Pohnpei",
+        "population": -1,
+        "latitude": 6.884504481462231,
+        "longitude": 158.158278465271
+    },
+    {
+        "name": "Salong",
+        "country": "Micronesia",
+        "province": "Pohnpei",
+        "population": -1,
+        "latitude": 6.85371005812626,
+        "longitude": 158.320155143738
+    },
+    {
+        "name": "Sehp",
+        "country": "Micronesia",
+        "province": "Pohnpei",
+        "population": -1,
+        "latitude": 6.95831346967345,
+        "longitude": 158.298933506012
+    },
+    {
+        "name": "Nukan",
+        "country": "Micronesia",
+        "province": "Chuuk",
+        "population": -1,
+        "latitude": 7.30870841400655,
+        "longitude": 151.881566047668
+    },
+    {
+        "name": "Sapota",
+        "country": "Micronesia",
+        "province": "Chuuk",
+        "population": -1,
+        "latitude": 7.38291720434701,
+        "longitude": 151.585514545441
+    },
+    {
+        "name": "Sapunap",
+        "country": "Micronesia",
+        "province": "Chuuk",
+        "population": -1,
+        "latitude": 7.2929052613664,
+        "longitude": 151.824595928192
+    },
+    {
+        "name": "Sapworo",
+        "country": "Micronesia",
+        "province": "Pohnpei",
+        "population": -1,
+        "latitude": 6.93786538301062,
+        "longitude": 158.288612365723
+    },
+    {
+        "name": "Sekeren Iap",
+        "country": "Micronesia",
+        "province": "Pohnpei",
+        "population": -1,
+        "latitude": 6.8162449115338,
+        "longitude": 158.168063163757
+    },
+    {
+        "name": "Sekeren Lapahu",
+        "country": "Micronesia",
+        "province": "Pohnpei",
+        "population": -1,
+        "latitude": 6.8540402752395,
+        "longitude": 158.162055015564
+    },
+    {
+        "name": "Pahn Kalang",
+        "country": "Micronesia",
+        "province": "Pohnpei",
+        "population": -1,
+        "latitude": 6.92391331407058,
+        "longitude": 158.308943510056
+    },
+    {
+        "name": "Sialat",
+        "country": "Micronesia",
+        "province": "Kosrae",
+        "population": -1,
+        "latitude": 5.36868965903955,
+        "longitude": 163.009343147278
+    },
+    {
+        "name": "Soledi",
+        "country": "Micronesia",
+        "province": "Pohnpei",
+        "population": -1,
+        "latitude": 6.96095461597363,
+        "longitude": 158.184993267059
+    },
+    {
+        "name": "Tahio",
+        "country": "Micronesia",
+        "province": "Pohnpei",
+        "population": -1,
+        "latitude": 6.87276640655143,
+        "longitude": 158.315026760101
+    },
+    {
+        "name": "Etten",
+        "country": "Micronesia",
+        "province": "Chuuk",
+        "population": -1,
+        "latitude": 7.35859375021439,
+        "longitude": 151.886340379715
+    },
+    {
+        "name": "Sopwlong",
+        "country": "Micronesia",
+        "province": "Pohnpei",
+        "population": -1,
+        "latitude": 6.93100655492827,
+        "longitude": 158.311507701874
+    },
+    {
+        "name": "Sounamw",
+        "country": "Micronesia",
+        "province": "Pohnpei",
+        "population": -1,
+        "latitude": 6.93169883247931,
+        "longitude": 158.29501748085
+    },
+    {
+        "name": "Srupunyot",
+        "country": "Micronesia",
+        "province": "Kosrae",
+        "population": -1,
+        "latitude": 5.35958872203441,
+        "longitude": 162.982993125916
+    },
+    {
+        "name": "Tamwarohi",
+        "country": "Micronesia",
+        "province": "Pohnpei",
+        "population": -1,
+        "latitude": 6.9324337106131,
+        "longitude": 158.135576248169
+    },
+    {
+        "name": "Tonof",
+        "country": "Micronesia",
+        "province": "Chuuk",
+        "population": -1,
+        "latitude": 7.38923725314304,
+        "longitude": 151.86664223671
+    },
+    {
+        "name": "Utwe Village",
+        "country": "Micronesia",
+        "province": "Kosrae",
+        "population": -1,
+        "latitude": 5.2748644852147,
+        "longitude": 162.976620197296
+    },
+    {
+        "name": "Or",
+        "country": "Micronesia",
+        "province": "Chuuk",
+        "population": -1,
+        "latitude": 7.44935830320394,
+        "longitude": 151.900738477707
+    },
+    {
+        "name": "Upwein",
+        "country": "Micronesia",
+        "province": "Chuuk",
+        "population": -1,
+        "latitude": 7.341611230279726,
+        "longitude": 151.8505597114563
+    },
+    {
+        "name": "Wichap",
+        "country": "Micronesia",
+        "province": "Chuuk",
+        "population": -1,
+        "latitude": 7.42416612578377,
+        "longitude": 151.859925985336
+    },
+    {
+        "name": "Yekula",
+        "country": "Micronesia",
+        "province": "Kosrae",
+        "population": -1,
+        "latitude": 5.3686576137249,
+        "longitude": 163.002111911774
+    },
+    {
+        "name": "Wiya",
+        "country": "Micronesia",
+        "province": "Kosrae",
+        "population": -1,
+        "latitude": 5.36939465553539,
+        "longitude": 162.998249530792
+    },
+    {
+        "name": "Niheke",
+        "country": "Micronesia",
+        "province": "Pohnpei",
+        "population": -1,
+        "latitude": 6.95761058146091,
+        "longitude": 158.237779140472
+    },
+    {
+        "name": "Pelusrik",
+        "country": "Micronesia",
+        "province": "Kosrae",
+        "population": -1,
+        "latitude": 5.33954909190123,
+        "longitude": 162.964839935303
+    },
+    {
+        "name": "Chorong",
+        "country": "Micronesia",
+        "province": "Chuuk",
+        "population": -1,
+        "latitude": 7.41070771959653,
+        "longitude": 151.669220924377
+    },
+    {
+        "name": "Sanuk",
+        "country": "Micronesia",
+        "province": "Chuuk",
+        "population": -1,
+        "latitude": 7.30821889712359,
+        "longitude": 151.886029243469
+    },
+    {
+        "name": "Sapota",
+        "country": "Micronesia",
+        "province": "Chuuk",
+        "population": -1,
+        "latitude": 7.29791763488939,
+        "longitude": 151.888132095337
+    },
+    {
+        "name": "Nipaip",
+        "country": "Micronesia",
+        "province": "Pohnpei",
+        "population": -1,
+        "latitude": 6.9334774486014465,
+        "longitude": 158.19027185440063
+    },
+    {
+        "name": "Nin Loang",
+        "country": "Micronesia",
+        "province": "Pohnpei",
+        "population": -1,
+        "latitude": 6.85092983400667,
+        "longitude": 158.164930343628
+    },
+    {
+        "name": "Nihwel",
+        "country": "Micronesia",
+        "province": "Pohnpei",
+        "population": -1,
+        "latitude": 6.84972613041325,
+        "longitude": 158.32959651947
+    },
+    {
+        "name": "Nihmoak",
+        "country": "Micronesia",
+        "province": "Pohnpei",
+        "population": -1,
+        "latitude": 6.92930248277857,
+        "longitude": 158.278634548187
+    },
+    {
+        "name": "Nihkaras",
+        "country": "Micronesia",
+        "province": "Pohnpei",
+        "population": -1,
+        "latitude": 6.952935283092956,
+        "longitude": 158.29479217529297
+    },
+    {
+        "name": "Nih Pwongin",
+        "country": "Micronesia",
+        "province": "Pohnpei",
+        "population": -1,
+        "latitude": 6.87608973850312,
+        "longitude": 158.289867639542
+    },
+    {
+        "name": "Nihkawad",
+        "country": "Micronesia",
+        "province": "Pohnpei",
+        "population": -1,
+        "latitude": 6.84339864742373,
+        "longitude": 158.312516212463
+    },
+    {
+        "name": "Fanip",
+        "country": "Micronesia",
+        "province": "Chuuk",
+        "population": -1,
+        "latitude": 7.48268677439504,
+        "longitude": 151.879720687866
+    },
+    {
+        "name": "Nesarau",
+        "country": "Micronesia",
+        "province": "Chuuk",
+        "population": -1,
+        "latitude": 7.303749370347241,
+        "longitude": 151.88849687576294
+    },
+    {
+        "name": "Nesamo",
+        "country": "Micronesia",
+        "province": "Chuuk",
+        "population": -1,
+        "latitude": 7.2989392582735,
+        "longitude": 151.82498216629
+    },
+    {
+        "name": "Mwan",
+        "country": "Micronesia",
+        "province": "Chuuk",
+        "population": -1,
+        "latitude": 7.4367517566345,
+        "longitude": 151.839015483856
+    },
+    {
+        "name": "Nepukos",
+        "country": "Micronesia",
+        "province": "Chuuk",
+        "population": -1,
+        "latitude": 7.44368806169724,
+        "longitude": 151.843156814575
+    },
+    {
+        "name": "Nukanap",
+        "country": "Micronesia",
+        "province": "Chuuk",
+        "population": -1,
+        "latitude": 7.44375189221614,
+        "longitude": 151.88041806221
+    },
+    {
+        "name": "Nanwei",
+        "country": "Micronesia",
+        "province": "Pohnpei",
+        "population": -1,
+        "latitude": 6.82221055638575,
+        "longitude": 158.15806388855
+    },
+    {
+        "name": "Nansolohi",
+        "country": "Micronesia",
+        "province": "Pohnpei",
+        "population": -1,
+        "latitude": 6.94825993820017,
+        "longitude": 158.274418115616
+    },
+    {
+        "name": "Nanpwok",
+        "country": "Micronesia",
+        "province": "Pohnpei",
+        "population": -1,
+        "latitude": 6.94992134171227,
+        "longitude": 158.301122188568
+    },
+    {
+        "name": "Nanpei",
+        "country": "Micronesia",
+        "province": "Pohnpei",
+        "population": -1,
+        "latitude": 7.0104627021666,
+        "longitude": 158.255792856216
+    },
+    {
+        "name": "Mahnd",
+        "country": "Micronesia",
+        "province": "Pohnpei",
+        "population": -1,
+        "latitude": 6.84429344809088,
+        "longitude": 158.290125131607
+    },
+    {
+        "name": "Nan Paremwed",
+        "country": "Micronesia",
+        "province": "Pohnpei",
+        "population": -1,
+        "latitude": 6.83514296694332,
+        "longitude": 158.171174526215
+    },
+    {
+        "name": "Nan Dapang",
+        "country": "Micronesia",
+        "province": "Pohnpei",
+        "population": -1,
+        "latitude": 6.9608055194009,
+        "longitude": 158.224604129791
+    },
+    {
+        "name": "Nambo",
+        "country": "Micronesia",
+        "province": "Chuuk",
+        "population": -1,
+        "latitude": 7.3870667415234,
+        "longitude": 151.592499017715
+    },
+    {
+        "name": "Mwoakot",
+        "country": "Micronesia",
+        "province": "Pohnpei",
+        "population": -1,
+        "latitude": 6.92879125993249,
+        "longitude": 158.309147357941
+    },
+    {
+        "name": "Mwen",
+        "country": "Micronesia",
+        "province": "Chuuk",
+        "population": -1,
+        "latitude": 7.34389901359177,
+        "longitude": 151.836236715317
+    },
+    {
+        "name": "Meseiku",
+        "country": "Micronesia",
+        "province": "Chuuk",
+        "population": -1,
+        "latitude": 7.33307716267484,
+        "longitude": 151.840903759003
+    },
+    {
+        "name": "Muntakai",
+        "country": "Micronesia",
+        "province": "Pohnpei",
+        "population": -1,
+        "latitude": 6.93547971500452,
+        "longitude": 158.298450708389
+    },
+    {
+        "name": "Mesor",
+        "country": "Micronesia",
+        "province": "Chuuk",
+        "population": -1,
+        "latitude": 7.48442067889379,
+        "longitude": 151.882864236832
+    },
+    {
+        "name": "Meseniko",
+        "country": "Micronesia",
+        "province": "Chuuk",
+        "population": -1,
+        "latitude": 7.29694389792998,
+        "longitude": 151.826366186142
+    },
+    {
+        "name": "Meiuhpw",
+        "country": "Micronesia",
+        "province": "Pohnpei",
+        "population": -1,
+        "latitude": 6.95275423415648,
+        "longitude": 158.260502815247
+    },
+    {
+        "name": "Maramosok",
+        "country": "Micronesia",
+        "province": "Pohnpei",
+        "population": -1,
+        "latitude": 6.93435077861092,
+        "longitude": 158.277862071991
+    },
+    {
+        "name": "Lukopoas",
+        "country": "Micronesia",
+        "province": "Pohnpei",
+        "population": -1,
+        "latitude": 6.95369142789703,
+        "longitude": 158.277111053467
+    },
+    {
+        "name": "Lehiak",
+        "country": "Micronesia",
+        "province": "Pohnpei",
+        "population": -1,
+        "latitude": 6.84372887167474,
+        "longitude": 158.318309783936
+    },
+    {
+        "name": "Kitialap",
+        "country": "Micronesia",
+        "province": "Pohnpei",
+        "population": -1,
+        "latitude": 6.91906726988148,
+        "longitude": 158.323266506195
+    },
+    {
+        "name": "Kitamw",
+        "country": "Micronesia",
+        "province": "Pohnpei",
+        "population": -1,
+        "latitude": 6.8862726236764,
+        "longitude": 158.290028572083
+    },
+    {
+        "name": "Nihkewe",
+        "country": "Micronesia",
+        "province": "Pohnpei",
+        "population": -1,
+        "latitude": 6.9404320926797,
+        "longitude": 158.168320655823
+    },
+    {
+        "name": "Kepin Keileng",
+        "country": "Micronesia",
+        "province": "Pohnpei",
+        "population": -1,
+        "latitude": 6.96767456230473,
+        "longitude": 158.251179456711
+    },
+    {
+        "name": "Kepehs",
+        "country": "Micronesia",
+        "province": "Pohnpei",
+        "population": -1,
+        "latitude": 6.98526204806528,
+        "longitude": 158.291820287704
+    },
+    {
+        "name": "Kamwele",
+        "country": "Micronesia",
+        "province": "Pohnpei",
+        "population": -1,
+        "latitude": 6.95998548740417,
+        "longitude": 158.196440935135
+    },
+    {
+        "name": "Ipwek",
+        "country": "Micronesia",
+        "province": "Pohnpei",
+        "population": -1,
+        "latitude": 6.95626870104229,
+        "longitude": 158.248379230499
+    },
+    {
+        "name": "Ipwal",
+        "country": "Micronesia",
+        "province": "Pohnpei",
+        "population": -1,
+        "latitude": 6.81317683669526,
+        "longitude": 158.300542831421
+    },
+    {
+        "name": "Sapou",
+        "country": "Micronesia",
+        "province": "Chuuk",
+        "population": -1,
+        "latitude": 7.33514152819902,
+        "longitude": 151.570751667023
+    },
+    {
+        "name": "Faro",
+        "country": "Micronesia",
+        "province": "Chuuk",
+        "population": -1,
+        "latitude": 7.32854669808451,
+        "longitude": 151.630688309669
+    },
+    {
+        "name": "Farekich",
+        "country": "Micronesia",
+        "province": "Chuuk",
+        "population": -1,
+        "latitude": 7.32398958416979,
+        "longitude": 151.604676246643
+    },
+    {
+        "name": "Penia",
+        "country": "Micronesia",
+        "province": "Chuuk",
+        "population": -1,
+        "latitude": 7.39188653963917,
+        "longitude": 151.709196567535
+    },
+    {
+        "name": "Faichopuech",
+        "country": "Micronesia",
+        "province": "Chuuk",
+        "population": -1,
+        "latitude": 7.30210521175304,
+        "longitude": 151.821683049202
+    },
+    {
+        "name": "Epin",
+        "country": "Micronesia",
+        "province": "Chuuk",
+        "population": -1,
+        "latitude": 7.37445841183954,
+        "longitude": 151.572157144547
+    },
+    {
+        "name": "Malaio",
+        "country": "Micronesia",
+        "province": "Chuuk",
+        "population": -1,
+        "latitude": 7.34422887905174,
+        "longitude": 151.571550965309
+    },
+    {
+        "name": "Seinwar",
+        "country": "Micronesia",
+        "province": "Pohnpei",
+        "population": -1,
+        "latitude": 6.83878613643341,
+        "longitude": 158.155145645142
+    },
+    {
+        "name": "Alamoar",
+        "country": "Micronesia",
+        "province": "Pohnpei",
+        "population": -1,
+        "latitude": 6.96254142656266,
+        "longitude": 158.261983394623
+    },
+    {
+        "name": "Ahseia",
+        "country": "Micronesia",
+        "province": "Pohnpei",
+        "population": -1,
+        "latitude": 6.95667339554065,
+        "longitude": 158.186388015747
+    },
+    {
+        "name": "Aderew",
+        "country": "Micronesia",
+        "province": "Pohnpei",
+        "population": -1,
+        "latitude": 6.93835529548032,
+        "longitude": 158.27835559845
+    },
+    {
+        "name": "Nanitipw",
+        "country": "Micronesia",
+        "province": "Pohnpei",
+        "population": -1,
+        "latitude": 6.94504361471784,
+        "longitude": 158.235783576965
+    },
+    {
+        "name": "Finpukal",
+        "country": "Micronesia",
+        "province": "Kosrae",
+        "population": -1,
+        "latitude": 5.34189918909114,
+        "longitude": 163.019074201584
+    },
+    {
+        "name": "Mwalok",
+        "country": "Micronesia",
+        "province": "Pohnpei",
+        "population": -1,
+        "latitude": 6.96826028998992,
+        "longitude": 158.196660876274
+    },
+    {
+        "name": "Pohndimur",
+        "country": "Micronesia",
+        "province": "Pohnpei",
+        "population": -1,
+        "latitude": 6.95925065231977,
+        "longitude": 158.238079547882
+    },
+    {
+        "name": "Pohndau",
+        "country": "Micronesia",
+        "province": "Pohnpei",
+        "population": -1,
+        "latitude": 6.9637022443328,
+        "longitude": 158.236019611359
+    },
+    {
+        "name": "Pohn Sok",
+        "country": "Micronesia",
+        "province": "Pohnpei",
+        "population": -1,
+        "latitude": 6.82879398534141,
+        "longitude": 158.174114227295
+    },
+    {
+        "name": "Pohn Pwehl",
+        "country": "Micronesia",
+        "province": "Pohnpei",
+        "population": -1,
+        "latitude": 6.81361361243673,
+        "longitude": 158.2406437397
+    },
+    {
+        "name": "Pohn Koi",
+        "country": "Micronesia",
+        "province": "Pohnpei",
+        "population": -1,
+        "latitude": 6.94212547438344,
+        "longitude": 158.145124912262
+    },
+    {
+        "name": "Poatoik",
+        "country": "Micronesia",
+        "province": "Pohnpei",
+        "population": -1,
+        "latitude": 7.00316833627795,
+        "longitude": 158.258099555969
+    },
+    {
+        "name": "Peilong",
+        "country": "Micronesia",
+        "province": "Pohnpei",
+        "population": -1,
+        "latitude": 6.97484168892712,
+        "longitude": 158.177686929703
+    },
+    {
+        "name": "Peiak",
+        "country": "Micronesia",
+        "province": "Pohnpei",
+        "population": -1,
+        "latitude": 6.950278116700587,
+        "longitude": 158.29972207546234
+    },
+    {
+        "name": "Peiai",
+        "country": "Micronesia",
+        "province": "Pohnpei",
+        "population": -1,
+        "latitude": 6.87239359542778,
+        "longitude": 158.285490274429
+    },
+    {
+        "name": "Parau",
+        "country": "Micronesia",
+        "province": "Pohnpei",
+        "population": -1,
+        "latitude": 6.84821883357698,
+        "longitude": 158.300971984863
+    },
+    {
+        "name": "Panaihs",
+        "country": "Micronesia",
+        "province": "Pohnpei",
+        "population": -1,
+        "latitude": 6.82314800810795,
+        "longitude": 158.234796524048
+    },
+    {
+        "name": "Pahntorong",
+        "country": "Micronesia",
+        "province": "Pohnpei",
+        "population": -1,
+        "latitude": 6.94958054147055,
+        "longitude": 158.226535320282
+    },
+    {
+        "name": "Pahntipwe",
+        "country": "Micronesia",
+        "province": "Pohnpei",
+        "population": -1,
+        "latitude": 6.95050176655515,
+        "longitude": 158.151428103447
+    },
+    {
+        "name": "Diadi",
+        "country": "Micronesia",
+        "province": "Pohnpei",
+        "population": -1,
+        "latitude": 6.86337147712287,
+        "longitude": 158.326388597488
+    },
+    {
+        "name": "Pahnasang",
+        "country": "Micronesia",
+        "province": "Pohnpei",
+        "population": -1,
+        "latitude": 6.96491630755128,
+        "longitude": 158.224561214447
+    },
+    {
+        "name": "Pahlap",
+        "country": "Micronesia",
+        "province": "Pohnpei",
+        "population": -1,
+        "latitude": 6.85165418514732,
+        "longitude": 158.297924995422
+    },
+    {
+        "name": "Nukanap",
+        "country": "Micronesia",
+        "province": "Chuuk",
+        "population": -1,
+        "latitude": 7.35688595098553,
+        "longitude": 151.790510416031
+    },
+    {
+        "name": "Pohnlangas",
+        "country": "Micronesia",
+        "province": "Pohnpei",
+        "population": -1,
+        "latitude": 6.83784871535894,
+        "longitude": 158.299040794373
+    },
+    {
+        "name": "Nihsein",
+        "country": "Micronesia",
+        "province": "Pohnpei",
+        "population": -1,
+        "latitude": 6.96176399654189,
+        "longitude": 158.302785158157
+    },
+    {
+        "name": "Nihkaikes",
+        "country": "Micronesia",
+        "province": "Pohnpei",
+        "population": -1,
+        "latitude": 6.92054771503275,
+        "longitude": 158.276038169861
+    },
+    {
+        "name": "Nukan",
+        "country": "Micronesia",
+        "province": "Chuuk",
+        "population": -1,
+        "latitude": 7.30421760858176,
+        "longitude": 151.821645498276
+    },
+    {
+        "name": "Nepanonong",
+        "country": "Micronesia",
+        "province": "Chuuk",
+        "population": -1,
+        "latitude": 7.32611783931671,
+        "longitude": 151.587252616882
+    },
+    {
+        "name": "Fanip",
+        "country": "Micronesia",
+        "province": "Chuuk",
+        "population": -1,
+        "latitude": 7.38445998553816,
+        "longitude": 151.737488508224
+    },
+    {
+        "name": "Nanpei",
+        "country": "Micronesia",
+        "province": "Pohnpei",
+        "population": -1,
+        "latitude": 6.95876076162441,
+        "longitude": 158.277840614319
+    },
+    {
+        "name": "Nankepiniak",
+        "country": "Micronesia",
+        "province": "Pohnpei",
+        "population": -1,
+        "latitude": 6.84780872018604,
+        "longitude": 158.316560983658
+    },
+    {
+        "name": "Nanehngk",
+        "country": "Micronesia",
+        "province": "Pohnpei",
+        "population": -1,
+        "latitude": 6.92531919010481,
+        "longitude": 158.310016393661
+    },
+    {
+        "name": "Nan Pahlap",
+        "country": "Micronesia",
+        "province": "Pohnpei",
+        "population": -1,
+        "latitude": 6.81549920070554,
+        "longitude": 158.248872756958
+    },
+    {
+        "name": "Fason",
+        "country": "Micronesia",
+        "province": "Chuuk",
+        "population": -1,
+        "latitude": 7.35126240365405,
+        "longitude": 151.850763559341
+    },
+    {
+        "name": "Marap",
+        "country": "Micronesia",
+        "province": "Pohnpei",
+        "population": -1,
+        "latitude": 6.93446793251344,
+        "longitude": 158.28777551651
+    },
+    {
+        "name": "Luhke",
+        "country": "Micronesia",
+        "province": "Pohnpei",
+        "population": -1,
+        "latitude": 6.95509721500214,
+        "longitude": 158.245450258255
+    },
+    {
+        "name": "Lipwour",
+        "country": "Micronesia",
+        "province": "Pohnpei",
+        "population": -1,
+        "latitude": 6.95090114103077,
+        "longitude": 158.235569000244
+    },
+    {
+        "name": "Likkie",
+        "country": "Micronesia",
+        "province": "Pohnpei",
+        "population": -1,
+        "latitude": 6.94778334860898,
+        "longitude": 158.159029483795
+    },
+    {
+        "name": "Kamweng",
+        "country": "Micronesia",
+        "province": "Pohnpei",
+        "population": -1,
+        "latitude": 6.80201228764874,
+        "longitude": 158.294277191162
+    },
+    {
+        "name": "Iohl",
+        "country": "Micronesia",
+        "province": "Pohnpei",
+        "population": -1,
+        "latitude": 6.93992088191148,
+        "longitude": 158.148740530014
+    },
+    {
+        "name": "Ikeme",
+        "country": "Micronesia",
+        "province": "Pohnpei",
+        "population": -1,
+        "latitude": 6.86689726037007,
+        "longitude": 158.160853385925
+    },
+    {
+        "name": "Peniamwan",
+        "country": "Micronesia",
+        "province": "Chuuk",
+        "population": -1,
+        "latitude": 7.34678266787739,
+        "longitude": 151.667997837067
+    },
+    {
+        "name": "Dienrar",
+        "country": "Micronesia",
+        "province": "Pohnpei",
+        "population": -1,
+        "latitude": 6.97788741830152,
+        "longitude": 158.283698558807
+    },
+    {
+        "name": "Dekehn Iap",
+        "country": "Micronesia",
+        "province": "Pohnpei",
+        "population": -1,
+        "latitude": 6.94470281094082,
+        "longitude": 158.220591545105
+    },
+    {
+        "name": "Fais Village",
+        "country": "Micronesia",
+        "province": "Yap",
+        "population": 215,
+        "latitude": 9.75612381498362,
+        "longitude": 140.514224767685
+    },
+    {
+        "name": "Etiemar",
+        "country": "Micronesia",
+        "province": "Chuuk",
+        "population": -1,
+        "latitude": 7.37182498117195,
+        "longitude": 151.584259271622
+    },
+    {
+        "name": "Irenkodi",
+        "country": "Micronesia",
+        "province": "Pohnpei",
+        "population": -1,
+        "latitude": 6.94183259433588,
+        "longitude": 158.152678012848
+    },
+    {
+        "name": "Keimwin Kiti",
+        "country": "Micronesia",
+        "province": "Pohnpei",
+        "population": -1,
+        "latitude": 6.95079464120379,
+        "longitude": 158.276553153992
+    },
+    {
+        "name": "Kepindau",
+        "country": "Micronesia",
+        "province": "Pohnpei",
+        "population": -1,
+        "latitude": 6.97754663837687,
+        "longitude": 158.186688423157
+    },
+    {
+        "name": "Kepinwou",
+        "country": "Micronesia",
+        "province": "Pohnpei",
+        "population": -1,
+        "latitude": 6.80889428274729,
+        "longitude": 158.259537220001
+    },
+    {
+        "name": "Lehle Mwahu",
+        "country": "Micronesia",
+        "province": "Pohnpei",
+        "population": -1,
+        "latitude": 6.93017582052485,
+        "longitude": 158.236545324326
+    },
+    {
+        "name": "Miari",
+        "country": "Micronesia",
+        "province": "Chuuk",
+        "population": -1,
+        "latitude": 7.32535166863453,
+        "longitude": 151.590058207512
+    },
+    {
+        "name": "Metipw En Uh",
+        "country": "Micronesia",
+        "province": "Pohnpei",
+        "population": -1,
+        "latitude": 6.96029433079191,
+        "longitude": 158.272079229355
+    },
+    {
+        "name": "Mesenpal",
+        "country": "Micronesia",
+        "province": "Pohnpei",
+        "population": -1,
+        "latitude": 6.96950629008587,
+        "longitude": 158.254419565201
+    },
+    {
+        "name": "Nipaip",
+        "country": "Micronesia",
+        "province": "Pohnpei",
+        "population": -1,
+        "latitude": 6.94755703494679,
+        "longitude": 158.225312232971
+    },
+    {
+        "name": "Mwetihleng",
+        "country": "Micronesia",
+        "province": "Pohnpei",
+        "population": -1,
+        "latitude": 6.91724599645697,
+        "longitude": 158.305124044418
+    },
+    {
+        "name": "Nanseinpwel",
+        "country": "Micronesia",
+        "province": "Pohnpei",
+        "population": -1,
+        "latitude": 6.95117804046795,
+        "longitude": 158.192760944366
+    },
+    {
+        "name": "Nankapairong",
+        "country": "Micronesia",
+        "province": "Pohnpei",
+        "population": -1,
+        "latitude": 6.92666115877435,
+        "longitude": 158.28028678894
+    },
+    {
+        "name": "Naneir",
+        "country": "Micronesia",
+        "province": "Pohnpei",
+        "population": -1,
+        "latitude": 6.97429856727215,
+        "longitude": 158.195797204971
+    },
+    {
+        "name": "Nanpahlap",
+        "country": "Micronesia",
+        "province": "Pohnpei",
+        "population": -1,
+        "latitude": 6.82357412192044,
+        "longitude": 158.282990455627
+    },
+    {
+        "name": "Neirenom",
+        "country": "Micronesia",
+        "province": "Chuuk",
+        "population": -1,
+        "latitude": 7.328171595897233,
+        "longitude": 151.59225225448608
+    },
+    {
+        "name": "Totiw",
+        "country": "Micronesia",
+        "province": "Chuuk",
+        "population": -1,
+        "latitude": 7.33853068485482,
+        "longitude": 151.776123046875
+    },
+    {
+        "name": "Nepos",
+        "country": "Micronesia",
+        "province": "Chuuk",
+        "population": -1,
+        "latitude": 7.39314733907748,
+        "longitude": 151.604343652725
+    },
+    {
+        "name": "Nihmesehl",
+        "country": "Micronesia",
+        "province": "Pohnpei",
+        "population": -1,
+        "latitude": 6.81119536126278,
+        "longitude": 158.244709968567
+    },
+    {
+        "name": "Pohn Uhs",
+        "country": "Micronesia",
+        "province": "Pohnpei",
+        "population": -1,
+        "latitude": 6.81563768994707,
+        "longitude": 158.181377649307
+    },
+    {
+        "name": "Pohn Mwasowel",
+        "country": "Micronesia",
+        "province": "Pohnpei",
+        "population": -1,
+        "latitude": 6.94561872053165,
+        "longitude": 158.29401969909668
+    },
+    {
+        "name": "Pohn Iak",
+        "country": "Micronesia",
+        "province": "Pohnpei",
+        "population": -1,
+        "latitude": 6.79106055039723,
+        "longitude": 158.292818069458
+    },
+    {
+        "name": "Penienuk",
+        "country": "Micronesia",
+        "province": "Chuuk",
+        "population": -1,
+        "latitude": 7.37290495564324,
+        "longitude": 151.896393299103
+    },
+    {
+        "name": "Pahnaul",
+        "country": "Micronesia",
+        "province": "Pohnpei",
+        "population": -1,
+        "latitude": 6.96453291950599,
+        "longitude": 158.250353336334
+    },
+    {
+        "name": "Pahina",
+        "country": "Micronesia",
+        "province": "Pohnpei",
+        "population": -1,
+        "latitude": 6.94005933488269,
+        "longitude": 158.277368545532
+    },
+    {
+        "name": "Pahn Tehlap",
+        "country": "Micronesia",
+        "province": "Pohnpei",
+        "population": -1,
+        "latitude": 6.81472152960618,
+        "longitude": 158.237854242325
+    },
+    {
+        "name": "Pahn Kipar",
+        "country": "Micronesia",
+        "province": "Pohnpei",
+        "population": -1,
+        "latitude": 6.90231341982724,
+        "longitude": 158.140983581543
+    },
+    {
+        "name": "Sakarakapw",
+        "country": "Micronesia",
+        "province": "Pohnpei",
+        "population": -1,
+        "latitude": 6.8582798165612,
+        "longitude": 158.291916847229
+    },
+    {
+        "name": "Paison",
+        "country": "Micronesia",
+        "province": "Pohnpei",
+        "population": -1,
+        "latitude": 6.86635934044558,
+        "longitude": 158.329129815102
+    },
+    {
+        "name": "Pieis",
+        "country": "Micronesia",
+        "province": "Chuuk",
+        "population": -1,
+        "latitude": 7.36225405787977,
+        "longitude": 151.839101314545
+    },
+    {
+        "name": "Peilik",
+        "country": "Micronesia",
+        "province": "Pohnpei",
+        "population": -1,
+        "latitude": 6.96483111023495,
+        "longitude": 158.260974884033
+    },
+    {
+        "name": "Wonip",
+        "country": "Micronesia",
+        "province": "Chuuk",
+        "population": -1,
+        "latitude": 7.37912938769706,
+        "longitude": 151.732692718506
+    },
+    {
+        "name": "Pohniak",
+        "country": "Micronesia",
+        "province": "Pohnpei",
+        "population": -1,
+        "latitude": 6.870444321077993,
+        "longitude": 158.29115509986877
+    },
+    {
+        "name": "Diendoar",
+        "country": "Micronesia",
+        "province": "Pohnpei",
+        "population": -1,
+        "latitude": 6.9981846747119,
+        "longitude": 158.256307840347
+    },
+    {
+        "name": "Nomwin Village",
+        "country": "Micronesia",
+        "province": "Chuuk",
+        "population": 711,
+        "latitude": 8.43269289698443,
+        "longitude": 151.746275424957
+    },
+    {
+        "name": "Fananu Village",
+        "country": "Micronesia",
+        "province": "Chuuk",
+        "population": 355,
+        "latitude": 8.55850350648389,
+        "longitude": 151.902535557747
+    },
+    {
+        "name": "Ruo",
+        "country": "Micronesia",
+        "province": "Chuuk",
+        "population": 469,
+        "latitude": 8.61016494573538,
+        "longitude": 152.241802811623
+    },
+    {
+        "name": "Piis Village",
+        "country": "Micronesia",
+        "province": "Chuuk",
+        "population": 427,
+        "latitude": 6.8363573598593,
+        "longitude": 152.702257633209
+    },
+    {
+        "name": "Losap Village",
+        "country": "Micronesia",
+        "province": "Chuuk",
+        "population": 448,
+        "latitude": 6.89153440549122,
+        "longitude": 152.730597853661
+    },
+    {
+        "name": "Ettal Village",
+        "country": "Micronesia",
+        "province": "Chuuk",
+        "population": 267,
+        "latitude": 5.56563999685911,
+        "longitude": 153.578546047211
+    },
+    {
+        "name": "Oneop Village",
+        "country": "Micronesia",
+        "province": "Chuuk",
+        "population": 505,
+        "latitude": 5.5066,
+        "longitude": 153.711
+    },
+    {
+        "name": "Moch Village",
+        "country": "Micronesia",
+        "province": "Chuuk",
+        "population": 854,
+        "latitude": 5.4918,
+        "longitude": 153.5405
+    },
+    {
+        "name": "Ta Village",
+        "country": "Micronesia",
+        "province": "Chuuk",
+        "population": 253,
+        "latitude": 5.2842,
+        "longitude": 153.6485
+    },
+    {
+        "name": "Satawal Village",
+        "country": "Micronesia",
+        "province": "Yap",
+        "population": 531,
+        "latitude": 7.38035298370098,
+        "longitude": 147.025984525681
+    },
+    {
+        "name": "Lamotrek Village",
+        "country": "Micronesia",
+        "province": "Yap",
+        "population": 339,
+        "latitude": 7.45757629971869,
+        "longitude": 146.378408074379
+    },
+    {
+        "name": "Elato Village",
+        "country": "Micronesia",
+        "province": "Yap",
+        "population": 96,
+        "latitude": 7.51023163753818,
+        "longitude": 146.170590519905
+    },
+    {
+        "name": "Faraulep Village",
+        "country": "Micronesia",
+        "province": "Yap",
+        "population": 221,
+        "latitude": 8.58888751184589,
+        "longitude": 144.520291686058
+    },
+    {
+        "name": "Woleai Village",
+        "country": "Micronesia",
+        "province": "Yap",
+        "population": -1,
+        "latitude": 7.37041515831782,
+        "longitude": 143.90434384346
+    },
+    {
+        "name": "Tagaulap",
+        "country": "Micronesia",
+        "province": "Yap",
+        "population": -1,
+        "latitude": 7.35694447380929,
+        "longitude": 143.879656791687
+    },
+    {
+        "name": "Seliap",
+        "country": "Micronesia",
+        "province": "Yap",
+        "population": -1,
+        "latitude": 7.37223462697111,
+        "longitude": 143.852663040161
+    },
+    {
+        "name": "Wottegai",
+        "country": "Micronesia",
+        "province": "Yap",
+        "population": -1,
+        "latitude": 7.37166005873023,
+        "longitude": 143.837728500366
+    },
+    {
+        "name": "Falalis",
+        "country": "Micronesia",
+        "province": "Yap",
+        "population": -1,
+        "latitude": 7.32671374893664,
+        "longitude": 143.841333389282
+    },
+    {
+        "name": "Eauripik Village - temp LL",
+        "country": "Micronesia",
+        "province": "Yap",
+        "population": 113,
+        "latitude": 6.68722,
+        "longitude": 143.0821
+    },
+    {
+        "name": "Sorol Village - temp LL",
+        "country": "Micronesia",
+        "province": "Yap",
+        "population": -1,
+        "latitude": 8.13333,
+        "longitude": 140.411
+    },
+    {
+        "name": "Ngulu Village",
+        "country": "Micronesia",
+        "province": "Yap",
+        "population": 26,
+        "latitude": 8.297,
+        "longitude": 137.4899
+    },
+    {
+        "name": "Mogmog",
+        "country": "Micronesia",
+        "province": "Yap",
+        "population": -1,
+        "latitude": 10.0868503352581,
+        "longitude": 139.708521366119
+    },
+    {
+        "name": "Asor",
+        "country": "Micronesia",
+        "province": "Yap",
+        "population": -1,
+        "latitude": 10.0283788072778,
+        "longitude": 139.764686822891
+    },
+    {
+        "name": "Falalop Village",
+        "country": "Micronesia",
+        "province": "Yap",
+        "population": -1,
+        "latitude": 10.0161972292339,
+        "longitude": 139.787351489067
+    },
+    {
+        "name": "Sapatiw",
+        "country": "Micronesia",
+        "province": "Chuuk",
+        "population": -1,
+        "latitude": 7.675479887837022,
+        "longitude": 151.76273345947266
+    },
+    {
+        "name": "Nukan",
+        "country": "Micronesia",
+        "province": "Chuuk",
+        "population": -1,
+        "latitude": 7.678733484800852,
+        "longitude": 151.7682909965515
+    },
+    {
+        "name": "Ruo",
+        "country": "Micronesia",
+        "province": "Chuuk",
+        "population": -1,
+        "latitude": 7.59969382805771,
+        "longitude": 151.941883563995
+    },
+    {
+        "name": "Beneniem",
+        "country": "Micronesia",
+        "province": "Chuuk",
+        "population": -1,
+        "latitude": 7.45217743912486,
+        "longitude": 151.899783611298
+    },
+    {
+        "name": "Mokil Village",
+        "country": "Micronesia",
+        "province": "Pohnpei",
+        "population": 177,
+        "latitude": 6.69281939968816,
+        "longitude": 159.762738347054
+    },
+    {
+        "name": "Kapingamarangi Settlement not permanent",
+        "country": "Micronesia",
+        "province": "Pohnpei",
+        "population": -1,
+        "latitude": 7.619633233374518,
+        "longitude": 155.15974044799805
+    },
+    {
+        "name": "Pakin Village",
+        "country": "Micronesia",
+        "province": "Pohnpei",
+        "population": -1,
+        "latitude": 7.07651143278453,
+        "longitude": 157.776353359222
+    },
+    {
+        "name": "Namoluk Village",
+        "country": "Micronesia",
+        "province": "Chuuk",
+        "population": 407,
+        "latitude": 5.9219699188298565,
+        "longitude": 153.11889052391052
+    },
+    {
+        "name": "Houk Village",
+        "country": "Micronesia",
+        "province": "Chuuk",
+        "population": 451,
+        "latitude": 6.68939890098928,
+        "longitude": 149.298968911171
+    },
+    {
+        "name": "Tamatam Village",
+        "country": "Micronesia",
+        "province": "Chuuk",
+        "population": 305,
+        "latitude": 7.538763913406893,
+        "longitude": 149.41363334655762
+    },
+    {
+        "name": "Onoun",
+        "country": "Micronesia",
+        "province": "Chuuk",
+        "population": 580,
+        "latitude": 8.57894720209809,
+        "longitude": 149.683275818825
+    },
+    {
+        "name": "Pisaras Village",
+        "country": "Micronesia",
+        "province": "Chuuk",
+        "population": 245,
+        "latitude": 8.57168541327089,
+        "longitude": 150.415406227112
+    },
+    {
+        "name": "Onou Village",
+        "country": "Micronesia",
+        "province": "Chuuk",
+        "population": 192,
+        "latitude": 8.79640711017297,
+        "longitude": 150.292502045631
+    },
+    {
+        "name": "Unanu Village",
+        "country": "Micronesia",
+        "province": "Chuuk",
+        "population": 178,
+        "latitude": 8.75662916084805,
+        "longitude": 150.336635112762
+    },
+    {
+        "name": "Makur Village",
+        "country": "Micronesia",
+        "province": "Chuuk",
+        "population": 156,
+        "latitude": 8.98256888830978,
+        "longitude": 150.125255584717
+    },
+    {
+        "name": "Tofol Village",
+        "country": "Micronesia",
+        "province": "Kosrae",
+        "population": -1,
+        "latitude": 5.32713615646513,
+        "longitude": 163.007776737213
+    },
+    {
+        "name": "Faal",
+        "country": "Micronesia",
+        "province": "Yap",
+        "population": -1,
+        "latitude": 9.62381042139852,
+        "longitude": 138.159921169281
+    },
+    {
+        "name": "Pingelap Village",
+        "country": "Micronesia",
+        "province": "Pohnpei",
+        "population": 438,
+        "latitude": 6.20588784530477,
+        "longitude": 160.70305109024
+    },
+    {
+        "name": "Finkol Te",
+        "country": "Micronesia",
+        "province": "Kosrae",
+        "population": -1,
+        "latitude": 5.27711333700393,
+        "longitude": 162.977934479713
+    },
+    {
+        "name": "Finfoko",
+        "country": "Micronesia",
+        "province": "Kosrae",
+        "population": -1,
+        "latitude": 5.36882852205017,
+        "longitude": 162.990213632584
+    },
+    {
+        "name": "Taf Te",
+        "country": "Micronesia",
+        "province": "Kosrae",
+        "population": -1,
+        "latitude": 5.27181970852429,
+        "longitude": 162.976287603378
+    },
+    {
+        "name": "Kepinleh Village",
+        "country": "Micronesia",
+        "province": "Pohnpei",
+        "population": -1,
+        "latitude": 6.96954356354199,
+        "longitude": 158.205823302269
+    },
+    {
+        "name": "Komwonlaid Village",
+        "country": "Micronesia",
+        "province": "Pohnpei",
+        "population": -1,
+        "latitude": 6.97136995926041,
+        "longitude": 158.208349943161
+    },
+    {
+        "name": "Mutunte",
+        "country": "Micronesia",
+        "province": "Kosrae",
+        "population": -1,
+        "latitude": 5.36458784507934,
+        "longitude": 162.988357543945
+    },
+    {
+        "name": "Nomwin",
+        "country": "Micronesia",
+        "province": "Chuuk",
+        "population": -1,
+        "latitude": 8.43,
+        "longitude": 151.748
+    },
+    {
+        "name": "Fananu",
+        "country": "Micronesia",
+        "province": "Chuuk",
+        "population": -1,
+        "latitude": 8.55811,
+        "longitude": 151.90922
+    },
+    {
+        "name": "Murilo",
+        "country": "Micronesia",
+        "province": "Chuuk",
+        "population": 607,
+        "latitude": 8.69241774655143,
+        "longitude": 152.339344024658
+    },
+    {
+        "name": "Ruo",
+        "country": "Micronesia",
+        "province": "Chuuk",
+        "population": -1,
+        "latitude": 8.609,
+        "longitude": 152.2455
+    },
+    {
+        "name": "Losap",
+        "country": "Micronesia",
+        "province": "Chuuk",
+        "population": -1,
+        "latitude": 6.894,
+        "longitude": 152.74
+    },
+    {
+        "name": "Piis",
+        "country": "Micronesia",
+        "province": "Chuuk",
+        "population": -1,
+        "latitude": 6.834,
+        "longitude": 152.701
+    },
+    {
+        "name": "former Amas Village",
+        "country": "Micronesia",
+        "province": "Chuuk",
+        "population": -1,
+        "latitude": 5.895930651308494,
+        "longitude": 153.14987003803253
+    },
+    {
+        "name": "Ettal",
+        "country": "Micronesia",
+        "province": "Chuuk",
+        "population": -1,
+        "latitude": 5.592,
+        "longitude": 153.564
+    },
+    {
+        "name": "Lukunor",
+        "country": "Micronesia",
+        "province": "Chuuk",
+        "population": -1,
+        "latitude": 5.507,
+        "longitude": 153.8205
+    },
+    {
+        "name": "Oneop",
+        "country": "Micronesia",
+        "province": "Chuuk",
+        "population": -1,
+        "latitude": 5.5066,
+        "longitude": 153.7105
+    },
+    {
+        "name": "Moch",
+        "country": "Micronesia",
+        "province": "Chuuk",
+        "population": -1,
+        "latitude": 5.4918,
+        "longitude": 153.54
+    },
+    {
+        "name": "Kuttu",
+        "country": "Micronesia",
+        "province": "Chuuk",
+        "population": -1,
+        "latitude": 5.453,
+        "longitude": 153.4575
+    },
+    {
+        "name": "Ta",
+        "country": "Micronesia",
+        "province": "Chuuk",
+        "population": -1,
+        "latitude": 5.2842,
+        "longitude": 153.648
+    },
+    {
+        "name": "Satowan",
+        "country": "Micronesia",
+        "province": "Chuuk",
+        "population": -1,
+        "latitude": 5.334,
+        "longitude": 153.738
+    },
+    {
+        "name": "Lamotrek",
+        "country": "Micronesia",
+        "province": "Yap",
+        "population": -1,
+        "latitude": 7.491,
+        "longitude": 146.305
+    },
+    {
+        "name": "Elato",
+        "country": "Micronesia",
+        "province": "Yap",
+        "population": -1,
+        "latitude": 7.502,
+        "longitude": 146.166
+    },
+    {
+        "name": "Faraulep",
+        "country": "Micronesia",
+        "province": "Yap",
+        "population": -1,
+        "latitude": 8.588,
+        "longitude": 144.508
+    },
+    {
+        "name": "Ifalik",
+        "country": "Micronesia",
+        "province": "Yap",
+        "population": -1,
+        "latitude": 7.25,
+        "longitude": 144.4445
+    },
+    {
+        "name": "Fais",
+        "country": "Micronesia",
+        "province": "Yap",
+        "population": 215,
+        "latitude": 9.766,
+        "longitude": 140.52
+    },
+    {
+        "name": "Ngulu",
+        "country": "Micronesia",
+        "province": "Yap",
+        "population": -1,
+        "latitude": 8.45,
+        "longitude": 137.484
+    },
+    {
+        "name": "Piig",
+        "country": "Micronesia",
+        "province": "Yap",
+        "population": -1,
+        "latitude": 8.597644740751448,
+        "longitude": 144.50873136520386
+    },
+    {
+        "name": "Madolenihm Municipality Government",
+        "country": "Micronesia",
+        "province": "Pohnpei",
+        "population": -1,
+        "latitude": 6.83492991523641,
+        "longitude": 158.298697471619
+    },
+    {
+        "name": "Tonoas Municipal Building",
+        "country": "Micronesia",
+        "province": "Chuuk",
+        "population": -1,
+        "latitude": 7.37597462239087,
+        "longitude": 151.884334087372
+    },
+    {
+        "name": "frmr Pohn Sanghi Settlement",
+        "country": "Micronesia",
+        "province": "Pohnpei",
+        "population": -1,
+        "latitude": 6.77878749028105,
+        "longitude": 158.019876480103
+    },
+    {
+        "name": "frmr Imwintiati Settlement",
+        "country": "Micronesia",
+        "province": "Pohnpei",
+        "population": -1,
+        "latitude": 6.72564324575861,
+        "longitude": 157.933101654053
+    },
+    {
+        "name": "Namoluk",
+        "country": "Micronesia",
+        "province": "Chuuk",
+        "population": -1,
+        "latitude": 5.915,
+        "longitude": 153.14
+    },
+    {
+        "name": "Houk",
+        "country": "Micronesia",
+        "province": "Chuuk",
+        "population": -1,
+        "latitude": 6.6894042288875,
+        "longitude": 149.29908156395
+    },
+    {
+        "name": "Polowat",
+        "country": "Micronesia",
+        "province": "Chuuk",
+        "population": -1,
+        "latitude": 7.35660929753233,
+        "longitude": 149.199080765247
+    },
+    {
+        "name": "Pulap",
+        "country": "Micronesia",
+        "province": "Chuuk",
+        "population": -1,
+        "latitude": 7.636604923933695,
+        "longitude": 149.42878246307373
+    },
+    {
+        "name": "Tamatam",
+        "country": "Micronesia",
+        "province": "Chuuk",
+        "population": -1,
+        "latitude": 7.538678824602556,
+        "longitude": 149.4142770767212
+    },
+    {
+        "name": "Onoun",
+        "country": "Micronesia",
+        "province": "Chuuk",
+        "population": -1,
+        "latitude": 8.575,
+        "longitude": 149.687
+    },
+    {
+        "name": "Pisaras",
+        "country": "Micronesia",
+        "province": "Chuuk",
+        "population": -1,
+        "latitude": 8.569,
+        "longitude": 150.4195
+    },
+    {
+        "name": "Onou",
+        "country": "Micronesia",
+        "province": "Chuuk",
+        "population": -1,
+        "latitude": 8.799,
+        "longitude": 150.2915
+    },
+    {
+        "name": "Unanu",
+        "country": "Micronesia",
+        "province": "Chuuk",
+        "population": -1,
+        "latitude": 8.75,
+        "longitude": 150.341
+    },
+    {
+        "name": "Makur",
+        "country": "Micronesia",
+        "province": "Chuuk",
+        "population": -1,
+        "latitude": 8.985,
+        "longitude": 150.1275
+    },
+    {
+        "name": "Mokil",
+        "country": "Micronesia",
+        "province": "Pohnpei",
+        "population": -1,
+        "latitude": 6.69281407182722,
+        "longitude": 159.762834906578
+    },
+    {
+        "name": "Wenua",
+        "country": "Micronesia",
+        "province": "Pohnpei",
+        "population": -1,
+        "latitude": 1.08215334924205,
+        "longitude": 154.806311130524
+    },
+    {
+        "name": "Nukuoro",
+        "country": "Micronesia",
+        "province": "Pohnpei",
+        "population": -1,
+        "latitude": 3.83619245209093,
+        "longitude": 154.97142791748
+    },
+    {
+        "name": "Pingelap Inhabitants Refuge WW2",
+        "country": "Micronesia",
+        "province": "Pohnpei",
+        "population": -1,
+        "latitude": 6.22577949151019,
+        "longitude": 160.700347423553
+    },
+    {
+        "name": "Pingelap",
+        "country": "Micronesia",
+        "province": "Pohnpei",
+        "population": -1,
+        "latitude": 6.20588784530477,
+        "longitude": 160.703265666962
+    }
+]

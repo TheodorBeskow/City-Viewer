@@ -1,0 +1,778 @@
+[
+    {
+        "name": "Willemstad",
+        "country": "Curaçao",
+        "province": "Curaçao",
+        "population": 125000,
+        "latitude": 12.12246,
+        "longitude": -68.88641
+    },
+    {
+        "name": "Sint Michiel Liber",
+        "country": "Curaçao",
+        "province": "Curaçao",
+        "population": 5138,
+        "latitude": 12.15,
+        "longitude": -68.983333
+    },
+    {
+        "name": "Dorp Soto",
+        "country": "Curaçao",
+        "province": "Curaçao",
+        "population": 2233,
+        "latitude": 12.27749,
+        "longitude": -69.1125
+    },
+    {
+        "name": "Barber",
+        "country": "Curaçao",
+        "province": "Curaçao",
+        "population": 2424,
+        "latitude": 12.29014,
+        "longitude": -69.07389
+    },
+    {
+        "name": "Sabana Westpunt",
+        "country": "Curaçao",
+        "province": "Curaçao",
+        "population": 783,
+        "latitude": 12.370468221512745,
+        "longitude": -69.1540539264679
+    },
+    {
+        "name": "Dorp Sint Willebrordus",
+        "country": "Curaçao",
+        "province": "Curaçao",
+        "population": 465,
+        "latitude": 12.21537,
+        "longitude": -69.06246
+    },
+    {
+        "name": "Lagún",
+        "country": "Curaçao",
+        "province": "Curaçao",
+        "population": 289,
+        "latitude": 12.322057810157709,
+        "longitude": -69.15043830871582
+    },
+    {
+        "name": "Newport",
+        "country": "Curaçao",
+        "province": "Curaçao",
+        "population": -1,
+        "latitude": 12.05,
+        "longitude": -68.816667
+    },
+    {
+        "name": "Brievengat",
+        "country": "Curaçao",
+        "province": "Curaçao",
+        "population": -1,
+        "latitude": 12.15,
+        "longitude": -68.9
+    },
+    {
+        "name": "Sint Jozefsdal",
+        "country": "Curaçao",
+        "province": "Curaçao",
+        "population": -1,
+        "latitude": 12.283333,
+        "longitude": -69.083333
+    },
+    {
+        "name": "Saliña",
+        "country": "Curaçao",
+        "province": "Curaçao",
+        "population": -1,
+        "latitude": 12.1,
+        "longitude": -68.9
+    },
+    {
+        "name": "Otrabanda",
+        "country": "Curaçao",
+        "province": "Curaçao",
+        "population": -1,
+        "latitude": 12.1089001224728,
+        "longitude": -68.9382648468018
+    },
+    {
+        "name": "Montan’i Rei",
+        "country": "Curaçao",
+        "province": "Curaçao",
+        "population": -1,
+        "latitude": 12.1,
+        "longitude": -68.866667
+    },
+    {
+        "name": "Jan Thiel",
+        "country": "Curaçao",
+        "province": "Curaçao",
+        "population": -1,
+        "latitude": 12.083333,
+        "longitude": -68.866667
+    },
+    {
+        "name": "Fortuna Abou",
+        "country": "Curaçao",
+        "province": "Curaçao",
+        "population": -1,
+        "latitude": 12.166667,
+        "longitude": -68.916667
+    },
+    {
+        "name": "Emmastad",
+        "country": "Curaçao",
+        "province": "Curaçao",
+        "population": -1,
+        "latitude": 12.133333,
+        "longitude": -68.916667
+    },
+    {
+        "name": "Zeelandia",
+        "country": "Curaçao",
+        "province": "Curaçao",
+        "population": -1,
+        "latitude": 12.116667,
+        "longitude": -68.9
+    },
+    {
+        "name": "Weis",
+        "country": "Curaçao",
+        "province": "Curaçao",
+        "population": -1,
+        "latitude": 12.15,
+        "longitude": -68.933333
+    },
+    {
+        "name": "Vredeberg",
+        "country": "Curaçao",
+        "province": "Curaçao",
+        "population": -1,
+        "latitude": 12.091667,
+        "longitude": -68.85
+    },
+    {
+        "name": "Suffisant Dorp",
+        "country": "Curaçao",
+        "province": "Curaçao",
+        "population": -1,
+        "latitude": 12.15,
+        "longitude": -68.916667
+    },
+    {
+        "name": "Ser’i Bientu",
+        "country": "Curaçao",
+        "province": "Curaçao",
+        "population": -1,
+        "latitude": 12.316667,
+        "longitude": -69.1
+    },
+    {
+        "name": "Santa Rosa",
+        "country": "Curaçao",
+        "province": "Curaçao",
+        "population": -1,
+        "latitude": 12.116667,
+        "longitude": -68.883333
+    },
+    {
+        "name": "Rust en Vrede",
+        "country": "Curaçao",
+        "province": "Curaçao",
+        "population": -1,
+        "latitude": 12.116667,
+        "longitude": -68.9
+    },
+    {
+        "name": "Roosendaal",
+        "country": "Curaçao",
+        "province": "Curaçao",
+        "population": -1,
+        "latitude": 12.133333,
+        "longitude": -68.95
+    },
+    {
+        "name": "Parera",
+        "country": "Curaçao",
+        "province": "Curaçao",
+        "population": -1,
+        "latitude": 12.1,
+        "longitude": -68.916667
+    },
+    {
+        "name": "Kura Juri",
+        "country": "Curaçao",
+        "province": "Curaçao",
+        "population": -1,
+        "latitude": 12.35,
+        "longitude": -69.15
+    },
+    {
+        "name": "Kas Chikitu",
+        "country": "Curaçao",
+        "province": "Curaçao",
+        "population": -1,
+        "latitude": 12.116667,
+        "longitude": -68.966667
+    },
+    {
+        "name": "Julianadorp",
+        "country": "Curaçao",
+        "province": "Curaçao",
+        "population": -1,
+        "latitude": 12.15,
+        "longitude": -68.95
+    },
+    {
+        "name": "Dorp Sint Michiel",
+        "country": "Curaçao",
+        "province": "Curaçao",
+        "population": -1,
+        "latitude": 12.133333,
+        "longitude": -68.983333
+    },
+    {
+        "name": "Dominguito",
+        "country": "Curaçao",
+        "province": "Curaçao",
+        "population": -1,
+        "latitude": 12.1,
+        "longitude": -68.9
+    },
+    {
+        "name": "Piedras Negras",
+        "country": "Curaçao",
+        "province": "Curaçao",
+        "population": -1,
+        "latitude": 12.1444444,
+        "longitude": -68.9383333
+    },
+    {
+        "name": "Weitje",
+        "country": "Curaçao",
+        "province": "Curaçao",
+        "population": -1,
+        "latitude": 12.016667,
+        "longitude": -68.983333
+    },
+    {
+        "name": "Suriname Dorp",
+        "country": "Curaçao",
+        "province": "Curaçao",
+        "population": -1,
+        "latitude": 12.15,
+        "longitude": -68.933333
+    },
+    {
+        "name": "Su Casa",
+        "country": "Curaçao",
+        "province": "Curaçao",
+        "population": -1,
+        "latitude": 12.116667,
+        "longitude": -68.966667
+    },
+    {
+        "name": "Slangenbaai",
+        "country": "Curaçao",
+        "province": "Curaçao",
+        "population": -1,
+        "latitude": 12.133333,
+        "longitude": -68.983333
+    },
+    {
+        "name": "Seritu",
+        "country": "Curaçao",
+        "province": "Curaçao",
+        "population": -1,
+        "latitude": 12.116667,
+        "longitude": -68.916667
+    },
+    {
+        "name": "Scharloo",
+        "country": "Curaçao",
+        "province": "Curaçao",
+        "population": -1,
+        "latitude": 12.1,
+        "longitude": -68.916667
+    },
+    {
+        "name": "Santa Krus",
+        "country": "Curaçao",
+        "province": "Curaçao",
+        "population": -1,
+        "latitude": 12.30155,
+        "longitude": -69.12997
+    },
+    {
+        "name": "San Pedro",
+        "country": "Curaçao",
+        "province": "Curaçao",
+        "population": -1,
+        "latitude": 12.383333,
+        "longitude": -69.15
+    },
+    {
+        "name": "San Pedro",
+        "country": "Curaçao",
+        "province": "Curaçao",
+        "population": -1,
+        "latitude": 12.25,
+        "longitude": -69.033333
+    },
+    {
+        "name": "Saliña Abou",
+        "country": "Curaçao",
+        "province": "Curaçao",
+        "population": -1,
+        "latitude": 12.1,
+        "longitude": -68.9
+    },
+    {
+        "name": "Rancho",
+        "country": "Curaçao",
+        "province": "Curaçao",
+        "population": -1,
+        "latitude": 12.15,
+        "longitude": -68.916667
+    },
+    {
+        "name": "Kunuku Abou",
+        "country": "Curaçao",
+        "province": "Curaçao",
+        "population": -1,
+        "latitude": 12.2,
+        "longitude": -69.016667
+    },
+    {
+        "name": "Krakeel",
+        "country": "Curaçao",
+        "province": "Curaçao",
+        "population": -1,
+        "latitude": 12.233333,
+        "longitude": -69.033333
+    },
+    {
+        "name": "Kolontjie",
+        "country": "Curaçao",
+        "province": "Curaçao",
+        "population": -1,
+        "latitude": 12.116667,
+        "longitude": -68.9
+    },
+    {
+        "name": "Janwé",
+        "country": "Curaçao",
+        "province": "Curaçao",
+        "population": -1,
+        "latitude": 12.1,
+        "longitude": -68.9
+    },
+    {
+        "name": "Jan Doret",
+        "country": "Curaçao",
+        "province": "Curaçao",
+        "population": -1,
+        "latitude": 12.15,
+        "longitude": -68.966667
+    },
+    {
+        "name": "Groot Kwartier",
+        "country": "Curaçao",
+        "province": "Curaçao",
+        "population": -1,
+        "latitude": 12.133333,
+        "longitude": -68.916667
+    },
+    {
+        "name": "Gato",
+        "country": "Curaçao",
+        "province": "Curaçao",
+        "population": -1,
+        "latitude": 12.16571,
+        "longitude": -68.96496
+    },
+    {
+        "name": "Dorp Westpunt",
+        "country": "Curaçao",
+        "province": "Curaçao",
+        "population": -1,
+        "latitude": 12.366667,
+        "longitude": -69.133333
+    },
+    {
+        "name": "De Hoop",
+        "country": "Curaçao",
+        "province": "Curaçao",
+        "population": -1,
+        "latitude": 12.133333,
+        "longitude": -68.95
+    },
+    {
+        "name": "Buena Vista",
+        "country": "Curaçao",
+        "province": "Curaçao",
+        "population": -1,
+        "latitude": 12.133333,
+        "longitude": -68.95
+    },
+    {
+        "name": "Bou’i Seru",
+        "country": "Curaçao",
+        "province": "Curaçao",
+        "population": -1,
+        "latitude": 12.3,
+        "longitude": -69.1
+    },
+    {
+        "name": "Bonavista",
+        "country": "Curaçao",
+        "province": "Curaçao",
+        "population": -1,
+        "latitude": 12.166667,
+        "longitude": -68.983333
+    },
+    {
+        "name": "Boka Samí",
+        "country": "Curaçao",
+        "province": "Curaçao",
+        "population": -1,
+        "latitude": 12.133333,
+        "longitude": -68.983333
+    },
+    {
+        "name": "Blomonte",
+        "country": "Curaçao",
+        "province": "Curaçao",
+        "population": -1,
+        "latitude": 12.15,
+        "longitude": -68.933333
+    },
+    {
+        "name": "Boca St. Michiel",
+        "country": "Curaçao",
+        "province": "Curaçao",
+        "population": -1,
+        "latitude": 12.14335,
+        "longitude": -68.99487
+    },
+    {
+        "name": "Santa Catharina",
+        "country": "Curaçao",
+        "province": "Curaçao",
+        "population": -1,
+        "latitude": 12.141879042165447,
+        "longitude": -68.83638381958008
+    },
+    {
+        "name": "Coral Estate Rif St. Marie",
+        "country": "Curaçao",
+        "province": "Curaçao",
+        "population": -1,
+        "latitude": 12.209020047683024,
+        "longitude": -69.07327651977539
+    },
+    {
+        "name": "Grote Berg",
+        "country": "Curaçao",
+        "province": "Curaçao",
+        "population": -1,
+        "latitude": 12.19239,
+        "longitude": -68.99826
+    },
+    {
+        "name": "Daniel",
+        "country": "Curaçao",
+        "province": "Curaçao",
+        "population": -1,
+        "latitude": 12.20904,
+        "longitude": -69.02066
+    },
+    {
+        "name": "Kashutuin",
+        "country": "Curaçao",
+        "province": "Curaçao",
+        "population": -1,
+        "latitude": 12.20617,
+        "longitude": -69.02063
+    },
+    {
+        "name": "Colon",
+        "country": "Curaçao",
+        "province": "Curaçao",
+        "population": -1,
+        "latitude": 12.113889,
+        "longitude": -68.940278
+    },
+    {
+        "name": "Habai",
+        "country": "Curaçao",
+        "province": "Curaçao",
+        "population": -1,
+        "latitude": 12.121110350573964,
+        "longitude": -68.95225524902344
+    },
+    {
+        "name": "Welgelegen",
+        "country": "Curaçao",
+        "province": "Curaçao",
+        "population": -1,
+        "latitude": 12.12,
+        "longitude": -68.946667
+    },
+    {
+        "name": "Domi",
+        "country": "Curaçao",
+        "province": "Curaçao",
+        "population": -1,
+        "latitude": 12.1175,
+        "longitude": -68.942778
+    },
+    {
+        "name": "Mundo",
+        "country": "Curaçao",
+        "province": "Curaçao",
+        "population": -1,
+        "latitude": 12.116111,
+        "longitude": -68.947222
+    },
+    {
+        "name": "Nobo",
+        "country": "Curaçao",
+        "province": "Curaçao",
+        "population": -1,
+        "latitude": 12.114444,
+        "longitude": -68.946667
+    },
+    {
+        "name": "Kortijn",
+        "country": "Curaçao",
+        "province": "Curaçao",
+        "population": -1,
+        "latitude": 12.115278,
+        "longitude": -68.9375
+    },
+    {
+        "name": "Motet",
+        "country": "Curaçao",
+        "province": "Curaçao",
+        "population": -1,
+        "latitude": 12.116667,
+        "longitude": -68.933333
+    },
+    {
+        "name": "Sint Jago",
+        "country": "Curaçao",
+        "province": "Curaçao",
+        "population": -1,
+        "latitude": 12.109722,
+        "longitude": -68.922222
+    },
+    {
+        "name": "Ararat",
+        "country": "Curaçao",
+        "province": "Curaçao",
+        "population": -1,
+        "latitude": 12.110556,
+        "longitude": -68.919444
+    },
+    {
+        "name": "Cornet",
+        "country": "Curaçao",
+        "province": "Curaçao",
+        "population": -1,
+        "latitude": 12.105833,
+        "longitude": -68.92
+    },
+    {
+        "name": "Berg Altena",
+        "country": "Curaçao",
+        "province": "Curaçao",
+        "population": -1,
+        "latitude": 12.107778,
+        "longitude": -68.9175
+    },
+    {
+        "name": "Cher Asile",
+        "country": "Curaçao",
+        "province": "Curaçao",
+        "population": -1,
+        "latitude": 12.106667,
+        "longitude": -68.915278
+    },
+    {
+        "name": "Nieuw Nederland",
+        "country": "Curaçao",
+        "province": "Curaçao",
+        "population": -1,
+        "latitude": 12.103889,
+        "longitude": -68.916667
+    },
+    {
+        "name": "Paradijs",
+        "country": "Curaçao",
+        "province": "Curaçao",
+        "population": -1,
+        "latitude": 12.108889,
+        "longitude": -68.913333
+    },
+    {
+        "name": "Steenrijk",
+        "country": "Curaçao",
+        "province": "Curaçao",
+        "population": -1,
+        "latitude": 12.100556,
+        "longitude": -68.910556
+    },
+    {
+        "name": "Mari Pompun",
+        "country": "Curaçao",
+        "province": "Curaçao",
+        "population": -1,
+        "latitude": 12.1,
+        "longitude": -68.908333
+    },
+    {
+        "name": "Wishi",
+        "country": "Curaçao",
+        "province": "Curaçao",
+        "population": -1,
+        "latitude": 12.126480995625757,
+        "longitude": -68.96064519882202
+    },
+    {
+        "name": "Vianen",
+        "country": "Curaçao",
+        "province": "Curaçao",
+        "population": -1,
+        "latitude": 12.1,
+        "longitude": -68.916667
+    },
+    {
+        "name": "Valentijn",
+        "country": "Curaçao",
+        "province": "Curaçao",
+        "population": -1,
+        "latitude": 12.116667,
+        "longitude": -68.933333
+    },
+    {
+        "name": "Santa Maria",
+        "country": "Curaçao",
+        "province": "Curaçao",
+        "population": -1,
+        "latitude": 12.15,
+        "longitude": -68.933333
+    },
+    {
+        "name": "Punda",
+        "country": "Curaçao",
+        "province": "Curaçao",
+        "population": -1,
+        "latitude": 12.10587894893141,
+        "longitude": -68.92925262451172
+    },
+    {
+        "name": "Pietermaai",
+        "country": "Curaçao",
+        "province": "Curaçao",
+        "population": -1,
+        "latitude": 12.1,
+        "longitude": -68.916667
+    },
+    {
+        "name": "Mundo Nobo",
+        "country": "Curaçao",
+        "province": "Curaçao",
+        "population": -1,
+        "latitude": 12.110914219180126,
+        "longitude": -68.95319938659668
+    },
+    {
+        "name": "Morgenster",
+        "country": "Curaçao",
+        "province": "Curaçao",
+        "population": -1,
+        "latitude": 12.083333,
+        "longitude": -68.833333
+    },
+    {
+        "name": "Marchena",
+        "country": "Curaçao",
+        "province": "Curaçao",
+        "population": -1,
+        "latitude": 12.116667,
+        "longitude": -68.933333
+    },
+    {
+        "name": "Libie",
+        "country": "Curaçao",
+        "province": "Curaçao",
+        "population": -1,
+        "latitude": 12.116667,
+        "longitude": -68.866667
+    },
+    {
+        "name": "Juan Domingo",
+        "country": "Curaçao",
+        "province": "Curaçao",
+        "population": -1,
+        "latitude": 12.166667,
+        "longitude": -68.95
+    },
+    {
+        "name": "Fontein",
+        "country": "Curaçao",
+        "province": "Curaçao",
+        "population": -1,
+        "latitude": 12.25,
+        "longitude": -69.083333
+    },
+    {
+        "name": "Fleur de Marie",
+        "country": "Curaçao",
+        "province": "Curaçao",
+        "population": -1,
+        "latitude": 12.1,
+        "longitude": -68.916667
+    },
+    {
+        "name": "Bullenbaai",
+        "country": "Curaçao",
+        "province": "Curaçao",
+        "population": -1,
+        "latitude": 12.18345,
+        "longitude": -69.01547
+    },
+    {
+        "name": "Bona Vista",
+        "country": "Curaçao",
+        "province": "Curaçao",
+        "population": -1,
+        "latitude": 12.116667,
+        "longitude": -68.85
+    },
+    {
+        "name": "Australie",
+        "country": "Curaçao",
+        "province": "Curaçao",
+        "population": -1,
+        "latitude": 12.116667,
+        "longitude": -68.95
+    },
+    {
+        "name": "Piscadera",
+        "country": "Curaçao",
+        "province": "Curaçao",
+        "population": -1,
+        "latitude": 12.119977466323176,
+        "longitude": -68.96534442901611
+    },
+    {
+        "name": "Bandabou",
+        "country": "Curaçao",
+        "province": "Curaçao",
+        "population": -1,
+        "latitude": 12.315779,
+        "longitude": -69.120443
+    }
+]

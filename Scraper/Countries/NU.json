@@ -1,0 +1,394 @@
+[
+    {
+        "name": "Alofi",
+        "country": "Niue",
+        "province": "Niue",
+        "population": 624,
+        "latitude": -19.05294,
+        "longitude": -169.91957
+    },
+    {
+        "name": "Tuapa Village",
+        "country": "Niue",
+        "province": "Niue",
+        "population": 129,
+        "latitude": -18.991485,
+        "longitude": -169.904221
+    },
+    {
+        "name": "Mutalau",
+        "country": "Niue",
+        "province": "Niue",
+        "population": 133,
+        "latitude": -18.962258,
+        "longitude": -169.828265
+    },
+    {
+        "name": "Hakupu",
+        "country": "Niue",
+        "province": "Niue",
+        "population": 221,
+        "latitude": -19.12753,
+        "longitude": -169.84623
+    },
+    {
+        "name": "Avatele",
+        "country": "Niue",
+        "province": "Niue",
+        "population": 150,
+        "latitude": -19.1,
+        "longitude": -169.9166667
+    },
+    {
+        "name": "Makefu Village",
+        "country": "Niue",
+        "province": "Niue",
+        "population": 87,
+        "latitude": -19.001795,
+        "longitude": -169.913834
+    },
+    {
+        "name": "Lakepa",
+        "country": "Niue",
+        "province": "Niue",
+        "population": 88,
+        "latitude": -19.0093,
+        "longitude": -169.80459
+    },
+    {
+        "name": "Liku Village",
+        "country": "Niue",
+        "province": "Niue",
+        "population": 71,
+        "latitude": -19.054169,
+        "longitude": -169.788566
+    },
+    {
+        "name": "Hikutivake",
+        "country": "Niue",
+        "province": "Niue",
+        "population": 63,
+        "latitude": -18.96478,
+        "longitude": -169.88339
+    },
+    {
+        "name": "Fatiau",
+        "country": "Niue",
+        "province": "Niue",
+        "population": 60,
+        "latitude": -19.1166667,
+        "longitude": -169.9
+    },
+    {
+        "name": "Toi",
+        "country": "Niue",
+        "province": "Niue",
+        "population": -1,
+        "latitude": -18.97399,
+        "longitude": -169.85327
+    },
+    {
+        "name": "Mamakula",
+        "country": "Niue",
+        "province": "Niue",
+        "population": 14,
+        "latitude": -18.95,
+        "longitude": -169.9
+    },
+    {
+        "name": "Mutalau",
+        "country": "Niue",
+        "province": "Niue",
+        "population": -1,
+        "latitude": -18.96206,
+        "longitude": -169.82954
+    },
+    {
+        "name": "Liku",
+        "country": "Niue",
+        "province": "Niue",
+        "population": -1,
+        "latitude": -19.05388,
+        "longitude": -169.78971
+    },
+    {
+        "name": "Avatele",
+        "country": "Niue",
+        "province": "Niue",
+        "population": -1,
+        "latitude": -19.12449,
+        "longitude": -169.91138
+    },
+    {
+        "name": "Makefu Village",
+        "country": "Niue",
+        "province": "Niue",
+        "population": -1,
+        "latitude": -19.00216,
+        "longitude": -169.91429
+    },
+    {
+        "name": "Tuapa Village",
+        "country": "Niue",
+        "province": "Niue",
+        "population": -1,
+        "latitude": -18.99266,
+        "longitude": -169.90391
+    },
+    {
+        "name": "Namukulu Village",
+        "country": "Niue",
+        "province": "Niue",
+        "population": -1,
+        "latitude": -18.98361,
+        "longitude": -169.89803
+    },
+    {
+        "name": "Vaiea",
+        "country": "Niue",
+        "province": "Niue",
+        "population": -1,
+        "latitude": -19.12936,
+        "longitude": -169.88382
+    },
+    {
+        "name": "Tamakautoga",
+        "country": "Niue",
+        "province": "Niue",
+        "population": -1,
+        "latitude": -19.09923,
+        "longitude": -169.91876
+    },
+    {
+        "name": "Vili",
+        "country": "Niue",
+        "province": "Niue",
+        "population": -1,
+        "latitude": -19.06703,
+        "longitude": -169.78799
+    },
+    {
+        "name": "Vahavaha",
+        "country": "Niue",
+        "province": "Niue",
+        "population": -1,
+        "latitude": -19.10057,
+        "longitude": -169.81499
+    },
+    {
+        "name": "Taoli",
+        "country": "Niue",
+        "province": "Niue",
+        "population": -1,
+        "latitude": -19.1,
+        "longitude": -169.8833333
+    },
+    {
+        "name": "Pikiona",
+        "country": "Niue",
+        "province": "Niue",
+        "population": -1,
+        "latitude": -19.0663,
+        "longitude": -169.82404
+    },
+    {
+        "name": "Nukufetau",
+        "country": "Niue",
+        "province": "Niue",
+        "population": -1,
+        "latitude": -19.07891,
+        "longitude": -169.84923
+    },
+    {
+        "name": "Motu",
+        "country": "Niue",
+        "province": "Niue",
+        "population": -1,
+        "latitude": -19.02962,
+        "longitude": -169.80143
+    },
+    {
+        "name": "Matavao",
+        "country": "Niue",
+        "province": "Niue",
+        "population": -1,
+        "latitude": -19.06918,
+        "longitude": -169.87996
+    },
+    {
+        "name": "Matalave",
+        "country": "Niue",
+        "province": "Niue",
+        "population": -1,
+        "latitude": -18.95,
+        "longitude": -169.9
+    },
+    {
+        "name": "Mataafi",
+        "country": "Niue",
+        "province": "Niue",
+        "population": -1,
+        "latitude": -19.11439,
+        "longitude": -169.84765
+    },
+    {
+        "name": "Makaapiapi",
+        "country": "Niue",
+        "province": "Niue",
+        "population": -1,
+        "latitude": -19.1176,
+        "longitude": -169.90253
+    },
+    {
+        "name": "Liha",
+        "country": "Niue",
+        "province": "Niue",
+        "population": -1,
+        "latitude": -18.95,
+        "longitude": -169.8
+    },
+    {
+        "name": "Fulalatea",
+        "country": "Niue",
+        "province": "Niue",
+        "population": -1,
+        "latitude": -19.10381,
+        "longitude": -169.89532
+    },
+    {
+        "name": "Fuata",
+        "country": "Niue",
+        "province": "Niue",
+        "population": -1,
+        "latitude": -19.0609,
+        "longitude": -169.89404
+    },
+    {
+        "name": "Fagalilika",
+        "country": "Niue",
+        "province": "Niue",
+        "population": -1,
+        "latitude": -19.06792,
+        "longitude": -169.91065
+    },
+    {
+        "name": "Ana",
+        "country": "Niue",
+        "province": "Niue",
+        "population": -1,
+        "latitude": -19.06792,
+        "longitude": -169.80499
+    },
+    {
+        "name": "Motutapu",
+        "country": "Niue",
+        "province": "Niue",
+        "population": -1,
+        "latitude": -19.02967,
+        "longitude": -169.88683
+    },
+    {
+        "name": "Lalotuake",
+        "country": "Niue",
+        "province": "Niue",
+        "population": -1,
+        "latitude": -19.01206,
+        "longitude": -169.91335
+    },
+    {
+        "name": "Tahileleki",
+        "country": "Niue",
+        "province": "Niue",
+        "population": -1,
+        "latitude": -18.98747,
+        "longitude": -169.89103
+    },
+    {
+        "name": "Patuoko",
+        "country": "Niue",
+        "province": "Niue",
+        "population": -1,
+        "latitude": -18.9714,
+        "longitude": -169.81293
+    },
+    {
+        "name": "Makanga",
+        "country": "Niue",
+        "province": "Niue",
+        "population": -1,
+        "latitude": -18.99514,
+        "longitude": -169.81301
+    },
+    {
+        "name": "Takaoga",
+        "country": "Niue",
+        "province": "Niue",
+        "population": -1,
+        "latitude": -19.01555,
+        "longitude": -169.81009
+    },
+    {
+        "name": "Falehavaiki",
+        "country": "Niue",
+        "province": "Niue",
+        "population": -1,
+        "latitude": -19.10365,
+        "longitude": -169.86897
+    },
+    {
+        "name": "Toa",
+        "country": "Niue",
+        "province": "Niue",
+        "population": -1,
+        "latitude": -19.04403,
+        "longitude": -169.89957
+    },
+    {
+        "name": "Talamaitoga",
+        "country": "Niue",
+        "province": "Niue",
+        "population": -1,
+        "latitude": -19.12649,
+        "longitude": -169.895928
+    },
+    {
+        "name": "Fukau",
+        "country": "Niue",
+        "province": "Niue",
+        "population": -1,
+        "latitude": -18.970565,
+        "longitude": -169.821689
+    },
+    {
+        "name": "Fualahi",
+        "country": "Niue",
+        "province": "Niue",
+        "population": -1,
+        "latitude": -19.075063,
+        "longitude": -169.928229
+    },
+    {
+        "name": "Huihui",
+        "country": "Niue",
+        "province": "Niue",
+        "population": -1,
+        "latitude": -19.07242,
+        "longitude": -169.9315
+    },
+    {
+        "name": "Taloa Heights",
+        "country": "Niue",
+        "province": "Niue",
+        "population": -1,
+        "latitude": -19.059722,
+        "longitude": -169.922899
+    },
+    {
+        "name": "Stone Villa",
+        "country": "Niue",
+        "province": "Niue",
+        "population": -1,
+        "latitude": -19.055513,
+        "longitude": -169.920309
+    }
+]

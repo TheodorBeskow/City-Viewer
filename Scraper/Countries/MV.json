@@ -1,0 +1,906 @@
+[
+    {
+        "name": "Malé",
+        "country": "Maldives",
+        "province": "Kaafu Atoll",
+        "population": 103693,
+        "latitude": 4.17521,
+        "longitude": 73.50916
+    },
+    {
+        "name": "Fuvahmulah",
+        "country": "Maldives",
+        "province": "Gnyaviyani Atoll",
+        "population": 11140,
+        "latitude": -0.29877527251917174,
+        "longitude": 73.42403411865234
+    },
+    {
+        "name": "Thinadhoo",
+        "country": "Maldives",
+        "province": "Gaafu Dhaalu Atoll",
+        "population": 6376,
+        "latitude": 0.5306,
+        "longitude": 72.99969
+    },
+    {
+        "name": "Kulhudhuffushi",
+        "country": "Maldives",
+        "province": "Haa Dhaalu Atholhu",
+        "population": 9500,
+        "latitude": 6.622065626387515,
+        "longitude": 73.06998252868652
+    },
+    {
+        "name": "Naifaru",
+        "country": "Maldives",
+        "province": "Faadhippolhu Atoll",
+        "population": 5044,
+        "latitude": 5.444376,
+        "longitude": 73.365709
+    },
+    {
+        "name": "Hithadhoo",
+        "country": "Maldives",
+        "province": "Seenu",
+        "population": 9927,
+        "latitude": -0.6,
+        "longitude": 73.083333
+    },
+    {
+        "name": "Dhihdhoo",
+        "country": "Maldives",
+        "province": "Haa Alifu Atholhu",
+        "population": 3039,
+        "latitude": 6.887441,
+        "longitude": 73.114022
+    },
+    {
+        "name": "Hulhumale",
+        "country": "Maldives",
+        "province": "Kaafu Atoll",
+        "population": 5000,
+        "latitude": 4.211690389845837,
+        "longitude": 73.54007720947266
+    },
+    {
+        "name": "Viligili",
+        "country": "Maldives",
+        "province": "Gaafu Alif Atoll",
+        "population": 2925,
+        "latitude": 0.7590644034960492,
+        "longitude": 73.4329605102539
+    },
+    {
+        "name": "Maafushi",
+        "country": "Maldives",
+        "province": "Kaafu Atoll",
+        "population": 3000,
+        "latitude": 3.94231,
+        "longitude": 73.4907
+    },
+    {
+        "name": "Mahibadhoo",
+        "country": "Maldives",
+        "province": "Southern Ari Atoll",
+        "population": 2156,
+        "latitude": 3.757127,
+        "longitude": 72.968933
+    },
+    {
+        "name": "Eydhafushi",
+        "country": "Maldives",
+        "province": "Baa Atholhu",
+        "population": 2808,
+        "latitude": 5.103268,
+        "longitude": 73.070782
+    },
+    {
+        "name": "Kudahuvadhoo",
+        "country": "Maldives",
+        "province": "Dhaalu Atholhu",
+        "population": 1562,
+        "latitude": 2.670754,
+        "longitude": 72.894373
+    },
+    {
+        "name": "Muli",
+        "country": "Maldives",
+        "province": "Meemu Atholhu",
+        "population": 1008,
+        "latitude": 2.921667,
+        "longitude": 73.581111
+    },
+    {
+        "name": "Manadhoo",
+        "country": "Maldives",
+        "province": "Noonu Atoll",
+        "population": 1580,
+        "latitude": 5.766874,
+        "longitude": 73.413603
+    },
+    {
+        "name": "Un’goofaaru",
+        "country": "Maldives",
+        "province": "Raa Atoll",
+        "population": 1575,
+        "latitude": 5.66812,
+        "longitude": 73.030166
+    },
+    {
+        "name": "Funadhoo",
+        "country": "Maldives",
+        "province": "Shaviyani Atholhu",
+        "population": 2900,
+        "latitude": 6.150908,
+        "longitude": 73.290131
+    },
+    {
+        "name": "Veymandoo",
+        "country": "Maldives",
+        "province": "Thaa Atholhu",
+        "population": 1100,
+        "latitude": 2.18772,
+        "longitude": 73.09556
+    },
+    {
+        "name": "Fonadhoo",
+        "country": "Maldives",
+        "province": "Laamu",
+        "population": 1773,
+        "latitude": 1.8324302292615,
+        "longitude": 73.5025691986084
+    },
+    {
+        "name": "Gan",
+        "country": "Maldives",
+        "province": "Laamu",
+        "population": -1,
+        "latitude": 1.923222,
+        "longitude": 73.54468
+    },
+    {
+        "name": "Hithadhoo",
+        "country": "Maldives",
+        "province": "Laamu",
+        "population": 683,
+        "latitude": 1.79665678016221,
+        "longitude": 73.3882427215576
+    },
+    {
+        "name": "Felidhoo",
+        "country": "Maldives",
+        "province": "Vaavu Atholhu",
+        "population": 541,
+        "latitude": 3.471818,
+        "longitude": 73.546989
+    },
+    {
+        "name": "Hanimaadhoo",
+        "country": "Maldives",
+        "province": "Haa Dhaalu Atholhu",
+        "population": -1,
+        "latitude": 6.76485207445699,
+        "longitude": 73.1756401062012
+    },
+    {
+        "name": "Dharavandhoo",
+        "country": "Maldives",
+        "province": "Baa Atholhu",
+        "population": -1,
+        "latitude": 5.15825,
+        "longitude": 73.13256
+    },
+    {
+        "name": "Gadhdhoo",
+        "country": "Maldives",
+        "province": "Gaafu Dhaalu Atoll",
+        "population": -1,
+        "latitude": 0.29015,
+        "longitude": 73.45655
+    },
+    {
+        "name": "Vaadhoo",
+        "country": "Maldives",
+        "province": "Gaafu Dhaalu Atoll",
+        "population": 1471,
+        "latitude": 0.22668,
+        "longitude": 73.27262
+    },
+    {
+        "name": "Meerufenfushi",
+        "country": "Maldives",
+        "province": "Maldives",
+        "population": -1,
+        "latitude": 4.453554572656298,
+        "longitude": 73.71688842773438
+    },
+    {
+        "name": "Kuramathi",
+        "country": "Maldives",
+        "province": "Maldives",
+        "population": 500,
+        "latitude": 4.25885395099877,
+        "longitude": 72.9828643798828
+    },
+    {
+        "name": "Magoodhoo",
+        "country": "Maldives",
+        "province": "Faafu Atholhu",
+        "population": 453,
+        "latitude": 3.07922,
+        "longitude": 72.96488
+    },
+    {
+        "name": "Nolhivaranfaru",
+        "country": "Maldives",
+        "province": "Maldives",
+        "population": 448,
+        "latitude": 6.701775451742742,
+        "longitude": 73.11847686767578
+    },
+    {
+        "name": "Gan",
+        "country": "Maldives",
+        "province": "Seenu",
+        "population": -1,
+        "latitude": -0.7,
+        "longitude": 73.15
+    },
+    {
+        "name": "Hulhudhoo",
+        "country": "Maldives",
+        "province": "Seenu",
+        "population": -1,
+        "latitude": -0.5927790746389394,
+        "longitude": 73.22786808013916
+    },
+    {
+        "name": "Maavah",
+        "country": "Maldives",
+        "province": "Laamu",
+        "population": -1,
+        "latitude": 1.8854027850997,
+        "longitude": 73.2439613342285
+    },
+    {
+        "name": "Dhangethi",
+        "country": "Maldives",
+        "province": "Maldives",
+        "population": -1,
+        "latitude": 3.60765,
+        "longitude": 72.9554
+    },
+    {
+        "name": "Ukulhas",
+        "country": "Maldives",
+        "province": "Maldives",
+        "population": -1,
+        "latitude": 4.21507,
+        "longitude": 72.86455
+    },
+    {
+        "name": "Himandhoo",
+        "country": "Maldives",
+        "province": "Maldives",
+        "population": -1,
+        "latitude": 3.92086,
+        "longitude": 72.74415
+    },
+    {
+        "name": "Vaikaradhoo",
+        "country": "Maldives",
+        "province": "Maldives",
+        "population": -1,
+        "latitude": 6.55053,
+        "longitude": 72.95351
+    },
+    {
+        "name": "Hoarafushi",
+        "country": "Maldives",
+        "province": "Haa Alifu Atholhu",
+        "population": -1,
+        "latitude": 6.98249,
+        "longitude": 72.89585
+    },
+    {
+        "name": "Thulusdhoo",
+        "country": "Maldives",
+        "province": "Maldives",
+        "population": -1,
+        "latitude": 4.37421,
+        "longitude": 73.65269
+    },
+    {
+        "name": "Thoddoo",
+        "country": "Maldives",
+        "province": "Maldives",
+        "population": -1,
+        "latitude": 4.43811,
+        "longitude": 72.95969
+    },
+    {
+        "name": "Himmafushi",
+        "country": "Maldives",
+        "province": "Maldives",
+        "population": -1,
+        "latitude": 4.30967,
+        "longitude": 73.57079
+    },
+    {
+        "name": "Feeali",
+        "country": "Maldives",
+        "province": "Faafu Atholhu",
+        "population": -1,
+        "latitude": 3.26949,
+        "longitude": 73.00295
+    },
+    {
+        "name": "Dharanboodhoo",
+        "country": "Maldives",
+        "province": "Faafu Atholhu",
+        "population": -1,
+        "latitude": 3.0615,
+        "longitude": 72.92544
+    },
+    {
+        "name": "Gaadhiffushi",
+        "country": "Maldives",
+        "province": "Maldives",
+        "population": -1,
+        "latitude": 2.25205,
+        "longitude": 73.21293
+    },
+    {
+        "name": "Nilandhoo",
+        "country": "Maldives",
+        "province": "Faafu Atholhu",
+        "population": -1,
+        "latitude": 3.056667,
+        "longitude": 72.89
+    },
+    {
+        "name": "Guraidhoo",
+        "country": "Maldives",
+        "province": "Maldives",
+        "population": 1800,
+        "latitude": 2.3247298114118817,
+        "longitude": 73.31846237182617
+    },
+    {
+        "name": "Madifushi",
+        "country": "Maldives",
+        "province": "Maldives",
+        "population": 1110,
+        "latitude": 2.355817484951378,
+        "longitude": 73.35472583770752
+    },
+    {
+        "name": "Vilufushi",
+        "country": "Maldives",
+        "province": "Maldives",
+        "population": 2077,
+        "latitude": 2.5030562766946773,
+        "longitude": 73.30859184265137
+    },
+    {
+        "name": "Malé Atoll",
+        "country": "Maldives",
+        "province": "Kaafu Atoll",
+        "population": -1,
+        "latitude": 4.416665189035006,
+        "longitude": 73.50013375282288
+    },
+    {
+        "name": "Meedhoo",
+        "country": "Maldives",
+        "province": "Seenu",
+        "population": 1726,
+        "latitude": -0.583333,
+        "longitude": 73.233333
+    },
+    {
+        "name": "Diyamigili",
+        "country": "Maldives",
+        "province": "Maldives",
+        "population": 763,
+        "latitude": 2.340466692313098,
+        "longitude": 73.33880424499512
+    },
+    {
+        "name": "Thulhaadhoo",
+        "country": "Maldives",
+        "province": "Maldives",
+        "population": -1,
+        "latitude": 5.0223758760311,
+        "longitude": 72.8397846221924
+    },
+    {
+        "name": "Hithaadhoo",
+        "country": "Maldives",
+        "province": "Maldives",
+        "population": -1,
+        "latitude": 5.00604495229116,
+        "longitude": 72.9230403900146
+    },
+    {
+        "name": "Maalhos",
+        "country": "Maldives",
+        "province": "Maldives",
+        "population": -1,
+        "latitude": 5.13437268891521,
+        "longitude": 73.1081771850586
+    },
+    {
+        "name": "Dhonfanu",
+        "country": "Maldives",
+        "province": "Maldives",
+        "population": -1,
+        "latitude": 5.18788485805061,
+        "longitude": 73.123197555542
+    },
+    {
+        "name": "Kihaadhoo",
+        "country": "Maldives",
+        "province": "Maldives",
+        "population": -1,
+        "latitude": 5.21498114572397,
+        "longitude": 73.125171661377
+    },
+    {
+        "name": "Kamadhoo",
+        "country": "Maldives",
+        "province": "Maldives",
+        "population": -1,
+        "latitude": 5.28105014342734,
+        "longitude": 73.1371021270752
+    },
+    {
+        "name": "Kudarikilu",
+        "country": "Maldives",
+        "province": "Maldives",
+        "population": -1,
+        "latitude": 5.29985245576729,
+        "longitude": 73.0711841583252
+    },
+    {
+        "name": "Kendhoo",
+        "country": "Maldives",
+        "province": "Maldives",
+        "population": -1,
+        "latitude": 5.27464013375774,
+        "longitude": 73.0106735229492
+    },
+    {
+        "name": "Buruni",
+        "country": "Maldives",
+        "province": "Dhaalu Atholhu",
+        "population": 577,
+        "latitude": 2.5590490360795495,
+        "longitude": 73.10749053955078
+    },
+    {
+        "name": "Kalhaidhoo",
+        "country": "Maldives",
+        "province": "Laamu",
+        "population": -1,
+        "latitude": 1.98731140403056,
+        "longitude": 73.5369443893433
+    },
+    {
+        "name": "Gaadhoo",
+        "country": "Maldives",
+        "province": "Maldives",
+        "population": -1,
+        "latitude": 1.81879007680389,
+        "longitude": 73.4496545791626
+    },
+    {
+        "name": "Maamendhoo",
+        "country": "Maldives",
+        "province": "Maldives",
+        "population": -1,
+        "latitude": 1.81681696443416,
+        "longitude": 73.3891868591309
+    },
+    {
+        "name": "Kunahandhoo",
+        "country": "Maldives",
+        "province": "Laamu",
+        "population": -1,
+        "latitude": 1.78275899149953,
+        "longitude": 73.3673858642578
+    },
+    {
+        "name": "Isdhoo",
+        "country": "Maldives",
+        "province": "Maldives",
+        "population": -1,
+        "latitude": 2.11421654852929,
+        "longitude": 73.5613632202148
+    },
+    {
+        "name": "Dhanbidhoo",
+        "country": "Maldives",
+        "province": "Maldives",
+        "population": -1,
+        "latitude": 2.09586117644418,
+        "longitude": 73.546085357666
+    },
+    {
+        "name": "Mundoo",
+        "country": "Maldives",
+        "province": "Maldives",
+        "population": -1,
+        "latitude": 2.01420292063003,
+        "longitude": 73.5344123840332
+    },
+    {
+        "name": "Maabaidhoo",
+        "country": "Maldives",
+        "province": "Maldives",
+        "population": -1,
+        "latitude": 2.02912816451048,
+        "longitude": 73.5326099395752
+    },
+    {
+        "name": "Tinadu",
+        "country": "Maldives",
+        "province": "North Central",
+        "population": -1,
+        "latitude": 3.48861,
+        "longitude": 73.539442
+    },
+    {
+        "name": "Hulumido",
+        "country": "Maldives",
+        "province": "Seenu",
+        "population": -1,
+        "latitude": -0.594745,
+        "longitude": 73.227404
+    },
+    {
+        "name": "Guraidhoo",
+        "country": "Maldives",
+        "province": "Kaafu Atoll",
+        "population": 1800,
+        "latitude": 3.90045,
+        "longitude": 73.46623
+    },
+    {
+        "name": "Nalaguraidhu",
+        "country": "Maldives",
+        "province": "Southern Ari Atoll",
+        "population": -1,
+        "latitude": 3.48412166338658,
+        "longitude": 72.7963542938232
+    },
+    {
+        "name": "Vilamendhoo",
+        "country": "Maldives",
+        "province": "Maldives",
+        "population": -1,
+        "latitude": 3.84963221901523,
+        "longitude": 72.9540359973907
+    },
+    {
+        "name": "Filitheyo Island",
+        "country": "Maldives",
+        "province": "Faafu Atholhu",
+        "population": -1,
+        "latitude": 3.21374569257608,
+        "longitude": 73.0366158485413
+    },
+    {
+        "name": "Hakuraa Huraa",
+        "country": "Maldives",
+        "province": "Maldives",
+        "population": -1,
+        "latitude": 2.8538269042163424,
+        "longitude": 73.53888630867004
+    },
+    {
+        "name": "Medhufushi",
+        "country": "Maldives",
+        "province": "Maldives",
+        "population": -1,
+        "latitude": 2.884344327644077,
+        "longitude": 73.57532143592834
+    },
+    {
+        "name": "Bodubados",
+        "country": "Maldives",
+        "province": "Maldives",
+        "population": -1,
+        "latitude": 4.269724272266757,
+        "longitude": 73.49184036254883
+    },
+    {
+        "name": "Eriyadu",
+        "country": "Maldives",
+        "province": "Maldives",
+        "population": -1,
+        "latitude": 4.590285042410014,
+        "longitude": 73.41424942016602
+    },
+    {
+        "name": "Furanafushi",
+        "country": "Maldives",
+        "province": "Maldives",
+        "population": -1,
+        "latitude": 4.249524182698443,
+        "longitude": 73.54728698730469
+    },
+    {
+        "name": "Kanu Huraa",
+        "country": "Maldives",
+        "province": "Maldives",
+        "population": -1,
+        "latitude": 4.3182964589367545,
+        "longitude": 73.59174728393555
+    },
+    {
+        "name": "Lankan Finolhu",
+        "country": "Maldives",
+        "province": "Maldives",
+        "population": -1,
+        "latitude": 4.285259149085353,
+        "longitude": 73.55398178100586
+    },
+    {
+        "name": "Thulhaagiri",
+        "country": "Maldives",
+        "province": "Maldives",
+        "population": -1,
+        "latitude": 4.3115350536844295,
+        "longitude": 73.48759174346924
+    },
+    {
+        "name": "Vihamanaafushi",
+        "country": "Maldives",
+        "province": "Maldives",
+        "population": -1,
+        "latitude": 4.226434661163021,
+        "longitude": 73.51986408233643
+    },
+    {
+        "name": "Ziyaaraiyfushi",
+        "country": "Maldives",
+        "province": "Maldives",
+        "population": -1,
+        "latitude": 4.533516797074847,
+        "longitude": 73.37249279022217
+    },
+    {
+        "name": "Eboodhoo",
+        "country": "Maldives",
+        "province": "Maldives",
+        "population": -1,
+        "latitude": 4.08336715923622,
+        "longitude": 73.51235389709473
+    },
+    {
+        "name": "Eboodhoofinolhu",
+        "country": "Maldives",
+        "province": "Maldives",
+        "population": -1,
+        "latitude": 4.103357500299563,
+        "longitude": 73.52522850036621
+    },
+    {
+        "name": "Nolhivaram",
+        "country": "Maldives",
+        "province": "Maldives",
+        "population": -1,
+        "latitude": 6.66580107038156,
+        "longitude": 73.0820846557617
+    },
+    {
+        "name": "Vabbinfaru Island",
+        "country": "Maldives",
+        "province": "Kaafu Atoll",
+        "population": -1,
+        "latitude": 4.309794766590735,
+        "longitude": 73.42385172843933
+    },
+    {
+        "name": "Dhunikolhu Island",
+        "country": "Maldives",
+        "province": "Maldives",
+        "population": -1,
+        "latitude": 5.039803626888398,
+        "longitude": 72.88143396377563
+    },
+    {
+        "name": "Kunfunadhoo Island",
+        "country": "Maldives",
+        "province": "Maldives",
+        "population": -1,
+        "latitude": 5.112886771066019,
+        "longitude": 73.07714939117432
+    },
+    {
+        "name": "Ari Atoll",
+        "country": "Maldives",
+        "province": "Maldives",
+        "population": -1,
+        "latitude": 3.882437702706579,
+        "longitude": 72.83188819885254
+    },
+    {
+        "name": "South Malé Atoll",
+        "country": "Maldives",
+        "province": "Kaafu Atoll",
+        "population": -1,
+        "latitude": 4,
+        "longitude": 73.416667
+    },
+    {
+        "name": "Thamburudhoo",
+        "country": "Maldives",
+        "province": "Maldives",
+        "population": -1,
+        "latitude": 4.416667,
+        "longitude": 73.5
+    },
+    {
+        "name": "Open Stage",
+        "country": "Maldives",
+        "province": "Maldives",
+        "population": 1258,
+        "latitude": 5.10529600023858,
+        "longitude": 73.07115197181702
+    },
+    {
+        "name": "Kooddoo Atoll",
+        "country": "Maldives",
+        "province": "Maldives",
+        "population": -1,
+        "latitude": 0.7376943852626965,
+        "longitude": 73.43161940574646
+    },
+    {
+        "name": "Rasdhoo",
+        "country": "Maldives",
+        "province": "Northern Ari Atoll",
+        "population": -1,
+        "latitude": 4.26249,
+        "longitude": 72.99209
+    },
+    {
+        "name": "Nilandhoo",
+        "country": "Maldives",
+        "province": "Maldives",
+        "population": -1,
+        "latitude": 0.63597,
+        "longitude": 73.44646
+    },
+    {
+        "name": "Gaafaru",
+        "country": "Maldives",
+        "province": "Maldives",
+        "population": -1,
+        "latitude": 4.73548,
+        "longitude": 73.49929
+    },
+    {
+        "name": "Milandhoo",
+        "country": "Maldives",
+        "province": "Maldives",
+        "population": -1,
+        "latitude": 6.28413,
+        "longitude": 73.2457
+    },
+    {
+        "name": "Meedhoo",
+        "country": "Maldives",
+        "province": "Maldives",
+        "population": -1,
+        "latitude": 2.99816,
+        "longitude": 73.0065
+    },
+    {
+        "name": "Velidhoo",
+        "country": "Maldives",
+        "province": "Maldives",
+        "population": -1,
+        "latitude": 5.66431,
+        "longitude": 73.27267
+    },
+    {
+        "name": "Kelaa",
+        "country": "Maldives",
+        "province": "Maldives",
+        "population": -1,
+        "latitude": 6.95437,
+        "longitude": 73.21615
+    },
+    {
+        "name": "Fulidhoo",
+        "country": "Maldives",
+        "province": "Maldives",
+        "population": -1,
+        "latitude": 3.68055,
+        "longitude": 73.41552
+    },
+    {
+        "name": "Kurendhoo",
+        "country": "Maldives",
+        "province": "Maldives",
+        "population": -1,
+        "latitude": 5.33387,
+        "longitude": 73.46366
+    },
+    {
+        "name": "Dhigurah",
+        "country": "Maldives",
+        "province": "Northern Ari Atoll",
+        "population": -1,
+        "latitude": 3.53514,
+        "longitude": 72.92896
+    },
+    {
+        "name": "Maakurathu",
+        "country": "Maldives",
+        "province": "Maldives",
+        "population": -1,
+        "latitude": 5.60706,
+        "longitude": 73.04503
+    },
+    {
+        "name": "Feridhoo",
+        "country": "Maldives",
+        "province": "Maldives",
+        "population": -1,
+        "latitude": 4.0516,
+        "longitude": 72.72421
+    },
+    {
+        "name": "Huraa",
+        "country": "Maldives",
+        "province": "Maldives",
+        "population": -1,
+        "latitude": 4.33357,
+        "longitude": 73.60119
+    },
+    {
+        "name": "Goidhoo",
+        "country": "Maldives",
+        "province": "Baa Atholhu",
+        "population": -1,
+        "latitude": 4.87307,
+        "longitude": 72.99746
+    },
+    {
+        "name": "Maafaru",
+        "country": "Maldives",
+        "province": "Noonu Atoll",
+        "population": 700,
+        "latitude": 5.83078,
+        "longitude": 73.47944
+    },
+    {
+        "name": "Maamigili",
+        "country": "Maldives",
+        "province": "Southern Ari Atoll",
+        "population": -1,
+        "latitude": 3.6513,
+        "longitude": 72.81961
+    },
+    {
+        "name": "Bileiydhoo",
+        "country": "Maldives",
+        "province": "Faafu Atholhu",
+        "population": -1,
+        "latitude": 3.11682,
+        "longitude": 72.98518
+    },
+    {
+        "name": "Kuda Huura",
+        "country": "Maldives",
+        "province": "Maldives",
+        "population": -1,
+        "latitude": 4.32822,
+        "longitude": 73.59761
+    }
+]

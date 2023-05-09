@@ -1,0 +1,122 @@
+[
+    {
+        "name": "Yaren District",
+        "country": "Nauru",
+        "province": "Yaren",
+        "population": 1100,
+        "latitude": -0.550852872303585,
+        "longitude": 166.925196647644
+    },
+    {
+        "name": "Baitsi District",
+        "country": "Nauru",
+        "province": "Baiti",
+        "population": 810,
+        "latitude": -0.508025188258313,
+        "longitude": 166.929445266724
+    },
+    {
+        "name": "Arijejen",
+        "country": "Nauru",
+        "province": "Aiwo",
+        "population": 2381,
+        "latitude": -0.525448109355481,
+        "longitude": 166.912472248077
+    },
+    {
+        "name": "The Location",
+        "country": "Nauru",
+        "province": "Denigomodu",
+        "population": 1804,
+        "latitude": -0.52574,
+        "longitude": 166.91259
+    },
+    {
+        "name": "Menen",
+        "country": "Nauru",
+        "province": "Meneng",
+        "population": 1400,
+        "latitude": -0.54539,
+        "longitude": 166.94871
+    },
+    {
+        "name": "Anabar",
+        "country": "Nauru",
+        "province": "Anabar",
+        "population": 378,
+        "latitude": -0.508454324816831,
+        "longitude": 166.953263282776
+    },
+    {
+        "name": "Uaboe",
+        "country": "Nauru",
+        "province": "Uaboe",
+        "population": 330,
+        "latitude": -0.513925813429409,
+        "longitude": 166.923844814301
+    },
+    {
+        "name": "Ijuw",
+        "country": "Nauru",
+        "province": "Ijuw",
+        "population": 180,
+        "latitude": -0.520995828041632,
+        "longitude": 166.958134174347
+    },
+    {
+        "name": "Boe",
+        "country": "Nauru",
+        "province": "Boe",
+        "population": 950,
+        "latitude": -0.54098,
+        "longitude": 166.91305
+    },
+    {
+        "name": "Nibok",
+        "country": "Nauru",
+        "province": "Nibok",
+        "population": 479,
+        "latitude": -0.51757,
+        "longitude": 166.92056
+    },
+    {
+        "name": "Yangor",
+        "country": "Nauru",
+        "province": "Aiwo",
+        "population": -1,
+        "latitude": -0.535361129085338,
+        "longitude": 166.91047668457
+    },
+    {
+        "name": "Anibare",
+        "country": "Nauru",
+        "province": "Anibare",
+        "population": -1,
+        "latitude": -0.527915637393519,
+        "longitude": 166.95249080658
+    },
+    {
+        "name": "Ronave",
+        "country": "Nauru",
+        "province": "Anetan",
+        "population": -1,
+        "latitude": -0.50351925267777,
+        "longitude": 166.943296194077
+    },
+    {
+        "name": "Arubo",
+        "country": "Nauru",
+        "province": "Ewa",
+        "population": -1,
+        "latitude": -0.504892490519239,
+        "longitude": 166.932299137115
+    },
+    {
+        "name": "Arenibek",
+        "country": "Nauru",
+        "province": "Buada",
+        "population": -1,
+        "latitude": -0.533065257965681,
+        "longitude": 166.923780441284
+    }
+]

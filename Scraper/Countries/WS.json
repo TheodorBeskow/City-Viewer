@@ -1,0 +1,3266 @@
+[
+    {
+        "name": "Apia",
+        "country": "Samoa",
+        "province": "Tuamasaga",
+        "population": 40407,
+        "latitude": -13.833333,
+        "longitude": -171.76666
+    },
+    {
+        "name": "Mulifanua",
+        "country": "Samoa",
+        "province": "Aiga-i-le-Tai",
+        "population": 4508,
+        "latitude": -13.831826,
+        "longitude": -172.036021
+    },
+    {
+        "name": "Asau",
+        "country": "Samoa",
+        "province": "Vaisigano",
+        "population": 6643,
+        "latitude": -13.519627,
+        "longitude": -172.63784
+    },
+    {
+        "name": "Malie",
+        "country": "Samoa",
+        "province": "Tuamasaga",
+        "population": 2189,
+        "latitude": -13.800436,
+        "longitude": -171.846896
+    },
+    {
+        "name": "Faleula",
+        "country": "Samoa",
+        "province": "Samoa",
+        "population": 2592,
+        "latitude": -13.794565,
+        "longitude": -171.83126
+    },
+    {
+        "name": "Vaiusu",
+        "country": "Samoa",
+        "province": "Tuamasaga",
+        "population": 2043,
+        "latitude": -13.826783,
+        "longitude": -171.793325
+    },
+    {
+        "name": "Siusega",
+        "country": "Samoa",
+        "province": "Samoa",
+        "population": 2226,
+        "latitude": -13.844322,
+        "longitude": -171.813969
+    },
+    {
+        "name": "Fasito‘outa",
+        "country": "Samoa",
+        "province": "A'ana",
+        "population": 2098,
+        "latitude": -13.811629,
+        "longitude": -171.940628
+    },
+    {
+        "name": "Afega",
+        "country": "Samoa",
+        "province": "Tuamasaga",
+        "population": 1895,
+        "latitude": -13.797263,
+        "longitude": -171.853084
+    },
+    {
+        "name": "Nofoali‘i",
+        "country": "Samoa",
+        "province": "A'ana",
+        "population": 1828,
+        "latitude": -13.821705,
+        "longitude": -171.958733
+    },
+    {
+        "name": "Safotu",
+        "country": "Samoa",
+        "province": "Gagaifomauga",
+        "population": 1207,
+        "latitude": -13.451323,
+        "longitude": -172.401765
+    },
+    {
+        "name": "Lufilufi",
+        "country": "Samoa",
+        "province": "Atua",
+        "population": 1074,
+        "latitude": -13.874489,
+        "longitude": -171.598568
+    },
+    {
+        "name": "Leulumoega",
+        "country": "Samoa",
+        "province": "A'ana",
+        "population": 1458,
+        "latitude": -13.822975,
+        "longitude": -171.961272
+    },
+    {
+        "name": "Vailima",
+        "country": "Samoa",
+        "province": "Tuamasaga",
+        "population": 1462,
+        "latitude": -13.864168,
+        "longitude": -171.761261
+    },
+    {
+        "name": "Vailoa",
+        "country": "Samoa",
+        "province": "Palauli",
+        "population": 769,
+        "latitude": -13.755509,
+        "longitude": -172.306976
+    },
+    {
+        "name": "Solosolo",
+        "country": "Samoa",
+        "province": "Atua",
+        "population": 1487,
+        "latitude": -13.875036,
+        "longitude": -171.641806
+    },
+    {
+        "name": "Satupa‘itea",
+        "country": "Samoa",
+        "province": "Satupa‘itea",
+        "population": -1,
+        "latitude": -13.765927,
+        "longitude": -172.326859
+    },
+    {
+        "name": "Satapuala",
+        "country": "Samoa",
+        "province": "A'ana",
+        "population": 1412,
+        "latitude": -13.835354,
+        "longitude": -171.979634
+    },
+    {
+        "name": "Samamea",
+        "country": "Samoa",
+        "province": "Va‘a-o-Fonoti",
+        "population": 89,
+        "latitude": -13.933754,
+        "longitude": -171.531222
+    },
+    {
+        "name": "Safotulafai",
+        "country": "Samoa",
+        "province": "Fa‘asaleleaga",
+        "population": -1,
+        "latitude": -13.671467,
+        "longitude": -172.17768
+    },
+    {
+        "name": "Lotofagā",
+        "country": "Samoa",
+        "province": "Atua",
+        "population": 1126,
+        "latitude": -13.976434,
+        "longitude": -171.857806
+    },
+    {
+        "name": "Gataivai",
+        "country": "Samoa",
+        "province": "Palauli",
+        "population": 1141,
+        "latitude": -13.773605,
+        "longitude": -172.38802
+    },
+    {
+        "name": "Falefa",
+        "country": "Samoa",
+        "province": "Atua",
+        "population": 1346,
+        "latitude": -13.886953,
+        "longitude": -171.588051
+    },
+    {
+        "name": "Vavau",
+        "country": "Samoa",
+        "province": "Atua",
+        "population": 383,
+        "latitude": -14.042682,
+        "longitude": -171.548546
+    },
+    {
+        "name": "Vaitele",
+        "country": "Samoa",
+        "province": "Samoa",
+        "population": -1,
+        "latitude": -13.829329124523777,
+        "longitude": -171.80604457855225
+    },
+    {
+        "name": "Vaisala",
+        "country": "Samoa",
+        "province": "Vaisigano",
+        "population": 599,
+        "latitude": -13.51439,
+        "longitude": -172.67522
+    },
+    {
+        "name": "Vaipu’a",
+        "country": "Samoa",
+        "province": "Satupa‘itea",
+        "population": 417,
+        "latitude": -13.677827,
+        "longitude": -172.633753
+    },
+    {
+        "name": "Vaimoso",
+        "country": "Samoa",
+        "province": "Tuamasaga",
+        "population": -1,
+        "latitude": -13.836546,
+        "longitude": -171.777134
+    },
+    {
+        "name": "Vaie’e",
+        "country": "Samoa",
+        "province": "Tuamasaga",
+        "population": 497,
+        "latitude": -13.98811,
+        "longitude": -171.830955
+    },
+    {
+        "name": "Vaiala",
+        "country": "Samoa",
+        "province": "Samoa",
+        "population": 221,
+        "latitude": -13.828766,
+        "longitude": -171.753957
+    },
+    {
+        "name": "Ulutogia",
+        "country": "Samoa",
+        "province": "Samoa",
+        "population": 195,
+        "latitude": -14.033409,
+        "longitude": -171.433445
+    },
+    {
+        "name": "Uafato",
+        "country": "Samoa",
+        "province": "Va‘a-o-Fonoti",
+        "population": 301,
+        "latitude": -13.95202,
+        "longitude": -171.515405
+    },
+    {
+        "name": "Tufutafoe",
+        "country": "Samoa",
+        "province": "Vaisigano",
+        "population": 330,
+        "latitude": -13.530733,
+        "longitude": -172.789626
+    },
+    {
+        "name": "Tuasivi",
+        "country": "Samoa",
+        "province": "Fa‘asaleleaga",
+        "population": 365,
+        "latitude": -13.667604,
+        "longitude": -172.175595
+    },
+    {
+        "name": "Tuana‘i",
+        "country": "Samoa",
+        "province": "Samoa",
+        "population": -1,
+        "latitude": -13.799564,
+        "longitude": -171.861578
+    },
+    {
+        "name": "Tanugamanono",
+        "country": "Samoa",
+        "province": "Tuamasaga",
+        "population": -1,
+        "latitude": -13.850986,
+        "longitude": -171.759209
+    },
+    {
+        "name": "Taga",
+        "country": "Samoa",
+        "province": "Palauli",
+        "population": 680,
+        "latitude": -13.794,
+        "longitude": -172.511098
+    },
+    {
+        "name": "Tafua",
+        "country": "Samoa",
+        "province": "Palauli",
+        "population": 403,
+        "latitude": -13.792695,
+        "longitude": -172.253798
+    },
+    {
+        "name": "Tafitoala",
+        "country": "Samoa",
+        "province": "Tuamasaga",
+        "population": 393,
+        "latitude": -14.007027,
+        "longitude": -171.812377
+    },
+    {
+        "name": "Taelefaga",
+        "country": "Samoa",
+        "province": "Samoa",
+        "population": 183,
+        "latitude": -13.942845,
+        "longitude": -171.569609
+    },
+    {
+        "name": "Siutu",
+        "country": "Samoa",
+        "province": "Samoa",
+        "population": 648,
+        "latitude": -13.720993,
+        "longitude": -172.595409
+    },
+    {
+        "name": "Si’uniu",
+        "country": "Samoa",
+        "province": "Atua",
+        "population": 104,
+        "latitude": -14.020653,
+        "longitude": -171.617353
+    },
+    {
+        "name": "Siumu Village",
+        "country": "Samoa",
+        "province": "Samoa",
+        "population": -1,
+        "latitude": -14.009426,
+        "longitude": -171.776823
+    },
+    {
+        "name": "Sili",
+        "country": "Samoa",
+        "province": "Palauli",
+        "population": 868,
+        "latitude": -13.756024,
+        "longitude": -172.377329
+    },
+    {
+        "name": "Savaia",
+        "country": "Samoa",
+        "province": "A'ana",
+        "population": 395,
+        "latitude": -13.95514,
+        "longitude": -171.957115
+    },
+    {
+        "name": "Sauago",
+        "country": "Samoa",
+        "province": "Samoa",
+        "population": -1,
+        "latitude": -13.91069,
+        "longitude": -171.562033
+    },
+    {
+        "name": "Satuiatua",
+        "country": "Samoa",
+        "province": "Satupa‘itea",
+        "population": 304,
+        "latitude": -13.70805,
+        "longitude": -172.600576
+    },
+    {
+        "name": "Satufia",
+        "country": "Samoa",
+        "province": "Satupa‘itea",
+        "population": -1,
+        "latitude": -13.773451,
+        "longitude": -172.32769
+    },
+    {
+        "name": "Sato’alepai",
+        "country": "Samoa",
+        "province": "Gaga‘emauga",
+        "population": 235,
+        "latitude": -13.443613,
+        "longitude": -172.344837
+    },
+    {
+        "name": "Sataua",
+        "country": "Samoa",
+        "province": "Vaisigano",
+        "population": 771,
+        "latitude": -13.51742,
+        "longitude": -172.694359
+    },
+    {
+        "name": "Sataoa",
+        "country": "Samoa",
+        "province": "Tuamasaga",
+        "population": -1,
+        "latitude": -13.98758,
+        "longitude": -171.863174
+    },
+    {
+        "name": "Sasina",
+        "country": "Samoa",
+        "province": "Gagaifomauga",
+        "population": 566,
+        "latitude": -13.469954,
+        "longitude": -172.449201
+    },
+    {
+        "name": "Sapulu",
+        "country": "Samoa",
+        "province": "Samoa",
+        "population": 957,
+        "latitude": -13.804721,
+        "longitude": -171.922289
+    },
+    {
+        "name": "Sapapali’i",
+        "country": "Samoa",
+        "province": "Fa‘asaleleaga",
+        "population": 877,
+        "latitude": -13.68726,
+        "longitude": -172.191803
+    },
+    {
+        "name": "Samauga",
+        "country": "Samoa",
+        "province": "Samoa",
+        "population": 289,
+        "latitude": -13.9166667,
+        "longitude": -171.5666667
+    },
+    {
+        "name": "Samatau",
+        "country": "Samoa",
+        "province": "A'ana",
+        "population": 939,
+        "latitude": -13.899643,
+        "longitude": -172.057056
+    },
+    {
+        "name": "Samataitai",
+        "country": "Samoa",
+        "province": "Satupa‘itea",
+        "population": -1,
+        "latitude": -13.646137,
+        "longitude": -172.665783
+    },
+    {
+        "name": "Samalaeulu",
+        "country": "Samoa",
+        "province": "Gaga‘emauga",
+        "population": 789,
+        "latitude": -13.500982,
+        "longitude": -172.300149
+    },
+    {
+        "name": "Salimu",
+        "country": "Samoa",
+        "province": "Samoa",
+        "population": 62,
+        "latitude": -13.932155,
+        "longitude": -171.561364
+    },
+    {
+        "name": "Salelologa",
+        "country": "Samoa",
+        "province": "Samoa",
+        "population": -1,
+        "latitude": -13.72766,
+        "longitude": -172.210225
+    },
+    {
+        "name": "Salelavalu-uta",
+        "country": "Samoa",
+        "province": "Samoa",
+        "population": -1,
+        "latitude": -13.720198,
+        "longitude": -172.204269
+    },
+    {
+        "name": "Sale’imoa",
+        "country": "Samoa",
+        "province": "Samoa",
+        "population": -1,
+        "latitude": -13.803139,
+        "longitude": -171.890976
+    },
+    {
+        "name": "Salei’a",
+        "country": "Samoa",
+        "province": "Samoa",
+        "population": 275,
+        "latitude": -13.449496,
+        "longitude": -172.367967
+    },
+    {
+        "name": "Sale’aula",
+        "country": "Samoa",
+        "province": "Satupa‘itea",
+        "population": 597,
+        "latitude": -13.448939,
+        "longitude": -172.335212
+    },
+    {
+        "name": "Saleapaga",
+        "country": "Samoa",
+        "province": "Atua",
+        "population": -1,
+        "latitude": -14.041734,
+        "longitude": -171.504559
+    },
+    {
+        "name": "Salamumu",
+        "country": "Samoa",
+        "province": "Gaga‘emauga",
+        "population": -1,
+        "latitude": -13.998126,
+        "longitude": -171.921903
+    },
+    {
+        "name": "Sala’ilua",
+        "country": "Samoa",
+        "province": "Samoa",
+        "population": -1,
+        "latitude": -13.716263,
+        "longitude": -172.595172
+    },
+    {
+        "name": "Saipipi",
+        "country": "Samoa",
+        "province": "Fa‘asaleleaga",
+        "population": 705,
+        "latitude": -13.629208,
+        "longitude": -172.197896
+    },
+    {
+        "name": "Sagone",
+        "country": "Samoa",
+        "province": "Satupa‘itea",
+        "population": 776,
+        "latitude": -13.68733,
+        "longitude": -172.61864
+    },
+    {
+        "name": "Safune",
+        "country": "Samoa",
+        "province": "Samoa",
+        "population": -1,
+        "latitude": -13.805019,
+        "longitude": -171.812711
+    },
+    {
+        "name": "Safa’atoa",
+        "country": "Samoa",
+        "province": "A'ana",
+        "population": -1,
+        "latitude": -13.942021,
+        "longitude": -171.965783
+    },
+    {
+        "name": "Safa’i",
+        "country": "Samoa",
+        "province": "Gaga‘emauga",
+        "population": -1,
+        "latitude": -13.446543,
+        "longitude": -172.339707
+    },
+    {
+        "name": "Sa’asa’ai",
+        "country": "Samoa",
+        "province": "Fa‘asaleleaga",
+        "population": 520,
+        "latitude": -13.637137,
+        "longitude": -172.194196
+    },
+    {
+        "name": "Puleia",
+        "country": "Samoa",
+        "province": "Palauli",
+        "population": 262,
+        "latitude": -13.776143,
+        "longitude": -172.377611
+    },
+    {
+        "name": "Pu’apu’a",
+        "country": "Samoa",
+        "province": "Fa‘asaleleaga",
+        "population": -1,
+        "latitude": -13.589958,
+        "longitude": -172.209844
+    },
+    {
+        "name": "Poutasi",
+        "country": "Samoa",
+        "province": "Atua",
+        "population": 378,
+        "latitude": -14.0295,
+        "longitude": -171.69275
+    },
+    {
+        "name": "Patamea",
+        "country": "Samoa",
+        "province": "Gaga‘emauga",
+        "population": 597,
+        "latitude": -13.524627,
+        "longitude": -172.306783
+    },
+    {
+        "name": "Pata",
+        "country": "Samoa",
+        "province": "Samoa",
+        "population": 549,
+        "latitude": -13.911073,
+        "longitude": -172.021813
+    },
+    {
+        "name": "Papa",
+        "country": "Samoa",
+        "province": "Vaisigano",
+        "population": 284,
+        "latitude": -13.530767,
+        "longitude": -172.715159
+    },
+    {
+        "name": "Palauli",
+        "country": "Samoa",
+        "province": "Samoa",
+        "population": -1,
+        "latitude": -13.758588,
+        "longitude": -172.298577
+    },
+    {
+        "name": "Nuu",
+        "country": "Samoa",
+        "province": "Samoa",
+        "population": -1,
+        "latitude": -13.78465,
+        "longitude": -172.473514
+    },
+    {
+        "name": "Neiafu",
+        "country": "Samoa",
+        "province": "Vaisigano",
+        "population": -1,
+        "latitude": -13.566529,
+        "longitude": -172.752253
+    },
+    {
+        "name": "Musumusu",
+        "country": "Samoa",
+        "province": "Va‘a-o-Fonoti",
+        "population": 75,
+        "latitude": -13.930303,
+        "longitude": -171.558755
+    },
+    {
+        "name": "Mulinu’u",
+        "country": "Samoa",
+        "province": "Samoa",
+        "population": -1,
+        "latitude": -13.8175,
+        "longitude": -171.777928
+    },
+    {
+        "name": "Moto‘otua",
+        "country": "Samoa",
+        "province": "Samoa",
+        "population": -1,
+        "latitude": -13.845621,
+        "longitude": -171.762859
+    },
+    {
+        "name": "Moata‘a",
+        "country": "Samoa",
+        "province": "Samoa",
+        "population": -1,
+        "latitude": -13.83745,
+        "longitude": -171.74828
+    },
+    {
+        "name": "Matāutu",
+        "country": "Samoa",
+        "province": "Gaga‘emauga",
+        "population": 203,
+        "latitude": -13.827418,
+        "longitude": -171.756738
+    },
+    {
+        "name": "Matatufu",
+        "country": "Samoa",
+        "province": "Atua",
+        "population": 397,
+        "latitude": -14.043547,
+        "longitude": -171.583758
+    },
+    {
+        "name": "Manase",
+        "country": "Samoa",
+        "province": "Gagaifomauga",
+        "population": 158,
+        "latitude": -13.44796,
+        "longitude": -172.376473
+    },
+    {
+        "name": "Malua",
+        "country": "Samoa",
+        "province": "Gaga‘emauga",
+        "population": 371,
+        "latitude": -13.799088,
+        "longitude": -171.902698
+    },
+    {
+        "name": "Maasina",
+        "country": "Samoa",
+        "province": "Samoa",
+        "population": 160,
+        "latitude": -13.943182,
+        "longitude": -171.556903
+    },
+    {
+        "name": "Luatuanu‘u",
+        "country": "Samoa",
+        "province": "Samoa",
+        "population": -1,
+        "latitude": -13.862963,
+        "longitude": -171.678277
+    },
+    {
+        "name": "Lotofaga",
+        "country": "Samoa",
+        "province": "Atua",
+        "population": 622,
+        "latitude": -14.042879,
+        "longitude": -171.570356
+    },
+    {
+        "name": "Lona",
+        "country": "Samoa",
+        "province": "Samoa",
+        "population": 218,
+        "latitude": -13.942088,
+        "longitude": -171.542922
+    },
+    {
+        "name": "Letogo",
+        "country": "Samoa",
+        "province": "Tuamasaga",
+        "population": 533,
+        "latitude": -13.852525,
+        "longitude": -171.721669
+    },
+    {
+        "name": "Lepea",
+        "country": "Samoa",
+        "province": "Tuamasaga",
+        "population": 720,
+        "latitude": -13.835753,
+        "longitude": -171.789998
+    },
+    {
+        "name": "Lepā",
+        "country": "Samoa",
+        "province": "Samoa",
+        "population": 172,
+        "latitude": -14.041247,
+        "longitude": -171.519189
+    },
+    {
+        "name": "Lelepa",
+        "country": "Samoa",
+        "province": "Gaga‘emauga",
+        "population": 213,
+        "latitude": -13.445438,
+        "longitude": -172.360467
+    },
+    {
+        "name": "Lefaga",
+        "country": "Samoa",
+        "province": "Samoa",
+        "population": -1,
+        "latitude": -14.045543,
+        "longitude": -171.448799
+    },
+    {
+        "name": "Lauli’i",
+        "country": "Samoa",
+        "province": "Samoa",
+        "population": -1,
+        "latitude": -13.863919,
+        "longitude": -171.704384
+    },
+    {
+        "name": "Lano",
+        "country": "Samoa",
+        "province": "Samoa",
+        "population": 706,
+        "latitude": -13.617495,
+        "longitude": -172.199186
+    },
+    {
+        "name": "Lalomanu",
+        "country": "Samoa",
+        "province": "Atua",
+        "population": 704,
+        "latitude": -14.044545,
+        "longitude": -171.43925
+    },
+    {
+        "name": "Lalomalava",
+        "country": "Samoa",
+        "province": "Fa‘asaleleaga",
+        "population": 399,
+        "latitude": -13.701785,
+        "longitude": -172.200376
+    },
+    {
+        "name": "Iva",
+        "country": "Samoa",
+        "province": "Fa‘asaleleaga",
+        "population": -1,
+        "latitude": -13.71019,
+        "longitude": -172.203243
+    },
+    {
+        "name": "Fuailolo‘o",
+        "country": "Samoa",
+        "province": "Samoa",
+        "population": -1,
+        "latitude": -13.844745,
+        "longitude": -172.045882
+    },
+    {
+        "name": "Fogatuli",
+        "country": "Samoa",
+        "province": "Satupa‘itea",
+        "population": 273,
+        "latitude": -13.661455,
+        "longitude": -172.646499
+    },
+    {
+        "name": "Fogasavai’i",
+        "country": "Samoa",
+        "province": "Satupa‘itea",
+        "population": 380,
+        "latitude": -13.680259,
+        "longitude": -172.626723
+    },
+    {
+        "name": "Foailuga",
+        "country": "Samoa",
+        "province": "Palauli",
+        "population": -1,
+        "latitude": -13.696659,
+        "longitude": -172.60924
+    },
+    {
+        "name": "Foailalo",
+        "country": "Samoa",
+        "province": "Palauli",
+        "population": -1,
+        "latitude": -13.702259,
+        "longitude": -172.604533
+    },
+    {
+        "name": "Fasito‘otai",
+        "country": "Samoa",
+        "province": "Samoa",
+        "population": -1,
+        "latitude": -13.825677,
+        "longitude": -171.963091
+    },
+    {
+        "name": "Faleu",
+        "country": "Samoa",
+        "province": "Samoa",
+        "population": -1,
+        "latitude": -13.858926,
+        "longitude": -172.106179
+    },
+    {
+        "name": "Faleapuna",
+        "country": "Samoa",
+        "province": "Atua",
+        "population": 584,
+        "latitude": -13.87761,
+        "longitude": -171.592348
+    },
+    {
+        "name": "Falelima",
+        "country": "Samoa",
+        "province": "Vaisigano",
+        "population": 416,
+        "latitude": -13.595719,
+        "longitude": -172.722039
+    },
+    {
+        "name": "Faleaseela",
+        "country": "Samoa",
+        "province": "Samoa",
+        "population": -1,
+        "latitude": -13.935289,
+        "longitude": -171.970027
+    },
+    {
+        "name": "Faleālupo",
+        "country": "Samoa",
+        "province": "Vaisigano",
+        "population": 183,
+        "latitude": -13.501034,
+        "longitude": -172.787683
+    },
+    {
+        "name": "Fai’a’ai",
+        "country": "Samoa",
+        "province": "Satupa‘itea",
+        "population": 421,
+        "latitude": -13.670298,
+        "longitude": -172.641122
+    },
+    {
+        "name": "Fagamalo",
+        "country": "Samoa",
+        "province": "Gaga‘emauga",
+        "population": 294,
+        "latitude": -13.442193,
+        "longitude": -172.349009
+    },
+    {
+        "name": "Fagafau",
+        "country": "Samoa",
+        "province": "Satupa‘itea",
+        "population": 273,
+        "latitude": -13.64026,
+        "longitude": -172.670232
+    },
+    {
+        "name": "Avao",
+        "country": "Samoa",
+        "province": "Gaga‘emauga",
+        "population": 276,
+        "latitude": -13.448827,
+        "longitude": -172.362488
+    },
+    {
+        "name": "A‘ufaga",
+        "country": "Samoa",
+        "province": "Samoa",
+        "population": 459,
+        "latitude": -14.040577,
+        "longitude": -171.533563
+    },
+    {
+        "name": "Auala",
+        "country": "Samoa",
+        "province": "Vaisigano",
+        "population": 574,
+        "latitude": -13.516703,
+        "longitude": -172.652446
+    },
+    {
+        "name": "A’opo",
+        "country": "Samoa",
+        "province": "Gagaifomauga",
+        "population": 390,
+        "latitude": -13.539751,
+        "longitude": -172.519312
+    },
+    {
+        "name": "Amaile",
+        "country": "Samoa",
+        "province": "Samoa",
+        "population": 221,
+        "latitude": -13.997228,
+        "longitude": -171.428966
+    },
+    {
+        "name": "Afiamalu",
+        "country": "Samoa",
+        "province": "Tuamasaga",
+        "population": -1,
+        "latitude": -13.91657,
+        "longitude": -171.71674
+    },
+    {
+        "name": "Manono-uta",
+        "country": "Samoa",
+        "province": "Aiga-i-le-Tai",
+        "population": -1,
+        "latitude": -13.89091117008351,
+        "longitude": -172.06409454345703
+    },
+    {
+        "name": "Gagaifoolevao",
+        "country": "Samoa",
+        "province": "Samoa",
+        "population": -1,
+        "latitude": -13.964514,
+        "longitude": -171.955325
+    },
+    {
+        "name": "Matāutu",
+        "country": "Samoa",
+        "province": "Tuamasaga",
+        "population": -1,
+        "latitude": -14.04694,
+        "longitude": -171.44047
+    },
+    {
+        "name": "Paepae‘alā",
+        "country": "Samoa",
+        "province": "Samoa",
+        "population": -1,
+        "latitude": -13.836115,
+        "longitude": -172.040323
+    },
+    {
+        "name": "Tafa’igata",
+        "country": "Samoa",
+        "province": "Samoa",
+        "population": -1,
+        "latitude": -13.850895,
+        "longitude": -171.830007
+    },
+    {
+        "name": "Alafua",
+        "country": "Samoa",
+        "province": "Samoa",
+        "population": -1,
+        "latitude": -13.857132,
+        "longitude": -171.786067
+    },
+    {
+        "name": "Lotopa",
+        "country": "Samoa",
+        "province": "Tuamasaga",
+        "population": -1,
+        "latitude": -13.846702,
+        "longitude": -171.787035
+    },
+    {
+        "name": "Pesega",
+        "country": "Samoa",
+        "province": "Tuamasaga",
+        "population": -1,
+        "latitude": -13.837354,
+        "longitude": -171.784072
+    },
+    {
+        "name": "Lalovaea",
+        "country": "Samoa",
+        "province": "Tuamasaga",
+        "population": -1,
+        "latitude": -13.839867,
+        "longitude": -171.766638
+    },
+    {
+        "name": "Letava",
+        "country": "Samoa",
+        "province": "Samoa",
+        "population": -1,
+        "latitude": -13.878121,
+        "longitude": -171.765655
+    },
+    {
+        "name": "Lepuia’i",
+        "country": "Samoa",
+        "province": "Aiga-i-le-Tai",
+        "population": -1,
+        "latitude": -13.85659,
+        "longitude": -172.113167
+    },
+    {
+        "name": "Apai",
+        "country": "Samoa",
+        "province": "Aiga-i-le-Tai",
+        "population": -1,
+        "latitude": -13.847537,
+        "longitude": -172.118071
+    },
+    {
+        "name": "Salua",
+        "country": "Samoa",
+        "province": "Aiga-i-le-Tai",
+        "population": -1,
+        "latitude": -13.845489,
+        "longitude": -172.10503
+    },
+    {
+        "name": "Vaito‘omuli",
+        "country": "Samoa",
+        "province": "Samoa",
+        "population": -1,
+        "latitude": -13.75804,
+        "longitude": -172.302666
+    },
+    {
+        "name": "Mosula",
+        "country": "Samoa",
+        "province": "Samoa",
+        "population": -1,
+        "latitude": -13.756617,
+        "longitude": -172.3219
+    },
+    {
+        "name": "Pitonuu",
+        "country": "Samoa",
+        "province": "Samoa",
+        "population": -1,
+        "latitude": -13.762944,
+        "longitude": -172.324009
+    },
+    {
+        "name": "Vaega",
+        "country": "Samoa",
+        "province": "Satupa‘itea",
+        "population": -1,
+        "latitude": -13.770065,
+        "longitude": -172.326665
+    },
+    {
+        "name": "Vaiala",
+        "country": "Samoa",
+        "province": "Samoa",
+        "population": -1,
+        "latitude": -13.773063,
+        "longitude": -172.381019
+    },
+    {
+        "name": "Siuniu",
+        "country": "Samoa",
+        "province": "Samoa",
+        "population": -1,
+        "latitude": -13.774148,
+        "longitude": -172.436261
+    },
+    {
+        "name": "Salelavalu-tai",
+        "country": "Samoa",
+        "province": "Samoa",
+        "population": -1,
+        "latitude": -13.721089,
+        "longitude": -172.197326
+    },
+    {
+        "name": "Vai’afai",
+        "country": "Samoa",
+        "province": "Samoa",
+        "population": -1,
+        "latitude": -13.705581,
+        "longitude": -172.204096
+    },
+    {
+        "name": "Fatausi",
+        "country": "Samoa",
+        "province": "Samoa",
+        "population": -1,
+        "latitude": -13.676514,
+        "longitude": -172.178824
+    },
+    {
+        "name": "Fogapoā",
+        "country": "Samoa",
+        "province": "Fa‘asaleleaga",
+        "population": -1,
+        "latitude": -13.67264,
+        "longitude": -172.177164
+    },
+    {
+        "name": "Samataiuta",
+        "country": "Samoa",
+        "province": "Satupa‘itea",
+        "population": -1,
+        "latitude": -13.649262,
+        "longitude": -172.657254
+    },
+    {
+        "name": "Faletagaloa",
+        "country": "Samoa",
+        "province": "Gagaifomauga",
+        "population": -1,
+        "latitude": -13.469724,
+        "longitude": -172.426485
+    },
+    {
+        "name": "Lefagaoali’i",
+        "country": "Samoa",
+        "province": "Gagaifomauga",
+        "population": -1,
+        "latitude": -13.467519,
+        "longitude": -172.418685
+    },
+    {
+        "name": "Mauga",
+        "country": "Samoa",
+        "province": "Gaga‘emauga",
+        "population": -1,
+        "latitude": -13.475718,
+        "longitude": -172.315191
+    },
+    {
+        "name": "Vailele",
+        "country": "Samoa",
+        "province": "Tuamasaga",
+        "population": -1,
+        "latitude": -13.845676,
+        "longitude": -171.723173
+    },
+    {
+        "name": "Apolimatuai",
+        "country": "Samoa",
+        "province": "Samoa",
+        "population": -1,
+        "latitude": -13.82021,
+        "longitude": -172.151007
+    },
+    {
+        "name": "Safune",
+        "country": "Samoa",
+        "province": "Gagaifomauga",
+        "population": -1,
+        "latitude": -13.471688,
+        "longitude": -172.422794
+    },
+    {
+        "name": "Le'auva'a",
+        "country": "Samoa",
+        "province": "Samoa",
+        "population": -1,
+        "latitude": -13.8,
+        "longitude": -171.85
+    },
+    {
+        "name": "Toamua",
+        "country": "Samoa",
+        "province": "Samoa",
+        "population": 778,
+        "latitude": -13.807815,
+        "longitude": -171.812054
+    },
+    {
+        "name": "Saletele",
+        "country": "Samoa",
+        "province": "Samoa",
+        "population": 160,
+        "latitude": -13.912037,
+        "longitude": -171.555636
+    },
+    {
+        "name": "Sale’a’aumua",
+        "country": "Samoa",
+        "province": "Samoa",
+        "population": 544,
+        "latitude": -14.008733,
+        "longitude": -171.425591
+    },
+    {
+        "name": "Mutiatele",
+        "country": "Samoa",
+        "province": "Samoa",
+        "population": 283,
+        "latitude": -14.015071,
+        "longitude": -171.425059
+    },
+    {
+        "name": "Mulivai",
+        "country": "Samoa",
+        "province": "Samoa",
+        "population": 449,
+        "latitude": -14.003853,
+        "longitude": -171.802343
+    },
+    {
+        "name": "Matavai",
+        "country": "Samoa",
+        "province": "Gagaifomauga",
+        "population": 1308,
+        "latitude": -14.032082,
+        "longitude": -171.647678
+    },
+    {
+        "name": "Leagiagi",
+        "country": "Samoa",
+        "province": "Samoa",
+        "population": 124,
+        "latitude": -13.461465,
+        "longitude": -172.417931
+    },
+    {
+        "name": "Vaovai",
+        "country": "Samoa",
+        "province": "Samoa",
+        "population": 577,
+        "latitude": -14.036019,
+        "longitude": -171.679506
+    },
+    {
+        "name": "Vaotupua",
+        "country": "Samoa",
+        "province": "Samoa",
+        "population": -1,
+        "latitude": -13.503088,
+        "longitude": -172.790787
+    },
+    {
+        "name": "Vaipouli",
+        "country": "Samoa",
+        "province": "Samoa",
+        "population": 171,
+        "latitude": -13.465702,
+        "longitude": -172.368973
+    },
+    {
+        "name": "Vailu‘utai",
+        "country": "Samoa",
+        "province": "Samoa",
+        "population": -1,
+        "latitude": -13.829163,
+        "longitude": -171.969121
+    },
+    {
+        "name": "Vailoa",
+        "country": "Samoa",
+        "province": "Samoa",
+        "population": 336,
+        "latitude": -14.038876,
+        "longitude": -171.435344
+    },
+    {
+        "name": "Vaigaga",
+        "country": "Samoa",
+        "province": "Samoa",
+        "population": 760,
+        "latitude": -13.823689,
+        "longitude": -171.794843
+    },
+    {
+        "name": "Utulaelae",
+        "country": "Samoa",
+        "province": "Samoa",
+        "population": 166,
+        "latitude": -14.039522,
+        "longitude": -171.60604
+    },
+    {
+        "name": "Tulaele",
+        "country": "Samoa",
+        "province": "Samoa",
+        "population": -1,
+        "latitude": -13.837816,
+        "longitude": -171.790072
+    },
+    {
+        "name": "Tufulele",
+        "country": "Samoa",
+        "province": "Samoa",
+        "population": 905,
+        "latitude": -13.804959,
+        "longitude": -171.916021
+    },
+    {
+        "name": "Tapueleele",
+        "country": "Samoa",
+        "province": "Samoa",
+        "population": 228,
+        "latitude": -13.646748,
+        "longitude": -172.23622
+    },
+    {
+        "name": "Tafatafa",
+        "country": "Samoa",
+        "province": "Samoa",
+        "population": 224,
+        "latitude": -14.031474,
+        "longitude": -171.654398
+    },
+    {
+        "name": "Solaua",
+        "country": "Samoa",
+        "province": "Samoa",
+        "population": -1,
+        "latitude": -13.932255,
+        "longitude": -171.62971
+    },
+    {
+        "name": "Sogi",
+        "country": "Samoa",
+        "province": "Samoa",
+        "population": -1,
+        "latitude": -13.82837,
+        "longitude": -171.773728
+    },
+    {
+        "name": "Satui",
+        "country": "Samoa",
+        "province": "Samoa",
+        "population": 104,
+        "latitude": -13.814644,
+        "longitude": -171.944912
+    },
+    {
+        "name": "Satitoa",
+        "country": "Samoa",
+        "province": "Atua",
+        "population": 522,
+        "latitude": -14.0276,
+        "longitude": -171.430223
+    },
+    {
+        "name": "Satalo",
+        "country": "Samoa",
+        "province": "Samoa",
+        "population": 356,
+        "latitude": -14.038193,
+        "longitude": -171.632008
+    },
+    {
+        "name": "Sapunaoa",
+        "country": "Samoa",
+        "province": "Samoa",
+        "population": 408,
+        "latitude": -14.037282,
+        "longitude": -171.62703
+    },
+    {
+        "name": "Samea",
+        "country": "Samoa",
+        "province": "Samoa",
+        "population": 150,
+        "latitude": -13.837578,
+        "longitude": -172.041104
+    },
+    {
+        "name": "Salesatele",
+        "country": "Samoa",
+        "province": "Samoa",
+        "population": 330,
+        "latitude": -14.034776,
+        "longitude": -171.619513
+    },
+    {
+        "name": "Salepou‘a‘e",
+        "country": "Samoa",
+        "province": "Samoa",
+        "population": 774,
+        "latitude": -13.803584,
+        "longitude": -171.894315
+    },
+    {
+        "name": "Salelesi",
+        "country": "Samoa",
+        "province": "Samoa",
+        "population": 411,
+        "latitude": -13.88367,
+        "longitude": -171.625921
+    },
+    {
+        "name": "Saleilua",
+        "country": "Samoa",
+        "province": "Samoa",
+        "population": 604,
+        "latitude": -14.028816,
+        "longitude": -171.698403
+    },
+    {
+        "name": "Saina",
+        "country": "Samoa",
+        "province": "Samoa",
+        "population": 230,
+        "latitude": -13.817024,
+        "longitude": -171.806585
+    },
+    {
+        "name": "Puipa’a",
+        "country": "Samoa",
+        "province": "Samoa",
+        "population": -1,
+        "latitude": -13.803177,
+        "longitude": -171.818492
+    },
+    {
+        "name": "Piu",
+        "country": "Samoa",
+        "province": "Samoa",
+        "population": 69,
+        "latitude": -14.023083,
+        "longitude": -171.630447
+    },
+    {
+        "name": "Paia",
+        "country": "Samoa",
+        "province": "Samoa",
+        "population": 308,
+        "latitude": -13.472429,
+        "longitude": -172.405922
+    },
+    {
+        "name": "Niusuatia",
+        "country": "Samoa",
+        "province": "Samoa",
+        "population": 331,
+        "latitude": -13.98432,
+        "longitude": -171.83856
+    },
+    {
+        "name": "Matautu",
+        "country": "Samoa",
+        "province": "Atua",
+        "population": 854,
+        "latitude": -14.038307,
+        "longitude": -171.677633
+    },
+    {
+        "name": "Matautu",
+        "country": "Samoa",
+        "province": "Atua",
+        "population": 350,
+        "latitude": -13.969795,
+        "longitude": -171.950709
+    },
+    {
+        "name": "Matafagatele",
+        "country": "Samoa",
+        "province": "Samoa",
+        "population": -1,
+        "latitude": -13.839085,
+        "longitude": -171.743801
+    },
+    {
+        "name": "Maninoa",
+        "country": "Samoa",
+        "province": "Samoa",
+        "population": 366,
+        "latitude": -14.008614,
+        "longitude": -171.788331
+    },
+    {
+        "name": "Maalauli",
+        "country": "Samoa",
+        "province": "Samoa",
+        "population": -1,
+        "latitude": -13.842497,
+        "longitude": -171.729128
+    },
+    {
+        "name": "Magia",
+        "country": "Samoa",
+        "province": "Samoa",
+        "population": -1,
+        "latitude": -13.828925,
+        "longitude": -171.985475
+    },
+    {
+        "name": "Levī",
+        "country": "Samoa",
+        "province": "Samoa",
+        "population": 989,
+        "latitude": -13.913612,
+        "longitude": -172.010949
+    },
+    {
+        "name": "Levi",
+        "country": "Samoa",
+        "province": "Samoa",
+        "population": 125,
+        "latitude": -13.797659,
+        "longitude": -171.882768
+    },
+    {
+        "name": "Letui",
+        "country": "Samoa",
+        "province": "Samoa",
+        "population": 273,
+        "latitude": -13.495269,
+        "longitude": -172.470793
+    },
+    {
+        "name": "Leatupe",
+        "country": "Samoa",
+        "province": "Samoa",
+        "population": -1,
+        "latitude": -14.039219,
+        "longitude": -171.582619
+    },
+    {
+        "name": "Lalovi",
+        "country": "Samoa",
+        "province": "Samoa",
+        "population": 322,
+        "latitude": -13.851706,
+        "longitude": -172.057215
+    },
+    {
+        "name": "Lalomauga",
+        "country": "Samoa",
+        "province": "Samoa",
+        "population": -1,
+        "latitude": -13.915628,
+        "longitude": -171.600671
+    },
+    {
+        "name": "Gautavai",
+        "country": "Samoa",
+        "province": "Palauli",
+        "population": 171,
+        "latitude": -13.776177,
+        "longitude": -172.383922
+    },
+    {
+        "name": "Fusi",
+        "country": "Samoa",
+        "province": "Samoa",
+        "population": 447,
+        "latitude": -13.995914,
+        "longitude": -171.829435
+    },
+    {
+        "name": "Fusi",
+        "country": "Samoa",
+        "province": "Samoa",
+        "population": 764,
+        "latitude": -13.886448,
+        "longitude": -171.621797
+    },
+    {
+        "name": "Fausaga",
+        "country": "Samoa",
+        "province": "Samoa",
+        "population": 303,
+        "latitude": -14.000601,
+        "longitude": -171.824437
+    },
+    {
+        "name": "Falevao",
+        "country": "Samoa",
+        "province": "Samoa",
+        "population": 552,
+        "latitude": -13.92067,
+        "longitude": -171.586576
+    },
+    {
+        "name": "Falevai",
+        "country": "Samoa",
+        "province": "Samoa",
+        "population": 202,
+        "latitude": -13.916321,
+        "longitude": -172.006203
+    },
+    {
+        "name": "Fetaulaiga",
+        "country": "Samoa",
+        "province": "Samoa",
+        "population": -1,
+        "latitude": -13.99839,
+        "longitude": -171.582988
+    },
+    {
+        "name": "Fagali‘i",
+        "country": "Samoa",
+        "province": "Samoa",
+        "population": -1,
+        "latitude": -13.843135,
+        "longitude": -171.736945
+    },
+    {
+        "name": "Eva",
+        "country": "Samoa",
+        "province": "Samoa",
+        "population": 266,
+        "latitude": -13.879591,
+        "longitude": -171.629544
+    },
+    {
+        "name": "Asaga",
+        "country": "Samoa",
+        "province": "Samoa",
+        "population": 337,
+        "latitude": -13.604535,
+        "longitude": -172.203827
+    },
+    {
+        "name": "Ma’agao",
+        "country": "Samoa",
+        "province": "Samoa",
+        "population": -1,
+        "latitude": -13.830932,
+        "longitude": -171.90543
+    },
+    {
+        "name": "Maota",
+        "country": "Samoa",
+        "province": "Samoa",
+        "population": -1,
+        "latitude": -13.746497,
+        "longitude": -172.264221
+    },
+    {
+        "name": "Tanoaalea",
+        "country": "Samoa",
+        "province": "Samoa",
+        "population": -1,
+        "latitude": -13.722446,
+        "longitude": -172.585766
+    },
+    {
+        "name": "Vaivase",
+        "country": "Samoa",
+        "province": "Samoa",
+        "population": -1,
+        "latitude": -13.845194,
+        "longitude": -171.746668
+    },
+    {
+        "name": "Vai’ula",
+        "country": "Samoa",
+        "province": "Samoa",
+        "population": -1,
+        "latitude": -14.039826,
+        "longitude": -171.661122
+    },
+    {
+        "name": "Vaimoa",
+        "country": "Samoa",
+        "province": "Samoa",
+        "population": -1,
+        "latitude": -13.85,
+        "longitude": -172.0333333
+    },
+    {
+        "name": "Vaimauga",
+        "country": "Samoa",
+        "province": "Samoa",
+        "population": -1,
+        "latitude": -13.85212,
+        "longitude": -171.74585
+    },
+    {
+        "name": "Vailoa",
+        "country": "Samoa",
+        "province": "Samoa",
+        "population": -1,
+        "latitude": -13.831226,
+        "longitude": -171.791263
+    },
+    {
+        "name": "Vaigalu",
+        "country": "Samoa",
+        "province": "Samoa",
+        "population": 97,
+        "latitude": -14.040152,
+        "longitude": -171.523061
+    },
+    {
+        "name": "Vaifoa",
+        "country": "Samoa",
+        "province": "Samoa",
+        "population": -1,
+        "latitude": -13.798374,
+        "longitude": -171.84213
+    },
+    {
+        "name": "Vaiālua",
+        "country": "Samoa",
+        "province": "Samoa",
+        "population": -1,
+        "latitude": -13.818487,
+        "longitude": -171.955649
+    },
+    {
+        "name": "Utuloa",
+        "country": "Samoa",
+        "province": "Samoa",
+        "population": 34,
+        "latitude": -13.508128,
+        "longitude": -172.635013
+    },
+    {
+        "name": "Utufa’alalafa",
+        "country": "Samoa",
+        "province": "Samoa",
+        "population": 89,
+        "latitude": -14.003721,
+        "longitude": -171.425895
+    },
+    {
+        "name": "Utuali‘i",
+        "country": "Samoa",
+        "province": "Samoa",
+        "population": -1,
+        "latitude": -13.79996,
+        "longitude": -171.908484
+    },
+    {
+        "name": "Uliamoa",
+        "country": "Samoa",
+        "province": "Samoa",
+        "population": -1,
+        "latitude": -13.6833333,
+        "longitude": -172.3166667
+    },
+    {
+        "name": "Tulivae",
+        "country": "Samoa",
+        "province": "Samoa",
+        "population": -1,
+        "latitude": -13.890989,
+        "longitude": -172.064916
+    },
+    {
+        "name": "Tufu",
+        "country": "Samoa",
+        "province": "Samoa",
+        "population": -1,
+        "latitude": -13.7666667,
+        "longitude": -172.3666667
+    },
+    {
+        "name": "Tiavi",
+        "country": "Samoa",
+        "province": "Samoa",
+        "population": -1,
+        "latitude": -13.925275,
+        "longitude": -171.781498
+    },
+    {
+        "name": "Tiapapata",
+        "country": "Samoa",
+        "province": "Samoa",
+        "population": -1,
+        "latitude": -13.889323,
+        "longitude": -171.771575
+    },
+    {
+        "name": "Taumuafa",
+        "country": "Samoa",
+        "province": "Samoa",
+        "population": -1,
+        "latitude": -13.8333333,
+        "longitude": -171.7833333
+    },
+    {
+        "name": "Tanuoa",
+        "country": "Samoa",
+        "province": "Samoa",
+        "population": -1,
+        "latitude": -13.8,
+        "longitude": -171.9
+    },
+    {
+        "name": "Tafagamanu",
+        "country": "Samoa",
+        "province": "Samoa",
+        "population": 314,
+        "latitude": -13.948176,
+        "longitude": -171.960249
+    },
+    {
+        "name": "Suga",
+        "country": "Samoa",
+        "province": "Samoa",
+        "population": -1,
+        "latitude": -13.849074,
+        "longitude": -171.721963
+    },
+    {
+        "name": "Solomea",
+        "country": "Samoa",
+        "province": "Samoa",
+        "population": -1,
+        "latitude": -13.51735,
+        "longitude": -172.263527
+    },
+    {
+        "name": "Siuvao",
+        "country": "Samoa",
+        "province": "Vaisigano",
+        "population": -1,
+        "latitude": -13.5666667,
+        "longitude": -172.6666667
+    },
+    {
+        "name": "Si’upapa",
+        "country": "Samoa",
+        "province": "Samoa",
+        "population": 53,
+        "latitude": -14.041267,
+        "longitude": -171.512455
+    },
+    {
+        "name": "Siu’faga",
+        "country": "Samoa",
+        "province": "Samoa",
+        "population": -1,
+        "latitude": -13.906855,
+        "longitude": -172.03915
+    },
+    {
+        "name": "Savalalo",
+        "country": "Samoa",
+        "province": "Samoa",
+        "population": -1,
+        "latitude": -13.830111,
+        "longitude": -171.772465
+    },
+    {
+        "name": "Sauniatu",
+        "country": "Samoa",
+        "province": "Samoa",
+        "population": 81,
+        "latitude": -13.924916,
+        "longitude": -171.621632
+    },
+    {
+        "name": "Saumaga",
+        "country": "Samoa",
+        "province": "Samoa",
+        "population": -1,
+        "latitude": -13.457728,
+        "longitude": -172.414683
+    },
+    {
+        "name": "Satuimalufilufi",
+        "country": "Samoa",
+        "province": "Samoa",
+        "population": -1,
+        "latitude": -13.856213,
+        "longitude": -172.06014
+    },
+    {
+        "name": "Sataputu",
+        "country": "Samoa",
+        "province": "Samoa",
+        "population": -1,
+        "latitude": -13.6833333,
+        "longitude": -172.55
+    },
+    {
+        "name": "Sapo’e",
+        "country": "Samoa",
+        "province": "Samoa",
+        "population": 105,
+        "latitude": -14.040737,
+        "longitude": -171.601864
+    },
+    {
+        "name": "Samusu",
+        "country": "Samoa",
+        "province": "Samoa",
+        "population": 686,
+        "latitude": -14.001215,
+        "longitude": -171.42635
+    },
+    {
+        "name": "Sama‘i",
+        "country": "Samoa",
+        "province": "Samoa",
+        "population": -1,
+        "latitude": -13.916837,
+        "longitude": -172.005181
+    },
+    {
+        "name": "Saluafata",
+        "country": "Samoa",
+        "province": "Samoa",
+        "population": -1,
+        "latitude": -13.875505,
+        "longitude": -171.60244
+    },
+    {
+        "name": "Salimu",
+        "country": "Samoa",
+        "province": "Samoa",
+        "population": 250,
+        "latitude": -13.65,
+        "longitude": -172.1166667
+    },
+    {
+        "name": "Salani",
+        "country": "Samoa",
+        "province": "Atua",
+        "population": 524,
+        "latitude": -14,
+        "longitude": -171.5666667
+    },
+    {
+        "name": "Salani",
+        "country": "Samoa",
+        "province": "Samoa",
+        "population": -1,
+        "latitude": -14.034245,
+        "longitude": -171.608318
+    },
+    {
+        "name": "Sa’anapu",
+        "country": "Samoa",
+        "province": "Samoa",
+        "population": -1,
+        "latitude": -13.992802,
+        "longitude": -171.875957
+    },
+    {
+        "name": "Sa’aga",
+        "country": "Samoa",
+        "province": "Samoa",
+        "population": 490,
+        "latitude": -14.02837,
+        "longitude": -171.771749
+    },
+    {
+        "name": "Piula",
+        "country": "Samoa",
+        "province": "Samoa",
+        "population": -1,
+        "latitude": -13.873813,
+        "longitude": -171.597126
+    },
+    {
+        "name": "Papase’ea",
+        "country": "Samoa",
+        "province": "Samoa",
+        "population": -1,
+        "latitude": -13.862099,
+        "longitude": -171.806252
+    },
+    {
+        "name": "Papaloloa",
+        "country": "Samoa",
+        "province": "Samoa",
+        "population": -1,
+        "latitude": -13.856751,
+        "longitude": -171.754576
+    },
+    {
+        "name": "Papa",
+        "country": "Samoa",
+        "province": "Samoa",
+        "population": -1,
+        "latitude": -13.772022,
+        "longitude": -172.365149
+    },
+    {
+        "name": "Nefunefu",
+        "country": "Samoa",
+        "province": "Samoa",
+        "population": 141,
+        "latitude": -13.911986,
+        "longitude": -172.020443
+    },
+    {
+        "name": "Namoa",
+        "country": "Samoa",
+        "province": "Samoa",
+        "population": -1,
+        "latitude": -14.0166667,
+        "longitude": -171.8
+    },
+    {
+        "name": "Moamoa",
+        "country": "Samoa",
+        "province": "Samoa",
+        "population": -1,
+        "latitude": -13.866554,
+        "longitude": -171.785406
+    },
+    {
+        "name": "Matautu",
+        "country": "Samoa",
+        "province": "Atua",
+        "population": -1,
+        "latitude": -13.913216,
+        "longitude": -172.012694
+    },
+    {
+        "name": "Matapunga",
+        "country": "Samoa",
+        "province": "Samoa",
+        "population": -1,
+        "latitude": -13.85,
+        "longitude": -172.0333333
+    },
+    {
+        "name": "Matanofo",
+        "country": "Samoa",
+        "province": "Samoa",
+        "population": 80,
+        "latitude": -13.9166667,
+        "longitude": -171.9833333
+    },
+    {
+        "name": "Matailiili",
+        "country": "Samoa",
+        "province": "Samoa",
+        "population": -1,
+        "latitude": -13.810526,
+        "longitude": -171.935127
+    },
+    {
+        "name": "Matafele",
+        "country": "Samoa",
+        "province": "Samoa",
+        "population": -1,
+        "latitude": -13.829646,
+        "longitude": -171.767989
+    },
+    {
+        "name": "Manunu",
+        "country": "Samoa",
+        "province": "Samoa",
+        "population": 284,
+        "latitude": -13.9,
+        "longitude": -171.5666667
+    },
+    {
+        "name": "Malololelei",
+        "country": "Samoa",
+        "province": "Tuamasaga",
+        "population": -1,
+        "latitude": -13.90564,
+        "longitude": -171.77836
+    },
+    {
+        "name": "Malaetele",
+        "country": "Samoa",
+        "province": "Samoa",
+        "population": -1,
+        "latitude": -13.4833333,
+        "longitude": -172.7833333
+    },
+    {
+        "name": "Malaemalu",
+        "country": "Samoa",
+        "province": "Samoa",
+        "population": -1,
+        "latitude": -14.032689,
+        "longitude": -171.643017
+    },
+    {
+        "name": "Magiagi",
+        "country": "Samoa",
+        "province": "Samoa",
+        "population": -1,
+        "latitude": -13.851185,
+        "longitude": -171.749229
+    },
+    {
+        "name": "Leusoali’i",
+        "country": "Samoa",
+        "province": "Samoa",
+        "population": 371,
+        "latitude": -13.863964,
+        "longitude": -171.689912
+    },
+    {
+        "name": "Leauva‘a",
+        "country": "Samoa",
+        "province": "Samoa",
+        "population": -1,
+        "latitude": -13.797739,
+        "longitude": -171.873485
+    },
+    {
+        "name": "Lealaalii",
+        "country": "Samoa",
+        "province": "Samoa",
+        "population": -1,
+        "latitude": -13.806308,
+        "longitude": -171.924278
+    },
+    {
+        "name": "Lata",
+        "country": "Samoa",
+        "province": "Samoa",
+        "population": -1,
+        "latitude": -14.045786,
+        "longitude": -171.446354
+    },
+    {
+        "name": "Lara Lafa",
+        "country": "Samoa",
+        "province": "Samoa",
+        "population": -1,
+        "latitude": -13.85,
+        "longitude": -171.7333333
+    },
+    {
+        "name": "Lanafala",
+        "country": "Samoa",
+        "province": "Samoa",
+        "population": -1,
+        "latitude": -13.9,
+        "longitude": -171.75
+    },
+    {
+        "name": "Lalomauga",
+        "country": "Samoa",
+        "province": "Samoa",
+        "population": 406,
+        "latitude": -13.9,
+        "longitude": -171.5666667
+    },
+    {
+        "name": "Lalomauga",
+        "country": "Samoa",
+        "province": "Samoa",
+        "population": -1,
+        "latitude": -13.8666667,
+        "longitude": -171.95
+    },
+    {
+        "name": "Ili’ili",
+        "country": "Samoa",
+        "province": "Samoa",
+        "population": 30,
+        "latitude": -14.032264,
+        "longitude": -171.704102
+    },
+    {
+        "name": "Gagaemalae",
+        "country": "Samoa",
+        "province": "Samoa",
+        "population": -1,
+        "latitude": -13.710272,
+        "longitude": -172.598334
+    },
+    {
+        "name": "Fatuvalu",
+        "country": "Samoa",
+        "province": "Samoa",
+        "population": 170,
+        "latitude": -13.469366,
+        "longitude": -172.434406
+    },
+    {
+        "name": "Falepouma‘a",
+        "country": "Samoa",
+        "province": "Samoa",
+        "population": -1,
+        "latitude": -13.916667,
+        "longitude": -171.7
+    },
+    {
+        "name": "Faleolo",
+        "country": "Samoa",
+        "province": "Samoa",
+        "population": 16,
+        "latitude": -13.827459,
+        "longitude": -172.014993
+    },
+    {
+        "name": "Faleolo",
+        "country": "Samoa",
+        "province": "Samoa",
+        "population": -1,
+        "latitude": -13.4833333,
+        "longitude": -172.7833333
+    },
+    {
+        "name": "Falelatai",
+        "country": "Samoa",
+        "province": "Samoa",
+        "population": -1,
+        "latitude": -13.912471,
+        "longitude": -172.016001
+    },
+    {
+        "name": "Faleatiu",
+        "country": "Samoa",
+        "province": "A'ana",
+        "population": 847,
+        "latitude": -13.828846,
+        "longitude": -171.978954
+    },
+    {
+        "name": "Faleata",
+        "country": "Samoa",
+        "province": "Samoa",
+        "population": -1,
+        "latitude": -13.84442,
+        "longitude": -171.78955
+    },
+    {
+        "name": "Faleasi‘u",
+        "country": "Samoa",
+        "province": "Samoa",
+        "population": -1,
+        "latitude": -13.807418,
+        "longitude": -171.928642
+    },
+    {
+        "name": "Faga",
+        "country": "Samoa",
+        "province": "Samoa",
+        "population": -1,
+        "latitude": -13.659779,
+        "longitude": -172.183566
+    },
+    {
+        "name": "Etemuli",
+        "country": "Samoa",
+        "province": "Samoa",
+        "population": -1,
+        "latitude": -14.04066,
+        "longitude": -171.557406
+    },
+    {
+        "name": "Avatā",
+        "country": "Samoa",
+        "province": "Samoa",
+        "population": 302,
+        "latitude": -13.494739,
+        "longitude": -172.783172
+    },
+    {
+        "name": "Ahners",
+        "country": "Samoa",
+        "province": "Samoa",
+        "population": -1,
+        "latitude": -13.83354,
+        "longitude": -171.74704
+    },
+    {
+        "name": "Aganoa",
+        "country": "Samoa",
+        "province": "Samoa",
+        "population": -1,
+        "latitude": -14.030675,
+        "longitude": -171.766354
+    },
+    {
+        "name": "Saleufi",
+        "country": "Samoa",
+        "province": "Samoa",
+        "population": -1,
+        "latitude": -13.834831,
+        "longitude": -171.771183
+    },
+    {
+        "name": "Manunu",
+        "country": "Samoa",
+        "province": "Samoa",
+        "population": -1,
+        "latitude": -13.916042,
+        "longitude": -171.617916
+    },
+    {
+        "name": "Kosena",
+        "country": "Samoa",
+        "province": "Samoa",
+        "population": -1,
+        "latitude": -13.995331,
+        "longitude": -171.597564
+    },
+    {
+        "name": "Mount Vaipu",
+        "country": "Samoa",
+        "province": "Samoa",
+        "population": -1,
+        "latitude": -13.977695,
+        "longitude": -171.608812
+    },
+    {
+        "name": "Ti’avea",
+        "country": "Samoa",
+        "province": "Samoa",
+        "population": -1,
+        "latitude": -13.976215,
+        "longitude": -171.467802
+    },
+    {
+        "name": "Sasita",
+        "country": "Samoa",
+        "province": "Samoa",
+        "population": -1,
+        "latitude": -14.040095,
+        "longitude": -171.560977
+    },
+    {
+        "name": "To-le-sua",
+        "country": "Samoa",
+        "province": "Samoa",
+        "population": -1,
+        "latitude": -14.03899,
+        "longitude": -171.548877
+    },
+    {
+        "name": "To-sua",
+        "country": "Samoa",
+        "province": "Samoa",
+        "population": -1,
+        "latitude": -14.040937,
+        "longitude": -171.548666
+    },
+    {
+        "name": "Toloavatu",
+        "country": "Samoa",
+        "province": "Samoa",
+        "population": -1,
+        "latitude": -14.041779,
+        "longitude": -171.551139
+    },
+    {
+        "name": "Pinipini",
+        "country": "Samoa",
+        "province": "Samoa",
+        "population": -1,
+        "latitude": -14.04362,
+        "longitude": -171.544142
+    },
+    {
+        "name": "Apolimafou",
+        "country": "Samoa",
+        "province": "Samoa",
+        "population": -1,
+        "latitude": -13.861805,
+        "longitude": -172.06447
+    },
+    {
+        "name": "Vailavea",
+        "country": "Samoa",
+        "province": "Samoa",
+        "population": -1,
+        "latitude": -13.902564,
+        "longitude": -172.053734
+    },
+    {
+        "name": "Utumalama Point",
+        "country": "Samoa",
+        "province": "Samoa",
+        "population": -1,
+        "latitude": -14.002013,
+        "longitude": -171.889017
+    },
+    {
+        "name": "Sataoauta",
+        "country": "Samoa",
+        "province": "Samoa",
+        "population": -1,
+        "latitude": -13.976734,
+        "longitude": -171.866151
+    },
+    {
+        "name": "Lotofagauta",
+        "country": "Samoa",
+        "province": "Samoa",
+        "population": -1,
+        "latitude": -13.975525,
+        "longitude": -171.851363
+    },
+    {
+        "name": "Sa’agafou",
+        "country": "Samoa",
+        "province": "Samoa",
+        "population": -1,
+        "latitude": -14.010451,
+        "longitude": -171.759307
+    },
+    {
+        "name": "Samusu-uta",
+        "country": "Samoa",
+        "province": "Samoa",
+        "population": -1,
+        "latitude": -13.994101,
+        "longitude": -171.462053
+    },
+    {
+        "name": "Afia",
+        "country": "Samoa",
+        "province": "Samoa",
+        "population": -1,
+        "latitude": -13.843587,
+        "longitude": -172.021669
+    },
+    {
+        "name": "Sina",
+        "country": "Samoa",
+        "province": "Samoa",
+        "population": -1,
+        "latitude": -13.83908,
+        "longitude": -171.994824
+    },
+    {
+        "name": "Tafue",
+        "country": "Samoa",
+        "province": "Samoa",
+        "population": -1,
+        "latitude": -13.843138,
+        "longitude": -171.925091
+    },
+    {
+        "name": "A’elefou",
+        "country": "Samoa",
+        "province": "Samoa",
+        "population": -1,
+        "latitude": -13.817152,
+        "longitude": -171.828525
+    },
+    {
+        "name": "A’ele",
+        "country": "Samoa",
+        "province": "Samoa",
+        "population": -1,
+        "latitude": -13.825157,
+        "longitude": -171.82699
+    },
+    {
+        "name": "Nuu",
+        "country": "Samoa",
+        "province": "Samoa",
+        "population": -1,
+        "latitude": -13.824929,
+        "longitude": -171.833202
+    },
+    {
+        "name": "Vaipoto",
+        "country": "Samoa",
+        "province": "Samoa",
+        "population": -1,
+        "latitude": -13.839349,
+        "longitude": -171.833658
+    },
+    {
+        "name": "Petesa-fou",
+        "country": "Samoa",
+        "province": "Samoa",
+        "population": -1,
+        "latitude": -13.83325,
+        "longitude": -171.818269
+    },
+    {
+        "name": "Vaitele-uta",
+        "country": "Samoa",
+        "province": "Samoa",
+        "population": -1,
+        "latitude": -13.831878,
+        "longitude": -171.810204
+    },
+    {
+        "name": "Olosega",
+        "country": "Samoa",
+        "province": "Samoa",
+        "population": -1,
+        "latitude": -13.841849,
+        "longitude": -171.853633
+    },
+    {
+        "name": "Lafi",
+        "country": "Samoa",
+        "province": "Samoa",
+        "population": -1,
+        "latitude": -13.849887,
+        "longitude": -171.846695
+    },
+    {
+        "name": "Faleauniu",
+        "country": "Samoa",
+        "province": "Samoa",
+        "population": -1,
+        "latitude": -13.84824,
+        "longitude": -171.822202
+    },
+    {
+        "name": "Tanumapua",
+        "country": "Samoa",
+        "province": "Samoa",
+        "population": -1,
+        "latitude": -13.862717,
+        "longitude": -171.820492
+    },
+    {
+        "name": "Ululoloa",
+        "country": "Samoa",
+        "province": "Samoa",
+        "population": -1,
+        "latitude": -13.856847,
+        "longitude": -171.810518
+    },
+    {
+        "name": "Se’ese’e",
+        "country": "Samoa",
+        "province": "Samoa",
+        "population": -1,
+        "latitude": -13.854738,
+        "longitude": -171.807098
+    },
+    {
+        "name": "Tua‘efu",
+        "country": "Samoa",
+        "province": "Samoa",
+        "population": -1,
+        "latitude": -13.857189,
+        "longitude": -171.799005
+    },
+    {
+        "name": "Tapatapao",
+        "country": "Samoa",
+        "province": "Samoa",
+        "population": -1,
+        "latitude": -13.875958,
+        "longitude": -171.830834
+    },
+    {
+        "name": "Leaupuni",
+        "country": "Samoa",
+        "province": "Samoa",
+        "population": -1,
+        "latitude": -13.884034,
+        "longitude": -171.831663
+    },
+    {
+        "name": "Falemauga",
+        "country": "Samoa",
+        "province": "Samoa",
+        "population": -1,
+        "latitude": -13.880956,
+        "longitude": -171.84027
+    },
+    {
+        "name": "Laloanea",
+        "country": "Samoa",
+        "province": "Samoa",
+        "population": -1,
+        "latitude": -13.881626,
+        "longitude": -171.851385
+    },
+    {
+        "name": "Talimatau",
+        "country": "Samoa",
+        "province": "Samoa",
+        "population": -1,
+        "latitude": -13.842484,
+        "longitude": -171.796212
+    },
+    {
+        "name": "Vaitoloa",
+        "country": "Samoa",
+        "province": "Samoa",
+        "population": -1,
+        "latitude": -13.833421,
+        "longitude": -171.789087
+    },
+    {
+        "name": "Alamagoto",
+        "country": "Samoa",
+        "province": "Samoa",
+        "population": -1,
+        "latitude": -13.846417,
+        "longitude": -171.775864
+    },
+    {
+        "name": "Sinamoga",
+        "country": "Samoa",
+        "province": "Samoa",
+        "population": -1,
+        "latitude": -13.850805,
+        "longitude": -171.779227
+    },
+    {
+        "name": "Leufisa",
+        "country": "Samoa",
+        "province": "Samoa",
+        "population": -1,
+        "latitude": -13.847034,
+        "longitude": -171.764138
+    },
+    {
+        "name": "Leone",
+        "country": "Samoa",
+        "province": "Samoa",
+        "population": -1,
+        "latitude": -13.835187,
+        "longitude": -171.757661
+    },
+    {
+        "name": "Faatoia",
+        "country": "Samoa",
+        "province": "Samoa",
+        "population": -1,
+        "latitude": -13.841823,
+        "longitude": -171.753108
+    },
+    {
+        "name": "Vaipuna",
+        "country": "Samoa",
+        "province": "Samoa",
+        "population": -1,
+        "latitude": -13.831243,
+        "longitude": -171.753718
+    },
+    {
+        "name": "Vaivase-uta",
+        "country": "Samoa",
+        "province": "Samoa",
+        "population": -1,
+        "latitude": -13.856418,
+        "longitude": -171.744914
+    },
+    {
+        "name": "Avele",
+        "country": "Samoa",
+        "province": "Samoa",
+        "population": -1,
+        "latitude": -13.869443,
+        "longitude": -171.762577
+    },
+    {
+        "name": "Vaoala",
+        "country": "Samoa",
+        "province": "Samoa",
+        "population": -1,
+        "latitude": -13.87406,
+        "longitude": -171.763389
+    },
+    {
+        "name": "Fasafasa",
+        "country": "Samoa",
+        "province": "Samoa",
+        "population": -1,
+        "latitude": -13.915339,
+        "longitude": -171.808979
+    },
+    {
+        "name": "Papaoga",
+        "country": "Samoa",
+        "province": "Samoa",
+        "population": -1,
+        "latitude": -13.923158,
+        "longitude": -171.802626
+    },
+    {
+        "name": "Papapapaitai",
+        "country": "Samoa",
+        "province": "Samoa",
+        "population": -1,
+        "latitude": -13.942327,
+        "longitude": -171.774162
+    },
+    {
+        "name": "Falemoa",
+        "country": "Samoa",
+        "province": "Samoa",
+        "population": -1,
+        "latitude": -13.843442,
+        "longitude": -172.117479
+    },
+    {
+        "name": "Satuilagi",
+        "country": "Samoa",
+        "province": "Samoa",
+        "population": -1,
+        "latitude": -13.841232,
+        "longitude": -172.107725
+    },
+    {
+        "name": "Pagai",
+        "country": "Samoa",
+        "province": "Samoa",
+        "population": -1,
+        "latitude": -13.847429,
+        "longitude": -172.103683
+    },
+    {
+        "name": "Satoi",
+        "country": "Samoa",
+        "province": "Samoa",
+        "population": -1,
+        "latitude": -13.850932,
+        "longitude": -172.101689
+    },
+    {
+        "name": "Faaala",
+        "country": "Samoa",
+        "province": "Samoa",
+        "population": -1,
+        "latitude": -13.757921,
+        "longitude": -172.292885
+    },
+    {
+        "name": "Nu’ualofa",
+        "country": "Samoa",
+        "province": "Samoa",
+        "population": -1,
+        "latitude": -13.756516,
+        "longitude": -172.305868
+    },
+    {
+        "name": "Vaegauta",
+        "country": "Samoa",
+        "province": "Samoa",
+        "population": -1,
+        "latitude": -13.755744,
+        "longitude": -172.333929
+    },
+    {
+        "name": "Satufiauta",
+        "country": "Samoa",
+        "province": "Samoa",
+        "population": -1,
+        "latitude": -13.755267,
+        "longitude": -172.352291
+    },
+    {
+        "name": "Nofoa",
+        "country": "Samoa",
+        "province": "Samoa",
+        "population": -1,
+        "latitude": -13.774855,
+        "longitude": -172.431905
+    },
+    {
+        "name": "Masalaolao",
+        "country": "Samoa",
+        "province": "Samoa",
+        "population": -1,
+        "latitude": -13.774337,
+        "longitude": -172.445168
+    },
+    {
+        "name": "Tamasaga",
+        "country": "Samoa",
+        "province": "Samoa",
+        "population": -1,
+        "latitude": -13.775542,
+        "longitude": -172.454703
+    },
+    {
+        "name": "Falealia",
+        "country": "Samoa",
+        "province": "Samoa",
+        "population": -1,
+        "latitude": -13.772306,
+        "longitude": -172.459328
+    },
+    {
+        "name": "Sapulu",
+        "country": "Samoa",
+        "province": "Samoa",
+        "population": -1,
+        "latitude": -13.7328,
+        "longitude": -172.216494
+    },
+    {
+        "name": "Foua",
+        "country": "Samoa",
+        "province": "Samoa",
+        "population": -1,
+        "latitude": -13.730101,
+        "longitude": -172.210547
+    },
+    {
+        "name": "Safua",
+        "country": "Samoa",
+        "province": "Samoa",
+        "population": -1,
+        "latitude": -13.699405,
+        "longitude": -172.199338
+    },
+    {
+        "name": "Fusi",
+        "country": "Samoa",
+        "province": "Samoa",
+        "population": -1,
+        "latitude": -13.680128,
+        "longitude": -172.183122
+    },
+    {
+        "name": "Vai’a’ata",
+        "country": "Samoa",
+        "province": "Samoa",
+        "population": -1,
+        "latitude": -13.658037,
+        "longitude": -172.245467
+    },
+    {
+        "name": "Nuuuta",
+        "country": "Samoa",
+        "province": "Samoa",
+        "population": -1,
+        "latitude": -13.777537,
+        "longitude": -172.466235
+    },
+    {
+        "name": "Le’eka",
+        "country": "Samoa",
+        "province": "Samoa",
+        "population": -1,
+        "latitude": -13.773476,
+        "longitude": -172.512822
+    },
+    {
+        "name": "Palapala",
+        "country": "Samoa",
+        "province": "Samoa",
+        "population": -1,
+        "latitude": -13.727398,
+        "longitude": -172.574807
+    },
+    {
+        "name": "Falealupo-uta",
+        "country": "Samoa",
+        "province": "Vaisigano",
+        "population": -1,
+        "latitude": -13.539777,
+        "longitude": -172.734709
+    },
+    {
+        "name": "Fagasā",
+        "country": "Samoa",
+        "province": "Samoa",
+        "population": -1,
+        "latitude": -13.51615,
+        "longitude": -172.69007
+    },
+    {
+        "name": "Fagae’e",
+        "country": "Samoa",
+        "province": "Samoa",
+        "population": -1,
+        "latitude": -13.468884,
+        "longitude": -172.441405
+    },
+    {
+        "name": "Vailolo",
+        "country": "Samoa",
+        "province": "Samoa",
+        "population": -1,
+        "latitude": -13.472567,
+        "longitude": -172.397371
+    },
+    {
+        "name": "Le Piu Uta",
+        "country": "Samoa",
+        "province": "Samoa",
+        "population": -1,
+        "latitude": -13.463633,
+        "longitude": -172.381444
+    },
+    {
+        "name": "Le Piu Tai",
+        "country": "Samoa",
+        "province": "Samoa",
+        "population": -1,
+        "latitude": -13.455472,
+        "longitude": -172.393069
+    },
+    {
+        "name": "Safe’e",
+        "country": "Samoa",
+        "province": "Samoa",
+        "population": -1,
+        "latitude": -13.452546,
+        "longitude": -172.407389
+    },
+    {
+        "name": "Mumea",
+        "country": "Samoa",
+        "province": "Samoa",
+        "population": -1,
+        "latitude": -13.478358,
+        "longitude": -172.374188
+    },
+    {
+        "name": "Sologa",
+        "country": "Samoa",
+        "province": "Samoa",
+        "population": -1,
+        "latitude": -13.471243,
+        "longitude": -172.367252
+    },
+    {
+        "name": "Papalaulelei",
+        "country": "Samoa",
+        "province": "Samoa",
+        "population": -1,
+        "latitude": -13.553161,
+        "longitude": -172.2388
+    },
+    {
+        "name": "Pugaoa",
+        "country": "Samoa",
+        "province": "Samoa",
+        "population": -1,
+        "latitude": -13.618711,
+        "longitude": -172.232787
+    },
+    {
+        "name": "Salimu",
+        "country": "Samoa",
+        "province": "Samoa",
+        "population": -1,
+        "latitude": -13.643864,
+        "longitude": -172.189229
+    },
+    {
+        "name": "Malae",
+        "country": "Samoa",
+        "province": "Samoa",
+        "population": -1,
+        "latitude": -13.647485,
+        "longitude": -172.18903
+    },
+    {
+        "name": "Lu’ua",
+        "country": "Samoa",
+        "province": "Samoa",
+        "population": -1,
+        "latitude": -13.652794,
+        "longitude": -172.187741
+    },
+    {
+        "name": "Sapini",
+        "country": "Samoa",
+        "province": "Samoa",
+        "population": -1,
+        "latitude": -13.655969,
+        "longitude": -172.186054
+    },
+    {
+        "name": "Oloiti",
+        "country": "Samoa",
+        "province": "Samoa",
+        "population": -1,
+        "latitude": -13.643417,
+        "longitude": -172.214431
+    },
+    {
+        "name": "Punaiseesee",
+        "country": "Samoa",
+        "province": "Samoa",
+        "population": -1,
+        "latitude": -13.628405,
+        "longitude": -172.275199
+    },
+    {
+        "name": "Poutoga",
+        "country": "Samoa",
+        "province": "Samoa",
+        "population": -1,
+        "latitude": -13.850841,
+        "longitude": -171.867306
+    },
+    {
+        "name": "Leavaa-uta",
+        "country": "Samoa",
+        "province": "Samoa",
+        "population": -1,
+        "latitude": -13.85335,
+        "longitude": -171.881665
+    },
+    {
+        "name": "Aleisa",
+        "country": "Samoa",
+        "province": "Samoa",
+        "population": -1,
+        "latitude": -13.86154,
+        "longitude": -171.874727
+    },
+    {
+        "name": "Fiaga",
+        "country": "Samoa",
+        "province": "Samoa",
+        "population": -1,
+        "latitude": -13.860224,
+        "longitude": -171.854186
+    },
+    {
+        "name": "Lepale",
+        "country": "Samoa",
+        "province": "Samoa",
+        "population": -1,
+        "latitude": -13.87385,
+        "longitude": -171.916259
+    },
+    {
+        "name": "Matānofo",
+        "country": "Samoa",
+        "province": "Samoa",
+        "population": -1,
+        "latitude": -13.915981,
+        "longitude": -172.006658
+    },
+    {
+        "name": "Vaipapa",
+        "country": "Samoa",
+        "province": "Samoa",
+        "population": -1,
+        "latitude": -13.860513,
+        "longitude": -171.997074
+    },
+    {
+        "name": "Matega",
+        "country": "Samoa",
+        "province": "Vaisigano",
+        "population": -1,
+        "latitude": -13.613326,
+        "longitude": -172.697958
+    },
+    {
+        "name": "Matafa‘a",
+        "country": "Samoa",
+        "province": "Samoa",
+        "population": -1,
+        "latitude": -13.942492,
+        "longitude": -171.979207
+    },
+    {
+        "name": "Leaoa",
+        "country": "Samoa",
+        "province": "Samoa",
+        "population": -1,
+        "latitude": -13.897152,
+        "longitude": -171.775637
+    },
+    {
+        "name": "Matavai",
+        "country": "Samoa",
+        "province": "Samoa",
+        "population": -1,
+        "latitude": -13.473745,
+        "longitude": -172.417003
+    },
+    {
+        "name": "Vaiaumoe",
+        "country": "Samoa",
+        "province": "Samoa",
+        "population": -1,
+        "latitude": -13.898455,
+        "longitude": -171.975782
+    },
+    {
+        "name": "Tanumalala",
+        "country": "Samoa",
+        "province": "Samoa",
+        "population": -1,
+        "latitude": -13.894507,
+        "longitude": -171.940749
+    },
+    {
+        "name": "Casala",
+        "country": "Samoa",
+        "province": "Samoa",
+        "population": -1,
+        "latitude": -13.856249,
+        "longitude": -171.932127
+    },
+    {
+        "name": "Nafanua",
+        "country": "Samoa",
+        "province": "Samoa",
+        "population": -1,
+        "latitude": -13.855984,
+        "longitude": -171.763057
+    },
+    {
+        "name": "Olo",
+        "country": "Samoa",
+        "province": "Samoa",
+        "population": -1,
+        "latitude": -13.854083,
+        "longitude": -172.031363
+    },
+    {
+        "name": "Salalologa New Township",
+        "country": "Samoa",
+        "province": "Samoa",
+        "population": -1,
+        "latitude": -13.768912,
+        "longitude": -172.222228
+    },
+    {
+        "name": "Saletagaloa",
+        "country": "Samoa",
+        "province": "Samoa",
+        "population": -1,
+        "latitude": -13.728174,
+        "longitude": -172.208334
+    },
+    {
+        "name": "Vaiola",
+        "country": "Samoa",
+        "province": "Samoa",
+        "population": -1,
+        "latitude": -13.652785,
+        "longitude": -172.241248
+    },
+    {
+        "name": "Le Aisa",
+        "country": "Samoa",
+        "province": "Samoa",
+        "population": -1,
+        "latitude": -13.521233,
+        "longitude": -172.416494
+    },
+    {
+        "name": "Malaela",
+        "country": "Samoa",
+        "province": "Samoa",
+        "population": -1,
+        "latitude": -14.020733,
+        "longitude": -171.425302
+    },
+    {
+        "name": "Vaipu",
+        "country": "Samoa",
+        "province": "Samoa",
+        "population": -1,
+        "latitude": -13.967407,
+        "longitude": -171.582896
+    },
+    {
+        "name": "Vailoa",
+        "country": "Samoa",
+        "province": "Samoa",
+        "population": -1,
+        "latitude": -14.034239,
+        "longitude": -171.611352
+    },
+    {
+        "name": "Togitogiga",
+        "country": "Samoa",
+        "province": "Samoa",
+        "population": -1,
+        "latitude": -14.01684,
+        "longitude": -171.720954
+    },
+    {
+        "name": "Fagali'i",
+        "country": "Samoa",
+        "province": "Samoa",
+        "population": -1,
+        "latitude": -13.848333,
+        "longitude": -171.74166
+    },
+    {
+        "name": "Lelata",
+        "country": "Samoa",
+        "province": "Tuamasaga",
+        "population": -1,
+        "latitude": -13.843163590260065,
+        "longitude": -171.75729274749756
+    },
+    {
+        "name": "Fugalei",
+        "country": "Samoa",
+        "province": "Samoa",
+        "population": -1,
+        "latitude": -13.836038109751668,
+        "longitude": -171.77810668945312
+    },
+    {
+        "name": "Togafuafua",
+        "country": "Samoa",
+        "province": "Samoa",
+        "population": -1,
+        "latitude": -13.835389,
+        "longitude": -171.76639
+    }
+]

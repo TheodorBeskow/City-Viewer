@@ -1,0 +1,562 @@
+[
+    {
+        "name": "Djibouti",
+        "country": "Djibouti",
+        "province": "Djibouti",
+        "population": 623891,
+        "latitude": 11.58901471494345,
+        "longitude": 43.14502716064453
+    },
+    {
+        "name": "Tadjoura",
+        "country": "Djibouti",
+        "province": "Tadjourah",
+        "population": 22193,
+        "latitude": 11.787778,
+        "longitude": 42.882222
+    },
+    {
+        "name": "Ali Sabih",
+        "country": "Djibouti",
+        "province": "Ali Sabieh",
+        "population": 55000,
+        "latitude": 11.155833,
+        "longitude": 42.7125
+    },
+    {
+        "name": "Obock",
+        "country": "Djibouti",
+        "province": "Obock",
+        "population": 17776,
+        "latitude": 11.966927,
+        "longitude": 43.288347
+    },
+    {
+        "name": "Dikhil",
+        "country": "Djibouti",
+        "province": "Dikhil",
+        "population": 12043,
+        "latitude": 11.104536,
+        "longitude": 42.369714
+    },
+    {
+        "name": "Holhol",
+        "country": "Djibouti",
+        "province": "Ali Sabieh",
+        "population": 3519,
+        "latitude": 11.3102778,
+        "longitude": 42.9294444
+    },
+    {
+        "name": "Arta",
+        "country": "Djibouti",
+        "province": "Arta",
+        "population": 6025,
+        "latitude": 11.526389,
+        "longitude": 42.851944
+    },
+    {
+        "name": "Goubétto",
+        "country": "Djibouti",
+        "province": "Ali Sabieh",
+        "population": 2003,
+        "latitude": 11.423889,
+        "longitude": 43.000278
+    },
+    {
+        "name": "Gâlâfi",
+        "country": "Djibouti",
+        "province": "Dikhil",
+        "population": 1849,
+        "latitude": 11.7158333,
+        "longitude": 41.8361111
+    },
+    {
+        "name": "Dorra",
+        "country": "Djibouti",
+        "province": "Tadjourah",
+        "population": 1873,
+        "latitude": 12.150278,
+        "longitude": 42.476237
+    },
+    {
+        "name": "Loyada",
+        "country": "Djibouti",
+        "province": "Djibouti",
+        "population": 1646,
+        "latitude": 11.4611111,
+        "longitude": 43.2527778
+    },
+    {
+        "name": "‘Ali ‘Addé",
+        "country": "Djibouti",
+        "province": "Ali Sabieh",
+        "population": -1,
+        "latitude": 11.133333,
+        "longitude": 42.885833
+    },
+    {
+        "name": "Alaïli Ḏaḏḏa‘",
+        "country": "Djibouti",
+        "province": "Obock",
+        "population": 1456,
+        "latitude": 12.421667,
+        "longitude": 42.895556
+    },
+    {
+        "name": "Damêrdjôg",
+        "country": "Djibouti",
+        "province": "Djibouti",
+        "population": -1,
+        "latitude": 11.4855556,
+        "longitude": 43.1872222
+    },
+    {
+        "name": "Ouê‘a",
+        "country": "Djibouti",
+        "province": "Tadjourah",
+        "population": -1,
+        "latitude": 11.690556,
+        "longitude": 42.686667
+    },
+    {
+        "name": "Ambabbo",
+        "country": "Djibouti",
+        "province": "Tadjourah",
+        "population": -1,
+        "latitude": 11.7511111,
+        "longitude": 42.8144444
+    },
+    {
+        "name": "Bissîdiro",
+        "country": "Djibouti",
+        "province": "Obock",
+        "population": -1,
+        "latitude": 12.645,
+        "longitude": 42.9733333
+    },
+    {
+        "name": "Moulhoulé",
+        "country": "Djibouti",
+        "province": "Obock",
+        "population": -1,
+        "latitude": 12.5916667,
+        "longitude": 43.2
+    },
+    {
+        "name": "Koûta Boûyya",
+        "country": "Djibouti",
+        "province": "Dikhil",
+        "population": -1,
+        "latitude": 11.0161111,
+        "longitude": 41.9619444
+    },
+    {
+        "name": "Yoboki",
+        "country": "Djibouti",
+        "province": "Dikhil",
+        "population": -1,
+        "latitude": 11.5113889,
+        "longitude": 42.1063889
+    },
+    {
+        "name": "Ouê‘a",
+        "country": "Djibouti",
+        "province": "Djibouti",
+        "population": -1,
+        "latitude": 11.503056,
+        "longitude": 42.855278
+    },
+    {
+        "name": "Tew‘o",
+        "country": "Djibouti",
+        "province": "Dikhil",
+        "population": -1,
+        "latitude": 11.438333,
+        "longitude": 42.057222
+    },
+    {
+        "name": "Sêdorre",
+        "country": "Djibouti",
+        "province": "Obock",
+        "population": -1,
+        "latitude": 12.362163,
+        "longitude": 43.188982
+    },
+    {
+        "name": "Randa",
+        "country": "Djibouti",
+        "province": "Tadjourah",
+        "population": -1,
+        "latitude": 11.8469444,
+        "longitude": 42.6605556
+    },
+    {
+        "name": "Moudo",
+        "country": "Djibouti",
+        "province": "Tadjourah",
+        "population": -1,
+        "latitude": 12.3,
+        "longitude": 42.433333
+    },
+    {
+        "name": "Médého",
+        "country": "Djibouti",
+        "province": "Obock",
+        "population": -1,
+        "latitude": 11.9730556,
+        "longitude": 43.0261111
+    },
+    {
+        "name": "Khôr Angar",
+        "country": "Djibouti",
+        "province": "Obock",
+        "population": -1,
+        "latitude": 12.387253,
+        "longitude": 43.334705
+    },
+    {
+        "name": "Ambouli",
+        "country": "Djibouti",
+        "province": "Djibouti",
+        "population": -1,
+        "latitude": 11.5694444,
+        "longitude": 43.1366667
+    },
+    {
+        "name": "Ḏânan",
+        "country": "Djibouti",
+        "province": "Ali Sabieh",
+        "population": 300,
+        "latitude": 11.1833333,
+        "longitude": 42.9333333
+    },
+    {
+        "name": "Dadda’to",
+        "country": "Djibouti",
+        "province": "Obock",
+        "population": -1,
+        "latitude": 12.379327,
+        "longitude": 42.710481
+    },
+    {
+        "name": "Bankoualé",
+        "country": "Djibouti",
+        "province": "Tadjourah",
+        "population": -1,
+        "latitude": 11.8227778,
+        "longitude": 42.6736111
+    },
+    {
+        "name": "Balho",
+        "country": "Djibouti",
+        "province": "Tadjourah",
+        "population": -1,
+        "latitude": 12.05786,
+        "longitude": 42.195468
+    },
+    {
+        "name": "‘As ‘Êla",
+        "country": "Djibouti",
+        "province": "Dikhil",
+        "population": -1,
+        "latitude": 11.003611,
+        "longitude": 42.1025
+    },
+    {
+        "name": "Airolaf",
+        "country": "Djibouti",
+        "province": "Tadjourah",
+        "population": -1,
+        "latitude": 11.7702778,
+        "longitude": 42.6519444
+    },
+    {
+        "name": "Waddi",
+        "country": "Djibouti",
+        "province": "Obock",
+        "population": -1,
+        "latitude": 12.354444,
+        "longitude": 42.926389
+    },
+    {
+        "name": "Gorabous",
+        "country": "Djibouti",
+        "province": "Dikhil",
+        "population": -1,
+        "latitude": 11.304341,
+        "longitude": 42.217026
+    },
+    {
+        "name": "Balbala",
+        "country": "Djibouti",
+        "province": "Djibouti",
+        "population": -1,
+        "latitude": 11.561939346116638,
+        "longitude": 43.10666084289551
+    },
+    {
+        "name": "Mouloud",
+        "country": "Djibouti",
+        "province": "Dikhil",
+        "population": -1,
+        "latitude": 11.166667,
+        "longitude": 42.5
+    },
+    {
+        "name": "Adailou",
+        "country": "Djibouti",
+        "province": "Tadjourah",
+        "population": -1,
+        "latitude": 11.95186,
+        "longitude": 42.90535
+    },
+    {
+        "name": "Ali Oune",
+        "country": "Djibouti",
+        "province": "Ali Sabieh",
+        "population": -1,
+        "latitude": 11.39153,
+        "longitude": 43.1415
+    },
+    {
+        "name": "Andali",
+        "country": "Djibouti",
+        "province": "Obock",
+        "population": -1,
+        "latitude": 12.48402,
+        "longitude": 42.98668
+    },
+    {
+        "name": "Adoyla",
+        "country": "Djibouti",
+        "province": "Tadjourah",
+        "population": -1,
+        "latitude": 11.9584,
+        "longitude": 42.64788
+    },
+    {
+        "name": "Anaba",
+        "country": "Djibouti",
+        "province": "Ali Sabieh",
+        "population": -1,
+        "latitude": 11.35271,
+        "longitude": 42.94184
+    },
+    {
+        "name": "Assa Hougoud",
+        "country": "Djibouti",
+        "province": "Ali Sabieh",
+        "population": -1,
+        "latitude": 11.38526,
+        "longitude": 42.82796
+    },
+    {
+        "name": "Bouyya",
+        "country": "Djibouti",
+        "province": "Tadjourah",
+        "population": -1,
+        "latitude": 12.36799,
+        "longitude": 42.36343
+    },
+    {
+        "name": "Koussour Koussour",
+        "country": "Djibouti",
+        "province": "Dikhil",
+        "population": -1,
+        "latitude": 11.52287,
+        "longitude": 42.40627
+    },
+    {
+        "name": "Guirrari",
+        "country": "Djibouti",
+        "province": "Tadjourah",
+        "population": -1,
+        "latitude": 12.04898,
+        "longitude": 42.78536
+    },
+    {
+        "name": "Guelile",
+        "country": "Djibouti",
+        "province": "Djibouti",
+        "population": -1,
+        "latitude": 11.09456,
+        "longitude": 42.64849
+    },
+    {
+        "name": "Fagal",
+        "country": "Djibouti",
+        "province": "Obock",
+        "population": -1,
+        "latitude": 12.45346,
+        "longitude": 43.30217
+    },
+    {
+        "name": "Egahlou",
+        "country": "Djibouti",
+        "province": "Obock",
+        "population": -1,
+        "latitude": 12.12484,
+        "longitude": 42.93739
+    },
+    {
+        "name": "Doudoub Bolole",
+        "country": "Djibouti",
+        "province": "Dikhil",
+        "population": -1,
+        "latitude": 11.21393,
+        "longitude": 42.65822
+    },
+    {
+        "name": "Debne",
+        "country": "Djibouti",
+        "province": "Dikhil",
+        "population": -1,
+        "latitude": 11.57356,
+        "longitude": 42.4021
+    },
+    {
+        "name": "Dasbiyo",
+        "country": "Djibouti",
+        "province": "Ali Sabieh",
+        "population": -1,
+        "latitude": 11.25271,
+        "longitude": 42.79879
+    },
+    {
+        "name": "Daoudaouga",
+        "country": "Djibouti",
+        "province": "Dikhil",
+        "population": -1,
+        "latitude": 11.75829,
+        "longitude": 42.15362
+    },
+    {
+        "name": "Dagguirou",
+        "country": "Djibouti",
+        "province": "Dikhil",
+        "population": -1,
+        "latitude": 11.54492,
+        "longitude": 42.11576
+    },
+    {
+        "name": "La`assa",
+        "country": "Djibouti",
+        "province": "Obock",
+        "population": -1,
+        "latitude": 12.36506,
+        "longitude": 43.14336
+    },
+    {
+        "name": "Madgoul",
+        "country": "Djibouti",
+        "province": "Tadjourah",
+        "population": -1,
+        "latitude": 12.35495,
+        "longitude": 42.47629
+    },
+    {
+        "name": "Malaho",
+        "country": "Djibouti",
+        "province": "Tadjourah",
+        "population": -1,
+        "latitude": 12.09889,
+        "longitude": 42.20977
+    },
+    {
+        "name": "Oued Ouea",
+        "country": "Djibouti",
+        "province": "Tadjourah",
+        "population": -1,
+        "latitude": 11.68004,
+        "longitude": 42.68989
+    },
+    {
+        "name": "Ribta",
+        "country": "Djibouti",
+        "province": "Obock",
+        "population": -1,
+        "latitude": 12.45751,
+        "longitude": 42.84784
+    },
+    {
+        "name": "Chabelley",
+        "country": "Djibouti",
+        "province": "Ali Sabieh",
+        "population": 720,
+        "latitude": 11.4895,
+        "longitude": 43.07528
+    },
+    {
+        "name": "Boûl’aos",
+        "country": "Djibouti",
+        "province": "Djibouti",
+        "population": -1,
+        "latitude": 11.583333,
+        "longitude": 43.15
+    },
+    {
+        "name": "Ḏigri",
+        "country": "Djibouti",
+        "province": "Ali Sabieh",
+        "population": -1,
+        "latitude": 11.2975,
+        "longitude": 42.8533333
+    },
+    {
+        "name": "Goubéto",
+        "country": "Djibouti",
+        "province": "Ali Sabieh",
+        "population": -1,
+        "latitude": 11.416667,
+        "longitude": 42.983333
+    },
+    {
+        "name": "Gaherré",
+        "country": "Djibouti",
+        "province": "Obock",
+        "population": -1,
+        "latitude": 12.2869444,
+        "longitude": 43.3555556
+    },
+    {
+        "name": "Vasama",
+        "country": "Djibouti",
+        "province": "Ali Sabieh",
+        "population": -1,
+        "latitude": 10.98914,
+        "longitude": 42.841245
+    },
+    {
+        "name": "La Plaine",
+        "country": "Djibouti",
+        "province": "Djibouti",
+        "population": -1,
+        "latitude": 11.6,
+        "longitude": 43.15
+    },
+    {
+        "name": "Seventh District",
+        "country": "Djibouti",
+        "province": "Djibouti",
+        "population": -1,
+        "latitude": 11.575833,
+        "longitude": 43.141111
+    },
+    {
+        "name": "Nakhchivan",
+        "country": "Djibouti",
+        "province": "Djibouti",
+        "population": -1,
+        "latitude": 11.60764,
+        "longitude": 43.15279
+    },
+    {
+        "name": "Quartier 7",
+        "country": "Djibouti",
+        "province": "Djibouti",
+        "population": -1,
+        "latitude": 11.5701923,
+        "longitude": 43.1372917
+    }
+]

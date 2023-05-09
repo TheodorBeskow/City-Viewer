@@ -1,0 +1,3250 @@
+[
+    {
+        "name": "Papeete",
+        "country": "French Polynesia",
+        "province": "Îles du Vent",
+        "population": 26357,
+        "latitude": -17.5347,
+        "longitude": -149.56843
+    },
+    {
+        "name": "Punaauia",
+        "country": "French Polynesia",
+        "province": "Îles du Vent",
+        "population": 25750,
+        "latitude": -17.6333333,
+        "longitude": -149.6
+    },
+    {
+        "name": "Faaa",
+        "country": "French Polynesia",
+        "province": "Îles du Vent",
+        "population": 29851,
+        "latitude": -17.55933,
+        "longitude": -149.60352
+    },
+    {
+        "name": "Pirae",
+        "country": "French Polynesia",
+        "province": "Îles du Vent",
+        "population": 14475,
+        "latitude": -17.52985,
+        "longitude": -149.55119
+    },
+    {
+        "name": "Paea",
+        "country": "French Polynesia",
+        "province": "Îles du Vent",
+        "population": 12084,
+        "latitude": -17.6833333,
+        "longitude": -149.5833333
+    },
+    {
+        "name": "Mahina",
+        "country": "French Polynesia",
+        "province": "Îles du Vent",
+        "population": 14369,
+        "latitude": -17.506475562276773,
+        "longitude": -149.48899269104004
+    },
+    {
+        "name": "Papao",
+        "country": "French Polynesia",
+        "province": "Îles du Vent",
+        "population": 10360,
+        "latitude": -17.75,
+        "longitude": -149.55
+    },
+    {
+        "name": "Arue",
+        "country": "French Polynesia",
+        "province": "Îles du Vent",
+        "population": 9458,
+        "latitude": -17.52764,
+        "longitude": -149.53437
+    },
+    {
+        "name": "Vaitape",
+        "country": "French Polynesia",
+        "province": "Leeward Islands",
+        "population": 4927,
+        "latitude": -16.50740519845204,
+        "longitude": -151.74912929534912
+    },
+    {
+        "name": "Afaahiti",
+        "country": "French Polynesia",
+        "province": "French Polynesia",
+        "population": 5186,
+        "latitude": -17.74395,
+        "longitude": -149.32444
+    },
+    {
+        "name": "Uturoa",
+        "country": "French Polynesia",
+        "province": "Leeward Islands",
+        "population": 3668,
+        "latitude": -16.72891329605434,
+        "longitude": -151.44481658935547
+    },
+    {
+        "name": "Paopao",
+        "country": "French Polynesia",
+        "province": "Îles du Vent",
+        "population": 4221,
+        "latitude": -17.51863,
+        "longitude": -149.82193
+    },
+    {
+        "name": "Taiohae",
+        "country": "French Polynesia",
+        "province": "Îles Marquises",
+        "population": 1224,
+        "latitude": -8.910934973379458,
+        "longitude": -140.09971618652344
+    },
+    {
+        "name": "Atuona",
+        "country": "French Polynesia",
+        "province": "Îles Marquises",
+        "population": 1762,
+        "latitude": -9.80342,
+        "longitude": -139.04202
+    },
+    {
+        "name": "Vairao",
+        "country": "French Polynesia",
+        "province": "Îles du Vent",
+        "population": 2423,
+        "latitude": -17.7833333,
+        "longitude": -149.2833333
+    },
+    {
+        "name": "Teahupoo",
+        "country": "French Polynesia",
+        "province": "Îles du Vent",
+        "population": 1422,
+        "latitude": -17.846451,
+        "longitude": -149.266821
+    },
+    {
+        "name": "Tautira",
+        "country": "French Polynesia",
+        "province": "Îles du Vent",
+        "population": 2293,
+        "latitude": -17.74744,
+        "longitude": -149.161229
+    },
+    {
+        "name": "Taunoa",
+        "country": "French Polynesia",
+        "province": "Îles du Vent",
+        "population": 4131,
+        "latitude": -17.751386,
+        "longitude": -149.356016
+    },
+    {
+        "name": "Pueu",
+        "country": "French Polynesia",
+        "province": "Îles du Vent",
+        "population": 1968,
+        "latitude": -17.738306,
+        "longitude": -149.223755
+    },
+    {
+        "name": "Fare",
+        "country": "French Polynesia",
+        "province": "Leeward Islands",
+        "population": 1540,
+        "latitude": -16.71085,
+        "longitude": -151.03455
+    },
+    {
+        "name": "Rikitea",
+        "country": "French Polynesia",
+        "province": "Îles Tuamotu-Gambier",
+        "population": 1103,
+        "latitude": -23.123219,
+        "longitude": -134.968585
+    },
+    {
+        "name": "Vaitoare",
+        "country": "French Polynesia",
+        "province": "Îles Australes",
+        "population": -1,
+        "latitude": -16.67618,
+        "longitude": -151.45743
+    },
+    {
+        "name": "Tohautu",
+        "country": "French Polynesia",
+        "province": "Îles du Vent",
+        "population": 2842,
+        "latitude": -17.760987,
+        "longitude": -149.316756
+    },
+    {
+        "name": "Tiputa",
+        "country": "French Polynesia",
+        "province": "Îles Tuamotu-Gambier",
+        "population": -1,
+        "latitude": -14.97663,
+        "longitude": -147.62466
+    },
+    {
+        "name": "Tevaitoa",
+        "country": "French Polynesia",
+        "province": "French Polynesia",
+        "population": 1851,
+        "latitude": -16.79139,
+        "longitude": -151.48893
+    },
+    {
+        "name": "Rairua",
+        "country": "French Polynesia",
+        "province": "Îles Australes",
+        "population": 486,
+        "latitude": -23.86959,
+        "longitude": -147.68565
+    },
+    {
+        "name": "Otutara",
+        "country": "French Polynesia",
+        "province": "Îles du Vent",
+        "population": 4609,
+        "latitude": -17.772073,
+        "longitude": -149.413405
+    },
+    {
+        "name": "Huahine",
+        "country": "French Polynesia",
+        "province": "French Polynesia",
+        "population": -1,
+        "latitude": -23.37291,
+        "longitude": -149.4971
+    },
+    {
+        "name": "Avatoru",
+        "country": "French Polynesia",
+        "province": "Îles Tuamotu-Gambier",
+        "population": -1,
+        "latitude": -14.94172,
+        "longitude": -147.702
+    },
+    {
+        "name": "Hauti",
+        "country": "French Polynesia",
+        "province": "Îles Australes",
+        "population": 388,
+        "latitude": -22.48686,
+        "longitude": -151.32483
+    },
+    {
+        "name": "Ahurei",
+        "country": "French Polynesia",
+        "province": "French Polynesia",
+        "population": -1,
+        "latitude": -27.6,
+        "longitude": -144.3166667
+    },
+    {
+        "name": "Omoa",
+        "country": "French Polynesia",
+        "province": "French Polynesia",
+        "population": -1,
+        "latitude": -10.51224,
+        "longitude": -138.6839
+    },
+    {
+        "name": "Taravai",
+        "country": "French Polynesia",
+        "province": "French Polynesia",
+        "population": -1,
+        "latitude": -23.1444,
+        "longitude": -135.02931
+    },
+    {
+        "name": "Tukuhora",
+        "country": "French Polynesia",
+        "province": "Îles Tuamotu-Gambier",
+        "population": -1,
+        "latitude": -17.34619,
+        "longitude": -145.51729
+    },
+    {
+        "name": "Povaie",
+        "country": "French Polynesia",
+        "province": "Leeward Islands",
+        "population": -1,
+        "latitude": -16.515942,
+        "longitude": -151.734367
+    },
+    {
+        "name": "Paraeo",
+        "country": "French Polynesia",
+        "province": "Îles du Vent",
+        "population": -1,
+        "latitude": -17.735485,
+        "longitude": -149.233299
+    },
+    {
+        "name": "Papetoai",
+        "country": "French Polynesia",
+        "province": "Îles du Vent",
+        "population": 1964,
+        "latitude": -17.49538,
+        "longitude": -149.87437
+    },
+    {
+        "name": "Utuofai",
+        "country": "French Polynesia",
+        "province": "Îles du Vent",
+        "population": -1,
+        "latitude": -17.661839,
+        "longitude": -149.312481
+    },
+    {
+        "name": "Oroihi",
+        "country": "French Polynesia",
+        "province": "Îles du Vent",
+        "population": -1,
+        "latitude": -17.794673,
+        "longitude": -149.296569
+    },
+    {
+        "name": "Mataiva",
+        "country": "French Polynesia",
+        "province": "French Polynesia",
+        "population": 242,
+        "latitude": -17.75,
+        "longitude": -149.1833333
+    },
+    {
+        "name": "Hurunanu",
+        "country": "French Polynesia",
+        "province": "Leeward Islands",
+        "population": -1,
+        "latitude": -16.453823,
+        "longitude": -152.256385
+    },
+    {
+        "name": "Hutupu",
+        "country": "French Polynesia",
+        "province": "Îles du Vent",
+        "population": -1,
+        "latitude": -17.876524,
+        "longitude": -149.179615
+    },
+    {
+        "name": "Hitiaa",
+        "country": "French Polynesia",
+        "province": "French Polynesia",
+        "population": 1826,
+        "latitude": -17.6,
+        "longitude": -149.3
+    },
+    {
+        "name": "Faone",
+        "country": "French Polynesia",
+        "province": "Îles du Vent",
+        "population": 1747,
+        "latitude": -17.669171,
+        "longitude": -149.309188
+    },
+    {
+        "name": "Faanui",
+        "country": "French Polynesia",
+        "province": "French Polynesia",
+        "population": 2061,
+        "latitude": -16.48679,
+        "longitude": -151.74102
+    },
+    {
+        "name": "Anau",
+        "country": "French Polynesia",
+        "province": "Leeward Islands",
+        "population": 1412,
+        "latitude": -16.501484,
+        "longitude": -151.721346
+    },
+    {
+        "name": "Hakapehi",
+        "country": "French Polynesia",
+        "province": "French Polynesia",
+        "population": -1,
+        "latitude": -8.91619,
+        "longitude": -140.09268
+    },
+    {
+        "name": "Vaiaau",
+        "country": "French Polynesia",
+        "province": "Leeward Islands",
+        "population": -1,
+        "latitude": -16.859642,
+        "longitude": -151.480178
+    },
+    {
+        "name": "Nahoe",
+        "country": "French Polynesia",
+        "province": "French Polynesia",
+        "population": -1,
+        "latitude": -9.7401,
+        "longitude": -138.92263
+    },
+    {
+        "name": "Motopu",
+        "country": "French Polynesia",
+        "province": "French Polynesia",
+        "population": -1,
+        "latitude": -9.9062,
+        "longitude": -139.06782
+    },
+    {
+        "name": "Hana Teio",
+        "country": "French Polynesia",
+        "province": "French Polynesia",
+        "population": -1,
+        "latitude": -9.98225,
+        "longitude": -139.10324
+    },
+    {
+        "name": "Tupana",
+        "country": "French Polynesia",
+        "province": "Îles Tuamotu-Gambier",
+        "population": -1,
+        "latitude": -16.132904,
+        "longitude": -146.335793
+    },
+    {
+        "name": "Toamara",
+        "country": "French Polynesia",
+        "province": "Îles du Vent",
+        "population": -1,
+        "latitude": -17.72916,
+        "longitude": -149.298073
+    },
+    {
+        "name": "Tiitau",
+        "country": "French Polynesia",
+        "province": "French Polynesia",
+        "population": -1,
+        "latitude": -17.7333333,
+        "longitude": -149.25
+    },
+    {
+        "name": "Tiarei",
+        "country": "French Polynesia",
+        "province": "French Polynesia",
+        "population": 2795,
+        "latitude": -17.5333333,
+        "longitude": -149.3333333
+    },
+    {
+        "name": "Tépuu",
+        "country": "French Polynesia",
+        "province": "Îles Australes",
+        "population": -1,
+        "latitude": -23.39561,
+        "longitude": -149.511687
+    },
+    {
+        "name": "Te-Fare-Arii",
+        "country": "French Polynesia",
+        "province": "French Polynesia",
+        "population": 373,
+        "latitude": -16.45,
+        "longitude": -152.25
+    },
+    {
+        "name": "Teavaro",
+        "country": "French Polynesia",
+        "province": "Îles du Vent",
+        "population": 2289,
+        "latitude": -17.5,
+        "longitude": -149.7666667
+    },
+    {
+        "name": "Ta'atoi",
+        "country": "French Polynesia",
+        "province": "Leeward Islands",
+        "population": -1,
+        "latitude": -16.452414,
+        "longitude": -152.270128
+    },
+    {
+        "name": "Pouheva",
+        "country": "French Polynesia",
+        "province": "Îles Tuamotu-Gambier",
+        "population": -1,
+        "latitude": -16.62305,
+        "longitude": -143.56884
+    },
+    {
+        "name": "Pihaena",
+        "country": "French Polynesia",
+        "province": "Îles du Vent",
+        "population": -1,
+        "latitude": -17.48822,
+        "longitude": -149.82699
+    },
+    {
+        "name": "Paui",
+        "country": "French Polynesia",
+        "province": "Îles du Vent",
+        "population": -1,
+        "latitude": -17.753772,
+        "longitude": -149.350778
+    },
+    {
+        "name": "Patu-Patu",
+        "country": "French Polynesia",
+        "province": "Îles Australes",
+        "population": -1,
+        "latitude": -23.352858,
+        "longitude": -149.483612
+    },
+    {
+        "name": "Patuarepa",
+        "country": "French Polynesia",
+        "province": "French Polynesia",
+        "population": -1,
+        "latitude": -17.7333333,
+        "longitude": -149.6333333
+    },
+    {
+        "name": "Parari",
+        "country": "French Polynesia",
+        "province": "French Polynesia",
+        "population": -1,
+        "latitude": -17.7333333,
+        "longitude": -149.2166667
+    },
+    {
+        "name": "Papawa",
+        "country": "French Polynesia",
+        "province": "French Polynesia",
+        "population": -1,
+        "latitude": -17.51741,
+        "longitude": -149.50089
+    },
+    {
+        "name": "Pohua",
+        "country": "French Polynesia",
+        "province": "Îles du Vent",
+        "population": -1,
+        "latitude": -17.730583,
+        "longitude": -149.288538
+    },
+    {
+        "name": "Outu Maoro",
+        "country": "French Polynesia",
+        "province": "French Polynesia",
+        "population": -1,
+        "latitude": -17.5666667,
+        "longitude": -149.6166667
+    },
+    {
+        "name": "Otumai",
+        "country": "French Polynesia",
+        "province": "French Polynesia",
+        "population": -1,
+        "latitude": -17.5,
+        "longitude": -149.8166667
+    },
+    {
+        "name": "Otepa",
+        "country": "French Polynesia",
+        "province": "Îles Tuamotu-Gambier",
+        "population": -1,
+        "latitude": -18.10616,
+        "longitude": -140.9059
+    },
+    {
+        "name": "Orouau",
+        "country": "French Polynesia",
+        "province": "French Polynesia",
+        "population": -1,
+        "latitude": -17.4666667,
+        "longitude": -149.8
+    },
+    {
+        "name": "Orofara",
+        "country": "French Polynesia",
+        "province": "French Polynesia",
+        "population": -1,
+        "latitude": -17.50894,
+        "longitude": -149.45882
+    },
+    {
+        "name": "Opaura",
+        "country": "French Polynesia",
+        "province": "Îles du Vent",
+        "population": -1,
+        "latitude": -17.5666667,
+        "longitude": -149.85
+    },
+    {
+        "name": "Moerai",
+        "country": "French Polynesia",
+        "province": "Îles Australes",
+        "population": 1044,
+        "latitude": -22.4513315191375,
+        "longitude": -151.34190559387207
+    },
+    {
+        "name": "Maroe",
+        "country": "French Polynesia",
+        "province": "French Polynesia",
+        "population": 498,
+        "latitude": -16.76485,
+        "longitude": -150.99687
+    },
+    {
+        "name": "Mahu",
+        "country": "French Polynesia",
+        "province": "French Polynesia",
+        "population": 462,
+        "latitude": -23.3941,
+        "longitude": -149.4768
+    },
+    {
+        "name": "Maeva",
+        "country": "French Polynesia",
+        "province": "Leeward Islands",
+        "population": -1,
+        "latitude": -16.70037,
+        "longitude": -150.9888
+    },
+    {
+        "name": "Mahaiutea",
+        "country": "French Polynesia",
+        "province": "French Polynesia",
+        "population": -1,
+        "latitude": -17.7666667,
+        "longitude": -149.5333333
+    },
+    {
+        "name": "Maatea",
+        "country": "French Polynesia",
+        "province": "French Polynesia",
+        "population": -1,
+        "latitude": -17.5833333,
+        "longitude": -149.8166667
+    },
+    {
+        "name": "Ikitake",
+        "country": "French Polynesia",
+        "province": "French Polynesia",
+        "population": -1,
+        "latitude": -17.8333333,
+        "longitude": -140.85
+    },
+    {
+        "name": "Hiti Mahaua",
+        "country": "French Polynesia",
+        "province": "French Polynesia",
+        "population": -1,
+        "latitude": -17.5,
+        "longitude": -149.4833333
+    },
+    {
+        "name": "Haapupuni",
+        "country": "French Polynesia",
+        "province": "French Polynesia",
+        "population": -1,
+        "latitude": -17.5333333,
+        "longitude": -149.3833333
+    },
+    {
+        "name": "Haapu",
+        "country": "French Polynesia",
+        "province": "Leeward Islands",
+        "population": 579,
+        "latitude": -16.792171,
+        "longitude": -151.01091
+    },
+    {
+        "name": "Haapiti",
+        "country": "French Polynesia",
+        "province": "Îles du Vent",
+        "population": 3959,
+        "latitude": -17.56352,
+        "longitude": -149.86905
+    },
+    {
+        "name": "Haapape",
+        "country": "French Polynesia",
+        "province": "French Polynesia",
+        "population": -1,
+        "latitude": -17.5,
+        "longitude": -149.4833333
+    },
+    {
+        "name": "Garumaoa",
+        "country": "French Polynesia",
+        "province": "French Polynesia",
+        "population": -1,
+        "latitude": -16.0166667,
+        "longitude": -142.45
+    },
+    {
+        "name": "Fitii",
+        "country": "French Polynesia",
+        "province": "Leeward Islands",
+        "population": 1154,
+        "latitude": -16.73535,
+        "longitude": -151.0327
+    },
+    {
+        "name": "Fareorea",
+        "country": "French Polynesia",
+        "province": "French Polynesia",
+        "population": -1,
+        "latitude": -17.7166667,
+        "longitude": -149.5666667
+    },
+    {
+        "name": "Arahuta",
+        "country": "French Polynesia",
+        "province": "Îles du Vent",
+        "population": -1,
+        "latitude": -17.726488,
+        "longitude": -149.300559
+    },
+    {
+        "name": "Aoua",
+        "country": "French Polynesia",
+        "province": "French Polynesia",
+        "population": -1,
+        "latitude": -17.6666667,
+        "longitude": -149.5833333
+    },
+    {
+        "name": "Afareaitu",
+        "country": "French Polynesia",
+        "province": "Îles du Vent",
+        "population": 3213,
+        "latitude": -17.55,
+        "longitude": -149.7833333
+    },
+    {
+        "name": "Teonemahina",
+        "country": "French Polynesia",
+        "province": "French Polynesia",
+        "population": -1,
+        "latitude": -14.811,
+        "longitude": -138.841
+    },
+    {
+        "name": "Taku",
+        "country": "French Polynesia",
+        "province": "Îles Tuamotu-Gambier",
+        "population": -1,
+        "latitude": -23.084565,
+        "longitude": -134.9477
+    },
+    {
+        "name": "Rouru",
+        "country": "French Polynesia",
+        "province": "Îles Tuamotu-Gambier",
+        "population": -1,
+        "latitude": -23.130114,
+        "longitude": -134.96534
+    },
+    {
+        "name": "Gahutu",
+        "country": "French Polynesia",
+        "province": "French Polynesia",
+        "population": -1,
+        "latitude": -23.0783333,
+        "longitude": -134.9472222
+    },
+    {
+        "name": "Atituiti",
+        "country": "French Polynesia",
+        "province": "Îles Tuamotu-Gambier",
+        "population": -1,
+        "latitude": -23.131556,
+        "longitude": -134.967754
+    },
+    {
+        "name": "Atiaoha",
+        "country": "French Polynesia",
+        "province": "Îles Tuamotu-Gambier",
+        "population": -1,
+        "latitude": -23.119715,
+        "longitude": -134.992145
+    },
+    {
+        "name": "Hooumi",
+        "country": "French Polynesia",
+        "province": "French Polynesia",
+        "population": -1,
+        "latitude": -8.8877,
+        "longitude": -140.02942
+    },
+    {
+        "name": "Moumu",
+        "country": "French Polynesia",
+        "province": "Îles Tuamotu-Gambier",
+        "population": -1,
+        "latitude": -15.83349,
+        "longitude": -148.247837
+    },
+    {
+        "name": "Paeua",
+        "country": "French Polynesia",
+        "province": "French Polynesia",
+        "population": -1,
+        "latitude": -14.4641,
+        "longitude": -146.05173
+    },
+    {
+        "name": "Maharepa",
+        "country": "French Polynesia",
+        "province": "Îles du Vent",
+        "population": -1,
+        "latitude": -17.4839639701765,
+        "longitude": -149.808025360107
+    },
+    {
+        "name": "Vaitahu",
+        "country": "French Polynesia",
+        "province": "French Polynesia",
+        "population": -1,
+        "latitude": -9.93766,
+        "longitude": -139.1076
+    },
+    {
+        "name": "Taua",
+        "country": "French Polynesia",
+        "province": "French Polynesia",
+        "population": -1,
+        "latitude": -9.83484,
+        "longitude": -139.0637
+    },
+    {
+        "name": "Ivaiva Nui",
+        "country": "French Polynesia",
+        "province": "French Polynesia",
+        "population": -1,
+        "latitude": -9.91601,
+        "longitude": -139.10756
+    },
+    {
+        "name": "Hapatoni",
+        "country": "French Polynesia",
+        "province": "French Polynesia",
+        "population": -1,
+        "latitude": -9.97063,
+        "longitude": -139.12322
+    },
+    {
+        "name": "Hanaui",
+        "country": "French Polynesia",
+        "province": "French Polynesia",
+        "population": -1,
+        "latitude": -9.75097,
+        "longitude": -139.09936
+    },
+    {
+        "name": "Hanatetena",
+        "country": "French Polynesia",
+        "province": "French Polynesia",
+        "population": -1,
+        "latitude": -9.95795,
+        "longitude": -139.08
+    },
+    {
+        "name": "Hana te Fau",
+        "country": "French Polynesia",
+        "province": "French Polynesia",
+        "population": -1,
+        "latitude": -9.96877,
+        "longitude": -139.12015
+    },
+    {
+        "name": "Hana-moe-noa",
+        "country": "French Polynesia",
+        "province": "French Polynesia",
+        "population": -1,
+        "latitude": -9.90891,
+        "longitude": -139.10151
+    },
+    {
+        "name": "Hanamiai",
+        "country": "French Polynesia",
+        "province": "French Polynesia",
+        "population": -1,
+        "latitude": -9.94169,
+        "longitude": -139.11135
+    },
+    {
+        "name": "Hakamui",
+        "country": "French Polynesia",
+        "province": "French Polynesia",
+        "population": -1,
+        "latitude": -9.38335,
+        "longitude": -140.03843
+    },
+    {
+        "name": "Haaoipu",
+        "country": "French Polynesia",
+        "province": "French Polynesia",
+        "population": -1,
+        "latitude": -9.95034,
+        "longitude": -139.07202
+    },
+    {
+        "name": "Anapoo",
+        "country": "French Polynesia",
+        "province": "French Polynesia",
+        "population": -1,
+        "latitude": -9.95148,
+        "longitude": -139.11545
+    },
+    {
+        "name": "Vaiuru",
+        "country": "French Polynesia",
+        "province": "Îles Australes",
+        "population": 234,
+        "latitude": -23.86977,
+        "longitude": -147.645733
+    },
+    {
+        "name": "Vaitunanaa",
+        "country": "French Polynesia",
+        "province": "French Polynesia",
+        "population": -1,
+        "latitude": -17.7666667,
+        "longitude": -149.4166667
+    },
+    {
+        "name": "Vaitoto",
+        "country": "French Polynesia",
+        "province": "French Polynesia",
+        "population": -1,
+        "latitude": -17.7666667,
+        "longitude": -149.1166667
+    },
+    {
+        "name": "Vaitona",
+        "country": "French Polynesia",
+        "province": "French Polynesia",
+        "population": -1,
+        "latitude": -17.75,
+        "longitude": -149.1833333
+    },
+    {
+        "name": "Vaitoare",
+        "country": "French Polynesia",
+        "province": "Îles Australes",
+        "population": -1,
+        "latitude": -17.6833333,
+        "longitude": -149.3
+    },
+    {
+        "name": "Vaitia",
+        "country": "French Polynesia",
+        "province": "Leeward Islands",
+        "population": -1,
+        "latitude": -16.439315,
+        "longitude": -152.261945
+    },
+    {
+        "name": "Vairoa",
+        "country": "French Polynesia",
+        "province": "French Polynesia",
+        "population": -1,
+        "latitude": -17.5333333,
+        "longitude": -149.7666667
+    },
+    {
+        "name": "Vaiaro",
+        "country": "French Polynesia",
+        "province": "Îles du Vent",
+        "population": -1,
+        "latitude": -17.854597,
+        "longitude": -149.135791
+    },
+    {
+        "name": "Vaipeu",
+        "country": "French Polynesia",
+        "province": "Îles du Vent",
+        "population": -1,
+        "latitude": -17.48716,
+        "longitude": -149.83609
+    },
+    {
+        "name": "Vaiori",
+        "country": "French Polynesia",
+        "province": "French Polynesia",
+        "population": -1,
+        "latitude": -17.9666667,
+        "longitude": -142.2333333
+    },
+    {
+        "name": "Vaioperu",
+        "country": "French Polynesia",
+        "province": "French Polynesia",
+        "population": -1,
+        "latitude": -17.7333333,
+        "longitude": -149.55
+    },
+    {
+        "name": "Vaihi",
+        "country": "French Polynesia",
+        "province": "Îles du Vent",
+        "population": -1,
+        "latitude": -17.773407,
+        "longitude": -149.308009
+    },
+    {
+        "name": "Uritutua",
+        "country": "French Polynesia",
+        "province": "Îles du Vent",
+        "population": -1,
+        "latitude": -17.800425,
+        "longitude": -149.295266
+    },
+    {
+        "name": "Urihore",
+        "country": "French Polynesia",
+        "province": "French Polynesia",
+        "population": -1,
+        "latitude": -17.7833333,
+        "longitude": -149.2833333
+    },
+    {
+        "name": "Tupapati",
+        "country": "French Polynesia",
+        "province": "French Polynesia",
+        "population": -1,
+        "latitude": -17.54584367491429,
+        "longitude": -142.66871452331543
+    },
+    {
+        "name": "Tuherahera",
+        "country": "French Polynesia",
+        "province": "French Polynesia",
+        "population": -1,
+        "latitude": -15.114138564045613,
+        "longitude": -148.24453353881836
+    },
+    {
+        "name": "Tuarea",
+        "country": "French Polynesia",
+        "province": "French Polynesia",
+        "population": -1,
+        "latitude": -17.5833333,
+        "longitude": -149.8333333
+    },
+    {
+        "name": "Tuara",
+        "country": "French Polynesia",
+        "province": "Îles du Vent",
+        "population": -1,
+        "latitude": -17.758546,
+        "longitude": -149.153993
+    },
+    {
+        "name": "Topitike",
+        "country": "French Polynesia",
+        "province": "French Polynesia",
+        "population": -1,
+        "latitude": -18.1333333,
+        "longitude": -142.2333333
+    },
+    {
+        "name": "Toini",
+        "country": "French Polynesia",
+        "province": "Îles Tuamotu-Gambier",
+        "population": -1,
+        "latitude": -16.3661801334685,
+        "longitude": -144.35644626617432
+    },
+    {
+        "name": "Toetoe",
+        "country": "French Polynesia",
+        "province": "French Polynesia",
+        "population": -1,
+        "latitude": -17.7,
+        "longitude": -149.5666667
+    },
+    {
+        "name": "Toanoano",
+        "country": "French Polynesia",
+        "province": "Îles du Vent",
+        "population": -1,
+        "latitude": -17.865749,
+        "longitude": -149.212559
+    },
+    {
+        "name": "Tiripoa",
+        "country": "French Polynesia",
+        "province": "Îles du Vent",
+        "population": -1,
+        "latitude": -17.719918,
+        "longitude": -149.307116
+    },
+    {
+        "name": "Tiomati",
+        "country": "French Polynesia",
+        "province": "French Polynesia",
+        "population": -1,
+        "latitude": -17.7833333,
+        "longitude": -149.2833333
+    },
+    {
+        "name": "Tiaraha",
+        "country": "French Polynesia",
+        "province": "French Polynesia",
+        "population": -1,
+        "latitude": -17.55,
+        "longitude": -149.7833333
+    },
+    {
+        "name": "Teuo",
+        "country": "French Polynesia",
+        "province": "French Polynesia",
+        "population": -1,
+        "latitude": -23.3666667,
+        "longitude": -149.4333333
+    },
+    {
+        "name": "Tetira",
+        "country": "French Polynesia",
+        "province": "French Polynesia",
+        "population": -1,
+        "latitude": -17.6166667,
+        "longitude": -149.3
+    },
+    {
+        "name": "Tetamanu",
+        "country": "French Polynesia",
+        "province": "Îles Tuamotu-Gambier",
+        "population": -1,
+        "latitude": -16.514898,
+        "longitude": -145.458365
+    },
+    {
+        "name": "Te Rua Pua",
+        "country": "French Polynesia",
+        "province": "French Polynesia",
+        "population": -1,
+        "latitude": -17.5166667,
+        "longitude": -149.5333333
+    },
+    {
+        "name": "Teruafaroa",
+        "country": "French Polynesia",
+        "province": "Îles du Vent",
+        "population": -1,
+        "latitude": -17.676218,
+        "longitude": -149.308501
+    },
+    {
+        "name": "Tereporepo",
+        "country": "French Polynesia",
+        "province": "French Polynesia",
+        "population": -1,
+        "latitude": -14.9666667,
+        "longitude": -144.55
+    },
+    {
+        "name": "Terehe",
+        "country": "French Polynesia",
+        "province": "French Polynesia",
+        "population": -1,
+        "latitude": -17.75,
+        "longitude": -149.5
+    },
+    {
+        "name": "Tepukamaruia",
+        "country": "French Polynesia",
+        "province": "Îles Tuamotu-Gambier",
+        "population": -1,
+        "latitude": -14.165163845857492,
+        "longitude": -141.27156257629395
+    },
+    {
+        "name": "Tenukupara",
+        "country": "French Polynesia",
+        "province": "French Polynesia",
+        "population": -1,
+        "latitude": -14.53964,
+        "longitude": -146.35557
+    },
+    {
+        "name": "Teniuohiri",
+        "country": "French Polynesia",
+        "province": "French Polynesia",
+        "population": -1,
+        "latitude": -17.5333333,
+        "longitude": -149.8833333
+    },
+    {
+        "name": "Temao",
+        "country": "French Polynesia",
+        "province": "Îles Tuamotu-Gambier",
+        "population": -1,
+        "latitude": -15.82446,
+        "longitude": -148.277246
+    },
+    {
+        "name": "Temae",
+        "country": "French Polynesia",
+        "province": "French Polynesia",
+        "population": -1,
+        "latitude": -17.4833333,
+        "longitude": -149.7666667
+    },
+    {
+        "name": "Tehuarupe",
+        "country": "French Polynesia",
+        "province": "French Polynesia",
+        "population": -1,
+        "latitude": -17.5666667,
+        "longitude": -149.85
+    },
+    {
+        "name": "Tehekega",
+        "country": "French Polynesia",
+        "province": "French Polynesia",
+        "population": -1,
+        "latitude": -14.1,
+        "longitude": -141.4333333
+    },
+    {
+        "name": "Tefau",
+        "country": "French Polynesia",
+        "province": "French Polynesia",
+        "population": -1,
+        "latitude": -17.5666667,
+        "longitude": -149.85
+    },
+    {
+        "name": "Te Auae",
+        "country": "French Polynesia",
+        "province": "French Polynesia",
+        "population": -1,
+        "latitude": -17.54741,
+        "longitude": -149.58978
+    },
+    {
+        "name": "Teapaa",
+        "country": "French Polynesia",
+        "province": "French Polynesia",
+        "population": -1,
+        "latitude": -16.7666667,
+        "longitude": -151
+    },
+    {
+        "name": "Teana",
+        "country": "French Polynesia",
+        "province": "Îles Tuamotu-Gambier",
+        "population": -1,
+        "latitude": -15.830489587871966,
+        "longitude": -140.8956241607666
+    },
+    {
+        "name": "Teaharoa",
+        "country": "French Polynesia",
+        "province": "French Polynesia",
+        "population": -1,
+        "latitude": -17.4666667,
+        "longitude": -149.7666667
+    },
+    {
+        "name": "Taverea",
+        "country": "French Polynesia",
+        "province": "French Polynesia",
+        "population": -1,
+        "latitude": -17.7166667,
+        "longitude": -149.5833333
+    },
+    {
+        "name": "Taunoa",
+        "country": "French Polynesia",
+        "province": "French Polynesia",
+        "population": -1,
+        "latitude": -17.52862,
+        "longitude": -149.55625
+    },
+    {
+        "name": "Tarione",
+        "country": "French Polynesia",
+        "province": "French Polynesia",
+        "population": -1,
+        "latitude": -15.98155,
+        "longitude": -140.16658
+    },
+    {
+        "name": "Taravao",
+        "country": "French Polynesia",
+        "province": "French Polynesia",
+        "population": -1,
+        "latitude": -17.7333333,
+        "longitude": -149.3166667
+    },
+    {
+        "name": "Tamatoa",
+        "country": "French Polynesia",
+        "province": "French Polynesia",
+        "population": -1,
+        "latitude": -23.38831,
+        "longitude": -149.45093
+    },
+    {
+        "name": "Tahateao",
+        "country": "French Polynesia",
+        "province": "French Polynesia",
+        "population": -1,
+        "latitude": -16.71574,
+        "longitude": -151.03309
+    },
+    {
+        "name": "Taharoa",
+        "country": "French Polynesia",
+        "province": "Îles du Vent",
+        "population": -1,
+        "latitude": -17.74546,
+        "longitude": -149.207536
+    },
+    {
+        "name": "Taapuna",
+        "country": "French Polynesia",
+        "province": "French Polynesia",
+        "population": -1,
+        "latitude": -17.6,
+        "longitude": -149.6
+    },
+    {
+        "name": "Sainte Amélie",
+        "country": "French Polynesia",
+        "province": "French Polynesia",
+        "population": -1,
+        "latitude": -17.533333,
+        "longitude": -149.566667
+    },
+    {
+        "name": "Rotoava",
+        "country": "French Polynesia",
+        "province": "Îles Tuamotu-Gambier",
+        "population": -1,
+        "latitude": -16.05586,
+        "longitude": -145.61987
+    },
+    {
+        "name": "Rautini",
+        "country": "French Polynesia",
+        "province": "Îles Tuamotu-Gambier",
+        "population": -1,
+        "latitude": -15.36054,
+        "longitude": -146.620632
+    },
+    {
+        "name": "Raitahiti",
+        "country": "French Polynesia",
+        "province": "Îles Tuamotu-Gambier",
+        "population": -1,
+        "latitude": -15.673,
+        "longitude": -146.87635
+    },
+    {
+        "name": "Rairai",
+        "country": "French Polynesia",
+        "province": "Îles du Vent",
+        "population": -1,
+        "latitude": -17.5333333,
+        "longitude": -149.9166667
+    },
+    {
+        "name": "Putiara",
+        "country": "French Polynesia",
+        "province": "French Polynesia",
+        "population": -1,
+        "latitude": -17.8,
+        "longitude": -149.2833333
+    },
+    {
+        "name": "Pauiti",
+        "country": "French Polynesia",
+        "province": "Îles du Vent",
+        "population": -1,
+        "latitude": -17.656493,
+        "longitude": -149.314663
+    },
+    {
+        "name": "Puahua",
+        "country": "French Polynesia",
+        "province": "Leeward Islands",
+        "population": -1,
+        "latitude": -16.7,
+        "longitude": -151.0166667
+    },
+    {
+        "name": "Poutei",
+        "country": "French Polynesia",
+        "province": "French Polynesia",
+        "population": -1,
+        "latitude": -17.75,
+        "longitude": -149.35
+    },
+    {
+        "name": "Pipine",
+        "country": "French Polynesia",
+        "province": "French Polynesia",
+        "population": -1,
+        "latitude": -17.5166667,
+        "longitude": -149.5166667
+    },
+    {
+        "name": "Pihaa",
+        "country": "French Polynesia",
+        "province": "Îles du Vent",
+        "population": -1,
+        "latitude": -17.743841,
+        "longitude": -149.203409
+    },
+    {
+        "name": "Pierre",
+        "country": "French Polynesia",
+        "province": "French Polynesia",
+        "population": -1,
+        "latitude": -17.8,
+        "longitude": -149.2833333
+    },
+    {
+        "name": "Petou",
+        "country": "French Polynesia",
+        "province": "French Polynesia",
+        "population": -1,
+        "latitude": -16.45,
+        "longitude": -152.25
+    },
+    {
+        "name": "Pehoa",
+        "country": "French Polynesia",
+        "province": "French Polynesia",
+        "population": -1,
+        "latitude": -17.8,
+        "longitude": -149.2833333
+    },
+    {
+        "name": "Patutoa",
+        "country": "French Polynesia",
+        "province": "French Polynesia",
+        "population": -1,
+        "latitude": -17.52854,
+        "longitude": -149.56115
+    },
+    {
+        "name": "Paturoa",
+        "country": "French Polynesia",
+        "province": "Îles du Vent",
+        "population": -1,
+        "latitude": -17.748076,
+        "longitude": -149.199039
+    },
+    {
+        "name": "Patio",
+        "country": "French Polynesia",
+        "province": "Leeward Islands",
+        "population": -1,
+        "latitude": -16.584838,
+        "longitude": -151.497441
+    },
+    {
+        "name": "Patere",
+        "country": "French Polynesia",
+        "province": "French Polynesia",
+        "population": -1,
+        "latitude": -17.75,
+        "longitude": -149.5333333
+    },
+    {
+        "name": "Paraoro",
+        "country": "French Polynesia",
+        "province": "French Polynesia",
+        "population": -1,
+        "latitude": -17.4833333,
+        "longitude": -149.8166667
+    },
+    {
+        "name": "Paraohumu",
+        "country": "French Polynesia",
+        "province": "French Polynesia",
+        "population": -1,
+        "latitude": -17.5333333,
+        "longitude": -149.8833333
+    },
+    {
+        "name": "Paraiore",
+        "country": "French Polynesia",
+        "province": "French Polynesia",
+        "population": -1,
+        "latitude": -17.8,
+        "longitude": -149.2833333
+    },
+    {
+        "name": "Papehee",
+        "country": "French Polynesia",
+        "province": "French Polynesia",
+        "population": -1,
+        "latitude": -17.6,
+        "longitude": -149.3
+    },
+    {
+        "name": "Paparevo",
+        "country": "French Polynesia",
+        "province": "French Polynesia",
+        "population": -1,
+        "latitude": -17.7666667,
+        "longitude": -149.45
+    },
+    {
+        "name": "Paofai",
+        "country": "French Polynesia",
+        "province": "Îles du Vent",
+        "population": -1,
+        "latitude": -17.813786,
+        "longitude": -149.129385
+    },
+    {
+        "name": "Paiouma",
+        "country": "French Polynesia",
+        "province": "French Polynesia",
+        "population": -1,
+        "latitude": -16.4333333,
+        "longitude": -152.25
+    },
+    {
+        "name": "Pahiti",
+        "country": "French Polynesia",
+        "province": "French Polynesia",
+        "population": -1,
+        "latitude": -16.70493,
+        "longitude": -150.98276
+    },
+    {
+        "name": "Paeau",
+        "country": "French Polynesia",
+        "province": "Îles du Vent",
+        "population": -1,
+        "latitude": -17.5166667,
+        "longitude": -149.9166667
+    },
+    {
+        "name": "Otiaroa",
+        "country": "French Polynesia",
+        "province": "Îles du Vent",
+        "population": -1,
+        "latitude": -17.765659,
+        "longitude": -149.40033
+    },
+    {
+        "name": "Orufara",
+        "country": "French Polynesia",
+        "province": "French Polynesia",
+        "population": -1,
+        "latitude": -17.5,
+        "longitude": -149.85
+    },
+    {
+        "name": "Oponu",
+        "country": "French Polynesia",
+        "province": "French Polynesia",
+        "population": -1,
+        "latitude": -17.5166667,
+        "longitude": -149.85
+    },
+    {
+        "name": "Onoheha",
+        "country": "French Polynesia",
+        "province": "French Polynesia",
+        "population": -1,
+        "latitude": -17.5333333,
+        "longitude": -149.3666667
+    },
+    {
+        "name": "Omuara",
+        "country": "French Polynesia",
+        "province": "French Polynesia",
+        "population": -1,
+        "latitude": -17.7166667,
+        "longitude": -149.5833333
+    },
+    {
+        "name": "Ohomo",
+        "country": "French Polynesia",
+        "province": "French Polynesia",
+        "population": -1,
+        "latitude": -15.85136,
+        "longitude": -142.26679
+    },
+    {
+        "name": "Ohava",
+        "country": "French Polynesia",
+        "province": "French Polynesia",
+        "population": -1,
+        "latitude": -16.45,
+        "longitude": -143.9666667
+    },
+    {
+        "name": "Ofaiharata",
+        "country": "French Polynesia",
+        "province": "French Polynesia",
+        "population": -1,
+        "latitude": -17.75,
+        "longitude": -149.3666667
+    },
+    {
+        "name": "Oae",
+        "country": "French Polynesia",
+        "province": "French Polynesia",
+        "population": -1,
+        "latitude": -16.45,
+        "longitude": -152.25
+    },
+    {
+        "name": "Nutae",
+        "country": "French Polynesia",
+        "province": "Îles du Vent",
+        "population": -1,
+        "latitude": -17.740103,
+        "longitude": -149.253868
+    },
+    {
+        "name": "Nurehia",
+        "country": "French Polynesia",
+        "province": "French Polynesia",
+        "population": -1,
+        "latitude": -17.75,
+        "longitude": -149.1833333
+    },
+    {
+        "name": "Nivee",
+        "country": "French Polynesia",
+        "province": "French Polynesia",
+        "population": -1,
+        "latitude": -17.5166667,
+        "longitude": -149.4
+    },
+    {
+        "name": "Niutahi",
+        "country": "French Polynesia",
+        "province": "Îles Tuamotu-Gambier",
+        "population": -1,
+        "latitude": -15.5712,
+        "longitude": -146.41226
+    },
+    {
+        "name": "Niuporiri",
+        "country": "French Polynesia",
+        "province": "French Polynesia",
+        "population": -1,
+        "latitude": -17.7833333,
+        "longitude": -149.2833333
+    },
+    {
+        "name": "Niumaa",
+        "country": "French Polynesia",
+        "province": "Îles du Vent",
+        "population": -1,
+        "latitude": -17.735755,
+        "longitude": -149.236486
+    },
+    {
+        "name": "Nairiri",
+        "country": "French Polynesia",
+        "province": "Îles du Vent",
+        "population": -1,
+        "latitude": -17.771061,
+        "longitude": -149.42697
+    },
+    {
+        "name": "Motu Ura",
+        "country": "French Polynesia",
+        "province": "French Polynesia",
+        "population": 291,
+        "latitude": -22.66084863565694,
+        "longitude": -152.80473947525024
+    },
+    {
+        "name": "Mitirapa",
+        "country": "French Polynesia",
+        "province": "French Polynesia",
+        "population": -1,
+        "latitude": -17.74682,
+        "longitude": -149.26573
+    },
+    {
+        "name": "Matura",
+        "country": "French Polynesia",
+        "province": "French Polynesia",
+        "population": -1,
+        "latitude": -17.8,
+        "longitude": -149.2833333
+    },
+    {
+        "name": "Matotea",
+        "country": "French Polynesia",
+        "province": "Îles Australes",
+        "population": -1,
+        "latitude": -23.8754,
+        "longitude": -147.700102
+    },
+    {
+        "name": "Matiti",
+        "country": "French Polynesia",
+        "province": "Îles du Vent",
+        "population": -1,
+        "latitude": -17.824275,
+        "longitude": -149.287909
+    },
+    {
+        "name": "Mataura",
+        "country": "French Polynesia",
+        "province": "French Polynesia",
+        "population": 913,
+        "latitude": -23.34722,
+        "longitude": -149.48487
+    },
+    {
+        "name": "Mataorio",
+        "country": "French Polynesia",
+        "province": "Îles du Vent",
+        "population": -1,
+        "latitude": -17.804533,
+        "longitude": -149.127092
+    },
+    {
+        "name": "Mataorio",
+        "country": "French Polynesia",
+        "province": "French Polynesia",
+        "population": -1,
+        "latitude": -17.5833333,
+        "longitude": -149.3
+    },
+    {
+        "name": "Matahiva",
+        "country": "French Polynesia",
+        "province": "French Polynesia",
+        "population": -1,
+        "latitude": -17.5333333,
+        "longitude": -149.3333333
+    },
+    {
+        "name": "Mariuti",
+        "country": "French Polynesia",
+        "province": "French Polynesia",
+        "population": -1,
+        "latitude": -17.5833333,
+        "longitude": -149.4333333
+    },
+    {
+        "name": "Marepa",
+        "country": "French Polynesia",
+        "province": "French Polynesia",
+        "population": -1,
+        "latitude": -17.4666667,
+        "longitude": -149.8
+    },
+    {
+        "name": "Maraeapai",
+        "country": "French Polynesia",
+        "province": "French Polynesia",
+        "population": -1,
+        "latitude": -17.7333333,
+        "longitude": -149.2666667
+    },
+    {
+        "name": "Maraa",
+        "country": "French Polynesia",
+        "province": "French Polynesia",
+        "population": -1,
+        "latitude": -17.7666667,
+        "longitude": -149.5666667
+    },
+    {
+        "name": "Mahanatoa",
+        "country": "French Polynesia",
+        "province": "Îles Australes",
+        "population": -1,
+        "latitude": -23.861663,
+        "longitude": -147.674697
+    },
+    {
+        "name": "Mahaena",
+        "country": "French Polynesia",
+        "province": "French Polynesia",
+        "population": 960,
+        "latitude": -17.5666667,
+        "longitude": -149.3166667
+    },
+    {
+        "name": "Maaea",
+        "country": "French Polynesia",
+        "province": "Îles du Vent",
+        "population": -1,
+        "latitude": -17.758653,
+        "longitude": -149.378724
+    },
+    {
+        "name": "Lauiaru",
+        "country": "French Polynesia",
+        "province": "French Polynesia",
+        "population": -1,
+        "latitude": -17.75,
+        "longitude": -149.35
+    },
+    {
+        "name": "Katiro",
+        "country": "French Polynesia",
+        "province": "French Polynesia",
+        "population": -1,
+        "latitude": -17.7833333,
+        "longitude": -149.2833333
+    },
+    {
+        "name": "Iumaru",
+        "country": "French Polynesia",
+        "province": "French Polynesia",
+        "population": -1,
+        "latitude": -17.5333333,
+        "longitude": -149.9
+    },
+    {
+        "name": "Huau",
+        "country": "French Polynesia",
+        "province": "French Polynesia",
+        "population": -1,
+        "latitude": -17.5166667,
+        "longitude": -149.3833333
+    },
+    {
+        "name": "Hauturua",
+        "country": "French Polynesia",
+        "province": "French Polynesia",
+        "population": -1,
+        "latitude": -17.75,
+        "longitude": -149.35
+    },
+    {
+        "name": "Hatinua",
+        "country": "French Polynesia",
+        "province": "French Polynesia",
+        "population": -1,
+        "latitude": -17.7666667,
+        "longitude": -149.4333333
+    },
+    {
+        "name": "Hamuta",
+        "country": "French Polynesia",
+        "province": "French Polynesia",
+        "population": -1,
+        "latitude": -17.5314,
+        "longitude": -149.55248
+    },
+    {
+        "name": "Fariipiti",
+        "country": "French Polynesia",
+        "province": "French Polynesia",
+        "population": -1,
+        "latitude": -17.53419,
+        "longitude": -149.56303
+    },
+    {
+        "name": "Faremi",
+        "country": "French Polynesia",
+        "province": "French Polynesia",
+        "population": -1,
+        "latitude": -17.7666667,
+        "longitude": -149.4333333
+    },
+    {
+        "name": "Farehau",
+        "country": "French Polynesia",
+        "province": "French Polynesia",
+        "population": -1,
+        "latitude": -17.5333333,
+        "longitude": -149.7833333
+    },
+    {
+        "name": "Farehau",
+        "country": "French Polynesia",
+        "province": "French Polynesia",
+        "population": -1,
+        "latitude": -16.7166667,
+        "longitude": -151.0166667
+    },
+    {
+        "name": "Fareeru",
+        "country": "French Polynesia",
+        "province": "French Polynesia",
+        "population": -1,
+        "latitude": -16.7653,
+        "longitude": -150.96614
+    },
+    {
+        "name": "Farauo",
+        "country": "French Polynesia",
+        "province": "Îles du Vent",
+        "population": -1,
+        "latitude": -17.834494,
+        "longitude": -149.129207
+    },
+    {
+        "name": "Fakatopatere",
+        "country": "French Polynesia",
+        "province": "Îles Tuamotu-Gambier",
+        "population": -1,
+        "latitude": -14.709774,
+        "longitude": -145.246728
+    },
+    {
+        "name": "Faauanu",
+        "country": "French Polynesia",
+        "province": "French Polynesia",
+        "population": -1,
+        "latitude": -17.5333333,
+        "longitude": -149.35
+    },
+    {
+        "name": "Faatautia",
+        "country": "French Polynesia",
+        "province": "Îles du Vent",
+        "population": -1,
+        "latitude": -17.641014,
+        "longitude": -149.311562
+    },
+    {
+        "name": "Faarumai",
+        "country": "French Polynesia",
+        "province": "French Polynesia",
+        "population": -1,
+        "latitude": -17.5166667,
+        "longitude": -149.3833333
+    },
+    {
+        "name": "Faanoa",
+        "country": "French Polynesia",
+        "province": "French Polynesia",
+        "population": -1,
+        "latitude": -16.45,
+        "longitude": -152.2666667
+    },
+    {
+        "name": "Avera",
+        "country": "French Polynesia",
+        "province": "Îles Australes",
+        "population": 711,
+        "latitude": -22.47814,
+        "longitude": -151.35126
+    },
+    {
+        "name": "Avae",
+        "country": "French Polynesia",
+        "province": "French Polynesia",
+        "population": -1,
+        "latitude": -17.5833333,
+        "longitude": -149.6
+    },
+    {
+        "name": "Atiue",
+        "country": "French Polynesia",
+        "province": "French Polynesia",
+        "population": -1,
+        "latitude": -17.6,
+        "longitude": -149.6166667
+    },
+    {
+        "name": "Atipiti",
+        "country": "French Polynesia",
+        "province": "French Polynesia",
+        "population": -1,
+        "latitude": -16.45,
+        "longitude": -152.2666667
+    },
+    {
+        "name": "Atimaono",
+        "country": "French Polynesia",
+        "province": "French Polynesia",
+        "population": -1,
+        "latitude": -17.7666667,
+        "longitude": -149.4666667
+    },
+    {
+        "name": "Atihiva",
+        "country": "French Polynesia",
+        "province": "French Polynesia",
+        "population": -1,
+        "latitude": -17.7333333,
+        "longitude": -149.2666667
+    },
+    {
+        "name": "Ataiti",
+        "country": "French Polynesia",
+        "province": "Îles du Vent",
+        "population": -1,
+        "latitude": -17.759237,
+        "longitude": -149.383187
+    },
+    {
+        "name": "Area",
+        "country": "French Polynesia",
+        "province": "French Polynesia",
+        "population": -1,
+        "latitude": -27.6,
+        "longitude": -144.3166667
+    },
+    {
+        "name": "Araito",
+        "country": "French Polynesia",
+        "province": "French Polynesia",
+        "population": -1,
+        "latitude": -17.5333333,
+        "longitude": -149.8833333
+    },
+    {
+        "name": "Araiteva",
+        "country": "French Polynesia",
+        "province": "French Polynesia",
+        "population": -1,
+        "latitude": -17.7666667,
+        "longitude": -149.45
+    },
+    {
+        "name": "Arahiri",
+        "country": "French Polynesia",
+        "province": "French Polynesia",
+        "population": -1,
+        "latitude": -17.52731,
+        "longitude": -149.53986
+    },
+    {
+        "name": "Apomaoro",
+        "country": "French Polynesia",
+        "province": "French Polynesia",
+        "population": -1,
+        "latitude": -17.75,
+        "longitude": -149.5
+    },
+    {
+        "name": "Anua",
+        "country": "French Polynesia",
+        "province": "Îles Australes",
+        "population": -1,
+        "latitude": -23.377816,
+        "longitude": -149.526638
+    },
+    {
+        "name": "Anatonu",
+        "country": "French Polynesia",
+        "province": "French Polynesia",
+        "population": 247,
+        "latitude": -23.8533,
+        "longitude": -147.63788
+    },
+    {
+        "name": "Anapoto",
+        "country": "French Polynesia",
+        "province": "French Polynesia",
+        "population": 233,
+        "latitude": -22.64292740382438,
+        "longitude": -152.81743168830872
+    },
+    {
+        "name": "Amaru",
+        "country": "French Polynesia",
+        "province": "French Polynesia",
+        "population": 237,
+        "latitude": -22.646591050266398,
+        "longitude": -152.7928251028061
+    },
+    {
+        "name": "Vaïare",
+        "country": "French Polynesia",
+        "province": "Îles du Vent",
+        "population": -1,
+        "latitude": -17.5208333,
+        "longitude": -149.7797222
+    },
+    {
+        "name": "Taiokai",
+        "country": "French Polynesia",
+        "province": "French Polynesia",
+        "population": -1,
+        "latitude": -10.43248,
+        "longitude": -138.68611
+    },
+    {
+        "name": "Ouia",
+        "country": "French Polynesia",
+        "province": "French Polynesia",
+        "population": -1,
+        "latitude": -10.48509,
+        "longitude": -138.61875
+    },
+    {
+        "name": "Kirimiro",
+        "country": "French Polynesia",
+        "province": "Îles Tuamotu-Gambier",
+        "population": -1,
+        "latitude": -23.103457,
+        "longitude": -134.972368
+    },
+    {
+        "name": "Hanavave",
+        "country": "French Polynesia",
+        "province": "French Polynesia",
+        "population": -1,
+        "latitude": -10.46355,
+        "longitude": -138.66343
+    },
+    {
+        "name": "Gatavaké",
+        "country": "French Polynesia",
+        "province": "Îles Tuamotu-Gambier",
+        "population": -1,
+        "latitude": -23.120251,
+        "longitude": -134.979386
+    },
+    {
+        "name": "Fakamaru",
+        "country": "French Polynesia",
+        "province": "French Polynesia",
+        "population": -1,
+        "latitude": -20.7833333,
+        "longitude": -138.55
+    },
+    {
+        "name": "Auorotini",
+        "country": "French Polynesia",
+        "province": "French Polynesia",
+        "population": -1,
+        "latitude": -21.4833333,
+        "longitude": -135.6333333
+    },
+    {
+        "name": "Atirikigaro",
+        "country": "French Polynesia",
+        "province": "Îles Tuamotu-Gambier",
+        "population": -1,
+        "latitude": -23.09355,
+        "longitude": -134.94498
+    },
+    {
+        "name": "Apeakava",
+        "country": "French Polynesia",
+        "province": "Îles Tuamotu-Gambier",
+        "population": -1,
+        "latitude": -23.096986,
+        "longitude": -134.958008
+    },
+    {
+        "name": "Akaputu",
+        "country": "French Polynesia",
+        "province": "Îles Tuamotu-Gambier",
+        "population": -1,
+        "latitude": -23.080411,
+        "longitude": -134.936522
+    },
+    {
+        "name": "Akamaru",
+        "country": "French Polynesia",
+        "province": "Îles Tuamotu-Gambier",
+        "population": -1,
+        "latitude": -23.181077,
+        "longitude": -134.914618
+    },
+    {
+        "name": "Anganui",
+        "country": "French Polynesia",
+        "province": "Îles Tuamotu-Gambier",
+        "population": -1,
+        "latitude": -23.145058,
+        "longitude": -135.041163
+    },
+    {
+        "name": "Atihoi",
+        "country": "French Polynesia",
+        "province": "Îles Tuamotu-Gambier",
+        "population": -1,
+        "latitude": -23.094362,
+        "longitude": -134.965738
+    },
+    {
+        "name": "Kairori",
+        "country": "French Polynesia",
+        "province": "Îles Tuamotu-Gambier",
+        "population": -1,
+        "latitude": -23.091184,
+        "longitude": -134.952713
+    },
+    {
+        "name": "Gataha",
+        "country": "French Polynesia",
+        "province": "Îles Tuamotu-Gambier",
+        "population": -1,
+        "latitude": -23.088733,
+        "longitude": -134.951755
+    },
+    {
+        "name": "Vaitinoua",
+        "country": "French Polynesia",
+        "province": "Îles Tuamotu-Gambier",
+        "population": -1,
+        "latitude": -23.081354,
+        "longitude": -134.945531
+    },
+    {
+        "name": "Gahutu Tenohu",
+        "country": "French Polynesia",
+        "province": "Îles Tuamotu-Gambier",
+        "population": -1,
+        "latitude": -23.079235,
+        "longitude": -134.941926
+    },
+    {
+        "name": "Vaitu",
+        "country": "French Polynesia",
+        "province": "French Polynesia",
+        "population": -1,
+        "latitude": -8.91318,
+        "longitude": -140.09463
+    },
+    {
+        "name": "Hanga Haa",
+        "country": "French Polynesia",
+        "province": "French Polynesia",
+        "population": -1,
+        "latitude": -8.87841,
+        "longitude": -140.04384
+    },
+    {
+        "name": "Hakaui",
+        "country": "French Polynesia",
+        "province": "French Polynesia",
+        "population": -1,
+        "latitude": -8.94053,
+        "longitude": -140.169
+    },
+    {
+        "name": "Haka Puuae",
+        "country": "French Polynesia",
+        "province": "French Polynesia",
+        "population": -1,
+        "latitude": -8.89537,
+        "longitude": -140.05457
+    },
+    {
+        "name": "Anaho",
+        "country": "French Polynesia",
+        "province": "French Polynesia",
+        "population": 334,
+        "latitude": -8.81949,
+        "longitude": -140.06774
+    },
+    {
+        "name": "Atiheu",
+        "country": "French Polynesia",
+        "province": "French Polynesia",
+        "population": -1,
+        "latitude": -8.82889,
+        "longitude": -140.08135
+    },
+    {
+        "name": "Tiva",
+        "country": "French Polynesia",
+        "province": "Leeward Islands",
+        "population": -1,
+        "latitude": -16.641002,
+        "longitude": -151.544234
+    },
+    {
+        "name": "Fetuna",
+        "country": "French Polynesia",
+        "province": "Leeward Islands",
+        "population": -1,
+        "latitude": -16.908932,
+        "longitude": -151.441263
+    },
+    {
+        "name": "Opoa",
+        "country": "French Polynesia",
+        "province": "Leeward Islands",
+        "population": -1,
+        "latitude": -16.850213,
+        "longitude": -151.362884
+    },
+    {
+        "name": "Parea",
+        "country": "French Polynesia",
+        "province": "Leeward Islands",
+        "population": -1,
+        "latitude": -16.808219,
+        "longitude": -150.979676
+    },
+    {
+        "name": "Titiaroa",
+        "country": "French Polynesia",
+        "province": "French Polynesia",
+        "population": -1,
+        "latitude": -17.01638,
+        "longitude": -149.59015
+    },
+    {
+        "name": "Hauru",
+        "country": "French Polynesia",
+        "province": "Îles du Vent",
+        "population": -1,
+        "latitude": -17.50729,
+        "longitude": -149.91377
+    },
+    {
+        "name": "Faie",
+        "country": "French Polynesia",
+        "province": "Îles du Vent",
+        "population": -1,
+        "latitude": -16.72969,
+        "longitude": -150.99548
+    },
+    {
+        "name": "Atiha",
+        "country": "French Polynesia",
+        "province": "Îles du Vent",
+        "population": -1,
+        "latitude": -17.58475,
+        "longitude": -149.83965
+    },
+    {
+        "name": "Vai'anae",
+        "country": "French Polynesia",
+        "province": "Leeward Islands",
+        "population": -1,
+        "latitude": -17.58299,
+        "longitude": -149.84974
+    },
+    {
+        "name": "Nu'urua",
+        "country": "French Polynesia",
+        "province": "Îles du Vent",
+        "population": -1,
+        "latitude": -17.53598,
+        "longitude": -149.90141
+    },
+    {
+        "name": "Paevaeva",
+        "country": "French Polynesia",
+        "province": "Îles du Vent",
+        "population": -1,
+        "latitude": -17.54453,
+        "longitude": -149.89017
+    },
+    {
+        "name": "Tiahura",
+        "country": "French Polynesia",
+        "province": "Îles du Vent",
+        "population": -1,
+        "latitude": -17.49291,
+        "longitude": -149.89705
+    },
+    {
+        "name": "Manihi",
+        "country": "French Polynesia",
+        "province": "French Polynesia",
+        "population": -1,
+        "latitude": -14.33125,
+        "longitude": -145.86479
+    },
+    {
+        "name": "Anaa",
+        "country": "French Polynesia",
+        "province": "French Polynesia",
+        "population": -1,
+        "latitude": -17.38734,
+        "longitude": -145.58189
+    },
+    {
+        "name": "Ha'amene",
+        "country": "French Polynesia",
+        "province": "Leeward Islands",
+        "population": -1,
+        "latitude": -16.63553,
+        "longitude": -151.49207
+    },
+    {
+        "name": "Hitianau",
+        "country": "French Polynesia",
+        "province": "Îles Tuamotu-Gambier",
+        "population": -1,
+        "latitude": -16.70477,
+        "longitude": -145.35667
+    },
+    {
+        "name": "Pira' e",
+        "country": "French Polynesia",
+        "province": "Îles du Vent",
+        "population": -1,
+        "latitude": -17.57743,
+        "longitude": -149.52397
+    },
+    {
+        "name": "Pape' ete",
+        "country": "French Polynesia",
+        "province": "Îles du Vent",
+        "population": -1,
+        "latitude": -17.55157,
+        "longitude": -149.5589
+    },
+    {
+        "name": "Hanapaaoa",
+        "country": "French Polynesia",
+        "province": "Îles Marquises",
+        "population": -1,
+        "latitude": -9.741483,
+        "longitude": -138.96197
+    },
+    {
+        "name": "Hanamenu",
+        "country": "French Polynesia",
+        "province": "Îles Marquises",
+        "population": -1,
+        "latitude": -9.768994,
+        "longitude": -139.14049
+    },
+    {
+        "name": "Tahauku",
+        "country": "French Polynesia",
+        "province": "Îles Marquises",
+        "population": -1,
+        "latitude": -9.805122,
+        "longitude": -139.029365
+    },
+    {
+        "name": "Hanaiapa",
+        "country": "French Polynesia",
+        "province": "Îles Marquises",
+        "population": -1,
+        "latitude": -9.723658,
+        "longitude": -139.009588
+    },
+    {
+        "name": "Hanatekuua",
+        "country": "French Polynesia",
+        "province": "Îles Marquises",
+        "population": -1,
+        "latitude": -9.70537,
+        "longitude": -138.990968
+    },
+    {
+        "name": "Anahi",
+        "country": "French Polynesia",
+        "province": "Îles Marquises",
+        "population": -1,
+        "latitude": -9.741482,
+        "longitude": -138.93792
+    },
+    {
+        "name": "Eiaone",
+        "country": "French Polynesia",
+        "province": "Îles Marquises",
+        "population": -1,
+        "latitude": -9.744654,
+        "longitude": -138.903713
+    },
+    {
+        "name": "Hanaupe",
+        "country": "French Polynesia",
+        "province": "Îles Marquises",
+        "population": -1,
+        "latitude": -9.797961,
+        "longitude": -138.908868
+    },
+    {
+        "name": "Puamau",
+        "country": "French Polynesia",
+        "province": "Îles Marquises",
+        "population": -1,
+        "latitude": -9.763013,
+        "longitude": -138.88546
+    },
+    {
+        "name": "Hopiropiro",
+        "country": "French Polynesia",
+        "province": "Îles Tuamotu-Gambier",
+        "population": -1,
+        "latitude": -15.227761,
+        "longitude": -147.757633
+    },
+    {
+        "name": "Paritautia",
+        "country": "French Polynesia",
+        "province": "Îles du Vent",
+        "population": -1,
+        "latitude": -17.642567,
+        "longitude": -149.310381
+    },
+    {
+        "name": "Pariauta",
+        "country": "French Polynesia",
+        "province": "Îles du Vent",
+        "population": -1,
+        "latitude": -17.652041,
+        "longitude": -149.315921
+    },
+    {
+        "name": "Fatau",
+        "country": "French Polynesia",
+        "province": "Îles du Vent",
+        "population": -1,
+        "latitude": -17.730881,
+        "longitude": -149.318703
+    },
+    {
+        "name": "Patutera",
+        "country": "French Polynesia",
+        "province": "Îles du Vent",
+        "population": -1,
+        "latitude": -17.746991,
+        "longitude": -149.345395
+    },
+    {
+        "name": "Vahitu",
+        "country": "French Polynesia",
+        "province": "Îles du Vent",
+        "population": -1,
+        "latitude": -17.742298,
+        "longitude": -149.343504
+    },
+    {
+        "name": "Aouatchora",
+        "country": "French Polynesia",
+        "province": "Îles du Vent",
+        "population": -1,
+        "latitude": -17.731409,
+        "longitude": -149.29407
+    },
+    {
+        "name": "Papehere",
+        "country": "French Polynesia",
+        "province": "Îles du Vent",
+        "population": -1,
+        "latitude": -17.828014,
+        "longitude": -149.285689
+    },
+    {
+        "name": "Faataoto",
+        "country": "French Polynesia",
+        "province": "Leeward Islands",
+        "population": -1,
+        "latitude": -16.674222,
+        "longitude": -151.458087
+    },
+    {
+        "name": "Motutiairi",
+        "country": "French Polynesia",
+        "province": "Leeward Islands",
+        "population": -1,
+        "latitude": -16.65932,
+        "longitude": -151.458161
+    },
+    {
+        "name": "Para",
+        "country": "French Polynesia",
+        "province": "Leeward Islands",
+        "population": -1,
+        "latitude": -16.645539,
+        "longitude": -151.449975
+    },
+    {
+        "name": "Aiai",
+        "country": "French Polynesia",
+        "province": "Leeward Islands",
+        "population": -1,
+        "latitude": -16.636654,
+        "longitude": -151.444172
+    },
+    {
+        "name": "Faaha",
+        "country": "French Polynesia",
+        "province": "Leeward Islands",
+        "population": -1,
+        "latitude": -16.62465,
+        "longitude": -151.459857
+    },
+    {
+        "name": "Faaopore",
+        "country": "French Polynesia",
+        "province": "Leeward Islands",
+        "population": -1,
+        "latitude": -16.624511,
+        "longitude": -151.436029
+    },
+    {
+        "name": "Hipu",
+        "country": "French Polynesia",
+        "province": "Leeward Islands",
+        "population": -1,
+        "latitude": -16.589901,
+        "longitude": -151.463616
+    },
+    {
+        "name": "Pahure",
+        "country": "French Polynesia",
+        "province": "Leeward Islands",
+        "population": -1,
+        "latitude": -16.58445,
+        "longitude": -151.484523
+    },
+    {
+        "name": "Teruaupai",
+        "country": "French Polynesia",
+        "province": "Leeward Islands",
+        "population": -1,
+        "latitude": -16.614757,
+        "longitude": -151.540244
+    },
+    {
+        "name": "Hatupa",
+        "country": "French Polynesia",
+        "province": "Leeward Islands",
+        "population": -1,
+        "latitude": -16.644068,
+        "longitude": -151.536705
+    },
+    {
+        "name": "Murifenua",
+        "country": "French Polynesia",
+        "province": "Leeward Islands",
+        "population": -1,
+        "latitude": -16.600192,
+        "longitude": -151.540682
+    },
+    {
+        "name": "Vaipiti",
+        "country": "French Polynesia",
+        "province": "Leeward Islands",
+        "population": -1,
+        "latitude": -16.656955,
+        "longitude": -151.499516
+    },
+    {
+        "name": "Patii",
+        "country": "French Polynesia",
+        "province": "Leeward Islands",
+        "population": -1,
+        "latitude": -16.661258,
+        "longitude": -151.5132
+    },
+    {
+        "name": "Apu",
+        "country": "French Polynesia",
+        "province": "Leeward Islands",
+        "population": -1,
+        "latitude": -16.670548,
+        "longitude": -151.482929
+    },
+    {
+        "name": "Tapuamu",
+        "country": "French Polynesia",
+        "province": "Leeward Islands",
+        "population": -1,
+        "latitude": -16.618916,
+        "longitude": -151.54289
+    },
+    {
+        "name": "Mania",
+        "country": "French Polynesia",
+        "province": "Îles Tuamotu-Gambier",
+        "population": -1,
+        "latitude": -17.454058,
+        "longitude": -145.479041
+    },
+    {
+        "name": "Tematahoa",
+        "country": "French Polynesia",
+        "province": "Îles Tuamotu-Gambier",
+        "population": -1,
+        "latitude": -17.484936,
+        "longitude": -145.39697
+    },
+    {
+        "name": "Otepipi",
+        "country": "French Polynesia",
+        "province": "Îles Tuamotu-Gambier",
+        "population": -1,
+        "latitude": -17.403867,
+        "longitude": -145.526638
+    },
+    {
+        "name": "Temarie",
+        "country": "French Polynesia",
+        "province": "Îles Tuamotu-Gambier",
+        "population": -1,
+        "latitude": -17.341977,
+        "longitude": -145.566831
+    },
+    {
+        "name": "Paparara",
+        "country": "French Polynesia",
+        "province": "Îles Tuamotu-Gambier",
+        "population": -1,
+        "latitude": -15.509417,
+        "longitude": -145.455841
+    },
+    {
+        "name": "Tetauruga",
+        "country": "French Polynesia",
+        "province": "Îles Tuamotu-Gambier",
+        "population": -1,
+        "latitude": -16.619478,
+        "longitude": -143.558946
+    },
+    {
+        "name": "Teavaroa",
+        "country": "French Polynesia",
+        "province": "Îles Tuamotu-Gambier",
+        "population": -1,
+        "latitude": -14.472887,
+        "longitude": -145.038411
+    },
+    {
+        "name": "Opunu",
+        "country": "French Polynesia",
+        "province": "Leeward Islands",
+        "population": -1,
+        "latitude": -16.809196,
+        "longitude": -151.486282
+    },
+    {
+        "name": "Faaini",
+        "country": "French Polynesia",
+        "province": "Leeward Islands",
+        "population": -1,
+        "latitude": -16.72536,
+        "longitude": -151.037024
+    },
+    {
+        "name": "La Petite Ferme",
+        "country": "French Polynesia",
+        "province": "Leeward Islands",
+        "population": -1,
+        "latitude": -16.700144,
+        "longitude": -151.028858
+    },
+    {
+        "name": "Vaioa",
+        "country": "French Polynesia",
+        "province": "Leeward Islands",
+        "population": -1,
+        "latitude": -16.768895,
+        "longitude": -151.008237
+    },
+    {
+        "name": "Manu Meri",
+        "country": "French Polynesia",
+        "province": "Leeward Islands",
+        "population": -1,
+        "latitude": -16.778756,
+        "longitude": -151.022798
+    },
+    {
+        "name": "Poutoru",
+        "country": "French Polynesia",
+        "province": "Leeward Islands",
+        "population": -1,
+        "latitude": -16.673675,
+        "longitude": -151.501912
+    },
+    {
+        "name": "Moanataa",
+        "country": "French Polynesia",
+        "province": "Leeward Islands",
+        "population": -1,
+        "latitude": -16.813226,
+        "longitude": -151.404793
+    },
+    {
+        "name": "Mauuraurii",
+        "country": "French Polynesia",
+        "province": "Leeward Islands",
+        "population": -1,
+        "latitude": -16.795037,
+        "longitude": -151.413026
+    },
+    {
+        "name": "Faremeho",
+        "country": "French Polynesia",
+        "province": "Leeward Islands",
+        "population": -1,
+        "latitude": -16.790037,
+        "longitude": -151.409857
+    },
+    {
+        "name": "Avera",
+        "country": "French Polynesia",
+        "province": "Leeward Islands",
+        "population": -1,
+        "latitude": -16.785762,
+        "longitude": -151.414228
+    },
+    {
+        "name": "Teroto",
+        "country": "French Polynesia",
+        "province": "Leeward Islands",
+        "population": -1,
+        "latitude": -16.796817,
+        "longitude": -151.489926
+    },
+    {
+        "name": "Moroi",
+        "country": "French Polynesia",
+        "province": "Leeward Islands",
+        "population": -1,
+        "latitude": -16.784985,
+        "longitude": -151.485852
+    },
+    {
+        "name": "Manuihi",
+        "country": "French Polynesia",
+        "province": "Leeward Islands",
+        "population": -1,
+        "latitude": -16.77871,
+        "longitude": -151.488982
+    },
+    {
+        "name": "Tairineneva",
+        "country": "French Polynesia",
+        "province": "Leeward Islands",
+        "population": -1,
+        "latitude": -16.75096,
+        "longitude": -151.490028
+    },
+    {
+        "name": "Uturaerae",
+        "country": "French Polynesia",
+        "province": "Leeward Islands",
+        "population": -1,
+        "latitude": -16.738301,
+        "longitude": -151.484077
+    },
+    {
+        "name": "Vaiurua",
+        "country": "French Polynesia",
+        "province": "Leeward Islands",
+        "population": -1,
+        "latitude": -16.751356,
+        "longitude": -151.433582
+    },
+    {
+        "name": "Atitautu",
+        "country": "French Polynesia",
+        "province": "Leeward Islands",
+        "population": -1,
+        "latitude": -16.742886,
+        "longitude": -151.438151
+    },
+    {
+        "name": "Mana",
+        "country": "French Polynesia",
+        "province": "Leeward Islands",
+        "population": -1,
+        "latitude": -16.724232,
+        "longitude": -151.464818
+    },
+    {
+        "name": "Puohine",
+        "country": "French Polynesia",
+        "province": "Leeward Islands",
+        "population": -1,
+        "latitude": -16.890632,
+        "longitude": -151.400223
+    },
+    {
+        "name": "Tautara",
+        "country": "French Polynesia",
+        "province": "Leeward Islands",
+        "population": -1,
+        "latitude": -16.899196,
+        "longitude": -151.432994
+    },
+    {
+        "name": "Tehurui",
+        "country": "French Polynesia",
+        "province": "Leeward Islands",
+        "population": -1,
+        "latitude": -16.838271,
+        "longitude": -151.482665
+    },
+    {
+        "name": "Volande",
+        "country": "French Polynesia",
+        "province": "Leeward Islands",
+        "population": -1,
+        "latitude": -16.795759,
+        "longitude": -151.406101
+    },
+    {
+        "name": "Raiatea",
+        "country": "French Polynesia",
+        "province": "Leeward Islands",
+        "population": -1,
+        "latitude": -16.797914,
+        "longitude": -151.401985
+    },
+    {
+        "name": "Brotherson",
+        "country": "French Polynesia",
+        "province": "Leeward Islands",
+        "population": -1,
+        "latitude": -16.786172,
+        "longitude": -151.413174
+    },
+    {
+        "name": "Vaiapu",
+        "country": "French Polynesia",
+        "province": "Leeward Islands",
+        "population": -1,
+        "latitude": -16.813572,
+        "longitude": -151.475442
+    },
+    {
+        "name": "Bali Haï",
+        "country": "French Polynesia",
+        "province": "Leeward Islands",
+        "population": -1,
+        "latitude": -16.739464,
+        "longitude": -151.436314
+    },
+    {
+        "name": "Tereia",
+        "country": "French Polynesia",
+        "province": "Îles Tuamotu-Gambier",
+        "population": -1,
+        "latitude": -15.073533,
+        "longitude": -147.935613
+    },
+    {
+        "name": "Hitianau",
+        "country": "French Polynesia",
+        "province": "Îles Tuamotu-Gambier",
+        "population": -1,
+        "latitude": -16.366151,
+        "longitude": -144.356255
+    },
+    {
+        "name": "Opipiné",
+        "country": "French Polynesia",
+        "province": "Îles Tuamotu-Gambier",
+        "population": -1,
+        "latitude": -17.446125,
+        "longitude": -143.454962
+    },
+    {
+        "name": "Vaitepaua",
+        "country": "French Polynesia",
+        "province": "Îles Tuamotu-Gambier",
+        "population": -1,
+        "latitude": -15.821858,
+        "longitude": -148.266498
+    },
+    {
+        "name": "Vaiea",
+        "country": "French Polynesia",
+        "province": "Leeward Islands",
+        "population": -1,
+        "latitude": -16.452603,
+        "longitude": -152.250262
+    },
+    {
+        "name": "Pauma",
+        "country": "French Polynesia",
+        "province": "Leeward Islands",
+        "population": -1,
+        "latitude": -16.448794,
+        "longitude": -152.249007
+    },
+    {
+        "name": "Petei",
+        "country": "French Polynesia",
+        "province": "Leeward Islands",
+        "population": -1,
+        "latitude": -16.446178,
+        "longitude": -152.248256
+    },
+    {
+        "name": "Taiore",
+        "country": "French Polynesia",
+        "province": "Îles Tuamotu-Gambier",
+        "population": -1,
+        "latitude": -14.947483,
+        "longitude": -148.058348
+    },
+    {
+        "name": "Haramea",
+        "country": "French Polynesia",
+        "province": "Îles Australes",
+        "population": -1,
+        "latitude": -23.385019,
+        "longitude": -149.520199
+    },
+    {
+        "name": "Tehaunatieva",
+        "country": "French Polynesia",
+        "province": "Îles Australes",
+        "population": -1,
+        "latitude": -23.395524,
+        "longitude": -149.482186
+    },
+    {
+        "name": "Taahuaia",
+        "country": "French Polynesia",
+        "province": "Îles Australes",
+        "population": -1,
+        "latitude": -23.346881,
+        "longitude": -149.455888
+    },
+    {
+        "name": "Hakamaii",
+        "country": "French Polynesia",
+        "province": "French Polynesia",
+        "population": -1,
+        "latitude": -9.41446,
+        "longitude": -140.11239
+    },
+    {
+        "name": "Hakahetau",
+        "country": "French Polynesia",
+        "province": "French Polynesia",
+        "population": -1,
+        "latitude": -9.3627,
+        "longitude": -140.10309
+    },
+    {
+        "name": "Hakahau",
+        "country": "French Polynesia",
+        "province": "French Polynesia",
+        "population": -1,
+        "latitude": -9.36266,
+        "longitude": -140.05111
+    },
+    {
+        "name": "Faa'a",
+        "country": "French Polynesia",
+        "province": "Îles du Vent",
+        "population": -1,
+        "latitude": -17.55329,
+        "longitude": -149.59963
+    },
+    {
+        "name": "Vaipohe",
+        "country": "French Polynesia",
+        "province": "Îles du Vent",
+        "population": -1,
+        "latitude": -17.756126,
+        "longitude": -149.157075
+    },
+    {
+        "name": "Tipaerui",
+        "country": "French Polynesia",
+        "province": "French Polynesia",
+        "population": -1,
+        "latitude": -17.5333333,
+        "longitude": -149.5666667
+    },
+    {
+        "name": "Pohueura",
+        "country": "French Polynesia",
+        "province": "Îles du Vent",
+        "population": -1,
+        "latitude": -17.796617,
+        "longitude": -149.128686
+    },
+    {
+        "name": "Pahonu",
+        "country": "French Polynesia",
+        "province": "French Polynesia",
+        "population": -1,
+        "latitude": -17.52686,
+        "longitude": -149.55637
+    },
+    {
+        "name": "Tavava",
+        "country": "French Polynesia",
+        "province": "Îles Tuamotu-Gambier",
+        "population": -1,
+        "latitude": -19.278253413347556,
+        "longitude": -138.77397537231445
+    },
+    {
+        "name": "Marautagaroa",
+        "country": "French Polynesia",
+        "province": "French Polynesia",
+        "population": -1,
+        "latitude": -18.26680712666767,
+        "longitude": -137.06517219543457
+    },
+    {
+        "name": "Tumukuru",
+        "country": "French Polynesia",
+        "province": "French Polynesia",
+        "population": -1,
+        "latitude": -17.34547701666988,
+        "longitude": -138.45013618469238
+    },
+    {
+        "name": "Matira",
+        "country": "French Polynesia",
+        "province": "French Polynesia",
+        "population": -1,
+        "latitude": -16.54348,
+        "longitude": -151.73565
+    },
+    {
+        "name": "Tapuarava",
+        "country": "French Polynesia",
+        "province": "Îles Tuamotu-Gambier",
+        "population": -1,
+        "latitude": -18.46647,
+        "longitude": -136.46328
+    },
+    {
+        "name": "Pater",
+        "country": "French Polynesia",
+        "province": "Îles du Vent",
+        "population": -1,
+        "latitude": -17.54842,
+        "longitude": -149.54826
+    },
+    {
+        "name": "Papeuriri",
+        "country": "French Polynesia",
+        "province": "Îles du Vent",
+        "population": -1,
+        "latitude": -17.768328,
+        "longitude": -149.41103
+    },
+    {
+        "name": "Paripari",
+        "country": "French Polynesia",
+        "province": "Leeward Islands",
+        "population": -1,
+        "latitude": -16.591605,
+        "longitude": -151.535107
+    },
+    {
+        "name": "Poro-Poro",
+        "country": "French Polynesia",
+        "province": "Îles Tuamotu-Gambier",
+        "population": -1,
+        "latitude": -14.535738,
+        "longitude": -146.354119
+    },
+    {
+        "name": "Herengao",
+        "country": "French Polynesia",
+        "province": "Îles Tuamotu-Gambier",
+        "population": -1,
+        "latitude": -17.397416,
+        "longitude": -145.479145
+    },
+    {
+        "name": "Matauri",
+        "country": "French Polynesia",
+        "province": "Îles Tuamotu-Gambier",
+        "population": -1,
+        "latitude": -17.344583,
+        "longitude": -145.527607
+    },
+    {
+        "name": "Okuru Manga",
+        "country": "French Polynesia",
+        "province": "Îles Tuamotu-Gambier",
+        "population": -1,
+        "latitude": -17.352212,
+        "longitude": -145.514159
+    },
+    {
+        "name": "Tenape",
+        "country": "French Polynesia",
+        "province": "Îles Tuamotu-Gambier",
+        "population": -1,
+        "latitude": -17.365784,
+        "longitude": -145.505608
+    },
+    {
+        "name": "Ofare",
+        "country": "French Polynesia",
+        "province": "Îles Tuamotu-Gambier",
+        "population": -1,
+        "latitude": -16.121647,
+        "longitude": -146.372975
+    },
+    {
+        "name": "Teoromea",
+        "country": "French Polynesia",
+        "province": "Îles Tuamotu-Gambier",
+        "population": -1,
+        "latitude": -16.053605,
+        "longitude": -145.619199
+    },
+    {
+        "name": "Otetou",
+        "country": "French Polynesia",
+        "province": "Îles Tuamotu-Gambier",
+        "population": -1,
+        "latitude": -14.967203,
+        "longitude": -147.63179
+    },
+    {
+        "name": "Taamoi",
+        "country": "French Polynesia",
+        "province": "Îles Tuamotu-Gambier",
+        "population": -1,
+        "latitude": -14.95877,
+        "longitude": -147.648399
+    },
+    {
+        "name": "Ariataea",
+        "country": "French Polynesia",
+        "province": "Îles Tuamotu-Gambier",
+        "population": -1,
+        "latitude": -14.957535,
+        "longitude": -147.654149
+    },
+    {
+        "name": "Tevaiohie",
+        "country": "French Polynesia",
+        "province": "Îles Tuamotu-Gambier",
+        "population": -1,
+        "latitude": -14.953131,
+        "longitude": -147.669283
+    },
+    {
+        "name": "Tepaetia",
+        "country": "French Polynesia",
+        "province": "Îles Tuamotu-Gambier",
+        "population": -1,
+        "latitude": -14.945184,
+        "longitude": -147.692522
+    },
+    {
+        "name": "Papahoro",
+        "country": "French Polynesia",
+        "province": "Leeward Islands",
+        "population": -1,
+        "latitude": -16.613521,
+        "longitude": -151.443708
+    },
+    {
+        "name": "Vainono",
+        "country": "French Polynesia",
+        "province": "Îles Tuamotu-Gambier",
+        "population": -1,
+        "latitude": -18.422065,
+        "longitude": -140.673801
+    }
+]

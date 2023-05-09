@@ -1,0 +1,218 @@
+[
+    {
+        "name": "Funafuti",
+        "country": "Tuvalu",
+        "province": "Funafuti",
+        "population": 4492,
+        "latitude": -8.52424963509738,
+        "longitude": 179.19417321682
+    },
+    {
+        "name": "Savave Village",
+        "country": "Tuvalu",
+        "province": "Nukufetau",
+        "population": 586,
+        "latitude": -8.02730663174533,
+        "longitude": 178.313512802124
+    },
+    {
+        "name": "Alapi Village",
+        "country": "Tuvalu",
+        "province": "Funafuti",
+        "population": 1024,
+        "latitude": -8.5207376040625,
+        "longitude": 179.196796417236
+    },
+    {
+        "name": "Fakaifou Village",
+        "country": "Tuvalu",
+        "province": "Funafuti",
+        "population": 1007,
+        "latitude": -8.517575687504179,
+        "longitude": 179.20093774795532
+    },
+    {
+        "name": "Tanrake Village",
+        "country": "Tuvalu",
+        "province": "Nui",
+        "population": 408,
+        "latitude": -7.24562017907709,
+        "longitude": 177.145110368729
+    },
+    {
+        "name": "Vaiaku Village",
+        "country": "Tuvalu",
+        "province": "Funafuti",
+        "population": 516,
+        "latitude": -8.52543798874641,
+        "longitude": 179.194103479385
+    },
+    {
+        "name": "Senala Village",
+        "country": "Tuvalu",
+        "province": "Funafuti",
+        "population": 589,
+        "latitude": -8.517395308925911,
+        "longitude": 179.1982877254486
+    },
+    {
+        "name": "Motufoua School",
+        "country": "Tuvalu",
+        "province": "Vaitupu",
+        "population": 506,
+        "latitude": -7.48996274458089,
+        "longitude": 178.692562580109
+    },
+    {
+        "name": "Teone Village",
+        "country": "Tuvalu",
+        "province": "Funafuti",
+        "population": 540,
+        "latitude": -8.499219078801394,
+        "longitude": 179.19501543045044
+    },
+    {
+        "name": "Teava Village",
+        "country": "Tuvalu",
+        "province": "Niutao",
+        "population": 439,
+        "latitude": -6.110045491663464,
+        "longitude": 177.33523607254028
+    },
+    {
+        "name": "Toga Village",
+        "country": "Tuvalu",
+        "province": "Nanumanga",
+        "population": 258,
+        "latitude": -6.28763608632385,
+        "longitude": 176.31471991539
+    },
+    {
+        "name": "Asau Village",
+        "country": "Tuvalu",
+        "province": "Vaitupu",
+        "population": 250,
+        "latitude": -7.49026058872628,
+        "longitude": 178.680160045624
+    },
+    {
+        "name": "Tokelau Village",
+        "country": "Tuvalu",
+        "province": "Nanumanga",
+        "population": 281,
+        "latitude": -6.28536458590039,
+        "longitude": 176.315342187881
+    },
+    {
+        "name": "Niulakita Village",
+        "country": "Tuvalu",
+        "province": "Niutao",
+        "population": 35,
+        "latitude": -10.791,
+        "longitude": 179.4667
+    },
+    {
+        "name": "https://en.wikipedia.org/wiki/Kulia",
+        "country": "Tuvalu",
+        "province": "Niutao",
+        "population": 224,
+        "latitude": -6.108189275804716,
+        "longitude": 177.33392715454102
+    },
+    {
+        "name": "Temotu Village",
+        "country": "Tuvalu",
+        "province": "Vaitupu",
+        "population": 52,
+        "latitude": -7.46167726163992,
+        "longitude": 178.667478561401
+    },
+    {
+        "name": "Amatuku Village",
+        "country": "Tuvalu",
+        "province": "Funafuti",
+        "population": 52,
+        "latitude": -8.43789846222096,
+        "longitude": 179.170312285423
+    },
+    {
+        "name": "Nukualofa Village",
+        "country": "Tuvalu",
+        "province": "Nukulaelae",
+        "population": 188,
+        "latitude": -9.37058063100212,
+        "longitude": 179.807846546173
+    },
+    {
+        "name": "Pepesala Village",
+        "country": "Tuvalu",
+        "province": "Nukulaelae",
+        "population": 205,
+        "latitude": -9.37322439185103,
+        "longitude": 179.809166193008
+    },
+    {
+        "name": "Hauma Village",
+        "country": "Tuvalu",
+        "province": "Nanumea",
+        "population": 181,
+        "latitude": -5.67586124930172,
+        "longitude": 176.116933822632
+    },
+    {
+        "name": "Meang Village",
+        "country": "Tuvalu",
+        "province": "Nui",
+        "population": 127,
+        "latitude": -7.20592476162695,
+        "longitude": 177.150249481201
+    },
+    {
+        "name": "Lolua Village",
+        "country": "Tuvalu",
+        "province": "Nanumea",
+        "population": 215,
+        "latitude": -5.67398222869243,
+        "longitude": 176.115152835846
+    },
+    {
+        "name": "Funafala Village",
+        "country": "Tuvalu",
+        "province": "Funafuti",
+        "population": 22,
+        "latitude": -8.62974931142004,
+        "longitude": 179.100660681725
+    },
+    {
+        "name": "Tumaseu Village",
+        "country": "Tuvalu",
+        "province": "Vaitupu",
+        "population": 287,
+        "latitude": -7.48783528048006,
+        "longitude": 178.679419755936
+    },
+    {
+        "name": "Tekavatoetoe Village",
+        "country": "Tuvalu",
+        "province": "Funafuti",
+        "population": 343,
+        "latitude": -8.53493407486619,
+        "longitude": 179.18554186821
+    },
+    {
+        "name": "Displaced Atoll Population During WW2",
+        "country": "Tuvalu",
+        "province": "Nanumea",
+        "population": -1,
+        "latitude": -5.652618615494301,
+        "longitude": 176.077162027359
+    },
+    {
+        "name": "Lofeagai Village",
+        "country": "Tuvalu",
+        "province": "Funafuti",
+        "population": 399,
+        "latitude": -8.48103137544803,
+        "longitude": 179.192333221436
+    }
+]

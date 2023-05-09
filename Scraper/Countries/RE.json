@@ -1,0 +1,6186 @@
+[
+    {
+        "name": "Saint-Denis",
+        "country": "Réunion",
+        "province": "Réunion",
+        "population": 137195,
+        "latitude": -20.882310137195297,
+        "longitude": 55.450401306152344
+    },
+    {
+        "name": "Saint-Pierre",
+        "country": "Réunion",
+        "province": "Réunion",
+        "population": 76655,
+        "latitude": -21.339298,
+        "longitude": 55.47811
+    },
+    {
+        "name": "Saint-Louis",
+        "country": "Réunion",
+        "province": "Réunion",
+        "population": 47881,
+        "latitude": -21.285846,
+        "longitude": 55.41124
+    },
+    {
+        "name": "Saint-Paul",
+        "country": "Réunion",
+        "province": "Réunion",
+        "population": 103208,
+        "latitude": -21.009607,
+        "longitude": 55.271336
+    },
+    {
+        "name": "Saint-Benoît",
+        "country": "Réunion",
+        "province": "Réunion",
+        "population": 35310,
+        "latitude": -21.037952,
+        "longitude": 55.715461
+    },
+    {
+        "name": "Saint-André",
+        "country": "Réunion",
+        "province": "Réunion",
+        "population": 48674,
+        "latitude": -20.963331,
+        "longitude": 55.650312
+    },
+    {
+        "name": "Le Tampon",
+        "country": "Réunion",
+        "province": "Réunion",
+        "population": 79824,
+        "latitude": -21.276601,
+        "longitude": 55.517657
+    },
+    {
+        "name": "Le Port",
+        "country": "Réunion",
+        "province": "Réunion",
+        "population": 32977,
+        "latitude": -20.937522,
+        "longitude": 55.294151
+    },
+    {
+        "name": "Saint-Joseph",
+        "country": "Réunion",
+        "province": "Réunion",
+        "population": 33694,
+        "latitude": -21.377698,
+        "longitude": 55.616905
+    },
+    {
+        "name": "Sainte-Marie",
+        "country": "Réunion",
+        "province": "Réunion",
+        "population": 31636,
+        "latitude": -20.896859,
+        "longitude": 55.550556
+    },
+    {
+        "name": "Saint-Leu",
+        "country": "Réunion",
+        "province": "Réunion",
+        "population": 28278,
+        "latitude": -21.170589,
+        "longitude": 55.288236
+    },
+    {
+        "name": "Sainte-Clotilde",
+        "country": "Réunion",
+        "province": "Réunion",
+        "population": -1,
+        "latitude": -20.904291,
+        "longitude": 55.478264
+    },
+    {
+        "name": "La Possession",
+        "country": "Réunion",
+        "province": "Réunion",
+        "population": 26865,
+        "latitude": -20.929094,
+        "longitude": 55.334802
+    },
+    {
+        "name": "Sainte-Suzanne",
+        "country": "Réunion",
+        "province": "Réunion",
+        "population": 20530,
+        "latitude": -20.90616,
+        "longitude": 55.607877
+    },
+    {
+        "name": "Petite-Île",
+        "country": "Réunion",
+        "province": "Réunion",
+        "population": 10961,
+        "latitude": -21.35327,
+        "longitude": 55.564267
+    },
+    {
+        "name": "Les Avirons",
+        "country": "Réunion",
+        "province": "Réunion",
+        "population": 8006,
+        "latitude": -21.240629,
+        "longitude": 55.336847
+    },
+    {
+        "name": "Bras-Panon",
+        "country": "Réunion",
+        "province": "Réunion",
+        "population": 10444,
+        "latitude": -20.996674,
+        "longitude": 55.678233
+    },
+    {
+        "name": "Salazie",
+        "country": "Réunion",
+        "province": "Réunion",
+        "population": 7696,
+        "latitude": -21.027098,
+        "longitude": 55.539502
+    },
+    {
+        "name": "Saint-Philippe",
+        "country": "Réunion",
+        "province": "Réunion",
+        "population": 5441,
+        "latitude": -21.360859,
+        "longitude": 55.767898
+    },
+    {
+        "name": "La Plaine-des-Palmistes",
+        "country": "Réunion",
+        "province": "Réunion",
+        "population": -1,
+        "latitude": -21.134255,
+        "longitude": 55.628193
+    },
+    {
+        "name": "Cilaos",
+        "country": "Réunion",
+        "province": "Réunion",
+        "population": 6225,
+        "latitude": -21.136412,
+        "longitude": 55.471871
+    },
+    {
+        "name": "Vincendo",
+        "country": "Réunion",
+        "province": "Réunion",
+        "population": -1,
+        "latitude": -21.37104,
+        "longitude": 55.67013
+    },
+    {
+        "name": "Les Trois-Bassins",
+        "country": "Réunion",
+        "province": "Réunion",
+        "population": 7114,
+        "latitude": -21.1,
+        "longitude": 55.3
+    },
+    {
+        "name": "Takamaka",
+        "country": "Réunion",
+        "province": "Réunion",
+        "population": -1,
+        "latitude": -21.317855,
+        "longitude": 55.800941
+    },
+    {
+        "name": "Saint-Gilles les Bains",
+        "country": "Réunion",
+        "province": "Réunion",
+        "population": -1,
+        "latitude": -21.052031,
+        "longitude": 55.225708
+    },
+    {
+        "name": "Sainte-Rose",
+        "country": "Réunion",
+        "province": "Réunion",
+        "population": 7035,
+        "latitude": -21.128582,
+        "longitude": 55.796164
+    },
+    {
+        "name": "Sainte-Anne",
+        "country": "Réunion",
+        "province": "Réunion",
+        "population": -1,
+        "latitude": -21.085220841370848,
+        "longitude": 55.74943542480469
+    },
+    {
+        "name": "La Réunion",
+        "country": "Réunion",
+        "province": "Réunion",
+        "population": -1,
+        "latitude": -20.900742,
+        "longitude": 55.536504
+    },
+    {
+        "name": "Ravine Ango",
+        "country": "Réunion",
+        "province": "Réunion",
+        "population": -1,
+        "latitude": -21.349793,
+        "longitude": 55.791054
+    },
+    {
+        "name": "Quartier Français",
+        "country": "Réunion",
+        "province": "Réunion",
+        "population": -1,
+        "latitude": -20.929035,
+        "longitude": 55.635239
+    },
+    {
+        "name": "Piton Sainte-Rose",
+        "country": "Réunion",
+        "province": "Réunion",
+        "population": -1,
+        "latitude": -21.157173,
+        "longitude": 55.823439
+    },
+    {
+        "name": "Manapany",
+        "country": "Réunion",
+        "province": "Réunion",
+        "population": -1,
+        "latitude": -21.375994,
+        "longitude": 55.600782
+    },
+    {
+        "name": "La Ligne des Bambous",
+        "country": "Réunion",
+        "province": "Réunion",
+        "population": -1,
+        "latitude": -21.299468,
+        "longitude": 55.490492
+    },
+    {
+        "name": "L'Ermitage les Bains",
+        "country": "Réunion",
+        "province": "Réunion",
+        "population": -1,
+        "latitude": -21.081759,
+        "longitude": 55.227801
+    },
+    {
+        "name": "La Plaine des Cafres",
+        "country": "Réunion",
+        "province": "Réunion",
+        "population": -1,
+        "latitude": -21.225255,
+        "longitude": 55.555883
+    },
+    {
+        "name": "La Montagne",
+        "country": "Réunion",
+        "province": "Réunion",
+        "population": -1,
+        "latitude": -20.888773,
+        "longitude": 55.422672
+    },
+    {
+        "name": "La Mare",
+        "country": "Réunion",
+        "province": "Réunion",
+        "population": -1,
+        "latitude": -20.897804,
+        "longitude": 55.532637
+    },
+    {
+        "name": "La Grande Chaloupe",
+        "country": "Réunion",
+        "province": "Réunion",
+        "population": -1,
+        "latitude": -20.897654,
+        "longitude": 55.375227
+    },
+    {
+        "name": "Hell Bourg",
+        "country": "Réunion",
+        "province": "Réunion",
+        "population": -1,
+        "latitude": -21.064933,
+        "longitude": 55.519544
+    },
+    {
+        "name": "L'Étang-Salé",
+        "country": "Réunion",
+        "province": "Réunion",
+        "population": -1,
+        "latitude": -21.25,
+        "longitude": 55.3833333
+    },
+    {
+        "name": "Domenjod",
+        "country": "Réunion",
+        "province": "Réunion",
+        "population": -1,
+        "latitude": -20.912773,
+        "longitude": 55.506081
+    },
+    {
+        "name": "Anse les Bas",
+        "country": "Réunion",
+        "province": "Réunion",
+        "population": -1,
+        "latitude": -21.36391,
+        "longitude": 55.541285
+    },
+    {
+        "name": "Bourg-Murat",
+        "country": "Réunion",
+        "province": "Réunion",
+        "population": -1,
+        "latitude": -21.20366,
+        "longitude": 55.57292
+    },
+    {
+        "name": "Vincendo",
+        "country": "Réunion",
+        "province": "Réunion",
+        "population": -1,
+        "latitude": -20.985578,
+        "longitude": 55.644673
+    },
+    {
+        "name": "Le Piton Saint-Leu",
+        "country": "Réunion",
+        "province": "Réunion",
+        "population": -1,
+        "latitude": -21.219678,
+        "longitude": 55.310953
+    },
+    {
+        "name": "Saint-Gilles les Hauts",
+        "country": "Réunion",
+        "province": "Réunion",
+        "population": -1,
+        "latitude": -21.050203,
+        "longitude": 55.269995
+    },
+    {
+        "name": "Rivière du Mât les Hauts",
+        "country": "Réunion",
+        "province": "Réunion",
+        "population": -1,
+        "latitude": -20.975643,
+        "longitude": 55.647489
+    },
+    {
+        "name": "Rivière du Mât les Bas",
+        "country": "Réunion",
+        "province": "Réunion",
+        "population": -1,
+        "latitude": -20.969804,
+        "longitude": 55.689238
+    },
+    {
+        "name": "La Renaissance",
+        "country": "Réunion",
+        "province": "Réunion",
+        "population": -1,
+        "latitude": -20.927239,
+        "longitude": 55.60433
+    },
+    {
+        "name": "La Ravine du Pont",
+        "country": "Réunion",
+        "province": "Réunion",
+        "population": -1,
+        "latitude": -21.339107,
+        "longitude": 55.562053
+    },
+    {
+        "name": "Ravine des Chèvres les Bas",
+        "country": "Réunion",
+        "province": "Réunion",
+        "population": -1,
+        "latitude": -20.895435,
+        "longitude": 55.570731
+    },
+    {
+        "name": "Mont Vert les Bas",
+        "country": "Réunion",
+        "province": "Réunion",
+        "population": -1,
+        "latitude": -21.332472,
+        "longitude": 55.530328
+    },
+    {
+        "name": "L'Étang",
+        "country": "Réunion",
+        "province": "Réunion",
+        "population": -1,
+        "latitude": -20.929402,
+        "longitude": 55.655644
+    },
+    {
+        "name": "Le Ruisseau les Hauts",
+        "country": "Réunion",
+        "province": "Réunion",
+        "population": -1,
+        "latitude": -21.258634,
+        "longitude": 55.438964
+    },
+    {
+        "name": "Le Cap",
+        "country": "Réunion",
+        "province": "Réunion",
+        "population": -1,
+        "latitude": -21.165701,
+        "longitude": 55.480809
+    },
+    {
+        "name": "La Rivière",
+        "country": "Réunion",
+        "province": "Réunion",
+        "population": -1,
+        "latitude": -21.2595012281421,
+        "longitude": 55.4405307769775
+    },
+    {
+        "name": "La Ressource Barau",
+        "country": "Réunion",
+        "province": "Réunion",
+        "population": -1,
+        "latitude": -20.918655,
+        "longitude": 55.570334
+    },
+    {
+        "name": "Peter Both",
+        "country": "Réunion",
+        "province": "Réunion",
+        "population": -1,
+        "latitude": -21.172155,
+        "longitude": 55.461003
+    },
+    {
+        "name": "Le Gol les Hauts",
+        "country": "Réunion",
+        "province": "Réunion",
+        "population": -1,
+        "latitude": -21.251507,
+        "longitude": 55.435213
+    },
+    {
+        "name": "Le Camp du Gol",
+        "country": "Réunion",
+        "province": "Réunion",
+        "population": -1,
+        "latitude": -21.272808,
+        "longitude": 55.404133
+    },
+    {
+        "name": "La Convenance",
+        "country": "Réunion",
+        "province": "Réunion",
+        "population": -1,
+        "latitude": -20.894777,
+        "longitude": 55.565224
+    },
+    {
+        "name": "Bourbier-Beaulieu",
+        "country": "Réunion",
+        "province": "Réunion",
+        "population": -1,
+        "latitude": -21.03248,
+        "longitude": 55.700176
+    },
+    {
+        "name": "Bois Rouge",
+        "country": "Réunion",
+        "province": "Réunion",
+        "population": -1,
+        "latitude": -20.914522,
+        "longitude": 55.637736
+    },
+    {
+        "name": "Bois d'Olives",
+        "country": "Réunion",
+        "province": "Réunion",
+        "population": -1,
+        "latitude": -21.298265,
+        "longitude": 55.453066
+    },
+    {
+        "name": "Piton Saint-Leu",
+        "country": "Réunion",
+        "province": "Réunion",
+        "population": 29278,
+        "latitude": -21.219620958263953,
+        "longitude": 55.31513214111328
+    },
+    {
+        "name": "Le Verger Hémery",
+        "country": "Réunion",
+        "province": "Réunion",
+        "population": -1,
+        "latitude": -21.364341,
+        "longitude": 55.544899
+    },
+    {
+        "name": "L'Union",
+        "country": "Réunion",
+        "province": "Réunion",
+        "population": -1,
+        "latitude": -20.999681,
+        "longitude": 55.67236
+    },
+    {
+        "name": "Trois Mares les Hauts",
+        "country": "Réunion",
+        "province": "Réunion",
+        "population": -1,
+        "latitude": -21.244103,
+        "longitude": 55.512805
+    },
+    {
+        "name": "Le Tremblet",
+        "country": "Réunion",
+        "province": "Réunion",
+        "population": -1,
+        "latitude": -21.304026,
+        "longitude": 55.801199
+    },
+    {
+        "name": "Stella",
+        "country": "Réunion",
+        "province": "Réunion",
+        "population": -1,
+        "latitude": -21.20201,
+        "longitude": 55.295949
+    },
+    {
+        "name": "Bois Noirs",
+        "country": "Réunion",
+        "province": "Réunion",
+        "population": -1,
+        "latitude": -21.379031,
+        "longitude": 55.639323
+    },
+    {
+        "name": "Savannah",
+        "country": "Réunion",
+        "province": "Réunion",
+        "population": -1,
+        "latitude": -20.98661,
+        "longitude": 55.298314
+    },
+    {
+        "name": "Saline-les Hauts",
+        "country": "Réunion",
+        "province": "Réunion",
+        "population": -1,
+        "latitude": -21.092626,
+        "longitude": 55.305531
+    },
+    {
+        "name": "Roche Maigre",
+        "country": "Réunion",
+        "province": "Réunion",
+        "population": -1,
+        "latitude": -21.271795,
+        "longitude": 55.415671
+    },
+    {
+        "name": "La Rivière de l'Est",
+        "country": "Réunion",
+        "province": "Réunion",
+        "population": -1,
+        "latitude": -21.119946,
+        "longitude": 55.759198
+    },
+    {
+        "name": "La Révolution",
+        "country": "Réunion",
+        "province": "Réunion",
+        "population": -1,
+        "latitude": -20.916364,
+        "longitude": 55.557573
+    },
+    {
+        "name": "La Ravine Glissante",
+        "country": "Réunion",
+        "province": "Réunion",
+        "population": -1,
+        "latitude": -21.138109,
+        "longitude": 55.806629
+    },
+    {
+        "name": "Ravine des Chèvres les Hauts",
+        "country": "Réunion",
+        "province": "Réunion",
+        "population": -1,
+        "latitude": -20.90975,
+        "longitude": 55.569367
+    },
+    {
+        "name": "La Ravine des Cafres les Hauts",
+        "country": "Réunion",
+        "province": "Réunion",
+        "population": -1,
+        "latitude": -21.337336,
+        "longitude": 55.518707
+    },
+    {
+        "name": "La Ravine des Cabris",
+        "country": "Réunion",
+        "province": "Réunion",
+        "population": -1,
+        "latitude": -21.286117,
+        "longitude": 55.470099
+    },
+    {
+        "name": "La Ravine Blanche",
+        "country": "Réunion",
+        "province": "Réunion",
+        "population": -1,
+        "latitude": -21.337066,
+        "longitude": 55.460532
+    },
+    {
+        "name": "La Ravine à Malheur",
+        "country": "Réunion",
+        "province": "Réunion",
+        "population": -1,
+        "latitude": -20.923021,
+        "longitude": 55.366339
+    },
+    {
+        "name": "Le Pont d'Yves",
+        "country": "Réunion",
+        "province": "Réunion",
+        "population": -1,
+        "latitude": -21.233968,
+        "longitude": 55.505113
+    },
+    {
+        "name": "Le Plate",
+        "country": "Réunion",
+        "province": "Réunion",
+        "population": -1,
+        "latitude": -21.204478,
+        "longitude": 55.333715
+    },
+    {
+        "name": "La Cour du Piton",
+        "country": "Réunion",
+        "province": "Réunion",
+        "population": -1,
+        "latitude": -20.967964,
+        "longitude": 55.301013
+    },
+    {
+        "name": "Pierrefonds",
+        "country": "Réunion",
+        "province": "Réunion",
+        "population": -1,
+        "latitude": -21.301345,
+        "longitude": 55.429733
+    },
+    {
+        "name": "Le Petit Serré",
+        "country": "Réunion",
+        "province": "Réunion",
+        "population": -1,
+        "latitude": -21.214541,
+        "longitude": 55.454691
+    },
+    {
+        "name": "Le Petit Sable",
+        "country": "Réunion",
+        "province": "Réunion",
+        "population": -1,
+        "latitude": -21.034888,
+        "longitude": 55.535997
+    },
+    {
+        "name": "La Petite Ravine",
+        "country": "Réunion",
+        "province": "Réunion",
+        "population": -1,
+        "latitude": -21.124637,
+        "longitude": 55.301856
+    },
+    {
+        "name": "Mont Vert les Hauts",
+        "country": "Réunion",
+        "province": "Réunion",
+        "population": -1,
+        "latitude": -21.316941,
+        "longitude": 55.552652
+    },
+    {
+        "name": "Manapany les Hauts",
+        "country": "Réunion",
+        "province": "Réunion",
+        "population": -1,
+        "latitude": -21.336855,
+        "longitude": 55.577051
+    },
+    {
+        "name": "Manapany les Bains",
+        "country": "Réunion",
+        "province": "Réunion",
+        "population": -1,
+        "latitude": -21.374761,
+        "longitude": 55.59355
+    },
+    {
+        "name": "Les Makes",
+        "country": "Réunion",
+        "province": "Réunion",
+        "population": -1,
+        "latitude": -21.207832,
+        "longitude": 55.405478
+    },
+    {
+        "name": "Îlet aux Palmistes",
+        "country": "Réunion",
+        "province": "Réunion",
+        "population": -1,
+        "latitude": -21.335232,
+        "longitude": 55.801641
+    },
+    {
+        "name": "L'Ermitage",
+        "country": "Réunion",
+        "province": "Réunion",
+        "population": -1,
+        "latitude": -21.357952,
+        "longitude": 55.577108
+    },
+    {
+        "name": "Le Tévelave",
+        "country": "Réunion",
+        "province": "Réunion",
+        "population": -1,
+        "latitude": -21.209436,
+        "longitude": 55.355657
+    },
+    {
+        "name": "Les Vacoas",
+        "country": "Réunion",
+        "province": "Réunion",
+        "population": -1,
+        "latitude": -21.3166667,
+        "longitude": 55.8
+    },
+    {
+        "name": "Trois Mares",
+        "country": "Réunion",
+        "province": "Réunion",
+        "population": -1,
+        "latitude": -21.258414,
+        "longitude": 55.500724
+    },
+    {
+        "name": "Les Six-Cents",
+        "country": "Réunion",
+        "province": "Réunion",
+        "population": -1,
+        "latitude": -21.2666667,
+        "longitude": 55.5166667
+    },
+    {
+        "name": "Les Quatre Cents",
+        "country": "Réunion",
+        "province": "Réunion",
+        "population": -1,
+        "latitude": -21.270682,
+        "longitude": 55.4955
+    },
+    {
+        "name": "Les Colimaçons",
+        "country": "Réunion",
+        "province": "Réunion",
+        "population": -1,
+        "latitude": -21.13923,
+        "longitude": 55.292884
+    },
+    {
+        "name": "Les Ramiers",
+        "country": "Réunion",
+        "province": "Réunion",
+        "population": -1,
+        "latitude": -21.025173,
+        "longitude": 55.532523
+    },
+    {
+        "name": "Le Grand Pourpier",
+        "country": "Réunion",
+        "province": "Réunion",
+        "population": -1,
+        "latitude": -20.973016,
+        "longitude": 55.309579
+    },
+    {
+        "name": "Le Portail",
+        "country": "Réunion",
+        "province": "Réunion",
+        "population": -1,
+        "latitude": -21.213196,
+        "longitude": 55.300705
+    },
+    {
+        "name": "L'Éperon",
+        "country": "Réunion",
+        "province": "Réunion",
+        "population": -1,
+        "latitude": -21.042665,
+        "longitude": 55.254651
+    },
+    {
+        "name": "Le Pavillon",
+        "country": "Réunion",
+        "province": "Réunion",
+        "population": -1,
+        "latitude": -21.190297,
+        "longitude": 55.450263
+    },
+    {
+        "name": "Patelin",
+        "country": "Réunion",
+        "province": "Réunion",
+        "population": -1,
+        "latitude": -20.97153,
+        "longitude": 55.676395
+    },
+    {
+        "name": "Le Ouaki",
+        "country": "Réunion",
+        "province": "Réunion",
+        "population": -1,
+        "latitude": -21.274965,
+        "longitude": 55.449102
+    },
+    {
+        "name": "Fond Maurice",
+        "country": "Réunion",
+        "province": "Réunion",
+        "population": -1,
+        "latitude": -21.248914,
+        "longitude": 55.350405
+    },
+    {
+        "name": "Lotissement Dioré",
+        "country": "Réunion",
+        "province": "Réunion",
+        "population": -1,
+        "latitude": -20.983643,
+        "longitude": 55.619135
+    },
+    {
+        "name": "Délices",
+        "country": "Réunion",
+        "province": "Réunion",
+        "population": -1,
+        "latitude": -20.935198,
+        "longitude": 55.6316
+    },
+    {
+        "name": "Le Colosse",
+        "country": "Réunion",
+        "province": "Réunion",
+        "population": -1,
+        "latitude": -20.935871,
+        "longitude": 55.672385
+    },
+    {
+        "name": "Le Cœur Saignant",
+        "country": "Réunion",
+        "province": "Réunion",
+        "population": -1,
+        "latitude": -20.970458,
+        "longitude": 55.694851
+    },
+    {
+        "name": "Le Chaudron",
+        "country": "Réunion",
+        "province": "Réunion",
+        "population": -1,
+        "latitude": -20.891947,
+        "longitude": 55.495284
+    },
+    {
+        "name": "Casabois",
+        "country": "Réunion",
+        "province": "Réunion",
+        "population": -1,
+        "latitude": -21.037866,
+        "longitude": 55.464373
+    },
+    {
+        "name": "Le Cap Lelièvre",
+        "country": "Réunion",
+        "province": "Réunion",
+        "population": -1,
+        "latitude": -21.180868,
+        "longitude": 55.303302
+    },
+    {
+        "name": "Le Brûlé",
+        "country": "Réunion",
+        "province": "Réunion",
+        "population": -1,
+        "latitude": -20.921989,
+        "longitude": 55.436102
+    },
+    {
+        "name": "Bois de Nèfles",
+        "country": "Réunion",
+        "province": "Réunion",
+        "population": -1,
+        "latitude": -20.997042,
+        "longitude": 55.327019
+    },
+    {
+        "name": "Bésave",
+        "country": "Réunion",
+        "province": "Réunion",
+        "population": -1,
+        "latitude": -21.361894,
+        "longitude": 55.606849
+    },
+    {
+        "name": "La Vallée",
+        "country": "Réunion",
+        "province": "Réunion",
+        "population": -1,
+        "latitude": -21.303265,
+        "longitude": 55.458502
+    },
+    {
+        "name": "La Saline les Bains",
+        "country": "Réunion",
+        "province": "Réunion",
+        "population": -1,
+        "latitude": -21.093722,
+        "longitude": 55.239135
+    },
+    {
+        "name": "La Saline",
+        "country": "Réunion",
+        "province": "Réunion",
+        "population": -1,
+        "latitude": -21.084259,
+        "longitude": 55.268925
+    },
+    {
+        "name": "Rivière des Pluies",
+        "country": "Réunion",
+        "province": "Réunion",
+        "population": -1,
+        "latitude": -20.913385,
+        "longitude": 55.509764
+    },
+    {
+        "name": "La Rivière",
+        "country": "Réunion",
+        "province": "Réunion",
+        "population": -1,
+        "latitude": -21.266087,
+        "longitude": 55.440393
+    },
+    {
+        "name": "Petite Île",
+        "country": "Réunion",
+        "province": "Réunion",
+        "population": -1,
+        "latitude": -20.880237,
+        "longitude": 55.441642
+    },
+    {
+        "name": "La Passerelle",
+        "country": "Réunion",
+        "province": "Réunion",
+        "population": -1,
+        "latitude": -21.34046,
+        "longitude": 55.64563
+    },
+    {
+        "name": "Le Goyave",
+        "country": "Réunion",
+        "province": "Réunion",
+        "population": -1,
+        "latitude": -21.370898,
+        "longitude": 55.617307
+    },
+    {
+        "name": "La Bretagne",
+        "country": "Réunion",
+        "province": "Réunion",
+        "population": -1,
+        "latitude": -20.92011,
+        "longitude": 55.494862
+    },
+    {
+        "name": "Jean Petit les Bas",
+        "country": "Réunion",
+        "province": "Réunion",
+        "population": -1,
+        "latitude": -21.370454,
+        "longitude": 55.623079
+    },
+    {
+        "name": "Îlet Furcy",
+        "country": "Réunion",
+        "province": "Réunion",
+        "population": -1,
+        "latitude": -21.242634,
+        "longitude": 55.454998
+    },
+    {
+        "name": "Roche Plate",
+        "country": "Réunion",
+        "province": "Réunion",
+        "population": -1,
+        "latitude": -21.248098,
+        "longitude": 55.615494
+    },
+    {
+        "name": "Grands Bois",
+        "country": "Réunion",
+        "province": "Réunion",
+        "population": -1,
+        "latitude": -21.359281,
+        "longitude": 55.525573
+    },
+    {
+        "name": "Grand Galet",
+        "country": "Réunion",
+        "province": "Réunion",
+        "population": -1,
+        "latitude": -21.309813,
+        "longitude": 55.6405
+    },
+    {
+        "name": "Grand Fond",
+        "country": "Réunion",
+        "province": "Réunion",
+        "population": -1,
+        "latitude": -21.040026,
+        "longitude": 55.221691
+    },
+    {
+        "name": "Grand-Place",
+        "country": "Réunion",
+        "province": "Réunion",
+        "population": -1,
+        "latitude": -21.041646,
+        "longitude": 55.412265
+    },
+    {
+        "name": "Franche Terre",
+        "country": "Réunion",
+        "province": "Réunion",
+        "population": -1,
+        "latitude": -20.903328,
+        "longitude": 55.580537
+    },
+    {
+        "name": "Fleurs Jaunes les Hauts",
+        "country": "Réunion",
+        "province": "Réunion",
+        "population": -1,
+        "latitude": -21.016794,
+        "longitude": 55.531588
+    },
+    {
+        "name": "Les Filaos",
+        "country": "Réunion",
+        "province": "Réunion",
+        "population": -1,
+        "latitude": -21.075833,
+        "longitude": 55.22493
+    },
+    {
+        "name": "Fiague",
+        "country": "Réunion",
+        "province": "Réunion",
+        "population": -1,
+        "latitude": -21.25,
+        "longitude": 55.4333333
+    },
+    {
+        "name": "L'Étang-Salé les Bains",
+        "country": "Réunion",
+        "province": "Réunion",
+        "population": -1,
+        "latitude": -21.270524,
+        "longitude": 55.336332
+    },
+    {
+        "name": "Étang-les Hauts",
+        "country": "Réunion",
+        "province": "Réunion",
+        "population": -1,
+        "latitude": -21.133333,
+        "longitude": 55.333333
+    },
+    {
+        "name": "L'Étang Saint-Leu",
+        "country": "Réunion",
+        "province": "Réunion",
+        "population": -1,
+        "latitude": -21.171318,
+        "longitude": 55.305277
+    },
+    {
+        "name": "L'Espérance les Hauts",
+        "country": "Réunion",
+        "province": "Réunion",
+        "population": -1,
+        "latitude": -20.947804,
+        "longitude": 55.516804
+    },
+    {
+        "name": "Entre-Deux",
+        "country": "Réunion",
+        "province": "Réunion",
+        "population": 5788,
+        "latitude": -21.2333333,
+        "longitude": 55.4666667
+    },
+    {
+        "name": "Entre-Deux",
+        "country": "Réunion",
+        "province": "Réunion",
+        "population": -1,
+        "latitude": -21.227533,
+        "longitude": 55.331755
+    },
+    {
+        "name": "Le Désert",
+        "country": "Réunion",
+        "province": "Réunion",
+        "population": -1,
+        "latitude": -20.965944,
+        "longitude": 55.633062
+    },
+    {
+        "name": "La Confiance",
+        "country": "Réunion",
+        "province": "Réunion",
+        "population": -1,
+        "latitude": -21.067377,
+        "longitude": 55.702773
+    },
+    {
+        "name": "Le Champ Borne",
+        "country": "Réunion",
+        "province": "Réunion",
+        "population": -1,
+        "latitude": -20.943504,
+        "longitude": 55.676253
+    },
+    {
+        "name": "La Cafrine",
+        "country": "Réunion",
+        "province": "Réunion",
+        "population": -1,
+        "latitude": -21.351011,
+        "longitude": 55.511263
+    },
+    {
+        "name": "Bras Madeleine",
+        "country": "Réunion",
+        "province": "Réunion",
+        "population": -1,
+        "latitude": -21.056649,
+        "longitude": 55.697633
+    },
+    {
+        "name": "Bois Rouge",
+        "country": "Réunion",
+        "province": "Réunion",
+        "population": -1,
+        "latitude": -20.917996,
+        "longitude": 55.531329
+    },
+    {
+        "name": "Bois Blanc",
+        "country": "Réunion",
+        "province": "Réunion",
+        "population": -1,
+        "latitude": -21.198421,
+        "longitude": 55.819523
+    },
+    {
+        "name": "Bernica-les Bas",
+        "country": "Réunion",
+        "province": "Réunion",
+        "population": -1,
+        "latitude": -21.044441,
+        "longitude": 55.281107
+    },
+    {
+        "name": "Bérive les Bas",
+        "country": "Réunion",
+        "province": "Réunion",
+        "population": -1,
+        "latitude": -21.317193,
+        "longitude": 55.528357
+    },
+    {
+        "name": "Bel-Air",
+        "country": "Réunion",
+        "province": "Réunion",
+        "population": -1,
+        "latitude": -21.287695,
+        "longitude": 55.512189
+    },
+    {
+        "name": "Bel-Air",
+        "country": "Réunion",
+        "province": "Réunion",
+        "population": -1,
+        "latitude": -21.293153,
+        "longitude": 55.397485
+    },
+    {
+        "name": "Bel-Air",
+        "country": "Réunion",
+        "province": "Réunion",
+        "population": -1,
+        "latitude": -20.905322,
+        "longitude": 55.593043
+    },
+    {
+        "name": "Bécabot",
+        "country": "Réunion",
+        "province": "Réunion",
+        "population": -1,
+        "latitude": -21.015518,
+        "longitude": 55.505574
+    },
+    {
+        "name": "Beaufonds",
+        "country": "Réunion",
+        "province": "Réunion",
+        "population": -1,
+        "latitude": -21.046567,
+        "longitude": 55.721343
+    },
+    {
+        "name": "Beaufond",
+        "country": "Réunion",
+        "province": "Réunion",
+        "population": -1,
+        "latitude": -20.927166,
+        "longitude": 55.559826
+    },
+    {
+        "name": "Le Baril",
+        "country": "Réunion",
+        "province": "Réunion",
+        "population": -1,
+        "latitude": -21.367942,
+        "longitude": 55.727789
+    },
+    {
+        "name": "Îlet Aurélien Dijoux",
+        "country": "Réunion",
+        "province": "Réunion",
+        "population": -1,
+        "latitude": -21.207387,
+        "longitude": 55.513518
+    },
+    {
+        "name": "Anse les Hauts",
+        "country": "Réunion",
+        "province": "Réunion",
+        "population": -1,
+        "latitude": -21.337178,
+        "longitude": 55.549387
+    },
+    {
+        "name": "Anse",
+        "country": "Réunion",
+        "province": "Réunion",
+        "population": -1,
+        "latitude": -21.338144,
+        "longitude": 55.548205
+    },
+    {
+        "name": "La Saline les Bains",
+        "country": "Réunion",
+        "province": "Réunion",
+        "population": -1,
+        "latitude": -21.182491019452648,
+        "longitude": 55.292816162109375
+    },
+    {
+        "name": "Trinité",
+        "country": "Réunion",
+        "province": "Réunion",
+        "population": -1,
+        "latitude": -21.3333333,
+        "longitude": 55.7666667
+    },
+    {
+        "name": "Terre Sainte",
+        "country": "Réunion",
+        "province": "Réunion",
+        "population": -1,
+        "latitude": -21.348317,
+        "longitude": 55.485209
+    },
+    {
+        "name": "Terre Rouge",
+        "country": "Réunion",
+        "province": "Réunion",
+        "population": -1,
+        "latitude": -21.344703,
+        "longitude": 55.503991
+    },
+    {
+        "name": "Terrain Élisa",
+        "country": "Réunion",
+        "province": "Réunion",
+        "population": -1,
+        "latitude": -20.925985,
+        "longitude": 55.549156
+    },
+    {
+        "name": "Surprise",
+        "country": "Réunion",
+        "province": "Réunion",
+        "population": -1,
+        "latitude": -21.151295,
+        "longitude": 55.302103
+    },
+    {
+        "name": "Saint-François",
+        "country": "Réunion",
+        "province": "Réunion",
+        "population": -1,
+        "latitude": -21.069745,
+        "longitude": 55.73293
+    },
+    {
+        "name": "Saint-François",
+        "country": "Réunion",
+        "province": "Réunion",
+        "population": -1,
+        "latitude": -20.917025,
+        "longitude": 55.458924
+    },
+    {
+        "name": "Sainte-Thérèse",
+        "country": "Réunion",
+        "province": "Réunion",
+        "population": -1,
+        "latitude": -20.952046,
+        "longitude": 55.343018
+    },
+    {
+        "name": "Sainte-Anne-les Hauts",
+        "country": "Réunion",
+        "province": "Réunion",
+        "population": -1,
+        "latitude": -21.0833333,
+        "longitude": 55.7166667
+    },
+    {
+        "name": "Saint-Bernard",
+        "country": "Réunion",
+        "province": "Réunion",
+        "population": -1,
+        "latitude": -20.910448,
+        "longitude": 55.400909
+    },
+    {
+        "name": "Rivière Saint-Pierre",
+        "country": "Réunion",
+        "province": "Réunion",
+        "population": -1,
+        "latitude": -21.0833333,
+        "longitude": 55.7333333
+    },
+    {
+        "name": "Rivière du Rempart",
+        "country": "Réunion",
+        "province": "Réunion",
+        "population": -1,
+        "latitude": -21.3666667,
+        "longitude": 55.6166667
+    },
+    {
+        "name": "Réunion",
+        "country": "Réunion",
+        "province": "Réunion",
+        "population": -1,
+        "latitude": -21.0666667,
+        "longitude": 55.2666667
+    },
+    {
+        "name": "Ravine Sèche",
+        "country": "Réunion",
+        "province": "Réunion",
+        "population": -1,
+        "latitude": -21.243368,
+        "longitude": 55.354746
+    },
+    {
+        "name": "Ravine Martin",
+        "country": "Réunion",
+        "province": "Réunion",
+        "population": -1,
+        "latitude": -21.1666667,
+        "longitude": 55.45
+    },
+    {
+        "name": "Ravine du Pont-les Bas",
+        "country": "Réunion",
+        "province": "Réunion",
+        "population": -1,
+        "latitude": -21.35,
+        "longitude": 55.5666667
+    },
+    {
+        "name": "Ravine des Cafres-les Bas",
+        "country": "Réunion",
+        "province": "Réunion",
+        "population": -1,
+        "latitude": -21.349855,
+        "longitude": 55.508318
+    },
+    {
+        "name": "Ravine des Cabris",
+        "country": "Réunion",
+        "province": "Réunion",
+        "population": -1,
+        "latitude": -21.26499,
+        "longitude": 55.508185
+    },
+    {
+        "name": "Ravine Creuse",
+        "country": "Réunion",
+        "province": "Réunion",
+        "population": -1,
+        "latitude": -20.965872,
+        "longitude": 55.665687
+    },
+    {
+        "name": "Ravine à Marquet",
+        "country": "Réunion",
+        "province": "Réunion",
+        "population": -1,
+        "latitude": -20.95,
+        "longitude": 55.3333333
+    },
+    {
+        "name": "Plaine des Grègues",
+        "country": "Réunion",
+        "province": "Réunion",
+        "population": -1,
+        "latitude": -21.332198,
+        "longitude": 55.609393
+    },
+    {
+        "name": "Pichète",
+        "country": "Réunion",
+        "province": "Réunion",
+        "population": -1,
+        "latitude": -20.960643,
+        "longitude": 55.34561
+    },
+    {
+        "name": "Petit Saint-Pierre",
+        "country": "Réunion",
+        "province": "Réunion",
+        "population": -1,
+        "latitude": -21.088009,
+        "longitude": 55.748526
+    },
+    {
+        "name": "Morange",
+        "country": "Réunion",
+        "province": "Réunion",
+        "population": -1,
+        "latitude": -21.095065,
+        "longitude": 55.7347
+    },
+    {
+        "name": "Mon Repos",
+        "country": "Réunion",
+        "province": "Réunion",
+        "population": -1,
+        "latitude": -20.987058,
+        "longitude": 55.333754
+    },
+    {
+        "name": "Mon Caprice",
+        "country": "Réunion",
+        "province": "Réunion",
+        "population": -1,
+        "latitude": -21.303716,
+        "longitude": 55.497785
+    },
+    {
+        "name": "Moka",
+        "country": "Réunion",
+        "province": "Réunion",
+        "population": -1,
+        "latitude": -20.932473,
+        "longitude": 55.513402
+    },
+    {
+        "name": "M. Lamotte",
+        "country": "Réunion",
+        "province": "Réunion",
+        "population": -1,
+        "latitude": -20.9833333,
+        "longitude": 55.6666667
+    },
+    {
+        "name": "Menciol",
+        "country": "Réunion",
+        "province": "Réunion",
+        "population": -1,
+        "latitude": -20.96185,
+        "longitude": 55.627066
+    },
+    {
+        "name": "Matouta",
+        "country": "Réunion",
+        "province": "Réunion",
+        "population": -1,
+        "latitude": -21.35873,
+        "longitude": 55.69974
+    },
+    {
+        "name": "Marepine",
+        "country": "Réunion",
+        "province": "Réunion",
+        "population": -1,
+        "latitude": -20.888499,
+        "longitude": 55.518441
+    },
+    {
+        "name": "Mare Longue",
+        "country": "Réunion",
+        "province": "Réunion",
+        "population": -1,
+        "latitude": -21.365052,
+        "longitude": 55.751875
+    },
+    {
+        "name": "Mare à Vieille Place",
+        "country": "Réunion",
+        "province": "Réunion",
+        "population": -1,
+        "latitude": -21.027327,
+        "longitude": 55.508425
+    },
+    {
+        "name": "Mare à Citrons",
+        "country": "Réunion",
+        "province": "Réunion",
+        "population": -1,
+        "latitude": -21.035331,
+        "longitude": 55.529947
+    },
+    {
+        "name": "Ma Pensée",
+        "country": "Réunion",
+        "province": "Réunion",
+        "population": -1,
+        "latitude": -20.993032,
+        "longitude": 55.692602
+    },
+    {
+        "name": "Maison Rouge",
+        "country": "Réunion",
+        "province": "Réunion",
+        "population": -1,
+        "latitude": -21.266013,
+        "longitude": 55.411889
+    },
+    {
+        "name": "Maison Payet",
+        "country": "Réunion",
+        "province": "Réunion",
+        "population": -1,
+        "latitude": -20.9666667,
+        "longitude": 55.6333333
+    },
+    {
+        "name": "Maison Moullan",
+        "country": "Réunion",
+        "province": "Réunion",
+        "population": -1,
+        "latitude": -21.0333333,
+        "longitude": 55.5
+    },
+    {
+        "name": "Maison Leroux",
+        "country": "Réunion",
+        "province": "Réunion",
+        "population": -1,
+        "latitude": -21.201761,
+        "longitude": 55.818916
+    },
+    {
+        "name": "Maison Lelièvre",
+        "country": "Réunion",
+        "province": "Réunion",
+        "population": -1,
+        "latitude": -21.0833333,
+        "longitude": 55.3166667
+    },
+    {
+        "name": "Maison James Biget",
+        "country": "Réunion",
+        "province": "Réunion",
+        "population": -1,
+        "latitude": -21.215645,
+        "longitude": 55.521072
+    },
+    {
+        "name": "Maison Isautier",
+        "country": "Réunion",
+        "province": "Réunion",
+        "population": -1,
+        "latitude": -21.314476,
+        "longitude": 55.53208
+    },
+    {
+        "name": "Maison Henou",
+        "country": "Réunion",
+        "province": "Réunion",
+        "population": -1,
+        "latitude": -21.149497,
+        "longitude": 55.597821
+    },
+    {
+        "name": "Maison de l'Enfance",
+        "country": "Réunion",
+        "province": "Réunion",
+        "population": -1,
+        "latitude": -21.207008,
+        "longitude": 55.572201
+    },
+    {
+        "name": "Mahavel",
+        "country": "Réunion",
+        "province": "Réunion",
+        "population": -1,
+        "latitude": -21.275779,
+        "longitude": 55.469118
+    },
+    {
+        "name": "Mafatte",
+        "country": "Réunion",
+        "province": "Réunion",
+        "population": -1,
+        "latitude": -21.061408,
+        "longitude": 55.417468
+    },
+    {
+        "name": "L'Oasis",
+        "country": "Réunion",
+        "province": "Réunion",
+        "population": -1,
+        "latitude": -21.04648,
+        "longitude": 55.668754
+    },
+    {
+        "name": "L'Îlet",
+        "country": "Réunion",
+        "province": "Réunion",
+        "population": -1,
+        "latitude": -21.323521,
+        "longitude": 55.601593
+    },
+    {
+        "name": "Les Trois Frères",
+        "country": "Réunion",
+        "province": "Réunion",
+        "population": -1,
+        "latitude": -20.90802,
+        "longitude": 55.597791
+    },
+    {
+        "name": "Les Sables Blancs",
+        "country": "Réunion",
+        "province": "Réunion",
+        "population": -1,
+        "latitude": -21.35277,
+        "longitude": 55.786459
+    },
+    {
+        "name": "Les Orangers",
+        "country": "Réunion",
+        "province": "Réunion",
+        "population": -1,
+        "latitude": -21.112231,
+        "longitude": 55.75121
+    },
+    {
+        "name": "Les Lianes",
+        "country": "Réunion",
+        "province": "Réunion",
+        "population": -1,
+        "latitude": -21.345084,
+        "longitude": 55.602026
+    },
+    {
+        "name": "Les Jacques",
+        "country": "Réunion",
+        "province": "Réunion",
+        "population": -1,
+        "latitude": -21.376464,
+        "longitude": 55.630826
+    },
+    {
+        "name": "Les Jacques",
+        "country": "Réunion",
+        "province": "Réunion",
+        "population": -1,
+        "latitude": -21.070834,
+        "longitude": 55.701527
+    },
+    {
+        "name": "Les Deux Bras",
+        "country": "Réunion",
+        "province": "Réunion",
+        "population": -1,
+        "latitude": -21.001042,
+        "longitude": 55.391333
+    },
+    {
+        "name": "Les Cocos",
+        "country": "Réunion",
+        "province": "Réunion",
+        "population": -1,
+        "latitude": -21.28396,
+        "longitude": 55.436644
+    },
+    {
+        "name": "Les Chicots",
+        "country": "Réunion",
+        "province": "Réunion",
+        "population": -1,
+        "latitude": -21.11445,
+        "longitude": 55.749246
+    },
+    {
+        "name": "Les Canots",
+        "country": "Réunion",
+        "province": "Réunion",
+        "population": -1,
+        "latitude": -21.249674,
+        "longitude": 55.363821
+    },
+    {
+        "name": "Les Camélias",
+        "country": "Réunion",
+        "province": "Réunion",
+        "population": -1,
+        "latitude": -20.894796,
+        "longitude": 55.4629
+    },
+    {
+        "name": "L'Escalier",
+        "country": "Réunion",
+        "province": "Réunion",
+        "population": -1,
+        "latitude": -21.002225,
+        "longitude": 55.573639
+    },
+    {
+        "name": "Les Aigrettes",
+        "country": "Réunion",
+        "province": "Réunion",
+        "population": -1,
+        "latitude": -21.142871,
+        "longitude": 55.456084
+    },
+    {
+        "name": "Le Rond",
+        "country": "Réunion",
+        "province": "Réunion",
+        "population": -1,
+        "latitude": -21.316272,
+        "longitude": 55.60681
+    },
+    {
+        "name": "Le Quatorzième",
+        "country": "Réunion",
+        "province": "Réunion",
+        "population": -1,
+        "latitude": -21.251603,
+        "longitude": 55.521145
+    },
+    {
+        "name": "Le Petit Tampon",
+        "country": "Réunion",
+        "province": "Réunion",
+        "population": -1,
+        "latitude": -21.278651,
+        "longitude": 55.542983
+    },
+    {
+        "name": "Le Petit Brûlé",
+        "country": "Réunion",
+        "province": "Réunion",
+        "population": -1,
+        "latitude": -21.126815,
+        "longitude": 55.777706
+    },
+    {
+        "name": "L'Éperon",
+        "country": "Réunion",
+        "province": "Réunion",
+        "population": -1,
+        "latitude": -21.247147,
+        "longitude": 55.412909
+    },
+    {
+        "name": "Le Onzième",
+        "country": "Réunion",
+        "province": "Réunion",
+        "population": -1,
+        "latitude": -21.264151,
+        "longitude": 55.52363
+    },
+    {
+        "name": "Le Maniron",
+        "country": "Réunion",
+        "province": "Réunion",
+        "population": -1,
+        "latitude": -21.24788,
+        "longitude": 55.388633
+    },
+    {
+        "name": "Le Lambert",
+        "country": "Réunion",
+        "province": "Réunion",
+        "population": -1,
+        "latitude": -21.257156,
+        "longitude": 55.375127
+    },
+    {
+        "name": "Le Guillaume",
+        "country": "Réunion",
+        "province": "Réunion",
+        "population": -1,
+        "latitude": -21.037857,
+        "longitude": 55.298934
+    },
+    {
+        "name": "Le Dix-Septième",
+        "country": "Réunion",
+        "province": "Réunion",
+        "population": -1,
+        "latitude": -21.245012,
+        "longitude": 55.524792
+    },
+    {
+        "name": "Le Dix-Neuvième",
+        "country": "Réunion",
+        "province": "Réunion",
+        "population": -1,
+        "latitude": -21.236041,
+        "longitude": 55.542997
+    },
+    {
+        "name": "Le Cratère",
+        "country": "Réunion",
+        "province": "Réunion",
+        "population": -1,
+        "latitude": -21.050369,
+        "longitude": 55.683009
+    },
+    {
+        "name": "Le Cap-les Hauts",
+        "country": "Réunion",
+        "province": "Réunion",
+        "population": -1,
+        "latitude": -21.15,
+        "longitude": 55.3333333
+    },
+    {
+        "name": "Le Cap",
+        "country": "Réunion",
+        "province": "Réunion",
+        "population": -1,
+        "latitude": -21.077949,
+        "longitude": 55.723716
+    },
+    {
+        "name": "Le Butor",
+        "country": "Réunion",
+        "province": "Réunion",
+        "population": -1,
+        "latitude": -21.382761,
+        "longitude": 55.615089
+    },
+    {
+        "name": "Le Butor",
+        "country": "Réunion",
+        "province": "Réunion",
+        "population": -1,
+        "latitude": -21.036996,
+        "longitude": 55.720473
+    },
+    {
+        "name": "Le Butor",
+        "country": "Réunion",
+        "province": "Réunion",
+        "population": -1,
+        "latitude": -20.887362,
+        "longitude": 55.470722
+    },
+    {
+        "name": "Le Bras Creux",
+        "country": "Réunion",
+        "province": "Réunion",
+        "population": -1,
+        "latitude": -21.25799,
+        "longitude": 55.538908
+    },
+    {
+        "name": "Le Bras Creux",
+        "country": "Réunion",
+        "province": "Réunion",
+        "population": -1,
+        "latitude": -21.140709,
+        "longitude": 55.611808
+    },
+    {
+        "name": "Bois de Nèfles",
+        "country": "Réunion",
+        "province": "Réunion",
+        "population": -1,
+        "latitude": -21.108001,
+        "longitude": 55.290701
+    },
+    {
+        "name": "Le Bélier",
+        "country": "Réunion",
+        "province": "Réunion",
+        "population": -1,
+        "latitude": -21.04392,
+        "longitude": 55.46191
+    },
+    {
+        "name": "Le Barrage",
+        "country": "Réunion",
+        "province": "Réunion",
+        "population": -1,
+        "latitude": -21.10011,
+        "longitude": 55.274194
+    },
+    {
+        "name": "La Vigne",
+        "country": "Réunion",
+        "province": "Réunion",
+        "population": -1,
+        "latitude": -20.92044,
+        "longitude": 55.616091
+    },
+    {
+        "name": "La Rivière des Roches",
+        "country": "Réunion",
+        "province": "Réunion",
+        "population": -1,
+        "latitude": -21.001145,
+        "longitude": 55.696284
+    },
+    {
+        "name": "La Renaissance",
+        "country": "Réunion",
+        "province": "Réunion",
+        "population": -1,
+        "latitude": -21.030045,
+        "longitude": 55.268876
+    },
+    {
+        "name": "La Providence",
+        "country": "Réunion",
+        "province": "Réunion",
+        "population": -1,
+        "latitude": -20.894534,
+        "longitude": 55.457355
+    },
+    {
+        "name": "La Pointe",
+        "country": "Réunion",
+        "province": "Réunion",
+        "population": -1,
+        "latitude": -21.295727,
+        "longitude": 55.517669
+    },
+    {
+        "name": "La Pointe",
+        "country": "Réunion",
+        "province": "Réunion",
+        "population": -1,
+        "latitude": -21.242968,
+        "longitude": 55.492001
+    },
+    {
+        "name": "La Plaine",
+        "country": "Réunion",
+        "province": "Réunion",
+        "population": -1,
+        "latitude": -20.981337,
+        "longitude": 55.328064
+    },
+    {
+        "name": "La Paix",
+        "country": "Réunion",
+        "province": "Réunion",
+        "population": -1,
+        "latitude": -21.02432,
+        "longitude": 55.670283
+    },
+    {
+        "name": "La Nouvelle",
+        "country": "Réunion",
+        "province": "Réunion",
+        "population": -1,
+        "latitude": -21.076509,
+        "longitude": 55.422912
+    },
+    {
+        "name": "Langevin",
+        "country": "Réunion",
+        "province": "Réunion",
+        "population": -1,
+        "latitude": -21.38165,
+        "longitude": 55.65099
+    },
+    {
+        "name": "La Marine",
+        "country": "Réunion",
+        "province": "Réunion",
+        "population": -1,
+        "latitude": -21.127257,
+        "longitude": 55.785373
+    },
+    {
+        "name": "La Marine",
+        "country": "Réunion",
+        "province": "Réunion",
+        "population": -1,
+        "latitude": -20.912831,
+        "longitude": 55.623051
+    },
+    {
+        "name": "La Mare",
+        "country": "Réunion",
+        "province": "Réunion",
+        "population": -1,
+        "latitude": -20.953415,
+        "longitude": 55.353915
+    },
+    {
+        "name": "La Grande Montée",
+        "country": "Réunion",
+        "province": "Réunion",
+        "population": -1,
+        "latitude": -20.924213,
+        "longitude": 55.519453
+    },
+    {
+        "name": "La Fontaine-les Hauts",
+        "country": "Réunion",
+        "province": "Réunion",
+        "population": -1,
+        "latitude": -21.1333333,
+        "longitude": 55.3333333
+    },
+    {
+        "name": "La Fontaine",
+        "country": "Réunion",
+        "province": "Réunion",
+        "population": -1,
+        "latitude": -21.157076,
+        "longitude": 55.304254
+    },
+    {
+        "name": "La Crête",
+        "country": "Réunion",
+        "province": "Réunion",
+        "population": -1,
+        "latitude": -21.335002,
+        "longitude": 55.654949
+    },
+    {
+        "name": "La Chatoire",
+        "country": "Réunion",
+        "province": "Réunion",
+        "population": -1,
+        "latitude": -21.276167,
+        "longitude": 55.501338
+    },
+    {
+        "name": "La Chaloupe Saint-Leu",
+        "country": "Réunion",
+        "province": "Réunion",
+        "population": -1,
+        "latitude": -21.142792,
+        "longitude": 55.31525
+    },
+    {
+        "name": "La Caroline",
+        "country": "Réunion",
+        "province": "Réunion",
+        "population": -1,
+        "latitude": -21.00143,
+        "longitude": 55.651597
+    },
+    {
+        "name": "Jean Petit",
+        "country": "Réunion",
+        "province": "Réunion",
+        "population": -1,
+        "latitude": -21.338604,
+        "longitude": 55.629029
+    },
+    {
+        "name": "Jacques Payet",
+        "country": "Réunion",
+        "province": "Réunion",
+        "population": -1,
+        "latitude": -21.340345,
+        "longitude": 55.683982
+    },
+    {
+        "name": "Îlet Tommic",
+        "country": "Réunion",
+        "province": "Réunion",
+        "population": -1,
+        "latitude": -21.15,
+        "longitude": 55.4666667
+    },
+    {
+        "name": "Îlet Techer",
+        "country": "Réunion",
+        "province": "Réunion",
+        "population": -1,
+        "latitude": -21.198304,
+        "longitude": 55.518235
+    },
+    {
+        "name": "Îlet Solitude",
+        "country": "Réunion",
+        "province": "Réunion",
+        "population": -1,
+        "latitude": -20.965939,
+        "longitude": 55.36426
+    },
+    {
+        "name": "Îlet Payet",
+        "country": "Réunion",
+        "province": "Réunion",
+        "population": -1,
+        "latitude": -21.003672,
+        "longitude": 55.603368
+    },
+    {
+        "name": "Îlet Nourry",
+        "country": "Réunion",
+        "province": "Réunion",
+        "population": -1,
+        "latitude": -20.99169,
+        "longitude": 55.394072
+    },
+    {
+        "name": "Îlet Morin",
+        "country": "Réunion",
+        "province": "Réunion",
+        "population": -1,
+        "latitude": -21.00842,
+        "longitude": 55.564279
+    },
+    {
+        "name": "Îlet Marron",
+        "country": "Réunion",
+        "province": "Réunion",
+        "population": -1,
+        "latitude": -21.201831,
+        "longitude": 55.514049
+    },
+    {
+        "name": "Îlet Flamand",
+        "country": "Réunion",
+        "province": "Réunion",
+        "population": -1,
+        "latitude": -20.9833333,
+        "longitude": 55.4666667
+    },
+    {
+        "name": "Îlet des Lataniers",
+        "country": "Réunion",
+        "province": "Réunion",
+        "population": -1,
+        "latitude": -21.036713,
+        "longitude": 55.399885
+    },
+    {
+        "name": "Îlet Denise",
+        "country": "Réunion",
+        "province": "Réunion",
+        "population": -1,
+        "latitude": -20.978694,
+        "longitude": 55.363287
+    },
+    {
+        "name": "Îlet Bois-Rouge",
+        "country": "Réunion",
+        "province": "Réunion",
+        "population": -1,
+        "latitude": -21.024985,
+        "longitude": 55.405209
+    },
+    {
+        "name": "Îlet à Vidot",
+        "country": "Réunion",
+        "province": "Réunion",
+        "population": -1,
+        "latitude": -21.318064,
+        "longitude": 55.625945
+    },
+    {
+        "name": "Îlet à Malheur",
+        "country": "Réunion",
+        "province": "Réunion",
+        "population": -1,
+        "latitude": -21.026663,
+        "longitude": 55.428334
+    },
+    {
+        "name": "Îlet à Guillaume",
+        "country": "Réunion",
+        "province": "Réunion",
+        "population": -1,
+        "latitude": -20.94941,
+        "longitude": 55.411468
+    },
+    {
+        "name": "Îlet à Déjeuner",
+        "country": "Réunion",
+        "province": "Réunion",
+        "population": -1,
+        "latitude": -20.995904,
+        "longitude": 55.407961
+    },
+    {
+        "name": "Îlet à Cordes",
+        "country": "Réunion",
+        "province": "Réunion",
+        "population": -1,
+        "latitude": -21.154086,
+        "longitude": 55.437224
+    },
+    {
+        "name": "Harmonie",
+        "country": "Réunion",
+        "province": "Réunion",
+        "population": -1,
+        "latitude": -21.013773,
+        "longitude": 55.701079
+    },
+    {
+        "name": "Grand Îlet",
+        "country": "Réunion",
+        "province": "Réunion",
+        "population": -1,
+        "latitude": -21.028761,
+        "longitude": 55.473011
+    },
+    {
+        "name": "Grand Fond",
+        "country": "Réunion",
+        "province": "Réunion",
+        "population": -1,
+        "latitude": -21.19547,
+        "longitude": 55.301811
+    },
+    {
+        "name": "Grande Ravine",
+        "country": "Réunion",
+        "province": "Réunion",
+        "population": -1,
+        "latitude": -21.113273,
+        "longitude": 55.300285
+    },
+    {
+        "name": "Grande Anse",
+        "country": "Réunion",
+        "province": "Réunion",
+        "population": -1,
+        "latitude": -21.369319,
+        "longitude": 55.554419
+    },
+    {
+        "name": "Grand Coude",
+        "country": "Réunion",
+        "province": "Réunion",
+        "population": -1,
+        "latitude": -21.293057,
+        "longitude": 55.625762
+    },
+    {
+        "name": "Grand Bassin",
+        "country": "Réunion",
+        "province": "Réunion",
+        "population": -1,
+        "latitude": -21.182416,
+        "longitude": 55.534008
+    },
+    {
+        "name": "Girofle",
+        "country": "Réunion",
+        "province": "Réunion",
+        "population": -1,
+        "latitude": -21.370986,
+        "longitude": 55.687512
+    },
+    {
+        "name": "Gillot",
+        "country": "Réunion",
+        "province": "Réunion",
+        "population": -1,
+        "latitude": -20.903809,
+        "longitude": 55.507675
+    },
+    {
+        "name": "F. Sauger",
+        "country": "Réunion",
+        "province": "Réunion",
+        "population": -1,
+        "latitude": -21.0166667,
+        "longitude": 55.25
+    },
+    {
+        "name": "Fleurimont",
+        "country": "Réunion",
+        "province": "Réunion",
+        "population": -1,
+        "latitude": -21.03516,
+        "longitude": 55.268368
+    },
+    {
+        "name": "Flacourt",
+        "country": "Réunion",
+        "province": "Réunion",
+        "population": -1,
+        "latitude": -20.91642,
+        "longitude": 55.553065
+    },
+    {
+        "name": "Espérance",
+        "country": "Réunion",
+        "province": "Réunion",
+        "population": -1,
+        "latitude": -20.95113,
+        "longitude": 55.607979
+    },
+    {
+        "name": "Dos d'Âne",
+        "country": "Réunion",
+        "province": "Réunion",
+        "population": -1,
+        "latitude": -20.984081,
+        "longitude": 55.381208
+    },
+    {
+        "name": "Dimitile",
+        "country": "Réunion",
+        "province": "Réunion",
+        "population": -1,
+        "latitude": -21.290848,
+        "longitude": 55.613317
+    },
+    {
+        "name": "Desbassyns",
+        "country": "Réunion",
+        "province": "Réunion",
+        "population": -1,
+        "latitude": -20.91733,
+        "longitude": 55.509339
+    },
+    {
+        "name": "Condé",
+        "country": "Réunion",
+        "province": "Réunion",
+        "population": -1,
+        "latitude": -21.29317,
+        "longitude": 55.508358
+    },
+    {
+        "name": "Commune Carron",
+        "country": "Réunion",
+        "province": "Réunion",
+        "population": -1,
+        "latitude": -20.933836,
+        "longitude": 55.61885
+    },
+    {
+        "name": "Commune Bègue",
+        "country": "Réunion",
+        "province": "Réunion",
+        "population": -1,
+        "latitude": -20.953136,
+        "longitude": 55.628294
+    },
+    {
+        "name": "Commune Ango",
+        "country": "Réunion",
+        "province": "Réunion",
+        "population": -1,
+        "latitude": -20.943489,
+        "longitude": 55.619066
+    },
+    {
+        "name": "Chiendent",
+        "country": "Réunion",
+        "province": "Réunion",
+        "population": -1,
+        "latitude": -20.937002,
+        "longitude": 55.543702
+    },
+    {
+        "name": "Chemin César",
+        "country": "Réunion",
+        "province": "Réunion",
+        "population": -1,
+        "latitude": -21.35,
+        "longitude": 55.5833333
+    },
+    {
+        "name": "Cascades",
+        "country": "Réunion",
+        "province": "Réunion",
+        "population": -1,
+        "latitude": -21.15,
+        "longitude": 55.8333333
+    },
+    {
+        "name": "Casabona",
+        "country": "Réunion",
+        "province": "Réunion",
+        "population": -1,
+        "latitude": -21.334702,
+        "longitude": 55.46714
+    },
+    {
+        "name": "Carosse",
+        "country": "Réunion",
+        "province": "Réunion",
+        "population": -1,
+        "latitude": -21.35555,
+        "longitude": 55.59688
+    },
+    {
+        "name": "Cap Noir",
+        "country": "Réunion",
+        "province": "Réunion",
+        "population": -1,
+        "latitude": -20.993811,
+        "longitude": 55.391683
+    },
+    {
+        "name": "Cap Blanc",
+        "country": "Réunion",
+        "province": "Réunion",
+        "population": -1,
+        "latitude": -21.286983,
+        "longitude": 55.650034
+    },
+    {
+        "name": "Camp Jacquot",
+        "country": "Réunion",
+        "province": "Réunion",
+        "population": -1,
+        "latitude": -20.991571,
+        "longitude": 55.677702
+    },
+    {
+        "name": "Camp de Pierrot",
+        "country": "Réunion",
+        "province": "Réunion",
+        "population": -1,
+        "latitude": -21.054183,
+        "longitude": 55.46895
+    },
+    {
+        "name": "Cambuston",
+        "country": "Réunion",
+        "province": "Réunion",
+        "population": -1,
+        "latitude": -20.933383,
+        "longitude": 55.647644
+    },
+    {
+        "name": "Bras des Chevrettes",
+        "country": "Réunion",
+        "province": "Réunion",
+        "population": -1,
+        "latitude": -20.966979,
+        "longitude": 55.624586
+    },
+    {
+        "name": "Bras des Calumets",
+        "country": "Réunion",
+        "province": "Réunion",
+        "population": -1,
+        "latitude": -21.160623,
+        "longitude": 55.617467
+    },
+    {
+        "name": "Bras de Ponteau",
+        "country": "Réunion",
+        "province": "Réunion",
+        "population": -1,
+        "latitude": -21.2166667,
+        "longitude": 55.4833333
+    },
+    {
+        "name": "Bras Canot",
+        "country": "Réunion",
+        "province": "Réunion",
+        "population": -1,
+        "latitude": -21.050055,
+        "longitude": 55.701899
+    },
+    {
+        "name": "Le Bout de l'Étang",
+        "country": "Réunion",
+        "province": "Réunion",
+        "population": -1,
+        "latitude": -20.99207,
+        "longitude": 55.284505
+    },
+    {
+        "name": "Boucan Canot",
+        "country": "Réunion",
+        "province": "Réunion",
+        "population": -1,
+        "latitude": -21.028299,
+        "longitude": 55.227255
+    },
+    {
+        "name": "Bois de Nèfles",
+        "country": "Réunion",
+        "province": "Réunion",
+        "population": -1,
+        "latitude": -20.916914,
+        "longitude": 55.47491
+    },
+    {
+        "name": "Bois Court",
+        "country": "Réunion",
+        "province": "Réunion",
+        "population": -1,
+        "latitude": -21.196653,
+        "longitude": 55.536002
+    },
+    {
+        "name": "Bethléem",
+        "country": "Réunion",
+        "province": "Réunion",
+        "population": -1,
+        "latitude": -21.039116,
+        "longitude": 55.67443
+    },
+    {
+        "name": "Bérive",
+        "country": "Réunion",
+        "province": "Réunion",
+        "population": -1,
+        "latitude": -21.307262,
+        "longitude": 55.537022
+    },
+    {
+        "name": "Bellevue",
+        "country": "Réunion",
+        "province": "Réunion",
+        "population": -1,
+        "latitude": -21.251359,
+        "longitude": 55.402971
+    },
+    {
+        "name": "Bellevue",
+        "country": "Réunion",
+        "province": "Réunion",
+        "population": -1,
+        "latitude": -21.15233,
+        "longitude": 55.820884
+    },
+    {
+        "name": "Bellevue",
+        "country": "Réunion",
+        "province": "Réunion",
+        "population": -1,
+        "latitude": -20.987538,
+        "longitude": 55.633257
+    },
+    {
+        "name": "Bellemène",
+        "country": "Réunion",
+        "province": "Réunion",
+        "population": -1,
+        "latitude": -21.019045,
+        "longitude": 55.294902
+    },
+    {
+        "name": "Bebour",
+        "country": "Réunion",
+        "province": "Réunion",
+        "population": -1,
+        "latitude": -21.1,
+        "longitude": 55.6
+    },
+    {
+        "name": "Beauvallon",
+        "country": "Réunion",
+        "province": "Réunion",
+        "population": -1,
+        "latitude": -21.009783,
+        "longitude": 55.695587
+    },
+    {
+        "name": "Beaumont",
+        "country": "Réunion",
+        "province": "Réunion",
+        "population": -1,
+        "latitude": -20.938573,
+        "longitude": 55.530858
+    },
+    {
+        "name": "Beaulieu",
+        "country": "Réunion",
+        "province": "Réunion",
+        "population": -1,
+        "latitude": -21.034748,
+        "longitude": 55.707819
+    },
+    {
+        "name": "Bassin Martin",
+        "country": "Réunion",
+        "province": "Réunion",
+        "population": -1,
+        "latitude": -21.307134,
+        "longitude": 55.518219
+    },
+    {
+        "name": "Basse Vallée",
+        "country": "Réunion",
+        "province": "Réunion",
+        "population": -1,
+        "latitude": -21.371163,
+        "longitude": 55.711677
+    },
+    {
+        "name": "Bain",
+        "country": "Réunion",
+        "province": "Réunion",
+        "population": -1,
+        "latitude": -21.05,
+        "longitude": 55.5166667
+    },
+    {
+        "name": "Bagatelle",
+        "country": "Réunion",
+        "province": "Réunion",
+        "population": -1,
+        "latitude": -20.928018,
+        "longitude": 55.581775
+    },
+    {
+        "name": "Avenir",
+        "country": "Réunion",
+        "province": "Réunion",
+        "population": -1,
+        "latitude": -20.931923,
+        "longitude": 55.335903
+    },
+    {
+        "name": "Aurère",
+        "country": "Réunion",
+        "province": "Réunion",
+        "population": -1,
+        "latitude": -21.020552,
+        "longitude": 55.423607
+    },
+    {
+        "name": "Aloès",
+        "country": "Réunion",
+        "province": "Réunion",
+        "population": -1,
+        "latitude": -21.25,
+        "longitude": 55.45
+    },
+    {
+        "name": "A. Dubuisson",
+        "country": "Réunion",
+        "province": "Réunion",
+        "population": -1,
+        "latitude": -21.173831,
+        "longitude": 55.308534
+    },
+    {
+        "name": "Abondance",
+        "country": "Réunion",
+        "province": "Réunion",
+        "population": -1,
+        "latitude": -21.034647,
+        "longitude": 55.673377
+    },
+    {
+        "name": "La Cayenne",
+        "country": "Réunion",
+        "province": "Réunion",
+        "population": -1,
+        "latitude": -21.34134,
+        "longitude": 55.798233
+    },
+    {
+        "name": "Îlet Leroux",
+        "country": "Réunion",
+        "province": "Réunion",
+        "population": -1,
+        "latitude": -21.211952,
+        "longitude": 55.812034
+    },
+    {
+        "name": "Le Plateau",
+        "country": "Réunion",
+        "province": "Réunion",
+        "population": -1,
+        "latitude": -21.37914,
+        "longitude": 55.66084
+    },
+    {
+        "name": "Îlet à Diable",
+        "country": "Réunion",
+        "province": "Réunion",
+        "population": -1,
+        "latitude": -21.34745,
+        "longitude": 55.64541
+    },
+    {
+        "name": "Les Grègues",
+        "country": "Réunion",
+        "province": "Réunion",
+        "population": -1,
+        "latitude": -21.371018,
+        "longitude": 55.610125
+    },
+    {
+        "name": "La Croisée",
+        "country": "Réunion",
+        "province": "Réunion",
+        "population": -1,
+        "latitude": -21.35095,
+        "longitude": 55.615403
+    },
+    {
+        "name": "Lianes Bel-Air",
+        "country": "Réunion",
+        "province": "Réunion",
+        "population": -1,
+        "latitude": -21.334332,
+        "longitude": 55.599921
+    },
+    {
+        "name": "Charrié",
+        "country": "Réunion",
+        "province": "Réunion",
+        "population": -1,
+        "latitude": -21.332104,
+        "longitude": 55.567894
+    },
+    {
+        "name": "Petite Plaine",
+        "country": "Réunion",
+        "province": "Réunion",
+        "population": -1,
+        "latitude": -21.321383,
+        "longitude": 55.611849
+    },
+    {
+        "name": "Le Grand Défriché",
+        "country": "Réunion",
+        "province": "Réunion",
+        "population": -1,
+        "latitude": -21.334324,
+        "longitude": 55.642242
+    },
+    {
+        "name": "Piton des Goyaves",
+        "country": "Réunion",
+        "province": "Réunion",
+        "population": -1,
+        "latitude": -21.324135,
+        "longitude": 55.557613
+    },
+    {
+        "name": "Piton Bloc",
+        "country": "Réunion",
+        "province": "Réunion",
+        "population": -1,
+        "latitude": -21.316274,
+        "longitude": 55.568848
+    },
+    {
+        "name": "La Ligne d'Équerre",
+        "country": "Réunion",
+        "province": "Réunion",
+        "population": -1,
+        "latitude": -21.3021,
+        "longitude": 55.555852
+    },
+    {
+        "name": "Ville Blanche",
+        "country": "Réunion",
+        "province": "Réunion",
+        "population": -1,
+        "latitude": -21.301021,
+        "longitude": 55.537083
+    },
+    {
+        "name": "Terrain Fleury",
+        "country": "Réunion",
+        "province": "Réunion",
+        "population": -1,
+        "latitude": -21.283616,
+        "longitude": 55.531107
+    },
+    {
+        "name": "Le Grand Tampon les Bas",
+        "country": "Réunion",
+        "province": "Réunion",
+        "population": -1,
+        "latitude": -21.292946,
+        "longitude": 55.53895
+    },
+    {
+        "name": "Le Grand Tampon les Hauts",
+        "country": "Réunion",
+        "province": "Réunion",
+        "population": -1,
+        "latitude": -21.280111,
+        "longitude": 55.563358
+    },
+    {
+        "name": "Le Chemin Neuf",
+        "country": "Réunion",
+        "province": "Réunion",
+        "population": -1,
+        "latitude": -21.370973,
+        "longitude": 55.559581
+    },
+    {
+        "name": "La Croisée",
+        "country": "Réunion",
+        "province": "Réunion",
+        "population": -1,
+        "latitude": -21.367549,
+        "longitude": 55.567193
+    },
+    {
+        "name": "Bord d'Ti Trou",
+        "country": "Réunion",
+        "province": "Réunion",
+        "population": -1,
+        "latitude": -21.280051,
+        "longitude": 55.6338
+    },
+    {
+        "name": "Deuxième Village",
+        "country": "Réunion",
+        "province": "Réunion",
+        "population": -1,
+        "latitude": -21.144767,
+        "longitude": 55.619404
+    },
+    {
+        "name": "Bras Piton",
+        "country": "Réunion",
+        "province": "Réunion",
+        "population": -1,
+        "latitude": -21.158633,
+        "longitude": 55.630401
+    },
+    {
+        "name": "Les Remparts",
+        "country": "Réunion",
+        "province": "Réunion",
+        "population": -1,
+        "latitude": -21.136287,
+        "longitude": 55.604968
+    },
+    {
+        "name": "Premier Village",
+        "country": "Réunion",
+        "province": "Réunion",
+        "population": -1,
+        "latitude": -21.129216,
+        "longitude": 55.635497
+    },
+    {
+        "name": "La Grande Ferme",
+        "country": "Réunion",
+        "province": "Réunion",
+        "population": -1,
+        "latitude": -21.212439,
+        "longitude": 55.593127
+    },
+    {
+        "name": "Notre-Dame de la Paix",
+        "country": "Réunion",
+        "province": "Réunion",
+        "population": -1,
+        "latitude": -21.245373,
+        "longitude": 55.593852
+    },
+    {
+        "name": "La Petite Ferme",
+        "country": "Réunion",
+        "province": "Réunion",
+        "population": -1,
+        "latitude": -21.229353,
+        "longitude": 55.575978
+    },
+    {
+        "name": "La Ravine Blanche",
+        "country": "Réunion",
+        "province": "Réunion",
+        "population": -1,
+        "latitude": -21.234382,
+        "longitude": 55.568147
+    },
+    {
+        "name": "Les Tamarins",
+        "country": "Réunion",
+        "province": "Réunion",
+        "population": -1,
+        "latitude": -21.247693,
+        "longitude": 55.55076
+    },
+    {
+        "name": "La Bergerie",
+        "country": "Réunion",
+        "province": "Réunion",
+        "population": -1,
+        "latitude": -21.25741,
+        "longitude": 55.59655
+    },
+    {
+        "name": "Piton Hyacinthe",
+        "country": "Réunion",
+        "province": "Réunion",
+        "population": -1,
+        "latitude": -21.221609,
+        "longitude": 55.526237
+    },
+    {
+        "name": "Le Vingt-Troisième",
+        "country": "Réunion",
+        "province": "Réunion",
+        "population": -1,
+        "latitude": -21.224447,
+        "longitude": 55.541734
+    },
+    {
+        "name": "Le Chemin Barbot",
+        "country": "Réunion",
+        "province": "Réunion",
+        "population": -1,
+        "latitude": -21.233665,
+        "longitude": 55.522045
+    },
+    {
+        "name": "Le Douzième",
+        "country": "Réunion",
+        "province": "Réunion",
+        "population": -1,
+        "latitude": -21.25762,
+        "longitude": 55.522328
+    },
+    {
+        "name": "L'Ermitage",
+        "country": "Réunion",
+        "province": "Réunion",
+        "population": -1,
+        "latitude": -21.261247,
+        "longitude": 55.508393
+    },
+    {
+        "name": "Parc Mouton",
+        "country": "Réunion",
+        "province": "Réunion",
+        "population": -1,
+        "latitude": -21.35678,
+        "longitude": 55.65871
+    },
+    {
+        "name": "Haut de Jean Petit",
+        "country": "Réunion",
+        "province": "Réunion",
+        "population": -1,
+        "latitude": -21.320272,
+        "longitude": 55.630779
+    },
+    {
+        "name": "Le Chemin Dureau",
+        "country": "Réunion",
+        "province": "Réunion",
+        "population": -1,
+        "latitude": -21.125658,
+        "longitude": 55.642134
+    },
+    {
+        "name": "Marocain",
+        "country": "Réunion",
+        "province": "Réunion",
+        "population": -1,
+        "latitude": -21.143292,
+        "longitude": 55.815409
+    },
+    {
+        "name": "Chemin Sévère",
+        "country": "Réunion",
+        "province": "Réunion",
+        "population": -1,
+        "latitude": -21.063323,
+        "longitude": 55.721122
+    },
+    {
+        "name": "Bras Fusil",
+        "country": "Réunion",
+        "province": "Réunion",
+        "population": -1,
+        "latitude": -21.051063,
+        "longitude": 55.712104
+    },
+    {
+        "name": "Cabanon",
+        "country": "Réunion",
+        "province": "Réunion",
+        "population": -1,
+        "latitude": -21.072968,
+        "longitude": 55.710799
+    },
+    {
+        "name": "Chemin de Ceinture",
+        "country": "Réunion",
+        "province": "Réunion",
+        "population": -1,
+        "latitude": -21.081935,
+        "longitude": 55.692877
+    },
+    {
+        "name": "Cambourg",
+        "country": "Réunion",
+        "province": "Réunion",
+        "population": -1,
+        "latitude": -21.114251,
+        "longitude": 55.727481
+    },
+    {
+        "name": "Les Bambous",
+        "country": "Réunion",
+        "province": "Réunion",
+        "population": -1,
+        "latitude": -21.132801,
+        "longitude": 55.804483
+    },
+    {
+        "name": "La Marine",
+        "country": "Réunion",
+        "province": "Réunion",
+        "population": -1,
+        "latitude": -21.019431,
+        "longitude": 55.703457
+    },
+    {
+        "name": "La Convenance",
+        "country": "Réunion",
+        "province": "Réunion",
+        "population": -1,
+        "latitude": -21.032932,
+        "longitude": 55.682882
+    },
+    {
+        "name": "La Cabane",
+        "country": "Réunion",
+        "province": "Réunion",
+        "population": -1,
+        "latitude": -21.013454,
+        "longitude": 55.700936
+    },
+    {
+        "name": "Pitou",
+        "country": "Réunion",
+        "province": "Réunion",
+        "population": -1,
+        "latitude": -21.014593,
+        "longitude": 55.687436
+    },
+    {
+        "name": "Îlet Coco",
+        "country": "Réunion",
+        "province": "Réunion",
+        "population": -1,
+        "latitude": -21.043529,
+        "longitude": 55.689479
+    },
+    {
+        "name": "Abondance les Hauts",
+        "country": "Réunion",
+        "province": "Réunion",
+        "population": -1,
+        "latitude": -21.043529,
+        "longitude": 55.661205
+    },
+    {
+        "name": "Bois de Pomme",
+        "country": "Réunion",
+        "province": "Réunion",
+        "population": -1,
+        "latitude": -21.017419,
+        "longitude": 55.546869
+    },
+    {
+        "name": "Camp Lilas",
+        "country": "Réunion",
+        "province": "Réunion",
+        "population": -1,
+        "latitude": -21.026311,
+        "longitude": 55.543021
+    },
+    {
+        "name": "Îlet Fleurs Jaunes",
+        "country": "Réunion",
+        "province": "Réunion",
+        "population": -1,
+        "latitude": -21.012945,
+        "longitude": 55.540612
+    },
+    {
+        "name": "Mare à Goyaves",
+        "country": "Réunion",
+        "province": "Réunion",
+        "population": -1,
+        "latitude": -21.021673,
+        "longitude": 55.536089
+    },
+    {
+        "name": "Ravine Grosse Roche",
+        "country": "Réunion",
+        "province": "Réunion",
+        "population": -1,
+        "latitude": -21.023152,
+        "longitude": 55.535591
+    },
+    {
+        "name": "La Cayenne",
+        "country": "Réunion",
+        "province": "Réunion",
+        "population": -1,
+        "latitude": -21.02139,
+        "longitude": 55.548903
+    },
+    {
+        "name": "Mare à Poule d'Eau",
+        "country": "Réunion",
+        "province": "Réunion",
+        "population": -1,
+        "latitude": -21.047561,
+        "longitude": 55.530878
+    },
+    {
+        "name": "Plateau Sisahaye",
+        "country": "Réunion",
+        "province": "Réunion",
+        "population": -1,
+        "latitude": -21.059856,
+        "longitude": 55.526646
+    },
+    {
+        "name": "Fond de Rond-Point",
+        "country": "Réunion",
+        "province": "Réunion",
+        "population": -1,
+        "latitude": -21.055235,
+        "longitude": 55.520226
+    },
+    {
+        "name": "Bémahot",
+        "country": "Réunion",
+        "province": "Réunion",
+        "population": -1,
+        "latitude": -21.073039,
+        "longitude": 55.522828
+    },
+    {
+        "name": "Paniandy",
+        "country": "Réunion",
+        "province": "Réunion",
+        "population": -1,
+        "latitude": -20.98552,
+        "longitude": 55.656441
+    },
+    {
+        "name": "Bengalis",
+        "country": "Réunion",
+        "province": "Réunion",
+        "population": -1,
+        "latitude": -20.980109,
+        "longitude": 55.645374
+    },
+    {
+        "name": "Grand Canal",
+        "country": "Réunion",
+        "province": "Réunion",
+        "population": -1,
+        "latitude": -20.95262,
+        "longitude": 55.686494
+    },
+    {
+        "name": "Village Desprez",
+        "country": "Réunion",
+        "province": "Réunion",
+        "population": -1,
+        "latitude": -20.908975,
+        "longitude": 55.613261
+    },
+    {
+        "name": "Marancourt",
+        "country": "Réunion",
+        "province": "Réunion",
+        "population": -1,
+        "latitude": -20.917827,
+        "longitude": 55.606027
+    },
+    {
+        "name": "Camp des Évis",
+        "country": "Réunion",
+        "province": "Réunion",
+        "population": -1,
+        "latitude": -20.939662,
+        "longitude": 55.632721
+    },
+    {
+        "name": "Belle Vue",
+        "country": "Réunion",
+        "province": "Réunion",
+        "population": -1,
+        "latitude": -20.936455,
+        "longitude": 55.606488
+    },
+    {
+        "name": "Deux Rives",
+        "country": "Réunion",
+        "province": "Réunion",
+        "population": -1,
+        "latitude": -20.953361,
+        "longitude": 55.618078
+    },
+    {
+        "name": "Bras Pistolet",
+        "country": "Réunion",
+        "province": "Réunion",
+        "population": -1,
+        "latitude": -20.961248,
+        "longitude": 55.606279
+    },
+    {
+        "name": "L'Hermitage",
+        "country": "Réunion",
+        "province": "Réunion",
+        "population": -1,
+        "latitude": -20.970142,
+        "longitude": 55.602638
+    },
+    {
+        "name": "Sarabé",
+        "country": "Réunion",
+        "province": "Réunion",
+        "population": -1,
+        "latitude": -20.977803,
+        "longitude": 55.612912
+    },
+    {
+        "name": "Le Château",
+        "country": "Réunion",
+        "province": "Réunion",
+        "population": -1,
+        "latitude": -20.964467,
+        "longitude": 55.612589
+    },
+    {
+        "name": "Petit Trou",
+        "country": "Réunion",
+        "province": "Réunion",
+        "population": -1,
+        "latitude": -21.001166,
+        "longitude": 55.589858
+    },
+    {
+        "name": "Lotissement Bras Pistolet",
+        "country": "Réunion",
+        "province": "Réunion",
+        "population": -1,
+        "latitude": -20.967353,
+        "longitude": 55.587201
+    },
+    {
+        "name": "Les Jacques Cargot",
+        "country": "Réunion",
+        "province": "Réunion",
+        "population": -1,
+        "latitude": -20.916461,
+        "longitude": 55.595391
+    },
+    {
+        "name": "Les Cafés",
+        "country": "Réunion",
+        "province": "Réunion",
+        "population": -1,
+        "latitude": -20.900957,
+        "longitude": 55.568355
+    },
+    {
+        "name": "Le Grand Hazier",
+        "country": "Réunion",
+        "province": "Réunion",
+        "population": -1,
+        "latitude": -20.905063,
+        "longitude": 55.588529
+    },
+    {
+        "name": "Les Gaspards",
+        "country": "Réunion",
+        "province": "Réunion",
+        "population": -1,
+        "latitude": -20.899146,
+        "longitude": 55.55596
+    },
+    {
+        "name": "Duparc",
+        "country": "Réunion",
+        "province": "Réunion",
+        "population": -1,
+        "latitude": -20.903681,
+        "longitude": 55.522235
+    },
+    {
+        "name": "Montée Sano",
+        "country": "Réunion",
+        "province": "Réunion",
+        "population": -1,
+        "latitude": -20.944742,
+        "longitude": 55.544412
+    },
+    {
+        "name": "La Confiance les Bas",
+        "country": "Réunion",
+        "province": "Réunion",
+        "population": -1,
+        "latitude": -20.930538,
+        "longitude": 55.525142
+    },
+    {
+        "name": "La Confiance les Hauts",
+        "country": "Réunion",
+        "province": "Réunion",
+        "population": -1,
+        "latitude": -20.945949,
+        "longitude": 55.524669
+    },
+    {
+        "name": "La Maison Martin",
+        "country": "Réunion",
+        "province": "Réunion",
+        "population": -1,
+        "latitude": -20.969174,
+        "longitude": 55.525639
+    },
+    {
+        "name": "Moufia",
+        "country": "Réunion",
+        "province": "Réunion",
+        "population": -1,
+        "latitude": -20.913378,
+        "longitude": 55.483785
+    },
+    {
+        "name": "Belle Vue",
+        "country": "Réunion",
+        "province": "Réunion",
+        "population": -1,
+        "latitude": -20.93787,
+        "longitude": 55.487665
+    },
+    {
+        "name": "Îlet la Pluie",
+        "country": "Réunion",
+        "province": "Réunion",
+        "population": -1,
+        "latitude": -20.951775,
+        "longitude": 55.495095
+    },
+    {
+        "name": "Montauban",
+        "country": "Réunion",
+        "province": "Réunion",
+        "population": -1,
+        "latitude": -20.941216,
+        "longitude": 55.49455
+    },
+    {
+        "name": "La Plate Forme",
+        "country": "Réunion",
+        "province": "Réunion",
+        "population": -1,
+        "latitude": -21.153858,
+        "longitude": 55.466721
+    },
+    {
+        "name": "Mare Sèche",
+        "country": "Réunion",
+        "province": "Réunion",
+        "population": -1,
+        "latitude": -21.150092,
+        "longitude": 55.463653
+    },
+    {
+        "name": "Bras Sec",
+        "country": "Réunion",
+        "province": "Réunion",
+        "population": -1,
+        "latitude": -21.141551,
+        "longitude": 55.490115
+    },
+    {
+        "name": "Les Trois Mares",
+        "country": "Réunion",
+        "province": "Réunion",
+        "population": -1,
+        "latitude": -21.13722,
+        "longitude": 55.476571
+    },
+    {
+        "name": "Le Petit Matarum",
+        "country": "Réunion",
+        "province": "Réunion",
+        "population": -1,
+        "latitude": -21.132223,
+        "longitude": 55.479569
+    },
+    {
+        "name": "Roche Plate",
+        "country": "Réunion",
+        "province": "Réunion",
+        "population": -1,
+        "latitude": -21.03427,
+        "longitude": 55.490267
+    },
+    {
+        "name": "Mare à Martin",
+        "country": "Réunion",
+        "province": "Réunion",
+        "population": -1,
+        "latitude": -21.017868,
+        "longitude": 55.497454
+    },
+    {
+        "name": "Mathurin",
+        "country": "Réunion",
+        "province": "Réunion",
+        "population": -1,
+        "latitude": -21.020326,
+        "longitude": 55.487573
+    },
+    {
+        "name": "Îlet Roche à Jacquot",
+        "country": "Réunion",
+        "province": "Réunion",
+        "population": -1,
+        "latitude": -21.018214,
+        "longitude": 55.474609
+    },
+    {
+        "name": "La Vigie",
+        "country": "Réunion",
+        "province": "Réunion",
+        "population": -1,
+        "latitude": -20.88595,
+        "longitude": 55.425017
+    },
+    {
+        "name": "Les Brises",
+        "country": "Réunion",
+        "province": "Réunion",
+        "population": -1,
+        "latitude": -20.882555,
+        "longitude": 55.425659
+    },
+    {
+        "name": "Le Golf",
+        "country": "Réunion",
+        "province": "Réunion",
+        "population": -1,
+        "latitude": -20.877738,
+        "longitude": 55.422173
+    },
+    {
+        "name": "La Source",
+        "country": "Réunion",
+        "province": "Réunion",
+        "population": -1,
+        "latitude": -20.892647,
+        "longitude": 55.447358
+    },
+    {
+        "name": "Bellepierre",
+        "country": "Réunion",
+        "province": "Réunion",
+        "population": -1,
+        "latitude": -20.902755,
+        "longitude": 55.445211
+    },
+    {
+        "name": "Îlet à Bourse",
+        "country": "Réunion",
+        "province": "Réunion",
+        "population": -1,
+        "latitude": -21.040544,
+        "longitude": 55.426045
+    },
+    {
+        "name": "Îlet Cimandal",
+        "country": "Réunion",
+        "province": "Réunion",
+        "population": -1,
+        "latitude": -21.065867,
+        "longitude": 55.424285
+    },
+    {
+        "name": "Marla",
+        "country": "Réunion",
+        "province": "Réunion",
+        "population": -1,
+        "latitude": -21.103617,
+        "longitude": 55.433216
+    },
+    {
+        "name": "Maison Laclos",
+        "country": "Réunion",
+        "province": "Réunion",
+        "population": -1,
+        "latitude": -21.09505,
+        "longitude": 55.437567
+    },
+    {
+        "name": "Îlet des Salazes",
+        "country": "Réunion",
+        "province": "Réunion",
+        "population": -1,
+        "latitude": -21.112563,
+        "longitude": 55.449244
+    },
+    {
+        "name": "Îlet Chicot",
+        "country": "Réunion",
+        "province": "Réunion",
+        "population": -1,
+        "latitude": -21.122996,
+        "longitude": 55.448457
+    },
+    {
+        "name": "Îlet du Bois Rouge",
+        "country": "Réunion",
+        "province": "Réunion",
+        "population": -1,
+        "latitude": -21.123409,
+        "longitude": 55.455565
+    },
+    {
+        "name": "Îlets du Bras de Saint-Paul",
+        "country": "Réunion",
+        "province": "Réunion",
+        "population": -1,
+        "latitude": -21.148588,
+        "longitude": 55.436267
+    },
+    {
+        "name": "Roche Plate",
+        "country": "Réunion",
+        "province": "Réunion",
+        "population": -1,
+        "latitude": -21.068922,
+        "longitude": 55.40552
+    },
+    {
+        "name": "Îlet des Orangers",
+        "country": "Réunion",
+        "province": "Réunion",
+        "population": -1,
+        "latitude": -21.042663,
+        "longitude": 55.39258
+    },
+    {
+        "name": "Cayenne",
+        "country": "Réunion",
+        "province": "Réunion",
+        "population": -1,
+        "latitude": -21.039261,
+        "longitude": 55.404622
+    },
+    {
+        "name": "Le Quinzième",
+        "country": "Réunion",
+        "province": "Réunion",
+        "population": -1,
+        "latitude": -20.917604,
+        "longitude": 55.404986
+    },
+    {
+        "name": "Ruisseau Blanc",
+        "country": "Réunion",
+        "province": "Réunion",
+        "population": -1,
+        "latitude": -20.895654,
+        "longitude": 55.411215
+    },
+    {
+        "name": "Moulin Cader",
+        "country": "Réunion",
+        "province": "Réunion",
+        "population": -1,
+        "latitude": -20.884151,
+        "longitude": 55.408732
+    },
+    {
+        "name": "Le Vingt-Sixième",
+        "country": "Réunion",
+        "province": "Réunion",
+        "population": -1,
+        "latitude": -20.926381,
+        "longitude": 55.360421
+    },
+    {
+        "name": "Le Vingt-Cinquième",
+        "country": "Réunion",
+        "province": "Réunion",
+        "population": -1,
+        "latitude": -20.9262,
+        "longitude": 55.36626
+    },
+    {
+        "name": "Le Vingt-Septième",
+        "country": "Réunion",
+        "province": "Réunion",
+        "population": -1,
+        "latitude": -20.931127,
+        "longitude": 55.360458
+    },
+    {
+        "name": "Le Vingt-Huitième",
+        "country": "Réunion",
+        "province": "Réunion",
+        "population": -1,
+        "latitude": -20.928063,
+        "longitude": 55.349448
+    },
+    {
+        "name": "La Grande Montagne",
+        "country": "Réunion",
+        "province": "Réunion",
+        "population": -1,
+        "latitude": -20.937305,
+        "longitude": 55.339155
+    },
+    {
+        "name": "Lotissement Dodin",
+        "country": "Réunion",
+        "province": "Réunion",
+        "population": -1,
+        "latitude": -20.942738,
+        "longitude": 55.334923
+    },
+    {
+        "name": "Îlet Lautret",
+        "country": "Réunion",
+        "province": "Réunion",
+        "population": -1,
+        "latitude": -20.964767,
+        "longitude": 55.361259
+    },
+    {
+        "name": "Îlet Savannah",
+        "country": "Réunion",
+        "province": "Réunion",
+        "population": -1,
+        "latitude": -20.972716,
+        "longitude": 55.328253
+    },
+    {
+        "name": "Sans Souci",
+        "country": "Réunion",
+        "province": "Réunion",
+        "population": -1,
+        "latitude": -20.977901,
+        "longitude": 55.337353
+    },
+    {
+        "name": "Le Hangar",
+        "country": "Réunion",
+        "province": "Réunion",
+        "population": -1,
+        "latitude": -20.990719,
+        "longitude": 55.318837
+    },
+    {
+        "name": "Le Ruisseau",
+        "country": "Réunion",
+        "province": "Réunion",
+        "population": -1,
+        "latitude": -21.008192,
+        "longitude": 55.320099
+    },
+    {
+        "name": "Le Guillaume Jardin",
+        "country": "Réunion",
+        "province": "Réunion",
+        "population": -1,
+        "latitude": -21.049156,
+        "longitude": 55.310008
+    },
+    {
+        "name": "La Cour",
+        "country": "Réunion",
+        "province": "Réunion",
+        "population": -1,
+        "latitude": -21.062647,
+        "longitude": 55.324525
+    },
+    {
+        "name": "Pausé",
+        "country": "Réunion",
+        "province": "Réunion",
+        "population": -1,
+        "latitude": -21.07263,
+        "longitude": 55.310032
+    },
+    {
+        "name": "Cocâtre",
+        "country": "Réunion",
+        "province": "Réunion",
+        "population": -1,
+        "latitude": -21.116183,
+        "longitude": 55.302067
+    },
+    {
+        "name": "Saint-Cœur",
+        "country": "Réunion",
+        "province": "Réunion",
+        "population": -1,
+        "latitude": -21.097935,
+        "longitude": 55.287788
+    },
+    {
+        "name": "Montvert",
+        "country": "Réunion",
+        "province": "Réunion",
+        "population": -1,
+        "latitude": -21.098845,
+        "longitude": 55.305377
+    },
+    {
+        "name": "Notre-Dame des Champs",
+        "country": "Réunion",
+        "province": "Réunion",
+        "population": -1,
+        "latitude": -21.135877,
+        "longitude": 55.310592
+    },
+    {
+        "name": "Les Camélias",
+        "country": "Réunion",
+        "province": "Réunion",
+        "population": -1,
+        "latitude": -21.16476,
+        "longitude": 55.328401
+    },
+    {
+        "name": "Bras Mouton",
+        "country": "Réunion",
+        "province": "Réunion",
+        "population": -1,
+        "latitude": -21.144879,
+        "longitude": 55.300922
+    },
+    {
+        "name": "Lotissement de la Pointe des Châteaux",
+        "country": "Réunion",
+        "province": "Réunion",
+        "population": -1,
+        "latitude": -21.145868,
+        "longitude": 55.277163
+    },
+    {
+        "name": "Ravine Daniel",
+        "country": "Réunion",
+        "province": "Réunion",
+        "population": -1,
+        "latitude": -21.088013,
+        "longitude": 55.306074
+    },
+    {
+        "name": "Le Bassin Souris",
+        "country": "Réunion",
+        "province": "Réunion",
+        "population": -1,
+        "latitude": -21.077218,
+        "longitude": 55.293253
+    },
+    {
+        "name": "Bras Canot",
+        "country": "Réunion",
+        "province": "Réunion",
+        "population": -1,
+        "latitude": -21.070895,
+        "longitude": 55.291926
+    },
+    {
+        "name": "Corbeil",
+        "country": "Réunion",
+        "province": "Réunion",
+        "population": -1,
+        "latitude": -21.07505,
+        "longitude": 55.282019
+    },
+    {
+        "name": "Longuet",
+        "country": "Réunion",
+        "province": "Réunion",
+        "population": -1,
+        "latitude": -21.078289,
+        "longitude": 55.269705
+    },
+    {
+        "name": "Tan Rouge",
+        "country": "Réunion",
+        "province": "Réunion",
+        "population": -1,
+        "latitude": -21.062546,
+        "longitude": 55.296756
+    },
+    {
+        "name": "La Croix",
+        "country": "Réunion",
+        "province": "Réunion",
+        "population": -1,
+        "latitude": -21.059955,
+        "longitude": 55.299162
+    },
+    {
+        "name": "Le Bernica",
+        "country": "Réunion",
+        "province": "Réunion",
+        "population": -1,
+        "latitude": -21.045959,
+        "longitude": 55.283905
+    },
+    {
+        "name": "Bois Rouge",
+        "country": "Réunion",
+        "province": "Réunion",
+        "population": -1,
+        "latitude": -21.021664,
+        "longitude": 55.288538
+    },
+    {
+        "name": "Les Canots",
+        "country": "Réunion",
+        "province": "Réunion",
+        "population": -1,
+        "latitude": -21.0278,
+        "longitude": 55.307909
+    },
+    {
+        "name": "Le Petit Bernica",
+        "country": "Réunion",
+        "province": "Réunion",
+        "population": -1,
+        "latitude": -21.027409,
+        "longitude": 55.284986
+    },
+    {
+        "name": "Plateau Caillou",
+        "country": "Réunion",
+        "province": "Réunion",
+        "population": -1,
+        "latitude": -21.025927,
+        "longitude": 55.267856
+    },
+    {
+        "name": "Grande Fontaine",
+        "country": "Réunion",
+        "province": "Réunion",
+        "population": -1,
+        "latitude": -21.01403,
+        "longitude": 55.278818
+    },
+    {
+        "name": "Rue Jacquot",
+        "country": "Réunion",
+        "province": "Réunion",
+        "population": -1,
+        "latitude": -20.983836,
+        "longitude": 55.287172
+    },
+    {
+        "name": "L'Affouche",
+        "country": "Réunion",
+        "province": "Réunion",
+        "population": -1,
+        "latitude": -20.976947,
+        "longitude": 55.298166
+    },
+    {
+        "name": "Cambaie",
+        "country": "Réunion",
+        "province": "Réunion",
+        "population": -1,
+        "latitude": -20.964604,
+        "longitude": 55.290241
+    },
+    {
+        "name": "Résidence Champagne",
+        "country": "Réunion",
+        "province": "Réunion",
+        "population": -1,
+        "latitude": -21.026846,
+        "longitude": 55.230296
+    },
+    {
+        "name": "Villèle",
+        "country": "Réunion",
+        "province": "Réunion",
+        "population": -1,
+        "latitude": -21.056967,
+        "longitude": 55.260014
+    },
+    {
+        "name": "Armagnac",
+        "country": "Réunion",
+        "province": "Réunion",
+        "population": -1,
+        "latitude": -21.036393,
+        "longitude": 55.222268
+    },
+    {
+        "name": "Le Cap à Paul",
+        "country": "Réunion",
+        "province": "Réunion",
+        "population": -1,
+        "latitude": -21.046039,
+        "longitude": 55.226965
+    },
+    {
+        "name": "Villa Bourbon",
+        "country": "Réunion",
+        "province": "Réunion",
+        "population": -1,
+        "latitude": -21.064316,
+        "longitude": 55.221902
+    },
+    {
+        "name": "Lotissement Bellevue",
+        "country": "Réunion",
+        "province": "Réunion",
+        "population": -1,
+        "latitude": -21.106396,
+        "longitude": 55.251867
+    },
+    {
+        "name": "La Souris Chaude",
+        "country": "Réunion",
+        "province": "Réunion",
+        "population": -1,
+        "latitude": -21.119089,
+        "longitude": 55.259427
+    },
+    {
+        "name": "La Souris Blanche",
+        "country": "Réunion",
+        "province": "Réunion",
+        "population": -1,
+        "latitude": -21.12196,
+        "longitude": 55.263483
+    },
+    {
+        "name": "Cité de Pêcheurs",
+        "country": "Réunion",
+        "province": "Réunion",
+        "population": -1,
+        "latitude": -21.182774,
+        "longitude": 55.290808
+    },
+    {
+        "name": "Les Quatre Robinets",
+        "country": "Réunion",
+        "province": "Réunion",
+        "population": -1,
+        "latitude": -21.196495,
+        "longitude": 55.290985
+    },
+    {
+        "name": "Maduran",
+        "country": "Réunion",
+        "province": "Réunion",
+        "population": -1,
+        "latitude": -21.20841,
+        "longitude": 55.298869
+    },
+    {
+        "name": "Le Bois de Nèfles Piton",
+        "country": "Réunion",
+        "province": "Réunion",
+        "population": -1,
+        "latitude": -21.22435,
+        "longitude": 55.303882
+    },
+    {
+        "name": "La Butte Guinot",
+        "country": "Réunion",
+        "province": "Réunion",
+        "population": -1,
+        "latitude": -21.260852,
+        "longitude": 55.355406
+    },
+    {
+        "name": "La Plaine",
+        "country": "Réunion",
+        "province": "Réunion",
+        "population": -1,
+        "latitude": -21.258464,
+        "longitude": 55.35871
+    },
+    {
+        "name": "Le Brûlé",
+        "country": "Réunion",
+        "province": "Réunion",
+        "population": -1,
+        "latitude": -21.249954,
+        "longitude": 55.34468
+    },
+    {
+        "name": "Bois Blanc",
+        "country": "Réunion",
+        "province": "Réunion",
+        "population": -1,
+        "latitude": -21.245324,
+        "longitude": 55.317622
+    },
+    {
+        "name": "Les Bananes",
+        "country": "Réunion",
+        "province": "Réunion",
+        "population": -1,
+        "latitude": -21.232711,
+        "longitude": 55.340849
+    },
+    {
+        "name": "Le Butor",
+        "country": "Réunion",
+        "province": "Réunion",
+        "population": -1,
+        "latitude": -21.222878,
+        "longitude": 55.317603
+    },
+    {
+        "name": "La Chapelle",
+        "country": "Réunion",
+        "province": "Réunion",
+        "population": -1,
+        "latitude": -21.221936,
+        "longitude": 55.343986
+    },
+    {
+        "name": "Bras Sec les Bas",
+        "country": "Réunion",
+        "province": "Réunion",
+        "population": -1,
+        "latitude": -21.216799,
+        "longitude": 55.353272
+    },
+    {
+        "name": "Le Tan Rouge",
+        "country": "Réunion",
+        "province": "Réunion",
+        "population": -1,
+        "latitude": -21.202745,
+        "longitude": 55.342116
+    },
+    {
+        "name": "Grand Fond les Hauts",
+        "country": "Réunion",
+        "province": "Réunion",
+        "population": -1,
+        "latitude": -21.196393,
+        "longitude": 55.328175
+    },
+    {
+        "name": "Le Cap Camélias",
+        "country": "Réunion",
+        "province": "Réunion",
+        "population": -1,
+        "latitude": -21.171483,
+        "longitude": 55.328351
+    },
+    {
+        "name": "Bon Accueil",
+        "country": "Réunion",
+        "province": "Réunion",
+        "population": -1,
+        "latitude": -21.215285,
+        "longitude": 55.403317
+    },
+    {
+        "name": "Le Grand Serré",
+        "country": "Réunion",
+        "province": "Réunion",
+        "population": -1,
+        "latitude": -21.223035,
+        "longitude": 55.408973
+    },
+    {
+        "name": "La Pièce Jeanne",
+        "country": "Réunion",
+        "province": "Réunion",
+        "population": -1,
+        "latitude": -21.234961,
+        "longitude": 55.401785
+    },
+    {
+        "name": "L'Entre-Deux",
+        "country": "Réunion",
+        "province": "Réunion",
+        "population": -1,
+        "latitude": -21.239257,
+        "longitude": 55.366501
+    },
+    {
+        "name": "Les Sables",
+        "country": "Réunion",
+        "province": "Réunion",
+        "population": -1,
+        "latitude": -21.277023,
+        "longitude": 55.373118
+    },
+    {
+        "name": "Le Syndicat",
+        "country": "Réunion",
+        "province": "Réunion",
+        "population": -1,
+        "latitude": -21.313258,
+        "longitude": 55.434401
+    },
+    {
+        "name": "Le Pont Neuf",
+        "country": "Réunion",
+        "province": "Réunion",
+        "population": -1,
+        "latitude": -21.283855,
+        "longitude": 55.429551
+    },
+    {
+        "name": "Le Bois de Nèfles",
+        "country": "Réunion",
+        "province": "Réunion",
+        "population": -1,
+        "latitude": -21.277722,
+        "longitude": 55.435894
+    },
+    {
+        "name": "La Ferme",
+        "country": "Réunion",
+        "province": "Réunion",
+        "population": -1,
+        "latitude": -21.268029,
+        "longitude": 55.450704
+    },
+    {
+        "name": "Le Ruisseau Terres Rouges",
+        "country": "Réunion",
+        "province": "Réunion",
+        "population": -1,
+        "latitude": -21.262357,
+        "longitude": 55.426658
+    },
+    {
+        "name": "Le Tapage",
+        "country": "Réunion",
+        "province": "Réunion",
+        "population": -1,
+        "latitude": -21.241387,
+        "longitude": 55.444538
+    },
+    {
+        "name": "Le Chemin Richard",
+        "country": "Réunion",
+        "province": "Réunion",
+        "population": -1,
+        "latitude": -21.241984,
+        "longitude": 55.42408
+    },
+    {
+        "name": "Les Canaux",
+        "country": "Réunion",
+        "province": "Réunion",
+        "population": -1,
+        "latitude": -21.235648,
+        "longitude": 55.417248
+    },
+    {
+        "name": "La Ligne Chevalier",
+        "country": "Réunion",
+        "province": "Réunion",
+        "population": -1,
+        "latitude": -21.22818,
+        "longitude": 55.445271
+    },
+    {
+        "name": "Îlet Augustin",
+        "country": "Réunion",
+        "province": "Réunion",
+        "population": -1,
+        "latitude": -21.208246,
+        "longitude": 55.451371
+    },
+    {
+        "name": "La Plaine du Bois de Nèfles",
+        "country": "Réunion",
+        "province": "Réunion",
+        "population": -1,
+        "latitude": -21.202474,
+        "longitude": 55.433162
+    },
+    {
+        "name": "Le Parc à Dennemont",
+        "country": "Réunion",
+        "province": "Réunion",
+        "population": -1,
+        "latitude": -21.179899,
+        "longitude": 55.442738
+    },
+    {
+        "name": "Îlet Haut",
+        "country": "Réunion",
+        "province": "Réunion",
+        "population": -1,
+        "latitude": -21.188916,
+        "longitude": 55.457943
+    },
+    {
+        "name": "Îlet à Calebasse",
+        "country": "Réunion",
+        "province": "Réunion",
+        "population": -1,
+        "latitude": -21.179656,
+        "longitude": 55.480379
+    },
+    {
+        "name": "L'Argamasse",
+        "country": "Réunion",
+        "province": "Réunion",
+        "population": -1,
+        "latitude": -21.214357,
+        "longitude": 55.49776
+    },
+    {
+        "name": "Îlet du Bras Sec",
+        "country": "Réunion",
+        "province": "Réunion",
+        "population": -1,
+        "latitude": -21.224749,
+        "longitude": 55.503765
+    },
+    {
+        "name": "La Ravine des Citrons",
+        "country": "Réunion",
+        "province": "Réunion",
+        "population": -1,
+        "latitude": -21.241913,
+        "longitude": 55.481255
+    },
+    {
+        "name": "La Mare",
+        "country": "Réunion",
+        "province": "Réunion",
+        "population": -1,
+        "latitude": -21.245819,
+        "longitude": 55.470468
+    },
+    {
+        "name": "Le Bras Long",
+        "country": "Réunion",
+        "province": "Réunion",
+        "population": -1,
+        "latitude": -21.23433,
+        "longitude": 55.471828
+    },
+    {
+        "name": "Grand Fond Extérieur",
+        "country": "Réunion",
+        "province": "Réunion",
+        "population": -1,
+        "latitude": -21.235946,
+        "longitude": 55.462784
+    },
+    {
+        "name": "Le Bras de Pontho",
+        "country": "Réunion",
+        "province": "Réunion",
+        "population": -1,
+        "latitude": -21.241325,
+        "longitude": 55.491388
+    },
+    {
+        "name": "La Pente d'Orange",
+        "country": "Réunion",
+        "province": "Réunion",
+        "population": -1,
+        "latitude": -21.25501,
+        "longitude": 55.465687
+    },
+    {
+        "name": "Le Dassy",
+        "country": "Réunion",
+        "province": "Réunion",
+        "population": -1,
+        "latitude": -21.256867,
+        "longitude": 55.486947
+    },
+    {
+        "name": "Le Serré",
+        "country": "Réunion",
+        "province": "Réunion",
+        "population": -1,
+        "latitude": -21.268692,
+        "longitude": 55.464259
+    },
+    {
+        "name": "Frédeline",
+        "country": "Réunion",
+        "province": "Réunion",
+        "population": -1,
+        "latitude": -21.308618,
+        "longitude": 55.469777
+    },
+    {
+        "name": "La Ligne Paradis",
+        "country": "Réunion",
+        "province": "Réunion",
+        "population": -1,
+        "latitude": -21.312965,
+        "longitude": 55.473705
+    },
+    {
+        "name": "Basse Terre les Hauts",
+        "country": "Réunion",
+        "province": "Réunion",
+        "population": -1,
+        "latitude": -21.319965,
+        "longitude": 55.479258
+    },
+    {
+        "name": "Basse Terre les Bas",
+        "country": "Réunion",
+        "province": "Réunion",
+        "population": -1,
+        "latitude": -21.32721,
+        "longitude": 55.478526
+    },
+    {
+        "name": "Les Casernes",
+        "country": "Réunion",
+        "province": "Réunion",
+        "population": -1,
+        "latitude": -21.330208,
+        "longitude": 55.481947
+    },
+    {
+        "name": "L'Asile",
+        "country": "Réunion",
+        "province": "Réunion",
+        "population": -1,
+        "latitude": -21.329821,
+        "longitude": 55.49
+    },
+    {
+        "name": "Bassin Plat",
+        "country": "Réunion",
+        "province": "Réunion",
+        "population": -1,
+        "latitude": -21.326444,
+        "longitude": 55.495957
+    },
+    {
+        "name": "Bassin Bœuf",
+        "country": "Réunion",
+        "province": "Réunion",
+        "population": -1,
+        "latitude": -21.342227,
+        "longitude": 55.486711
+    },
+    {
+        "name": "La Cayenne",
+        "country": "Réunion",
+        "province": "Réunion",
+        "population": -1,
+        "latitude": -21.38443,
+        "longitude": 55.61103
+    },
+    {
+        "name": "Bois Noirs",
+        "country": "Réunion",
+        "province": "Réunion",
+        "population": -1,
+        "latitude": -21.289455,
+        "longitude": 55.462233
+    },
+    {
+        "name": "Îlet à Vidot",
+        "country": "Réunion",
+        "province": "Réunion",
+        "population": -1,
+        "latitude": -21.0644,
+        "longitude": 55.509247
+    },
+    {
+        "name": "Le Plateau",
+        "country": "Réunion",
+        "province": "Réunion",
+        "population": -1,
+        "latitude": -21.030248,
+        "longitude": 55.505561
+    },
+    {
+        "name": "Champ Fleuri",
+        "country": "Réunion",
+        "province": "Réunion",
+        "population": -1,
+        "latitude": -20.889697,
+        "longitude": 55.467765
+    },
+    {
+        "name": "Montgaillard",
+        "country": "Réunion",
+        "province": "Réunion",
+        "population": -1,
+        "latitude": -20.901682,
+        "longitude": 55.466855
+    },
+    {
+        "name": "Bel-Air",
+        "country": "Réunion",
+        "province": "Réunion",
+        "population": -1,
+        "latitude": -21.011317,
+        "longitude": 55.334177
+    },
+    {
+        "name": "Le Verger",
+        "country": "Réunion",
+        "province": "Réunion",
+        "population": -1,
+        "latitude": -20.947608,
+        "longitude": 55.316704
+    },
+    {
+        "name": "La Trinité",
+        "country": "Réunion",
+        "province": "Réunion",
+        "population": -1,
+        "latitude": -20.895454,
+        "longitude": 55.46952
+    },
+    {
+        "name": "La Colline",
+        "country": "Réunion",
+        "province": "Réunion",
+        "population": -1,
+        "latitude": -20.895158,
+        "longitude": 55.439803
+    },
+    {
+        "name": "Les Affouches",
+        "country": "Réunion",
+        "province": "Réunion",
+        "population": -1,
+        "latitude": -20.919802,
+        "longitude": 55.398099
+    },
+    {
+        "name": "La Grande Ravine des Lataniers",
+        "country": "Réunion",
+        "province": "Réunion",
+        "population": -1,
+        "latitude": -20.940356,
+        "longitude": 55.352613
+    },
+    {
+        "name": "Le Bœuf Mort",
+        "country": "Réunion",
+        "province": "Réunion",
+        "population": -1,
+        "latitude": -20.947162,
+        "longitude": 55.337859
+    },
+    {
+        "name": "Moulin Maïs",
+        "country": "Réunion",
+        "province": "Réunion",
+        "population": -1,
+        "latitude": -20.970099,
+        "longitude": 55.314671
+    },
+    {
+        "name": "Le Déboulé",
+        "country": "Réunion",
+        "province": "Réunion",
+        "population": -1,
+        "latitude": -20.984407,
+        "longitude": 55.312508
+    },
+    {
+        "name": "Îlet Rosier Blanc",
+        "country": "Réunion",
+        "province": "Réunion",
+        "population": -1,
+        "latitude": -20.972508,
+        "longitude": 55.363543
+    },
+    {
+        "name": "Le Cœur Saignant",
+        "country": "Réunion",
+        "province": "Réunion",
+        "population": -1,
+        "latitude": -20.94837,
+        "longitude": 55.305813
+    },
+    {
+        "name": "La Barrière",
+        "country": "Réunion",
+        "province": "Réunion",
+        "population": -1,
+        "latitude": -21.02006,
+        "longitude": 55.250455
+    },
+    {
+        "name": "La Petite Pointe",
+        "country": "Réunion",
+        "province": "Réunion",
+        "population": -1,
+        "latitude": -20.95346,
+        "longitude": 55.304067
+    },
+    {
+        "name": "La Palmeraie",
+        "country": "Réunion",
+        "province": "Réunion",
+        "population": -1,
+        "latitude": -20.944595,
+        "longitude": 55.337438
+    },
+    {
+        "name": "Bouillon",
+        "country": "Réunion",
+        "province": "Réunion",
+        "population": -1,
+        "latitude": -21.009618,
+        "longitude": 55.288197
+    },
+    {
+        "name": "Ravine Renaud",
+        "country": "Réunion",
+        "province": "Réunion",
+        "population": -1,
+        "latitude": -21.003383,
+        "longitude": 55.300525
+    },
+    {
+        "name": "Le Moulin à Eau",
+        "country": "Réunion",
+        "province": "Réunion",
+        "population": -1,
+        "latitude": -20.998669,
+        "longitude": 55.305433
+    },
+    {
+        "name": "La Perrière",
+        "country": "Réunion",
+        "province": "Réunion",
+        "population": -1,
+        "latitude": -20.995003,
+        "longitude": 55.309483
+    },
+    {
+        "name": "La Roche Marianne",
+        "country": "Réunion",
+        "province": "Réunion",
+        "population": -1,
+        "latitude": -21.009332,
+        "longitude": 55.312783
+    },
+    {
+        "name": "Le Martyr",
+        "country": "Réunion",
+        "province": "Réunion",
+        "population": -1,
+        "latitude": -21.018901,
+        "longitude": 55.339899
+    },
+    {
+        "name": "Les Coquillages",
+        "country": "Réunion",
+        "province": "Réunion",
+        "population": -1,
+        "latitude": -21.031816,
+        "longitude": 55.228558
+    },
+    {
+        "name": "Domaine d'Anjou",
+        "country": "Réunion",
+        "province": "Réunion",
+        "population": -1,
+        "latitude": -21.04371,
+        "longitude": 55.22271
+    },
+    {
+        "name": "Maison Blanche",
+        "country": "Réunion",
+        "province": "Réunion",
+        "population": -1,
+        "latitude": -21.037202,
+        "longitude": 55.288405
+    },
+    {
+        "name": "Bac Rouge",
+        "country": "Réunion",
+        "province": "Réunion",
+        "population": -1,
+        "latitude": -21.039008,
+        "longitude": 55.311795
+    },
+    {
+        "name": "La Croix",
+        "country": "Réunion",
+        "province": "Réunion",
+        "population": -1,
+        "latitude": -21.039955,
+        "longitude": 55.304091
+    },
+    {
+        "name": "Citerne Partage",
+        "country": "Réunion",
+        "province": "Réunion",
+        "population": -1,
+        "latitude": -21.042796,
+        "longitude": 55.308871
+    },
+    {
+        "name": "L'Œil-de-Bœuf",
+        "country": "Réunion",
+        "province": "Réunion",
+        "population": -1,
+        "latitude": -21.07227,
+        "longitude": 55.226935
+    },
+    {
+        "name": "Bruniquel",
+        "country": "Réunion",
+        "province": "Réunion",
+        "population": -1,
+        "latitude": -21.083061,
+        "longitude": 55.237725
+    },
+    {
+        "name": "Madame Paule",
+        "country": "Réunion",
+        "province": "Réunion",
+        "population": -1,
+        "latitude": -21.067442,
+        "longitude": 55.260393
+    },
+    {
+        "name": "Plateau Carrosse",
+        "country": "Réunion",
+        "province": "Réunion",
+        "population": -1,
+        "latitude": -21.064647,
+        "longitude": 55.271685
+    },
+    {
+        "name": "Citerne Laborde",
+        "country": "Réunion",
+        "province": "Réunion",
+        "population": -1,
+        "latitude": -21.055238,
+        "longitude": 55.286553
+    },
+    {
+        "name": "La Poste",
+        "country": "Réunion",
+        "province": "Réunion",
+        "population": -1,
+        "latitude": -21.05708,
+        "longitude": 55.289943
+    },
+    {
+        "name": "Chemin Crescence",
+        "country": "Réunion",
+        "province": "Réunion",
+        "population": -1,
+        "latitude": -21.058926,
+        "longitude": 55.28649
+    },
+    {
+        "name": "Le Trou d'Eau",
+        "country": "Réunion",
+        "province": "Réunion",
+        "population": -1,
+        "latitude": -21.099232,
+        "longitude": 55.245119
+    },
+    {
+        "name": "Les Lataniers",
+        "country": "Réunion",
+        "province": "Réunion",
+        "population": -1,
+        "latitude": -21.0983,
+        "longitude": 55.281337
+    },
+    {
+        "name": "Le Grainoire",
+        "country": "Réunion",
+        "province": "Réunion",
+        "population": -1,
+        "latitude": -21.09538,
+        "longitude": 55.289026
+    },
+    {
+        "name": "Chemin Acadine",
+        "country": "Réunion",
+        "province": "Réunion",
+        "population": -1,
+        "latitude": -21.094767,
+        "longitude": 55.278391
+    },
+    {
+        "name": "Pavillon",
+        "country": "Réunion",
+        "province": "Réunion",
+        "population": -1,
+        "latitude": -21.093965,
+        "longitude": 55.267784
+    },
+    {
+        "name": "La Montée Panon",
+        "country": "Réunion",
+        "province": "Réunion",
+        "population": -1,
+        "latitude": -21.090918,
+        "longitude": 55.264531
+    },
+    {
+        "name": "Notre-Dame des Champs",
+        "country": "Réunion",
+        "province": "Réunion",
+        "population": -1,
+        "latitude": -21.072566,
+        "longitude": 55.278029
+    },
+    {
+        "name": "Macabit Bois Joli",
+        "country": "Réunion",
+        "province": "Réunion",
+        "population": -1,
+        "latitude": -21.010523,
+        "longitude": 55.310609
+    },
+    {
+        "name": "Fond Benjoin",
+        "country": "Réunion",
+        "province": "Réunion",
+        "population": -1,
+        "latitude": -21.027711,
+        "longitude": 55.28181
+    },
+    {
+        "name": "Les Bambous",
+        "country": "Réunion",
+        "province": "Réunion",
+        "population": -1,
+        "latitude": -20.90285,
+        "longitude": 55.401269
+    },
+    {
+        "name": "Terrain Duparc",
+        "country": "Réunion",
+        "province": "Réunion",
+        "population": -1,
+        "latitude": -20.906935,
+        "longitude": 55.518588
+    },
+    {
+        "name": "Les Orchidées",
+        "country": "Réunion",
+        "province": "Réunion",
+        "population": -1,
+        "latitude": -20.908832,
+        "longitude": 55.508565
+    },
+    {
+        "name": "Commune Prima",
+        "country": "Réunion",
+        "province": "Réunion",
+        "population": -1,
+        "latitude": -20.899611,
+        "longitude": 55.500975
+    },
+    {
+        "name": "Carreau Coton",
+        "country": "Réunion",
+        "province": "Réunion",
+        "population": -1,
+        "latitude": -20.911744,
+        "longitude": 55.518611
+    },
+    {
+        "name": "La Source la Mare",
+        "country": "Réunion",
+        "province": "Réunion",
+        "population": -1,
+        "latitude": -20.919003,
+        "longitude": 55.521576
+    },
+    {
+        "name": "Maingard",
+        "country": "Réunion",
+        "province": "Réunion",
+        "population": -1,
+        "latitude": -20.911928,
+        "longitude": 55.612064
+    },
+    {
+        "name": "Les Cascades",
+        "country": "Réunion",
+        "province": "Réunion",
+        "population": -1,
+        "latitude": -20.918065,
+        "longitude": 55.613319
+    },
+    {
+        "name": "Îlet Quinquina",
+        "country": "Réunion",
+        "province": "Réunion",
+        "population": -1,
+        "latitude": -20.929923,
+        "longitude": 55.505492
+    },
+    {
+        "name": "Ravine Coco",
+        "country": "Réunion",
+        "province": "Réunion",
+        "population": -1,
+        "latitude": -20.930916,
+        "longitude": 55.544038
+    },
+    {
+        "name": "Ravine des Figues",
+        "country": "Réunion",
+        "province": "Réunion",
+        "population": -1,
+        "latitude": -20.922307,
+        "longitude": 55.536592
+    },
+    {
+        "name": "Bois Court",
+        "country": "Réunion",
+        "province": "Réunion",
+        "population": -1,
+        "latitude": -20.920056,
+        "longitude": 55.542535
+    },
+    {
+        "name": "Bruguier",
+        "country": "Réunion",
+        "province": "Réunion",
+        "population": -1,
+        "latitude": -20.919036,
+        "longitude": 55.55074
+    },
+    {
+        "name": "Apollon",
+        "country": "Réunion",
+        "province": "Réunion",
+        "population": -1,
+        "latitude": -20.94332,
+        "longitude": 55.51758
+    },
+    {
+        "name": "L'Espérance les Bas",
+        "country": "Réunion",
+        "province": "Réunion",
+        "population": -1,
+        "latitude": -20.939277,
+        "longitude": 55.520275
+    },
+    {
+        "name": "L'Allée Coco",
+        "country": "Réunion",
+        "province": "Réunion",
+        "population": -1,
+        "latitude": -20.931361,
+        "longitude": 55.531126
+    },
+    {
+        "name": "Niagara",
+        "country": "Réunion",
+        "province": "Réunion",
+        "population": -1,
+        "latitude": -20.931601,
+        "longitude": 55.588723
+    },
+    {
+        "name": "Monaco",
+        "country": "Réunion",
+        "province": "Réunion",
+        "population": -1,
+        "latitude": -20.927868,
+        "longitude": 55.593588
+    },
+    {
+        "name": "La Liberté",
+        "country": "Réunion",
+        "province": "Réunion",
+        "population": -1,
+        "latitude": -20.938088,
+        "longitude": 55.602333
+    },
+    {
+        "name": "La Butte",
+        "country": "Réunion",
+        "province": "Réunion",
+        "population": -1,
+        "latitude": -20.922931,
+        "longitude": 55.619861
+    },
+    {
+        "name": "La Réserve",
+        "country": "Réunion",
+        "province": "Réunion",
+        "population": -1,
+        "latitude": -20.900145,
+        "longitude": 55.562624
+    },
+    {
+        "name": "Nos Loisirs",
+        "country": "Réunion",
+        "province": "Réunion",
+        "population": -1,
+        "latitude": -20.89894,
+        "longitude": 55.572338
+    },
+    {
+        "name": "Les Jacques",
+        "country": "Réunion",
+        "province": "Réunion",
+        "population": -1,
+        "latitude": -20.903301,
+        "longitude": 55.559496
+    },
+    {
+        "name": "Commune Bègue les Bas",
+        "country": "Réunion",
+        "province": "Réunion",
+        "population": -1,
+        "latitude": -20.939734,
+        "longitude": 55.637792
+    },
+    {
+        "name": "Les Yuccas",
+        "country": "Réunion",
+        "province": "Réunion",
+        "population": -1,
+        "latitude": -20.945784,
+        "longitude": 55.681173
+    },
+    {
+        "name": "La Rue Marchande",
+        "country": "Réunion",
+        "province": "Réunion",
+        "population": -1,
+        "latitude": -20.95021,
+        "longitude": 55.623144
+    },
+    {
+        "name": "Mon Repos",
+        "country": "Réunion",
+        "province": "Réunion",
+        "population": -1,
+        "latitude": -20.955417,
+        "longitude": 55.623334
+    },
+    {
+        "name": "La Ruche",
+        "country": "Réunion",
+        "province": "Réunion",
+        "population": -1,
+        "latitude": -20.959184,
+        "longitude": 55.599196
+    },
+    {
+        "name": "Le Bocage",
+        "country": "Réunion",
+        "province": "Réunion",
+        "population": -1,
+        "latitude": -20.949455,
+        "longitude": 55.640582
+    },
+    {
+        "name": "Le Bocage New York",
+        "country": "Réunion",
+        "province": "Réunion",
+        "population": -1,
+        "latitude": -20.954105,
+        "longitude": 55.641918
+    },
+    {
+        "name": "Lotissement Pelvoisin",
+        "country": "Réunion",
+        "province": "Réunion",
+        "population": -1,
+        "latitude": -20.973405,
+        "longitude": 55.690235
+    },
+    {
+        "name": "Bras Mousseline",
+        "country": "Réunion",
+        "province": "Réunion",
+        "population": -1,
+        "latitude": -20.970437,
+        "longitude": 55.607916
+    },
+    {
+        "name": "La Forêt Dugain",
+        "country": "Réunion",
+        "province": "Réunion",
+        "population": -1,
+        "latitude": -20.97692,
+        "longitude": 55.586213
+    },
+    {
+        "name": "Bras de Fer",
+        "country": "Réunion",
+        "province": "Réunion",
+        "population": -1,
+        "latitude": -20.96395,
+        "longitude": 55.597455
+    },
+    {
+        "name": "Refuge",
+        "country": "Réunion",
+        "province": "Réunion",
+        "population": -1,
+        "latitude": -20.999793,
+        "longitude": 55.66702
+    },
+    {
+        "name": "Libéria",
+        "country": "Réunion",
+        "province": "Réunion",
+        "population": -1,
+        "latitude": -21.004464,
+        "longitude": 55.672859
+    },
+    {
+        "name": "Chemin de Bras Canot",
+        "country": "Réunion",
+        "province": "Réunion",
+        "population": -1,
+        "latitude": -21.043301,
+        "longitude": 55.71522
+    },
+    {
+        "name": "Passe à Jacques",
+        "country": "Réunion",
+        "province": "Réunion",
+        "population": -1,
+        "latitude": -21.037372,
+        "longitude": 55.675977
+    },
+    {
+        "name": "Sainte-Marguerite",
+        "country": "Réunion",
+        "province": "Réunion",
+        "population": -1,
+        "latitude": -21.090049,
+        "longitude": 55.716518
+    },
+    {
+        "name": "Îlet Bananiers",
+        "country": "Réunion",
+        "province": "Réunion",
+        "population": -1,
+        "latitude": -21.035589,
+        "longitude": 55.537684
+    },
+    {
+        "name": "La Pointe",
+        "country": "Réunion",
+        "province": "Réunion",
+        "population": -1,
+        "latitude": -21.044233,
+        "longitude": 55.530362
+    },
+    {
+        "name": "La Pente",
+        "country": "Réunion",
+        "province": "Réunion",
+        "population": -1,
+        "latitude": -21.045642,
+        "longitude": 55.526289
+    },
+    {
+        "name": "La Convalescence",
+        "country": "Réunion",
+        "province": "Réunion",
+        "population": -1,
+        "latitude": -20.92349,
+        "longitude": 55.451779
+    },
+    {
+        "name": "Ravine Laverdure",
+        "country": "Réunion",
+        "province": "Réunion",
+        "population": -1,
+        "latitude": -20.929837,
+        "longitude": 55.450428
+    },
+    {
+        "name": "Macassis",
+        "country": "Réunion",
+        "province": "Réunion",
+        "population": -1,
+        "latitude": -20.936371,
+        "longitude": 55.44677
+    },
+    {
+        "name": "Canal du Brûlé",
+        "country": "Réunion",
+        "province": "Réunion",
+        "population": -1,
+        "latitude": -20.913022,
+        "longitude": 55.440013
+    },
+    {
+        "name": "Montgaillard les Hauts",
+        "country": "Réunion",
+        "province": "Réunion",
+        "population": -1,
+        "latitude": -20.908242,
+        "longitude": 55.466809
+    },
+    {
+        "name": "Le Chemin Diale",
+        "country": "Réunion",
+        "province": "Réunion",
+        "population": -1,
+        "latitude": -21.164129,
+        "longitude": 55.307125
+    },
+    {
+        "name": "Cayenne",
+        "country": "Réunion",
+        "province": "Réunion",
+        "population": -1,
+        "latitude": -21.155245,
+        "longitude": 55.283666
+    },
+    {
+        "name": "Piveteau",
+        "country": "Réunion",
+        "province": "Réunion",
+        "population": -1,
+        "latitude": -21.129066,
+        "longitude": 55.292173
+    },
+    {
+        "name": "Îlet Dijoux",
+        "country": "Réunion",
+        "province": "Réunion",
+        "population": -1,
+        "latitude": -21.12557,
+        "longitude": 55.458832
+    },
+    {
+        "name": "Îlet Méon",
+        "country": "Réunion",
+        "province": "Réunion",
+        "population": -1,
+        "latitude": -21.121912,
+        "longitude": 55.44781
+    },
+    {
+        "name": "La Plaine aux Sables",
+        "country": "Réunion",
+        "province": "Réunion",
+        "population": -1,
+        "latitude": -21.092962,
+        "longitude": 55.420712
+    },
+    {
+        "name": "Le Radier",
+        "country": "Réunion",
+        "province": "Réunion",
+        "population": -1,
+        "latitude": -21.032386,
+        "longitude": 55.513386
+    },
+    {
+        "name": "Le Butor",
+        "country": "Réunion",
+        "province": "Réunion",
+        "population": -1,
+        "latitude": -21.0262,
+        "longitude": 55.514073
+    },
+    {
+        "name": "Bras Sec",
+        "country": "Réunion",
+        "province": "Réunion",
+        "population": -1,
+        "latitude": -21.041449,
+        "longitude": 55.514213
+    },
+    {
+        "name": "Mare d'Affouches",
+        "country": "Réunion",
+        "province": "Réunion",
+        "population": -1,
+        "latitude": -21.054164,
+        "longitude": 55.492534
+    },
+    {
+        "name": "Trou Blanc",
+        "country": "Réunion",
+        "province": "Réunion",
+        "population": -1,
+        "latitude": -21.061449,
+        "longitude": 55.495594
+    },
+    {
+        "name": "Bras Marron",
+        "country": "Réunion",
+        "province": "Réunion",
+        "population": -1,
+        "latitude": -21.06021,
+        "longitude": 55.504756
+    },
+    {
+        "name": "Îlet Cerneau",
+        "country": "Réunion",
+        "province": "Réunion",
+        "population": -1,
+        "latitude": -21.069511,
+        "longitude": 55.426374
+    },
+    {
+        "name": "Îlet à Bourse les Hauts",
+        "country": "Réunion",
+        "province": "Réunion",
+        "population": -1,
+        "latitude": -21.043895,
+        "longitude": 55.429071
+    },
+    {
+        "name": "Cœur de Mafate",
+        "country": "Réunion",
+        "province": "Réunion",
+        "population": -1,
+        "latitude": -21.044921,
+        "longitude": 55.408866
+    },
+    {
+        "name": "Grand-Place les Hauts",
+        "country": "Réunion",
+        "province": "Réunion",
+        "population": -1,
+        "latitude": -21.044745,
+        "longitude": 55.415184
+    },
+    {
+        "name": "Le Pavillon",
+        "country": "Réunion",
+        "province": "Réunion",
+        "population": -1,
+        "latitude": -21.039089,
+        "longitude": 55.409906
+    },
+    {
+        "name": "Îlet Sud",
+        "country": "Réunion",
+        "province": "Réunion",
+        "population": -1,
+        "latitude": -21.025252,
+        "longitude": 55.424069
+    },
+    {
+        "name": "Îlet Jardin",
+        "country": "Réunion",
+        "province": "Réunion",
+        "population": -1,
+        "latitude": -21.022211,
+        "longitude": 55.4292
+    },
+    {
+        "name": "Îlet Albert",
+        "country": "Réunion",
+        "province": "Réunion",
+        "population": -1,
+        "latitude": -20.998958,
+        "longitude": 55.388274
+    },
+    {
+        "name": "Plateau la Mare",
+        "country": "Réunion",
+        "province": "Réunion",
+        "population": -1,
+        "latitude": -21.012852,
+        "longitude": 55.482131
+    },
+    {
+        "name": "Parny",
+        "country": "Réunion",
+        "province": "Réunion",
+        "population": -1,
+        "latitude": -20.936446,
+        "longitude": 55.526523
+    },
+    {
+        "name": "Jupiter",
+        "country": "Réunion",
+        "province": "Réunion",
+        "population": -1,
+        "latitude": -20.915977,
+        "longitude": 55.579136
+    },
+    {
+        "name": "Sainte-Vivienne",
+        "country": "Réunion",
+        "province": "Réunion",
+        "population": -1,
+        "latitude": -20.936685,
+        "longitude": 55.636845
+    },
+    {
+        "name": "Lianes Passage",
+        "country": "Réunion",
+        "province": "Réunion",
+        "population": -1,
+        "latitude": -21.338496,
+        "longitude": 55.586656
+    },
+    {
+        "name": "Le Souffleur d'Arbonne",
+        "country": "Réunion",
+        "province": "Réunion",
+        "population": -1,
+        "latitude": -21.36749,
+        "longitude": 55.737117
+    },
+    {
+        "name": "Îlet Cazal",
+        "country": "Réunion",
+        "province": "Réunion",
+        "population": -1,
+        "latitude": -21.364017,
+        "longitude": 55.74251
+    },
+    {
+        "name": "La Marine",
+        "country": "Réunion",
+        "province": "Réunion",
+        "population": -1,
+        "latitude": -21.363838,
+        "longitude": 55.767466
+    },
+    {
+        "name": "Bonne Espérance",
+        "country": "Réunion",
+        "province": "Réunion",
+        "population": -1,
+        "latitude": -21.125547,
+        "longitude": 55.769211
+    },
+    {
+        "name": "La Montée de Villeneuve",
+        "country": "Réunion",
+        "province": "Réunion",
+        "population": -1,
+        "latitude": -21.35432,
+        "longitude": 55.514628
+    },
+    {
+        "name": "La Balance",
+        "country": "Réunion",
+        "province": "Réunion",
+        "population": -1,
+        "latitude": -21.326323,
+        "longitude": 55.445601
+    },
+    {
+        "name": "L'Établissement",
+        "country": "Réunion",
+        "province": "Réunion",
+        "population": -1,
+        "latitude": -21.371031,
+        "longitude": 55.585282
+    },
+    {
+        "name": "Bras Panon",
+        "country": "Réunion",
+        "province": "Réunion",
+        "population": -1,
+        "latitude": -21.37058,
+        "longitude": 55.67785
+    },
+    {
+        "name": "Le Cap",
+        "country": "Réunion",
+        "province": "Réunion",
+        "population": -1,
+        "latitude": -21.254751,
+        "longitude": 55.382781
+    },
+    {
+        "name": "Grande Terre",
+        "country": "Réunion",
+        "province": "Réunion",
+        "population": -1,
+        "latitude": -21.229356,
+        "longitude": 55.328762
+    },
+    {
+        "name": "Bellecombe",
+        "country": "Réunion",
+        "province": "Réunion",
+        "population": -1,
+        "latitude": -21.225321,
+        "longitude": 55.335677
+    },
+    {
+        "name": "La Pointe au Sel",
+        "country": "Réunion",
+        "province": "Réunion",
+        "population": -1,
+        "latitude": -21.198982,
+        "longitude": 55.283382
+    },
+    {
+        "name": "Pierre Paillard",
+        "country": "Réunion",
+        "province": "Réunion",
+        "population": -1,
+        "latitude": -21.194936,
+        "longitude": 55.31155
+    },
+    {
+        "name": "Le Chemin Canal",
+        "country": "Réunion",
+        "province": "Réunion",
+        "population": -1,
+        "latitude": -21.178074,
+        "longitude": 55.292423
+    },
+    {
+        "name": "La Pente Maingard",
+        "country": "Réunion",
+        "province": "Réunion",
+        "population": -1,
+        "latitude": -21.17952,
+        "longitude": 55.328299
+    },
+    {
+        "name": "Bac en Fer",
+        "country": "Réunion",
+        "province": "Réunion",
+        "population": -1,
+        "latitude": -21.185998,
+        "longitude": 55.32871
+    },
+    {
+        "name": "Bras Sec les Hauts",
+        "country": "Réunion",
+        "province": "Réunion",
+        "population": -1,
+        "latitude": -21.213082,
+        "longitude": 55.362927
+    },
+    {
+        "name": "La Route Delisle",
+        "country": "Réunion",
+        "province": "Réunion",
+        "population": -1,
+        "latitude": -21.215413,
+        "longitude": 55.339812
+    },
+    {
+        "name": "Les Canots les Hauts",
+        "country": "Réunion",
+        "province": "Réunion",
+        "population": -1,
+        "latitude": -21.238807,
+        "longitude": 55.372271
+    },
+    {
+        "name": "Lotissement Cross",
+        "country": "Réunion",
+        "province": "Réunion",
+        "population": -1,
+        "latitude": -21.059517,
+        "longitude": 55.306871
+    },
+    {
+        "name": "Les Palmistes",
+        "country": "Réunion",
+        "province": "Réunion",
+        "population": -1,
+        "latitude": -21.057656,
+        "longitude": 55.311233
+    },
+    {
+        "name": "Ligne Bambous",
+        "country": "Réunion",
+        "province": "Réunion",
+        "population": -1,
+        "latitude": -21.045054,
+        "longitude": 55.303795
+    },
+    {
+        "name": "La Petite Savoie",
+        "country": "Réunion",
+        "province": "Réunion",
+        "population": -1,
+        "latitude": -21.055119,
+        "longitude": 55.354718
+    },
+    {
+        "name": "Ligne Matouta",
+        "country": "Réunion",
+        "province": "Réunion",
+        "population": -1,
+        "latitude": -21.36561,
+        "longitude": 55.68631
+    },
+    {
+        "name": "Manapany les Bas",
+        "country": "Réunion",
+        "province": "Réunion",
+        "population": -1,
+        "latitude": -21.368844,
+        "longitude": 55.575072
+    },
+    {
+        "name": "Bourbier les Bas",
+        "country": "Réunion",
+        "province": "Réunion",
+        "population": -1,
+        "latitude": -21.022481,
+        "longitude": 55.702603
+    },
+    {
+        "name": "Bourbier les Hauts",
+        "country": "Réunion",
+        "province": "Réunion",
+        "population": -1,
+        "latitude": -21.031102,
+        "longitude": 55.69134
+    },
+    {
+        "name": "Les Colimaçons les Hauts",
+        "country": "Réunion",
+        "province": "Réunion",
+        "population": -1,
+        "latitude": -21.130542,
+        "longitude": 55.305169
+    },
+    {
+        "name": "Le Lambert les Hauts",
+        "country": "Réunion",
+        "province": "Réunion",
+        "population": -1,
+        "latitude": -21.244075,
+        "longitude": 55.374034
+    },
+    {
+        "name": "Vue Belle",
+        "country": "Réunion",
+        "province": "Réunion",
+        "population": -1,
+        "latitude": -21.07884,
+        "longitude": 55.275002
+    },
+    {
+        "name": "Petit Bazar",
+        "country": "Réunion",
+        "province": "Réunion",
+        "population": -1,
+        "latitude": -20.944171,
+        "longitude": 55.649862
+    },
+    {
+        "name": "Le Titan",
+        "country": "Réunion",
+        "province": "Réunion",
+        "population": -1,
+        "latitude": -20.93958,
+        "longitude": 55.283788
+    },
+    {
+        "name": "La Découverte",
+        "country": "Réunion",
+        "province": "Réunion",
+        "population": -1,
+        "latitude": -20.900495,
+        "longitude": 55.548579
+    },
+    {
+        "name": "La Croix",
+        "country": "Réunion",
+        "province": "Réunion",
+        "population": -1,
+        "latitude": -21.232897,
+        "longitude": 55.330974
+    },
+    {
+        "name": "La Butte",
+        "country": "Réunion",
+        "province": "Réunion",
+        "population": -1,
+        "latitude": -20.932282,
+        "longitude": 55.291577
+    },
+    {
+        "name": "Halte-là",
+        "country": "Réunion",
+        "province": "Réunion",
+        "population": -1,
+        "latitude": -20.964415,
+        "longitude": 55.330648
+    },
+    {
+        "name": "La Cressonnière",
+        "country": "Réunion",
+        "province": "Réunion",
+        "population": -1,
+        "latitude": -20.974074,
+        "longitude": 55.657166
+    },
+    {
+        "name": "Mille Roches",
+        "country": "Réunion",
+        "province": "Réunion",
+        "population": -1,
+        "latitude": -20.971006,
+        "longitude": 55.653118
+    },
+    {
+        "name": "Les Flamboyants",
+        "country": "Réunion",
+        "province": "Réunion",
+        "population": -1,
+        "latitude": -20.970419,
+        "longitude": 55.658689
+    },
+    {
+        "name": "Le Verger",
+        "country": "Réunion",
+        "province": "Réunion",
+        "population": -1,
+        "latitude": -20.899427,
+        "longitude": 55.544495
+    },
+    {
+        "name": "Le Grand Coin",
+        "country": "Réunion",
+        "province": "Réunion",
+        "population": -1,
+        "latitude": -20.980035,
+        "longitude": 55.39704
+    },
+    {
+        "name": "Le Camp Magloire",
+        "country": "Réunion",
+        "province": "Réunion",
+        "population": -1,
+        "latitude": -20.925043,
+        "longitude": 55.341602
+    },
+    {
+        "name": "Cité André Robert",
+        "country": "Réunion",
+        "province": "Réunion",
+        "population": -1,
+        "latitude": -20.927007,
+        "longitude": 55.342699
+    },
+    {
+        "name": "La Corniche",
+        "country": "Réunion",
+        "province": "Réunion",
+        "population": -1,
+        "latitude": -20.928813,
+        "longitude": 55.341747
+    },
+    {
+        "name": "Cité Jacques Duclos",
+        "country": "Réunion",
+        "province": "Réunion",
+        "population": -1,
+        "latitude": -20.933016,
+        "longitude": 55.33267
+    },
+    {
+        "name": "Lotissement du Cap Noir",
+        "country": "Réunion",
+        "province": "Réunion",
+        "population": -1,
+        "latitude": -20.956544,
+        "longitude": 55.339124
+    },
+    {
+        "name": "Le Moulin Joli",
+        "country": "Réunion",
+        "province": "Réunion",
+        "population": -1,
+        "latitude": -20.962006,
+        "longitude": 55.332013
+    },
+    {
+        "name": "Crève-Cœur",
+        "country": "Réunion",
+        "province": "Réunion",
+        "population": -1,
+        "latitude": -21.018133,
+        "longitude": 55.286999
+    },
+    {
+        "name": "Moulin Kader",
+        "country": "Réunion",
+        "province": "Réunion",
+        "population": -1,
+        "latitude": -21.055522,
+        "longitude": 55.232867
+    },
+    {
+        "name": "Tamatave",
+        "country": "Réunion",
+        "province": "Réunion",
+        "population": -1,
+        "latitude": -21.046001,
+        "longitude": 55.262667
+    },
+    {
+        "name": "Grande Terre",
+        "country": "Réunion",
+        "province": "Réunion",
+        "population": -1,
+        "latitude": -21.039971,
+        "longitude": 55.267298
+    },
+    {
+        "name": "La Redoute",
+        "country": "Réunion",
+        "province": "Réunion",
+        "population": -1,
+        "latitude": -20.88297,
+        "longitude": 55.441249
+    },
+    {
+        "name": "Vauban",
+        "country": "Réunion",
+        "province": "Réunion",
+        "population": -1,
+        "latitude": -20.888869,
+        "longitude": 55.462652
+    },
+    {
+        "name": "Château Morange",
+        "country": "Réunion",
+        "province": "Réunion",
+        "population": -1,
+        "latitude": -20.891983,
+        "longitude": 55.463774
+    },
+    {
+        "name": "Cité Michel Debré",
+        "country": "Réunion",
+        "province": "Réunion",
+        "population": -1,
+        "latitude": -20.891294,
+        "longitude": 55.489002
+    },
+    {
+        "name": "Fond de Bac",
+        "country": "Réunion",
+        "province": "Réunion",
+        "population": -1,
+        "latitude": -20.964977,
+        "longitude": 55.326572
+    },
+    {
+        "name": "Lotissement Cotur",
+        "country": "Réunion",
+        "province": "Réunion",
+        "population": -1,
+        "latitude": -20.948768,
+        "longitude": 55.297062
+    },
+    {
+        "name": "Les Chocas",
+        "country": "Réunion",
+        "province": "Réunion",
+        "population": -1,
+        "latitude": -20.977298,
+        "longitude": 55.324443
+    },
+    {
+        "name": "Le Parc à Jacques",
+        "country": "Réunion",
+        "province": "Réunion",
+        "population": -1,
+        "latitude": -20.985188,
+        "longitude": 55.294635
+    },
+    {
+        "name": "Le Poteau Vert",
+        "country": "Réunion",
+        "province": "Réunion",
+        "population": -1,
+        "latitude": -20.983431,
+        "longitude": 55.387556
+    },
+    {
+        "name": "Les Coteaux du Bernica",
+        "country": "Réunion",
+        "province": "Réunion",
+        "population": -1,
+        "latitude": -21.022899,
+        "longitude": 55.271118
+    },
+    {
+        "name": "Le Carré Bleu",
+        "country": "Réunion",
+        "province": "Réunion",
+        "population": -1,
+        "latitude": -20.940919,
+        "longitude": 55.335457
+    },
+    {
+        "name": "Lotissement Lapinsonnière",
+        "country": "Réunion",
+        "province": "Réunion",
+        "population": -1,
+        "latitude": -20.953912,
+        "longitude": 55.336766
+    },
+    {
+        "name": "La Poudrière",
+        "country": "Réunion",
+        "province": "Réunion",
+        "population": -1,
+        "latitude": -21.01385,
+        "longitude": 55.275464
+    },
+    {
+        "name": "Le Hameau de Corbara",
+        "country": "Réunion",
+        "province": "Réunion",
+        "population": -1,
+        "latitude": -21.026736,
+        "longitude": 55.274819
+    },
+    {
+        "name": "Les Trois Chemins",
+        "country": "Réunion",
+        "province": "Réunion",
+        "population": -1,
+        "latitude": -21.023198,
+        "longitude": 55.286324
+    },
+    {
+        "name": "Carosse",
+        "country": "Réunion",
+        "province": "Réunion",
+        "population": -1,
+        "latitude": -21.056509,
+        "longitude": 55.228753
+    },
+    {
+        "name": "Roquefeuil",
+        "country": "Réunion",
+        "province": "Réunion",
+        "population": -1,
+        "latitude": -21.061467,
+        "longitude": 55.227737
+    },
+    {
+        "name": "Quartier Eucalyptus",
+        "country": "Réunion",
+        "province": "Réunion",
+        "population": -1,
+        "latitude": -21.078275,
+        "longitude": 55.263493
+    },
+    {
+        "name": "Fond de Puits",
+        "country": "Réunion",
+        "province": "Réunion",
+        "population": -1,
+        "latitude": -21.071397,
+        "longitude": 55.259247
+    },
+    {
+        "name": "Chemin Commune",
+        "country": "Réunion",
+        "province": "Réunion",
+        "population": -1,
+        "latitude": -21.10131,
+        "longitude": 55.271168
+    },
+    {
+        "name": "Perron",
+        "country": "Réunion",
+        "province": "Réunion",
+        "population": -1,
+        "latitude": -21.09972,
+        "longitude": 55.277137
+    },
+    {
+        "name": "Indigo",
+        "country": "Réunion",
+        "province": "Réunion",
+        "population": -1,
+        "latitude": -20.895648,
+        "longitude": 55.555275
+    },
+    {
+        "name": "Les Manguiers",
+        "country": "Réunion",
+        "province": "Réunion",
+        "population": -1,
+        "latitude": -20.976799,
+        "longitude": 55.659556
+    },
+    {
+        "name": "Îlet la Source",
+        "country": "Réunion",
+        "province": "Réunion",
+        "population": -1,
+        "latitude": -20.918453,
+        "longitude": 55.489568
+    },
+    {
+        "name": "Les Acacias",
+        "country": "Réunion",
+        "province": "Réunion",
+        "population": -1,
+        "latitude": -21.143367,
+        "longitude": 55.276955
+    },
+    {
+        "name": "Le Bras des Étangs",
+        "country": "Réunion",
+        "province": "Réunion",
+        "population": -1,
+        "latitude": -21.134841,
+        "longitude": 55.467961
+    },
+    {
+        "name": "Villa Folio",
+        "country": "Réunion",
+        "province": "Réunion",
+        "population": -1,
+        "latitude": -21.063316,
+        "longitude": 55.517305
+    },
+    {
+        "name": "Camp Ozoux",
+        "country": "Réunion",
+        "province": "Réunion",
+        "population": -1,
+        "latitude": -21.061178,
+        "longitude": 55.52261
+    },
+    {
+        "name": "Bellevue",
+        "country": "Réunion",
+        "province": "Réunion",
+        "population": -1,
+        "latitude": -21.06392,
+        "longitude": 55.524177
+    },
+    {
+        "name": "Trou de Sas",
+        "country": "Réunion",
+        "province": "Réunion",
+        "population": -1,
+        "latitude": -21.348456,
+        "longitude": 55.491604
+    },
+    {
+        "name": "Le Petit Paris",
+        "country": "Réunion",
+        "province": "Réunion",
+        "population": -1,
+        "latitude": -21.334194,
+        "longitude": 55.456661
+    },
+    {
+        "name": "La Saline",
+        "country": "Réunion",
+        "province": "Réunion",
+        "population": -1,
+        "latitude": -21.323935,
+        "longitude": 55.451658
+    },
+    {
+        "name": "Le Bois de Nèfles",
+        "country": "Réunion",
+        "province": "Réunion",
+        "population": -1,
+        "latitude": -21.266473,
+        "longitude": 55.373084
+    },
+    {
+        "name": "Pied des Roches",
+        "country": "Réunion",
+        "province": "Réunion",
+        "population": -1,
+        "latitude": -21.260641,
+        "longitude": 55.36455
+    },
+    {
+        "name": "Ravine Sheunon",
+        "country": "Réunion",
+        "province": "Réunion",
+        "population": -1,
+        "latitude": -21.256234,
+        "longitude": 55.367347
+    },
+    {
+        "name": "La Roche aux Oiseaux",
+        "country": "Réunion",
+        "province": "Réunion",
+        "population": -1,
+        "latitude": -21.267351,
+        "longitude": 55.33528
+    },
+    {
+        "name": "Domaine Roche Carangue",
+        "country": "Réunion",
+        "province": "Réunion",
+        "population": -1,
+        "latitude": -21.274531,
+        "longitude": 55.337193
+    },
+    {
+        "name": "Ravine Sèche les Bas",
+        "country": "Réunion",
+        "province": "Réunion",
+        "population": -1,
+        "latitude": -21.255566,
+        "longitude": 55.357637
+    },
+    {
+        "name": "Le Bois de Nèfles",
+        "country": "Réunion",
+        "province": "Réunion",
+        "population": -1,
+        "latitude": -21.243484,
+        "longitude": 55.33102
+    },
+    {
+        "name": "Le Bois de Nèfles Cadet",
+        "country": "Réunion",
+        "province": "Réunion",
+        "population": -1,
+        "latitude": -21.23845,
+        "longitude": 55.329596
+    },
+    {
+        "name": "Le Ruisseau",
+        "country": "Réunion",
+        "province": "Réunion",
+        "population": -1,
+        "latitude": -21.236373,
+        "longitude": 55.332491
+    },
+    {
+        "name": "Lotissement des Agapanthes",
+        "country": "Réunion",
+        "province": "Réunion",
+        "population": -1,
+        "latitude": -21.152728,
+        "longitude": 55.318547
+    },
+    {
+        "name": "Lotissement Rosselin",
+        "country": "Réunion",
+        "province": "Réunion",
+        "population": -1,
+        "latitude": -21.08558,
+        "longitude": 55.266468
+    },
+    {
+        "name": "Sainte-Thérèse d'Avila",
+        "country": "Réunion",
+        "province": "Réunion",
+        "population": -1,
+        "latitude": -21.08464,
+        "longitude": 55.272296
+    },
+    {
+        "name": "Lotissement Gayette",
+        "country": "Réunion",
+        "province": "Réunion",
+        "population": -1,
+        "latitude": -21.04784,
+        "longitude": 55.273133
+    },
+    {
+        "name": "Parc de la Poudrière",
+        "country": "Réunion",
+        "province": "Réunion",
+        "population": -1,
+        "latitude": -20.983384,
+        "longitude": 55.283989
+    }
+]
