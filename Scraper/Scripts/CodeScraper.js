@@ -1,40 +1,47 @@
 const fs = require("fs");
 
 const scraperObject = {
-  url: "https://www.geonames.org/advanced-search.html?q=&country=CS&featureClass=P&continentCode=",
+  url: "https://www.geonames.org/countries/",
   async scraper(browser, sortiment) {
     let page = await browser.newPage();
     console.log(`Navigating to ${this.url}...`);
 
     await page.goto(`${this.url}`, {waitUntil: "domcontentloaded"});
     // Wait for the required DOM to be rendered
+    const list = [];
 
-    // get list of all coutries short name
-    var elements = await page.waitForXPath('//*[@id="search"]/form/select')
     
-    let countries = await page.evaluate(elements => {
-      const list = [];
-      let notUse = 2;
-      for(const element of elements){
-        if(notUse) {
-          notUse--;
-          continue;
-        }
-        try{
-          list.push({
-            "CountryCode" : element.getAttribute("value"),
-            "CountryName" : element.textContent.substring(1)
-          });
-        } catch{}
+    for(let index = 1; ;index++){
+      try{
+        var elementCC = await page.waitForXPath('//*[@id="countries"]/tbody/tr['+ index.toString() +']/td[1]', {timeout: 3000});
+        var elementName = await page.waitForXPath('//*[@id="countries"]/tbody/tr['+ index.toString() +']/td[5]', {timeout: 3000});
+        var elementArea = await page.waitForXPath('//*[@id="countries"]/tbody/tr['+ index.toString() +']/td[7]', {timeout: 3000});
+        var elementPopulation = await page.waitForXPath('//*[@id="countries"]/tbody/tr['+ index.toString() +']/td[8]', {timeout: 3000});
+        var elementContinent = await page.waitForXPath('//*[@id="countries"]/tbody/tr['+ index.toString() +']/td[9]', {timeout: 3000});
+        
+        let countryData = await page.evaluate((elementCC, elementName, elementArea, elementPopulation, elementContinent) => {
+          return{
+            "CountryCode" : elementCC.textContent,
+            "CountryName" : elementName.textContent,
+            "CountryArea" : elementArea.textContent,
+            "CountryPopulation" : elementPopulation.textContent,
+            "CountryContinent" : elementContinent.textContent
+          };
+        }, elementCC, elementName, elementArea, elementPopulation, elementContinent);  
+        countryData["CountryArea"] = parseFloat(countryData["CountryArea"]);
+        countryData["CountryPopulation"] = parseInt(countryData["CountryPopulation"]);
+        // console.log(countryData);
+        list.push(countryData);
+
+      }catch{
+        break;
       }
-      
-      return list;
-    }, elements);
-    console.log(countries);
+    }
+
 
     fs.writeFile(
-      `${sortiment.split("/").join("-")}.json`,
-      JSON.stringify(countries),
+      `${sortiment.split(" ").join("-")}.json`,
+      JSON.stringify(list),
       "utf8",
       function (err) {
         if (err) {
@@ -46,7 +53,7 @@ const scraperObject = {
       }
     );
 
-    // await page.close();
+    await page.close();
   },
 };
 

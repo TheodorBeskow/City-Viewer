@@ -22,7 +22,7 @@ const scraperObject = {
         try{
           await page.waitForXPath('//*[@id="search"]/table/tbody/tr['+(city+1).toString()+']', {timeout: 1000})
         }catch{
-          console.log("End of Cities:", CountryIndex+city-2);
+          console.log("End of Cities:", CountryIndex+city-3);
           FoundEnd = true;
           break
         }
@@ -43,7 +43,7 @@ const scraperObject = {
         let country = await page.waitForXPath('//*[@id="search"]/table/tbody/tr['+city.toString()+']/td[3]'+(CountryLess?'':'/a'));
         try{
           var province = await page.waitForXPath('//*[@id="search"]/table/tbody/tr['+city.toString()+']/td[3]/text()', {timeout: 1000})
-        } catch {
+        } catch { 
           console.log("Province set to country:", CountryIndex+city-2);
           province = country
         }

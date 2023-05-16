@@ -8,7 +8,7 @@ async function scrapeAll(browserInstance, country) {
     // Geonames
     await pageScraper.scraper(
       browser,
-      `Countries/${country["CountryCode"]}`,
+      `Scraper/Countries/${country["CountryCode"]}`,
       country,
     );
   } catch (err) {

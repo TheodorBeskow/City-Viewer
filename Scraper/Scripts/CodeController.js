@@ -8,7 +8,7 @@ async function scrapeAll(browserInstance) {
     // Geonames
     await pageScraper.scraper(
       browser,
-      "CountryCodes",
+      "Scraper/CountryCodes",
     );
   } catch (err) {
     console.log("Could not resolve the browser instance => ", err);
