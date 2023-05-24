@@ -28,6 +28,8 @@ const scraperObject = {
             "CountryContinent" : elementContinent.textContent
           };
         }, elementCC, elementName, elementArea, elementPopulation, elementContinent);  
+        countryData["CountryArea"] = countryData["CountryArea"].replace(/,/g, "");
+        countryData["CountryPopulation"] = countryData["CountryPopulation"].replace(/,/g, "");
         countryData["CountryArea"] = parseFloat(countryData["CountryArea"]);
         countryData["CountryPopulation"] = parseInt(countryData["CountryPopulation"]);
         // console.log(countryData);

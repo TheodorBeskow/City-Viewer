@@ -3,231 +3,231 @@
         "CountryCode": "AD",
         "CountryName": "Andorra",
         "CountryArea": 468,
-        "CountryPopulation": 77,
+        "CountryPopulation": 77006,
         "CountryContinent": "EU"
     },
     {
         "CountryCode": "AE",
         "CountryName": "United Arab Emirates",
-        "CountryArea": 82,
-        "CountryPopulation": 9,
+        "CountryArea": 82880,
+        "CountryPopulation": 9630959,
         "CountryContinent": "AS"
     },
     {
         "CountryCode": "AF",
         "CountryName": "Afghanistan",
-        "CountryArea": 647,
-        "CountryPopulation": 37,
+        "CountryArea": 647500,
+        "CountryPopulation": 37172386,
         "CountryContinent": "AS"
     },
     {
         "CountryCode": "AG",
         "CountryName": "Antigua and Barbuda",
         "CountryArea": 443,
-        "CountryPopulation": 96,
+        "CountryPopulation": 96286,
         "CountryContinent": "NA"
     },
     {
         "CountryCode": "AI",
         "CountryName": "Anguilla",
         "CountryArea": 102,
-        "CountryPopulation": 13,
+        "CountryPopulation": 13254,
         "CountryContinent": "NA"
     },
     {
         "CountryCode": "AL",
         "CountryName": "Albania",
-        "CountryArea": 28,
-        "CountryPopulation": 2,
+        "CountryArea": 28748,
+        "CountryPopulation": 2866376,
         "CountryContinent": "EU"
     },
     {
         "CountryCode": "AM",
         "CountryName": "Armenia",
-        "CountryArea": 29,
-        "CountryPopulation": 2,
+        "CountryArea": 29800,
+        "CountryPopulation": 2951776,
         "CountryContinent": "AS"
     },
     {
         "CountryCode": "AO",
         "CountryName": "Angola",
-        "CountryArea": 1,
-        "CountryPopulation": 30,
+        "CountryArea": 1246700,
+        "CountryPopulation": 30809762,
         "CountryContinent": "AF"
     },
     {
         "CountryCode": "AQ",
         "CountryName": "Antarctica",
-        "CountryArea": 14,
+        "CountryArea": 14000000,
         "CountryPopulation": 0,
         "CountryContinent": "AN"
     },
     {
         "CountryCode": "AR",
         "CountryName": "Argentina",
-        "CountryArea": 2,
-        "CountryPopulation": 44,
+        "CountryArea": 2766890,
+        "CountryPopulation": 44494502,
         "CountryContinent": "SA"
     },
     {
         "CountryCode": "AS",
         "CountryName": "American Samoa",
         "CountryArea": 199,
-        "CountryPopulation": 55,
+        "CountryPopulation": 55465,
         "CountryContinent": "OC"
     },
     {
         "CountryCode": "AT",
         "CountryName": "Austria",
-        "CountryArea": 83,
-        "CountryPopulation": 8,
+        "CountryArea": 83858,
+        "CountryPopulation": 8847037,
         "CountryContinent": "EU"
     },
     {
         "CountryCode": "AU",
         "CountryName": "Australia",
-        "CountryArea": 7,
-        "CountryPopulation": 24,
+        "CountryArea": 7686850,
+        "CountryPopulation": 24992369,
         "CountryContinent": "OC"
     },
     {
         "CountryCode": "AW",
         "CountryName": "Aruba",
         "CountryArea": 193,
-        "CountryPopulation": 105,
+        "CountryPopulation": 105845,
         "CountryContinent": "NA"
     },
     {
         "CountryCode": "AX",
         "CountryName": "Åland",
-        "CountryArea": 1,
-        "CountryPopulation": 26,
+        "CountryArea": 1580,
+        "CountryPopulation": 26711,
         "CountryContinent": "EU"
     },
     {
         "CountryCode": "AZ",
         "CountryName": "Azerbaijan",
-        "CountryArea": 86,
-        "CountryPopulation": 9,
+        "CountryArea": 86600,
+        "CountryPopulation": 9942334,
         "CountryContinent": "AS"
     },
     {
         "CountryCode": "BA",
         "CountryName": "Bosnia and Herzegovina",
-        "CountryArea": 51,
-        "CountryPopulation": 3,
+        "CountryArea": 51129,
+        "CountryPopulation": 3323929,
         "CountryContinent": "EU"
     },
     {
         "CountryCode": "BB",
         "CountryName": "Barbados",
         "CountryArea": 431,
-        "CountryPopulation": 286,
+        "CountryPopulation": 286641,
         "CountryContinent": "NA"
     },
     {
         "CountryCode": "BD",
         "CountryName": "Bangladesh",
-        "CountryArea": 144,
-        "CountryPopulation": 161,
+        "CountryArea": 144000,
+        "CountryPopulation": 161356039,
         "CountryContinent": "AS"
     },
     {
         "CountryCode": "BE",
         "CountryName": "Belgium",
-        "CountryArea": 30,
-        "CountryPopulation": 11,
+        "CountryArea": 30510,
+        "CountryPopulation": 11422068,
         "CountryContinent": "EU"
     },
     {
         "CountryCode": "BF",
         "CountryName": "Burkina Faso",
-        "CountryArea": 274,
-        "CountryPopulation": 19,
+        "CountryArea": 274200,
+        "CountryPopulation": 19751535,
         "CountryContinent": "AF"
     },
     {
         "CountryCode": "BG",
         "CountryName": "Bulgaria",
-        "CountryArea": 110,
-        "CountryPopulation": 7,
+        "CountryArea": 110910,
+        "CountryPopulation": 7000039,
         "CountryContinent": "EU"
     },
     {
         "CountryCode": "BH",
         "CountryName": "Bahrain",
         "CountryArea": 665,
-        "CountryPopulation": 1,
+        "CountryPopulation": 1569439,
         "CountryContinent": "AS"
     },
     {
         "CountryCode": "BI",
         "CountryName": "Burundi",
-        "CountryArea": 27,
-        "CountryPopulation": 11,
+        "CountryArea": 27830,
+        "CountryPopulation": 11175378,
         "CountryContinent": "AF"
     },
     {
         "CountryCode": "BJ",
         "CountryName": "Benin",
-        "CountryArea": 112,
-        "CountryPopulation": 11,
+        "CountryArea": 112620,
+        "CountryPopulation": 11485048,
         "CountryContinent": "AF"
     },
     {
         "CountryCode": "BL",
         "CountryName": "Saint Barthélemy",
         "CountryArea": 21,
-        "CountryPopulation": 8,
+        "CountryPopulation": 8450,
         "CountryContinent": "NA"
     },
     {
         "CountryCode": "BM",
         "CountryName": "Bermuda",
         "CountryArea": 53,
-        "CountryPopulation": 63,
+        "CountryPopulation": 63968,
         "CountryContinent": "NA"
     },
     {
         "CountryCode": "BN",
         "CountryName": "Brunei",
-        "CountryArea": 5,
-        "CountryPopulation": 428,
+        "CountryArea": 5770,
+        "CountryPopulation": 428962,
         "CountryContinent": "AS"
     },
     {
         "CountryCode": "BO",
         "CountryName": "Bolivia",
-        "CountryArea": 1,
-        "CountryPopulation": 11,
+        "CountryArea": 1098580,
+        "CountryPopulation": 11353142,
         "CountryContinent": "SA"
     },
     {
         "CountryCode": "BQ",
         "CountryName": "Bonaire, Sint Eustatius, and Saba",
         "CountryArea": 328,
-        "CountryPopulation": 18,
+        "CountryPopulation": 18012,
         "CountryContinent": "NA"
     },
     {
         "CountryCode": "BR",
         "CountryName": "Brazil",
-        "CountryArea": 8,
-        "CountryPopulation": 209,
+        "CountryArea": 8511965,
+        "CountryPopulation": 209469333,
         "CountryContinent": "SA"
     },
     {
         "CountryCode": "BS",
         "CountryName": "Bahamas",
-        "CountryArea": 13,
-        "CountryPopulation": 385,
+        "CountryArea": 13940,
+        "CountryPopulation": 385640,
         "CountryContinent": "NA"
     },
     {
         "CountryCode": "BT",
         "CountryName": "Bhutan",
-        "CountryArea": 47,
-        "CountryPopulation": 754,
+        "CountryArea": 47000,
+        "CountryPopulation": 754394,
         "CountryContinent": "AS"
     },
     {
@@ -240,29 +240,29 @@
     {
         "CountryCode": "BW",
         "CountryName": "Botswana",
-        "CountryArea": 600,
-        "CountryPopulation": 2,
+        "CountryArea": 600370,
+        "CountryPopulation": 2254126,
         "CountryContinent": "AF"
     },
     {
         "CountryCode": "BY",
         "CountryName": "Belarus",
-        "CountryArea": 207,
-        "CountryPopulation": 9,
+        "CountryArea": 207600,
+        "CountryPopulation": 9485386,
         "CountryContinent": "EU"
     },
     {
         "CountryCode": "BZ",
         "CountryName": "Belize",
-        "CountryArea": 22,
-        "CountryPopulation": 383,
+        "CountryArea": 22966,
+        "CountryPopulation": 383071,
         "CountryContinent": "NA"
     },
     {
         "CountryCode": "CA",
         "CountryName": "Canada",
-        "CountryArea": 9,
-        "CountryPopulation": 37,
+        "CountryArea": 9984670,
+        "CountryPopulation": 37058856,
         "CountryContinent": "NA"
     },
     {
@@ -275,393 +275,393 @@
     {
         "CountryCode": "CD",
         "CountryName": "DR Congo",
-        "CountryArea": 2,
-        "CountryPopulation": 84,
+        "CountryArea": 2345410,
+        "CountryPopulation": 84068091,
         "CountryContinent": "AF"
     },
     {
         "CountryCode": "CF",
         "CountryName": "Central African Republic",
-        "CountryArea": 622,
-        "CountryPopulation": 4,
+        "CountryArea": 622984,
+        "CountryPopulation": 4666377,
         "CountryContinent": "AF"
     },
     {
         "CountryCode": "CG",
         "CountryName": "Congo Republic",
-        "CountryArea": 342,
-        "CountryPopulation": 5,
+        "CountryArea": 342000,
+        "CountryPopulation": 5244363,
         "CountryContinent": "AF"
     },
     {
         "CountryCode": "CH",
         "CountryName": "Switzerland",
-        "CountryArea": 41,
-        "CountryPopulation": 8,
+        "CountryArea": 41290,
+        "CountryPopulation": 8516543,
         "CountryContinent": "EU"
     },
     {
         "CountryCode": "CI",
         "CountryName": "Ivory Coast",
-        "CountryArea": 322,
-        "CountryPopulation": 25,
+        "CountryArea": 322460,
+        "CountryPopulation": 25069229,
         "CountryContinent": "AF"
     },
     {
         "CountryCode": "CK",
         "CountryName": "Cook Islands",
         "CountryArea": 240,
-        "CountryPopulation": 21,
+        "CountryPopulation": 21388,
         "CountryContinent": "OC"
     },
     {
         "CountryCode": "CL",
         "CountryName": "Chile",
-        "CountryArea": 756,
-        "CountryPopulation": 18,
+        "CountryArea": 756950,
+        "CountryPopulation": 18729160,
         "CountryContinent": "SA"
     },
     {
         "CountryCode": "CM",
         "CountryName": "Cameroon",
-        "CountryArea": 475,
-        "CountryPopulation": 25,
+        "CountryArea": 475440,
+        "CountryPopulation": 25216237,
         "CountryContinent": "AF"
     },
     {
         "CountryCode": "CN",
         "CountryName": "China",
-        "CountryArea": 9,
-        "CountryPopulation": 1,
+        "CountryArea": 9596960,
+        "CountryPopulation": 1411778724,
         "CountryContinent": "AS"
     },
     {
         "CountryCode": "CO",
         "CountryName": "Colombia",
-        "CountryArea": 1,
-        "CountryPopulation": 49,
+        "CountryArea": 1138910,
+        "CountryPopulation": 49648685,
         "CountryContinent": "SA"
     },
     {
         "CountryCode": "CR",
         "CountryName": "Costa Rica",
-        "CountryArea": 51,
-        "CountryPopulation": 4,
+        "CountryArea": 51100,
+        "CountryPopulation": 4999441,
         "CountryContinent": "NA"
     },
     {
         "CountryCode": "CU",
         "CountryName": "Cuba",
-        "CountryArea": 110,
-        "CountryPopulation": 11,
+        "CountryArea": 110860,
+        "CountryPopulation": 11338138,
         "CountryContinent": "NA"
     },
     {
         "CountryCode": "CV",
         "CountryName": "Cabo Verde",
-        "CountryArea": 4,
-        "CountryPopulation": 543,
+        "CountryArea": 4033,
+        "CountryPopulation": 543767,
         "CountryContinent": "AF"
     },
     {
         "CountryCode": "CW",
         "CountryName": "Curaçao",
         "CountryArea": 444,
-        "CountryPopulation": 159,
+        "CountryPopulation": 159849,
         "CountryContinent": "NA"
     },
     {
         "CountryCode": "CX",
         "CountryName": "Christmas Island",
         "CountryArea": 135,
-        "CountryPopulation": 1,
+        "CountryPopulation": 1500,
         "CountryContinent": "OC"
     },
     {
         "CountryCode": "CY",
         "CountryName": "Cyprus",
-        "CountryArea": 9,
-        "CountryPopulation": 1,
+        "CountryArea": 9250,
+        "CountryPopulation": 1189265,
         "CountryContinent": "EU"
     },
     {
         "CountryCode": "CZ",
         "CountryName": "Czechia",
-        "CountryArea": 78,
-        "CountryPopulation": 10,
+        "CountryArea": 78866,
+        "CountryPopulation": 10625695,
         "CountryContinent": "EU"
     },
     {
         "CountryCode": "DE",
         "CountryName": "Germany",
-        "CountryArea": 357,
-        "CountryPopulation": 82,
+        "CountryArea": 357021,
+        "CountryPopulation": 82927922,
         "CountryContinent": "EU"
     },
     {
         "CountryCode": "DJ",
         "CountryName": "Djibouti",
-        "CountryArea": 23,
-        "CountryPopulation": 958,
+        "CountryArea": 23000,
+        "CountryPopulation": 958920,
         "CountryContinent": "AF"
     },
     {
         "CountryCode": "DK",
         "CountryName": "Denmark",
-        "CountryArea": 43,
-        "CountryPopulation": 5,
+        "CountryArea": 43094,
+        "CountryPopulation": 5797446,
         "CountryContinent": "EU"
     },
     {
         "CountryCode": "DM",
         "CountryName": "Dominica",
         "CountryArea": 754,
-        "CountryPopulation": 71,
+        "CountryPopulation": 71625,
         "CountryContinent": "NA"
     },
     {
         "CountryCode": "DO",
         "CountryName": "Dominican Republic",
-        "CountryArea": 48,
-        "CountryPopulation": 10,
+        "CountryArea": 48730,
+        "CountryPopulation": 10627165,
         "CountryContinent": "NA"
     },
     {
         "CountryCode": "DZ",
         "CountryName": "Algeria",
-        "CountryArea": 2,
-        "CountryPopulation": 42,
+        "CountryArea": 2381740,
+        "CountryPopulation": 42228429,
         "CountryContinent": "AF"
     },
     {
         "CountryCode": "EC",
         "CountryName": "Ecuador",
-        "CountryArea": 283,
-        "CountryPopulation": 17,
+        "CountryArea": 283560,
+        "CountryPopulation": 17084357,
         "CountryContinent": "SA"
     },
     {
         "CountryCode": "EE",
         "CountryName": "Estonia",
-        "CountryArea": 45,
-        "CountryPopulation": 1,
+        "CountryArea": 45226,
+        "CountryPopulation": 1320884,
         "CountryContinent": "EU"
     },
     {
         "CountryCode": "EG",
         "CountryName": "Egypt",
-        "CountryArea": 1,
-        "CountryPopulation": 98,
+        "CountryArea": 1001450,
+        "CountryPopulation": 98423595,
         "CountryContinent": "AF"
     },
     {
         "CountryCode": "EH",
         "CountryName": "Western Sahara",
-        "CountryArea": 266,
-        "CountryPopulation": 273,
+        "CountryArea": 266000,
+        "CountryPopulation": 273008,
         "CountryContinent": "AF"
     },
     {
         "CountryCode": "ER",
         "CountryName": "Eritrea",
-        "CountryArea": 121,
-        "CountryPopulation": 6,
+        "CountryArea": 121320,
+        "CountryPopulation": 6209262,
         "CountryContinent": "AF"
     },
     {
         "CountryCode": "ES",
         "CountryName": "Spain",
-        "CountryArea": 504,
-        "CountryPopulation": 46,
+        "CountryArea": 504782,
+        "CountryPopulation": 46723749,
         "CountryContinent": "EU"
     },
     {
         "CountryCode": "ET",
         "CountryName": "Ethiopia",
-        "CountryArea": 1,
-        "CountryPopulation": 109,
+        "CountryArea": 1127127,
+        "CountryPopulation": 109224559,
         "CountryContinent": "AF"
     },
     {
         "CountryCode": "FI",
         "CountryName": "Finland",
-        "CountryArea": 337,
-        "CountryPopulation": 5,
+        "CountryArea": 337030,
+        "CountryPopulation": 5518050,
         "CountryContinent": "EU"
     },
     {
         "CountryCode": "FJ",
         "CountryName": "Fiji",
-        "CountryArea": 18,
-        "CountryPopulation": 883,
+        "CountryArea": 18270,
+        "CountryPopulation": 883483,
         "CountryContinent": "OC"
     },
     {
         "CountryCode": "FK",
         "CountryName": "Falkland Islands",
-        "CountryArea": 12,
-        "CountryPopulation": 2,
+        "CountryArea": 12173,
+        "CountryPopulation": 2638,
         "CountryContinent": "SA"
     },
     {
         "CountryCode": "FM",
         "CountryName": "Micronesia",
         "CountryArea": 702,
-        "CountryPopulation": 112,
+        "CountryPopulation": 112640,
         "CountryContinent": "OC"
     },
     {
         "CountryCode": "FO",
         "CountryName": "Faroe Islands",
-        "CountryArea": 1,
-        "CountryPopulation": 48,
+        "CountryArea": 1399,
+        "CountryPopulation": 48497,
         "CountryContinent": "EU"
     },
     {
         "CountryCode": "FR",
         "CountryName": "France",
-        "CountryArea": 547,
-        "CountryPopulation": 66,
+        "CountryArea": 547030,
+        "CountryPopulation": 66987244,
         "CountryContinent": "EU"
     },
     {
         "CountryCode": "GA",
         "CountryName": "Gabon",
-        "CountryArea": 267,
-        "CountryPopulation": 2,
+        "CountryArea": 267667,
+        "CountryPopulation": 2119275,
         "CountryContinent": "AF"
     },
     {
         "CountryCode": "GB",
         "CountryName": "United Kingdom",
-        "CountryArea": 244,
-        "CountryPopulation": 66,
+        "CountryArea": 244820,
+        "CountryPopulation": 66488991,
         "CountryContinent": "EU"
     },
     {
         "CountryCode": "GD",
         "CountryName": "Grenada",
         "CountryArea": 344,
-        "CountryPopulation": 111,
+        "CountryPopulation": 111454,
         "CountryContinent": "NA"
     },
     {
         "CountryCode": "GE",
         "CountryName": "Georgia",
-        "CountryArea": 69,
-        "CountryPopulation": 3,
+        "CountryArea": 69700,
+        "CountryPopulation": 3731000,
         "CountryContinent": "AS"
     },
     {
         "CountryCode": "GF",
         "CountryName": "French Guiana",
-        "CountryArea": 91,
-        "CountryPopulation": 195,
+        "CountryArea": 91000,
+        "CountryPopulation": 195506,
         "CountryContinent": "SA"
     },
     {
         "CountryCode": "GG",
         "CountryName": "Guernsey",
         "CountryArea": 78,
-        "CountryPopulation": 65,
+        "CountryPopulation": 65228,
         "CountryContinent": "EU"
     },
     {
         "CountryCode": "GH",
         "CountryName": "Ghana",
-        "CountryArea": 239,
-        "CountryPopulation": 29,
+        "CountryArea": 239460,
+        "CountryPopulation": 29767108,
         "CountryContinent": "AF"
     },
     {
         "CountryCode": "GI",
         "CountryName": "Gibraltar",
         "CountryArea": 6.5,
-        "CountryPopulation": 33,
+        "CountryPopulation": 33718,
         "CountryContinent": "EU"
     },
     {
         "CountryCode": "GL",
         "CountryName": "Greenland",
-        "CountryArea": 2,
-        "CountryPopulation": 56,
+        "CountryArea": 2166086,
+        "CountryPopulation": 56025,
         "CountryContinent": "NA"
     },
     {
         "CountryCode": "GM",
         "CountryName": "The Gambia",
-        "CountryArea": 11,
-        "CountryPopulation": 2,
+        "CountryArea": 11300,
+        "CountryPopulation": 2280102,
         "CountryContinent": "AF"
     },
     {
         "CountryCode": "GN",
         "CountryName": "Guinea",
-        "CountryArea": 245,
-        "CountryPopulation": 12,
+        "CountryArea": 245857,
+        "CountryPopulation": 12414318,
         "CountryContinent": "AF"
     },
     {
         "CountryCode": "GP",
         "CountryName": "Guadeloupe",
-        "CountryArea": 1,
-        "CountryPopulation": 443,
+        "CountryArea": 1780,
+        "CountryPopulation": 443000,
         "CountryContinent": "NA"
     },
     {
         "CountryCode": "GQ",
         "CountryName": "Equatorial Guinea",
-        "CountryArea": 28,
-        "CountryPopulation": 1,
+        "CountryArea": 28051,
+        "CountryPopulation": 1308974,
         "CountryContinent": "AF"
     },
     {
         "CountryCode": "GR",
         "CountryName": "Greece",
-        "CountryArea": 131,
-        "CountryPopulation": 10,
+        "CountryArea": 131940,
+        "CountryPopulation": 10727668,
         "CountryContinent": "EU"
     },
     {
         "CountryCode": "GS",
         "CountryName": "South Georgia and South Sandwich Islands",
-        "CountryArea": 3,
+        "CountryArea": 3903,
         "CountryPopulation": 30,
         "CountryContinent": "AN"
     },
     {
         "CountryCode": "GT",
         "CountryName": "Guatemala",
-        "CountryArea": 108,
-        "CountryPopulation": 17,
+        "CountryArea": 108890,
+        "CountryPopulation": 17247807,
         "CountryContinent": "NA"
     },
     {
         "CountryCode": "GU",
         "CountryName": "Guam",
         "CountryArea": 549,
-        "CountryPopulation": 165,
+        "CountryPopulation": 165768,
         "CountryContinent": "OC"
     },
     {
         "CountryCode": "GW",
         "CountryName": "Guinea-Bissau",
-        "CountryArea": 36,
-        "CountryPopulation": 1,
+        "CountryArea": 36120,
+        "CountryPopulation": 1874309,
         "CountryContinent": "AF"
     },
     {
         "CountryCode": "GY",
         "CountryName": "Guyana",
-        "CountryArea": 214,
-        "CountryPopulation": 779,
+        "CountryArea": 214970,
+        "CountryPopulation": 779004,
         "CountryContinent": "SA"
     },
     {
         "CountryCode": "HK",
         "CountryName": "Hong Kong",
-        "CountryArea": 1,
-        "CountryPopulation": 7,
+        "CountryArea": 1092,
+        "CountryPopulation": 7451000,
         "CountryContinent": "AS"
     },
     {
@@ -674,589 +674,589 @@
     {
         "CountryCode": "HN",
         "CountryName": "Honduras",
-        "CountryArea": 112,
-        "CountryPopulation": 9,
+        "CountryArea": 112090,
+        "CountryPopulation": 9587522,
         "CountryContinent": "NA"
     },
     {
         "CountryCode": "HR",
         "CountryName": "Croatia",
-        "CountryArea": 56,
-        "CountryPopulation": 3,
+        "CountryArea": 56542,
+        "CountryPopulation": 3871833,
         "CountryContinent": "EU"
     },
     {
         "CountryCode": "HT",
         "CountryName": "Haiti",
-        "CountryArea": 27,
-        "CountryPopulation": 11,
+        "CountryArea": 27750,
+        "CountryPopulation": 11123176,
         "CountryContinent": "NA"
     },
     {
         "CountryCode": "HU",
         "CountryName": "Hungary",
-        "CountryArea": 93,
-        "CountryPopulation": 9,
+        "CountryArea": 93030,
+        "CountryPopulation": 9768785,
         "CountryContinent": "EU"
     },
     {
         "CountryCode": "ID",
         "CountryName": "Indonesia",
-        "CountryArea": 1,
-        "CountryPopulation": 267,
+        "CountryArea": 1919440,
+        "CountryPopulation": 267663435,
         "CountryContinent": "AS"
     },
     {
         "CountryCode": "IE",
         "CountryName": "Ireland",
-        "CountryArea": 70,
-        "CountryPopulation": 4,
+        "CountryArea": 70280,
+        "CountryPopulation": 4853506,
         "CountryContinent": "EU"
     },
     {
         "CountryCode": "IL",
         "CountryName": "Israel",
-        "CountryArea": 20,
-        "CountryPopulation": 8,
+        "CountryArea": 20770,
+        "CountryPopulation": 8883800,
         "CountryContinent": "AS"
     },
     {
         "CountryCode": "IM",
         "CountryName": "Isle of Man",
         "CountryArea": 572,
-        "CountryPopulation": 84,
+        "CountryPopulation": 84077,
         "CountryContinent": "EU"
     },
     {
         "CountryCode": "IN",
         "CountryName": "India",
-        "CountryArea": 3,
-        "CountryPopulation": 1,
+        "CountryArea": 3287590,
+        "CountryPopulation": 1352617328,
         "CountryContinent": "AS"
     },
     {
         "CountryCode": "IO",
         "CountryName": "British Indian Ocean Territory",
         "CountryArea": 60,
-        "CountryPopulation": 4,
+        "CountryPopulation": 4000,
         "CountryContinent": "AS"
     },
     {
         "CountryCode": "IQ",
         "CountryName": "Iraq",
-        "CountryArea": 437,
-        "CountryPopulation": 38,
+        "CountryArea": 437072,
+        "CountryPopulation": 38433600,
         "CountryContinent": "AS"
     },
     {
         "CountryCode": "IR",
         "CountryName": "Iran",
-        "CountryArea": 1,
-        "CountryPopulation": 81,
+        "CountryArea": 1648000,
+        "CountryPopulation": 81800269,
         "CountryContinent": "AS"
     },
     {
         "CountryCode": "IS",
         "CountryName": "Iceland",
-        "CountryArea": 103,
-        "CountryPopulation": 353,
+        "CountryArea": 103000,
+        "CountryPopulation": 353574,
         "CountryContinent": "EU"
     },
     {
         "CountryCode": "IT",
         "CountryName": "Italy",
-        "CountryArea": 301,
-        "CountryPopulation": 60,
+        "CountryArea": 301230,
+        "CountryPopulation": 60431283,
         "CountryContinent": "EU"
     },
     {
         "CountryCode": "JE",
         "CountryName": "Jersey",
         "CountryArea": 116,
-        "CountryPopulation": 90,
+        "CountryPopulation": 90812,
         "CountryContinent": "EU"
     },
     {
         "CountryCode": "JM",
         "CountryName": "Jamaica",
-        "CountryArea": 10,
-        "CountryPopulation": 2,
+        "CountryArea": 10991,
+        "CountryPopulation": 2934855,
         "CountryContinent": "NA"
     },
     {
         "CountryCode": "JO",
         "CountryName": "Jordan",
-        "CountryArea": 92,
-        "CountryPopulation": 9,
+        "CountryArea": 92300,
+        "CountryPopulation": 9956011,
         "CountryContinent": "AS"
     },
     {
         "CountryCode": "JP",
         "CountryName": "Japan",
-        "CountryArea": 377,
-        "CountryPopulation": 126,
+        "CountryArea": 377835,
+        "CountryPopulation": 126529100,
         "CountryContinent": "AS"
     },
     {
         "CountryCode": "KE",
         "CountryName": "Kenya",
-        "CountryArea": 582,
-        "CountryPopulation": 51,
+        "CountryArea": 582650,
+        "CountryPopulation": 51393010,
         "CountryContinent": "AF"
     },
     {
         "CountryCode": "KG",
         "CountryName": "Kyrgyzstan",
-        "CountryArea": 198,
-        "CountryPopulation": 6,
+        "CountryArea": 198500,
+        "CountryPopulation": 6315800,
         "CountryContinent": "AS"
     },
     {
         "CountryCode": "KH",
         "CountryName": "Cambodia",
-        "CountryArea": 181,
-        "CountryPopulation": 16,
+        "CountryArea": 181040,
+        "CountryPopulation": 16249798,
         "CountryContinent": "AS"
     },
     {
         "CountryCode": "KI",
         "CountryName": "Kiribati",
         "CountryArea": 811,
-        "CountryPopulation": 115,
+        "CountryPopulation": 115847,
         "CountryContinent": "OC"
     },
     {
         "CountryCode": "KM",
         "CountryName": "Comoros",
-        "CountryArea": 2,
-        "CountryPopulation": 832,
+        "CountryArea": 2170,
+        "CountryPopulation": 832322,
         "CountryContinent": "AF"
     },
     {
         "CountryCode": "KN",
         "CountryName": "St Kitts and Nevis",
         "CountryArea": 261,
-        "CountryPopulation": 52,
+        "CountryPopulation": 52441,
         "CountryContinent": "NA"
     },
     {
         "CountryCode": "KP",
         "CountryName": "North Korea",
-        "CountryArea": 120,
-        "CountryPopulation": 25,
+        "CountryArea": 120540,
+        "CountryPopulation": 25549819,
         "CountryContinent": "AS"
     },
     {
         "CountryCode": "KR",
         "CountryName": "South Korea",
-        "CountryArea": 98,
-        "CountryPopulation": 51,
+        "CountryArea": 98480,
+        "CountryPopulation": 51635256,
         "CountryContinent": "AS"
     },
     {
         "CountryCode": "KW",
         "CountryName": "Kuwait",
-        "CountryArea": 17,
-        "CountryPopulation": 4,
+        "CountryArea": 17820,
+        "CountryPopulation": 4137309,
         "CountryContinent": "AS"
     },
     {
         "CountryCode": "KY",
         "CountryName": "Cayman Islands",
         "CountryArea": 262,
-        "CountryPopulation": 64,
+        "CountryPopulation": 64174,
         "CountryContinent": "NA"
     },
     {
         "CountryCode": "KZ",
         "CountryName": "Kazakhstan",
-        "CountryArea": 2,
-        "CountryPopulation": 18,
+        "CountryArea": 2717300,
+        "CountryPopulation": 18276499,
         "CountryContinent": "AS"
     },
     {
         "CountryCode": "LA",
         "CountryName": "Laos",
-        "CountryArea": 236,
-        "CountryPopulation": 7,
+        "CountryArea": 236800,
+        "CountryPopulation": 7061507,
         "CountryContinent": "AS"
     },
     {
         "CountryCode": "LB",
         "CountryName": "Lebanon",
-        "CountryArea": 10,
-        "CountryPopulation": 6,
+        "CountryArea": 10400,
+        "CountryPopulation": 6848925,
         "CountryContinent": "AS"
     },
     {
         "CountryCode": "LC",
         "CountryName": "Saint Lucia",
         "CountryArea": 616,
-        "CountryPopulation": 181,
+        "CountryPopulation": 181889,
         "CountryContinent": "NA"
     },
     {
         "CountryCode": "LI",
         "CountryName": "Liechtenstein",
         "CountryArea": 160,
-        "CountryPopulation": 37,
+        "CountryPopulation": 37910,
         "CountryContinent": "EU"
     },
     {
         "CountryCode": "LK",
         "CountryName": "Sri Lanka",
-        "CountryArea": 65,
-        "CountryPopulation": 21,
+        "CountryArea": 65610,
+        "CountryPopulation": 21670000,
         "CountryContinent": "AS"
     },
     {
         "CountryCode": "LR",
         "CountryName": "Liberia",
-        "CountryArea": 111,
-        "CountryPopulation": 4,
+        "CountryArea": 111370,
+        "CountryPopulation": 4818977,
         "CountryContinent": "AF"
     },
     {
         "CountryCode": "LS",
         "CountryName": "Lesotho",
-        "CountryArea": 30,
-        "CountryPopulation": 2,
+        "CountryArea": 30355,
+        "CountryPopulation": 2108132,
         "CountryContinent": "AF"
     },
     {
         "CountryCode": "LT",
         "CountryName": "Lithuania",
-        "CountryArea": 65,
-        "CountryPopulation": 2,
+        "CountryArea": 65200,
+        "CountryPopulation": 2789533,
         "CountryContinent": "EU"
     },
     {
         "CountryCode": "LU",
         "CountryName": "Luxembourg",
-        "CountryArea": 2,
-        "CountryPopulation": 607,
+        "CountryArea": 2586,
+        "CountryPopulation": 607728,
         "CountryContinent": "EU"
     },
     {
         "CountryCode": "LV",
         "CountryName": "Latvia",
-        "CountryArea": 64,
-        "CountryPopulation": 1,
+        "CountryArea": 64589,
+        "CountryPopulation": 1926542,
         "CountryContinent": "EU"
     },
     {
         "CountryCode": "LY",
         "CountryName": "Libya",
-        "CountryArea": 1,
-        "CountryPopulation": 6,
+        "CountryArea": 1759540,
+        "CountryPopulation": 6678567,
         "CountryContinent": "AF"
     },
     {
         "CountryCode": "MA",
         "CountryName": "Morocco",
-        "CountryArea": 446,
-        "CountryPopulation": 36,
+        "CountryArea": 446550,
+        "CountryPopulation": 36029138,
         "CountryContinent": "AF"
     },
     {
         "CountryCode": "MC",
         "CountryName": "Monaco",
         "CountryArea": 1.9,
-        "CountryPopulation": 38,
+        "CountryPopulation": 38682,
         "CountryContinent": "EU"
     },
     {
         "CountryCode": "MD",
         "CountryName": "Moldova",
-        "CountryArea": 33,
-        "CountryPopulation": 3,
+        "CountryArea": 33843,
+        "CountryPopulation": 3545883,
         "CountryContinent": "EU"
     },
     {
         "CountryCode": "ME",
         "CountryName": "Montenegro",
-        "CountryArea": 14,
-        "CountryPopulation": 622,
+        "CountryArea": 14026,
+        "CountryPopulation": 622345,
         "CountryContinent": "EU"
     },
     {
         "CountryCode": "MF",
         "CountryName": "Saint Martin",
         "CountryArea": 53,
-        "CountryPopulation": 37,
+        "CountryPopulation": 37264,
         "CountryContinent": "NA"
     },
     {
         "CountryCode": "MG",
         "CountryName": "Madagascar",
-        "CountryArea": 587,
-        "CountryPopulation": 26,
+        "CountryArea": 587040,
+        "CountryPopulation": 26262368,
         "CountryContinent": "AF"
     },
     {
         "CountryCode": "MH",
         "CountryName": "Marshall Islands",
         "CountryArea": 181.3,
-        "CountryPopulation": 58,
+        "CountryPopulation": 58413,
         "CountryContinent": "OC"
     },
     {
         "CountryCode": "MK",
         "CountryName": "North Macedonia",
-        "CountryArea": 25,
-        "CountryPopulation": 2,
+        "CountryArea": 25333,
+        "CountryPopulation": 2082958,
         "CountryContinent": "EU"
     },
     {
         "CountryCode": "ML",
         "CountryName": "Mali",
-        "CountryArea": 1,
-        "CountryPopulation": 19,
+        "CountryArea": 1240000,
+        "CountryPopulation": 19077690,
         "CountryContinent": "AF"
     },
     {
         "CountryCode": "MM",
         "CountryName": "Myanmar",
-        "CountryArea": 678,
-        "CountryPopulation": 53,
+        "CountryArea": 678500,
+        "CountryPopulation": 53708395,
         "CountryContinent": "AS"
     },
     {
         "CountryCode": "MN",
         "CountryName": "Mongolia",
-        "CountryArea": 1,
-        "CountryPopulation": 3,
+        "CountryArea": 1565000,
+        "CountryPopulation": 3170208,
         "CountryContinent": "AS"
     },
     {
         "CountryCode": "MO",
         "CountryName": "Macao",
         "CountryArea": 254,
-        "CountryPopulation": 631,
+        "CountryPopulation": 631636,
         "CountryContinent": "AS"
     },
     {
         "CountryCode": "MP",
         "CountryName": "Northern Mariana Islands",
         "CountryArea": 477,
-        "CountryPopulation": 56,
+        "CountryPopulation": 56882,
         "CountryContinent": "OC"
     },
     {
         "CountryCode": "MQ",
         "CountryName": "Martinique",
-        "CountryArea": 1,
-        "CountryPopulation": 432,
+        "CountryArea": 1100,
+        "CountryPopulation": 432900,
         "CountryContinent": "NA"
     },
     {
         "CountryCode": "MR",
         "CountryName": "Mauritania",
-        "CountryArea": 1,
-        "CountryPopulation": 4,
+        "CountryArea": 1030700,
+        "CountryPopulation": 4403319,
         "CountryContinent": "AF"
     },
     {
         "CountryCode": "MS",
         "CountryName": "Montserrat",
         "CountryArea": 102,
-        "CountryPopulation": 9,
+        "CountryPopulation": 9341,
         "CountryContinent": "NA"
     },
     {
         "CountryCode": "MT",
         "CountryName": "Malta",
         "CountryArea": 316,
-        "CountryPopulation": 483,
+        "CountryPopulation": 483530,
         "CountryContinent": "EU"
     },
     {
         "CountryCode": "MU",
         "CountryName": "Mauritius",
-        "CountryArea": 2,
-        "CountryPopulation": 1,
+        "CountryArea": 2040,
+        "CountryPopulation": 1265303,
         "CountryContinent": "AF"
     },
     {
         "CountryCode": "MV",
         "CountryName": "Maldives",
         "CountryArea": 300,
-        "CountryPopulation": 515,
+        "CountryPopulation": 515696,
         "CountryContinent": "AS"
     },
     {
         "CountryCode": "MW",
         "CountryName": "Malawi",
-        "CountryArea": 118,
-        "CountryPopulation": 17,
+        "CountryArea": 118480,
+        "CountryPopulation": 17563749,
         "CountryContinent": "AF"
     },
     {
         "CountryCode": "MX",
         "CountryName": "Mexico",
-        "CountryArea": 1,
-        "CountryPopulation": 126,
+        "CountryArea": 1972550,
+        "CountryPopulation": 126190788,
         "CountryContinent": "NA"
     },
     {
         "CountryCode": "MY",
         "CountryName": "Malaysia",
-        "CountryArea": 329,
-        "CountryPopulation": 31,
+        "CountryArea": 329750,
+        "CountryPopulation": 31528585,
         "CountryContinent": "AS"
     },
     {
         "CountryCode": "MZ",
         "CountryName": "Mozambique",
-        "CountryArea": 801,
-        "CountryPopulation": 29,
+        "CountryArea": 801590,
+        "CountryPopulation": 29495962,
         "CountryContinent": "AF"
     },
     {
         "CountryCode": "NA",
         "CountryName": "Namibia",
-        "CountryArea": 825,
-        "CountryPopulation": 2,
+        "CountryArea": 825418,
+        "CountryPopulation": 2448255,
         "CountryContinent": "AF"
     },
     {
         "CountryCode": "NC",
         "CountryName": "New Caledonia",
-        "CountryArea": 19,
-        "CountryPopulation": 284,
+        "CountryArea": 19060,
+        "CountryPopulation": 284060,
         "CountryContinent": "OC"
     },
     {
         "CountryCode": "NE",
         "CountryName": "Niger",
-        "CountryArea": 1,
-        "CountryPopulation": 22,
+        "CountryArea": 1267000,
+        "CountryPopulation": 22442948,
         "CountryContinent": "AF"
     },
     {
         "CountryCode": "NF",
         "CountryName": "Norfolk Island",
         "CountryArea": 34.6,
-        "CountryPopulation": 1,
+        "CountryPopulation": 1828,
         "CountryContinent": "OC"
     },
     {
         "CountryCode": "NG",
         "CountryName": "Nigeria",
-        "CountryArea": 923,
-        "CountryPopulation": 195,
+        "CountryArea": 923768,
+        "CountryPopulation": 195874740,
         "CountryContinent": "AF"
     },
     {
         "CountryCode": "NI",
         "CountryName": "Nicaragua",
-        "CountryArea": 129,
-        "CountryPopulation": 6,
+        "CountryArea": 129494,
+        "CountryPopulation": 6465513,
         "CountryContinent": "NA"
     },
     {
         "CountryCode": "NL",
         "CountryName": "Netherlands",
-        "CountryArea": 41,
-        "CountryPopulation": 17,
+        "CountryArea": 41526,
+        "CountryPopulation": 17231017,
         "CountryContinent": "EU"
     },
     {
         "CountryCode": "NO",
         "CountryName": "Norway",
-        "CountryArea": 324,
-        "CountryPopulation": 5,
+        "CountryArea": 324220,
+        "CountryPopulation": 5314336,
         "CountryContinent": "EU"
     },
     {
         "CountryCode": "NP",
         "CountryName": "Nepal",
-        "CountryArea": 140,
-        "CountryPopulation": 28,
+        "CountryArea": 140800,
+        "CountryPopulation": 28087871,
         "CountryContinent": "AS"
     },
     {
         "CountryCode": "NR",
         "CountryName": "Nauru",
         "CountryArea": 21,
-        "CountryPopulation": 12,
+        "CountryPopulation": 12704,
         "CountryContinent": "OC"
     },
     {
         "CountryCode": "NU",
         "CountryName": "Niue",
         "CountryArea": 260,
-        "CountryPopulation": 2,
+        "CountryPopulation": 2166,
         "CountryContinent": "OC"
     },
     {
         "CountryCode": "NZ",
         "CountryName": "New Zealand",
-        "CountryArea": 268,
-        "CountryPopulation": 4,
+        "CountryArea": 268680,
+        "CountryPopulation": 4885500,
         "CountryContinent": "OC"
     },
     {
         "CountryCode": "OM",
         "CountryName": "Oman",
-        "CountryArea": 212,
-        "CountryPopulation": 4,
+        "CountryArea": 212460,
+        "CountryPopulation": 4829483,
         "CountryContinent": "AS"
     },
     {
         "CountryCode": "PA",
         "CountryName": "Panama",
-        "CountryArea": 78,
-        "CountryPopulation": 4,
+        "CountryArea": 78200,
+        "CountryPopulation": 4176873,
         "CountryContinent": "NA"
     },
     {
         "CountryCode": "PE",
         "CountryName": "Peru",
-        "CountryArea": 1,
-        "CountryPopulation": 31,
+        "CountryArea": 1285220,
+        "CountryPopulation": 31989256,
         "CountryContinent": "SA"
     },
     {
         "CountryCode": "PF",
         "CountryName": "French Polynesia",
-        "CountryArea": 4,
-        "CountryPopulation": 277,
+        "CountryArea": 4167,
+        "CountryPopulation": 277679,
         "CountryContinent": "OC"
     },
     {
         "CountryCode": "PG",
         "CountryName": "Papua New Guinea",
-        "CountryArea": 462,
-        "CountryPopulation": 8,
+        "CountryArea": 462840,
+        "CountryPopulation": 8606316,
         "CountryContinent": "OC"
     },
     {
         "CountryCode": "PH",
         "CountryName": "Philippines",
-        "CountryArea": 300,
-        "CountryPopulation": 106,
+        "CountryArea": 300000,
+        "CountryPopulation": 106651922,
         "CountryContinent": "AS"
     },
     {
         "CountryCode": "PK",
         "CountryName": "Pakistan",
-        "CountryArea": 803,
-        "CountryPopulation": 212,
+        "CountryArea": 803940,
+        "CountryPopulation": 212215030,
         "CountryContinent": "AS"
     },
     {
         "CountryCode": "PL",
         "CountryName": "Poland",
-        "CountryArea": 312,
-        "CountryPopulation": 37,
+        "CountryArea": 312685,
+        "CountryPopulation": 37978548,
         "CountryContinent": "EU"
     },
     {
         "CountryCode": "PM",
         "CountryName": "Saint Pierre and Miquelon",
         "CountryArea": 242,
-        "CountryPopulation": 7,
+        "CountryPopulation": 7012,
         "CountryContinent": "NA"
     },
     {
@@ -1269,351 +1269,351 @@
     {
         "CountryCode": "PR",
         "CountryName": "Puerto Rico",
-        "CountryArea": 9,
-        "CountryPopulation": 3,
+        "CountryArea": 9104,
+        "CountryPopulation": 3195153,
         "CountryContinent": "NA"
     },
     {
         "CountryCode": "PS",
         "CountryName": "Palestine",
-        "CountryArea": 5,
-        "CountryPopulation": 4,
+        "CountryArea": 5970,
+        "CountryPopulation": 4569087,
         "CountryContinent": "AS"
     },
     {
         "CountryCode": "PT",
         "CountryName": "Portugal",
-        "CountryArea": 92,
-        "CountryPopulation": 10,
+        "CountryArea": 92391,
+        "CountryPopulation": 10281762,
         "CountryContinent": "EU"
     },
     {
         "CountryCode": "PW",
         "CountryName": "Palau",
         "CountryArea": 458,
-        "CountryPopulation": 17,
+        "CountryPopulation": 17907,
         "CountryContinent": "OC"
     },
     {
         "CountryCode": "PY",
         "CountryName": "Paraguay",
-        "CountryArea": 406,
-        "CountryPopulation": 6,
+        "CountryArea": 406750,
+        "CountryPopulation": 6956071,
         "CountryContinent": "SA"
     },
     {
         "CountryCode": "QA",
         "CountryName": "Qatar",
-        "CountryArea": 11,
-        "CountryPopulation": 2,
+        "CountryArea": 11437,
+        "CountryPopulation": 2781677,
         "CountryContinent": "AS"
     },
     {
         "CountryCode": "RE",
         "CountryName": "Réunion",
-        "CountryArea": 2,
-        "CountryPopulation": 776,
+        "CountryArea": 2517,
+        "CountryPopulation": 776948,
         "CountryContinent": "AF"
     },
     {
         "CountryCode": "RO",
         "CountryName": "Romania",
-        "CountryArea": 237,
-        "CountryPopulation": 19,
+        "CountryArea": 237500,
+        "CountryPopulation": 19473936,
         "CountryContinent": "EU"
     },
     {
         "CountryCode": "RS",
         "CountryName": "Serbia",
-        "CountryArea": 88,
-        "CountryPopulation": 6,
+        "CountryArea": 88361,
+        "CountryPopulation": 6982084,
         "CountryContinent": "EU"
     },
     {
         "CountryCode": "RU",
         "CountryName": "Russia",
-        "CountryArea": 17,
-        "CountryPopulation": 144,
+        "CountryArea": 17100000,
+        "CountryPopulation": 144478050,
         "CountryContinent": "EU"
     },
     {
         "CountryCode": "RW",
         "CountryName": "Rwanda",
-        "CountryArea": 26,
-        "CountryPopulation": 12,
+        "CountryArea": 26338,
+        "CountryPopulation": 12301939,
         "CountryContinent": "AF"
     },
     {
         "CountryCode": "SA",
         "CountryName": "Saudi Arabia",
-        "CountryArea": 1,
-        "CountryPopulation": 33,
+        "CountryArea": 1960582,
+        "CountryPopulation": 33699947,
         "CountryContinent": "AS"
     },
     {
         "CountryCode": "SB",
         "CountryName": "Solomon Islands",
-        "CountryArea": 28,
-        "CountryPopulation": 652,
+        "CountryArea": 28450,
+        "CountryPopulation": 652858,
         "CountryContinent": "OC"
     },
     {
         "CountryCode": "SC",
         "CountryName": "Seychelles",
         "CountryArea": 455,
-        "CountryPopulation": 96,
+        "CountryPopulation": 96762,
         "CountryContinent": "AF"
     },
     {
         "CountryCode": "SD",
         "CountryName": "Sudan",
-        "CountryArea": 1,
-        "CountryPopulation": 41,
+        "CountryArea": 1861484,
+        "CountryPopulation": 41801533,
         "CountryContinent": "AF"
     },
     {
         "CountryCode": "SE",
         "CountryName": "Sweden",
-        "CountryArea": 449,
-        "CountryPopulation": 10,
+        "CountryArea": 449964,
+        "CountryPopulation": 10183175,
         "CountryContinent": "EU"
     },
     {
         "CountryCode": "SG",
         "CountryName": "Singapore",
         "CountryArea": 692.7,
-        "CountryPopulation": 5,
+        "CountryPopulation": 5638676,
         "CountryContinent": "AS"
     },
     {
         "CountryCode": "SH",
         "CountryName": "Saint Helena",
         "CountryArea": 410,
-        "CountryPopulation": 7,
+        "CountryPopulation": 7460,
         "CountryContinent": "AF"
     },
     {
         "CountryCode": "SI",
         "CountryName": "Slovenia",
-        "CountryArea": 20,
-        "CountryPopulation": 2,
+        "CountryArea": 20273,
+        "CountryPopulation": 2067372,
         "CountryContinent": "EU"
     },
     {
         "CountryCode": "SJ",
         "CountryName": "Svalbard and Jan Mayen",
-        "CountryArea": 62,
-        "CountryPopulation": 2,
+        "CountryArea": 62049,
+        "CountryPopulation": 2550,
         "CountryContinent": "EU"
     },
     {
         "CountryCode": "SK",
         "CountryName": "Slovakia",
-        "CountryArea": 48,
-        "CountryPopulation": 5,
+        "CountryArea": 48845,
+        "CountryPopulation": 5447011,
         "CountryContinent": "EU"
     },
     {
         "CountryCode": "SL",
         "CountryName": "Sierra Leone",
-        "CountryArea": 71,
-        "CountryPopulation": 7,
+        "CountryArea": 71740,
+        "CountryPopulation": 7650154,
         "CountryContinent": "AF"
     },
     {
         "CountryCode": "SM",
         "CountryName": "San Marino",
         "CountryArea": 61.2,
-        "CountryPopulation": 33,
+        "CountryPopulation": 33785,
         "CountryContinent": "EU"
     },
     {
         "CountryCode": "SN",
         "CountryName": "Senegal",
-        "CountryArea": 196,
-        "CountryPopulation": 15,
+        "CountryArea": 196190,
+        "CountryPopulation": 15854360,
         "CountryContinent": "AF"
     },
     {
         "CountryCode": "SO",
         "CountryName": "Somalia",
-        "CountryArea": 637,
-        "CountryPopulation": 15,
+        "CountryArea": 637657,
+        "CountryPopulation": 15008154,
         "CountryContinent": "AF"
     },
     {
         "CountryCode": "SR",
         "CountryName": "Suriname",
-        "CountryArea": 163,
-        "CountryPopulation": 575,
+        "CountryArea": 163270,
+        "CountryPopulation": 575991,
         "CountryContinent": "SA"
     },
     {
         "CountryCode": "SS",
         "CountryName": "South Sudan",
-        "CountryArea": 644,
-        "CountryPopulation": 8,
+        "CountryArea": 644329,
+        "CountryPopulation": 8260490,
         "CountryContinent": "AF"
     },
     {
         "CountryCode": "ST",
         "CountryName": "São Tomé and Príncipe",
-        "CountryArea": 1,
-        "CountryPopulation": 197,
+        "CountryArea": 1001,
+        "CountryPopulation": 197700,
         "CountryContinent": "AF"
     },
     {
         "CountryCode": "SV",
         "CountryName": "El Salvador",
-        "CountryArea": 21,
-        "CountryPopulation": 6,
+        "CountryArea": 21040,
+        "CountryPopulation": 6420744,
         "CountryContinent": "NA"
     },
     {
         "CountryCode": "SX",
         "CountryName": "Sint Maarten",
         "CountryArea": 21,
-        "CountryPopulation": 40,
+        "CountryPopulation": 40654,
         "CountryContinent": "NA"
     },
     {
         "CountryCode": "SY",
         "CountryName": "Syria",
-        "CountryArea": 185,
-        "CountryPopulation": 16,
+        "CountryArea": 185180,
+        "CountryPopulation": 16906283,
         "CountryContinent": "AS"
     },
     {
         "CountryCode": "SZ",
         "CountryName": "Eswatini",
-        "CountryArea": 17,
-        "CountryPopulation": 1,
+        "CountryArea": 17363,
+        "CountryPopulation": 1136191,
         "CountryContinent": "AF"
     },
     {
         "CountryCode": "TC",
         "CountryName": "Turks and Caicos Islands",
         "CountryArea": 430,
-        "CountryPopulation": 37,
+        "CountryPopulation": 37665,
         "CountryContinent": "NA"
     },
     {
         "CountryCode": "TD",
         "CountryName": "Chad",
-        "CountryArea": 1,
-        "CountryPopulation": 15,
+        "CountryArea": 1284000,
+        "CountryPopulation": 15477751,
         "CountryContinent": "AF"
     },
     {
         "CountryCode": "TF",
         "CountryName": "French Southern Territories",
-        "CountryArea": 7,
+        "CountryArea": 7829,
         "CountryPopulation": 140,
         "CountryContinent": "AN"
     },
     {
         "CountryCode": "TG",
         "CountryName": "Togo",
-        "CountryArea": 56,
-        "CountryPopulation": 7,
+        "CountryArea": 56785,
+        "CountryPopulation": 7889094,
         "CountryContinent": "AF"
     },
     {
         "CountryCode": "TH",
         "CountryName": "Thailand",
-        "CountryArea": 514,
-        "CountryPopulation": 69,
+        "CountryArea": 514000,
+        "CountryPopulation": 69428524,
         "CountryContinent": "AS"
     },
     {
         "CountryCode": "TJ",
         "CountryName": "Tajikistan",
-        "CountryArea": 143,
-        "CountryPopulation": 9,
+        "CountryArea": 143100,
+        "CountryPopulation": 9100837,
         "CountryContinent": "AS"
     },
     {
         "CountryCode": "TK",
         "CountryName": "Tokelau",
         "CountryArea": 10,
-        "CountryPopulation": 1,
+        "CountryPopulation": 1466,
         "CountryContinent": "OC"
     },
     {
         "CountryCode": "TL",
         "CountryName": "Timor-Leste",
-        "CountryArea": 15,
-        "CountryPopulation": 1,
+        "CountryArea": 15007,
+        "CountryPopulation": 1267972,
         "CountryContinent": "OC"
     },
     {
         "CountryCode": "TM",
         "CountryName": "Turkmenistan",
-        "CountryArea": 488,
-        "CountryPopulation": 5,
+        "CountryArea": 488100,
+        "CountryPopulation": 5850908,
         "CountryContinent": "AS"
     },
     {
         "CountryCode": "TN",
         "CountryName": "Tunisia",
-        "CountryArea": 163,
-        "CountryPopulation": 11,
+        "CountryArea": 163610,
+        "CountryPopulation": 11565204,
         "CountryContinent": "AF"
     },
     {
         "CountryCode": "TO",
         "CountryName": "Tonga",
         "CountryArea": 748,
-        "CountryPopulation": 103,
+        "CountryPopulation": 103197,
         "CountryContinent": "OC"
     },
     {
         "CountryCode": "TR",
         "CountryName": "Turkey",
-        "CountryArea": 780,
-        "CountryPopulation": 82,
+        "CountryArea": 780580,
+        "CountryPopulation": 82319724,
         "CountryContinent": "AS"
     },
     {
         "CountryCode": "TT",
         "CountryName": "Trinidad and Tobago",
-        "CountryArea": 5,
-        "CountryPopulation": 1,
+        "CountryArea": 5128,
+        "CountryPopulation": 1389858,
         "CountryContinent": "NA"
     },
     {
         "CountryCode": "TV",
         "CountryName": "Tuvalu",
         "CountryArea": 26,
-        "CountryPopulation": 11,
+        "CountryPopulation": 11508,
         "CountryContinent": "OC"
     },
     {
         "CountryCode": "TW",
         "CountryName": "Taiwan",
-        "CountryArea": 35,
-        "CountryPopulation": 23,
+        "CountryArea": 35980,
+        "CountryPopulation": 23451837,
         "CountryContinent": "AS"
     },
     {
         "CountryCode": "TZ",
         "CountryName": "Tanzania",
-        "CountryArea": 945,
-        "CountryPopulation": 56,
+        "CountryArea": 945087,
+        "CountryPopulation": 56318348,
         "CountryContinent": "AF"
     },
     {
         "CountryCode": "UA",
         "CountryName": "Ukraine",
-        "CountryArea": 603,
-        "CountryPopulation": 44,
+        "CountryArea": 603700,
+        "CountryPopulation": 44622516,
         "CountryContinent": "EU"
     },
     {
         "CountryCode": "UG",
         "CountryName": "Uganda",
-        "CountryArea": 236,
-        "CountryPopulation": 42,
+        "CountryArea": 236040,
+        "CountryPopulation": 42723139,
         "CountryContinent": "AF"
     },
     {
@@ -1626,22 +1626,22 @@
     {
         "CountryCode": "US",
         "CountryName": "United States",
-        "CountryArea": 9,
-        "CountryPopulation": 327,
+        "CountryArea": 9629091,
+        "CountryPopulation": 327167434,
         "CountryContinent": "NA"
     },
     {
         "CountryCode": "UY",
         "CountryName": "Uruguay",
-        "CountryArea": 176,
-        "CountryPopulation": 3,
+        "CountryArea": 176220,
+        "CountryPopulation": 3449299,
         "CountryContinent": "SA"
     },
     {
         "CountryCode": "UZ",
         "CountryName": "Uzbekistan",
-        "CountryArea": 447,
-        "CountryPopulation": 32,
+        "CountryArea": 447400,
+        "CountryPopulation": 32955400,
         "CountryContinent": "AS"
     },
     {
@@ -1655,98 +1655,98 @@
         "CountryCode": "VC",
         "CountryName": "St Vincent and Grenadines",
         "CountryArea": 389,
-        "CountryPopulation": 110,
+        "CountryPopulation": 110211,
         "CountryContinent": "NA"
     },
     {
         "CountryCode": "VE",
         "CountryName": "Venezuela",
-        "CountryArea": 912,
-        "CountryPopulation": 28,
+        "CountryArea": 912050,
+        "CountryPopulation": 28870195,
         "CountryContinent": "SA"
     },
     {
         "CountryCode": "VG",
         "CountryName": "British Virgin Islands",
         "CountryArea": 153,
-        "CountryPopulation": 29,
+        "CountryPopulation": 29802,
         "CountryContinent": "NA"
     },
     {
         "CountryCode": "VI",
         "CountryName": "U.S. Virgin Islands",
         "CountryArea": 352,
-        "CountryPopulation": 106,
+        "CountryPopulation": 106977,
         "CountryContinent": "NA"
     },
     {
         "CountryCode": "VN",
         "CountryName": "Vietnam",
-        "CountryArea": 329,
-        "CountryPopulation": 95,
+        "CountryArea": 329560,
+        "CountryPopulation": 95540395,
         "CountryContinent": "AS"
     },
     {
         "CountryCode": "VU",
         "CountryName": "Vanuatu",
-        "CountryArea": 12,
-        "CountryPopulation": 292,
+        "CountryArea": 12200,
+        "CountryPopulation": 292680,
         "CountryContinent": "OC"
     },
     {
         "CountryCode": "WF",
         "CountryName": "Wallis and Futuna",
         "CountryArea": 274,
-        "CountryPopulation": 16,
+        "CountryPopulation": 16025,
         "CountryContinent": "OC"
     },
     {
         "CountryCode": "WS",
         "CountryName": "Samoa",
-        "CountryArea": 2,
-        "CountryPopulation": 196,
+        "CountryArea": 2944,
+        "CountryPopulation": 196130,
         "CountryContinent": "OC"
     },
     {
         "CountryCode": "XK",
         "CountryName": "Kosovo",
-        "CountryArea": 10,
-        "CountryPopulation": 1,
+        "CountryArea": 10908,
+        "CountryPopulation": 1845300,
         "CountryContinent": "EU"
     },
     {
         "CountryCode": "YE",
         "CountryName": "Yemen",
-        "CountryArea": 527,
-        "CountryPopulation": 28,
+        "CountryArea": 527970,
+        "CountryPopulation": 28498687,
         "CountryContinent": "AS"
     },
     {
         "CountryCode": "YT",
         "CountryName": "Mayotte",
         "CountryArea": 374,
-        "CountryPopulation": 279,
+        "CountryPopulation": 279471,
         "CountryContinent": "AF"
     },
     {
         "CountryCode": "ZA",
         "CountryName": "South Africa",
-        "CountryArea": 1,
-        "CountryPopulation": 57,
+        "CountryArea": 1219912,
+        "CountryPopulation": 57779622,
         "CountryContinent": "AF"
     },
     {
         "CountryCode": "ZM",
         "CountryName": "Zambia",
-        "CountryArea": 752,
-        "CountryPopulation": 17,
+        "CountryArea": 752614,
+        "CountryPopulation": 17351822,
         "CountryContinent": "AF"
     },
     {
         "CountryCode": "ZW",
         "CountryName": "Zimbabwe",
-        "CountryArea": 390,
-        "CountryPopulation": 14,
+        "CountryArea": 390580,
+        "CountryPopulation": 14439018,
         "CountryContinent": "AF"
     }
 ]

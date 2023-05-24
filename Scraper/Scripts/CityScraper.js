@@ -107,7 +107,7 @@ const scraperObject = {
       }
     );
 
-    await page.close();
+    await browser.close();
   },
 };
 

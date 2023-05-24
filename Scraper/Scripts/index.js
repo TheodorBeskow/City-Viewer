@@ -11,7 +11,7 @@ var countries;
 
 async function main() {
     try{
-        countries = require('../CountryCodes.json');
+        countries = require('../aaCountryCodes.json');
     }catch{
         console.log("Need to scape Countries")
         await codeController(browserInstance);
