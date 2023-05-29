@@ -68,19 +68,19 @@ Country code: fr
 Show cities above a population of: -1
 Plotting 5046 cities
 ```
-![Plot of France](images/France.png)
+![Plot of France](images/France.PNG)
 ```
 Country code: _af
 Show cities above a population of: -1
 Plotting 200740 cities
 ```
-![Plot of Africa](images/Africa.png)
+![Plot of Africa](images/Africa.PNG)
 ```
 Country code: all
 Show cities above a population of: 100
 Plotting 110245 cities
 ```
-![Plot of the World](images/World.png)
+![Plot of the World](images/World.PNG)
 
 
 ## Water height Simulation
