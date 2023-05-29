@@ -1,114 +1,4439 @@
 [
     {
+        "name": "Abu Dhabi",
+        "country": "United Arab Emirates",
+        "province": "Abu Dhabi",
+        "population": 1460409.75,
+        "latitude": 24.451185,
+        "longitude": 54.396958,
+        "height": 3.9
+    },
+    {
+        "name": "Dubai",
+        "country": "United Arab Emirates",
+        "province": "Dubai",
+        "population": 4335217.75,
+        "latitude": 25.07725,
+        "longitude": 55.309275,
+        "height": 23.3
+    },
+    {
+        "name": "Sharjah",
+        "country": "United Arab Emirates",
+        "province": "Sharjah",
+        "population": 2131666.75,
+        "latitude": 25.337374,
+        "longitude": 55.412056,
+        "height": 4.5
+    },
+    {
+        "name": "Al Ain City",
+        "country": "United Arab Emirates",
+        "province": "Abu Dhabi",
+        "population": 1703664.75,
+        "latitude": 24.191667,
+        "longitude": 55.760556,
+        "height": 277
+    },
+    {
+        "name": "Kabul",
+        "country": "Afghanistan",
+        "province": "Kabul",
+        "population": 12213784,
+        "latitude": 34.52812640463504,
+        "longitude": 69.17232513427734,
+        "height": 1798.5
+    },
+    {
+        "name": "Kandahar",
+        "country": "Afghanistan",
+        "province": "Kandahar",
+        "population": 8302534,
+        "latitude": 31.613323,
+        "longitude": 65.710126,
+        "height": 1006
+    },
+    {
+        "name": "Herat",
+        "country": "Afghanistan",
+        "province": "Herat",
+        "population": 8353534,
+        "latitude": 34.348167,
+        "longitude": 62.199673,
+        "height": 927
+    },
+    {
+        "name": "Mazari Sharif",
+        "country": "Afghanistan",
+        "province": "Balkh",
+        "population": 8302534,
+        "latitude": 36.709041,
+        "longitude": 67.110866,
+        "height": 360.6
+    },
+    {
+        "name": "Yerevan",
+        "country": "Armenia",
+        "province": "Yerevan",
+        "population": 2951776,
+        "latitude": 40.1811111,
+        "longitude": 44.5136111,
+        "height": 995
+    },
+    {
+        "name": "Luanda",
+        "country": "Angola",
+        "province": "Luanda",
+        "population": 30809762,
+        "latitude": -8.836816876087466,
+        "longitude": 13.234319686889648,
+        "height": 74.1
+    },
+    {
+        "name": "Buenos Aires",
+        "country": "Argentina",
+        "province": "Buenos Aires F.D.",
+        "population": 9170236,
+        "latitude": -34.6131488101425,
+        "longitude": -58.3772277832031,
+        "height": -999
+    },
+    {
+        "name": "Córdoba",
+        "country": "Argentina",
+        "province": "Cordoba",
+        "population": 7596452,
+        "latitude": -31.413496,
+        "longitude": -64.181052,
+        "height": -999
+    },
+    {
+        "name": "Mar del Plata",
+        "country": "Argentina",
+        "province": "Buenos Aires",
+        "population": 6872491,
+        "latitude": -38.00042,
+        "longitude": -57.5562,
+        "height": -999
+    },
+    {
+        "name": "Rosario",
+        "country": "Argentina",
+        "province": "Santa Fe",
+        "population": 7227466,
+        "latitude": -32.946818,
+        "longitude": -60.639317,
+        "height": -999
+    },
+    {
+        "name": "Tucumán",
+        "country": "Argentina",
+        "province": "Tucuman",
+        "population": 6828020,
+        "latitude": -26.824144,
+        "longitude": -65.2226,
+        "height": -999
+    },
+    {
+        "name": "Salta",
+        "country": "Argentina",
+        "province": "Salta",
+        "population": 6799837,
+        "latitude": -24.785896,
+        "longitude": -65.411664,
+        "height": -999
+    },
+    {
+        "name": "Vienna",
+        "country": "Austria",
+        "province": "Vienna",
+        "population": 8847037,
+        "latitude": 48.2084877601653,
+        "longitude": 16.3720750808716,
+        "height": 191
+    },
+    {
+        "name": "Sydney",
+        "country": "Australia",
+        "province": "New South Wales",
+        "population": 6571341.666666667,
+        "latitude": -33.8678499639382,
+        "longitude": 151.207323074341,
+        "height": -999
+    },
+    {
+        "name": "Brisbane",
+        "country": "Australia",
+        "province": "Queensland",
+        "population": 3922201.666666667,
+        "latitude": -27.4679357321901,
+        "longitude": 153.028092384338,
+        "height": -999
+    },
+    {
+        "name": "Perth",
+        "country": "Australia",
+        "province": "Western Australia",
+        "population": 3532423.666666667,
+        "latitude": -31.95224,
+        "longitude": 115.861397,
+        "height": -999
+    },
+    {
+        "name": "Adelaide",
+        "country": "Australia",
+        "province": "South Australia",
+        "population": 2727484.666666667,
+        "latitude": -34.928661,
+        "longitude": 138.598633,
+        "height": -999
+    },
+    {
+        "name": "Melbourne",
+        "country": "Australia",
+        "province": "Victoria",
+        "population": 6257944.666666667,
+        "latitude": -37.8139965641595,
+        "longitude": 144.963322877884,
+        "height": -999
+    },
+    {
+        "name": "Gold Coast",
+        "country": "Australia",
+        "province": "Queensland",
+        "population": 1980972.6666666667,
+        "latitude": -28.00029,
+        "longitude": 153.430878,
+        "height": -999
+    },
+    {
+        "name": "Baku",
+        "country": "Azerbaijan",
+        "province": "Baki",
+        "population": 9942334,
+        "latitude": 40.37767458261952,
+        "longitude": 49.892005920410156,
+        "height": 0
+    },
+    {
+        "name": "Sarajevo",
+        "country": "Bosnia and Herzegovina",
+        "province": "Federation of B&H",
+        "population": 3323929,
+        "latitude": 43.8486413602902,
+        "longitude": 18.3564376831055,
+        "height": 510.1
+    },
+    {
         "name": "Dhaka",
         "country": "Bangladesh",
         "province": "Dhaka",
-        "population": 161356039,
+        "population": 34148776.66666667,
         "latitude": 23.710395616597037,
-        "longitude": 90.40743827819824
+        "longitude": 90.40743827819824,
+        "height": 22.4
+    },
+    {
+        "name": "Chittagong",
+        "country": "Bangladesh",
+        "province": "Chittagong",
+        "population": 27712498.666666668,
+        "latitude": 22.338396,
+        "longitude": 91.831685,
+        "height": 14
+    },
+    {
+        "name": "Khulna",
+        "country": "Bangladesh",
+        "province": "Khulna",
+        "population": 25292965.666666668,
+        "latitude": 22.809785,
+        "longitude": 89.564389,
+        "height": 8.8
+    },
+    {
+        "name": "Rangpur City",
+        "country": "Bangladesh",
+        "province": "Rangpur Division",
+        "population": 24823664.666666668,
+        "latitude": 25.746641,
+        "longitude": 89.251662,
+        "height": 35.9
+    },
+    {
+        "name": "Rajshahi",
+        "country": "Bangladesh",
+        "province": "Rajshahi Division",
+        "population": 24555856.666666668,
+        "latitude": 24.374002,
+        "longitude": 88.601142,
+        "height": 22.9
+    },
+    {
+        "name": "Comilla",
+        "country": "Bangladesh",
+        "province": "Chittagong",
+        "population": 24822276.666666668,
+        "latitude": 23.461861,
+        "longitude": 91.185035,
+        "height": 16.1
+    },
+    {
+        "name": "Brussels",
+        "country": "Belgium",
+        "province": "Brussels Capital",
+        "population": 5955921.5,
+        "latitude": 50.8504450552593,
+        "longitude": 4.34878349304199,
+        "height": 31.8
+    },
+    {
+        "name": "Antwerp",
+        "country": "Belgium",
+        "province": "Flanders",
+        "population": 5466146.5,
+        "latitude": 51.22047,
+        "longitude": 4.40026,
+        "height": 10.6
+    },
+    {
+        "name": "Ouagadougou",
+        "country": "Burkina Faso",
+        "province": "Centre",
+        "population": 9966560,
+        "latitude": 12.365657975270413,
+        "longitude": -1.5338802337646484,
+        "height": 298
+    },
+    {
+        "name": "Bobo-Dioulasso",
+        "country": "Burkina Faso",
+        "province": "Hauts-Bassins",
+        "population": 9784975,
+        "latitude": 11.177154,
+        "longitude": -4.297901,
+        "height": 421.7
+    },
+    {
+        "name": "Sofia",
+        "country": "Bulgaria",
+        "province": "Sofia-Capital",
+        "population": 7000039,
+        "latitude": 42.6975135281805,
+        "longitude": 23.324146270752,
+        "height": 561.9
+    },
+    {
+        "name": "Bujumbura",
+        "country": "Burundi",
+        "province": "Bujumbura Mairie",
+        "population": 11175378,
+        "latitude": -3.381928,
+        "longitude": 29.36142,
+        "height": 811.8
+    },
+    {
+        "name": "Cotonou",
+        "country": "Benin",
+        "province": "Littoral",
+        "population": 11485048,
+        "latitude": 6.365359,
+        "longitude": 2.418329,
+        "height": 7
+    },
+    {
+        "name": "Santa Cruz",
+        "country": "Bolivia",
+        "province": "Santa Cruz Department",
+        "population": 4056694,
+        "latitude": -17.786285577789773,
+        "longitude": -63.18117141723633,
+        "height": -999
+    },
+    {
+        "name": "La Paz",
+        "country": "Bolivia",
+        "province": "La Paz Department",
+        "population": 4229912,
+        "latitude": -16.5,
+        "longitude": -68.15,
+        "height": -999
+    },
+    {
+        "name": "Cochabamba",
+        "country": "Bolivia",
+        "province": "Cochabamba",
+        "population": 3066536,
+        "latitude": -17.389498,
+        "longitude": -66.156797,
+        "height": -999
+    },
+    {
+        "name": "Salvador",
+        "country": "Brazil",
+        "province": "Bahia",
+        "population": 6241816.119047619,
+        "latitude": -12.97563,
+        "longitude": -38.49096,
+        "height": -999
+    },
+    {
+        "name": "Brasília",
+        "country": "Brazil",
+        "province": "Federal District",
+        "population": 5737694.119047619,
+        "latitude": -15.77972,
+        "longitude": -47.92972,
+        "height": -999
+    },
+    {
+        "name": "Fortaleza",
+        "country": "Brazil",
+        "province": "Ceará",
+        "population": 5929976.119047619,
+        "latitude": -3.717222222,
+        "longitude": -38.54305556,
+        "height": 18.1
     },
     {
         "name": "São Paulo",
         "country": "Brazil",
         "province": "São Paulo",
-        "population": 209469333,
+        "population": 15930208.11904762,
         "latitude": -23.5475,
-        "longitude": -46.63611111
+        "longitude": -46.63611111,
+        "height": -999
+    },
+    {
+        "name": "Rio de Janeiro",
+        "country": "Brazil",
+        "province": "Rio de Janeiro",
+        "population": 10277791.11904762,
+        "latitude": -22.90642,
+        "longitude": -43.18223,
+        "height": -999
+    },
+    {
+        "name": "Curitiba",
+        "country": "Brazil",
+        "province": "Paraná",
+        "population": 5478602.119047619,
+        "latitude": -25.42777778,
+        "longitude": -49.27305556,
+        "height": -999
+    },
+    {
+        "name": "Cuiabá",
+        "country": "Brazil",
+        "province": "Mato Grosso",
+        "population": 4148100.119047619,
+        "latitude": -15.59611111,
+        "longitude": -56.09666667,
+        "height": -999
+    },
+    {
+        "name": "Campo Grande",
+        "country": "Brazil",
+        "province": "Mato Grosso do Sul",
+        "population": 4436068.119047619,
+        "latitude": -20.44277778,
+        "longitude": -54.64638889,
+        "height": -999
+    },
+    {
+        "name": "Belo Horizonte",
+        "country": "Brazil",
+        "province": "Minas Gerais",
+        "population": 6251540.119047619,
+        "latitude": -19.92083333,
+        "longitude": -43.93777778,
+        "height": -999
+    },
+    {
+        "name": "Porto Alegre",
+        "country": "Brazil",
+        "province": "Rio Grande do Sul",
+        "population": 5018228.119047619,
+        "latitude": -30.03283,
+        "longitude": -51.23019,
+        "height": -999
+    },
+    {
+        "name": "Goiânia",
+        "country": "Brazil",
+        "province": "Goiás",
+        "population": 5066073.119047619,
+        "latitude": -16.67861111,
+        "longitude": -49.25388889,
+        "height": -999
+    },
+    {
+        "name": "Florianópolis",
+        "country": "Brazil",
+        "province": "Santa Catarina",
+        "population": 4038802.119047619,
+        "latitude": -27.59666667,
+        "longitude": -48.54916667,
+        "height": -999
+    },
+    {
+        "name": "Teresina",
+        "country": "Brazil",
+        "province": "Piauí",
+        "population": 4401102.119047619,
+        "latitude": -5.089166667,
+        "longitude": -42.80194444,
+        "height": 87
+    },
+    {
+        "name": "São Luís",
+        "country": "Brazil",
+        "province": "Maranhão",
+        "population": 4447213.119047619,
+        "latitude": -2.529722222,
+        "longitude": -44.30277778,
+        "height": 30
+    },
+    {
+        "name": "Porto Velho",
+        "country": "Brazil",
+        "province": "Rondônia",
+        "population": 4078928.119047619,
+        "latitude": -8.761944444,
+        "longitude": -63.90388889,
+        "height": 91
+    },
+    {
+        "name": "Manaus",
+        "country": "Brazil",
+        "province": "Amazonas",
+        "population": 5749556.119047619,
+        "latitude": -3.101944444,
+        "longitude": -60.025,
+        "height": 19
+    },
+    {
+        "name": "Aracaju",
+        "country": "Brazil",
+        "province": "Sergipe",
+        "population": 4194884.119047619,
+        "latitude": -10.91111111,
+        "longitude": -37.07166667,
+        "height": -999
+    },
+    {
+        "name": "Belém",
+        "country": "Brazil",
+        "province": "Pará",
+        "population": 5029617.119047619,
+        "latitude": -1.455833333,
+        "longitude": -48.50444444,
+        "height": 16
+    },
+    {
+        "name": "Recife",
+        "country": "Brazil",
+        "province": "Pernambuco",
+        "population": 5183437.119047619,
+        "latitude": -8.053888889,
+        "longitude": -34.88111111,
+        "height": 7
+    },
+    {
+        "name": "Natal",
+        "country": "Brazil",
+        "province": "Rio Grande do Norte",
+        "population": 4426684.119047619,
+        "latitude": -5.795,
+        "longitude": -35.20944444,
+        "height": 32
+    },
+    {
+        "name": "Maceió",
+        "country": "Brazil",
+        "province": "Alagoas",
+        "population": 4561573.119047619,
+        "latitude": -9.665833333,
+        "longitude": -35.73527778,
+        "height": -999
+    },
+    {
+        "name": "Macapá",
+        "country": "Brazil",
+        "province": "Amapá",
+        "population": 4042878.119047619,
+        "latitude": 0.038888889,
+        "longitude": -51.06638889,
+        "height": 18
+    },
+    {
+        "name": "João Pessoa",
+        "country": "Brazil",
+        "province": "Paraíba",
+        "population": 4347487.119047619,
+        "latitude": -7.115,
+        "longitude": -34.86305556,
+        "height": 45
+    },
+    {
+        "name": "Campinas",
+        "country": "Brazil",
+        "province": "São Paulo",
+        "population": 4561530.119047619,
+        "latitude": -22.90555556,
+        "longitude": -47.06083333,
+        "height": -999
+    },
+    {
+        "name": "Nova Iguaçu",
+        "country": "Brazil",
+        "province": "Rio de Janeiro",
+        "population": 4353278.119047619,
+        "latitude": -22.75916667,
+        "longitude": -43.45111111,
+        "height": -999
+    },
+    {
+        "name": "Guarulhos",
+        "country": "Brazil",
+        "province": "São Paulo",
+        "population": 4699553.119047619,
+        "latitude": -23.46277778,
+        "longitude": -46.53333333,
+        "height": -999
+    },
+    {
+        "name": "Feira de Santana",
+        "country": "Brazil",
+        "province": "Bahia",
+        "population": 4149585.119047619,
+        "latitude": -12.26666667,
+        "longitude": -38.96666667,
+        "height": -999
+    },
+    {
+        "name": "Duque de Caxias",
+        "country": "Brazil",
+        "province": "Rio de Janeiro",
+        "population": 4348305.119047619,
+        "latitude": -22.78555556,
+        "longitude": -43.31166667,
+        "height": -999
+    },
+    {
+        "name": "Sorocaba",
+        "country": "Brazil",
+        "province": "São Paulo",
+        "population": 4217333.119047619,
+        "latitude": -23.50166667,
+        "longitude": -47.45805556,
+        "height": -999
+    },
+    {
+        "name": "São José dos Campos",
+        "country": "Brazil",
+        "province": "São Paulo",
+        "population": 4259713.119047619,
+        "latitude": -23.17944444,
+        "longitude": -45.88694444,
+        "height": -999
+    },
+    {
+        "name": "São Bernardo do Campo",
+        "country": "Brazil",
+        "province": "São Paulo",
+        "population": 4273348.119047619,
+        "latitude": -23.69388889,
+        "longitude": -46.565,
+        "height": -999
+    },
+    {
+        "name": "Santo André",
+        "country": "Brazil",
+        "province": "São Paulo",
+        "population": 4192349.119047619,
+        "latitude": -23.66388889,
+        "longitude": -46.53833333,
+        "height": -999
+    },
+    {
+        "name": "Ribeirão Preto",
+        "country": "Brazil",
+        "province": "São Paulo",
+        "population": 4241801.119047619,
+        "latitude": -21.1775,
+        "longitude": -47.81027778,
+        "height": -999
+    },
+    {
+        "name": "Contagem",
+        "country": "Brazil",
+        "province": "Minas Gerais",
+        "population": 4157099.119047619,
+        "latitude": -19.93166667,
+        "longitude": -44.05361111,
+        "height": -999
+    },
+    {
+        "name": "Campos dos Goytacazes",
+        "country": "Brazil",
+        "province": "Rio de Janeiro",
+        "population": 4041144.119047619,
+        "latitude": -21.752274,
+        "longitude": -41.330444,
+        "height": -999
+    },
+    {
+        "name": "Londrina",
+        "country": "Brazil",
+        "province": "Paraná",
+        "population": 4118101.119047619,
+        "latitude": -23.31027778,
+        "longitude": -51.16277778,
+        "height": -999
+    },
+    {
+        "name": "Uberlândia",
+        "country": "Brazil",
+        "province": "Minas Gerais",
+        "population": 4093512.119047619,
+        "latitude": -18.91861111,
+        "longitude": -48.27722222,
+        "height": -999
+    },
+    {
+        "name": "Juiz de Fora",
+        "country": "Brazil",
+        "province": "Minas Gerais",
+        "population": 4103261.119047619,
+        "latitude": -21.76416667,
+        "longitude": -43.35027778,
+        "height": -999
+    },
+    {
+        "name": "Aparecida de Goiânia",
+        "country": "Brazil",
+        "province": "Goiás",
+        "population": 4040746.119047619,
+        "latitude": -16.82333333,
+        "longitude": -49.24388889,
+        "height": -999
+    },
+    {
+        "name": "Osasco",
+        "country": "Brazil",
+        "province": "São Paulo",
+        "population": 4207832.119047619,
+        "latitude": -23.5325,
+        "longitude": -46.79166667,
+        "height": -999
+    },
+    {
+        "name": "Jaboatão dos Guararapes",
+        "country": "Brazil",
+        "province": "Pernambuco",
+        "population": 4159984.119047619,
+        "latitude": -8.112777778,
+        "longitude": -35.01472222,
+        "height": 46
+    },
+    {
+        "name": "Jaboatão",
+        "country": "Brazil",
+        "province": "Pernambuco",
+        "population": 4232597.119047619,
+        "latitude": -8.180277778,
+        "longitude": -35.00138889,
+        "height": 89
+    },
+    {
+        "name": "Minsk",
+        "country": "Belarus",
+        "province": "Minsk City",
+        "population": 5350319,
+        "latitude": 53.9,
+        "longitude": 27.5666667,
+        "height": 222
+    },
+    {
+        "name": "Homyel",
+        "country": "Belarus",
+        "province": "Homyel’ Voblasc’",
+        "population": 4135067,
+        "latitude": 52.4345,
+        "longitude": 30.9754,
+        "height": 138.2
+    },
+    {
+        "name": "Ottawa",
+        "country": "Canada",
+        "province": "Ontario",
+        "population": 3192973.727272727,
+        "latitude": 45.4111650792678,
+        "longitude": -75.6981182098389,
+        "height": 72.2
+    },
+    {
+        "name": "Calgary",
+        "country": "Canada",
+        "province": "Alberta",
+        "population": 3400786.727272727,
+        "latitude": 51.050112282,
+        "longitude": -114.085285152,
+        "height": 1045.6
+    },
+    {
+        "name": "Toronto",
+        "country": "Canada",
+        "province": "Ontario",
+        "population": 4980844.727272727,
+        "latitude": 43.700113788,
+        "longitude": -79.416304194,
+        "height": 171.9
+    },
+    {
+        "name": "Mississauga",
+        "country": "Canada",
+        "province": "Ontario",
+        "population": 3049393.727272727,
+        "latitude": 43.5788986029537,
+        "longitude": -79.6583032608032,
+        "height": 161
+    },
+    {
+        "name": "Vancouver",
+        "country": "Canada",
+        "province": "British Columbia",
+        "population": 2980844.727272727,
+        "latitude": 49.249657393,
+        "longitude": -123.119340403,
+        "height": 71.2
+    },
+    {
+        "name": "Québec",
+        "country": "Canada",
+        "province": "Quebec",
+        "population": 2912746.727272727,
+        "latitude": 46.8122791164294,
+        "longitude": -71.2145376205444,
+        "height": 53.4
+    },
+    {
+        "name": "Brampton",
+        "country": "Canada",
+        "province": "Ontario",
+        "population": 2974482.727272727,
+        "latitude": 43.683413485,
+        "longitude": -79.766326996,
+        "height": 220
+    },
+    {
+        "name": "Edmonton",
+        "country": "Canada",
+        "province": "Alberta",
+        "population": 3391743.727272727,
+        "latitude": 53.550135939,
+        "longitude": -113.468712219,
+        "height": 612.9
+    },
+    {
+        "name": "Winnipeg",
+        "country": "Canada",
+        "province": "Manitoba",
+        "population": 3130451.727272727,
+        "latitude": 49.884398624,
+        "longitude": -97.147044715,
+        "height": 230
+    },
+    {
+        "name": "Hamilton",
+        "country": "Canada",
+        "province": "Ontario",
+        "population": 2900793.727272727,
+        "latitude": 43.250108642,
+        "longitude": -79.849631471,
+        "height": 92
+    },
+    {
+        "name": "Montreal",
+        "country": "Canada",
+        "province": "Quebec",
+        "population": 4143793.727272727,
+        "latitude": 45.5088375,
+        "longitude": -73.587809,
+        "height": 219.5
+    },
+    {
+        "name": "Kinshasa",
+        "country": "DR Congo",
+        "province": "Kinshasa",
+        "population": 26159574.25,
+        "latitude": -4.32758,
+        "longitude": 15.31357,
+        "height": 281.5
+    },
+    {
+        "name": "Lubumbashi",
+        "country": "DR Congo",
+        "province": "Haut-Katanga",
+        "population": 19747379.25,
+        "latitude": -11.660894639564583,
+        "longitude": 27.479381561279297,
+        "height": -999
+    },
+    {
+        "name": "Mbuji-Mayi",
+        "country": "DR Congo",
+        "province": "Kasaï-Oriental",
+        "population": 19248370.25,
+        "latitude": -6.136031836890937,
+        "longitude": 23.589792251586914,
+        "height": 621.6
+    },
+    {
+        "name": "Kisangani",
+        "country": "DR Congo",
+        "province": "Tshopo",
+        "population": 18912767.25,
+        "latitude": 0.51528,
+        "longitude": 25.190987,
+        "height": 397.6
+    },
+    {
+        "name": "Bangui",
+        "country": "Central African Republic",
+        "province": "Bangui",
+        "population": 4666377,
+        "latitude": 4.361217135048182,
+        "longitude": 18.554964065551758,
+        "height": -999
+    },
+    {
+        "name": "Brazzaville",
+        "country": "Congo Republic",
+        "province": "Brazzaville",
+        "population": 2934944,
+        "latitude": -4.266129379891901,
+        "longitude": 15.283184051513672,
+        "height": 282.5
+    },
+    {
+        "name": "Pointe-Noire",
+        "country": "Congo Republic",
+        "province": "Pointe-Noire",
+        "population": 2309419,
+        "latitude": -4.776086817327023,
+        "longitude": 11.863517761230469,
+        "height": 10.4
+    },
+    {
+        "name": "Abidjan",
+        "country": "Ivory Coast",
+        "province": "Abidjan",
+        "population": 11846269.666666668,
+        "latitude": 5.354444,
+        "longitude": -4.001667,
+        "height": 50
+    },
+    {
+        "name": "Bouaké",
+        "country": "Ivory Coast",
+        "province": "Vallée du Bandama",
+        "population": 6357623.666666667,
+        "latitude": 7.693846,
+        "longitude": -5.030307,
+        "height": 341
+    },
+    {
+        "name": "Abobo",
+        "country": "Ivory Coast",
+        "province": "Abidjan",
+        "population": 6865335.666666667,
+        "latitude": 5.416134,
+        "longitude": -4.015901,
+        "height": 107.5
+    },
+    {
+        "name": "Santiago",
+        "country": "Chile",
+        "province": "Santiago Metropolitan",
+        "population": 11499174.5,
+        "latitude": -33.456937736669424,
+        "longitude": -70.64826965332031,
+        "height": -999
+    },
+    {
+        "name": "Puente Alto",
+        "country": "Chile",
+        "province": "Santiago Metropolitan",
+        "population": 7229985.5,
+        "latitude": -33.611687,
+        "longitude": -70.575769,
+        "height": -999
+    },
+    {
+        "name": "Douala",
+        "country": "Cameroon",
+        "province": "Littoral",
+        "population": 12627475,
+        "latitude": 4.048265142981772,
+        "longitude": 9.704275131225586,
+        "height": 18.8
+    },
+    {
+        "name": "Yaoundé",
+        "country": "Cameroon",
+        "province": "Centre",
+        "population": 12588762,
+        "latitude": 3.8666667,
+        "longitude": 11.5166667,
+        "height": 727.1
     },
     {
         "name": "Beijing",
         "country": "China",
         "province": "Beijing",
-        "population": 204940746.85714287,
+        "population": 22286001.72623574,
         "latitude": 39.9074977414405,
-        "longitude": 116.397228240967
+        "longitude": 116.397228240967,
+        "height": 49
     },
     {
         "name": "Wuhan",
         "country": "China",
         "province": "Hubei",
-        "population": 196372695.85714287,
+        "population": 13717950.726235742,
         "latitude": 30.5833333,
-        "longitude": 114.2666667
+        "longitude": 114.2666667,
+        "height": 19
     },
     {
         "name": "Tianjin",
         "country": "China",
         "province": "Tianjin",
-        "population": 197070316.85714287,
+        "population": 14415571.726235742,
         "latitude": 39.1422222,
-        "longitude": 117.1766667
+        "longitude": 117.1766667,
+        "height": 11
     },
     {
         "name": "Shenzhen",
         "country": "China",
         "province": "Guangdong",
-        "population": 203474400.85714287,
+        "population": 20819655.72623574,
         "latitude": 22.5455376639819,
-        "longitude": 114.068298339844
+        "longitude": 114.068298339844,
+        "height": 0
     },
     {
         "name": "Shanghai",
         "country": "China",
         "province": "Shanghai",
-        "population": 208295476.85714287,
+        "population": 25640731.72623574,
         "latitude": 31.2222222,
-        "longitude": 121.4580556
+        "longitude": 121.4580556,
+        "height": 5.1
     },
     {
         "name": "Chengdu",
         "country": "China",
         "province": "Sichuan",
-        "population": 199548359.85714287,
+        "population": 16893614.72623574,
         "latitude": 30.6666667,
-        "longitude": 104.0666667
+        "longitude": 104.0666667,
+        "height": 499
     },
     {
         "name": "Guangzhou",
         "country": "China",
         "province": "Guangdong",
-        "population": 202076726.85714287,
+        "population": 19421981.72623574,
         "latitude": 23.1166667,
-        "longitude": 113.25
+        "longitude": 113.25,
+        "height": 16
     },
     {
-        "name": "Mumbai",
-        "country": "India",
-        "province": "Maharashtra",
-        "population": 677190589,
-        "latitude": 19.07282592774,
-        "longitude": 72.88261413574219
+        "name": "Xi'an",
+        "country": "China",
+        "province": "Shaanxi",
+        "population": 12925257.726235742,
+        "latitude": 34.258333,
+        "longitude": 108.928611,
+        "height": 417.9
     },
     {
-        "name": "Delhi",
-        "country": "India",
-        "province": "Delhi",
-        "population": 675426739,
-        "latitude": 28.651952,
-        "longitude": 77.231495
+        "name": "Nanjing",
+        "country": "China",
+        "province": "Jiangsu",
+        "population": 12639942.726235742,
+        "latitude": 32.0616667,
+        "longitude": 118.7777778,
+        "height": 22
     },
     {
-        "name": "Seoul",
-        "country": "South Korea",
-        "province": "Seoul",
-        "population": 51635256,
-        "latitude": 37.566,
-        "longitude": 126.9784
+        "name": "Shenyang",
+        "country": "China",
+        "province": "Liaoning",
+        "population": 10375257.726235742,
+        "latitude": 41.7922222,
+        "longitude": 123.4327778,
+        "height": 54
     },
     {
-        "name": "Mexico City",
-        "country": "Mexico",
-        "province": "Mexico City",
-        "population": 126190788,
-        "latitude": 19.428472427036,
-        "longitude": -99.12766456604
+        "name": "Harbin",
+        "country": "China",
+        "province": "Heilongjiang",
+        "population": 8568154.726235742,
+        "latitude": 45.75,
+        "longitude": 126.65,
+        "height": 140
     },
     {
-        "name": "Lagos",
-        "country": "Nigeria",
-        "province": "Lagos",
-        "population": 195874740,
-        "latitude": 6.454066,
-        "longitude": 3.394673
+        "name": "Changchun",
+        "country": "China",
+        "province": "Jilin",
+        "population": 8040253.726235742,
+        "latitude": 43.88,
+        "longitude": 125.3227778,
+        "height": 205
+    },
+    {
+        "name": "Shijiazhuang",
+        "country": "China",
+        "province": "Hebei",
+        "population": 7263770.726235742,
+        "latitude": 38.0413889,
+        "longitude": 114.4786111,
+        "height": 77
+    },
+    {
+        "name": "Dongguan",
+        "country": "China",
+        "province": "Guangdong",
+        "population": 12970128.726235742,
+        "latitude": 23.01797,
+        "longitude": 113.74866,
+        "height": 8.3
+    },
+    {
+        "name": "Chongqing",
+        "country": "China",
+        "province": "Chongqing",
+        "population": 10782856.726235742,
+        "latitude": 29.56026,
+        "longitude": 106.55771,
+        "height": 287.6
+    },
+    {
+        "name": "Hefei",
+        "country": "China",
+        "province": "Anhui",
+        "population": 8375257.726235742,
+        "latitude": 31.863889,
+        "longitude": 117.280833,
+        "height": 25
+    },
+    {
+        "name": "Hangzhou",
+        "country": "China",
+        "province": "Zhejiang",
+        "population": 12561289.726235742,
+        "latitude": 30.29365,
+        "longitude": 120.161419,
+        "height": 16.6
+    },
+    {
+        "name": "Fuzhou",
+        "country": "China",
+        "province": "Fujian",
+        "population": 7065257.726235742,
+        "latitude": 26.0613889,
+        "longitude": 119.3061111,
+        "height": 11
+    },
+    {
+        "name": "Kunming",
+        "country": "China",
+        "province": "Yunnan",
+        "population": 7180603.726235742,
+        "latitude": 25.0388889,
+        "longitude": 102.7183333,
+        "height": 1895
+    },
+    {
+        "name": "Jinan",
+        "country": "China",
+        "province": "Shandong",
+        "population": 7661246.726235742,
+        "latitude": 36.6683333,
+        "longitude": 116.9972222,
+        "height": 32
+    },
+    {
+        "name": "Changsha",
+        "country": "China",
+        "province": "Hunan",
+        "population": 6419237.726235742,
+        "latitude": 28.19873973089233,
+        "longitude": 112.97086715698242,
+        "height": 74.6
+    },
+    {
+        "name": "Ürümqi",
+        "country": "China",
+        "province": "Xinjiang",
+        "population": 6354629.726235742,
+        "latitude": 43.800965,
+        "longitude": 87.600459,
+        "height": 863.7
+    },
+    {
+        "name": "Zhengzhou",
+        "country": "China",
+        "province": "Henan",
+        "population": 7579170.726235742,
+        "latitude": 34.7577778,
+        "longitude": 113.6486111,
+        "height": 104
+    },
+    {
+        "name": "Hohhot",
+        "country": "China",
+        "province": "Inner Mongolia",
+        "population": 5675257.726235742,
+        "latitude": 40.8105556,
+        "longitude": 111.6522222,
+        "height": 1051
+    },
+    {
+        "name": "Suzhou",
+        "country": "China",
+        "province": "Jiangsu",
+        "population": 10040816.726235742,
+        "latitude": 31.304077,
+        "longitude": 120.59538,
+        "height": 13.7
+    },
+    {
+        "name": "Xining",
+        "country": "China",
+        "province": "Qinghai",
+        "population": 5002434.726235742,
+        "latitude": 36.625541,
+        "longitude": 101.75739,
+        "height": -999
+    },
+    {
+        "name": "Amoy",
+        "country": "China",
+        "province": "Fujian",
+        "population": 7942508.726235742,
+        "latitude": 24.479794,
+        "longitude": 118.081869,
+        "height": 10.2
+    },
+    {
+        "name": "Nanchang",
+        "country": "China",
+        "province": "Jiangxi",
+        "population": 5683096.726235742,
+        "latitude": 28.68396,
+        "longitude": 115.85306,
+        "height": 20.2
+    },
+    {
+        "name": "Taiyuan",
+        "country": "China",
+        "province": "Shanxi",
+        "population": 7628930.726235742,
+        "latitude": 37.8694444,
+        "longitude": 112.5602778,
+        "height": 802
+    },
+    {
+        "name": "Haikou",
+        "country": "China",
+        "province": "Hainan",
+        "population": 6198615.726235742,
+        "latitude": 20.03420511,
+        "longitude": 110.34651195,
+        "height": 21
+    },
+    {
+        "name": "Guiyang",
+        "country": "China",
+        "province": "Guizhou",
+        "population": 6362416.726235742,
+        "latitude": 26.5833333,
+        "longitude": 106.7166667,
+        "height": 1088
+    },
+    {
+        "name": "Foshan",
+        "country": "China",
+        "province": "Guangdong",
+        "population": 12367766.726235742,
+        "latitude": 23.026771,
+        "longitude": 113.131483,
+        "height": 4.8
+    },
+    {
+        "name": "Lanzhou",
+        "country": "China",
+        "province": "Gansu",
+        "population": 6325257.726235742,
+        "latitude": 36.057006,
+        "longitude": 103.839868,
+        "height": 1522.1
+    },
+    {
+        "name": "Qingdao",
+        "country": "China",
+        "province": "Shandong",
+        "population": 10497708.726235742,
+        "latitude": 36.06488,
+        "longitude": 120.38042,
+        "height": 16.2
+    },
+    {
+        "name": "Nanning",
+        "country": "China",
+        "province": "Guangxi",
+        "population": 7165057.726235742,
+        "latitude": 22.8166667,
+        "longitude": 108.3166667,
+        "height": 92
+    },
+    {
+        "name": "Zibo",
+        "country": "China",
+        "province": "Shandong",
+        "population": 6454485.726235742,
+        "latitude": 36.7905556,
+        "longitude": 118.0633333,
+        "height": 53.9
+    },
+    {
+        "name": "Yinchuan",
+        "country": "China",
+        "province": "Ningxia Hui Autonomous Region",
+        "population": 4812836.726235742,
+        "latitude": 38.468056,
+        "longitude": 106.273056,
+        "height": 1114.1
+    },
+    {
+        "name": "Kashgar",
+        "country": "China",
+        "province": "Xinjiang",
+        "population": 3831897.7262357413,
+        "latitude": 39.470655,
+        "longitude": 75.989513,
+        "height": 1298.8
+    },
+    {
+        "name": "Zhangjiakou",
+        "country": "China",
+        "province": "Hebei",
+        "population": 4017859.7262357413,
+        "latitude": 40.783405,
+        "longitude": 114.871385,
+        "height": 728.3
+    },
+    {
+        "name": "Siping",
+        "country": "China",
+        "province": "Jilin",
+        "population": 3880866.7262357413,
+        "latitude": 43.16143,
+        "longitude": 124.37785,
+        "height": 178
+    },
+    {
+        "name": "Qiqihar",
+        "country": "China",
+        "province": "Heilongjiang",
+        "population": 4207621.726235742,
+        "latitude": 47.339221,
+        "longitude": 123.96154,
+        "height": 147.7
+    },
+    {
+        "name": "Liaoyang",
+        "country": "China",
+        "province": "Liaoning",
+        "population": 4013147.7262357413,
+        "latitude": 41.2719444,
+        "longitude": 123.1730556,
+        "height": 33
+    },
+    {
+        "name": "Jinzhou",
+        "country": "China",
+        "province": "Liaoning",
+        "population": 3929526.7262357413,
+        "latitude": 41.1077778,
+        "longitude": 121.1416667,
+        "height": 27
+    },
+    {
+        "name": "Jilin City",
+        "country": "China",
+        "province": "Jilin",
+        "population": 5221122.726235742,
+        "latitude": 43.8508333,
+        "longitude": 126.5602778,
+        "height": 196
+    },
+    {
+        "name": "Jiamusi",
+        "country": "China",
+        "province": "Heilongjiang",
+        "population": 3874806.7262357413,
+        "latitude": 46.797105,
+        "longitude": 130.311185,
+        "height": 80.9
+    },
+    {
+        "name": "Fuxin",
+        "country": "China",
+        "province": "Liaoning",
+        "population": 4014307.7262357413,
+        "latitude": 42.0155556,
+        "longitude": 121.6588889,
+        "height": 141
+    },
+    {
+        "name": "Fushun",
+        "country": "China",
+        "province": "Liaoning",
+        "population": 4725903.726235742,
+        "latitude": 41.88669,
+        "longitude": 123.94363,
+        "height": 85.1
+    },
+    {
+        "name": "Datong",
+        "country": "China",
+        "province": "Shanxi",
+        "population": 5175257.726235742,
+        "latitude": 40.0936111,
+        "longitude": 113.2913889,
+        "height": 1053
+    },
+    {
+        "name": "Daqing",
+        "country": "China",
+        "province": "Heilongjiang",
+        "population": 4929284.726235742,
+        "latitude": 46.5833333,
+        "longitude": 125,
+        "height": 145
+    },
+    {
+        "name": "Dandong",
+        "country": "China",
+        "province": "Liaoning",
+        "population": 3957230.7262357413,
+        "latitude": 40.1291667,
+        "longitude": 124.3947222,
+        "height": 10
+    },
+    {
+        "name": "Benxi",
+        "country": "China",
+        "province": "Liaoning",
+        "population": 4312974.726235742,
+        "latitude": 41.2886111,
+        "longitude": 123.765,
+        "height": 208
+    },
+    {
+        "name": "Baotou",
+        "country": "China",
+        "province": "Inner Mongolia",
+        "population": 5475257.726235742,
+        "latitude": 40.6516,
+        "longitude": 109.84389,
+        "height": 1064
+    },
+    {
+        "name": "Anshan",
+        "country": "China",
+        "province": "Liaoning",
+        "population": 4775257.726235742,
+        "latitude": 41.1236111,
+        "longitude": 122.99,
+        "height": 57
+    },
+    {
+        "name": "Xingtai",
+        "country": "China",
+        "province": "Hebei",
+        "population": 4124027.7262357413,
+        "latitude": 37.0630556,
+        "longitude": 114.4941667,
+        "height": 76
+    },
+    {
+        "name": "Xiaogan",
+        "country": "China",
+        "province": "Hubei",
+        "population": 4233523.726235742,
+        "latitude": 30.92689,
+        "longitude": 113.92221,
+        "height": 32.2
+    },
+    {
+        "name": "Xianyang",
+        "country": "China",
+        "province": "Shaanxi",
+        "population": 4359338.726235742,
+        "latitude": 34.33778,
+        "longitude": 108.70261,
+        "height": 387.8
+    },
+    {
+        "name": "Zhuhai",
+        "country": "China",
+        "province": "Guangdong",
+        "population": 5532347.726235742,
+        "latitude": 22.2769444,
+        "longitude": 113.5677778,
+        "height": 43.8
+    },
+    {
+        "name": "Xiangtan",
+        "country": "China",
+        "province": "Hunan",
+        "population": 4284560.726235742,
+        "latitude": 27.85,
+        "longitude": 112.9,
+        "height": -999
+    },
+    {
+        "name": "Xiangfan",
+        "country": "China",
+        "province": "Hubei",
+        "population": 4619990.726235742,
+        "latitude": 32.042203,
+        "longitude": 112.144794,
+        "height": 70.2
+    },
+    {
+        "name": "Wuzhou",
+        "country": "China",
+        "province": "Guangxi",
+        "population": 4087205.7262357413,
+        "latitude": 23.480543,
+        "longitude": 111.288479,
+        "height": 50.6
+    },
+    {
+        "name": "Wuxi",
+        "country": "China",
+        "province": "Jiangsu",
+        "population": 7722092.726235742,
+        "latitude": 31.568873,
+        "longitude": 120.288573,
+        "height": 13.4
+    },
+    {
+        "name": "Changde",
+        "country": "China",
+        "province": "Hunan",
+        "population": 4782676.726235742,
+        "latitude": 29.03205,
+        "longitude": 111.69844,
+        "height": 37.4
+    },
+    {
+        "name": "Wuhu",
+        "country": "China",
+        "province": "Anhui",
+        "population": 4923422.726235742,
+        "latitude": 31.337275,
+        "longitude": 118.373509,
+        "height": 18
+    },
+    {
+        "name": "Wenzhou",
+        "country": "China",
+        "province": "Zhejiang",
+        "population": 5975257.726235742,
+        "latitude": 27.999416,
+        "longitude": 120.66682,
+        "height": 11.2
+    },
+    {
+        "name": "Weinan",
+        "country": "China",
+        "province": "Shaanxi",
+        "population": 4524547.726235742,
+        "latitude": 34.503546,
+        "longitude": 109.508908,
+        "height": 353.9
+    },
+    {
+        "name": "Weihai",
+        "country": "China",
+        "province": "Shandong",
+        "population": 4169567.7262357413,
+        "latitude": 37.509136,
+        "longitude": 122.113557,
+        "height": 14
+    },
+    {
+        "name": "Weifang",
+        "country": "China",
+        "province": "Shandong",
+        "population": 5369285.726235742,
+        "latitude": 36.71,
+        "longitude": 119.1019444,
+        "height": 30
+    },
+    {
+        "name": "Nanchong",
+        "country": "China",
+        "province": "Sichuan",
+        "population": 5184132.726235742,
+        "latitude": 30.795075,
+        "longitude": 106.084735,
+        "height": 288.2
+    },
+    {
+        "name": "Mianyang",
+        "country": "China",
+        "province": "Sichuan",
+        "population": 4875257.726235742,
+        "latitude": 31.46784,
+        "longitude": 104.68168,
+        "height": 472.9
+    },
+    {
+        "name": "Meizhou",
+        "country": "China",
+        "province": "Guangdong",
+        "population": 4317608.726235742,
+        "latitude": 24.28859,
+        "longitude": 116.11768,
+        "height": 83.4
+    },
+    {
+        "name": "Meishan",
+        "country": "China",
+        "province": "Sichuan",
+        "population": 4432999.726235742,
+        "latitude": 30.043922,
+        "longitude": 103.836961,
+        "height": 422.7
+    },
+    {
+        "name": "Maoming",
+        "country": "China",
+        "province": "Guangdong",
+        "population": 4633059.726235742,
+        "latitude": 21.666248,
+        "longitude": 110.913636,
+        "height": 24.4
+    },
+    {
+        "name": "Luzhou",
+        "country": "China",
+        "province": "Sichuan",
+        "population": 4324157.726235742,
+        "latitude": 28.890298985539896,
+        "longitude": 105.42574882507324,
+        "height": 258.3
+    },
+    {
+        "name": "Luoyang",
+        "country": "China",
+        "province": "Henan",
+        "population": 4715838.726235742,
+        "latitude": 34.6836111,
+        "longitude": 112.4536111,
+        "height": 148
+    },
+    {
+        "name": "Luohe",
+        "country": "China",
+        "province": "Henan",
+        "population": 4620231.726235742,
+        "latitude": 33.563941,
+        "longitude": 114.042717,
+        "height": 62
+    },
+    {
+        "name": "Longyan",
+        "country": "China",
+        "province": "Fujian",
+        "population": 4350344.726235742,
+        "latitude": 25.07485,
+        "longitude": 117.01775,
+        "height": 329.9
+    },
+    {
+        "name": "Puning",
+        "country": "China",
+        "province": "Guangdong",
+        "population": 4200211.726235742,
+        "latitude": 23.310722,
+        "longitude": 116.168691,
+        "height": 12.3
+    },
+    {
+        "name": "Linyi",
+        "country": "China",
+        "province": "Shandong",
+        "population": 6069100.726235742,
+        "latitude": 35.0630556,
+        "longitude": 118.3427778,
+        "height": 69
+    },
+    {
+        "name": "Linfen",
+        "country": "China",
+        "province": "Shanxi",
+        "population": 4284455.726235742,
+        "latitude": 36.0888889,
+        "longitude": 111.5188889,
+        "height": 451
+    },
+    {
+        "name": "Liaocheng",
+        "country": "China",
+        "province": "Shandong",
+        "population": 4555025.726235742,
+        "latitude": 36.450638,
+        "longitude": 116.002473,
+        "height": 30.9
+    },
+    {
+        "name": "Tangshan",
+        "country": "China",
+        "province": "Hebei",
+        "population": 6697359.726235742,
+        "latitude": 39.6333333,
+        "longitude": 118.1833333,
+        "height": 36
+    },
+    {
+        "name": "Taizhou",
+        "country": "China",
+        "province": "Jiangsu",
+        "population": 4932365.726235742,
+        "latitude": 32.49069,
+        "longitude": 119.908119,
+        "height": 9.5
+    },
+    {
+        "name": "Shiyan",
+        "country": "China",
+        "province": "Hubei",
+        "population": 6785257.726235742,
+        "latitude": 32.6475,
+        "longitude": 110.778056,
+        "height": 244.1
+    },
+    {
+        "name": "Shaoxing",
+        "country": "China",
+        "province": "Zhejiang",
+        "population": 5625257.726235742,
+        "latitude": 30.00237,
+        "longitude": 120.57864,
+        "height": 20.7
+    },
+    {
+        "name": "Shaoguan",
+        "country": "China",
+        "province": "Guangdong",
+        "population": 4353717.726235742,
+        "latitude": 24.8,
+        "longitude": 113.5833333,
+        "height": 70
+    },
+    {
+        "name": "Shantou",
+        "country": "China",
+        "province": "Guangdong",
+        "population": 7164157.726235742,
+        "latitude": 23.36814,
+        "longitude": 116.71479,
+        "height": 14.4
+    },
+    {
+        "name": "Dongying",
+        "country": "China",
+        "province": "Shandong",
+        "population": 4324225.726235742,
+        "latitude": 37.462708,
+        "longitude": 118.491653,
+        "height": 6
+    },
+    {
+        "name": "Dazhou",
+        "country": "China",
+        "province": "Sichuan",
+        "population": 4914692.726235742,
+        "latitude": 31.210604,
+        "longitude": 107.463082,
+        "height": 298
+    },
+    {
+        "name": "Dalian",
+        "country": "China",
+        "province": "Liaoning",
+        "population": 8239136.726235742,
+        "latitude": 38.9122222,
+        "longitude": 121.6022222,
+        "height": 33
+    },
+    {
+        "name": "Chuzhou",
+        "country": "China",
+        "province": "Anhui",
+        "population": 4107928.7262357413,
+        "latitude": 32.3219444,
+        "longitude": 118.2977778,
+        "height": 23.1
+    },
+    {
+        "name": "Jiangyin",
+        "country": "China",
+        "province": "Jiangsu",
+        "population": 5104772.726235742,
+        "latitude": 31.91102,
+        "longitude": 120.263024,
+        "height": 12
+    },
+    {
+        "name": "Huaibei",
+        "country": "China",
+        "province": "Anhui",
+        "population": 4438578.726235742,
+        "latitude": 33.9744444,
+        "longitude": 116.7916667,
+        "height": null
+    },
+    {
+        "name": "Heze",
+        "country": "China",
+        "province": "Shandong",
+        "population": 4671974.726235742,
+        "latitude": 35.239289,
+        "longitude": 115.473578,
+        "height": 52
+    },
+    {
+        "name": "Hengyang",
+        "country": "China",
+        "province": "Hunan",
+        "population": 4400773.726235742,
+        "latitude": 26.88946,
+        "longitude": 112.61888,
+        "height": 66.9
+    },
+    {
+        "name": "Hanzhong",
+        "country": "China",
+        "province": "Shaanxi",
+        "population": 4331814.726235742,
+        "latitude": 33.075072,
+        "longitude": 107.022143,
+        "height": 516.2
+    },
+    {
+        "name": "Changzhi",
+        "country": "China",
+        "province": "Shanxi",
+        "population": 4540197.726235742,
+        "latitude": 36.183889,
+        "longitude": 113.105278,
+        "height": 936
+    },
+    {
+        "name": "Handan",
+        "country": "China",
+        "province": "Hebei",
+        "population": 4683575.726235742,
+        "latitude": 36.609994,
+        "longitude": 114.487642,
+        "height": 60
+    },
+    {
+        "name": "Guilin",
+        "country": "China",
+        "province": "Guangxi",
+        "population": 4897557.726235742,
+        "latitude": 25.280217,
+        "longitude": 110.296389,
+        "height": 155.2
+    },
+    {
+        "name": "Guigang",
+        "country": "China",
+        "province": "Guangxi",
+        "population": 4411584.726235742,
+        "latitude": 23.116033,
+        "longitude": 109.594717,
+        "height": 48
+    },
+    {
+        "name": "Ganzhou",
+        "country": "China",
+        "province": "Jiangxi",
+        "population": 5302510.726235742,
+        "latitude": 25.846642,
+        "longitude": 114.932595,
+        "height": 117.7
+    },
+    {
+        "name": "Fuzhou",
+        "country": "China",
+        "province": "Jiangxi",
+        "population": 4415145.726235742,
+        "latitude": 27.95999,
+        "longitude": 116.333333,
+        "height": 53
+    },
+    {
+        "name": "Fuyang",
+        "country": "China",
+        "province": "Anhui",
+        "population": 5094204.726235742,
+        "latitude": 32.9,
+        "longitude": 115.8166667,
+        "height": 31
+    },
+    {
+        "name": "Leshan",
+        "country": "China",
+        "province": "Sichuan",
+        "population": 3988071.7262357413,
+        "latitude": 29.562275,
+        "longitude": 103.76386,
+        "height": 374.2
+    },
+    {
+        "name": "Laibin",
+        "country": "China",
+        "province": "Guangxi",
+        "population": 4235539.726235742,
+        "latitude": 23.747432,
+        "longitude": 109.222223,
+        "height": 84
+    },
+    {
+        "name": "Kaifeng",
+        "country": "China",
+        "province": "Henan",
+        "population": 4776998.726235742,
+        "latitude": 34.79860431685418,
+        "longitude": 114.30742263793945,
+        "height": 75.3
+    },
+    {
+        "name": "Jiujiang",
+        "country": "China",
+        "province": "Jiangxi",
+        "population": 4489525.726235742,
+        "latitude": 29.70475,
+        "longitude": 116.00206,
+        "height": 41.5
+    },
+    {
+        "name": "Jining",
+        "country": "China",
+        "province": "Shandong",
+        "population": 4566269.726235742,
+        "latitude": 35.405,
+        "longitude": 116.5813889,
+        "height": 44
+    },
+    {
+        "name": "Jinhua",
+        "country": "China",
+        "province": "Zhejiang",
+        "population": 4789247.726235742,
+        "latitude": 29.106782,
+        "longitude": 119.644207,
+        "height": 55.1
+    },
+    {
+        "name": "Jingzhou",
+        "country": "China",
+        "province": "Hubei",
+        "population": 4377539.726235742,
+        "latitude": 30.3502778,
+        "longitude": 112.1902778,
+        "height": 39
+    },
+    {
+        "name": "Jiaxing",
+        "country": "China",
+        "province": "Zhejiang",
+        "population": 4505257.726235742,
+        "latitude": 30.752198,
+        "longitude": 120.749997,
+        "height": 8.9
+    },
+    {
+        "name": "Jiaozuo",
+        "country": "China",
+        "province": "Henan",
+        "population": 4190670.7262357413,
+        "latitude": 35.2397222,
+        "longitude": 113.2330556,
+        "height": 137
+    },
+    {
+        "name": "Jiangmen",
+        "country": "China",
+        "province": "Guangdong",
+        "population": 5120716.726235742,
+        "latitude": 22.5833333,
+        "longitude": 113.0833333,
+        "height": 9.1
+    },
+    {
+        "name": "Yangjiang",
+        "country": "China",
+        "province": "Guangdong",
+        "population": 4618244.726235742,
+        "latitude": 21.855635,
+        "longitude": 111.962724,
+        "height": 15.5
+    },
+    {
+        "name": "Huzhou",
+        "country": "China",
+        "province": "Zhejiang",
+        "population": 4341194.726235742,
+        "latitude": 30.870301,
+        "longitude": 120.093297,
+        "height": 4.6
+    },
+    {
+        "name": "Cixi",
+        "country": "China",
+        "province": "Zhejiang",
+        "population": 4782767.726235742,
+        "latitude": 30.176405,
+        "longitude": 121.245702,
+        "height": 13.3
+    },
+    {
+        "name": "Huizhou",
+        "country": "China",
+        "province": "Guangdong",
+        "population": 6225370.726235742,
+        "latitude": 23.11147,
+        "longitude": 114.41523,
+        "height": 27.6
+    },
+    {
+        "name": "Huangshi",
+        "country": "China",
+        "province": "Hubei",
+        "population": 4013347.7262357413,
+        "latitude": 30.24706,
+        "longitude": 115.04814,
+        "height": 23.3
+    },
+    {
+        "name": "Sanya",
+        "country": "China",
+        "province": "Hainan",
+        "population": 4356653.726235742,
+        "latitude": 18.2430556,
+        "longitude": 109.505,
+        "height": 12.9
+    },
+    {
+        "name": "Jieyang",
+        "country": "China",
+        "province": "Guangdong",
+        "population": 5224651.726235742,
+        "latitude": 23.5418,
+        "longitude": 116.36581,
+        "height": 6.9
+    },
+    {
+        "name": "Quzhou",
+        "country": "China",
+        "province": "Zhejiang",
+        "population": 4228024.726235742,
+        "latitude": 28.9594444,
+        "longitude": 118.8686111,
+        "height": 74.1
+    },
+    {
+        "name": "Qujing",
+        "country": "China",
+        "province": "Yunnan",
+        "population": 4733757.726235742,
+        "latitude": 25.4833333,
+        "longitude": 103.7833333,
+        "height": 1885
+    },
+    {
+        "name": "Quanzhou",
+        "country": "China",
+        "province": "Fujian",
+        "population": 4794414.726235742,
+        "latitude": 24.9138889,
+        "longitude": 118.5858333,
+        "height": 12
+    },
+    {
+        "name": "Qinzhou",
+        "country": "China",
+        "province": "Guangxi",
+        "population": 4621557.726235742,
+        "latitude": 21.982472,
+        "longitude": 108.650611,
+        "height": 11.2
+    },
+    {
+        "name": "Qinhuangdao",
+        "country": "China",
+        "province": "Hebei",
+        "population": 4084975.7262357413,
+        "latitude": 39.9316667,
+        "longitude": 119.5883333,
+        "height": 6
+    },
+    {
+        "name": "Jinjiang",
+        "country": "China",
+        "province": "Fujian",
+        "population": 4741408.726235742,
+        "latitude": 24.819778,
+        "longitude": 118.574145,
+        "height": 35.5
+    },
+    {
+        "name": "Huai'an",
+        "country": "China",
+        "province": "Jiangsu",
+        "population": 5819270.726235742,
+        "latitude": 33.5886111,
+        "longitude": 119.0191667,
+        "height": 15
+    },
+    {
+        "name": "Qingyuan",
+        "country": "China",
+        "province": "Guangdong",
+        "population": 5063681.726235742,
+        "latitude": 23.7,
+        "longitude": 113.0333333,
+        "height": 12
+    },
+    {
+        "name": "Puyang",
+        "country": "China",
+        "province": "Zhejiang",
+        "population": 6915257.726235742,
+        "latitude": 29.456786,
+        "longitude": 119.888723,
+        "height": 76.2
+    },
+    {
+        "name": "Putian",
+        "country": "China",
+        "province": "Fujian",
+        "population": 4864646.726235742,
+        "latitude": 25.4394444,
+        "longitude": 119.0102778,
+        "height": 21
+    },
+    {
+        "name": "Pingxiang",
+        "country": "China",
+        "province": "Jiangxi",
+        "population": 4218807.726235742,
+        "latitude": 27.616722,
+        "longitude": 113.853527,
+        "height": 163.4
+    },
+    {
+        "name": "Pingdingshan",
+        "country": "China",
+        "province": "Henan",
+        "population": 4304387.726235742,
+        "latitude": 33.738472,
+        "longitude": 113.301194,
+        "height": 89.3
+    },
+    {
+        "name": "Ningbo",
+        "country": "China",
+        "province": "Zhejiang",
+        "population": 7056460.726235742,
+        "latitude": 29.878186,
+        "longitude": 121.549453,
+        "height": 12.5
+    },
+    {
+        "name": "Neijiang",
+        "country": "China",
+        "province": "Sichuan",
+        "population": 4576352.726235742,
+        "latitude": 29.583536,
+        "longitude": 105.06216,
+        "height": 350.1
+    },
+    {
+        "name": "Nanyang",
+        "country": "China",
+        "province": "Henan",
+        "population": 5137069.726235742,
+        "latitude": 32.9947222,
+        "longitude": 112.5327778,
+        "height": 129
+    },
+    {
+        "name": "Nantong",
+        "country": "China",
+        "province": "Jiangsu",
+        "population": 5598583.726235742,
+        "latitude": 32.030278,
+        "longitude": 120.874722,
+        "height": 6
+    },
+    {
+        "name": "Chaozhou",
+        "country": "China",
+        "province": "Guangdong",
+        "population": 5076202.726235742,
+        "latitude": 23.65396,
+        "longitude": 116.62262,
+        "height": 22.7
+    },
+    {
+        "name": "Changzhou",
+        "country": "China",
+        "province": "Jiangsu",
+        "population": 6616175.726235742,
+        "latitude": 31.773585,
+        "longitude": 119.954007,
+        "height": 7.8
+    },
+    {
+        "name": "Cangzhou",
+        "country": "China",
+        "province": "Hebei",
+        "population": 3852938.7262357413,
+        "latitude": 38.3166667,
+        "longitude": 116.8666667,
+        "height": 10
+    },
+    {
+        "name": "Bozhou",
+        "country": "China",
+        "province": "Anhui",
+        "population": 4734693.726235742,
+        "latitude": 33.8772222,
+        "longitude": 115.7702778,
+        "height": 40
+    },
+    {
+        "name": "Bijie",
+        "country": "China",
+        "province": "Guizhou",
+        "population": 4462640.726235742,
+        "latitude": 27.301926615413656,
+        "longitude": 105.28627395629883,
+        "height": 1472.8
+    },
+    {
+        "name": "Bengbu",
+        "country": "China",
+        "province": "Anhui",
+        "population": 4298041.726235742,
+        "latitude": 32.9408333,
+        "longitude": 117.3608333,
+        "height": 31
+    },
+    {
+        "name": "Shaoyang",
+        "country": "China",
+        "province": "Hunan",
+        "population": 4078451.7262357413,
+        "latitude": 27.23818,
+        "longitude": 111.46214,
+        "height": 244.4
+    },
+    {
+        "name": "Baoding",
+        "country": "China",
+        "province": "Hebei",
+        "population": 6065144.726235742,
+        "latitude": 38.8511111,
+        "longitude": 115.4902778,
+        "height": 15
+    },
+    {
+        "name": "Anshun",
+        "country": "China",
+        "province": "Guizhou",
+        "population": 4090570.7262357413,
+        "latitude": 26.25,
+        "longitude": 105.9333333,
+        "height": 1373
+    },
+    {
+        "name": "Anking",
+        "country": "China",
+        "province": "Anhui",
+        "population": 4129750.7262357413,
+        "latitude": 30.513646,
+        "longitude": 117.047234,
+        "height": 17.9
+    },
+    {
+        "name": "Yueyang",
+        "country": "China",
+        "province": "Hunan",
+        "population": 4316722.726235742,
+        "latitude": 29.37455,
+        "longitude": 113.09481,
+        "height": 39.5
+    },
+    {
+        "name": "Korla",
+        "country": "China",
+        "province": "Xinjiang",
+        "population": 3874581.7262357413,
+        "latitude": 41.760547,
+        "longitude": 86.152309,
+        "height": 944
+    },
+    {
+        "name": "Aksu",
+        "country": "China",
+        "province": "Xinjiang",
+        "population": 3860914.7262357413,
+        "latitude": 41.184178,
+        "longitude": 80.279205,
+        "height": 1119.8
+    },
+    {
+        "name": "Zunyi",
+        "country": "China",
+        "province": "Guizhou",
+        "population": 5363032.726235742,
+        "latitude": 27.6866667,
+        "longitude": 106.9072222,
+        "height": 866.1
+    },
+    {
+        "name": "Zigong",
+        "country": "China",
+        "province": "Sichuan",
+        "population": 4587321.726235742,
+        "latitude": 29.341622,
+        "longitude": 104.776887,
+        "height": 306.9
+    },
+    {
+        "name": "Zhuzhou",
+        "country": "China",
+        "province": "Hunan",
+        "population": 4454944.726235742,
+        "latitude": 27.833333,
+        "longitude": 113.15,
+        "height": 55
+    },
+    {
+        "name": "Shangqiu",
+        "country": "China",
+        "province": "Henan",
+        "population": 4861649.726235742,
+        "latitude": 34.45,
+        "longitude": 115.65,
+        "height": 50
+    },
+    {
+        "name": "Zhenjiang",
+        "country": "China",
+        "province": "Jiangsu",
+        "population": 4275773.726235742,
+        "latitude": 32.210863,
+        "longitude": 119.455076,
+        "height": 26.8
+    },
+    {
+        "name": "Zhaotong",
+        "country": "China",
+        "province": "Yunnan",
+        "population": 4113102.7262357413,
+        "latitude": 27.3166667,
+        "longitude": 103.7166667,
+        "height": 1975
+    },
+    {
+        "name": "Zhaoqing",
+        "country": "China",
+        "province": "Guangdong",
+        "population": 4878366.726235742,
+        "latitude": 23.04893,
+        "longitude": 112.46091,
+        "height": 16.9
+    },
+    {
+        "name": "Zhanjiang",
+        "country": "China",
+        "province": "Guangdong",
+        "population": 4725966.726235742,
+        "latitude": 21.233906,
+        "longitude": 110.387494,
+        "height": 25.5
+    },
+    {
+        "name": "Zhangzhou",
+        "country": "China",
+        "province": "Fujian",
+        "population": 3915088.7262357413,
+        "latitude": 24.5133333,
+        "longitude": 117.6555556,
+        "height": 15
+    },
+    {
+        "name": "Anyang",
+        "country": "China",
+        "province": "Henan",
+        "population": 4472096.726235742,
+        "latitude": 36.096,
+        "longitude": 114.38278,
+        "height": null
+    },
+    {
+        "name": "Zaozhuang",
+        "country": "China",
+        "province": "Shandong",
+        "population": 4225010.726235742,
+        "latitude": 34.8647222,
+        "longitude": 117.5541667,
+        "height": 79
+    },
+    {
+        "name": "Kunshan",
+        "country": "China",
+        "province": "Jiangsu",
+        "population": 5417753.726235742,
+        "latitude": 31.377623,
+        "longitude": 120.954305,
+        "height": 9
+    },
+    {
+        "name": "Yunfu",
+        "country": "China",
+        "province": "Guangdong",
+        "population": 5938057.726235742,
+        "latitude": 22.927869,
+        "longitude": 112.038088,
+        "height": 73
+    },
+    {
+        "name": "Yulin",
+        "country": "China",
+        "province": "Guangxi",
+        "population": 4382000.726235742,
+        "latitude": 22.630497,
+        "longitude": 110.14686,
+        "height": 85.2
+    },
+    {
+        "name": "Yongzhou",
+        "country": "China",
+        "province": "Hunan",
+        "population": 4345972.726235742,
+        "latitude": 26.4238889,
+        "longitude": 111.6130556,
+        "height": 101
+    },
+    {
+        "name": "Yichun",
+        "country": "China",
+        "province": "Jiangxi",
+        "population": 4371209.726235742,
+        "latitude": 27.833333,
+        "longitude": 114.4,
+        "height": 99
+    },
+    {
+        "name": "Yixing",
+        "country": "China",
+        "province": "Jiangsu",
+        "population": 4611042.726235742,
+        "latitude": 31.360588,
+        "longitude": 119.820157,
+        "height": 7.1
+    },
+    {
+        "name": "Yichang",
+        "country": "China",
+        "province": "Hubei",
+        "population": 4675407.726235742,
+        "latitude": 30.7144444,
+        "longitude": 111.2847222,
+        "height": 62
+    },
+    {
+        "name": "Yibin",
+        "country": "China",
+        "province": "Sichuan",
+        "population": 4161597.7262357413,
+        "latitude": 28.7593,
+        "longitude": 104.63994,
+        "height": 322.3
+    },
+    {
+        "name": "Yantai",
+        "country": "China",
+        "province": "Shandong",
+        "population": 5552990.726235742,
+        "latitude": 37.476492874726354,
+        "longitude": 121.44081115722656,
+        "height": 21.4
+    },
+    {
+        "name": "Yangzhou",
+        "country": "China",
+        "province": "Jiangsu",
+        "population": 4909494.726235742,
+        "latitude": 32.3972222,
+        "longitude": 119.4358333,
+        "height": 14
+    },
+    {
+        "name": "Yancheng",
+        "country": "China",
+        "province": "Jiangsu",
+        "population": 4940974.726235742,
+        "latitude": 33.357503,
+        "longitude": 120.157296,
+        "height": 4
+    },
+    {
+        "name": "Shangrao",
+        "country": "China",
+        "province": "Jiangxi",
+        "population": 4441743.726235742,
+        "latitude": 28.45179,
+        "longitude": 117.94287,
+        "height": 80.9
+    },
+    {
+        "name": "Xinyu",
+        "country": "China",
+        "province": "Jiangxi",
+        "population": 4164745.7262357413,
+        "latitude": 27.804294,
+        "longitude": 114.933354,
+        "height": 63.7
+    },
+    {
+        "name": "Xinyang",
+        "country": "China",
+        "province": "Henan",
+        "population": 4555299.726235742,
+        "latitude": 32.1227778,
+        "longitude": 114.0655556,
+        "height": 89
+    },
+    {
+        "name": "Xiangshan",
+        "country": "China",
+        "province": "Guangdong",
+        "population": 7167130.726235742,
+        "latitude": 22.523058,
+        "longitude": 113.379122,
+        "height": 8.5
+    },
+    {
+        "name": "Taizhou",
+        "country": "China",
+        "province": "Zhejiang",
+        "population": 4810759.726235742,
+        "latitude": 28.662658,
+        "longitude": 121.433117,
+        "height": 14.8
+    },
+    {
+        "name": "Ordos",
+        "country": "China",
+        "province": "Inner Mongolia",
+        "population": 5265910.726235742,
+        "latitude": 39.60859776020064,
+        "longitude": 109.78157043457031,
+        "height": 1309.4
+    },
+    {
+        "name": "Liupanshui",
+        "country": "China",
+        "province": "Guizhou",
+        "population": 4646082.726235742,
+        "latitude": 26.594444,
+        "longitude": 104.833333,
+        "height": 1802
+    },
+    {
+        "name": "Hezhou",
+        "country": "China",
+        "province": "Guangxi",
+        "population": 4330747.726235742,
+        "latitude": 24.40357,
+        "longitude": 111.566753,
+        "height": 105.7
+    },
+    {
+        "name": "Xuzhou",
+        "country": "China",
+        "province": "Jiangsu",
+        "population": 4579248.726235742,
+        "latitude": 34.20442,
+        "longitude": 117.28386,
+        "height": 35
+    },
+    {
+        "name": "Baoshan",
+        "country": "China",
+        "province": "Yunnan",
+        "population": 4260875.726235742,
+        "latitude": 25.11626,
+        "longitude": 99.163659,
+        "height": 1676.8
+    },
+    {
+        "name": "Newchwang",
+        "country": "China",
+        "province": "Liaoning",
+        "population": 3916416.7262357413,
+        "latitude": 40.66472,
+        "longitude": 122.23176,
+        "height": 5.7
+    },
+    {
+        "name": "Tonghua",
+        "country": "China",
+        "province": "Jilin",
+        "population": 3835257.7262357413,
+        "latitude": 41.7197222,
+        "longitude": 125.9263889,
+        "height": 375
+    },
+    {
+        "name": "Shuangyashan",
+        "country": "China",
+        "province": "Heilongjiang",
+        "population": 3925257.7262357413,
+        "latitude": 46.676856,
+        "longitude": 131.132731,
+        "height": 145.6
+    },
+    {
+        "name": "Mudanjiang",
+        "country": "China",
+        "province": "Heilongjiang",
+        "population": 3991172.7262357413,
+        "latitude": 44.548041,
+        "longitude": 129.62594,
+        "height": 240
+    },
+    {
+        "name": "Hegang",
+        "country": "China",
+        "province": "Heilongjiang",
+        "population": 4068564.7262357413,
+        "latitude": 47.34727,
+        "longitude": 130.290334,
+        "height": 206.2
+    },
+    {
+        "name": "Zhoushan",
+        "country": "China",
+        "province": "Zhejiang",
+        "population": 4208189.726235742,
+        "latitude": 29.98869,
+        "longitude": 122.20488,
+        "height": 2
+    },
+    {
+        "name": "Xinxiang",
+        "country": "China",
+        "province": "Henan",
+        "population": 4372345.726235742,
+        "latitude": 35.19033,
+        "longitude": 113.80151,
+        "height": 82.2
+    },
+    {
+        "name": "Ankang",
+        "country": "China",
+        "province": "Shaanxi",
+        "population": 4195383.726235742,
+        "latitude": 32.68,
+        "longitude": 109.0172222,
+        "height": 272
+    },
+    {
+        "name": "Wenchang",
+        "country": "China",
+        "province": "Hainan",
+        "population": 3886151.7262357413,
+        "latitude": 19.55158489,
+        "longitude": 110.80279401,
+        "height": 12.6
+    },
+    {
+        "name": "Wanning",
+        "country": "China",
+        "province": "Hainan",
+        "population": 3871249.7262357413,
+        "latitude": 18.79931,
+        "longitude": 110.3841,
+        "height": 15.5
+    },
+    {
+        "name": "Lu'an",
+        "country": "China",
+        "province": "Anhui",
+        "population": 4969601.726235742,
+        "latitude": 31.73561,
+        "longitude": 116.51688,
+        "height": 81.7
+    },
+    {
+        "name": "Guankou",
+        "country": "China",
+        "province": "Hunan",
+        "population": 4705257.726235742,
+        "latitude": 28.158609,
+        "longitude": 113.627087,
+        "height": 80.5
+    },
+    {
+        "name": "Liuzhou",
+        "country": "China",
+        "province": "Guangxi",
+        "population": 4761856.726235742,
+        "latitude": 24.324051,
+        "longitude": 109.406983,
+        "height": 103.2
+    },
+    {
+        "name": "Wuwei",
+        "country": "China",
+        "province": "Gansu",
+        "population": 4335552.726235742,
+        "latitude": 37.926718,
+        "longitude": 102.632018,
+        "height": 1541.4
+    },
+    {
+        "name": "Tianshui",
+        "country": "China",
+        "province": "Gansu",
+        "population": 4538048.726235742,
+        "latitude": 34.57951775453086,
+        "longitude": 105.74237823486328,
+        "height": 1153.6
+    },
+    {
+        "name": "Tanggu",
+        "country": "China",
+        "province": "Tianjin",
+        "population": 3860555.7262357413,
+        "latitude": 39.0211111,
+        "longitude": 117.6469444,
+        "height": 5
+    },
+    {
+        "name": "Taicang",
+        "country": "China",
+        "province": "Jiangsu",
+        "population": 4156370.7262357413,
+        "latitude": 31.447778,
+        "longitude": 121.093889,
+        "height": 5
+    },
+    {
+        "name": "Tai’an",
+        "country": "China",
+        "province": "Shandong",
+        "population": 5060682.726235742,
+        "latitude": 36.185278,
+        "longitude": 117.12,
+        "height": 143
+    },
+    {
+        "name": "Suzhou",
+        "country": "China",
+        "province": "Anhui",
+        "population": 4972899.726235742,
+        "latitude": 33.6361111,
+        "longitude": 116.9788889,
+        "height": 34
+    },
+    {
+        "name": "Suqian",
+        "country": "China",
+        "province": "Jiangsu",
+        "population": 4762942.726235742,
+        "latitude": 33.9491667,
+        "longitude": 118.2958333,
+        "height": 23
+    },
+    {
+        "name": "Suizhou",
+        "country": "China",
+        "province": "Hubei",
+        "population": 3943839.7262357413,
+        "latitude": 31.7111111,
+        "longitude": 113.3630556,
+        "height": 66
+    },
+    {
+        "name": "Suining",
+        "country": "China",
+        "province": "Sichuan",
+        "population": 3982017.7262357413,
+        "latitude": 30.508017,
+        "longitude": 105.573324,
+        "height": 291.5
+    },
+    {
+        "name": "Dezhou",
+        "country": "China",
+        "province": "Shandong",
+        "population": 4004792.7262357413,
+        "latitude": 37.446613,
+        "longitude": 116.367059,
+        "height": 25.1
+    },
+    {
+        "name": "Deyang",
+        "country": "China",
+        "province": "Sichuan",
+        "population": 4060327.7262357413,
+        "latitude": 31.130192,
+        "longitude": 104.381981,
+        "height": 504
+    },
+    {
+        "name": "Yiwu",
+        "country": "China",
+        "province": "Zhejiang",
+        "population": 4806641.726235742,
+        "latitude": 29.315056,
+        "longitude": 120.076764,
+        "height": 85.8
+    },
+    {
+        "name": "Chizhou",
+        "country": "China",
+        "province": "Anhui",
+        "population": 3940531.7262357413,
+        "latitude": 30.661338,
+        "longitude": 117.477833,
+        "height": 20.4
+    },
+    {
+        "name": "Chenzhou",
+        "country": "China",
+        "province": "Hunan",
+        "population": 4147791.7262357413,
+        "latitude": 25.8,
+        "longitude": 113.0333333,
+        "height": 183
+    },
+    {
+        "name": "Huainan",
+        "country": "China",
+        "province": "Anhui",
+        "population": 4992083.726235742,
+        "latitude": 32.6263889,
+        "longitude": 116.9969444,
+        "height": 47
+    },
+    {
+        "name": "Huaihua",
+        "country": "China",
+        "province": "Hunan",
+        "population": 3877879.7262357413,
+        "latitude": 27.56337,
+        "longitude": 110.00404,
+        "height": 236.1
+    },
+    {
+        "name": "Yiyang",
+        "country": "China",
+        "province": "Hunan",
+        "population": 4575064.726235742,
+        "latitude": 28.5891667,
+        "longitude": 112.3283333,
+        "height": 34
+    },
+    {
+        "name": "Hengshui",
+        "country": "China",
+        "province": "Hebei",
+        "population": 3847404.7262357413,
+        "latitude": 37.7322222,
+        "longitude": 115.7011111,
+        "height": 26
+    },
+    {
+        "name": "Hebi",
+        "country": "China",
+        "province": "Henan",
+        "population": 3959978.7262357413,
+        "latitude": 35.8991667,
+        "longitude": 114.1925,
+        "height": 138
+    },
+    {
+        "name": "Langfang",
+        "country": "China",
+        "province": "Hebei",
+        "population": 4193323.7262357413,
+        "latitude": 39.5097222,
+        "longitude": 116.6947222,
+        "height": 19
+    },
+    {
+        "name": "Laiwu",
+        "country": "China",
+        "province": "Shandong",
+        "population": 4314792.726235742,
+        "latitude": 36.1927778,
+        "longitude": 117.6569444,
+        "height": 181
+    },
+    {
+        "name": "Jingmen",
+        "country": "China",
+        "province": "Hubei",
+        "population": 3958211.7262357413,
+        "latitude": 31.0336111,
+        "longitude": 112.2047222,
+        "height": 88
+    },
+    {
+        "name": "Ji’an",
+        "country": "China",
+        "province": "Jiangxi",
+        "population": 3863956.7262357413,
+        "latitude": 27.117158,
+        "longitude": 114.979267,
+        "height": 71.8
+    },
+    {
+        "name": "Guangyuan",
+        "country": "China",
+        "province": "Sichuan",
+        "population": 3841681.7262357413,
+        "latitude": 32.442015,
+        "longitude": 105.822996,
+        "height": 513.5
+    },
+    {
+        "name": "Qionghai",
+        "country": "China",
+        "province": "Hainan",
+        "population": 3853495.7262357413,
+        "latitude": 19.2425,
+        "longitude": 110.464167,
+        "height": 24
+    },
+    {
+        "name": "Sanming",
+        "country": "China",
+        "province": "Fujian",
+        "population": 3927423.7262357413,
+        "latitude": 26.2486111,
+        "longitude": 117.6186111,
+        "height": 129
+    },
+    {
+        "name": "Sanmenxia",
+        "country": "China",
+        "province": "Henan",
+        "population": 3994564.7262357413,
+        "latitude": 34.7747222,
+        "longitude": 111.1813889,
+        "height": 346
+    },
+    {
+        "name": "Rui’an",
+        "country": "China",
+        "province": "Zhejiang",
+        "population": 4252640.726235742,
+        "latitude": 27.776047,
+        "longitude": 120.658588,
+        "height": 5.6
+    },
+    {
+        "name": "Pingliang",
+        "country": "China",
+        "province": "Gansu",
+        "population": 3830105.7262357413,
+        "latitude": 35.539167,
+        "longitude": 106.686111,
+        "height": 1354
+    },
+    {
+        "name": "Guang’an",
+        "country": "China",
+        "province": "Sichuan",
+        "population": 4183416.7262357413,
+        "latitude": 30.474126,
+        "longitude": 106.636959,
+        "height": 242.9
+    },
+    {
+        "name": "Baise City",
+        "country": "China",
+        "province": "Guangxi",
+        "population": 4011335.7262357413,
+        "latitude": 23.890131,
+        "longitude": 106.62684,
+        "height": 134.1
+    },
+    {
+        "name": "Binzhou",
+        "country": "China",
+        "province": "Shandong",
+        "population": 4007974.7262357413,
+        "latitude": 37.3666667,
+        "longitude": 118.0166667,
+        "height": 14
+    },
+    {
+        "name": "Beihai",
+        "country": "China",
+        "province": "Guangxi",
+        "population": 3850586.7262357413,
+        "latitude": 21.483493,
+        "longitude": 109.115486,
+        "height": 22.2
+    },
+    {
+        "name": "Shangyu",
+        "country": "China",
+        "province": "Zhejiang",
+        "population": 4095257.7262357413,
+        "latitude": 30.0155556,
+        "longitude": 120.8711111,
+        "height": 13
+    },
+    {
+        "name": "Shihezi",
+        "country": "China",
+        "province": "Xinjiang",
+        "population": 3898029.7262357413,
+        "latitude": 44.302298,
+        "longitude": 86.036938,
+        "height": 467.7
+    },
+    {
+        "name": "Ziyang",
+        "country": "China",
+        "province": "Sichuan",
+        "population": 4230986.726235742,
+        "latitude": 30.121083,
+        "longitude": 104.648106,
+        "height": 364.7
+    },
+    {
+        "name": "Zhumadian",
+        "country": "China",
+        "province": "Henan",
+        "population": 4046927.7262357413,
+        "latitude": 32.9794444,
+        "longitude": 114.0294444,
+        "height": 88
+    },
+    {
+        "name": "Zhoukou",
+        "country": "China",
+        "province": "Henan",
+        "population": 3830428.7262357413,
+        "latitude": 33.633333,
+        "longitude": 114.633333,
+        "height": 56
+    },
+    {
+        "name": "Zhangye",
+        "country": "China",
+        "province": "Gansu",
+        "population": 3832690.7262357413,
+        "latitude": 38.934167,
+        "longitude": 100.451667,
+        "height": 1480
+    },
+    {
+        "name": "Yuncheng",
+        "country": "China",
+        "province": "Shanxi",
+        "population": 4005293.7262357413,
+        "latitude": 35.0230556,
+        "longitude": 110.9927778,
+        "height": 361
+    },
+    {
+        "name": "Zhangjiagang",
+        "country": "China",
+        "province": "Jiangsu",
+        "population": 4757301.726235742,
+        "latitude": 31.865,
+        "longitude": 120.5388889,
+        "height": 11
+    },
+    {
+        "name": "Yangquan",
+        "country": "China",
+        "province": "Shanxi",
+        "population": 4056485.7262357413,
+        "latitude": 37.8575,
+        "longitude": 113.563333,
+        "height": 723
+    },
+    {
+        "name": "Xuchang",
+        "country": "China",
+        "province": "Henan",
+        "population": 4590793.726235742,
+        "latitude": 34.03189,
+        "longitude": 113.86299,
+        "height": 73.4
+    },
+    {
+        "name": "Xuanzhou",
+        "country": "China",
+        "province": "Anhui",
+        "population": 4099589.7262357413,
+        "latitude": 30.9525,
+        "longitude": 118.7552778,
+        "height": 23
+    },
+    {
+        "name": "Xinzhou",
+        "country": "China",
+        "province": "Shanxi",
+        "population": 3869940.7262357413,
+        "latitude": 38.409167,
+        "longitude": 112.733333,
+        "height": 795
+    },
+    {
+        "name": "Rizhao",
+        "country": "China",
+        "province": "Shandong",
+        "population": 3987200.7262357413,
+        "latitude": 35.41414,
+        "longitude": 119.52908,
+        "height": 33.6
+    },
+    {
+        "name": "Puyang",
+        "country": "China",
+        "province": "Henan",
+        "population": 3980931.7262357413,
+        "latitude": 35.763182,
+        "longitude": 115.017213,
+        "height": 54.9
+    },
+    {
+        "name": "Lianyungang",
+        "country": "China",
+        "province": "Jiangsu",
+        "population": 5326266.726235742,
+        "latitude": 34.59845,
+        "longitude": 119.21556,
+        "height": 0
+    },
+    {
+        "name": "Baoji",
+        "country": "China",
+        "province": "Shaanxi",
+        "population": 4763059.726235742,
+        "latitude": 34.36775,
+        "longitude": 107.23705,
+        "height": 566.6
+    },
+    {
+        "name": "Bayan Nur",
+        "country": "China",
+        "province": "Inner Mongolia",
+        "population": 5085257.726235742,
+        "latitude": 40.74143,
+        "longitude": 107.38599,
+        "height": 1041
+    },
+    {
+        "name": "E’zhou",
+        "country": "China",
+        "province": "Hubei",
+        "population": 3993984.7262357413,
+        "latitude": 30.396072,
+        "longitude": 114.886546,
+        "height": 28
+    },
+    {
+        "name": "Panshan",
+        "country": "China",
+        "province": "Liaoning",
+        "population": 3950297.7262357413,
+        "latitude": 41.1880556,
+        "longitude": 122.0494444,
+        "height": 9.9
+    },
+    {
+        "name": "Banan",
+        "country": "China",
+        "province": "Chongqing",
+        "population": 3833960.7262357413,
+        "latitude": 29.378611,
+        "longitude": 106.54,
+        "height": 213
+    },
+    {
+        "name": "Xianning",
+        "country": "China",
+        "province": "Hubei",
+        "population": 3837774.7262357413,
+        "latitude": 29.84347,
+        "longitude": 114.32201,
+        "height": 30.3
+    },
+    {
+        "name": "Wanxian",
+        "country": "China",
+        "province": "Chongqing",
+        "population": 4184919.7262357413,
+        "latitude": 30.81601,
+        "longitude": 108.37407,
+        "height": 228.5
+    },
+    {
+        "name": "Ma’anshan",
+        "country": "China",
+        "province": "Anhui",
+        "population": 4066788.7262357413,
+        "latitude": 31.685787,
+        "longitude": 118.510078,
+        "height": null
+    },
+    {
+        "name": "Luancheng",
+        "country": "China",
+        "province": "Hebei",
+        "population": 3922387.7262357413,
+        "latitude": 37.8791667,
+        "longitude": 114.6516667,
+        "height": 55
+    },
+    {
+        "name": "Shangluo",
+        "country": "China",
+        "province": "Shaanxi",
+        "population": 3856953.7262357413,
+        "latitude": 33.8666667,
+        "longitude": 109.9305556,
+        "height": 703
+    },
+    {
+        "name": "Guli",
+        "country": "China",
+        "province": "Zhejiang",
+        "population": 3861257.7262357413,
+        "latitude": 28.881621,
+        "longitude": 120.033082,
+        "height": 119.3
+    },
+    {
+        "name": "Jiaozhou",
+        "country": "China",
+        "province": "Shandong",
+        "population": 3944523.7262357413,
+        "latitude": 36.2838889,
+        "longitude": 120.0033333,
+        "height": 11
+    },
+    {
+        "name": "Pingdu",
+        "country": "China",
+        "province": "Shandong",
+        "population": 3867491.7262357413,
+        "latitude": 36.7844444,
+        "longitude": 119.9463889,
+        "height": 58
+    },
+    {
+        "name": "Changzhi",
+        "country": "China",
+        "province": "Shanxi",
+        "population": 4024771.7262357413,
+        "latitude": 35.2088889,
+        "longitude": 111.7386111,
+        "height": 382
+    },
+    {
+        "name": "Zhabei",
+        "country": "China",
+        "province": "Shanghai",
+        "population": 4165257.7262357413,
+        "latitude": 31.2586111,
+        "longitude": 121.4597222,
+        "height": 8
+    },
+    {
+        "name": "Ya'an",
+        "country": "China",
+        "province": "Sichuan",
+        "population": 3937313.7262357413,
+        "latitude": 29.985206,
+        "longitude": 102.999004,
+        "height": 590.1
+    },
+    {
+        "name": "Changshu",
+        "country": "China",
+        "province": "Jiangsu",
+        "population": 5002307.726235742,
+        "latitude": 31.6461479429893,
+        "longitude": 120.742213726044,
+        "height": 7.7
+    },
+    {
+        "name": "Panzhihua",
+        "country": "China",
+        "province": "Sichuan",
+        "population": 4112434.7262357413,
+        "latitude": 26.585089,
+        "longitude": 101.712755,
+        "height": 1110.4
+    },
+    {
+        "name": "Zhu Cheng City",
+        "country": "China",
+        "province": "Shandong",
+        "population": 4325257.726235742,
+        "latitude": 35.995021518560215,
+        "longitude": 119.40258979797363,
+        "height": 67
+    },
+    {
+        "name": "Jinzhong",
+        "country": "China",
+        "province": "Shanxi",
+        "population": 4551874.726235742,
+        "latitude": 37.68403,
+        "longitude": 112.75471,
+        "height": 820.4
+    },
+    {
+        "name": "Wanzhou",
+        "country": "China",
+        "province": "Chongqing",
+        "population": 4048472.7262357413,
+        "latitude": 30.76451,
+        "longitude": 108.39586,
+        "height": 173.5
+    },
+    {
+        "name": "Mianzhu, Deyang, Sichuan",
+        "country": "China",
+        "province": "Sichuan",
+        "population": 3835257.7262357413,
+        "latitude": 31.33786,
+        "longitude": 104.22057,
+        "height": 588
+    },
+    {
+        "name": "Bogotá",
+        "country": "Colombia",
+        "province": "Bogota D.C.",
+        "population": 11870956.125,
+        "latitude": 4.609705849789108,
+        "longitude": -74.08175468444824,
+        "height": 2581.1
+    },
+    {
+        "name": "Medellín",
+        "country": "Colombia",
+        "province": "Antioquia",
+        "population": 6196569.125,
+        "latitude": 6.25184,
+        "longitude": -75.563591,
+        "height": 1504.8
+    },
+    {
+        "name": "Santiago de Cali",
+        "country": "Colombia",
+        "province": "Valle del Cauca",
+        "population": 6589467.125,
+        "latitude": 3.4372222,
+        "longitude": -76.5225,
+        "height": 967
+    },
+    {
+        "name": "Cartagena",
+        "country": "Colombia",
+        "province": "Bolívar",
+        "population": 5111142.125,
+        "latitude": 10.3997222,
+        "longitude": -75.5144444,
+        "height": 36
+    },
+    {
+        "name": "Barranquilla",
+        "country": "Colombia",
+        "province": "Atlántico",
+        "population": 5402909.125,
+        "latitude": 10.968536308892638,
+        "longitude": -74.78131771087646,
+        "height": 24.1
+    },
+    {
+        "name": "Ibagué",
+        "country": "Colombia",
+        "province": "Tolima",
+        "population": 4726225.125,
+        "latitude": 4.4388889,
+        "longitude": -75.2322222,
+        "height": 1225
+    },
+    {
+        "name": "Cúcuta",
+        "country": "Colombia",
+        "province": "Norte de Santander Department",
+        "population": 4973696.125,
+        "latitude": 7.893907,
+        "longitude": -72.507821,
+        "height": 310.1
+    },
+    {
+        "name": "Bucaramanga",
+        "country": "Colombia",
+        "province": "Santander",
+        "population": 4777720.125,
+        "latitude": 7.125393,
+        "longitude": -73.119804,
+        "height": 993.1
+    },
+    {
+        "name": "Havana",
+        "country": "Cuba",
+        "province": "Havana",
+        "population": 6473048.5,
+        "latitude": 23.133019745980196,
+        "longitude": -82.38304138183594,
+        "height": 35.7
+    },
+    {
+        "name": "Santiago de Cuba",
+        "country": "Cuba",
+        "province": "Santiago de Cuba",
+        "population": 4865089.5,
+        "latitude": 20.020833,
+        "longitude": -75.826667,
+        "height": 45
+    },
+    {
+        "name": "Prague",
+        "country": "Czechia",
+        "province": "Hlavní město Praha",
+        "population": 10625695,
+        "latitude": 50.0880428938909,
+        "longitude": 14.4207572937012,
+        "height": 202
+    },
+    {
+        "name": "Berlin",
+        "country": "Germany",
+        "province": "Berlin",
+        "population": 7427086.470588235,
+        "latitude": 52.524368165134284,
+        "longitude": 13.410530090332031,
+        "height": 40.4
+    },
+    {
+        "name": "Cologne",
+        "country": "Germany",
+        "province": "North Rhine-Westphalia",
+        "population": 4964127.470588235,
+        "latitude": 50.9333333,
+        "longitude": 6.95,
+        "height": 58
+    },
+    {
+        "name": "Munich",
+        "country": "Germany",
+        "province": "Bavaria",
+        "population": 5261123.470588235,
+        "latitude": 48.1374325498109,
+        "longitude": 11.5754914283752,
+        "height": 522.7
+    },
+    {
+        "name": "Frankfurt am Main",
+        "country": "Germany",
+        "province": "Hesse",
+        "population": 4650732.470588235,
+        "latitude": 50.11552,
+        "longitude": 8.684167,
+        "height": 118.5
+    },
+    {
+        "name": "Essen",
+        "country": "Germany",
+        "province": "North Rhine-Westphalia",
+        "population": 4593817.470588235,
+        "latitude": 51.45657,
+        "longitude": 7.012282,
+        "height": 84.1
+    },
+    {
+        "name": "Hamburg",
+        "country": "Germany",
+        "province": "Hamburg",
+        "population": 5845961.470588235,
+        "latitude": 53.55073,
+        "longitude": 9.99302,
+        "height": -999
+    },
+    {
+        "name": "Bremen",
+        "country": "Germany",
+        "province": "Bremen",
+        "population": 4547233.470588235,
+        "latitude": 53.07582,
+        "longitude": 8.80717,
+        "height": 14.9
+    },
+    {
+        "name": "Dortmund",
+        "country": "Germany",
+        "province": "North Rhine-Westphalia",
+        "population": 4589194.470588235,
+        "latitude": 51.514942,
+        "longitude": 7.465997,
+        "height": 99.5
+    },
+    {
+        "name": "Nuremberg",
+        "country": "Germany",
+        "province": "Bavaria",
+        "population": 4516275.470588235,
+        "latitude": 49.45420526135589,
+        "longitude": 11.077523231506348,
+        "height": 300.3
+    },
+    {
+        "name": "Stuttgart",
+        "country": "Germany",
+        "province": "Baden-Wurttemberg",
+        "population": 4631037.470588235,
+        "latitude": 48.7823242931971,
+        "longitude": 9.17701721191406,
+        "height": 252
+    },
+    {
+        "name": "Hanover",
+        "country": "Germany",
+        "province": "Lower Saxony",
+        "population": 4515872.470588235,
+        "latitude": 52.3705162650448,
+        "longitude": 9.73322153091431,
+        "height": 57.5
+    },
+    {
+        "name": "Leipzig",
+        "country": "Germany",
+        "province": "Saxony",
+        "population": 4505703.470588235,
+        "latitude": 51.33962,
+        "longitude": 12.371292,
+        "height": 112.6
+    },
+    {
+        "name": "Düsseldorf",
+        "country": "Germany",
+        "province": "North Rhine-Westphalia",
+        "population": 4621255.470588235,
+        "latitude": 51.2217225723832,
+        "longitude": 6.77616119384766,
+        "height": 46.1
+    },
+    {
+        "name": "Dresden",
+        "country": "Germany",
+        "province": "Saxony",
+        "population": 4556959.470588235,
+        "latitude": 51.05089108097961,
+        "longitude": 13.738317489624023,
+        "height": 117.5
+    },
+    {
+        "name": "Duisburg",
+        "country": "Germany",
+        "province": "North Rhine-Westphalia",
+        "population": 4505090.470588235,
+        "latitude": 51.432469,
+        "longitude": 6.765161,
+        "height": 37.6
+    },
+    {
+        "name": "Großzschocher",
+        "country": "Germany",
+        "province": "Saxony",
+        "population": 4598225.470588235,
+        "latitude": 51.301468,
+        "longitude": 12.323216,
+        "height": 123.7
+    },
+    {
+        "name": "Kleinzschocher",
+        "country": "Germany",
+        "province": "Saxony",
+        "population": 4598225.470588235,
+        "latitude": 51.31568145751953,
+        "longitude": 12.319786071777344,
+        "height": 117.3
+    },
+    {
+        "name": "Djibouti",
+        "country": "Djibouti",
+        "province": "Djibouti",
+        "population": 958920,
+        "latitude": 11.58901471494345,
+        "longitude": 43.14502716064453,
+        "height": 5.2
+    },
+    {
+        "name": "Copenhagen",
+        "country": "Denmark",
+        "province": "Capital Region",
+        "population": 5797446,
+        "latitude": 55.6759389272801,
+        "longitude": 12.5655269622803,
+        "height": 14.5
+    },
+    {
+        "name": "Santo Domingo",
+        "country": "Dominican Republic",
+        "province": "Nacional",
+        "population": 3657929.75,
+        "latitude": 18.47186,
+        "longitude": -69.89232,
+        "height": 25.5
+    },
+    {
+        "name": "Santiago de los Caballeros",
+        "country": "Dominican Republic",
+        "province": "Santiago",
+        "population": 2655988.75,
+        "latitude": 19.451703,
+        "longitude": -70.69703,
+        "height": 196.2
+    },
+    {
+        "name": "Santo Domingo Este",
+        "country": "Dominican Republic",
+        "province": "Santo Domingo",
+        "population": 2155988.75,
+        "latitude": 18.488468,
+        "longitude": -69.857066,
+        "height": 45.5
+    },
+    {
+        "name": "Santo Domingo Oeste",
+        "country": "Dominican Republic",
+        "province": "Santo Domingo",
+        "population": 2157257.75,
+        "latitude": 18.5,
+        "longitude": -70,
+        "height": 58
+    },
+    {
+        "name": "Algiers",
+        "country": "Algeria",
+        "province": "Algiers",
+        "population": 11523650.75,
+        "latitude": 36.73225,
+        "longitude": 3.08746,
+        "height": 113.1
+    },
+    {
+        "name": "Oran",
+        "country": "Algeria",
+        "province": "Oran",
+        "population": 10191971.75,
+        "latitude": 35.69906,
+        "longitude": -0.63588,
+        "height": 118.5
+    },
+    {
+        "name": "Tébessa",
+        "country": "Algeria",
+        "province": "Tébessa",
+        "population": 10180319.75,
+        "latitude": 35.404167,
+        "longitude": 8.124167,
+        "height": 867
+    },
+    {
+        "name": "Boumerdas",
+        "country": "Algeria",
+        "province": "Boumerdes",
+        "population": 10332486.75,
+        "latitude": 36.76639204454785,
+        "longitude": 3.4771728515625,
+        "height": 3
+    },
+    {
+        "name": "Quito",
+        "country": "Ecuador",
+        "province": "Pichincha",
+        "population": 6428992.666666666,
+        "latitude": -0.2298539672002563,
+        "longitude": -78.52495193481445,
+        "height": 2854.9
+    },
+    {
+        "name": "Guayaquil",
+        "country": "Ecuador",
+        "province": "Guayas",
+        "population": 6371016.666666666,
+        "latitude": -2.19616,
+        "longitude": -79.88621,
+        "height": 12.3
+    },
+    {
+        "name": "Cuenca",
+        "country": "Ecuador",
+        "province": "Azuay",
+        "population": 4284347.666666666,
+        "latitude": -2.900545,
+        "longitude": -79.004527,
+        "height": 2544.7
+    },
+    {
+        "name": "Cairo",
+        "country": "Egypt",
+        "province": "Cairo",
+        "population": 15686761.5,
+        "latitude": 30.06263141517916,
+        "longitude": 31.249666213989258,
+        "height": 23.4
+    },
+    {
+        "name": "Giza",
+        "country": "Egypt",
+        "province": "Giza",
+        "population": 10447188.5,
+        "latitude": 30.009444,
+        "longitude": 31.208611,
+        "height": 20
+    },
+    {
+        "name": "Alexandria",
+        "country": "Egypt",
+        "province": "Alexandria",
+        "population": 11343387.5,
+        "latitude": 31.20176,
+        "longitude": 29.91582,
+        "height": 8.1
+    },
+    {
+        "name": "Port Said",
+        "country": "Egypt",
+        "province": "Port Said",
+        "population": 6860360.5,
+        "latitude": 31.26531,
+        "longitude": 32.3019,
+        "height": 12.4
+    },
+    {
+        "name": "Suez",
+        "country": "Egypt",
+        "province": "Suez",
+        "population": 6779386.5,
+        "latitude": 29.973714,
+        "longitude": 32.526267,
+        "height": 13.2
+    },
+    {
+        "name": "Shubrā al Khaymah",
+        "country": "Egypt",
+        "province": "Qalyubia",
+        "population": 7320134.5,
+        "latitude": 30.125114,
+        "longitude": 31.250532,
+        "height": 26
+    },
+    {
+        "name": "Al Mansurah",
+        "country": "Egypt",
+        "province": "Dakahlia",
+        "population": 6701798.5,
+        "latitude": 31.036373,
+        "longitude": 31.380691,
+        "height": -999
+    },
+    {
+        "name": "Tanta",
+        "country": "Egypt",
+        "province": "Gharbia",
+        "population": 6656493.5,
+        "latitude": 30.788471,
+        "longitude": 31.001921,
+        "height": 17.4
+    },
+    {
+        "name": "Al Maḩallah al Kubrá",
+        "country": "Egypt",
+        "province": "Gharbia",
+        "population": 6672418.5,
+        "latitude": 30.970632,
+        "longitude": 31.166902,
+        "height": 15.4
+    },
+    {
+        "name": "Asyut",
+        "country": "Egypt",
+        "province": "Asyut",
+        "population": 6608514.5,
+        "latitude": 27.180956,
+        "longitude": 31.183683,
+        "height": 56.8
+    },
+    {
+        "name": "Al Fayyum",
+        "country": "Egypt",
+        "province": "Faiyum",
+        "population": 6598892.5,
+        "latitude": 29.309949,
+        "longitude": 30.841804,
+        "height": 30.1
+    },
+    {
+        "name": "Madīnat an Naşr",
+        "country": "Egypt",
+        "province": "Cairo",
+        "population": 6748258.5,
+        "latitude": 30.066667,
+        "longitude": 31.3,
+        "height": 46
+    },
+    {
+        "name": "Asmara",
+        "country": "Eritrea",
+        "province": "Maekel",
+        "population": 6209262,
+        "latitude": 15.338046,
+        "longitude": 38.93184,
+        "height": 2333.3
+    },
+    {
+        "name": "Madrid",
+        "country": "Spain",
+        "province": "Madrid",
+        "population": 9775897.833333332,
+        "latitude": 40.4165020941502,
+        "longitude": -3.70256423950195,
+        "height": 665.6
+    },
+    {
+        "name": "Barcelona",
+        "country": "Spain",
+        "province": "Catalonia",
+        "population": 8140296.833333333,
+        "latitude": 41.3887868890716,
+        "longitude": 2.15898513793945,
+        "height": null
+    },
+    {
+        "name": "Zaragoza",
+        "country": "Spain",
+        "province": "Aragon",
+        "population": 7195254.833333333,
+        "latitude": 41.6560643302881,
+        "longitude": -0.877339839935303,
+        "height": 215
+    },
+    {
+        "name": "Valencia",
+        "country": "Spain",
+        "province": "Valencia",
+        "population": 7309697.833333333,
+        "latitude": 39.4697524227712,
+        "longitude": -0.377386808395386,
+        "height": 20.2
+    },
+    {
+        "name": "Seville",
+        "country": "Spain",
+        "province": "Andalusia",
+        "population": 7204187.833333333,
+        "latitude": 37.382826,
+        "longitude": -5.973167,
+        "height": 15.7
+    },
+    {
+        "name": "Málaga",
+        "country": "Spain",
+        "province": "Andalusia",
+        "population": 7098413.833333333,
+        "latitude": 36.7201559059499,
+        "longitude": -4.42034482955933,
+        "height": 25.6
+    },
+    {
+        "name": "Addis Ababa",
+        "country": "Ethiopia",
+        "province": "Addis Ababa",
+        "population": 109224559,
+        "latitude": 9.024966027535847,
+        "longitude": 38.746891021728516,
+        "height": 2405
+    },
+    {
+        "name": "Helsinki",
+        "country": "Finland",
+        "province": "Uusimaa",
+        "population": 5518050,
+        "latitude": 60.1695247444755,
+        "longitude": 24.9354457855225,
+        "height": 26.8
+    },
+    {
+        "name": "Paris",
+        "country": "France",
+        "province": "Île-de-France",
+        "population": 23290215.333333332,
+        "latitude": 48.85341,
+        "longitude": 2.3488,
+        "height": 40.4
+    },
+    {
+        "name": "Marseille",
+        "country": "France",
+        "province": "Provence-Alpes-Côte d'Azur",
+        "population": 22022395.333333332,
+        "latitude": 43.2969485316727,
+        "longitude": 5.38106918334961,
+        "height": 28.1
+    },
+    {
+        "name": "Lyon",
+        "country": "France",
+        "province": "Auvergne-Rhône-Alpes",
+        "population": 21674633.333333332,
+        "latitude": 45.748457,
+        "longitude": 4.846711,
+        "height": 173.2
+    },
+    {
+        "name": "Libreville",
+        "country": "Gabon",
+        "province": "Estuaire",
+        "population": 2119275,
+        "latitude": 0.3924148397890953,
+        "longitude": 9.453563690185547,
+        "height": 6.5
+    },
+    {
+        "name": "London",
+        "country": "United Kingdom",
+        "province": "England",
+        "population": 16578022.285714285,
+        "latitude": 51.5085287758629,
+        "longitude": -0.125741958618164,
+        "height": 20.6
+    },
+    {
+        "name": "Liverpool",
+        "country": "United Kingdom",
+        "province": "England",
+        "population": 8480155.285714285,
+        "latitude": 53.410580680167,
+        "longitude": -2.97793865203857,
+        "height": 30.9
+    },
+    {
+        "name": "Edinburgh",
+        "country": "United Kingdom",
+        "province": "Scotland",
+        "population": 8122553.285714285,
+        "latitude": 55.9520598864937,
+        "longitude": -3.19648118727903,
+        "height": 69.7
+    },
+    {
+        "name": "Birmingham",
+        "country": "United Kingdom",
+        "province": "England",
+        "population": 8760952.285714285,
+        "latitude": 52.481421393171,
+        "longitude": -1.89982911060728,
+        "height": 152.2
+    },
+    {
+        "name": "Leeds",
+        "country": "United Kingdom",
+        "province": "England",
+        "population": 8132331.285714285,
+        "latitude": 53.7964812592701,
+        "longitude": -1.54784917831421,
+        "height": 47.6
+    },
+    {
+        "name": "Glasgow",
+        "country": "United Kingdom",
+        "province": "Scotland",
+        "population": 8242443.285714285,
+        "latitude": 55.8651497187961,
+        "longitude": -4.25763130187988,
+        "height": 43.1
+    },
+    {
+        "name": "Sheffield",
+        "country": "United Kingdom",
+        "province": "England",
+        "population": 8172533.285714285,
+        "latitude": 53.3829700049879,
+        "longitude": -1.465902328491211,
+        "height": 75.6
+    },
+    {
+        "name": "Tbilisi",
+        "country": "Georgia",
+        "province": "T'bilisi",
+        "population": 3731000,
+        "latitude": 41.694113,
+        "longitude": 44.833682,
+        "height": 491.3
+    },
+    {
+        "name": "Accra",
+        "country": "Ghana",
+        "province": "Greater Accra",
+        "population": 15130881.5,
+        "latitude": 5.55602,
+        "longitude": -0.1969,
+        "height": 34
+    },
+    {
+        "name": "Kumasi",
+        "country": "Ghana",
+        "province": "Ashanti",
+        "population": 14636226.5,
+        "latitude": 6.688477173722685,
+        "longitude": -1.6244316101074219,
+        "height": 271.1
+    },
+    {
+        "name": "Conakry",
+        "country": "Guinea",
+        "province": "Conakry",
+        "population": 6155138,
+        "latitude": 9.537949753673535,
+        "longitude": -13.677291870117188,
+        "height": null
+    },
+    {
+        "name": "Camayenne",
+        "country": "Guinea",
+        "province": "Conakry",
+        "population": 6259180,
+        "latitude": 9.535,
+        "longitude": -13.6877778,
+        "height": 5
+    },
+    {
+        "name": "Athens",
+        "country": "Greece",
+        "province": "Attica",
+        "population": 10727668,
+        "latitude": 37.98376,
+        "longitude": 23.72784,
+        "height": 82.6
+    },
+    {
+        "name": "Guatemala City",
+        "country": "Guatemala",
+        "province": "Guatemala",
+        "population": 8812174,
+        "latitude": 14.640724984903278,
+        "longitude": -90.51326751708984,
+        "height": 1509.7
+    },
+    {
+        "name": "Villa Nueva",
+        "country": "Guatemala",
+        "province": "Guatemala",
+        "population": 8435633,
+        "latitude": 14.525125,
+        "longitude": -90.585437,
+        "height": 1330.6
+    },
+    {
+        "name": "Hong Kong",
+        "country": "Hong Kong",
+        "province": "Central and Western",
+        "population": 7482500,
+        "latitude": 22.27832,
+        "longitude": 114.17469,
+        "height": 60.1
+    },
+    {
+        "name": "Kowloon",
+        "country": "Hong Kong",
+        "province": "Kowloon City",
+        "population": 2303100,
+        "latitude": 22.3166667,
+        "longitude": 114.1833333,
+        "height": 89.7
+    },
+    {
+        "name": "Tuen Mun",
+        "country": "Hong Kong",
+        "province": "Tuen Mun",
+        "population": 507900,
+        "latitude": 22.391745589405073,
+        "longitude": 113.97156715393066,
+        "height": 16.5
+    },
+    {
+        "name": "Victoria",
+        "country": "Hong Kong",
+        "province": "Central and Western",
+        "population": 956800,
+        "latitude": 22.2875,
+        "longitude": 114.144167,
+        "height": 32
+    },
+    {
+        "name": "Tegucigalpa",
+        "country": "Honduras",
+        "province": "Francisco Morazán Department",
+        "population": 4818555.5,
+        "latitude": 14.081802794070974,
+        "longitude": -87.20681190490723,
+        "height": 945.4
+    },
+    {
+        "name": "San Pedro Sula",
+        "country": "Honduras",
+        "province": "Cortés Department",
+        "population": 4768966.5,
+        "latitude": 15.504167,
+        "longitude": -88.025,
+        "height": 92
+    },
+    {
+        "name": "Zagreb",
+        "country": "Croatia",
+        "province": "City of Zagreb",
+        "population": 3871833,
+        "latitude": 45.8144436673781,
+        "longitude": 15.9779834747314,
+        "height": 134.3
+    },
+    {
+        "name": "Port-au-Prince",
+        "country": "Haiti",
+        "province": "Ouest",
+        "population": 11123176,
+        "latitude": 18.54349,
+        "longitude": -72.33881,
+        "height": 25.7
+    },
+    {
+        "name": "Budapest",
+        "country": "Hungary",
+        "province": "Budapest",
+        "population": 9768785,
+        "latitude": 47.49835,
+        "longitude": 19.04045,
+        "height": 106.6
+    },
+    {
+        "name": "Jakarta",
+        "country": "Indonesia",
+        "province": "Jakarta",
+        "population": 16559955.07142857,
+        "latitude": -6.214623197035775,
+        "longitude": 106.84513092041016,
+        "height": null
+    },
+    {
+        "name": "Medan",
+        "country": "Indonesia",
+        "province": "North Sumatra",
+        "population": 10455086.07142857,
+        "latitude": 3.5833333,
+        "longitude": 98.6666667,
+        "height": null
+    },
+    {
+        "name": "Surabaya",
+        "country": "Indonesia",
+        "province": "East Java",
+        "population": 10894148.07142857,
+        "latitude": -7.2491667,
+        "longitude": 112.7508333,
+        "height": null
+    },
+    {
+        "name": "Semarang",
+        "country": "Indonesia",
+        "province": "Central Java",
+        "population": 9673358.07142857,
+        "latitude": -6.993056,
+        "longitude": 110.420833,
+        "height": null
+    },
+    {
+        "name": "Samarinda",
+        "country": "Indonesia",
+        "province": "East Kalimantan",
+        "population": 8851294.07142857,
+        "latitude": -0.491667,
+        "longitude": 117.145833,
+        "height": null
+    },
+    {
+        "name": "Pekanbaru",
+        "country": "Indonesia",
+        "province": "Riau",
+        "population": 9104834.07142857,
+        "latitude": 0.516667,
+        "longitude": 101.441667,
+        "height": null
+    },
+    {
+        "name": "Palembang",
+        "country": "Indonesia",
+        "province": "South Sumatra",
+        "population": 9688682.07142857,
+        "latitude": -2.91672533277337,
+        "longitude": 104.745798110962,
+        "height": null
+    },
+    {
+        "name": "Padang",
+        "country": "Indonesia",
+        "province": "West Sumatra",
+        "population": 8928874.07142857,
+        "latitude": -0.949243986848526,
+        "longitude": 100.354270935059,
+        "height": null
+    },
+    {
+        "name": "Bandung",
+        "country": "Indonesia",
+        "province": "West Java",
+        "population": 10463994.07142857,
+        "latitude": -6.922222,
+        "longitude": 107.606944,
+        "height": null
+    },
+    {
+        "name": "Makassar",
+        "country": "Indonesia",
+        "province": "South Sulawesi",
+        "population": 9443711.07142857,
+        "latitude": -5.148611,
+        "longitude": 119.431944,
+        "height": null
+    },
+    {
+        "name": "Bandar Lampung",
+        "country": "Indonesia",
+        "province": "Lampung",
+        "population": 9185900.07142857,
+        "latitude": -5.429167,
+        "longitude": 105.261111,
+        "height": null
+    },
+    {
+        "name": "Denpasar",
+        "country": "Indonesia",
+        "province": "Bali",
+        "population": 8745148.07142857,
+        "latitude": -8.65,
+        "longitude": 115.2166667,
+        "height": null
+    },
+    {
+        "name": "Batam",
+        "country": "Indonesia",
+        "province": "Riau",
+        "population": 9184186.07142857,
+        "latitude": 1.14937,
+        "longitude": 104.02491,
+        "height": null
+    },
+    {
+        "name": "Surakarta",
+        "country": "Indonesia",
+        "province": "Central Java",
+        "population": 8542198.07142857,
+        "latitude": -7.5561111,
+        "longitude": 110.8316667,
+        "height": null
+    },
+    {
+        "name": "Serang",
+        "country": "Indonesia",
+        "province": "Banten",
+        "population": 8711935.07142857,
+        "latitude": -6.115278,
+        "longitude": 106.154167,
+        "height": null
+    },
+    {
+        "name": "Pontianak",
+        "country": "Indonesia",
+        "province": "West Kalimantan",
+        "population": 8678519.07142857,
+        "latitude": -0.031944,
+        "longitude": 109.325,
+        "height": null
+    },
+    {
+        "name": "Malang",
+        "country": "Indonesia",
+        "province": "East Java",
+        "population": 8863644.07142857,
+        "latitude": -7.9797,
+        "longitude": 112.6304,
+        "height": null
+    },
+    {
+        "name": "Bogor",
+        "country": "Indonesia",
+        "province": "West Java",
+        "population": 9119256.07142857,
+        "latitude": -6.594444,
+        "longitude": 106.789167,
+        "height": null
+    },
+    {
+        "name": "Bekasi",
+        "country": "Indonesia",
+        "province": "West Java",
+        "population": 10584774.07142857,
+        "latitude": -6.2349,
+        "longitude": 106.9896,
+        "height": null
+    },
+    {
+        "name": "Banjarmasin",
+        "country": "Indonesia",
+        "province": "South Kalimantan",
+        "population": 8677497.07142857,
+        "latitude": -3.3198742447771625,
+        "longitude": 114.59074974060059,
+        "height": null
+    },
+    {
+        "name": "Tangerang",
+        "country": "Indonesia",
+        "province": "Banten",
+        "population": 9931748.07142857,
+        "latitude": -6.1780556,
+        "longitude": 106.63,
+        "height": null
+    },
+    {
+        "name": "Jambi City",
+        "country": "Indonesia",
+        "province": "Jambi",
+        "population": 8626034.07142857,
+        "latitude": -1.6,
+        "longitude": 103.6166667,
+        "height": null
+    },
+    {
+        "name": "Depok",
+        "country": "Indonesia",
+        "province": "West Java",
+        "population": 10076234.07142857,
+        "latitude": -6.4,
+        "longitude": 106.8186111,
+        "height": null
+    },
+    {
+        "name": "Jepara",
+        "country": "Indonesia",
+        "province": "Central Java",
+        "population": 9277746.07142857,
+        "latitude": -6.5924,
+        "longitude": 110.671,
+        "height": null
+    },
+    {
+        "name": "Balikpapan",
+        "country": "Indonesia",
+        "province": "East Kalimantan",
+        "population": 8715121.07142857,
+        "latitude": -1.2675300355235406,
+        "longitude": 116.82887077331543,
+        "height": null
+    },
+    {
+        "name": "Cimahi",
+        "country": "Indonesia",
+        "province": "West Java",
+        "population": 8588234.07142857,
+        "latitude": -6.8722222,
+        "longitude": 107.5425,
+        "height": null
+    },
+    {
+        "name": "South Tangerang",
+        "country": "Indonesia",
+        "province": "Banten",
+        "population": 9385522.07142857,
+        "latitude": -6.288617200809452,
+        "longitude": 106.71788692474365,
+        "height": null
+    },
+    {
+        "name": "Situbondo",
+        "country": "Indonesia",
+        "province": "East Java",
+        "population": 8705801.07142857,
+        "latitude": -7.70622857312967,
+        "longitude": 114.009761810303,
+        "height": null
+    },
+    {
+        "name": "Dublin",
+        "country": "Ireland",
+        "province": "Leinster",
+        "population": 4853506,
+        "latitude": 53.333056,
+        "longitude": -6.248889,
+        "height": null
+    },
+    {
+        "name": "Jerusalem",
+        "country": "Israel",
+        "province": "Jerusalem",
+        "population": 8883800,
+        "latitude": 31.76904009837115,
+        "longitude": 35.216331481933594,
+        "height": null
     }
 ]

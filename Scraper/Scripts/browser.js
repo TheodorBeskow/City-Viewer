@@ -6,6 +6,7 @@ async function startBrowser() {
   try {
     console.log("Opening the browser......");
     browser = await puppeteer.launch({
+      // settings for browser
       headless: false,
       args: [
         "--disable-setuid-sandbox",

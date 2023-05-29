@@ -32,7 +32,7 @@ def addCoordinates(countryCode):
     # Adding all the coordinates of the cities to XList and YList
     for city in cities:
         BiggestCity = max(BiggestCity, city["population"])
-        if city["population"] < 100000: continue
+        if city["population"] < 500000: continue
         SizeList.append(city["population"]+100)
         XList.append(city["longitude"])
         YList.append(city["latitude"])
@@ -54,6 +54,7 @@ else: addCoordinates(cc)
 if cc[1:] == "OC": XList = [xpos if xpos>0 else xpos+360 for xpos in XList]
 SizeList = [siz * 25 / BiggestCity for siz in SizeList]
 
+print(len(XList))
 # Showing UI
 plt.close("all")
 plt.scatter(XList, YList, s=SizeList)

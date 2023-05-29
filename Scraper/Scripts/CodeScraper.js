@@ -10,7 +10,7 @@ const scraperObject = {
     // Wait for the required DOM to be rendered
     const list = [];
 
-    
+    // loop through every country
     for(let index = 1; ;index++){
       try{
         var elementCC = await page.waitForXPath('//*[@id="countries"]/tbody/tr['+ index.toString() +']/td[1]', {timeout: 3000});
@@ -28,19 +28,22 @@ const scraperObject = {
             "CountryContinent" : elementContinent.textContent
           };
         }, elementCC, elementName, elementArea, elementPopulation, elementContinent);  
+
+        // cleaning some stuff up
         countryData["CountryArea"] = countryData["CountryArea"].replace(/,/g, "");
         countryData["CountryPopulation"] = countryData["CountryPopulation"].replace(/,/g, "");
         countryData["CountryArea"] = parseFloat(countryData["CountryArea"]);
         countryData["CountryPopulation"] = parseInt(countryData["CountryPopulation"]);
-        // console.log(countryData);
-        list.push(countryData);
 
+        // add country to list
+        list.push(countryData);
       }catch{
+        // if there are no counties left
         break;
       }
     }
 
-
+    // save the data to json file
     fs.writeFile(
       `${sortiment.split(" ").join("-")}.json`,
       JSON.stringify(list),
