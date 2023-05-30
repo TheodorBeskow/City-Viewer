@@ -8,9 +8,6 @@ public class FindHeight : MonoBehaviour {
     [SerializeField] private Texture2D heightmap;
     [SerializeField] private Vector3 size;
 
-    private void Start() {
-        Debug.Log(heightmap.width);
-    }
     private void Update() {
         //Debug.Log(GetHeight(transform.position));
     }
