@@ -1,5 +1,6 @@
 # City-Viewer
 
+This is a project that can visualize the rising of water level, in addition the program can calculate the amount of people displaced as a cause of the water rise. The project also saves data of a lot of cities that can visualized by scripts in the project. 
 
 
 # License
@@ -43,8 +44,12 @@ cd ..
 ```
 
 
-# Manual
+# Scrape data
 
+## Quick note
+The scraped data is already present in the project, so you will probably not need to do the following.
+
+## Instructions
 
 To scrape all the cities from a country enter the following command in the root of the project:
 ```sh
@@ -53,8 +58,12 @@ node ./Scraper/Scripts/index.js
 If needed the Countries will be scraped scraped.
 
 
-You will now be prompted to enter a country code or leave the input empty. If you do not know a certain country's country code you can look for it in the newly created CountryCodes.json file. Once you are happy with your decision press enter. You can now wait until the program is done scraping that country. During this this time you can easily monitor the program with the self explanatory frequent logs to the console.
+You will now be prompted to enter a country code or leave the input empty. If you do not know a certain country's country code you can look for it in the newly created CountryCodes.json file. Once you are happy with your decision press enter. You can now wait until the program is done scraping that country. During this this time you can easily monitor the program with the self explanatory frequent logs to the console. 
 
+Once you have scraped all cities you will be informed that you are done. You now need to run the following command in order to be able to start the unity water level simulation. 
+```sh
+node ./Scraper/Scripts/heightIndex.js
+```
 
 
 # Visualize
@@ -104,9 +113,10 @@ This project uses this height map to get the height of the world in different lo
 ![height map](images/HeightMapDemo.PNG)
 
 
-Showcase of the unity simulation. By using the scroller I am changing the water level. The simulation also displays the amount of people displaced as a cause of the water rise.
-![simulation gif](images/SimulationGif.gif)
+Showcase of the unity simulation. By using the scrollbar I am changing the water level. The simulation also displays the amount of people displaced as a cause of the water rise. To calculate people displaced I used the scraped cities in combination with the height map. 
 
+<!-- ![simulation gif](images/SimulationGif.gif) -->
+<img src="images/SimulationGif.gif" alt="Simulation gif"  height="512">
 
 
 
@@ -114,25 +124,29 @@ Showcase of the unity simulation. By using the scroller I am changing the water 
 
 
 
-
-The data should already be added to the unity project but if not, you will have to manually copy  the **Countries** folder in to the **Assets** folder in unity.
-To start the simulation you can just press play and use the scrollbar to change the water level.
-
+<!-- The data should already be added to the unity project but if not, you will have to manually copy  the **Countries** folder in to the **Assets** folder in unity.
+To start the simulation you can just press play and use the scrollbar to change the water level. -->
 
 
 
-## Problems
+
+# Problems
+
+
+
 Magsha bahrain and AS: American Samoa and Saudi Arabia
 country https://www.geonames.org/advanced-search.html?q=&country=AU&featureClass=P&startRow=0
 county https://www.geonames.org/advanced-search.html?q=&country=BS&featureClass=P&startRow=300
 
 
+## Height data
+
+To get the elevation of different coordinates I used a image from [this](https://visibleearth.nasa.gov/images/73934/topography) website. The problem with the image is that it only can contain a range of heights from 0 to 255 since it is a image. To fix this issue I have writen 3 different scripts to scrape 3 different websites with no sucess. The [first site](https://www.advancedconverter.com/map-tools/find-altitude-by-coordinates) had some measures to stop scraping by stop responding to queries after about 15 queries. The [second website](https://www.dcode.fr/earth-elevation) had similar measures and temporarely blocked me after just a few queries. The [third](https://www.advancedconverter.com/map-tools/find-altitude-by-coordinates) and final website did not have such meassures but I realized far to late that the site could not handel a latitude less than -8. The **heightScraper.js** currently contains the code to scrape this website but to be able to send the data to Unity without scraping the elevation I added some code to ignore scraping. Instead I use the height map in Unity to get the elevation of cities.  
 
 
 
 
-## Credits
-
+# Credits
 
 The height map is downloaded from [this](https://visibleearth.nasa.gov/images/73934/topography) site.
 
