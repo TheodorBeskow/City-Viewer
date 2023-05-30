@@ -5,7 +5,7 @@ const sleep = ms => new Promise(r => setTimeout(r, ms*1000))
 var page;
 const cityList = [];
 // const MIN_POPULATION = 10000000;
-const MIN_POPULATION = 500000;
+const MIN_POPULATION = 50000;
 var amount = 0, countryIndex = 0;
 
 async function processCountry(name, toSave){
@@ -24,6 +24,19 @@ async function processCountry(name, toSave){
   // return;
   for(let city = 0; city < country.length; city++){
     if(country[city]["population"] < MIN_POPULATION) continue;
+
+    // comment to scrape heights
+    cityList.push({
+      "name": country[city]["name"],
+      "country": country[city]["country"],
+      "province": country[city]["province"],
+      "population": Math.round(country[city]["population"]+restPopulation/citiesInCountry),
+      "latitude": country[city]["latitude"],
+      "longitude": country[city]["longitude"],
+      "height": 0
+    })
+    continue;
+    // end of want you should comment
     
     console.log(country[city]["name"]);
     console.log(country[city]["latitude"]);

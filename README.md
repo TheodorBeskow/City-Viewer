@@ -19,7 +19,7 @@ Run the following command to clone the project:
 git clone https://github.com/TheodorBeskow/City-Viewer
 ```
 
-Navigate into the project directory:
+Then navigate into the project directory with this:
 ```sh
 cd ./City-Viewer
 ```
@@ -85,14 +85,15 @@ Plotting 110245 cities
 
 ## Water height Simulation
 
-This project uses this height map.
+This project uses this height map to get the height of the world in diffrent locations.
 ![height map](images/HeightMapDemo.PNG)
 
 
 <!-- https://github.com/Jorl17/open-elevation/blob/master/docs/host-your-own.md -->
 
 
-The data should already be added to the unity project but if not you will have to manually copy  the **Countries** folder to the **Assets** folder in unity. To start the simulation you can just press play and use the scroller to change the water level.
+The data should already be added to the unity project but if not, you will have to manually copy  the **Countries** folder in to the **Assets** folder in unity. 
+To start the simulation you can just press play and use the scroller to change the water level.
 
 
 ## Problems
