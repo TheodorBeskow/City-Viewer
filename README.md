@@ -154,6 +154,7 @@ Plotting 110245 cities
 
 
 
+Open the **CityViewUnity** folder in unity and launch it in Unity. Double click the **Scenes** folder and then again double click the **SampleScene**. Change the aspect ratio of the game view to 1920x1080. You can now just press play to start the simulation.
 
 This project uses this height map to get the height of the world in different locations.
 ![height map](images/HeightMapDemo.PNG)
