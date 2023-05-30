@@ -1,5 +1,5 @@
 const puppeteer = require("puppeteer");
-const EXT = '../../../../../../Scraper\\EXT' // Probably vary bad solution
+const EXT = '../../../../../../Scraper\\EXT' // Probably very bad solution
 
 async function startBrowser() {
   let browser;
@@ -7,7 +7,7 @@ async function startBrowser() {
     console.log("Opening the browser......");
     browser = await puppeteer.launch({
       // settings for browser
-      headless: false,
+      headless: true,
       args: [
         "--disable-setuid-sandbox",
         `--disable-extensions-except=${EXT}`,
