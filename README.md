@@ -198,7 +198,7 @@ To start the simulation you can just press play and use the scrollbar to change 
 ## City Scraping
 
 
-The website I scraped from had some problems that I tried to fix optimally. Some Countries like **American Samoa** and **Saudi Arabia** were displayed in the same place. Look [here](https://www.geonames.org/advanced-search.html?q=&country=AU&featureClass=P&startRow=0) for an example. I solved this by only scraping the correct country i.e. the country I filtered for. Another problem I encountered was that some cities were assigned to multiple countries/territories. In this case I only assigned the city to the alphabetically first country. An example is [here](https://www.geonames.org/advanced-search.html?q=&country=AX&featureClass=P&startRow=0) where some cities were assigned to **Finland** and **Åland**.
+The website I scraped from had some problems that I tried to fix optimally. Some Countries like **American Samoa** and **Saudi Arabia** were displayed in the same place. Look [here](https://www.geonames.org/advanced-search.html?q=&country=AS&featureClass=P&startRow=0) for an example. I solved this by only scraping the correct country i.e. the country I filtered for. Another problem I encountered was that some cities were assigned to multiple countries/territories. In this case I only assigned the city to the alphabetically first country. An example is [here](https://www.geonames.org/advanced-search.html?q=&country=AX&featureClass=P&startRow=0) where some cities were assigned to **Finland** and **Åland**.
 
 
 
